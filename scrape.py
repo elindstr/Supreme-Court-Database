@@ -13,8 +13,8 @@ if not os.path.exists(save_directory):
     os.makedirs(save_directory)
 
 #hard code volume search parameters
-volume_start=3  #volume 1 & most of 2 are Pennsylvania, see https://en.wikipedia.org/wiki/United_States_Reports,_volume_1
-vol_end=600       
+volume_start=601  #volume 1 & most of 2 are Pennsylvania, see https://en.wikipedia.org/wiki/United_States_Reports,_volume_1
+vol_end=600      
 
 #locate max volume available online
 url = "https://supreme.justia.com/cases/federal/us/volume/"
@@ -42,7 +42,15 @@ for vol in range (volume_start, vol_end+1):
     for i in range (len(soup_links_href)):
         url = 'https://supreme.justia.com/' + soup_links_href[i][1:]
 
-        if url == "https://supreme.justia.com/cases/federal/us/585/141-orig/": #Justia error
+        #in volume 2, skip the non-supreme court decisions in the beginning of volume:
+        if (vol == 2): 
+            test_page = soup_links_href[i][-4:-1].replace("/", "")
+            print(test_page)
+            if int(test_page) < 399: #first supreme court decision number is at page 399
+                continue    
+            
+        #skip 1 page with no content on Justia
+        if url == "https://supreme.justia.com/cases/federal/us/585/141-orig/": 
             continue
 
         print(url)
@@ -98,6 +106,39 @@ for vol in range (volume_start, vol_end+1):
                 f.write("::opinion_author:: " + opinion_author + "\n")
                 f.write("::opinion_type:: " + opinion_type + "\n")
                 f.write("::opinion:: " + opinion)
+
+#Download U.S Reports Vol. 2 Sup Ct decisions from WikiSource because these decisions are missing from the Vol 2 Justia database:
+base_wikisource_url = "https://en.wikisource.org/wiki/"
+missing = [
+    "Appointment of Justices", "2 U.S. (2 Dallas) 400 (1790) Appointment of Justices",
+    "Appointment of Iredell", "2 U.S. (2 Dallas) 401 (1790) Appointment of Iredell",
+    "West v. Barnes (2 U.S. 401)", "2 U.S. (2 Dallas) 401 (1791) West v. Barnes",
+    "Vanstophorst v. Maryland (2 U.S. 401)", "2 U.S. (2 Dallas) 401 (1791) Vanstophorst v. Maryland",
+    "Appointment of Johnson", "2 U.S. (2 Dallas) 402 (1792) Appointment of Johnson",
+    "Oswald v. New York (2 U.S. 402)", "2 U.S. (2 Dallas) 402 (1792) Oswald v. New York",
+    "Rule (2 U.S. 411)", "2 U.S. (2 Dallas) 411 (1792) Rule",
+    "Oswald v. New York (2 U.S. 415)", "2 U.S. (2 Dallas) 415 (1793) Oswald v. New York"
+]
+for i in range (0, len(missing), 2):
+    url = base_wikisource_url + missing[i]
+    req = session.get(url)
+    soup_page = bs4.BeautifulSoup(req.text, 'lxml')
+    opinion_div = soup_page.find("div", { "class" : "prp-pages-output" })     #opinion section
+    opinion = opinion_div.text
+    decision_cite = "2 U.S. __"
+    decision_year = "17xx"
+    decision_name = missing[i+1]
+    opinion_type = ""
+    opinion_author = ""
+    txt_file_name = decision_name + opinion_type + opinion_author
+    print(txt_file_name)
+    with io.open('data/%s.txt' % txt_file_name, 'w', encoding='utf-8') as f:
+        f.write("::decision_cite:: " + decision_cite + "\n")
+        f.write("::decision_name:: " + decision_name + "\n")
+        f.write("::decision_year:: " + decision_year + "\n")
+        f.write("::opinion_author:: " + opinion_author + "\n")
+        f.write("::opinion_type:: " + opinion_type + "\n")
+        f.write("::opinion:: " + opinion)
 
 #timestamp
 print("")

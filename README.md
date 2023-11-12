@@ -1,39 +1,43 @@
 # Supreme-Court-Database
-A complete database of all decisions by the United States Supreme Court.
+A script to download all decisions by the United States Supreme Court.
 
 ## Code Description
 
-"01_scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports) as hosted on [Justia.com](https://supreme.justia.com/cases/federal/us/volume/).
+"scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports). Decisions are scraped from [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/).
 
-output file size: ~836 MB
-runtime: ~4.5 hours
+Statistics:
+*output files: 33,627
+*output file size: ~835 MB
+*runtime: ~4.5 hours
 
 ## Database Information
+ 
+The [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports) is the official reporter of Supreme Court decisions. Congress created U.S. Reports in 1874, but the publication retroactively published 90 volumes of cases back to the Court's first orders in 1790.
 
-The [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports) has been the official reporter of Supreme Court decisions since 1874. Decisions before 1874 were republished as U.S. Reports volumes 1 through 90. Decisions issued in 2023 are expected to be published in volume 600, although the pagination of recent volumes take several years to finalize.  
+Decisions before 1874 were reported in volumes by a series of quasi-official private publishers. The first Supreme Court decisions were included in "Dallas Reports," a publication that predated the Supreme Court and included the Court's decisions among decisions from other courts. Beginning in 1801, Supreme Court decisions were published in stand-alone volumes. In 1874, U.S. Reports adopted the volume numbering and organization of the previous publishers, included entirety of the Dallas Reports along with its decisions from other courts. Indeed, the first Supreme Court decision, <i>West v. Barnes</i> (1791), doesn't appear until near the end of U.S Reports (Dallas Reports) volume 2.
 
-Before 1874, Supreme Court decisions were reported in a series of publications named for private publishers. The first publication, "Dallas Reports," actually predates the Supreme Court itself. "Dallas Reports" consists of four volumes spanning decision from 1754 to 1800, including decisions by the Supreme Court <i>and other courts</i>. Indeed, Dallas Reports volume 1 contains entirely cases predating the Supreme Court; the first Supreme Court decision, <i>West v. Barnes</i> (1791), doesn't appear until near the end of Dallas Report volume 2. Nevertheless, when the U.S. Reports was retroactively numbered in 1874, Dallas Reports volumes 1 through 4 were republished as U.S. Reports volumes 1 through 4.
+Modernly, U.S. Reports publishes decisions from each term in volumes that are around 1,000 pages. The final pagination for the volumes is not established for several years, during which changes in pagination and to the decisions themselves is still possible.<sup>[Note](https://www.nytimes.com/2014/05/25/us/final-word-on-us-law-isnt-supreme-court-keeps-editing.html)</sup> Thus, while citation to the U.S. Reports volume and page number is the standard citation in legal writing, very recent decisions do not yet have a firm page number, and must be cited in other ways.    
 
-"01_scrape.py" crawls through the U.S Reports as hosted by Justia iteratively by volume. Data.zip consists of U.S Reports volumes 3 through 600. I manually added the Supreme Court decision published at the end of U.S. Reports volume 2. I did not remove non-Supreme Court decisions included in volumes 3 and 4.
+"scrape.py" crawls U.S Reports, iteratively by volume beginning with the first Supreme Decisions near the end of volume 2, scraping each decision as hosted by [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/). Other than beginning at the end of volume 2, "scrape.py" makes no effort to remove the non-Supreme Court decisions in volumes 3 and 4.
 
-Decisions are saved as [UTF-8](https://en.wikipedia.org/wiki/UTF-8) text files. Files are scraped as printed by U.S. Reports according to Justia, and in addition "01_scrape.py" writes 6 lines of metadata to the beginning of each file, populated where such information is available, e.g.:
+Decisions are saved as [UTF-8](https://en.wikipedia.org/wiki/UTF-8) text files. "scrape.py" writes 6 lines of metadata to the beginning of each file, populated where such information is available, e.g.:
 
     ::decision_cite:: 539 U.S. 558 (2003)
-    ::decision_name::  Lawrence v. Texas
+    ::decision_name:: Lawrence v. Texas
     ::decision_year:: 2003
     ::opinion_author:: 
     ::opinion_type:: 
     ::opinion:: 
 
-"01_scrape.py" titles most text files as '[citation] + [decision_name] + [opinion_type] (when available) + [opinion_author] (when available)'. Recently, Justia's database includes different pages for decisions with multiple opinions by different justices, so the opinion_type and opinion_author are included to prevent file over-writing. Older decision in Justia's database included concurrences and dissents on the same page. "01_scrape.py" makes no attempt to merge or separate multi-opinion decisions different that as hosted by Justia. 
+Some Supreme Court decisions consist of one majority opinion, written either by the Court as a whole (<i>per curiam</i>) or by a single justice. Other decisions have multiple opinions, with one or more justice writing separately in concurrence or dissent. Justia publishes historic decisions with all opinions consecutively on the same page. "scrape.py" scrapes these pages into one file. Modernly, Justia has begun separating decisions with multiple opinions into separate webpages (or hidden divs). "scrape.py" scrapes these opinions into different files.
 
-Because very recent volumes of U.S. Reports do not have finalized pagination (since volume 575), citations in the file names refer to Supreme Court [Docket Number](http://scdb.wustl.edu/documentation.php?var=docket).
+"scrape.py" titles most text files as '[citation] + [decision_name] + [opinion_type] (when available) + [opinion_author] (when available)'. Because very recent volumes of U.S. Reports do not have finalized pagination (since volume 575), citations in the file names refer to Supreme Court [Docket Number](http://scdb.wustl.edu/documentation.php?var=docket).
 
 I have documented a few issues with the Justia database:
 
-1. Justia's U.S. Reports volume 2 directory appears incomplete. So I supplemented apparently missing Justia data with decisions hosted on [Wikisource](https://en.wikisource.org/wiki/United_States_Reports/Volume_2).
+1. Justia's U.S. Reports volume 2 directory is incomplete, so "scrape.py" supplements the missing decisions from [Wikisource](https://en.wikisource.org/wiki/United_States_Reports/Volume_2).
 
-2. There is one Justia case page with no opinion content: https://supreme.justia.com/cases/federal/us/585/141-orig/; although this decision is an unusual report by a special master. I located this decision in another database (https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and included those decisions in mine.
+2. There is one Justia case page with no opinion content (https://supreme.justia.com/cases/federal/us/585/141-orig/), although this decision is an unusual report by a special master. 
 
 3. At least one Justia case has no U.S Reports metadata: Republican National Committee v. Democratic National Committee (2020): https://supreme.justia.com/cases/federal/us/589/19a1016/. 
 
