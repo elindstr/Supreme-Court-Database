@@ -3,12 +3,12 @@ A script to download all decisions by the United States Supreme Court.
 
 ## Code Description
 
-"scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports). Decisions are scraped from [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/).
+"scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports). Decisions are scraped from [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/).<sup>See copyright note below.</sup>
 
 Statistics:
-*output files: 33,627
-*output file size: ~835 MB
-*runtime: ~4.5 hours
+* output files: 33,627
+* output file size: ~835 MB
+* runtime: ~4.5 hours
 
 ## Database Information
  
