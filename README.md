@@ -5,6 +5,9 @@ A complete database of all decisions by the United States Supreme Court.
 
 "01_scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports) as hosted on [Justia.com](https://supreme.justia.com/cases/federal/us/volume/).
 
+output file size: ~836 MB
+runtime: ~4.5 hours
+
 ## Database Information
 
 The [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports) has been the official reporter of Supreme Court decisions since 1874. Decisions before 1874 were republished as U.S. Reports volumes 1 through 90. Decisions issued in 2023 are expected to be published in volume 600, although the pagination of recent volumes take several years to finalize.  
