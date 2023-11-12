@@ -26,7 +26,7 @@ Decisions are saved as [UTF-8](https://en.wikipedia.org/wiki/UTF-8) text files. 
 
 Because very recent volumes of U.S. Reports do not have finalized pagination (since volume 575), citations in the file names refer to Supreme Court [Docket Number](http://scdb.wustl.edu/documentation.php?var=docket).
 
-I have documented some issues with the Justia database.
+I have documented a few issues with the Justia database:
 
 1. Justia's U.S. Reports volume 2 directory appears incomplete. So I supplemented apparently missing Justia data with decisions hosted on [Wikisource](https://en.wikisource.org/wiki/United_States_Reports/Volume_2).
 
