@@ -1,0 +1,70 @@
+::SCDB_caseID:: 2015-041
+::decision_cite:: 14-1513
+::decision_name::  Halo Elecs., Inc. v. Pulse Elecs., Inc.
+::decision_year:: 2016
+::opinion_author:: Breyer
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 14–1513 and 14–1520
+
+															_________________
+
+															HALO ELECTRONICS, INC., PETITIONER
+
+															14–1513v.
+
+															PULSE ELECTRONICS, INC., et al.
+
+															
+
+															STRYKER CORPORATION, et al., PETITIONERS
+
+															14–1520v.
+
+															ZIMMER, INC., et al.
+
+															on writs of certiorari to the united states court of appeals for the federal circuit
+
+															[June 13, 2016]
+
+															
+
+															Justice Breyer, with whom Justice Kennedy and Justice Alito join, concurring.
+
+															I agree with the Court that In re Seagate Technology, LLC, 497 F. 3d 1360 (CA Fed. 2007) (en banc), takes too mechanical an approach to the award of enhanced dam-ages.  But, as the Court notes, the relevant statutory provision,
+
+35 U. S. C. §284, nonetheless imposes limits that help produce uniformity in its application and maintain its consistency with the basic objectives of patent law.  See U. S. Const., Art. I, §8, cl. 8 (“To promote the Progress of Science and useful Arts”).  I write separately to express my own understanding of several of those limits.
+
+															First, the Court’s references to “willful misconduct” do not mean that a court may award enhanced damages simply because the evidence shows that the infringer knew about the patent and nothing more.  Ante, at 11.  “ ‘[W]illfu[l]’ is a ‘word of many meanings whose construction is often dependent on the context in which it appears.’ ”  Safeco Ins. Co. of America v. Burr,
+
+551 U. S. 47
+, 57 (2007).  Here, the Court’s opinion, read as a whole and in context, explains that “enhanced damages are generally appropriate . . . only in egregious cases.”  Ante, at 8–9 (emphasis added); ante, at 11 (Enhanced damages “should generally be reserved for egregious cases typified by willful misconduct” (emphasis added)).  They amount to a “ ‘punitive’ ” sanction for engaging in conduct that is either “deliberate” or “wanton.”  Ante, at 8; compare Aro Mfg. Co. v. Convertible Top Replacement Co.,
+
+377 U. S. 476,
+508 (1964)
+ (“bad-faith infringement”), and Seymour v. McCormick, 16 How. 480, 488 (1854) (“malicious pirate”), with ante, at 10–11, and n. 1 (“objective recklessness”).  The Court refers, by way of example, to a “ ‘wanton and malicious pirate’ who intentionally infringes another’s pat-ent—with no doubts about its validity or any notion of a defense—for no purpose other than to steal the patentee’s business.”  Ante, at 9.  And while the Court explains that “intentional or knowing” infringement “may” warrant a punitive sanction, the word it uses is may, not must.  Ante, at 10.  It is “circumstanc[e]” that transforms simple knowledge into such egregious behavior, and that makes all the difference.  Ante, at 11.
+
+															Second, the Court writes against a statutory background specifying that the “failure of an infringer to obtain the advice of counsel . . . may not be used to prove that the accused infringer wilfully infringed.”  §298.  The Court does not weaken this rule through its interpretation of §284.  Nor should it.  It may well be expensive to obtain an opinion of counsel.  See Brief for Public Knowledge et al. as Amici Curiae 9 (“[O]pinion[s] [of counsel] could easily cost up to $100,000 per patent”); Brief for Internet Companies as Amici Curiae 13 (such opinions cost “tens of thousands of dollars”).  Such costs can prevent an innovator from getting a small business up and running.  At the same time, an owner of a small firm, or a scientist, engineer, or technician working there, might, without being “wanton” or “reckless,” reasonably determine that its product does not infringe a particular patent, or that that patent is probably invalid.  Cf. Association for Molecular Pathology v. Myriad Genetics, Inc., 569 U. S. ___, ___ (2013) (slip op., at 13) (The “patent[’s] [own] descriptions highlight the problem[s] with its claims”).  I do not say that a lawyer’s informed opinion would be unhelpful.  To the contrary, consulting counsel may help draw the line between infringing and noninfringing uses.  But on the other side of the equation lie the costs and the consequent risk of discouraging lawful innovation.  Congress has thus left it to the potential infringer to decide whether to consult counsel—without the threat of treble damages influencing that decision.  That is, Congress has determined that where both “advice of counsel” and “increased dam-ages” are at issue, insisting upon the legal game is not worth the candle.  Compare §298 with §284.
+
+															Third, as the Court explains, enhanced damages may not “serve to compensate patentees” for infringement-related costs or litigation expenses.  Ante, at 3–4.  That is because §284 provides for the former prior to any enhancement.  §284 (enhancement follows award of “dam-ages adequate to compensate for the infringement”); see ante, at 4.  And a different statutory provision, §285, provides for the latter.  Ibid.; Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U. S. ___, ___–___ (2014) (slip op., at 7–8) (fee awards may be appropriate in a case that is “ ‘exceptional’ ” in respect to “the unreasonable manner in which [it] was litigated”).
+
+															I describe these limitations on enhanced damages awards for a reason.  Patent infringement, of course, is a highly undesirable and unlawful activity.  But stopping infringement is a means to patent law’s ends.  Through a complex system of incentive-based laws, patent law helps to encourage the development of, disseminate knowledge about, and permit others to benefit from useful inventions.  Enhanced damages have a role to play in achieving those objectives, but, as described above, that role is limited.
+
+															Consider that the U. S. Patent and Trademark Office estimates that more than 2,500,000 patents are currently in force.  See Dept. of Commerce, Patent and Trademark Office, A. Marco, M. Carley, S. Jackson, & A. Myers, The USPTO Historical Patent Files: Two Centuries of Invention, No. 2015–1, p. 32, fig. 6 (June 2015).  Moreover, Members of the Court have noted that some “firms use patents . . . primarily [to] obtai[n] licensing fees.”  eBay Inc. v. MercExchange, L. L. C.,
+
+547 U. S. 388,
+396 (2006)
+ (Kennedy, J., concurring).  Amici explain that some of those firms generate revenue by sending letters to “ ‘tens of thousands of people asking for a license or settlement’ ” on a patent “ ‘that may in fact not be warranted.’ ”  Brief for Internet Companies as Amici Curiae 12; cf. Letter to Dr. Thomas Cooper (Jan. 16, 1814), in 6 Writings of Thomas Jefferson 295 (H. Washington ed. 1854) (lamenting “abuse of the frivolous patents”).  How is a growing business to react to the arrival of such a letter, particularly if that letter carries with it a serious risk of treble dam-ages?  Does the letter put the company “on notice” of the patent?  Will a jury find that the company behaved “recklessly,” simply for failing to spend considerable time, effort, and money obtaining expert views about whether some or all of the patents described in the letter apply to its activities (and whether those patents are even valid)?  These investigative activities can be costly.  Hence, the risk of treble damages can encourage the company to settle, or even abandon any challenged activity.
+
+															To say this is to point to a risk: The more that busi-nesses, laboratories, hospitals, and individuals adopt this approach, the more often a patent will reach beyond its lawful scope to discourage lawful activity, and the more often patent-related demands will frustrate, rather than “promote,” the “Progress of Science and useful Arts.”  U. S. Const., Art. I, §8, cl. 8; see, e.g., Eon-Net LP v. Flagstar Bancorp, 653 F. 3d 1314, 1327 (CA Fed. 2011) (patent holder “acted in bad faith by exploiting the high cost to defend [ patent] litigation to extract a nuisance value settlement”); In re MPHJ Technnology Invs., LLC, 159 F. T. C. 1004, 1007–1012 (2015) (patent owner sent more than 16,000 letters demanding settlement for using “common office equipment” under a patent it never intended to litigate); Brief for Internet Companies as Amici Curiae 15 (threat of enhanced damages hinders “collaborative efforts” to set “industry-wide” standards for matters such as internet protocols); Brief for Public Knowledge et al. as Amici Curiae 6 (predatory patent practices undermined “a new and highly praised virtual-reality glasses shopping system”).  Thus, in the context of enhanced damages, there are patent-related risks on both sides of the equation.  That fact argues, not for abandonment of enhanced damages, but for their careful application, to ensure that they only target cases of egregious misconduct.
+
+															One final point: The Court holds that awards of enhanced damages should be reviewed for an abuse of discretion.  Ante, at 12–13.  I agree.  But I also believe that, in applying that standard, the Federal Circuit may take advantage of its own experience and expertise in patent law.  Whether, for example, an infringer truly had “no doubts about [the] validity” of a patent may require an assessment of the reasonableness of a defense that may be apparent from the face of that patent.  See ante, at 9.  And any error on such a question would be an abuse of discretion.  Highmark Inc. v. Allcare Health Management System, Inc., 572 U. S. ___, ___, n. 2 (2014) (slip op., at 4, n. 2) (“A district court would necessarily abuse its discretion if it based its ruling on an erroneous view of the law” (internal quotation marks omitted)).
+
+															Understanding the Court’s opinion in the ways described above, I join its opinion.
+													

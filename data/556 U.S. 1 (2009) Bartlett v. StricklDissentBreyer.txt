@@ -1,0 +1,178 @@
+::SCDB_caseID:: 2008-030
+::decision_cite:: 556 U.S. 1 (2009)
+::decision_name::  Bartlett v. Strickland
+::decision_year:: 2009
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+
+BREYER, J., DISSENTING
+BARTLETT V. STRICKLAND
+556 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NO. 07-689
+
+															GARY BARTLETT, EXECUTIVE DIRECTOR OF THE NORTH
+CAROLINA STATE BOARD OF ELECTIONS, et al., PETITIONERS
+v. DWIGHT STRICKLAND et al.
+
+															on writ of certiorari to the supreme court of north
+carolina
+
+															[March 9, 2009]
+
+															   Justice Breyer, dissenting.
+
+															   I join Justice Souter’s
+opinion in full. I write separately in light of the
+plurality’s claim that a bright-line 50% rule (used as a
+Gingles gateway) serves administrative objectives. In the
+plurality’s view, that rule amounts to a relatively simple
+administrative device that will help separate at the outset those
+cases that are more likely meritorious from those that are not.
+Even were that objective as critically important as the plurality
+believes, however, it is not difficult to find other numerical
+gateway rules that would work better.
+
+															   Assume that a basic purpose of a gateway
+number is to separate (1) districts where a minority group can
+“elect representatives of their choice,” from (2)
+districts where the minority, because of the need to obtain
+majority crossover votes, can only “elect
+representatives” that are consensus candidates. 42 U. S. C.
+§1973(b) (2000 ed.); League of United Latin American
+Citizens v. Perry, 548 U. S. 399, 445
+(2006) (plurality opinion). At first blush, one might think that a
+50% rule will work in this respect. After all, if a 50% minority
+population votes as a bloc, can it not always elect the candidate
+of its choice? And if a minority population constitutes less than
+50% of a district, is not any candidate elected from that district
+always a consensus choice of minority and majority voters? The
+realities of voting behavior, however, make clear that the answer
+to both these questions is “no.” See, e.g.,
+Brief for Nathaniel Persily et al. as Amici Curiae
+5–6. (“Fifty percent is seen as a magic number by some
+because under conditions of complete racial polarization and equal
+rates of voting eligibility, registration, and turnout, the
+minority community will be able to elect its candidate of choice.
+In practice, such extreme conditions are never present. .
+. . [S]ome districts must be more than 50% minority, while others
+can be less than 50% minority, in order for the minority community
+to have an equal opportunity to elect its candidate of
+choice” (emphasis added)); see also ante, at 8
+(Souter, J., dissenting).
+
+															   No voting group is 100% cohesive. Except in
+districts with overwhelming minority populations, some crossover
+votes are often necessary. The question is how likely it is that
+the need for crossover votes will force a minority to reject its
+“preferred choice” in favor of a “consensus
+candidate.” A 50% number does not even try to answer that
+question. To the contrary, it includes, say 51% minority districts,
+where imperfect cohesion may, in context, prevent election of the
+“minority-preferred” candidate, while it excludes, say,
+45% districts where a smaller but more cohesive minority can, with
+the help of a small and reliable majority crossover vote, elect its
+preferred candidate.
+
+															   Why not use a numerical gateway rule that
+looks more directly at the relevant question: Is the minority bloc
+large enough, is it cohesive enough, is the necessary majority
+crossover vote small enough, so that the minority (tending to vote
+cohesively) can likely vote its preferred candidate (rather than a
+consensus candidate) into office? See ante, at 7 (Souter,
+J., dissenting) (“[E]mpirical studies confirm[] that . . .
+minority groups” constituting less than 50% of the voting
+population “regularly elect their preferred candidates with
+the help of modest crossover by members of the majority”);
+see also Pildes, Is Voting-Rights Law Now at War With Itself?
+Social Science and Voting Rights in the 2000s, 80 N. C. L. Rev.
+1517, 1529–1535 (2002) (reviewing studies showing small but
+reliable crossover voting by whites in districts where minority
+voters have demonstrated the ability to elect their preferred
+candidates without constituting 50% of the population in that
+district). We can likely find a reasonably administrable
+mathematical formula more directly tied to the factors in
+question.
+
+															   To take a possible example: Suppose we pick a
+numerical ratio that requires the minority voting age population to
+be twice as large as the percentage of majority crossover votes
+needed to elect the minority’s preferred candidate. We would
+calculate the latter (the percentage of majority crossover votes
+the minority voters need) to take account of both the percentage of
+minority voting age population in the district and the cohesiveness
+with which they vote. Thus, if minority voters account for 45% of
+the voters in a district and 89% of those voters tend to vote
+cohesively as a group, then the minority needs a crossover vote of
+about 20% of the majority voters to elect its preferred candidate.
+(Such a district with 100 voters would have 45 minority voters and
+55 majority voters; 40 minority voters would vote for the minority
+group’s preferred candidate at election time; the minority
+voters would need 11 more votes to elect their preferred candidate;
+and 11 is about 20% of the majority’s 55.) The larger the
+minority population, the greater its cohesiveness, and thus the
+smaller the crossover vote needed to assure success, the greater
+the likelihood that the minority can elect its preferred candidate
+and the smaller the likelihood that the cohesive minority, in order
+to find the needed majority crossover vote, must support a
+consensus, rather than its preferred, candidate.
+
+															   In reflecting the reality that minority voters
+can elect the candidate of their choice when they constitute less
+than 50% of a district by relying on a small majority crossover
+vote, this approach is in no way contradictory, or even in tension
+with, the third Gingles requirement. Since
+Gingles itself, we have acknowledged that the requirement
+of majority-bloc voting can be satisfied even when some small
+number of majority voters crossover to support a minority-preferred
+candidate. See Thornburg v. Gingles, 478 U. S. 30, 59 (1986)
+(finding majority-bloc voting where the majority group supported
+African-American candidates in the general election at a rate of
+between 26% and 49%, with an average support of one-third). Given
+the difficulty of obtaining totally accurate statistics about
+cohesion, or even voting age population, the district courts should
+administer the numerical ratio flexibly, opening (or closing) the
+Gingles gate (in light of the probable merits of a case)
+where only small variances are at issue (e.g., where the
+minority group is 39% instead of 40% of a district). But the same
+is true with a 50% number (e.g., where the minority group
+is 49% instead of 50% of a district). See, e.g., Brief for
+United States as Amicus Curiae 15.
+
+															   I do not claim that the 2-to-1 ratio is a
+perfect rule; I claim only that it is better than the
+plurality’s 50% rule. After all, unlike 50%, a 2-to-1 ratio
+(of voting age minority population to necessary non-minority
+crossover votes) focuses directly upon the problem at hand, better
+reflects voting realities, and consequently far better separates at
+the gateway likely sheep from likely goats. See Gingles,
+supra, at 45 (The Section 2 inquiry depends on a
+“ ‘functional’ view of the political
+process” and “ ‘a searching practical
+evaluation of the past and present reality.’ ”
+(quoting S. Rep. No. 97–417, p. 30, and n. 120 (1982));
+Gingles, supra, at 94–95 (O’Connor,
+J., concurring in judgment) (“[T]here is no indication that
+Congress intended to mandate a single, universally applicable
+standard for measuring undiluted minority voting strength,
+regardless of local conditions . . . ”). In most cases, the
+50% rule and the 2-to-1 rule would have roughly similar effects.
+Most districts where the minority voting age population is greater
+than 50% will almost always satisfy the 2-to-1 rule; and most
+districts where the minority population is below 40% will almost
+never satisfy the 2-to-1 rule. But in districts with minority
+voting age populations that range from 40% to 50%, the divergent
+approaches of the two standards can make a critical
+difference—as well they should.
+
+															   In a word, Justice Souter well explains why
+the majority’s test is ill suited to the statute’s
+objectives. I add that the test the majority adopts is ill suited
+to its own administrative ends. Better gateway tests, if needed,
+can be found.
+
+															   With respect, I dissent.
+
+													

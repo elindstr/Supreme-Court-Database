@@ -1,0 +1,129 @@
+::SCDB_caseID:: 2014-064
+::decision_cite:: 13-720
+::decision_name::  Kimble v. Marvel Entertainment, LLC
+::decision_year:: 2015
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–720
+
+															_________________
+
+															STEPHEN KIMBLE, et al., PETITIONERS v. MARVEL ENTERTAINMENT, LLC, successor to MARVEL ENTERPRISES, INC.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 22, 2015]
+
+															
+
+															Justice Alito, with whom The Chief Justice and Justice Thomas join, dissenting.
+
+															The Court employs stare decisis, normally a tool of restraint, to reaffirm a clear case of judicial overreach.  Our decision in Brulotte v. Thys Co.,
+
+379 U. S. 29 (1964)
+, held that parties cannot enter into a patent licensing agreement that provides for royalty payments to continue after the term of the patent expires.  That decision was not based on anything that can plausibly be regarded as an interpretation of the terms of the Patent Act.  It was based instead on an economic theory—and one that has been debunked.  The decision interferes with the ability of parties to negotiate licensing agreements that reflect the true value of a patent, and it disrupts contractual expectations.  Stare decisis does not require us to retain this baseless and damaging precedent.
+
+															I
+
+															A
+
+															The Patent Act provides that a patent grants certain exclusive rights to the patentee and “his heirs or assigns” for a term of 20 years.  35 U. S. C. §§154(a)(1) and (2).  The Act says nothing whatsoever about post-expiration royalties.  In Brulotte, however, the Court held that such royalties are per se unlawful.  The Court made little pretense of finding support for this holding in the language of the Act.  Instead, the Court reasoned that allowing post-expiration royalties would subject “the free market visualized for the post-expiration period . . . to monopoly influences that have no proper place there.”  379 U. S., at 32–33.  Invoking antitrust concepts, the decision suggested that such arrangements are “an effort to enlarge the monopoly of the patent by t[y]ing the sale or use of the patented article to the purchase or use of unpatented ones.”  Id., at 33.
+
+															Whatever the merits of this economic argument, it does not represent a serious attempt to interpret the Patent Act.  A licensing agreement that provides for the payment of royalties after a patent’s term expires does not enlarge the patentee’s monopoly or extend the term of the patent.  It simply gives the licensor a contractual right.  Thus, nothing in the text of the Act even arguably forbids licensing agreements that provide for post-expiration royalties.
+
+															Brulotte was thus a bald act of policymaking.  It was not simply a case of incorrect statutory interpretation.  It was not really statutory interpretation at all.
+
+															B
+
+															Not only was Brulotte based on policymaking, it was based on a policy that is difficult to defend.  Indeed, in the intervening 50 years, its reasoning has been soundly refuted.  See, e.g., 10 P. Areeda & H. Hovenkamp, Antitrust Law: An Analysis of Antitrust Principles and Their Application ¶1782c.3, pp. 554–556 (3d ed. 2011); See & Caprio, The Trouble with Brulotte: The Patent Royalty Term and Patent Monopoly Extension, 1990 Utah L. Rev. 813, 846–851; Scheiber v. Dolby Labs., Inc., 293 F. 3d 1014, 1017 (CA7 2002); Brief for Petitioners 23–25, and n. 11 (collecting sources); ante, at 3, n. 3.
+
+															Brulotte misperceived the purpose and effect of post-expiration royalties.  The decision rested on the view that post-expiration royalties extend the patent term by means of an anti-competitive tying arrangement.  As the Court understood such an arrangement, the patent holder leverages its monopoly power during the patent term to require payments after the term ends, when the invention would otherwise be available for free public use.  But agreements to pay licensing fees after a patent expires do not “enlarge the monopoly of the patent.”  379 U. S., at 33.  Instead, “[o]nce the patent term expires, the power to exclude is gone,” and all that is left “is a problem about optimal contract design.”  Easterbrook, Contract and Copyright, 42 Hous. L. Rev. 953, 955 (2005).
+
+															The economics are simple: Extending a royalty term allows the parties to spread the licensing fees over a longer period of time, which naturally has the effect of reduc-ing the fees during the patent term.  See ante, at 5.  Restricting royalty payments to the patent term, as Brulotte requires, compresses payment into a shorter period of higher fees.  The Patent Act does not prefer one approach over the other.
+
+															There are, however, good reasons why parties sometimes prefer post-expiration royalties over upfront fees, and why such arrangements have pro-competitive effects.  Patent holders and licensees are often unsure whether a patented idea will yield significant economic value, and it often takes years to monetize an innovation.  In those circumstances, deferred royalty agreements are economically efficient.  They encourage innovators, like universities, hospitals, and other institutions, to invest in research that might not yield marketable products until decades down the line.  See Brief for Memorial Sloan Kettering Cancer Center et al. as Amici Curiae 8–12.  And they allow producers to hedge their bets and develop more products by spreading licensing fees over longer periods.  See ibid.  By prohibiting these arrangements, Brulotte erects an obstacle to efficient patent use.  In patent law and other areas, we have abandoned per se rules with similarly disruptive effects.  See, e.g., Illinois Tool Works Inc. v. Independent Ink, Inc.,
+
+547 U. S. 28 (2006)
+; Leegin Creative Leather Products, Inc. v. PSKS, Inc., 
+
+551 U. S. 877 (2007)
+.
+
+															The majority downplays this harm by insisting that “parties can often find ways around Brulotte.”  Ante, at 6.  But the need to avoid Brulotte is an economic inefficiency in itself.  Parties are not always aware of the prohibition—as this case amply demonstrates.  And the suggested alternatives do not provide the same benefits as post-expiration royalty agreements.  For instance, although an agreement to amortize payments for sales during the patent term would “bring down early outlays,” the Court admits that such an agreement might not reflect the parties’ risk preferences.  Ante, at 6.  Moreover, such an arrangement would not necessarily yield the same amount of total royalties, particularly for an invention or a medical breakthrough that takes decades to develop into a marketable product.  The sort of agreements that Brulotte prohibits would allow licensees to spread their costs, while also allowing patent holders to capitalize on slow-developing inventions.
+
+															C
+
+															On top of that, Brulotte most often functions to upset the parties’ expectations.
+
+															This case illustrates the point.  No one disputes that, when “negotiating the settlement, neither side was aware of Brulotte.”  Ante, at 2.  Without knowledge of our per se rule, the parties agreed that Marvel would pay 3% in royalties on all of its future sales involving the Web Blaster and similar products.  If the parties had been aware of Brulotte, they might have agreed to higher payments during the patent term.  Instead, both sides expected the royalty payments to continue until Marvel stopped selling toys that fit the terms of the agreement.  But that is not what happened.  When Marvel discovered Brulotte, it used that decision to nullify a key part of the agreement.  The parties’ contractual expectations were shattered, and petitioners’ rights were extinguished.
+
+															The Court’s suggestion that some parties have come to rely on Brulotte is fanciful.  The Court believes that there is a “reasonable possibility that parties have structured their business transactions in light of Brulotte.”  Ante, at 10.  Its only support for this conclusion is Marvel’s self-serving and unsupported assertion that some contracts might not specify an end date for royalties because the parties expect Brulotte to supply the default rule.  To its credit, the Court stops short of endorsing this unlikely prediction, saying only that “uncertainty on this score cuts in Marvel’s direction.”  Ante, at 10.
+
+															But there is no real uncertainty.  “[W]e do not know” if Marvel’s assertion is correct because Marvel has provided no evidence to support it.  Ibid.  And there are reasons to believe that, if parties actually relied on Brulotte to supply a default rule, courts would enforce the contracts as the parties expected.  See, e.g., 27 R. Lord, Williston on Contracts §70:124 (4th ed. 2003).  What we know for sure, however, is that Brulotte has upended the parties’ expectations here and in many other cases.  See, e.g., Scheiber, 293 F. 3d, at 1016; Boggild v. Kenner Products, 853 F. 2d 465, 466–467 (CA6 1988); Pitney Bowes, Inc. v. Mestre, 701 F. 2d 1365, 1367, 1373 (CA11 1983).  These confirmed problems with retaining Brulotte clearly outweigh Marvel’s hypothetical fears.
+
+															II
+
+															In the end, Brulotte’s only virtue is that we decided it.  But that does not render it invincible.  Stare decisis is important to the rule of law, but so are correct judicial decisions.  Adherence to prior decisions “ ‘promotes the evenhanded, predictable, and consistent development of legal principles, fosters reliance on judicial decisions, and contributes to the actual and perceived integrity of the judicial process.’ ”  Pearson v. Callahan,
+
+555 U. S. 223,
+233 (2009)
+ (quoting Payne v. Tennessee,
+
+501 U. S. 808,
+827 (1991)
+).  But stare decisis is not an “inexorable command.”  Payne, supra, at 828; Washington v. W. C. Dawson & Co.,
+
+264 U. S. 219,
+238 (1924)
+ (Brandeis, J., dissenting).  “Revisiting precedent is particularly appropriate where, as here, a departure would not upset expectations, the precedent consists of a judge-made rule . . . , and experience has pointed up the precedent’s shortcomings.”  Pearson, supra, at 233.
+
+															Our traditional approach to stare decisis does not require us to retain Brulotte’s per se rule.  Brulotte’s holding had no basis in the law.  Its reasoning has been thoroughly disproved.  It poses economic barriers that stifle innovation.  And it unsettles contractual expectations.
+
+															It is not decisive that Congress could have altered Brulotte’s rule.  In general, we are especially reluctant to overturn decisions interpreting statutes because those decisions can be undone by Congress.  See, e.g., John R. Sand & Gravel Co. v. United States,
+
+552 U. S. 130,
+139 (2008)
+; Patterson v. McLean Credit Union,
+
+491 U. S. 164
+–173 (1989).  The Court calls this a “superpowered form of stare decisis” that renders statutory interpretation decisions nearly impervious to challenge.  Ante, at 10.  I think this goes a bit too far.
+
+															As an initial matter, we do not give super-duper protection to decisions that do not actually interpret a statute.  When a precedent is based on a judge-made rule and is not grounded in anything that Congress has enacted, we cannot “properly place on the shoulders of Congress” the entire burden of correcting “the Court’s own error.”  Girouard v. United States,
+
+328 U. S. 61
+–70 (1946).  On the contrary, we have recognized that it is appropriate for us to correct rules of this sort.  See, e.g., Leegin, 551 U. S., at 899–900; State Oil Co. v. Khan,
+
+522 U. S. 3
+–21 (1997).
+
+															The Court says that it might agree if Brulotte were an antitrust precedent because stare decisis has “less-than-usual force in cases involving the Sherman Act.”  Ante, at 14.  But this distinction is unwarranted.  We have been more willing to reexamine antitrust precedents because they have attributes of common-law decisions.  I see no reason why the same approach should not apply where the precedent at issue, while purporting to apply a statute, is actually based on policy concerns.  Indeed, we should be even more willing to reconsider such a precedent because the role implicitly assigned to the federal courts under the Sherman Act has no parallel in Patent Act cases.
+
+															Even taking the Court on its own terms, Brulotte was an antitrust decision masquerading as a patent case.  The Court was principally concerned with patentees improp-erly leveraging their monopoly power.  See 379 U. S., at 32–33.  And it expressly characterized post-expiration royalties as anti-competitive tying arrangements.  See id., at 33.  It makes no sense to afford greater stare decisis protection to Brulotte’s thinly veiled antitrust reasoning than to our Sherman Act decisions.
+
+															The Court also places too much weight on Congress’ failure to overturn Brulotte.  We have long cautioned that “[i]t is at best treacherous to find in congressional silence alone the adoption of a controlling rule of law.”  Girouard, supra, at 69.  Even where Congress has considered, but not adopted, legislation that would abrogate a judicial ruling, it cannot be inferred that Congress’ failure to act shows that it approves the ruling.  See Central Bank of Denver, N. A. v. First Interstate Bank of Denver, N. A.,
+
+511 U. S. 164,
+187 (1994)
+.  “ ‘[S]everal equally tenable inferences may be drawn from such inaction.’ ”  Ibid. (quoting Pension Benefit Guaranty Corporation v. LTV Corp., 496 U. S. 633, 650 (1990)).
+
+															Passing legislation is no easy task.  A federal statute must withstand the “finely wrought” procedure of bicameralism and presentment.  INS v. Chadha,
+
+462 U. S. 919,
+951 (1983)
+; Clinton v. City of New York,
+
+524 U. S. 417,
+440 (1998)
+; see U. S. Const., Art. I, §7.  Within that onerous process, there are additional practical hurdles.  A law must be taken up for discussion and not passed over in favor of more pressing matters, and Senate rules require 60 votes to end debate on most legislation.  And even if the House and Senate agree on a general policy, the details of the measure usually must be hammered out in a conference committee and repassed by both Houses.
+
+															*  *  *
+
+															A proper understanding of our doctrine of stare decisis does not prevent us from reexamining Brulotte.  Even the Court does not defend the decision on the merits. I would reconsider and overrule our obvious mistake.  For these reasons, I respectfully dissent.
+													

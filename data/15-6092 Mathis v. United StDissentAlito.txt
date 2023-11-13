@@ -1,0 +1,209 @@
+::SCDB_caseID:: 2015-072
+::decision_cite:: 15-6092
+::decision_name::  Mathis v. United States
+::decision_year:: 2016
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–6092
+
+															_________________
+
+															RICHARD MATHIS, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eighth circuit
+
+															[June 23, 2016]
+
+															
+
+															Justice Alito, dissenting.
+
+															Sabine Moreau lives in Solre-sur-Sambre, a town in Belgium located 38 miles south of Brussels.  One day she set out in her car to pick up a friend at the Brussels train station, a trip that should have taken under an hour.  She programmed her GPS and headed off.  Although the GPS sent her south, not north, she apparently thought nothing of it.  She dutifully stayed on the prescribed course.  Nor was she deterred when she saw road signs in German for Cologne, Aachen, and Frankfurt.  “I asked myself no questions,” she later recounted.  “I kept my foot down.”[1]
+
+															Hours passed.  After crossing through Germany, she entered Austria.  Twice she stopped to refuel her car.  She was involved in a minor traffic accident.  When she tired, she pulled over and slept in her car.  She crossed the Alps, drove through Slovenia, entered Croatia, and finally arrived in Zagreb—two days and 900 miles after leaving her home.  Either she had not properly set her GPS or the device had malfunctioned.  But Ms. Moreau apparently refused to entertain that thought until she arrived in the Croatian capital.  Only then, she told reporters, did she realize that she had gone off course, and she called home, where the police were investigating her disappearance.
+
+															Twenty-six years ago, in Taylor v. United States,
+
+495 U. S. 575,
+602 (1990)
+, this Court set out on a journey like Ms. Moreau’s.  Our task in Taylor, like Ms. Moreau’s short trip to the train station, might not seem very difficult—determining when a conviction for burglary counts as a prior conviction for burglary under the Armed Career Criminal Act (ACCA),
+
+18 U. S. C. §924(e).  But things have not worked out that way.
+
+															Congress enacted ACCA to ensure that violent repeat criminal offenders could be subject to enhanced penalties—that is, longer prison sentences—in a fair and uniform way across States with myriad criminal laws.  See Descamps v. United States, 570 U. S. ___, ___–___ (2013) (Alito, J., dissenting) (slip op., at 13–14).  ACCA calls for an enhanced sentence when a defendant, who has three or more prior convictions for a “violent felony,” is found guilty of possession of a firearm.  §924(e)(1).  And ACCA provides that the term “violent felony” means, among other things, “any crime punishable by imprisonment for a term exceeding one year . . . that . . . is burglary.”  §924(e)(2)(B).  In other words, “burglary” = “violent felony.”
+
+															While this language might seem straightforward, Taylor introduced two complications.  First, Taylor held that “burglary” under ACCA means offenses that have the elements of what the Court called “generic” burglary, defined as unlawfully entering or remaining in a building or structure with the intent to commit a crime.  495 U. S., at 598.  This definition is broader than that of the common law but does not include every offense that States have labeled burglary, such as the burglary of a boat or vehicle.  Second, Taylor and subsequent cases have limited the ability of sentencing judges to examine the record in prior cases for the purpose of determining whether the convictions in those cases were for “generic burglary.”  See, e.g., Shepard v. United States,
+
+544 U. S. 13,
+26 (2005)
+.  We have called this the “modified categorical approach.”  Descamps, supra, at ___–___ (slip op., at 1–2).
+
+															Programmed in this way, the Court set out on a course that has increasingly led to results that Congress could not have intended.[2]  And finally, the Court arrives at today’s decision, the upshot of which is that all burglary convictions in a great many States may be disqualified from counting as predicate offenses under ACCA.  This conclusion should set off a warning bell.  Congress indisputably wanted burglary to count under ACCA; our course has led us to the conclusion that, in many States, no burglary conviction will count; maybe we made a wrong turn at some point (or perhaps the Court is guided by a malfunctioning navigator).  But the Court is unperturbed by its anomalous result.  Serenely chanting its mantra, “Elements,” see ante, at 8, the Court keeps its foot down and drives on.
+
+															The Court’s approach calls for sentencing judges to delve into pointless abstract questions.  In Descamps, the Court gave sentencing judges the assignment of determining whether a state statute is “divisible.”  See 570 U. S., at ___ (slip op., at 23).  When I warned that this novel inquiry would prove to be difficult, the opinion of the Court brushed off that concern, see id., at ___ (slip op., at 8–9, n. 2) (“[W]e can see no real-world reason to worry”).  But lower court judges, who must regularly grapple with the modified categorical approach, struggled to understand Descamps.  Compare Rendon v. Holder, 764 F. 3d 1077, 1084–1090 (CA9 2014) (panel opinion), with 782 F. 3d 466, 466–473 (CA9 2015) (eight judges dissenting from denial of reh’g en banc), and id., at 473–474 (Kozinski, J., dissenting from denial of reh’g en banc).  Now the Court tells them they must decide whether entering or remaining in a building is an “element” of committing a crime or merely a “means” of doing so.  I wish them good luck.
+
+															The distinction between an “element” and a “means” is important in a very different context: The requisite number of jurors (all 12 in most jurisdictions) must agree that a defendant committed each element of an offense, but the jurors need not agree on the means by which an element was committed.  So if entering or remaining in a building is an element, the jurors must agree that the defendant entered or remained in a building and not, say, a boat.  But if the element is entering or remaining within one of a list of places specified in the statute (say, building, boat, vehicle, tent), then entering or remaining in a building is simply a means.  Jurors do not need to agree on the means by which an offense is committed, and therefore whether a defendant illegally entered a building or a boat would not matter for purposes of obtaining a conviction.
+
+															In the real world, there are not many cases in which the state courts are required to decide whether jurors in a burglary case must agree on the building vs. boat issue, so the question whether buildings and boats are elements or means does not often arise.  As a result, state-court cases on the question are rare.  The Government has surveyed all the state burglary statutes and has found only one—Iowa, the State in which petitioner was convicted for burglary—in which the status of the places covered as elements or means is revealed.  See Brief for United States 43, and n. 13.  Petitioner’s attorneys have not cited a similar decision from any other State.
+
+															How, then, are federal judges sentencing under ACCA to make the element/means determination?  The Court writes: “This threshold inquiry—elements or means?—is easy in this case, as it will be in many others.”  Ante, at 17.  Really?[3]  The determination is easy in this case only because the fortified legal team that took over petitioner’s representation after this Court granted review found an Iowa case on point, but this discovery does not seem to have been made until the preparation of the brief filed in this Court.  Brief for United States 43, and n. 13.  “Petitioner’s belated identification of a relevant state decision confirms that the task is not an easy one.”  Ibid.  And that is not the worst of it.  Although many States have bur-glary statutes like Iowa’s that apply to the burglary of places other than a building, neither the Government nor petitioner has found a single case in any of these jurisdictions resolving the question whether the place burglarized is an element or a means.
+
+															The Court assures the federal district judges who must apply ACCA that they do not need such state-court decisions, that it will be easy for federal judges to predict how state courts would resolve this question if it was ever presented to them.  Ante, at 16–18.  But the Court has not shown how this can be done.  The Government’s brief cites numerous state statutes like Iowa’s.  Brief for United States 42, n. 12.  If this task is so easy, let the Court pick a few of those States and give the lower court judges a demonstration.
+
+															Picking up an argument tossed off by Judge Kozinski, the Court argues that a federal sentencing judge can get a sense of whether the places covered by a state burglary statute are separate elements or means by examining the charging document.  Ante, at 17–18 (citing Rendon, supra, at 473–474 (Kozinski, J., dissenting from denial of reh’g en banc)).  If, for example, the charging document alleges that the defendant burglarized a house, that is a clue, according to the Court, that “house” is an element.  See ibid.  I pointed out the problem with this argument in Descamps.  See 570 U. S., at ___–___ (dissenting opinion) (slip op., at 13–14).  State rules and practices regarding the wording of charging documents differ, and just because something is specifically alleged in such a document, it does not follow that this item is an element and not just a means.  See ibid.
+
+															The present case illustrates my point.  Petitioner has five prior burglary convictions in Iowa.  In Iowa, the places covered are “means.”  See ante, at 13.  Yet the charging documents in all these cases set out the specific places that petitioner burglarized—a “house and garage,” a “garage,” a “machine shed,” and a “storage shed.”  See Brief for Petitioner 9.
+
+															A real-world approach would avoid the mess that today’s decision will produce.  Allow a sentencing court to take a look at the record in the earlier case to see if the place that was burglarized was a building or something else.  If the record is lost or inconclusive, the court could refuse to count the conviction.  But where it is perfectly clear that a building was burglarized, count the conviction.
+
+															The majority disdains such practicality, and as a result it refuses to allow a burglary conviction to be counted even when the record makes it clear beyond any possible doubt that the defendant committed generic burglary.  Consider this hypothetical case.  Suppose that a defendant wishes to plead guilty to burglary, and the following occurs in open court on the record at the time of the plea:
+
+															
+
+															PROSECUTOR: I am informed that the defendant wishes to plead guilty to the charge set out in the complaint, namely, “on June 27, 2016, he broke into a house at 10 Main Street with the intent to commit larceny.”
+
+															
+
+															DEFENSE COUNSEL: That is correct.
+
+															
+
+															COURT: Mr. Defendant, what did you do?
+
+															
+
+															DEFENDANT: I broke into a house to steal money and jewelry.
+
+															
+
+															COURT: Was that the house at 10 Main St.?
+
+															
+
+															DEFENDANT: That’s it.
+
+															
+
+															COURT: Now, are you sure about that?  I mean, are you sure that 10 Main St. is a house?  Could it have actually been a boat?
+
+															
+
+															DEFENDANT: No, it was a house.  I climbed in through a window on the second floor.
+
+															
+
+															COURT: Well, there are yachts that have multiple decks.  Are you sure it is not a yacht?
+
+															
+
+															DEFENDANT: It’s a little house.
+
+															
+
+															PROSECUTOR: Your Honor, here is a photo of the house.
+
+															
+
+															COURT: Give the defendant the photo.  Mr. Defendant, is this the place you burglarized?
+
+															
+
+															DEFENDANT: Yes, like I said.
+
+															
+
+															COURT: Could it once have been a boat?  Maybe it was originally a house boat and was later attached to the ground.  What about that?
+
+															
+
+															DEFENSE COUNSEL:  Your honor, we stipulate that it is not a boat.
+
+															
+
+															COURT: Well, could it be a vehicle?
+
+															
+
+															DEFENDANT: No, like I said, it’s a house.  It doesn’t have any wheels.
+
+															
+
+															COURT: There are trailers that aren’t on wheels.
+
+															
+
+															DEFENSE COUNSEL: Your Honor, my client wants to plead guilty to burglarizing the house at 10 Main St.
+
+															
+
+															PROSECUTOR: Your Honor, if necessary I will call the owners, Mr. and Mrs. Landlubbers-Stationary.  They have lived there for 40 years.  They will testify that it is a building.  I also have the town’s tax records.  The house has been at that location since it was built in 1926.  It hasn’t moved.
+
+															
+
+															COURT: What do you say, defense counsel?  Are those records accurate?
+
+															
+
+															DEFENSE COUNSEL: Yes, we so stipulate.  Again, my client wishes to plead guilty to the burglary of a house.  He wants to take responsibility for what he did, and as to sentencing, . . . .
+
+															
+
+															COURT:  We’ll get to that later.  Mr. Defendant, what do you say?  Is 10 Main St. possibly a vehicle?
+
+															
+
+															DEFENDANT: Your Honor, I admit I burglarized a house.  It was not a car or truck.
+
+															
+
+															COURT: Well, alright.  But could it possibly be a tent?
+
+															
+
+															DEFENDANT: No, it’s made of brick.  I scraped my knee on the brick climbing up.
+
+															
+
+															COURT: OK, I just want to be sure.
+
+															As the Court sees things, none of this would be enough.  Real-world facts are irrelevant.  For aficionados of pointless formalism, today’s decision is a wonder, the veritable ne plus ultra of the genre.[4]
+
+															Along the way from Taylor to the present case, there have been signs that the Court was off course and opportunities to alter its course.  Now the Court has reached the legal equivalent of Ms. Moreau’s Zagreb.  But the Court, unlike Ms. Moreau, is determined to stay the course and continue on, traveling even further away from the in-tended destination.  Who knows when, if ever, the Court will call home.Notes
+
+1
+
+
+		 For accounts of the journey, see, e.g., Waterfield, GPS Failure Leaves Belgian Woman in Zagreb Two Days Later, The Telegraph (Jan. 13, 2013), online at http://www.telegraph.co.uk/news/worldnews/europe/belgium/9798779/GPS-failure-leaves-Belgian-woman-in-Zagreb-two-days-later.html (all Internet materials as last visited June 22, 2016); Grenoble, Sabine Moreau, Belgian Woman, Drives 900 Miles Off 90-Mile Route Because of GPS Error, Huffington Post (Jan. 15, 2013), online at http://www.huffingtonpost.com/2013/01/15/sabine-moreau-gps-belgium-croatia-900-miles_n_2475220.html; Malm, Belgian Woman Blindly Drove 900 Miles Across Europe As She Followed Broken GPS Instead Of 38-Miles To The Station, Daily Mail, (Jan. 14, 2013), online at http://www.dailymail.co.uk/news/article-2262149 / Belgian-woman-67-picking-friend-railway-station-ends-Zagreb-900-miles-away-satnav-disaster.html.
+	
+
+
+2
+
+
+		 In Descamps v. United States, 570 U. S. ___ (2013), the decision meant that no California burglary conviction counts under ACCA.  See id., at ___ (Alito, J., dissenting) (slip op., at 14).  In Moncrieffe v. Holder, 569 U. S. ___ (2013), where the Court took a similar approach in interpreting a provision of the immigration laws, the Court came to the conclusion that convictions in about half the states for even very large scale marijuana trafficking do not count as “illicit trafficking in a controlled substance” under a provision of the immigration laws.  Id., at ___   (Alito, J., dissenting) (slip op., at 9).
+	
+
+
+3
+
+
+		 In Rendon v. Holder, 782 F. 3d 466, 466–473 (CA9 2014) (dissent from denial of rehearing), eight circuit judges addressed the question of the difficulty of this determination.  They described it as “a notoriously uncertain inquiry” that will lead to “uncertain results.”  Id., at 471.
+	
+
+
+4
+
+
+		 The Court claims that there are three good reasons for its holding, but as I explained in Descamps, none is substantial.  The Court’s holding is not required by ACCA’s text or by the
+ 
+Sixth Amendment, and the alternative real-world approach would be fair to defendants.  See 570 U. S., at ___, ___–___ (Alito, J., dissenting) (slip op., at 4, 9–11).  
+	
+
+

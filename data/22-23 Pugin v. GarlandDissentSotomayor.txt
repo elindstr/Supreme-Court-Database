@@ -1,0 +1,981 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-23
+::decision_name::  Pugin v. Garland
+::decision_year:: 2023
+::opinion_author:: Sotomayor
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 22–23 and 22–331
+
+															_________________
+
+															JEAN FRANCOIS PUGIN, PETITIONER
+
+															22–23v.
+
+															MERRICK B. GARLAND, ATTORNEY
+GENERAL
+
+															on writ of certiorari to the united states
+court of appeals for the fourth circuit
+
+															
+
+															MERRICK B. GARLAND, ATTORNEY GENERAL,
+PETITIONER
+
+															22–331v.
+
+															FERNANDO CORDERO-GARCIA, aka FERNANDO
+CORDERO
+
+															on writ of certiorari to the united states
+court of appeals for the ninth circuit
+
+															[June 22, 2023]
+
+															
+
+															Justice Sotomayor, with whom Justice Gorsuch
+joins, and with whom Justice Kagan joins as to all but Part III,
+dissenting.
+
+															From early American laws, to dictionaries, to
+modern federal and state obstruction statutes, interference with an
+ongoing investigation or proceeding is at the core of what it means
+to be “an offense relating to obstruction of justice,”
+8 U. S. C. §1101(a)(43)(S). The Court circumvents
+this ample evidence only by casting a wide net and then throwing
+back all but the bycatch. That approach “turns the
+categorical approach on its head,” Esquivel-Quintana
+v. Sessions, 581 U.S. 385, 393 (2017), and subverts the
+commonly understood meaning of “obstruction of justice”
+when Congress enacted §1101(a)(43)(S) in 1996. I respectfully
+dissent.
+
+															I
+
+															The Immigration and Nationality Act (INA)
+defines “aggravated felony” by enumerating a long list
+of offenses. §1101(a)(43). Some are federal criminal offenses,
+but others are undefined generic offenses, such as
+“burglary,” §1101(a)(43)(G), and
+“obstruction of justice,” §1101(a) (43)(S), which
+is relevant here.
+
+															To assess whether someone’s conviction is
+covered by a generic offense, our precedents dictate that courts
+use the “categorical approach.”
+Esquivel-Quintana, 581 U. S., at 389. That approach
+disregards facts about the conviction and instead “compare[s]
+the elements of the statute forming the basis of the
+defendant’s conviction with the elements of the
+‘generic’ crime—i.e., the offense as
+commonly understood.” Descamps v. United
+States, 570 U.S.
+254, 257 (2013). If the elements of the underlying crime of
+conviction are narrower than or the same as the elements of the
+generic offense, then there is a “categorical match,”
+Moncrieffe v. Holder, 569 U.S.
+184, 190 (2013), and the underlying offense is an aggravated
+felony. If there is no categorical match, then the conviction is
+not an aggravated felony, no matter the underlying facts.
+
+															Before a court can engage in this categorical
+comparison, however, it must discern the “basic
+elements” of the relevant “generic” offense.
+Taylor v. United States, 495
+U.S. 575, 599 (1990). Courts accomplish this task by looking
+for “evidence about the generic meaning” of the offense
+at the time of the statute’s enactment.
+Esquivel-Quintana, 581 U. S., at 395. This means
+looking for the “generally accepted contemporary
+meaning” of the generic offense, while setting aside more
+unusual “nongeneric” variants that are “defin[ed]
+. . . more broadly.” Taylor, 495 U. S.,
+at 596, 599. In Taylor, for example, this Court concluded,
+after surveying various sources of meaning, that for purposes of 18
+U. S. C. §924(e), “generic burglary”
+encompasses any crime “having the basic elements of unlawful
+or unprivileged entry into, or remaining in, a building or
+structure, with intent to commit a crime.” 495 U. S., at
+599. In reaching that conclusion, the Court purposefully excluded
+burglary convictions in a handful of States that “defin[ed]
+burglary more broadly” by “eliminating the requirement
+that the entry be unlawful, or by including places, such as
+automobiles and vending machines, other than buildings.”
+Ibid. Expanding the definition to include those statutes
+would have strayed too far from “the generic definition of
+bribery . . . intended by Congress.” Id., at
+595 (internal quotation marks omitted).
+
+															The question presented in these
+cases—whether “an offense relating to obstruction of
+justice,” 8 U. S. C. §1101(a) (43)(S),
+necessarily involves a pending investigation or proceeding—is
+a question about the “basic elements” of
+“generic” obstruction of justice. Taylor, 495
+U. S., at 599. That is, it is a question about how obstruction
+of justice was “commonly understood,” Descamps,
+570 U. S., at 257, in 1996 when Congress enacted
+§1101(a)(43)(S). Answering that question requires focusing on
+the core, “generally accepted contemporary meaning,”
+Taylor, 495 U. S., at 596, of obstruction of justice,
+rather than on more unusual “nongeneric” variants that
+are “define[d] . . . more broadly,”
+id., at 599.
+
+															The Court loses sight of this fundamental point.
+Instead of focusing on whether a pending investigation or
+proceeding is part of the heartland of obstruction of justice, it
+wanders off into an array of obstruction-adjacent federal and state
+laws that do not require a pending investigation or proceeding. The
+Court then announces that those offenses are core obstruction of
+justice, even though the evidence it relies on, taken as a whole,
+reveals they are not. The result is predictable. By defining
+offenses that do not require a pending investigation or proceeding
+as core obstruction of justice, the majority forces through the
+conclusion that a pending investigation or proceeding is not
+required to qualify as generic obstruction of justice.
+
+															A reexamination of the sources relied upon by
+the majority, with the appropriate focus on discerning the trunk of
+obstruction of justice, rather than its various branches or
+offshoots, leads to the opposite result: To qualify as “an
+offense relating to obstruction of justice” under
+§1101(a) (43)(S), a predicate offense must require a pending
+investigation or proceeding.
+
+															A
+
+															As an initial matter, the majority glosses
+over the critical fact that “obstruction of justice”
+was an established term of art at the time of
+§1101(a)(43)(S)’s enactment in 1996. This is a major
+first misstep because “[w]here Congress employs a term of art
+obviously transplanted from another legal source, it brings the old
+soil with it.” George v. McDonough, 596
+U. S. ___, ___ (2022) (slip op., at 5) (internal quotation
+marks omitted).
+
+															From the “old soil” until today,
+“obstruction of justice” has required a pending
+investigation or proceeding. In 1831, Congress forbade efforts
+“to influence, intimidate, or impede any juror, witness, or
+officer, in any court of the United States, in the discharge
+of his duty” or “to obstruct or impede, the due
+administration of justice therein.” Act of Mar. 2, 1831,
+ch. 99, 4 Stat. 488 (emphasis added). This provision, which became
+§5399 of the Revised Statutes, see Rev. Stat., Title 70, ch.
+4, §5399 (1875), laid “the foundation for the modern
+statutory incarnation of the offense of obstruction of
+justice.” E. Murphy, Manufacturing Crime: Process, Pretext,
+and Criminal Justice, 97 Geo. L. J. 1435, 1473 (2009).
+
+															In Pettibone v. United States,
+148 U.S.
+197 (1893), this Court confirmed that §5399 required a
+pending proceeding. After describing the law as criminalizing
+“obstruction of the due administration of justice in any
+court of the United States,” the Court explained that
+“such obstruction can only arise when justice is being
+administered.” Id., at 207. “Unless that fact
+exists, the statutory offense cannot be committed.”
+Ibid. The Court thus tied obstruction of justice under
+§5399 to “the pendency of proceedings in the United
+States court, or the progress of the administration of justice
+therein.” Id., at 205.
+
+															Section 5399 is the predecessor of the modern
+omnibus or catchall obstruction of justice clause, which is
+codified at 18 U. S. C. §1503, and which prohibits
+endeavoring “to influence, obstruct, or impede, the due
+administration of justice.” In recognition of this through
+line, this Court held, just a year before the enactment of
+§1101(a)(43)(S), that “a person lacking knowledge of a
+pending proceeding” cannot be convicted under §1503.
+United States v. Aguilar, 515
+U.S. 593, 599 (1995) (citing Pettibone, 148 U. S.,
+at 207). Underscoring this point in his partial concurrence,
+Justice Scalia explained that “an endeavor to obstruct
+proceedings that did not exist would not violate the statute”
+because “obstruction can only arise when justice is being
+administered.” 515 U. S., at 610, n. 1 (alteration
+and internal quotation marks omitted).
+
+															Congress was aware of this settled
+interpretation of §1503 when it added “obstruction of
+justice” to the INA’s list of aggravated felonies. See
+Guerrero-Lasprilla v. Barr, 589 U. S. ___, ___
+(2020) (slip op., at 10) (“We normally assume that Congress
+is aware of relevant judicial precedent when it enacts a new
+statute” (internal quotation marks omitted)). In fact, by
+1996 Congress had already demonstrated that “relating to
+obstruction of justice” was understood to capture §1503.
+Enacted in 1970, the Racketeer Influenced and Corrupt Organizations
+Act (RICO) specifically lists as a predicate offense “section
+1503 (relating to obstruction of justice).” 18
+U. S. C. §1961(1). Moreover, this language, just
+like the language at §1101(a)(43)(S), serves the purpose of
+identifying one of a long list of underlying offenses to which an
+overarching statute applies. Thus, by 1996, Congress had used the
+same phrase for the same purpose to refer to §1503. In fact,
+the INA’s list of aggravated felonies explicitly
+cross-references RICO, suggesting Congress was well aware of the
+parallel. See §1101(a)(43)(J) (INA listing RICO violation as
+an aggravated felony).[1]
+
+															In short, in searching for the heartland of
+obstruction of justice, the omnibus clause of §1503 and the
+history from which it is derived are invaluable touchstones.
+Neither countenances an obstruction of justice offense separate
+from a pending investigation or proceeding.[2]
+
+															B
+
+															Even setting this crucial historical evidence
+aside, and proceeding as the Court does, by looking to dictionary
+definitions, chapter 73 of the Federal Criminal Code, state
+statutes, and the Model Penal Code, the same result emerges: Core
+obstruction of justice requires a pending investigation or
+proceeding.
+
+															1
+
+															Begin with the central dictionary definition
+upon which the Court relies. It defines obstruction of justice as
+“the crime or act of willfully interfering with the
+process of justice and law esp. by influencing, threatening,
+harming, or impeding a witness, potential witness, juror, or
+judicial or legal officer or by furnishing false information in
+or otherwise impeding an investigation or legal process.”
+Merriam-Webster’s Dictionary of Law 337 (1996) (emphasis
+added).
+
+															While the Court claims that this definition
+omits any requirement of a pending investigation or proceeding,
+ante, at 4, the two italicized phrases say otherwise.
+“[I]nterference” means the “act of meddling in or
+hampering an activity or process,” Webster’s Third New
+International Dictionary 1178 (1993), while “impede”
+means “to interfere with or get in the way of the progress
+of ” something or someone, id., at 1132. The
+definition is clear that the process that is meddled in, or
+interfered with, is the “process of justice and law” or
+“an investigation or legal process.”[3]
+
+															For the same reason, the majority is too hasty
+when it asserts that the definition encompasses acts separate from
+a pending investigation or proceeding. That definition ends with
+the phrase “in . . . an investigation or legal
+process.” Under the series-qualifier canon, that phrase is
+best read to modify all listed verbs, especially because the
+definition lists each action as an example of “the crime or
+act of willfully interfering with the process of justice and
+law.” See Facebook, Inc. v. Duguid, 592
+U. S. ___, ___ (2021) (slip op., at 5) (“[W]hen there is
+a straightforward, parallel construction that involves all nouns or
+verbs in a series, a modifier at the end of the list normally
+applies to the entire series” (internal quotation marks
+omitted)). Thus, far from favoring the majority’s view, the
+definition most naturally supports the conclusion that interference
+with a pending investigation or proceeding is an element of generic
+obstruction of justice.
+
+															The other dictionary definitions upon which the
+Court relies similarly indicate the need for a pending
+investigation or proceeding. The majority notes that Black’s
+Law Dictionary defines obstruction of justice to cover
+“ ‘obstructing the administration of justice in
+any way,’ ” ante, at 4, but overlooks the
+fact that “administration of justice,” both
+historically and currently, refers to court proceedings. See,
+e.g., 1 J. Kent, Commentaries on American Law *290
+(“[T]he judiciary power is intrusted with the administration
+of justice”); Black’s Law Dictionary 53 (10th ed. 2014)
+(defining “due administration of justice” as
+“[t]he proper functioning and integrity of a court or other
+tribunal and the proceedings before it”). Similarly, the full
+definition from A Dictionary of Modern Legal Usage mentions
+“interference with the orderly administration of law.”
+B. Garner, p. 611 (2d ed. 1995). The cited definitions thus all
+weigh against the majority’s sweeping view, and in favor of
+the view that obstruction of justice “can only arise when
+justice is being administered.” Pettibone, 148
+U. S., at 207.
+
+															2
+
+															The federal offenses listed in chapter 73 of
+Title 18, which is entitled “Obstruction of Justice,”
+provide further support for the conclusion that core obstruction of
+justice requires the administration of justice.
+
+															When Congress codified chapter 73 in 1948, the
+chapter contained six provisions, each of which requires a
+connection to a pending proceeding or investigation. See Act of
+June 25, 1948, §§1501–1506, 62 Stat. 769–770.
+The central provision is §1503, with its omnibus or catchall
+prohibition against endeavoring “to influence, obstruct, or
+impede, the due administration of justice.” As already
+explained, supra, at 5, it is undisputed that
+§1503’s omnibus clause requires a pending proceeding.
+The same is true for the other five provisions, all of which either
+refer to ongoing legal processes or cover conduct that can arise
+only during legal proceedings.[4]
+
+															By the time Congress passed 8 U. S. C.
+§1101(a)(43)(S) in 1996, Congress had added nine narrower,
+more specific offenses to the six original offenses
+(§§1501–1506) in chapter 73. See 18
+U. S. C. §§1507–1513,
+1516–1517.[5] While it is
+less clear that those specialized provisions fall within the
+heartland of obstruction of justice, even the vast majority of them
+require a connection to a proceeding or investigation.[6] See §1507 (“picket[ing]
+or parad[ing]” with the intent to interfere with “the
+administration of justice”); §1508 (listening to or
+recording jury “deliberat[ions] or voting”); §1510
+(interference with reports of information “to a criminal
+investigator”); §1516 (interfering with a “Federal
+auditor in the performance of official duties”); §1509
+(interfering with “due exercise of rights” under a
+court order); §1513 (retaliating against a witness for
+participating in “an official proceeding”).
+
+															The primary outlier amongst the more recent
+additions to chapter 73 is §1512, which criminalizes tampering
+with a witness, victim, or informant. As the majority notes, that
+provision provides that “[f]or purposes of this section
+. . . an official proceeding need not be pending or about
+to be instituted at the time of the offense.”
+§1512(f )(1). Instead of favoring the majority’s
+conclusion, however, §1512 is the exception that proves the
+rule. There would be no need to clarify that the provision applies
+absent a pending proceeding unless there were an established
+background understanding that obstruction of justice requires such
+a proceeding.[7] Because the
+question at hand concerns the meaning of heartland obstruction of
+justice, excluding “nongeneric” variants
+“defin[ed] . . . more broadly,”
+Taylor, 495 U. S., at 599, what matters here is the
+general rule, not a singular exception to it. To use a lighthearted
+example, it is clear that the “generic” meaning of
+“mammal” includes giving birth to live young, even
+though the platypus is an exception to that rule. Section 1512 thus
+proves the opposite of what the majority takes it to
+prove.[8]
+
+															The Court instead reasons that because
+§1512 does not require a pending investigation or proceeding,
+the answer to the question “Does generic obstruction of
+justice require a pending investigation or proceeding?” must
+be “No.” That line of thinking, however, simply assumes
+that §1512 falls within generic obstruction (it assumes the
+platypus is heartland mammalia). In so assuming, the Court loses
+sight of the task at hand, which is, again, to answer a question
+about the trunk of obstruction of justice, not more broadly defined
+offshoots. See Descamps, 570 U. S., at 257. All signs
+point toward treating §1512 as just such an offshoot, at least
+insofar as it explicitly chooses to dispose with the requirement
+that a proceeding “be pending or about to be instituted at
+the time of the offense.” §1512(f )(1).
+
+															3
+
+															The text of the INA itself confirms that
+Congress did not understand obstruction of justice to encompass all
+witness tampering. In the very same subsection of the INA at issue
+here, Congress expressly used the term “witness
+tampering” separately from “obstruction of
+justice.” 8 U. S. C. §1101(a)(15)(U)(iii).
+Specifically, in a set of provisions defining “U”
+nonimmigrant status,[9]
+Congress again enumerated a list of offenses, many of which overlap
+with the aggravated felonies in §1101(a)(43). See
+§1101(a)(15)(U)(iii); cf. §§1101(a)(43). Just as it
+did for aggravated felonies, Congress included “obstruction
+of justice” in the list. This time, however, Congress added
+witness tampering in addition to obstruction of justice by listing
+“witness tampering; obstruction of justice; [or]
+perjury” as distinct offenses. §1101(a)(15)(U)(iii); cf.
+§1101(a)(43)(S) (“obstruction of justice, perjury or
+subornation of perjury, or bribery of a witness”).
+
+															The Court’s broad interpretation of
+“obstruction of justice,” which swallows up all witness
+tampering, cannot be reconciled with this statutory text. If, on
+the one hand, the Court applies the same broad meaning to
+“obstruction of justice” in §1101(a)(15)(U)(iii),
+then “witness tampering” becomes redundant, in
+violation of the canon that statutes should be read “so as to
+avoid rendering superfluous any parts thereof.” Astoria
+Fed. Sav. & Loan Assn. v. Solimino, 501 U.S.
+104, 112 (1991). If, on the other hand, the Court attempts to
+avoid this problem by interpreting “obstruction of
+justice” differently across the two provisions, then it
+violates “the established canon of construction that similar
+language contained within the same section of a statute must be
+accorded a consistent meaning.” National Credit Union
+Admin. v. First Nat. Bank & Trust Co., 522 U.S.
+479, 501 (1998). Either way, the Court’s interpretation
+fails.
+
+															Although §1101(a)(43)(S) refers to
+“an offense relating to obstruction of justice,” while
+§1101(a)(15)(U)(iii) refers to “criminal activity
+. . . involving . . . obstruction of
+justice” “or any similar activity,” these textual
+differences only reinforce that Congress understood
+“obstruction of justice” and “witness
+tampering” to have quite different ordinary meanings. Given
+that §1101(a)(15)(U)(iii) covers not just “obstruction
+of justice” but “any similar activity,” one must
+infer that Congress took witness tampering to be not only distinct
+from obstruction of justice, but distinct enough to need separate
+mention from “obstruction of justice” “or any
+similar activity.”
+
+															Nor does it matter that §1101(a)(15)(U) was
+added to the INA in 2000 as part of the Victims of Trafficking and
+Violence Protection Act. 114 Stat. 1534. On the contrary, the fact
+that Congress understood “obstruction of justice” to be
+distinct from “witness tampering” just four years after
+enacting §1101(a)(43)(S) is good evidence Congress understood
+the same to be true in 1996, when it deemed “obstruction of
+justice” an aggravated felony under the INA. After all,
+“no one here suggests that the ordinary understanding in the
+years after 1996 somehow differed from the ordinary understanding
+in 1996.” Ante, at 5, n. 1.
+
+															4
+
+															State law points to the same result as the
+other indicia of meaning examined thus far. State law is relevant
+because, in discerning the generic meaning of terms with common-law
+roots, the Court will often survey state statutes in effect at the
+time the federal statute in question was enacted. See
+Taylor, 495 U. S., at 598–599 (considering how
+“burglary” was understood “in the criminal codes
+of most States”). Here, when §1101(a)(43)(S) was enacted
+in 1996, 13 States and the District of Columbia had a crime deemed
+“obstruction of ” or “obstructing”
+“justice.” The majority of those state statutes (eight
+in total) required a connection to an investigation or proceeding
+that was pending, or at least reasonably foreseeable, while the
+remainder were ambiguous on the matter.[10] Thus, when §1101(a)(43)(S) was added to the
+INA in 1996, obstruction of justice
+“ ‘generally’ ” or
+“ ‘typically’ ” required such a
+connection. Id., at 598.
+
+															The majority avoids this conclusion only by,
+once again, adopting a circular approach. In analyzing state law,
+the majority looks exclusively to state witness tampering statutes,
+which it simply assumes are “state obstruction
+offenses.” Ante, at 5. It then concludes that because
+many of those statutes do not require a pending investigation or
+proceeding, neither does obstruction of justice under the INA.
+Ibid. As should be clear by now, that method gets the
+categorical approach backward; if the overarching federal category
+is assumed to include the state offenses in question, there will
+always be a categorical match. One cannot prove that all state
+witness tampering laws fall within the INA’s “relating
+to obstruction of justice” simply by assuming that they
+do.[11]
+
+															The majority also relies on the Model Penal Code
+(MPC). Ante, at 5–6. Although the MPC sometimes can
+provide supplemental evidence of generic meaning, see
+Taylor, 495 U. S., at 598, n. 8, it is critical to
+bear in mind that the MPC is fundamentally a “reform
+movemen[t].” United States v. Bailey, 444 U.S.
+394, 403 (1980). Where that reform involves a definitive break
+from the state of the law at the time in question, the MPC is of
+limited value in discerning generic meaning. Such is the case here.
+The MPC eschews any talk of “obstruction of justice,”
+and instead sets out a series of articles under the heading
+“Offenses Against Public Administration.” ALI, MPC
+§§240–243 (1980). Those articles cover many
+offenses, such as escape from prison (§242.6), perjury
+(§241.1), and bribery (§240.1) that are clearly not
+generic obstruction of justice (indeed, perjury and bribery are
+listed separately from obstruction of justice in
+§1101(a)(43)(S)). Even in the article that most closely
+parallels traditional obstruction of justice (§242.1
+“Obstructing Administration of Law or Other Governmental
+Function”), the MPC gave the word
+“ ‘obstructs’ ” an
+“expansive meaning,” §242.1, Comment 2, at 203,
+and “intended” for the offense described to
+“reach all legitimate activities of government,” not
+just “the administration of justice,” id., at
+203–204. Because of these departures, which have not been
+widely adopted, the MPC carries little weight for purposes of
+discerning the core that forms generic obstruction of justice.
+
+															Despite these issues, the majority focuses,
+again without justification, on the MPC’s description of
+witness tampering (§241.6). See ante, at 6. Even
+setting aside the now-familiar circularity of this reasoning, this
+definition does not help the majority either. In describing witness
+tampering, the MPC reformers chose to depart from “laws
+requiring that a proceeding or investigation actually be
+pending,” §241.6, Comment 2, at 166, by requiring only a
+“belie[f] that an official proceeding or investigation is
+pending or about to be instituted,” §241.6(1)
+(emphasis added). That intentional departure is reason alone to
+treat this MPC description with caution when articulating generic
+obstruction of justice. Yet, the majority goes much further than
+the MPC reformers by dismissing the notion that at least a
+foreseeable investigation or proceeding should be required. See
+ante, at 7, n. 2. That statement by the Court reflects
+just how far afield it has wandered from the heartland of
+obstruction of justice.
+
+															Perhaps sensing the weakness of its evidence,
+the Court falls back on the Government’s “commonsense
+point,” Reply Brief 4, that “one can obstruct the
+wheels of justice even before the wheels have begun to move,”
+ante, at 6. Yet the intuitive idea that “obstruction
+can only arise when justice is being administered,”
+Pettibone, 148 U. S., at 207, finds support in common
+sense to at least the same degree. But while both formulations find
+some support in common sense, the same cannot be said regarding
+other clues about generic meaning. Considered together, the
+relevant history, dictionaries, and federal and state laws provide
+powerful evidence that obstruction of justice “as commonly
+understood,” Descamps, 570 U. S., at 257, when
+Congress enacted 8 U. S. C. §1101(a)(43)(S) in 1996,
+requires a pending investigation or proceeding.
+
+															II
+
+															In a feeble attempt to shore up its argument,
+the Court resorts to a seemingly limitless construction of
+“relating to obstruction of justice,”
+§1101(a)(43)(S), according to which the phrase “relating
+to” covers all offenses “that have ‘a connection
+with’ obstruction of justice,” ante, at 7. That
+reading is a direct result of the Court’s failure to consider
+statutory text and context when interpreting “relating
+to.” After all, “in isolation” that phrase is
+endlessly expansive because, absent a statute-specific
+“limiting principle,” relations “stop
+nowhere.” Maracich v. Spears, 570 U.S.
+48, 59–60 (2013) (internal quotation marks omitted).
+Here, one look at statutory text and context confirms that
+“relating to” must have a narrower meaning.
+
+															The text of the INA “makes [non-U. S.
+citizens] removable based on the nature of their convictions, not
+based on their actual conduct.” Esquivel-Quintana, 581
+U. S., at 389. This explains why, when applying
+§1101(a)(43)(S), courts use the categorical approach, which
+compares the elements of the statute of conviction to the generic
+offense. Without a delineated generic offense, however, this
+comparison falters. The Court’s nebulous reading of
+“relating to obstruction of justice, perjury or
+subornation of perjury, or bribery of a witness,”
+§1101(a)(43)(S) (emphasis added), fails to grapple with this
+reality. Rather than ask whether a conviction is a categorical
+match for, say, generic “perjury,” the majority seems
+to suggest courts should ask if the conviction has “a
+connection with” generic perjury. If that is what the
+majority intends, it is not clear what that question means or how
+courts should go about answering it.
+
+															In contrast, no such problem arises if “an
+offense relating to . . . perjury” or “an
+offense relating to obstruction of justice” is understood
+narrowly to mean simply “an offense qualifying as generic
+perjury” or “an offense qualifying as generic
+obstruction of justice.” The broader statutory context
+confirms this reading. Again and again, §1101(a)(43) uses the
+phrase “relating to” in descriptive parentheticals to
+introduce an ordinary language description of other aggravated
+felonies. For example, to identify the money laundering offenses in
+18 U. S. C. §1956, the INA refers to “an
+offense described in section 1956 of title 18 (relating to
+laundering of money instruments).” §1101(a)(43)(D)
+(emphasis added). This structure, which the INA repeats well over a
+dozen times, see
+§§1101(a)(43)(D)–(E),(H)–(N), confirms that
+the phrase “relating to” is used in the INA simply to
+introduce (not expand upon) a general description of the intended
+crime category.
+
+															The Court’s seemingly expansive reading of
+“in relation to” is also refuted by its consequences
+for the statutory text. If all that is required is a
+“connection with” something that “obstruct[s] the
+wheels of justice,” ante, at 6–7, then the
+Government has open season to argue that all sorts of crimes that
+hinder law enforcement (e.g., failing to report a crime) or
+make detection of a crime more difficult (e.g., money
+laundering) qualify as offenses “relating to obstruction of
+justice.” On this approach, certain other aggravated felonies
+listed in the INA (e.g., §1101(a)(43)(D) (money
+laundering)) will collapse into “obstruction of
+justice,” leading to substantial superfluity in the statute.
+Indeed, the separate categories of perjury and bribery of a witness
+listed in the very same subparagraph, §1101(a)(43)(S), will
+themselves be part of that collapse.
+
+															More importantly, an expansive reading of
+“in relation to” opens the door for the Government to
+argue that many low-level offenses that fall outside of core
+obstruction of justice are “aggravated” felonies, even
+though the INA reserves that label for “especially egregious
+felonies.” Esquivel-Quintana, 581 U. S., at 394.
+For example, misdemeanor convictions for failing to report a crime,
+presenting false identification to an officer, refusing to aid a
+police officer, leaving the scene of a crime, or purchasing a fake
+ID could be taken to count as “relating to obstruction of
+justice.” See Brief for National Immigrant Justice Center et
+al. as Amici
+Curiae 10–25 (collecting
+offenses).[12]
+
+															This significant potential for
+“redundancy,” “unfairness,” and
+“arbitrary” enforcement should have led the Court to
+“exercise interpretive restraint,” Marinello v.
+United States, 584 U. S. ___, ___, ___ (2018) (slip
+op., at 7, 9) (internal quotation marks omitted), when construing
+“relating to.” Indeed, the many problems with an
+expansive reading of “relating to” raise the question
+whether the Court even really intends to adopt such a reading,
+especially because the relevant discussion occupies a single
+paragraph. Perhaps instead the Court simply offers up
+“connection with” as a synonym for “relating
+to,” leaving it for lower courts to settle what that phrase
+actually means.
+
+															III
+
+															While the evidence assembled here is far
+stronger than any offered by the majority, the sheer complexity of
+the task at hand leaves lingering ambiguity, even if the Court
+claims it does not see it. Cf. ante, at 10. To the extent
+doubts remain, however, they are resolved in favor of a narrower
+understanding of §1101(a)(43)(S) by the “longstanding
+principle of construing any lingering ambiguities in deportation
+statutes in favor of the [non-U. S. citizen].”
+INS v. Cardoza-Fonseca, 480 U.S.
+421, 449 (1987).
+
+															This Court resolves doubts in favor of the
+non-U. S. citizen in keeping with the general rule that
+ambiguities in penal statutes should be construed against the
+government. After all, deportation is not only a kind of
+“penalty,” but a “drastic measure” often
+“the equivalent of banishment [or] exile.” Fong Haw
+Tan v. Phelan, 333 U.S.
+6, 10
+(1948). Nowhere is that truer than here. Aggravated felonies under
+the INA are “a category of crimes singled out for the
+harshest deportation consequences.” Carachuri-Rosendo
+v. Holder, 560 U.S.
+563, 566 (2010). If a non-U. S. citizen is convicted of an
+aggravated felony, even if she has a green card and has lived in
+this country for years, she is subject to removal and is also
+ineligible for readmission and many forms of immigration relief.
+See 8 U. S. C. §§1158(b)(2), 1182(a)(9)(A),
+1182(h), 1227(a)(2)(A)(iii), 1229b(a)(3), 1229c(a)(1).
+“Accordingly, removal is a virtually certainty for [a
+non-U. S. citizen] found to have an aggravated felony
+conviction, no matter how long he has previously resided
+here.” Sessions v. Dimaya, 584 U. S. ___,
+___–___ (2018) (slip op., at 1–2). Moreover, a person
+convicted of an “aggravated felony” faces heighted
+criminal sanctions for disobeying orders of removal,
+§1253(a)(1), or reentering the United States without
+permission, §1326(b)(2). For example, the penalty for illegal
+reentry skyrockets from 2 years to 20. See §§1326(a),
+(b)(2).
+
+															This Court has been clear that, in the face of
+such stakes, it “will not assume that Congress meant to
+trench on [a non-U. S. citizen’s] freedom beyond that
+which is required by the narrowest of several possible meanings of
+the words used.” Fong Haw Tan, 333 U. S., at 10.
+While it may be true that certain broader readings of
+“obstruction of justice” are “at least
+plausible,” ante, at 3 (Jackson, J., concurring), that
+is not good enough because it is, at the very minimum, at least
+equally plausible that “obstruction of justice”
+requires a pending investigation or proceeding. The Court should
+have “err[ed] on the side of underinclusiveness” when
+interpreting §1101(a)(43). Moncrieffe, 569 U. S.,
+at 205.
+
+															IV
+
+															By rejecting a central feature of core
+obstruction of justice and adopting a seemingly expansive reading
+of “relating to,” the Court leaves generic obstruction
+of justice without any discernible shape. The Court thus injects
+further chaos into the already fraught question of how to
+understand §1101(a)(43)(S) and opens the door for the
+Government to try to use that provision as a catchall for all sorts
+of criminal activity, whether aggravated or not.
+
+															The Court could perhaps have reined in some of
+that chaos by giving “obstruction of justice”
+affirmative shape and boundaries in other ways, but it makes no
+effort to do so. Instead, the Court simply rejects the legal
+proposition that a pending investigation or proceeding is required
+for a predicate offense to qualify under §1101(a)(43)(S). At
+bottom, its reasoning in support of that conclusion boils down to a
+simple syllogism, which it clothes in various guises: (1)
+Dissuading a witness from reporting a crime to the police qualifies
+as obstruction of justice; (2) the offense of dissuading a witness
+from reporting a crime does not require a pending investigation or
+proceeding; thus (3) some offense qualifying as obstruction of
+justice does not require a pending investigation or proceeding.
+
+															The flaw in this syllogism is, of course,
+premise (1). By assuming, up front and without reason, that
+dissuading a witness from reporting a crime qualifies as
+obstruction of justice, the Court oversteps. Congress could, if it
+wanted, add witness tampering to the INA’s lengthy list of
+aggravated felonies, just as it did with the list of offenses at
+§1101(a)(15)(U)(iii), but it has not done so. The
+Court’s decision today makes that judgment call for Congress.
+“Our license to interpret statutes does not include the power
+to engage in such freewheeling judicial policymaking.”
+Pereida v. Wilkinson, 592 U. S. ___, ___ (2021)
+(slip op., at 16).
+
+															The syllogism’s conclusion is also
+noteworthy for its narrowness. In the end, all the Court really
+holds is that generic obstruction of justice includes one offense
+(dissuading a witness from reporting a crime) that does not require
+a pending investigation or proceeding. Lower courts faced with
+difficult questions about what offenses qualify as categorical
+matches for §1101(a)(43)(S) would do well to bear in mind the
+limited nature of that holding. Many open questions remain
+regarding whether offenses other than dissuading a witness from
+reporting a crime are categorical matches for §1101(a)(43)(S),
+what affirmative understanding of §1101(a)(43)(S) should guide
+that categorical analysis, and whether other offenses that also
+lack a connection to a pending investigation or proceeding can
+qualify under that analysis.[13] I do not take the majority to be addressing any of
+these questions, and great care is warranted in answering them in
+the future.
+
+															*  *  *
+
+															By eliminating a central constraint on what
+qualifies as “an offense relating to obstruction of
+justice” under §1101(a)(43)(S), while providing zero
+affirmative guidance as to what sorts of offenses are a match for
+that category, the majority leaves lower courts and the Board of
+Immigration Appeals without direction and invites the Government to
+advance far-ranging constructions of §1101(a)(43)(S) that bear
+little resemblance to core obstruction of justice. I would leave it
+to Congress, not the Judiciary, to decide which additional crimes
+should be listed as aggravated felonies under the INA. I
+respectfully dissent.
+
+Notes
+1
+ The majority argues that
+if Congress had wanted offenses “relating to obstruction of
+justice” to “have the same coverage as
+§1503(a),” then Congress could have just
+“cross-referenced §1503(a) in
+§1101(a)(43)(S).” Ante., at 8. This argument
+misses the point entirely. If Congress had done that, then only
+persons convicted under §1503 would qualify. Congress’s
+use of the generic “obstruction of justice,” however,
+clearly signals that Congress wanted other state and federal
+offenses sharing the same basic elements to be included as well.
+Section 1503 is a strong indicator of the generic meaning of
+“obstruction of justice” in §1101(a)(43)(S), not
+its equivalent.
+2
+ Although the Court quotes
+Blackstone’s statement that “ ‘dis-suad[ing]
+a witness from giving evidence’ ” was an
+“ ‘impedimen[t] of justice’ ” in
+support of its position, ante, at 8, Blackstone actually
+supports this dissent. The Court ignores that in historical usage
+“giving evidence” meant “testifying” at a
+proceeding. See, e.g., 3 W. Blackstone, Commentaries on the
+Laws of England 305 (1768) (“[E]very defence, which cannot be
+thus specially pleaded, may be given in evidence, upon the general
+issue at the trial”); 2 M. Hale, History of the Pleas of the
+Crown 280 (1736) (“If a reward be promised to a person for
+giving his evidence before he gives it, this, if proved, disables
+his testimony”). The majority also ignores that the
+Blackstone passage is discussing “[c]ontempts against the
+king’s . . . courts of justice.” 4
+Blackstone, Commentaries, at 124 (1769). This context confirms
+Blackstone is referring to impeding a witness from testifying at a
+proceeding, because otherwise it would not be a contempt against
+the king’s courts.
+3
+ While it is possible to
+talk about interfering with or impeding a process before it has
+even begun, those phrases more naturally connote an effect on a
+process that is ongoing. For example, talk of interfering in a
+hiring process strongly suggests that hiring-related activities are
+already underway. Certainly where an upcoming hiring is not even
+foreseeable, it would be unusual to talk of such inference. Yet,
+the majority does not require even a foreseeable investigation or
+proceeding in order for there to be obstruction of justice. See
+ante, at 7, n. 2.
+4
+ The five other original
+chapter 73 offenses are §1501 (“Assault on process
+server”); §1502 (“Resistance to extradition
+agent”); §1504 (“Influencing juror by
+writing”); §1505 (“Influencing or injuring witness
+before agencies and committees”); and §1506
+(“Theft or alteration of record or process; false
+bail”). These provisions remain in chapter 73 to this day,
+with only modest revisions that do not change the need for a
+pending investigation or proceeding.
+5
+ §31(a), 64 Stat.
+1018 (adding §1507 in 1950); §1, 70 Stat. 935 (adding
+§1508 in 1956); §101, 74 Stat. 86 (adding §1509 in
+1960); Pub. L. 90–123, §1(a), 81 Stat. 362 (adding
+§1510 in 1967); §802(a), 84 Stat. 936 (adding §1511
+in 1970); §4(a), 96 Stat. 1249 (adding §1512 in 1982);
+id., at 1250 (adding §1513 in 1982); §7078(a), 102
+Stat. 4406 (adding §1516 in 1988); §2503(a), 104 Stat.
+4861 (adding §1517 in 1990).
+6
+ The two exceptions are
+§§1511 and 1512. Section 1511 is a special-ized
+provision, enacted as part of the Organized Crime Control Act of
+1970, §802, 84 Stat. 936, which prohibits “conspir[ing]
+to obstruct the enforcement of the criminal laws of a State
+. . . with the intent to facilitate an illegal gambling
+business.” 18 U. S. C. §1511(a). Given that
+§1511 is a specialized conspiracy provision intended to
+“discourage organized crime’s corruption of state and
+local officials for the purpose of facilitating gambling
+enterprises,” Iannelli v. United States,
+420 U.S.
+770, 788 (1975), it has no bearing on core obstruction of
+justice. Section 1512 is discussed infra, at
+10–11.
+7
+ In a testament to the
+gravitational force of the weighty background rule that a pending
+proceeding is generally required, this Court has interpreted
+§1512 to at least require a foreseeable proceeding. See
+Arthur Andersen LLP v. United States, 544 U.S.
+696, 707–708 (2005).
+8
+ The majority also
+mentions §1518 (Obstruction of criminal investigations of
+health care offenses) and §1519 (Destruction, alteration, or
+falsification of records in federal investigations and bankruptcy),
+which were enacted after Congress passed §1101(a)(43)(S). See
+§245(a), 110 Stat. 2017 (adding §1518 in 1996);
+§802(a), 116 Stat. 800 (adding §1519 in 2002). Both are
+highly “specialized” provisions concerned with
+“corporate fraud and financial audits.” Yates v.
+United States, 574 U.S.
+528, 541 (2015) (plurality opinion). Given that these later
+enacted offenses are specialized extensions of obstruction of
+justice, they are irrelevant to determining what Congress in 1996
+understood as the generic meaning of “obstruction of
+justice” in §1101(a)(43)(S). While the concurrence
+suggests that “obstruction of justice” is coextensive
+with chapter 73, ante, at 2–3 (opinion of Jackson,
+J.), the concurrence (like the majority) does not engage with these
+issues regarding §§1518 and 1519, nor with the problems
+noted above about §§1511 and 1512, see supra, at
+9–11, even though all of these issues have been thoroughly
+ventilated in these cases. See Brief for Petitioner in No.
+22–23, pp. 23–29; Brief for Respondent in No.
+22–331, pp. 15–21; Brief for Attorney General
+24–31.
+9
+ Persons eligible for
+“U” nonimmigrant status are victims of certain
+qualifying criminal activity who are helpful to officials
+investigating or prosecuting such activity. See 8
+U. S. C. §1101(a)(15)(U)(i).
+10  See
+Haw. Rev. Stat. §710–1072.5 (1996) (connection
+required); La. Rev. Stat. Ann. §14:130.1 (West 1996) (same);
+Md. Ann. Code, Art. 27, §26 (1996) (same); Miss. Code Ann.
+§97–9–55 (1996) (same); Va. Code Ann.
+§18.2–460 (1996) (same); Vt. Stat. Ann., Tit. 13,
+§3015 (1996) (same); W. Va. Code Ann.
+§61–5–27 (1996) (same); Wis. Stat. §946.65
+(1996) (same); Ind. Code Ann. §35–44–3–4
+(ambiguous); Ohio Rev. Code Ann. §2921.32 (1996) (same); Utah
+Code Ann. §76–8–306 (1996) (same); D. C. Code
+§22–722 (1996) (same); Ill. Comp. Stat., ch. 720,
+§5/31–4 (1996) (same); Mont. Code Ann.
+§45–7–303 (1996) (same).
+11  Moreover, even assuming state witness
+tampering statutes are relevant, it is noteworthy that in 1996 the
+vast majority of States (39 in total) categorized their witness
+tampering statutes as something other than “obstruction of
+justice.” See, e.g., Ala. Code
+§13A–10–124 (1996) (categorized under
+“Offenses Against Public Administration”); Colo. Rev.
+Stat. §18–8–707 (1996) (categorized under
+“Offenses—Governmental Operations”); Idaho Code
+Ann. §18–2604 (1996) (categorized under “Evidence
+Falsified or Concealed and Witnesses Intimidated or Bribed”);
+see also Brief for Respondent in No. 22–331, pp. 26–28
+(collecting statutes). Of the remaining 11 States that located
+their witness tampering statutes in the part of the Criminal Code
+prohibiting “obstructing” or “obstruction”
+of “justice,” at least 7 required a connection to a
+pending investigation or proceeding. See Ind. Code Ann.
+§35–44–3–4(a)(1); Md. Ann. Code, Art. 27,
+§26; Miss. Code Ann. §97–9–55; Nev. Rev.
+Stat. Ann. §199.230 (1996); N. C. Gen. Stat. Ann.
+§14–266 (1996); Vt. Stat. Ann., Tit. 13, §3015; W.
+Va. Code Ann. §61–5–27. State law on the whole
+thus favors a pending investigation or proceeding requirement for
+generic obstruction of justice.
+12  Of
+course, many of the convictions the Government seeks to shoe-horn
+into “obstruction of justice” are serious offenses,
+even if they are not a categorical match for obstruction of
+justice. Such convictions, however, may render non-U. S.
+citizens removable for other reasons (e.g., if they qualify
+as crimes involving moral turpitude). Moreover, when noncitizens
+are removable, any discretionary immigration relief for which they
+may be eligible will “depen[d] upon the discretion of the
+Attorney General.” Carachuri-Rosendo v.
+Holder, 560 U.S.
+563, 581 (2010). Thus, any difference between the majority and
+the dissent in terms of “practical effect on policing our
+Nation’s borders . . . is a limited one.”
+Ibid.
+13  On
+this list of open questions is whether state
+accessory-after-the-fact convictions like petitioner Pugin’s
+are a categorical match for §1101(a)(43)(S). The majority
+affirms the Fourth Circuit’s legal holding that a pending
+investigation or proceeding is unnecessary for an offense to
+qualify under §1101(a)(43)(S). The majority is conspicuously
+silent, however, regarding the underlying offense itself and
+whether it is obstruction of justice under §1101(a)(43)(S).
+And for good reason, because accessory offenses have their own
+distinct pedigree and purpose with historical roots far afield from
+that of obstruction of justice. Cf. R Perkins, Parties to Crime, 89
+U. Pa. L. Rev. 581, 581–582, 605–607
+(1941).
+
+

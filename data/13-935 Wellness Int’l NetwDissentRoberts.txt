@@ -1,0 +1,275 @@
+::SCDB_caseID:: 2014-038
+::decision_cite:: 13-935
+::decision_name::  Wellness Int’l Network, Ltd. v. Sharif
+::decision_year:: 2015
+::opinion_author:: Roberts
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–935
+
+															_________________
+
+															WELLNESS INTERNATIONAL NETWORK, LIMITED, et al, PETITIONERS v. RICHARD SHARIF
+
+															on writ of certiorari to the united states court of appeals for the seventh circuit
+
+															[May 26, 2015]
+
+															
+
+															Chief Justice Roberts, with whom Justice Scalia joins, and with whom Justice Thomas joins as to Part I, dissenting.
+
+															The Bankruptcy Court in this case granted judgmentto Wellness on its claim that Sharif’s bankruptcy estate contained assets he purportedly held in a trust.  Provided that no third party asserted a substantial adverse claim to those assets, the Bankruptcy Court’s adjudication “stems from the bankruptcy itself” rather than from “the stuff of the traditional actions at common law tried by the courts at Westminster in 1789.”  Stern v. Marshall, 564 U. S. ___, ___ (2011) (slip op., at 18, 34) (internal quotation marks omitted).  Article III poses no barrier to such a decision.  That is enough to resolve this case.
+
+															Unfortunately, the Court brushes aside this narrow basis for decision and proceeds to the serious constitutional question whether private parties may consent to an Article III violation.  In my view, they cannot.  By reserving the judicial power to judges with life tenure and salary protection, Article III constitutes “an inseparable element of the constitutional system of checks and balances”—a structural safeguard that must “be jealously guarded.”  Northern Pipeline Constr. Co. v. Marathon Pipe Line Co.,
+
+458 U. S. 50,
+58,
+60 (1982)
+ (plurality opinion).
+
+															Today the Court lets down its guard.  Despite our precedent directing that “parties cannot by consent cure” an Article III violation implicating the structural separation of powers, Commodity Futures Trading Comm’n v. Schor,
+
+478 U. S. 833
+–851 (1986), the majority authorizes litigants to do just that.  The Court justifies its decision largely on pragmatic grounds.  I would not yield so fully to functionalism.  The Framers adopted the formal protections of Article III for good reasons, and “the fact that a given law or procedure is efficient, convenient, and useful in facilitating functions of government, standing alone, will not save it if it is contrary to the Constitution.”  INS v. Chadha,
+
+462 U. S. 919,
+944 (1983)
+.
+
+															The impact of today’s decision may seem limited, but the Court’s acceptance of an Article III violation is not likely to go unnoticed.  The next time Congress takes judicial power from Article III courts, the encroachment may not be so modest—and we will no longer hold the high ground of principle.  The majority’s acquiescence in the erosion of our constitutional power sets a precedent that I fear we will regret.  I respectfully dissent.
+
+															I
+
+															The Court granted certiorari on two questions in this case.  The first is whether the Bankruptcy Court’s entry of final judgment on Wellness’s claim violated Article III based on Stern.  The second is whether an Article III violation of the kind recognized in Stern can be cured by consent.  Because the first question can be resolved on narrower grounds, I would answer it alone.
+
+															A
+
+															The Framers of the Constitution “lived among the ruins of a system of intermingled legislative and judicial powers.”  Plaut v. Spendthrift Farm, Inc.,
+
+514 U. S. 211,
+219 (1995)
+.  Under British rule, the King “made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.”  The Declaration of Independence ¶11.  Between the Revolution and the Constitutional Convention, state legislatures routinely interfered with judgments of the courts.  This history created the “sense of a sharp necessity to separate the legislative from the judicial power.”  Plaut, 514 U. S., at 221; see Perez v. Mortgage Bankers Assn., 575 U. S. ___, ___–___ (2015) (Thomas, J., concurring in judgment) (slip op., at 5–8).  The result was Article III, which established a judiciary “truly distinct from both the legislature and the executive.”  The Federalist No. 78, p. 466 (C. Rossiter ed. 1961) (A. Hamilton).
+
+															Article III vests the “judicial Power of the United States” in “one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.”  Art. III, §1.  The judges of those courts are entitled to hold their offices “during good Behaviour” and to receive compensation “which shall not be diminished” during their tenure.  Ibid.  The judicial power extends “to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties” and to other enumerated matters.  Art. III, §2. Taken together, these provisions define the constitutional birthright of Article III judges: to “render dispositive judgments” in cases or controversies within the bounds of federal jurisdiction.  Plaut, 514 U. S., at 219 (internal quotation marks omitted).
+
+															With narrow exceptions, Congress may not confer power to decide federal cases and controversies upon judges who do not comply with the structural safeguards of Article III.  Those narrow exceptions permit Congress to establish non-Article III courts to exercise general jurisdiction in the territories and the District of Columbia, to serve as military tribunals, and to adjudicate disputes over “public rights” such as veterans’ benefits.  Northern Pipeline, 458 U. S., at 64–70 (plurality opinion).
+
+															Our precedents have also recognized an exception to the requirements of Article III for certain bankruptcy proceedings.  When the Framers gathered to draft the Constitution, English statutes had long empowered nonjudicial bankruptcy “commissioners” to collect a debtor’s property, resolve claims by creditors, order the distribution of assets in the estate, and ultimately discharge the debts.  See 2 W. Blackstone, Commentaries *471–488.  This historical practice, combined with Congress’s constitutional author-ity to enact bankruptcy laws, confirms that Congress may assign to non-Article III courts adjudications involving “the restructuring of debtor-creditor relations, which is at the core of the federal bankruptcy power.”  Northern Pipeline, 458 U. S., at 71 (plurality opinion).
+
+															Although Congress may assign some bankruptcy proceedings to non-Article III courts, there are limits on that power.  In Northern Pipeline, the Court invalidated statutory provisions that permitted a bankruptcy court to enter final judgment on a creditor’s state law claim for breach of contract.  Because that claim arose not from the bankruptcy but from independent common law sources, a majorityof the Court determined that Article III required an adjudicator with life tenure and salary protection.  See id., at 84; id., at 90–91 (Rehnquist, J., concurring in judgment).
+
+															Congress responded to Northern Pipeline by allowing bankruptcy courts to render final judgments only in “core” bankruptcy proceedings.
+
+28 U. S. C. §157(b).  Those judgments may be appealed to district courts and reviewed under deferential standards.  §158(a).  In non-core proceedings, bankruptcy judges may submit proposed findings of fact and conclusions of law, which the district court must review de novo before entering final judgment.  §157(c)(1).
+
+															In Stern, we faced the question whether a bankruptcy court could enter final judgment on an action defined by Congress as a “core” proceeding—an estate’s counterclaim against a creditor based on state tort law.  §157(b)(2)(C).  We said no.  Because the tort claim neither “stem[med] from the bankruptcy itself” nor would “necessarily be resolved in the claims allowance process,” it fell outside the recognized exceptions to Article III.  564 U. S., at ___ (slip op., at 34).  Like the contract claim in Northern Pipeline, the tort claim in Stern involved “the stuff of the traditional actions at common law tried by the courts at Westminster in 1789.”  Id., at ___ (slip op., at 18) (quoting Northern Pipeline, 458 U. S., at 90 (Rehnquist, J., concurring in judgment)).  Congress had no power under the Constitution to assign the resolution of such a claim to a judge who lacked the structural protections of Article III.
+
+															B
+
+															The question here is whether the claim Wellness submitted to the Bankruptcy Court is a “Stern claim” that requires final adjudication by an Article III court.  See Executive Benefits Ins. Agency v. Arkison, 573 U. S. ___, ___–___ (2014) (slip op., at 8–9) (assuming without deciding that a fraudulent conveyance action is a “Stern claim”).  As the Court recounts, Wellness alleged that Sharif had concealed about $5 million of assets by claiming that they were owned by a trust.  Wellness sought a declaratory judgment that the trust was in fact Sharif’s alter ego and that its assets should accordingly be part of his bankruptcy estate.  The Bankruptcy Court granted final judgment (based on Sharif’s default) to Wellness, declaring that the trust assets were part of Sharif’s estate because he had treated them as his own property.  Ante, at 5–6.
+
+															In my view, Article III likely poses no barrier to the Bankruptcy Court’s resolution of Wellness’s claim.  At its most basic level, bankruptcy is “an adjudication of interests claimed in a res.”  Katchen v. Landy,
+
+382 U. S. 323,
+329 (1966)
+ (internal quotation marks omitted).  Wellness asked the Bankruptcy Court to declare that assets held by Sharif are part of that res.  Defining what constitutes the estate is the necessary starting point of every bankruptcy; a court cannot divide up the estate without first knowing what’s in it.  See
+
+11 U. S. C. §541(a).  As the Solicitor General explains, “Identifying the property of the estate is therefore inescapably central to the restructuring of the debtor-creditor relationship.”  Brief for United States as Amicus Curiae 14.
+
+															Identifying property that constitutes the estate has long been a central feature of bankruptcy adjudication.  English bankruptcy commissioners had authority not only to collect property in the debtor’s possession, but also to “cause any house or tenement of the bankrupt to be broken open,” in order to uncover and seize property the debtor had concealed.  2 W. Blackstone, Commentaries *485.  America’s first bankruptcy statute, enacted by Congress in 1800, similarly gave commissioners “power to take into their possession, all the estate, real and personal, of every nature and description to which the [debtor] may be entitled, either in law or equity, in any manner whatsoever.”  §5,
+
+2Stat.
+23.  That is peculiarly a bankruptcy power.
+
+															The Bankruptcy Act of 1898 provides further support for Wellness’s position.  Under that Act, bankruptcy referees had authority to exercise “summary” jurisdiction over certain claims, while other claims could only be adjudi-cated in “plenary” proceedings before an Article III district court.  See Arkison, 573 U. S., at ___–___ (slip op., at 4–5).  This Court interpreted the 1898 Act to permit bankruptcy referees to exercise summary jurisdiction to determine whether property in the actual or constructive possession of a debtor should come within the estate, at least when no third party asserted more than a “merely colorable” claim to the property.  Mueller v. Nugent,
+
+184 U. S. 1,
+15 (1902)
+.  In the legal parlance of the times, a “merely colorable” claim was one that existed “in appearance only, and not in reality.”  Black’s Law Dictionary 223 (1891).  So a bankruptcy referee could exercise summary jurisdiction over property in the debtor’s possession as long as no third party asserted a “substantial adverse” claim.  Taubel-Scott-Kitzmiller Co. v. Fox,
+
+264 U. S. 426
+–433 (1924).
+
+															Here, Sharif does not contest that he held legal title to the assets in the trust.  Assuming that no third party asserted a substantial adverse claim to those assets—an inquiry for the Bankruptcy Court on remand—Wellness’s alter ego claim fits comfortably into the category of cases that bankruptcy referees could have decided by themselves under the 1898 Act.
+
+															In Mueller, for example, this Court held that a bankruptcy referee could exercise summary jurisdiction over property in the possession of a third party acting as the debtor’s agent.  184 U. S., at 14–17; see Black’s Law Dictionary 302 (10th ed. 2014) (example of a merely “color-able” claim is “one made by a person holding property as an agent or bailee of the bankrupt”).  Similarly, this Court held that a bankruptcy referee could exercise summary jurisdiction over a creditor’s claim that the debtor had concealed assets under the veil of a corporate entity that was “nothing but a sham and a cloak.”  Sampsell v. Imperial Paper & Color Corp.,
+
+313 U. S. 215
+–217 (1941) (internal quotation marks omitted), rev’g 114 F. 2d 49, 52 (CA9 1940) (describing creditor’s claim that corporation was debtor’s “alter ego”).  As the Court explained in Sampsell, the “legal existence of the affiliated corporation” did not automatically require a plenary proceeding, because “[m]ere legal paraphernalia will not suffice to transform into a substantial adverse claimant a corporation whose affairs are so closely assimilated to the affairs of the dominant stockholder that in substance it is little more than his corporate pocket.”  313 U. S., at 218.  Just as the bankruptcy referee in that case had authority to decide whether assets allegedly concealed behind the corporate veil belonged to the bankruptcy estate, the Bankruptcy Court here had authority to decide whether the assets allegedly concealed in the trust belonged to Sharif’sestate.
+
+															Sharif contends that Wellness’s alter ego claim is more like an allegation of a fraudulent conveyance, which this Court has implied must be adjudicated by an Article III court.  See Granfinanciera, S. A. v. Nordberg,
+
+492 U. S. 33,
+56 (1989)
+; Arkison, 573 U. S., at ___–___ (slip op., at 8–9).  Although both actions aim to remedy a debtor’s deception, they differ in a critical respect.  A fraudulent conveyance claim seeks assets in the hands of a third party, while an alter ego claim targets only the debtor’s “second self.”  Webster’s New International Dictionary 76 (2d ed. 1954).  That distinction is significant given bankruptcy’s historic domain over property within the actual or constructive “possession [of] the bankrupt at the time of the filing of the petition.”  Thompson v. Magnolia Petroleum Co.,
+
+309 U. S. 478,
+481 (1940)
+.  Through a fraudulent conveyance, a dishonest debtor relinquishes possession of assets before filing for bankruptcy.  Reclaiming those assets for the estate requires depriving third parties of property within their otherwise lawful possession and control, an action that “quintessentially” required a suit at common law.  Granfinanciera, 492 U. S., at 56.  By contrast, a debtor’s possession of property provided “an adequate basis” for a bankruptcy referee to adjudicate a dispute over title in a summary proceeding.  Thompson, 309 U. S., at 482; see Mueller, 184 U. S., at 15–16 (distinguishing claim to property in possession of debtor’s agent from fraudulent conveyance claim in determining that bankruptcy referee could exercise summary jurisdiction).
+
+															In sum, unlike the fraudulent conveyance claim in Granfinanciera, Wellness’s alter ego claim alleges that assets within Sharif’s actual or constructive possession belong to his estate.  And unlike the breach of contract and tort claims at issue in Northern Pipeline and Stern, Wellness’s claim stems not from any independent source of law but “from the bankruptcy itself.”  Stern, 564 U. S., at ___ (slip op., at 34).  Provided that no third party asserted a substantial adverse claim to the trust assets, Wellness’s claim therefore falls within the narrow historical exception that permits a non-Article III adjudicator in certain bankruptcy proceedings.  I would reverse the contrary holding by the Court of Appeals and end our inquiry there, rather than deciding a broader question that may not be necessary to the disposition of this case.
+
+															II
+
+															The Court “expresses no view” on whether Wellness’s claim was a Stern claim.  Ante, at 8, n. 7.  Instead, the Court concludes that the Bankruptcy Court had constitutional authority to enter final judgment on Wellness’s claim either way.  The majority rests its decision on Sharif’s purported consent to the Bankruptcy Court’s adjudication.  But Sharif has no authority to compromise the structural separation of powers or agree to an exercise of judicial power outside Article III.  His consent therefore cannot cure a constitutional violation.
+
+															A
+
+															“[I]f there is a principle in our Constitution . . . more sacred than another,” James Madison said on the floor of the First Congress, “it is that which separates the Legislative, Executive, and Judicial powers.”  1 Annals of Cong. 581 (1789).  A strong word, “sacred.”  Madison was the principal drafter of the Constitution, and he knew what he was talking about.  By diffusing federal powers among three different branches, and by protecting each branch against incursions from the others, the Framers devised a structure of government that promotes both liberty and accountability.  See Bond v. United States, 564 U. S. ___, ___–___ (2011) (slip op., at 10–11); Free Enterprise Fund v. Public Company Accounting Oversight Bd., 561 U. S.477, 497–501 (2010) (PCAOB); Youngstown Sheet & Tube Co. v. Sawyer,
+
+343 U. S. 579,
+635 (1952)
+ (Jackson, J., concurring). 
+
+															Preserving the separation of powers is one of this Court’s most weighty responsibilities.  In performing that duty, we have not hesitated to enforce the Constitution’s mandate “that one branch of the Government may not intrude upon the central prerogatives of another.”  Loving v. United States,
+
+517 U. S. 748,
+757 (1996)
+.  We have accordingly invalidated executive actions that encroach upon the power of the Legislature, see NLRB v. Noel Canning, 573 U. S. ___ (2014); Youngstown,
+
+343 U. S. 579
+; legislative actions that invade the province of the Executive, see PCAOB,
+
+561 U. S. 477
+; Bowsher v. Synar,
+
+478 U. S. 714 (1986)
+; Chadha,
+
+462 U. S. 919
+; Myers v. United States,
+
+272 U. S. 52 (1926)
+; and actions by either branch that trench upon the territory of the Judiciary, see Stern, 564 U. S. ___; Plaut,
+
+514 U. S. 211
+; United States v. Will,
+
+449 U. S. 200 (1980)
+; United States v. Klein, 13 Wall. 128 (1872); Hayburn’s Case, 2 Dall. 409 (1792).
+
+															In these and other cases, we have emphasized that the values of liberty and accountability protected by the separation of powers belong not to any branch of the Government but to the Nation as a whole.  See Bowsher, 478 U. S., at 722.  A branch’s consent to a diminution of its constitutional powers therefore does not mitigate the harm or cure the wrong.  “Liberty is always at stake when one or more of the branches seek to transgress the separation of powers.”  Clinton v. City of New York,
+
+524 U. S. 417,
+450 (1998)
+ (Kennedy, J., concurring).  When the Executive and the Legislature agreed to bypass the Article I, §7, requirements of bicameralism and presentment by creating a Presidential line-item veto—a very pragmatic proposal—the Court held that the arrangement violated the Constitution notwithstanding the voluntary participation of both branches.  Id., at 421 (majority opinion).  Likewise, the Court struck down a one-House “legislative veto” that violated Article I, §7, even though Presidents and Congresses had agreed to include similar provisions in hundreds of laws for more than 50 years.  Chadha, 462 U. S., at 944–945.
+
+															In neither of these cases did the branches’ willing embrace of a separation of powers violation weaken the Court’s scrutiny.  To the contrary, the branches’ “enthusiasm” for the offending arrangements “ ‘sharpened rather than blunted’ our review.”  Noel Canning, 573 U. S., at ___ (Scalia, J., concurring in judgment) (slip op., at 4) (quoting Chadha, 462 U. S, at 944).  In short, because the structural provisions of the Constitution protect liberty and not just government entities, “the separation of powers does not depend on . . . whether ‘the encroached-upon branch approves the encroachment.’ ”  PCAOB, 561 U. S., at 497 (quoting New York v. United States,
+
+505 U. S. 144,
+182 (1992)
+).
+
+															B
+
+															If a branch of the Federal Government may not consent to a violation of the separation of powers, surely a private litigant may not do so.  Just as a branch of Government may not consent away the individual liberty interest protected by the separation of powers, so too an individual may not consent away the institutional interest protected by the separation of powers.  To be sure, a private litigant may consensually relinquish individual constitutional rights.  A federal criminal defendant, for example, may knowingly and voluntarily waive his
+ 
+Sixth Amendment right to a jury trial by pleading guilty to a charged offense.  See Brady v. United States,
+
+397 U. S. 742,
+748 (1970)
+.  But that same defendant may not agree to stand trial on federal charges before a state court, a foreign court, or a moot court, because those courts have no constitutional author-ity to exercise judicial power over his case, and he has no power to confer it.  A “lack of federal jurisdiction cannot be waived or be overcome by an agreement of the parties.”  Mitchell v. Maurer,
+
+293 U. S. 237,
+244 (1934)
+.
+
+															As the majority recognizes, the Court’s most extensive discussion of litigant consent in a separation of powers case occurred in Commodity Futures Trading Comm’n v. Schor,
+
+478 U. S. 833 (1986)
+.  There the Court held that Article III confers both a “personal right” that can be waived through consent and a structural component that “safeguards the role of the Judicial Branch in our tripartite system.”  Id., at 848, 850.  “To the extent that this structural principle is implicated in a given case, the parties cannot by consent cure the constitutional difficulty for the same reason that the parties by consent cannot confer on federal courts subject-matter jurisdiction beyond the limitations imposed by Article III.”  Id., at 850–851.  Thus, when “Article III limitations are at issue, notions of consent and waiver cannot be dispositive because the limitations serve institutional interests that the parties cannot be expected to protect.”  Id., at 851.
+
+															Schor’s holding that a private litigant can consent to an Article III violation that affects only his “personal right” has been vigorously contested.  See id., at 867 (Brennan, J., dissenting) (“Because the individual and structural interests served by Article III are coextensive, I do not believe that a litigant may ever waive his right to an Article III tribunal where one is constitutionally required”); Granfinanciera, 492 U. S., at 70 (Scalia, J., concurring in part and concurring in judgment).  But whatever the merits of that position, nobody disputes that Schor forbids a litigant from consenting to a constitutional violation when the structural component of Article III “is implicated.”  478 U. S., at 850–851.  Thus, the key inquiry in this case—as the majority puts it—is “whether allowing bankruptcy courts to decide Stern claims by consent would ‘impermissibly threaten the institutional integrity of the Judicial Branch.’ ”  Ante, at 12 (quoting Schor, 478 U. S., at 851; alteration omitted).
+
+															One need not search far to find the answer.  In Stern, this Court applied the analysis from Schor to bankruptcy courts and concluded that they lack Article III authority to enter final judgments on matters now known as Stern claims.  The Court noted that bankruptcy courts, unlike the administrative agency in Schor, were endowed by Congress with “substantive jurisdiction reaching any area of the corpus juris,” power to render final judgments enforceable without any action by Article III courts, and authority to adjudicate counterclaims entirely independent of the bankruptcy itself.  564 U. S., at ___–___ (slip op., at 25–29).  The Court concluded that allowing Congress to bestow such authority on non-Article III courts would “compromise the integrity of the system of separated powers and the role of the Judiciary in that system.”  Id., at ___ (slip op., at 38).  If there was any room for doubt about the basis for its holding, the Court dispelled it by asking a question: “Is there really a threat to the separation of powers where Congress has conferred the judicial power outside Article III only over certain counterclaims in bankruptcy?”  Id., at ___ (slip op., at 37).  “The short but emphatic answer is yes.”  Ibid.
+In other words, allowing bankruptcy courts to decide Stern claims by consent would “impermissibly threaten the institutional integrity of the Judicial Branch.”  Ante, at 12 (internal quotation marks and alteration omitted).  It is little wonder that the Court of Appeals felt itself bound by Stern and Schor to hold that Sharif’s consent could not cure the Stern violation.  727 F. 3d 751, 771 (CA7 2013).  Other Courts of Appeals have adopted the same reading.  See In re BP RE, L. P., 735 F. 3d 279, 287 (CA5 2013); Waldman v. Stone, 698 F. 3d 910, 917–918 (CA6 2012).
+
+															The majority attempts to avoid this conclusion through an imaginative reconstruction of Stern.  As the majority sees it, Stern “turned on the fact that the litigant ‘did not truly consent to’ resolution of the claim” against him in the Bankruptcy Court.  Ante, at 15 (quoting 564 U. S., at ___ (slip op., at 27)).  That is not a proper reading of the decision.  The constitutional analysis in Stern, spanning 22 pages, contained exactly one affirmative reference to the lack of consent.  See ibid.  That reference came amid a long list of factors distinguishing the proceeding in Stern from the proceedings in Schor and other “public rights” cases.  564 U. S., at ___–___ (slip op., at 27–29).  Stern’s subsequent sentences made clear that the notions of consent relied upon by the Court in Schor did not apply in bankruptcy because “creditors lack an alternative forum to the bankruptcy court in which to pursue their claims.”  564 U. S., at ___ (slip op., at 28) (quoting Granfinanciera, 492 U. S., at 59, n. 14).  Put simply, the litigant in Stern did not consent because he could not consent given the nature of bankruptcy.
+
+															There was an opinion in Stern that turned heavily on consent: the dissent.  564 U. S., at ___–___ (opinion of Breyer, J.) (slip op., at 12–14).  The Stern majority responded to the dissent with a counterfactual: Even if consent were relevant to the analysis, that factor would not change the result because the litigant did not truly consent.  Id., at ___–___ (slip op., at 28–29).  Moreover, Stern held that “it does not matter who” authorizes a bankruptcy judge to render final judgments on Stern claims, because the “constitutional bar remains.”  Id., at ___ (slip op., at 36).  That holding is incompatible with the majority’s conclusion today that two litigants can authorize a bankruptcy judge to render final judgments on Stern claims, despite the constitutional bar that remains.
+
+															The majority also relies heavily on the supervision and control that Article III courts exercise over bankruptcy courts.  Ante, at 12–15. As the majority notes, court of appeals judges appoint bankruptcy judges, and bankruptcy judges receive cases only on referral from district courts (although every district court in the country has adopted a standing rule automatically referring all bankruptcy filings to bankruptcy judges, see 1 Collier on Bankruptcy ¶3.02[1], p. 3–26 (16th ed. 2014)).  The problem is that Congress has also given bankruptcy courts authority to enter final judgments subject only to deferential appellate review, and Article III precludes those judgments when they involve Stern claims.  The fact that Article III judges played a role in the Article III violation does not remedy the constitutional harm.  We have already explained why.
+
+															It is a fundamental principle that no branch of government can delegate its constitutional functions to an actor who lacks authority to exercise those functions.  See Whitman v. American Trucking Assns., Inc.,
+
+531 U. S. 457,
+472 (2001)
+; Carter v. Carter Coal Co.,
+
+298 U. S. 238,
+311 (1936)
+.  Such delegations threaten liberty and thwart accountability by empowering entities that lack the structural protections the Framers carefully devised.  See Department of Transportation v. Association of American Railroads, 575 U. S. ___, ___–___ (2015) (Alito, J., concurring) (slip op., at 6–7); id., at ___–___ (Thomas, J., concurring in judgment) (slip op., at 2–3); Mistretta v. United States,
+
+488 U. S. 361
+–422 (1989) (Scalia, J., dissenting).  Article III judges have no constitutional authority to delegate the judicial power—the power to “render dispositive judgments”—to non-Article III judges, no matter how closely they control or supervise theirwork.  Plaut, 514 U. S., at 219 (internal quotation marks omitted).
+
+															In any event, the majority’s arguments about supervision and control are not new.  They were considered and rejected in Stern.  See 564 U. S., at ___ (slip op., at 36) (“it does not matter who appointed the bankruptcy judge or authorized the judge to render final judgments”); see also Northern Pipeline, 458 U. S., at 84–86 (plurality opinion); id., at 91 (Rehnquist, J., concurring in judgment).  The majority points to no differences between the bankruptcy proceeding in Stern and the bankruptcy proceeding here, except for Sharif’s purported consent.  The majority thus treats consent as “dispositive” in curing the structural separation of powers violation—precisely what Schor said consent could not do.  478 U. S., at 851.
+
+															C
+
+															Eager to change the subject from Stern, the majority devotes considerable attention to defending the authority of magistrate judges, who may conduct certain proceedings with the consent of the parties under
+
+28 U. S. C. §636.  No one here challenges the constitutionality of magistrate judges or disputes that they, like bankruptcy judges, may issue reports and recommendations that are reviewed de novo by Article III judges.  The cases about magistrate judges cited by the majority therefore have little bearing on this case, because none of them involved a constitutional challenge to the entry of final judgment by a non-Article III actor.  See Roell v. Withrow,
+
+538 U. S. 580 (2003)
+ (statutory challenge only); Peretz v. United States,
+
+501 U. S. 923 (1991)
+ (challenge to a magistrate judge’s conduct of voir dire in a felony trial); Gomez v. United States,
+
+490 U. S. 858 (1989)
+ (same).
+
+															The majority also points to 19th-century cases in which courts referred disputes to non-Article III referees, masters, or arbitrators.  Ante, at 8.  In those cases, however, it was the Article III court that ultimately entered final judgment.  E.g., Thornton v. Carson, 7 Cranch 596, 600 (1813) (“the Court was right in entering the judgment for the sums awarded”).  Article III courts do refer matters to non-Article III actors for assistance from time to time.  This Court does so regularly in original jurisdiction cases.  See, e.g., Kansas v. Nebraska, 574 U. S. ___, ___ (2015) (slip op., at 1).  But under the Constitution, the “ultimate responsibility for deciding” the case must remain with the Article III court.  Id., at ___ (slip op., at 6) (quoting Colorado v. New Mexico,
+
+467 U. S. 310,
+317 (1984)
+).
+
+															The concurrence’s comparison of bankruptcy judges to arbitrators is similarly inapt.  Ante, at 1 (opinion of Alito, J.).  Arbitration is “a matter of contract” by which parties agree to resolve their disputes in a private forum.  Rent-A-Center, West, Inc. v. Jackson,
+
+561 U. S. 63,
+67 (2010)
+.  Such an arrangement does not implicate Article III any more than does an agreement between two business partners to submit a difference of opinion to a mutually trusted friend.  Arbitration agreements, like most private contracts, can be enforced in court.  And Congress, pursuant to its Commerce Clause power, has authorized district courts to enter judgments enforcing arbitration awards under certain circumstances.  See
+
+9 U. S. C. §9.  But this ordinary scheme of contract enforcement creates no constitutional concern.  As the concurrence acknowledges, only Article III judges—not arbitrators—may enter final judgments enforcing arbitration awards.  Ante, at 1. 
+
+															The discussion of magistrate judges, masters, arbitrators, and the like fits with the majority’s focus on the supposedly dire consequences that would follow a decision that parties cannot consent to the final adjudication of Stern claims in bankruptcy courts.  Of course, it “goes without saying” that practical considerations of efficiency and convenience cannot trump the structural protections of the Constitution.  Stern, 564 U. S., at ___ (slip op., at 36); see Perez, 575 U. S., at ___ (Thomas, J., concurring in judgment) (slip op., at 20) (“Even in the face of perceived necessity, the Constitution protects us from ourselves.”).  And I find it hard to believe that the Framers in Philadelphia, who took great care to ensure that the Judiciary was “truly distinct” from the Legislature, would have been comforted to know that Congress’s incursion here could “only be termed de minimis.”  Ante, at 13 (quoting Schor, 478 U. S., at 856).
+
+															In any event, the majority overstates the consequences of enforcing the requirements of Article III in this case.  As explained in Part I, Wellness’s claim may not be a Stern claim, in which case the bankruptcy statute would apply precisely as Congress wrote it.  Even if Wellness’s claim were a Stern claim, the District Court would not need to start from scratch.  As this Court held in Arkison, the District Court could treat the bankruptcy judge’s decision as a recommendation and enter judgment after performing de novo review.  573 U. S., at ___ (slip op., at 4).
+
+															In Stern, the Court cautioned that Congress “may no more lawfully chip away at the authority of the Judicial Branch than it may eliminate it entirely.”  564 U. S., at ___ (slip op., at 37).  The majority sees no reason to fret, however, so long as two private parties consent.  Ante, at 14, n. 10.  But such parties are unlikely to carefully weigh the long-term structural independence of the Article III judiciary against their own short-term priorities.  Perhaps the majority’s acquiescence in this diminution of constitutional authority will escape notice.  Far more likely, however, it will amount to the kind of “blueprint for extensive expansion of the legislative power” that we have resisted in the past.  PCAOB, 561 U. S., at 500 (quoting Metropolitan Washington Airports Authority v. Citizens for Abatement of Aircraft Noise, Inc.,
+
+501 U. S. 252,
+277 (1991)
+).
+
+															The encroachment at issue here may seem benign enough.  Bankruptcy judges are devoted professionals who strive to be fair to all sides, and litigants can be trusted to protect their own interests when deciding whether to consent.  But the fact remains that Congress controls the salary and tenure of bankruptcy judges, and the Legislature’s present solicitude provides no guarantee of its future restraint.  See Glidden Co. v. Zdanok,
+
+370 U. S. 530,
+534 (1962)
+ (plurality opinion).  Once Congress knows that it can assign federal claims to judges outside Article III with the parties’ consent, nothing would limit its exercise of that power to bankruptcy.  Congress may consider it advantageous to allow claims to be heard before judges subject to greater legislative control in any number of areas of federal concern.  As for the requirement of consent, Congress can find ways to “encourage” consent, say by requiring it as a condition of federal benefits.  That has worked to expand Congress’s power before.  See, e.g., College Savings Bank v. Florida Prepaid Postsecondary Ed. Expense Bd.,
+
+527 U. S. 666,
+686 (1999)
+ (“Congress may, in the exercise of its spending power, condition its grant of funds to the States upon their taking certain actions that Congress could not require them to take”); South Dakota v. Dole,
+
+483 U. S. 203,
+207 (1987)
+ (same).
+
+															Legislative designs of this kind would not displace the Article III judiciary overnight.  But steady erosion of Article III authority, no less than a brazen usurpation, violates the constitutional separation of powers.  In a Federal Government of limited powers, one branch’s loss is another branch’s gain, see PCAOB, 561 U. S., at 500, so whether a branch aims to “arrogate power to itself” or to “impair another in the performance of its constitutional duties,” the Constitution forbids the transgression all the same.  Loving, 517 U. S., at 757.  As we have cautioned, “[s]light encroachments create new boundaries from which legions of power can seek new territory to capture.”  Stern, 564 U. S., at ___ (slip op., at 38) (internal quotation marks omitted).
+
+															The Framers understood this danger.  They warned that the Legislature would inevitably seek to draw greater power into its “impetuous vortex,” The Federalist No. 48, at 309 (J. Madison), and that “power over a man’s subsistence amounts to a power over his will,” id., No. 79, at 472 (A. Hamilton) (emphasis deleted).  In response, the Framers adopted the structural protections of Article III, “establishing high walls and clear distinctions because low walls and vague distinctions will not be judicially defensible in the heat of interbranch conflict.”  Plaut, 514 U. S., at 239.  As this Court once put it, invoking Frost, “Good fences make good neighbors.”  Id., at 240.
+
+															Ultimately, however, the structural protections of Article III are only as strong as this Court’s will to enforce them.  In Madison’s words, the “great security against a gradual concentration of the several powers in the same department consists in giving to those who administer each department the necessary constitutional means and personal motives to resist encroachments of the others.”  The Federalist No. 51, at 321–322 (J. Madison).  The Court today declines to resist encroachment by the Legislature.  Instead it holds that a single federal judge, for reasons adequate to him, may assign away our hard-won constitutional birthright so long as two private parties agree.  I hope I will be wrong about the consequences of this decision for the independence of the Judicial Branch.  But for now, another literary passage comes to mind: It profits the Court nothing to give its soul for the whole world . . . but to avoid Stern claims?
+
+															I respectfully dissent.
+													

@@ -1,0 +1,67 @@
+::SCDB_caseID:: 2021-035
+::decision_cite:: 21A244
+::decision_name::  National Federation of Independent Business v. Department of Labor, Occupational Safety & Health Administration
+::decision_year:: 2022
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 21A244 and 21A247
+
+															_________________
+
+															NATIONAL FEDERATION OF INDEPENDENT BUSINESS, et al., APPLICANTS
+
+															21A244v.
+
+															DEPARTMENT OF LABOR, OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION, et al.
+
+															
+
+															OHIO, et al., APPLICANTS
+
+															21A247v.
+
+															DEPARTMENT OF LABOR, OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION, et al.
+
+															on applications for stays
+
+															[January 13, 2022]
+
+															Justice Gorsuch, with whom Justice Thomas and Justice Alito join, concurring.
+
+															The central question we face today is:  Who decides?  No one doubts that the COVID–19 pandemic has posed challenges for every American.  Or that our state, local, and national governments all have roles to play in combating the disease.  The only question is whether an administrative agency in Washington, one charged with overseeing workplace safety, may mandate the vaccination or regular testing of 84 million people.  Or whether, as 27 States before us submit, that work belongs to state and local governments across the country and the people’s elected representatives in Congress.  This Court is not a public health authority.  But it is charged with resolving disputes about which authorities possess the power to make the laws that govern us under the Constitution and the laws of the land.
+
+															*
+
+															I start with this Court’s precedents.  There is no question that state and local authorities possess considerable power to regulate public health.  They enjoy the “general power of governing,” including all sovereign powers envisioned by the Constitution and not specifically vested in the federal government.  National Federation of Independent Business v. Sebelius, 567 U.S. 519, 536 (2012) (opinion of Roberts, C. J.); U. S. Const., Amdt. 10.  And in fact, States have pursued a variety of measures in response to the current pandemic.  E.g., Cal. Dept. of Public Health, All Facilities Letter 21–28.1 (Dec. 27, 2021); see also N. Y. Pub. Health Law Ann. § 2164 (West 2021).
+
+															The federal government’s powers, however, are not general but limited and divided.  See McCulloch v. Maryland, 4 Wheat. 316, 405 (1819).  Not only must the federal government properly invoke a constitutionally enumerated source of authority to regulate in this area or any other.  It must also act consistently with the Constitution’s separation of powers.  And when it comes to that obligation, this Court has established at least one firm rule:  “We expect Congress to speak clearly” if it wishes to assign to an executive agency decisions “of vast economic and political significance.”  Alabama Assn. of Realtors v. Department of Health and Human Servs., 594 U. S. ___, ___ (2021) (per curiam) (slip op., at 6) (internal quotation marks omitted).  We sometimes call this the major questions doctrine.  Gundy v. United States, 588 U. S. ___, ___ (2019) (Gorsuch, J., dissenting) (slip op., at 20).
+
+															OSHA’s mandate fails that doctrine’s test.  The agency claims the power to force 84 million Americans to receive a vaccine or undergo regular testing.  By any measure, that is a claim of power to resolve a question of vast national significance.  Yet Congress has nowhere clearly assigned so much power to OSHA.  Approximately two years have passed since this pandemic began; vaccines have been available for more than a year.  Over that span, Congress has adopted several major pieces of legislation aimed at combating COVID–19.  E.g., American Rescue Plan Act of 2021, Pub. L. 117–2, 135 Stat. 4.  But Congress has chosen not to afford OSHA—or any federal agency—the authority to issue a vaccine mandate.  Indeed, a majority of the Senate even voted to disapprove OSHA’s regulation.  See S.J. Res. 29, 117th Cong., 1st Sess. (2021).  It seems, too, that the agency pursued its regulatory initiative only as a legislative “ ‘work-around.’ ”  BST Holdings, L.L.C. v. OSHA, 17 F. 4th 604, 612 (CA5 2021).  Far less consequential agency rules have run afoul of the major questions doctrine.  E.g., MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218, 231 (1994) (eliminating rate-filing requirement).  It is hard to see how this one does not.
+
+															What is OSHA’s reply?  It directs us to 29 U. S. C.                    § 655(c)(1).  In that statutory subsection, Congress authorized OSHA to issue “emergency” regulations upon determining that “employees are exposed to grave danger from exposure to substances or agents determined to be toxic or physically harmful” and “that such emergency standard[s] [are] necessary to protect employees from such danger[s].”  According to the agency, this provision supplies it with “almost unlimited discretion ” to mandate new nationwide rules in response to the pandemic so long as those rules are “ reasonably related ” to workplace safety.  86 Fed. Reg. 61402, 61405 (2021) (internal quotation marks omitted).    
+
+															The Court rightly applies the major questions doctrine and concludes that this lone statutory subsection does not clearly authorize OSHA’s mandate.  See ante, at 5–6. Section 655(c)(1) was not adopted in response to the pandemic, but some 50 years ago at the time of OSHA’s creation.  Since then, OSHA has relied on it to issue only comparatively modest rules addressing dangers uniquely prevalent inside the workplace, like asbestos and rare chemicals.  See In re: MCP No. 165, 20 F. 4th 264, 276 (CA6 2021) (Sutton, C. J., dissenting from denial of initial hearing en banc).  As the agency itself explained to a federal court less than two years ago, the statute does “not authorize OSHA to issue sweeping health standards” that affect workers’ lives outside the workplace.  Brief for Department of Labor, In re: AFL–CIO, No. 20–1158, pp. 3, 33 (CADC 2020).  Yet that is precisely what the agency seeks to do now—regulate not just what happens inside the workplace but induce individuals to undertake a medical procedure that affects their lives outside the workplace.  Historically, such matters have been regulated at the state level by authorities who enjoy broader and more general governmental powers.  Meanwhile, at the federal level, OSHA arguably is not even the agency most associated with public health regulation.  And in the rare instances when Congress has sought to mandate vaccinations, it has done so expressly.  E.g., 8 U. S. C. § 1182(a)(1)(A)(ii).  We have nothing like that here.
+
+															*
+
+															Why does the major questions doctrine matter?  It ensures that the national government’s power to make the laws that govern us remains where Article I of the Constitution says it belongs—with the people’s elected representatives.  If administrative agencies seek to regulate the daily lives and liberties of millions of Americans, the doctrine says, they must at least be able to trace that power to a clear grant of authority from Congress.  
+
+															In this respect, the major questions doctrine is closely related to what is sometimes called the nondelegation doctrine.  Indeed, for decades courts have cited the nondelegation doctrine as a reason to apply the major questions doctrine.  E.g., Industrial Union Dept., AFL–CIO v. American Petroleum Institute, 448 U.S. 607, 645 (1980) (plurality opinion).  Both are designed to protect the separation of powers and ensure that any new laws governing the lives of Americans are subject to the robust democratic processes the Constitution demands.
+
+															The nondelegation doctrine ensures democratic accountability by preventing Congress from intentionally delegating its legislative powers to unelected officials.  Sometimes lawmakers may be tempted to delegate power to agencies to “reduc[e] the degree to which they will be held accountable for unpopular actions.”  R. Cass, Delegation Reconsidered: A Delegation Doctrine for the Modern Administrative State, 40 Harv. J. L. Pub. Pol’y 147, 154 (2017).  But the Constitution imposes some boundaries here.  Gundy, 588 U. S., at ___  (Gorsuch, J., dissenting) (slip op., at 1).  If Congress could hand off all its legislative powers to unelected agency officials, it “would dash the whole scheme” of our Constitution and enable intrusions into the private lives and freedoms of Americans by bare edict rather than only with the consent of their elected representatives.  Department of Transportation v. Association of American Railroads, 575 U.S. 43, 61 (2015) (Alito, J., concurring); see also M. McConnell, The President Who Would Not Be King 326–335 (2020); I. Wurman, Nondelegation at the Founding, 130 Yale L. J. 1490, 1502 (2021).
+
+															The major questions doctrine serves a similar function by guarding against unintentional, oblique, or otherwise unlikely delegations of the legislative power.  Sometimes, Congress passes broadly worded statutes seeking to resolve important policy questions in a field while leaving an agency to work out the details of implementation.  E.g., King v. Burwell, 576 U.S. 473, 485–486 (2015).  Later, the agency may seek to exploit some gap, ambiguity, or doubtful expression in Congress’s statutes to assume responsibilities far beyond its initial assignment.  The major questions doctrine guards against this possibility by recognizing that Congress does not usually “hide elephants in mouseholes.”  Whitman v. American Trucking Assns., Inc., 531 U.S. 457, 468 (2001).  In this way, the doctrine is “a vital check on expansive and aggressive assertions of executive authority.”  United States Telecom Assn. v. FCC, 855 F.3d 381, 417 (CADC 2017) (Kavanaugh, J., dissenting from denial of rehearing en banc); see also N. Richardson, Keeping Big Cases From Making Bad Law: The Resurgent Major Questions Doctrine, 49 Conn. L. Rev. 355, 359 (2016).
+
+															Whichever the doctrine, the point is the same.  Both serve to prevent “government by bureaucracy supplanting government by the people.”  A. Scalia, A Note on the Benzene Case, American Enterprise Institute, J. on Govt. & Soc., July–Aug. 1980, p. 27.  And both hold their lessons for today’s case.  On the one hand, OSHA claims the power to issue a nationwide mandate on a major question but cannot trace its authority to do so to any clear congressional mandate.  On the other hand, if the statutory subsection the agency cites really did endow OSHA with the power it asserts, that law would likely constitute an unconstitutional delegation of legislative authority.  Under OSHA’s reading, the law would afford it almost unlimited discretion—and certainly impose no “specific restrictions” that “meaningfully constrai[n ]” the agency.  Touby v. United States, 500 U.S. 160, 166–167 (1991).  OSHA would become little more than a “roving commission to inquire into evils and upon discovery correct them.”  A. L. A. Schechter Poultry Corp. v. United States, 295 U.S. 495, 551 (1935) (Cardozo, J., concurring).  Either way, the point is the same one Chief Justice Marshall made in 1825:  There are some “important subjects, which must be entirely regulated by the legislature itself,” and others “of less interest, in which a general provision may be made, and power given to [others] to fill up the details.”  Wayman v. Southard, 10 Wheat. 1, 43 (1825).  And on no one’s account does this mandate qualify as some “detail.”
+
+															*
+
+															The question before us is not how to respond to the pandemic, but who holds the power to do so.  The answer is clear:  Under the law as it stands today, that power rests with the States and Congress, not OSHA.  In saying this much, we do not impugn the intentions behind the agency’s mandate.  Instead, we only discharge our duty to enforce the law’s demands when it comes to the question who may govern the lives of 84 million Americans.  Respecting those demands may be trying in times of stress.  But if this Court were to abide them only in more tranquil conditions, declarations of emergencies would never end and the liberties our Constitution’s separation of powers seeks to preserve would amount to little.
+													

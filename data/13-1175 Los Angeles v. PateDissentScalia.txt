@@ -1,0 +1,175 @@
+::SCDB_caseID:: 2014-050
+::decision_cite:: 13-1175
+::decision_name::  Los Angeles v. Patel
+::decision_year:: 2015
+::opinion_author:: Scalia
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–1175
+
+															_________________
+
+															CITY OF LOS ANGELES, CALIFORNIA, PETITIONER v. NARANJIBHAI PATEL, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 22, 2015]
+
+															
+
+															Justice Scalia, with whom The Chief Justice and Justice Thomas join, dissenting.
+
+															The city of Los Angeles, like many jurisdictions across the country, has a law that requires motels, hotels, and other places of overnight accommodation (hereinafter motels) to keep a register containing specified information about their guests.  Los Angeles Municipal Code (LAMC) §41.49(2) (2015).  The purpose of this recordkeeping requirement is to deter criminal conduct, on the theory that criminals will be unwilling to carry on illicit activities in motel rooms if they must provide identifying information at check-in.  Because this deterrent effect will only be accomplished if motels actually do require guests to provide the required information, the ordinance also authorizes police to conduct random spot checks of motels’ guest registers to ensure that they are properly maintained.  §41.49(3).  The ordinance limits these spot checks to the four corners of the register, and does not authorize police to enter any nonpublic area of the motel.  To the extent possible, police must conduct these spot checks at times that will minimize any disruption to a motel’s business.
+
+															The parties do not dispute the governmental interests at stake.  Motels not only provide housing to vulnerable transient populations, they are also a particularly attractive site for criminal activity ranging from drug dealing and prostitution to human trafficking.  Offering privacy and anonymity on the cheap, they have been employedas prisons for migrants smuggled across the border and held for ransom, see Sanchez, Immigrant Smugglers Become More Ruthless, Washington Post, June 28, 2004, p. A3; Wagner, Human Smuggling, Arizona Republic,July 23, 2006, p. A1, and rendezvous sites where child sex workers meet their clients on threat of violence from their procurers.
+
+															Nevertheless, the Court today concludes that Los Angeles’s ordinance is “unreasonable” inasmuch as it permits police to flip through a guest register to ensure it is being filled out without first providing an opportunity for the motel operator to seek judicial review.  Because I believe that such a limited inspection of a guest register is eminently reasonable under the circumstances presented, I dissent.
+
+															I
+
+															I assume that respondents may bring a facial challenge to the City’s ordinance under the
+ 
+Fourth Amendment.  Even so, their claim must fail because, as discussed infra, the law is constitutional in most, if not all, of its applications.  See United States v. Salerno,
+
+481 U. S. 739,
+751 (1987)
+.  But because the Court discusses the propriety of a facial challenge at some length, I offer a few thoughts.
+
+															Article III limits our jurisdiction to “Cases” and “Controversies.”  Accordingly, “[f]ederal courts may not ‘decide questions that cannot affect the rights of litigants in the case before them’ or give ‘opinion[s] advising what the law would be upon a hypothetical state of facts.’ ”  Chafin v. Chafin, 568 U. S. ___, ___ (2013) (slip op., at 5).  To be sure, the reasoning of a decision may suggest that there is no permissible application of a particular statute, Chicago v. Morales, 
+
+527 U. S. 41,
+77 (1999)
+ (Scalia, J., dissenting), and under the doctrine of stare decisis, this reasoning—to the extent that it is necessary to the holding—will be binding in all future cases.  But in this sense, the facial invalidation of a statute is a logical consequence of the Court’s opinion, not the immediate effect of its judgment.  Although we have at times described our holdings as invalidating a law, it is always the application of a law, rather than the law itself, that is before us.
+
+															The upshot is that the effect of a given case is a function not of the plaintiff’s characterization of his challenge, but the narrowness or breadth of the ground that the Court relies upon in disposing of it.  If a plaintiff elects not to present any case-specific facts in support of a claim that a law is unconstitutional—as is the case here—he will limit the grounds on which a Court may find for him to highly abstract rules that would have broad application in future cases.  The decision to do this might be a poor strategic move, especially in a
+ 
+Fourth Amendment case, where the reasonableness of a search is a highly factbound question and general, abstract rules are hard to come by.  Cf. Sibron v. New York,
+
+392 U. S. 40,
+59 (1968)
+.  But even had the plaintiffs in this case presented voluminous facts in a self-styled as-applied challenge, nothing would force this Court to rely upon those facts rather than the broader principle that the Court has chosen to rely upon.  I see no reason why a plaintiff’s self-description of his challenge as facial would provide an independent reason to reject it unless we were to delegate to litigants our duty to say what the law is.
+
+															II
+
+															The
+ 
+Fourth Amendment provides, in relevant part, that “[t]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause.”  Grammatically, the two clauses of the Amendment seem to be independent—and directed at entirely different actors.  The former tells the executive what it must do when it conducts a search, and the latter tells the judiciary what it must do when it issues a search warrant.  But in an effort to guide courts in applying the Search-and-Seizure Clause’s indeterminate reasonableness standard, and to maintain coherence in our case law, we have used the Warrant Clause as a guidepost for assessing the reasonableness of a search, and have erected a framework of presumptions applicable to broad categories of searches conducted by executive officials.  Our case law has repeatedly recognized, how-ever, that these are mere presumptions, and the only consti-tutional requirement is that a search be reasonable.
+
+															When, for example, a search is conducted to enforce an administrative regime rather than to investigate criminal wrongdoing, we have been willing to modify the probable-cause standard so that a warrant may issue absent individualized suspicion of wrongdoing.  Thus, our cases say a warrant may issue to inspect a structure for fire-code violations on the basis of such factors as the passage of time, the nature of the building, and the condition of the neighborhood.  Camara v. Municipal Court of City and County of San Francisco,
+
+387 U. S. 523
+–539 (1967).  As we recognized in that case, “reasonableness is still the ultimate standard.  If a valid public interest justifies the intrusion contemplated, then there is probable cause to issue a suitably restricted search warrant.”  Id., at 539. And precisely “because the ultimate touchstone of the
+ 
+Fourth Amendment is ‘reasonableness,’ ” even the presumption that the search of a home without a warrant is unreasonable “is subject to certain exceptions.”  Brigham City v. Stuart,
+
+547 U. S. 398,
+403 (2006)
+.
+
+															One exception to normal warrant requirements applies to searches of closely regulated businesses.  “[W]hen an entrepreneur embarks upon such a business, he has voluntarily chosen to subject himself to a full arsenal of governmental regulation,” and so a warrantless search to enforce those regulations is not unreasonable.  Marshall v. Barlow’s, Inc.,
+
+436 U. S. 307,
+313 (1978)
+.  Recognizing that warrantless searches of closely regulated businesses may nevertheless become unreasonable if arbitrarily conducted, we have required laws authorizing such searches to satisfy three criteria: (1) There must be a “ ‘substantial’ government interest that informs the regulatory scheme pursuant to which the inspection is made”; (2) “the warrantless inspections must be ‘necessary to further [the] regulatory scheme’ ”; and (3) “ ‘the statute’s inspection program, in terms of the certainty and regularity of its application, [must] provid[e] a constitutionally adequate substitute for a warrant.’ ”  New York v. Burger,
+
+482 U. S. 691
+–703 (1987).
+
+															Los Angeles’s ordinance easily meets these standards.
+
+															A
+
+															In determining whether a business is closely regulated, this Court has looked to factors including the duration of the regulatory tradition, id., at 705–707, Colonnade Catering Corp. v. United States,
+
+397 U. S. 72
+–77 (1970), Donovan v. Dewey,
+
+452 U. S. 594,
+606 (1981)
+; the comprehensiveness of the regulatory regime, Burger, supra, at 704–705, Dewey, supra, at 606; and the imposition of similar regulations by other jurisdictions, Burger, supra, at 705.  These factors are not talismans, but shed light on the expectation of privacy the owner of a business may reasonably have, which in turn affects the reasonableness of a warrantless search.  See Barlow’s, supra, at 313.
+
+															Reflecting the unique public role of motels and their commercial forebears, governments have long subjected these businesses to unique public duties, and have established inspection regimes to ensure compliance.  As Blackstone observed, “Inns, in particular, being intended for the lodging and receipt of travellers, may be indicted, suppressed, and the inn-keepers fined, if they refuse to entertain a traveller without a very sufficient cause: for thus to frustrate the end of their institution is held to be disorderly behavior.”  4 W. Blackstone, Commentaries on the Lawsof England 168 (1765).  Justice Story similarly recognized “[t]he soundness of the public policy of subjecting particular classes of persons to extraordinary responsibility, in cases where an extraordinary confidence is necessarily reposed in them, and there is an extraordinary temptation to fraud, or danger of plunder.”  J. Story, Commentaries on the Law of Bailments §464, pp. 487–488 (5th ed. 1851).  Accordingly, in addition to the obligation to receive any paying guest, “innkeepers are bound to take, not merely ordinary care, but uncommon care, of the goods, money, and baggage of their guests,” id., §470, at 495, as travellers “are obliged to rely almost implicitly on the good faith of innholders, whose education and morals are none of the best, and who might have frequent opportunities of associating with ruffians and pilferers,” id., §471, at 498.
+
+															These obligations were not merely aspirational.  At the time of the founding, searches—indeed, warrantless searches—of inns and similar places of public accommodation were commonplace.  For example, although Massachusetts was perhaps the State most protective against government searches, “the state code of 1788 still allowed tithingmen to search public houses of entertainment on every Sabbath without any sort of warrant.” W. Cuddihy,
+ 
+Fourth Amendment: Origins and Original Meaning 602–1791, 743 (2009).[1]
+
+															As this evidence demonstrates, the regulatory tradition governing motels is not only longstanding, but comprehensive.  And the tradition continues in Los Angeles.  The City imposes an occupancy tax upon transients who stay in motels, LAMC §21.7.3, and makes the motel owner responsible for collecting it, §21.7.5.  It authorizes city officials “to enter [a motel], free of charge, during business hours” in order to “inspect and examine” them to determine whether these tax provisions have been complied with.  §§21.7.9, 21.15.  It requires all motels to obtain a “Transient Occupancy Registration Certificate,” which must be displayed on the premises. §21.7.6.  State law requires motels to “post in a conspicuous place . . . a statement of rate or range of rates by the day for lodging,” and forbids any charges in excess of those posted rates.  Cal. Civ. Code Ann. §1863 (West 2010).  Hotels must change bed linens between guests, Cal. Code Regs., tit. 25, §40 (2015), and they must offer guests the option not to have towels and linens laundered daily, LAMC §121.08.  “Multiuse drinking utensils” may be placed in guest rooms only if they are “thoroughly washed and sanitized after each use” and “placed in protective bags.”  Cal. Code Regs., tit. 17, §30852.  And state authorities, like their municipal counterparts, “may at reasonable times enter and inspect any hotels, motels, or other public places” to ensure compliance.  §30858.
+
+															The regulatory regime at issue here is thus substan-tially more comprehensive than the regulations governing junkyards in Burger, where licensing, inventory-recording, and permit-posting requirements were found sufficient to qualify the industry as closely regulated.  482 U. S., at 704–705.  The Court’s suggestion that these regulations are not sufficiently targeted to motels, and are “akin to . . . minimum wage and maximum hour rules,” ante, at 15, is simply false.  The regulations we have described above reach into the “minutest detail[s]” of motel operations, Barlow’s, supra, at 314, and those who enter that business today (like those who have entered it over the centuries) do so with an expectation that they will be subjected to especially vigilant governmental oversight.
+
+															Finally, this ordinance is not an outlier.  The City has pointed us to more than 100 similar register-inspection laws in cities and counties across the country, Brief for Petitioner 36, and n. 3, and that is far from exhaustive.  In all, municipalities in at least 41 States have laws similar to Los Angeles’s, Brief for National League of Cities et al. as Amici Curiae 16–17, and at least 8 States have their own laws authorizing register inspections, Brief for California et al. as Amici Curiae 12–13.
+
+															This copious evidence is surely enough to establish that “[w]hen a [motel operator] chooses to engage in this pervasively regulated business . . . he does so with the knowledge that his business records . . . will be subject to effective inspection.”  United States v. Biswell,
+
+406 U. S. 311,
+316 (1972)
+.  And that is the relevant constitutional test—not whether this regulatory superstructure is “the same as laws subjecting inns to warrantless searches,” or whether, as an historical matter, government authorities not only required these documents to be kept but permitted them to be viewed on demand without a motel’s consent.  Ante, at 16.
+
+															The Court’s observation that “[o]ver the past 45 years, the Court has identified only four industries” as closely regulated, ante, at 14, is neither here nor there.  Since we first concluded in Colonnade Catering that warrantless searches of closely regulated businesses are reasonable, we have only identified one industry as not closely regulated, see Barlow’s, 436 U. S., at 313–314.  The Court’s statistic thus tells us more about how this Court exercises its discretionary review than it does about the number of industries that qualify as closely regulated.  At the same time, lower courts, which do not have the luxury of picking the cases they hear, have identified many more businesses as closely regulated under the test we have announced: pharmacies, United States v. Gonsalves, 435 F. 3d 64, 67 (CA1 2006); massage parlors, Pollard v. Cockrell, 578 F. 2d 1002, 1014 (CA5 1978); commercial-fishing operations, United States v. Raub, 637 F. 2d 1205, 1208–1209 (CA9 1980); day-care facilities, Rush v. Obledo, 756 F. 2d 713, 720–721 (CA9 1985); nursing homes, People v. Firstenberg, 92 Cal. App. 3d 570, 578–580, 155 Cal. Rptr. 80, 84–86 (1979); jewelers, People v. Pashigian, 150 Mich. App. 97, 100–101, 388 N. W. 2d 259, 261–262 (1986) (per curiam); barbershops, Stogner v. Kentucky, 638 F. Supp. 1, 3 (WD Ky. 1985); and yes, even rabbit dealers, Lesser v. Espy, 34 F. 3d 1301, 1306–1307 (CA7 1994).  Like automobile junkyards and catering companies that serve alcohol, many of these businesses are far from “intrinsically dangerous,” cf. ante, at 14, n. 5.  This should come as no surprise.  The reason closely regulated industries may be searched without a warrant has nothing to do with the risk of harm they pose; rather, it has to do with the expectations of those who enter such a line of work.  See Barlow’s, supra, at 313.
+
+															B
+
+															The City’s ordinance easily satisfies the remaining Burger requirements: It furthers a substantial governmental interest, it is necessary to achieving that interest, and it provides an adequate substitute for a searchwarrant.
+
+															Neither respondents nor the Court question the substantial interest of the City in deterring criminal activity.  See Brief for Respondents 34–41; ante, at 15.  The private pain and public costs imposed by drug dealing, prostitution, and human trafficking are beyond contention, and motels provide an obvious haven for those who trade in human misery.
+
+															Warrantless inspections are also necessary to advance this interest.  Although the Court acknowledges that law enforcement can enter a motel room without a warrant when exigent circumstances exist, see ante, at 13, n. 4, the whole reason criminals use motel rooms in the first place is that they offer privacy and secrecy, so that police will never come to discover these exigencies.  The recordkeeping requirement, which all parties admit is permissible, therefore operates by deterring crime.  Criminals, who depend on the anonymity that motels offer, will balk when confronted with a motel’s demand that they produce identification.  And a motel’s evasion of the recordkeeping requirement fosters crime.  In San Diego, for example, motel owners were indicted for collaborating with members of the Crips street gang in the prostitution of underage girls; the motel owners “set aside rooms apart from the rest of their legitimate customers where girls and women were housed, charged the gang members/pimps a higher rate for the rooms where ‘dates’ or ‘tricks’ took place, and warned the gang members of inquiries by law enforcement.”  Office of the Attorney General, Cal. Dept. of Justice, The State of Human Trafficking in California 25 (2012).  The warrantless inspection requirement provides a necessary incentive for motels to maintain their registers thoroughly and accurately: They never know when law enforcement might drop by to inspect.
+
+															Respondents and the Court acknowledge that inspections are necessary to achieve the purposes of the recordkeeping regime, but insist that warrantless inspections are not.  They have to acknowledge, however, that the motel operators who conspire with drug dealers and procurers may demand precompliance judicial review simply as a pretext to buy time for making fraudulent entries in their guest registers.  The Court therefore must resort to arguing that warrantless inspections are not “necessary” because other alternatives exist.
+
+															The Court suggests that police could obtain an administrative subpoena to search a guest register and, if a motel moves to quash, the police could “guar[d] the registry pending a hearing” on the motion.  Ante, at 17.  This proposal is equal parts 1984 and Alice in Wonderland.  It protects motels from government inspection of their registers by authorizing government agents to seize the registers[2] (if “guarding” entails forbidding the register to be moved) or to upset guests by a prolonged police presence at the motel.  The Court also notes that police can obtain an ex parte warrant before conducting a register inspection.  Ante, at 17.  Presumably such warrants could issue without probable cause of wrongdoing by a particular motel, see Camara, 387 U. S., at 535–536; otherwise, this would be no alternative at all.  Even so, under this regime police would have to obtain an ex parte warrant before every inspection.  That is because law enforcement would have no way of knowing ahead of time which motels would refuse consent to a search upon request; and if they wait to obtain a warrant until consent is refused, motels will have the opportunity to falsify their guest registers while the police jump through the procedural hoops required to obtain a warrant.  It is quite plausible that the costs of this always-get-a-warrant “alternative” would be prohibitive for a police force in one of America’s largest cities, juggling numerous law-enforcement priorities, and confronting more than 2,000 motels within its jurisdiction.  E. Wallace, K. Pollock, B. Horth, S. Carty, & N. Elyas, Los Angeles Tourism: A Domestic and International Analysis 7 (May 2014 online at http://www.lachamber.com/clientuploads/Global_Programs/WTW/2014/LATourism_LMU_May2014.pdf (as visitedJune 19, 2015, and available in Clerk of Court’s case file).  To be sure, the fact that obtaining a warrant might be costly will not by itself render a warrantless search reasonable under the
+ 
+Fourth Amendment; but it can render a warrantless search necessary in the context of an administrative-search regime governing closely regulated businesses.
+
+															But all that discussion is in any case irrelevant.  The administrative search need only be reasonable.  It is not the burden of Los Angeles to show that there are no less restrictive means of achieving the City’s purposes.  Sequestration or ex parte warrants were possible alternatives to the warrantless search regimes approved by this Court in Colonnade Catering, Biswell, Dewey, and Burger.  By importing a least-restrictive-means test into Burger’s
+ 
+Fourth Amendment framework, today’s opinion implicitly overrules that entire line of cases.
+
+															Finally, the City’s ordinance provides an adequate substitute for a warrant.  Warrants “advise the owner of the scope and objects of the search, beyond which limits the inspector is not expected to proceed.”  Barlow’s, 436 U. S., at 323.  Ultimately, they aim to protect against “devolv[ing] almost unbridled discretion upon executive and administrative officers, particularly those in the field, as to when to search and whom to search.”  Ibid.
+
+															Los Angeles’s ordinance provides that the guest register must be kept in the guest reception or guest check-in area, or in an adjacent office, and that it “be made available to any officer of the Los Angeles Police Department for inspection.  Whenever possible, the inspection shall be conducted at a time and in a manner that minimizes any interference with the operation of the business.”  LAMC §41.49(3).  Nothing in the ordinance authorizes law enforcement to enter a nonpublic part of the motel.  Compare this to the statute upheld in Colonnade Catering, which provided that “ ‘[t]he Secretary or his delegate may enter, in the daytime, any building or place where any articles or objects subject to tax are made, produced, or kept, so far as it may be necessary for the purpose of examining said articles or objects,’ ” 397 U. S., at 73, n. 2 (quoting
+
+26 U. S. C. §7606(a) (1964 ed.)); or the one in Biswell, which stated that “ ‘[t]he Secretary may enter during business hours the premises (including places of storage) of any firearms or ammunition importer . . . for the purpose of inspecting or examining (1) any records or documents required to be kept . . . , and (2) any firearms or ammunition kept or stored,’ ” 406 U. S., at 312, n. 1 (quoting
+
+18 U. S. C. §923(g) (1970 ed.)); or the one in Dewey, which granted federal mine inspectors “ ‘a right of entry to, upon, or through any coal or other mine,’ ” 452 U. S., at 596 (quoting
+
+30 U. S. C. §813(a) (1976 ed., Supp. III)); or the one in Burger, which compelled junkyard operators to “ ‘produce such records and permit said agent or police officer to examine them and any vehicles or parts of vehicles which are subject to the record keeping requirements of this section and which are on the premises,’ ” 482 U. S., at 694, n. 1 (quoting N. Y. Veh. & Traf. Law §415–a5 (McKinney 1986)).  The Los Angeles ordinance—which limits warrantless police searches to the pages of a guest register in a public part of a motel—circumscribes police discretion in much more exacting terms than the laws we have approved in our earlier cases.
+
+															The Court claims that Los Angeles’s ordinance confers too much discretion because it does not adequately limit the frequency of searches.  Without a trace of irony, the Court tries to distinguish Los Angeles’s law from the laws upheld in Dewey and Burger by pointing out that the latter regimes required inspections at least four times a year and on a “ ‘regular basis,’ ” respectively.  Ante, at 17.  But the warrantless police searches of a business “10 times a day, every day, for three months” that the Court envisions under Los Angeles’s regime, ante, at 11, are entirely consistent with the regimes in Dewey and Burger; 10 times a day, every day, is “at least four times a year,” and on a (much too) “ ‘regular basis.’ ”  Ante, at 17.
+
+															That is not to say that the Court’s hypothetical searches are necessarily constitutional.  It is only to say that Los Angeles’s ordinance presents no greater risk that such a hypothetical will materialize than the laws we have already upheld.  As in our earlier cases, we should leave it to lower courts to consider on a case-by-case basis whether warrantless searches have been conducted in an unreasonably intrusive or harassing manner.
+
+															III
+
+															The Court reaches its wrongheaded conclusion not simply by misapplying our precedent, but by mistaking our precedent for the
+ 
+Fourth Amendment itself.  Rather than bother with the text of that Amendment, the Court relies exclusively on our administrative-search cases, Camara, See v. Seattle,
+
+387 U. S. 541 (1967)
+, and Barlow’s.  But the Constitution predates 1967, and it remains the supreme law of the land today.  Although the categorical framework our jurisprudence has erected in this area may provide us guidance, it is guidance to answer the constitutional question at issue: whether the challenged search is reasonable.
+
+															An administrative, warrantless-search ordinance that narrowly limits the scope of searches to a single business record, that does not authorize entry upon premises not open to the public, and that is supported by the need to prevent fabrication of guest registers, is, to say the least, far afield from the laws at issue in the cases the Court relies upon.  The Court concludes that such minor intrusions, permissible when the police are trying to tamp down the market in stolen auto parts, are “unreasonable” when police are instead attempting to stamp out the market in child sex slaves.
+
+															Because I believe that the limited warrantless searches authorized by Los Angeles’s ordinance are reasonable under the circumstances, I respectfully dissent.Notes
+
+1
+
+
+		 As Beale helpfully confirms, “[f]rom the earliest times the fundamental characteristic of an inn has been its public nature.  It is a public house, a house of public entertainment, or, as it is legally phrased, a common inn.”  J. Beale, The Law of Innkeepers and Hotels §11, p. 10 (1906).
+	
+
+
+2
+
+
+		 We are not at all “baffled at the idea that . . . police officers may seize something that they cannot immediately search.”  Ante, at 12, n. 3.  We are baffled at the idea that anyone would think a seizure of required records less intrusive than a visual inspection.
+	
+
+

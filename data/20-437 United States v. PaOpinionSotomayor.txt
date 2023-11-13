@@ -1,0 +1,133 @@
+::SCDB_caseID:: 2020-061
+::decision_cite:: 20-437
+::decision_name::  United States v. Palomar-Santiago
+::decision_year:: 2021
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–437
+
+															_________________
+
+															UNITED STATES, PETITIONER v. REFUGIO PALOMAR-SANTIAGO
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[May 24, 2021]
+
+															Justice Sotomayor delivered the opinion of the Court.
+
+															In 1998, respondent Refugio Palomar-Santiago was removed from the United States based on a conviction for felony driving under the influence (DUI).  He later returned to the United States and was indicted on one count of unlawful reentry in violation of
+
+8 U. S. C. §1326(a).  Between Palomar-Santiago’s removal and indictment, this Court held that offenses like his DUI conviction do not in fact render noncitizens removable.  Palomar-Santiago now seeks to defend against his unlawful-reentry charge by challenging the validity of his 1998 removal order.
+
+															By statute, defendants “may not” bring such collateral attacks “unless” they “demonstrat[e]” that (1) they “exhausted any administrative remedies that may have been available to seek relief against the [removal] order,” (2) the removal proceedings “improperly deprived [them] of the opportunity for judicial review,” and (3) “entry of the order was fundamentally unfair.”  §1326(d).
+
+															The question for the Court is whether Palomar-Santiago is excused from making the first two of these showings, as the Court of Appeals for the Ninth Circuit held, because his prior removal order was premised on a conviction that was later found not to be a removable offense.  The Court holds that the statute does not permit such an exception.
+
+															I
+
+															A
+
+															Foreign nationals may be removed from the United States if they are convicted of an “aggravated felony.”
+
+8 U. S. C. §1227(a)(2)(A)(iii).  Among the offenses that qualify as aggravated felonies are “crime[s] of violence . . . for which the term of imprisonment [is] at least one year.”  §1101(a)(43)(F).  The term “crime of violence” includes “an offense that has as an element the use, attempted use, or threatened use of physical force against the person or property of another.”
+
+18 U. S. C. §16(a).
+
+															Noncitizens facing removal generally receive a hearing before an immigration judge.  Noncitizens can proffer defenses at that hearing, including that the conviction identified in the charging document is not a removable offense.  If unsuccessful, they may appeal to the Board of Immigration Appeals (BIA).  See
+
+8 U. S. C. §1229a(c)(5); 8 CFR §§1003.1(b), (d)(3), 1240.15 (2021).  If unsuccessful again, they can seek review of the BIA’s decision before a federal court of appeals.  See 8 U. S. C. §§1101(a)(47), 1252.
+
+															Once a noncitizen is removed, it is a crime to return to the United States without authorization.  §1326(a).  The statute criminalizing unlawful reentry did not originally allow defendants to raise the invalidity of their underlying removal orders as an affirmative defense.  This Court later held, however, that the statute “does not comport with the constitutional requirement of due process” insofar as it “impose[s] a criminal penalty for reentry after any deportation, regardless of how violative of the rights of the [noncitizen] the deportation proceeding may have been.”  United States v. Mendoza-Lopez,
+
+481 U.S. 828, 837 (1987).  “[A]t a minimum,” “a collateral challenge to the use of a deportation proceeding as an element of a criminal offense must be permitted where the deportation proceeding effectively eliminates the right of the [noncitizen] to obtain judicial review.”  Id., at 839.
+
+															Congress responded by enacting §1326(d).  See Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), §441,
+
+110Stat.
+1279.  Entitled “Limitation on collateral attack on underlying deportation order,” §1326(d) establishes three prerequisites that defendants facing unlawful-reentry charges must satisfy before they can challenge their original removal orders.  The statute provides:
+
+															“In a criminal proceeding under this section, an alien may not challenge the validity of the deportation order . . . unless the alien demonstrates that—
+
+															“(1) the alien exhausted any administrative remedies that may have been available to seek relief against the order;
+
+															“(2) the deportation proceedings at which the order was issued improperly deprived the alien of the opportunity for judicial review; and
+
+															“(3) the entry of the order was fundamentally unfair.”
+
+8 U. S. C. §1326(d).
+
+															B
+
+															Palomar-Santiago is a Mexican national who obtained permanent resident status in 1990.  The following year, he was convicted in California state court of a felony DUI.  In 1998, Palomar-Santiago received a Notice to Appear from the Immigration and Naturalization Service stating that he was subject to removal because his DUI offense was an aggravated felony.  Following a hearing, an immigration judge ordered Palomar-Santiago’s removal on that ground.  Palomar-Santiago waived his right to appeal and was removed to Mexico the next day.
+
+															Six years later, this Court held in Leocal v. Ashcroft, 543 U.S. 1 (2004), that “a higher mens rea than the merely accidental or negligent conduct involved in a DUI offense” is necessary for an offense to qualify as a crime of violence.  Id., at 11.  Accordingly, Palomar-Santiago’s DUI conviction was not a crime of violence under
+
+18 U. S. C. §16(a), and so not an aggravated felony under
+
+8 U. S. C. §1101(a)(43).  Palomar-Santiago’s removal order thus never should have issued.  See Rivers v. Roadway Express, Inc.,
+
+511 U.S. 298, 312–313 (1994) (“A judicial construction of a statute is an authoritative statement of what the statute meant before as well as after the decision of the case giving rise to that construction”).
+
+															In 2017, Palomar-Santiago was found again living in the United States.  A grand jury indicted him on one count of unlawful reentry after removal.  Palomar-Santiago moved to dismiss the indictment on the ground that his prior removal order was invalid in light of Leocal.  The District Court granted the motion, and the Court of Appeals for the Ninth Circuit affirmed.  813 Fed. Appx. 282 (2002).
+
+															Both courts were bound by Ninth Circuit precedent providing that defendants are “excused from proving the first two requirements” of §1326(d) if they were “not convicted of an offense that made [them] removable.”  United States v. Ochoa, 861 F.3d 1010, 1015 (2017).  Other Courts of Appeals do not excuse similarly situated unlawful-reentry defendants from meeting §1326(d)’s first two requirements.[1]  This Court granted certiorari to resolve this disagreement.  592 U. S. ___ (2021).
+
+															II
+
+															The Ninth Circuit’s interpretation is incompatible with the text of §1326(d).  That section provides that defendants charged with unlawful reentry “may not” challenge their underlying removal orders “unless” they “demonstrat[e]” that three conditions are met: (1) they have “exhausted any administrative remedies,” (2) they were “deprived . . . of the opportunity for judicial review,” and (3) “the entry of the order was fundamentally unfair.”
+
+8 U. S. C. §1326(d).  The requirements are connected by the conjunctive “and,” meaning defendants must meet all three.  When Congress uses “mandatory language” in an administrative exhaustion provision, “a court may not excuse a failure to exhaust.”  Ross v. Blake,
+
+578 U.S. 632, 639 (2016).  Yet that is what the Ninth Circuit’s rule does.
+
+															Without the benefit of the Ninth Circuit’s extrastatutory exception, §1326(d)’s first two procedural requirements are not satisfied just because a noncitizen was removed for an offense that did not in fact render him removable.  Indeed, the substantive validity of the removal order is quite distinct from whether the noncitizen exhausted his administrative remedies (by appealing the immigration judge’s decision to the BIA) or was deprived of the opportunity for judicial review (by filing a petition for review of a BIA decision with a Federal Court of Appeals).
+
+															III
+
+															Palomar-Santiago raises two counterarguments based on the text of §1326(d).[2]  Neither is persuasive.  First, he contends that further administrative review of a removal order is not “available” when an immigration judge erroneously informs a noncitizen that his prior conviction renders him removable.  Noncitizens, the argument goes, cannot be expected to know that the immigration judge might be wrong.  Because noncitizens will not recognize a substantive basis for appeal to the BIA, that administrative review is not practically “available” under §1326(d)(1).[3]
+
+															Palomar-Santiago looks to Ross v. Blake for support.  That case addressed the Prison Litigation Reform Act, which requires that prisoners exhaust “such administrative remedies as are available” before suing in federal court.
+
+42 U. S. C. §1997e(a).  Ross held that whether such remedies are “available” turns on “the real-world workings of prison grievance systems,” and it acknowledged that there are “circumstances in which an administrative remedy, although officially on the books, is not capable of use to obtain relief.”  578 U. S., at 643.  Nothing in Ross, however, suggests that the substantive complexity of an affirmative defense can alone render further review of an adverse decision “unavailable.”  Administrative review of removal orders exists precisely so noncitizens can challenge the substance of immigration judges’ decisions.  The immigration judge’s error on the merits does not excuse the noncitizen’s failure to comply with a mandatory exhaustion requirement if further administrative review, and then judicial review if necessary, could fix that very error.
+
+															Second, Palomar-Santiago contends that the §1326(d) prerequisites apply only when a defendant argues that his removal order was procedurally flawed rather than substantively invalid.  There can be no “challenge” to or “collateral attack” on the validity of substantively flawed orders, he reasons, because such orders are invalid from the moment they are entered.  Palomar-Santiago’s position ignores the plain meaning of both “challenge” and “collateral attack.”  Arguing that a prior removal order was substantively unlawful is a “challenge” to that order.  See Black’s Law Dictionary 230 (6th ed. 1990) (“Challenge” means “[t]o object or except to” or “to put into dispute”). When a challenge to an order takes place in a separate “proceeding that has an independent purpose,” such as a later criminal prosecution, it is a “collateral attack.”  Id., at 261.
+
+															Palomar-Santiago last invokes the canon of constitutional avoidance.[4]  Courts should indeed construe statutes “to avoid not only the conclusion that [they are] unconstitutional, but also grave doubts upon that score.”  United States v. Jin Fuey Moy,
+
+241 U.S. 394, 401 (1916).  But this canon “has no application in the absence of statutory ambiguity.”  United States v. Oakland Cannabis Buyers’ Cooperative,
+
+532 U.S. 483, 494 (2001).  Here, the text of §1326(d) unambiguously forecloses Palomar-Santiago’s interpretation.
+
+															*  *  *
+
+															The Court holds that each of the statutory requirements of §1326(d) is mandatory.  The judgment of the Court of Appeals for the Ninth Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+ See, e.g., United States v. Parrales-Guzman, 922 F.3d 706, 706–708 (CA5 2019); United States v. Watkins, 880 F.3d 1221, 1224–1226 (CA11 2018) (per curiam); United States v. Gil-Lopez, 825 F.3d 819, 823 (CA7 2016); United States v. Soto-Mateo, 799 F.3d 117, 120–124 (CA1 2015); United States v. Rodriguez, 420 F.3d 831, 833–835 (CA8 2005); United States v. Rivera-Nevarez, 418 F.3d 1104, 1107–1111 (CA10 2005); United States v. Martinez-Rocha, 337 F.3d 566, 568–570 (CA6 2003). 
+
+2
+ Palomar-Santiago separately argues that the offense defined by §1326(a) includes as an element the defendant’s previous lawful removal such that unlawful removals cannot support a conviction.  United States v. Mendoza-Lopez,
+
+481 U.S. 828, 834–835 (1987), rejected a similar argument with respect to the pre-AEDPA version of §1326(a).  Palomar-Santiago now presses various distinctions between that case and this, but the Court declines to address his arguments, which were neither raised below nor fairly encompassed by the question presented to this Court.  See Brownback v. King, 592 U. S. ___, ___, n. 4 (2021) (slip op., at 5, n. 4). 
+
+3
+ On this theory, the unavailability of administrative review before the BIA would also mean that noncitizens like Palomar-Santiago do not have the “opportunity” for judicial review under §1326(d)(2), because they may not seek review of a removal order in federal court without first appealing the order to the BIA.  See
+
+8 U. S. C. §1252(d)(1). 
+
+4
+ Palomar-Santiago argues that “a scheme that permits the results of an administrative proceeding to conclusively establish a criminal offense” raises “due process and separation of powers problems,” which are “heightened when . . . the agency never had the authority to issue the order in the first instance.”  Brief for Respondent 15.  The parties also strongly disagree about the sufficiency of the paths available for noncitizens to obtain review of prior removal orders outside of an illegal-reentry prosecution.  To the extent Palomar-Santiago raises freestanding constitutional claims on these bases, they were not raised below and are outside the scope of the narrow question this Court granted certiorari to decide. 
+
+

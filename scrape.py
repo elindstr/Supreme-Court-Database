@@ -13,8 +13,8 @@ if not os.path.exists(save_directory):
     os.makedirs(save_directory)
 
 #hard code volume search parameters
-volume_start=601  #volume 1 & most of 2 are Pennsylvania, see https://en.wikipedia.org/wiki/United_States_Reports,_volume_1
-vol_end=600      
+volume_start=2
+vol_end=600   
 
 #locate max volume available online
 url = "https://supreme.justia.com/cases/federal/us/volume/"
@@ -63,7 +63,10 @@ for vol in range (volume_start, vol_end+1):
         decision_name = page_title[0]
         decision_cite = page_title[1]
         decision_year =  decision_cite[-5:-1]
-
+        decision_cite = decision_cite.replace("2 Dallas", "")
+        if decision_cite[-1] == ")":
+            decision_cite = decision_cite[:-7]
+        
         #use docket number as cite for cases since 575 U.S. ___ 
         top_div = soup_page.find(id="top")     #decisions section
         top_div_spans = top_div.find_all("span")
@@ -110,27 +113,27 @@ for vol in range (volume_start, vol_end+1):
 #Download U.S Reports Vol. 2 Sup Ct decisions from WikiSource because these decisions are missing from the Vol 2 Justia database:
 base_wikisource_url = "https://en.wikisource.org/wiki/"
 missing = [
-    "Appointment of Justices", "2 U.S. (2 Dallas) 400 (1790) Appointment of Justices",
-    "Appointment of Iredell", "2 U.S. (2 Dallas) 401 (1790) Appointment of Iredell",
-    "West v. Barnes (2 U.S. 401)", "2 U.S. (2 Dallas) 401 (1791) West v. Barnes",
-    "Vanstophorst v. Maryland (2 U.S. 401)", "2 U.S. (2 Dallas) 401 (1791) Vanstophorst v. Maryland",
-    "Appointment of Johnson", "2 U.S. (2 Dallas) 402 (1792) Appointment of Johnson",
-    "Oswald v. New York (2 U.S. 402)", "2 U.S. (2 Dallas) 402 (1792) Oswald v. New York",
-    "Rule (2 U.S. 411)", "2 U.S. (2 Dallas) 411 (1792) Rule",
-    "Oswald v. New York (2 U.S. 415)", "2 U.S. (2 Dallas) 415 (1793) Oswald v. New York"
+    "Appointment of Iredell", "2 U.S. (2 Dallas) 401 (1790) Appointment of Iredell", "2 U.S. 401",
+    "West v. Barnes (2 U.S. 401)", "2 U.S. (2 Dallas) 401 (1791) West v. Barnes", "2 U.S. 401",
+    "Vanstophorst v. Maryland (2 U.S. 401)", "2 U.S. (2 Dallas) 401 (1791) Vanstophorst v. Maryland", "2 U.S. 401",
+    "Appointment of Johnson", "2 U.S. (2 Dallas) 402 (1792) Appointment of Johnson", "2 U.S. 402",
+    "Oswald v. New York (2 U.S. 402)", "2 U.S. (2 Dallas) 402 (1792) Oswald v. New York", "2 U.S. 402",
+    "Rule (2 U.S. 411)", "2 U.S. (2 Dallas) 411 (1792) Rule", "2 U.S. 411",
+    "Oswald v. New York (2 U.S. 415)", "2 U.S. (2 Dallas) 415 (1793) Oswald v. New York", "2 U.S. 415"
 ]
-for i in range (0, len(missing), 2):
+
+for i in range (0, len(missing), 3):
     url = base_wikisource_url + missing[i]
     req = session.get(url)
     soup_page = bs4.BeautifulSoup(req.text, 'lxml')
     opinion_div = soup_page.find("div", { "class" : "prp-pages-output" })     #opinion section
     opinion = opinion_div.text
-    decision_cite = "2 U.S. __"
+    decision_cite = missing[i+2]
     decision_year = "17xx"
     decision_name = missing[i+1]
     opinion_type = ""
     opinion_author = ""
-    txt_file_name = decision_name + opinion_type + opinion_author
+    txt_file_name = decision_cite + " " + missing[i]
     print(txt_file_name)
     with io.open('data/%s.txt' % txt_file_name, 'w', encoding='utf-8') as f:
         f.write("::decision_cite:: " + decision_cite + "\n")
@@ -142,8 +145,7 @@ for i in range (0, len(missing), 2):
 
 #timestamp
 print("")
-print("complete")
 dct = datetime.now()
 print(dct)
 d = dct - ct
-print("total minutes elapsed: ", (d.seconds)/60)
+print("Completed in: ", (d.seconds)/60, " seconds.")

@@ -1,0 +1,1698 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-857
+::decision_name::  Jones v. Hendrix
+::decision_year:: 2023
+::opinion_author:: Jackson
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–857
+
+															_________________
+
+															MARCUS DEANGELO JONES, PETITIONER v.
+DEWAYNE HENDRIX, WARDEN
+
+															on writ of certiorari to the united states
+court of appeals for the eighth circuit
+
+															[June 22, 2023]
+
+															
+
+															Justice Jackson, dissenting.
+
+															Today, the Court holds that an incarcerated
+individual who has already filed one postconviction petition cannot
+file another one to assert a previously unavailable claim of
+statutory innocence.[1] The
+majority says that result follows from a
+“straightforward” reading of 28 U. S. C.
+§2255. Ante, at 10, 12. But the majority reaches this
+preclusion decision by “negative inference.”
+Ante, at 10. And it is far from obvious that
+§2255(h)’s bar on filing second or successive
+postconviction petitions (with certain notable exceptions) prevents
+a prisoner who has previously sought postconviction relief from
+bringing a newly available legal innocence claim in court. See Part
+II, infra.
+
+															In any event, putting aside its questionable
+interpretation of §2255(h), the majority is also wrong to
+interpret §2255(e)—known as the saving clause—as
+if Congress designed that provision to filter potential habeas
+claims through the narrowest of apertures, saving essentially only
+those that a court literally would be unable to consider due to
+something akin to a natural calamity. See Part I, infra.
+This stingy characterization does not reflect a primary aim of
+§2255(e), which was to “save” any claim that was
+available prior to §2255(h)’s enactment where Congress
+has not expressed a clear intent to foreclose it. Jones’s
+legal innocence claim fits that mold.
+
+															I am also deeply troubled by the constitutional
+implications of the nothing-to-see-here approach that the majority
+takes with respect to the incarceration of potential legal
+innocents. See Part III, infra. Apparently, legally innocent
+or not, Jones must just carry on in prison regardless, since (as
+the majority reads §2255) no path exists for him to ask a
+federal judge to consider his innocence assertion. But forever
+slamming the courtroom doors to a possibly innocent person who has
+never had a meaningful opportunity to get a new and retroactively
+applicable claim for release reviewed on the merits raises serious
+constitutional concerns.
+
+															Thus, in my view, all roads lead to an
+interpretation of §2255 that is diametrically opposed to the
+one that the majority announces. Whether one gets there by virtue
+of a proper reading of §2255(e) or an informed understanding
+of §2255(h), or by affording due respect to the core
+constitutional interests at stake, Jones’s successive
+petition alleging legal innocence should have been considered on
+the merits.[2] Therefore, I
+respectfully dissent.
+
+															I
+
+															Section 2255(e) saves postconviction claims by
+authorizing the filing of a habeas petition under §2241 if the
+procedures §2255 affords are “inadequate or ineffective
+to test the legality of [a prisoner’s] detention.”
+§2255(e). I see no reason why the only circumstance in
+which §2255’s procedures qualify as inadequate or
+ineffective for saving clause purposes is when it is impossible or
+impractical for a prisoner to file a §2255 motion. Contra,
+ante, at 6–7. Quite to the contrary, the enactment
+history of §2255 plainly establishes that Congress wanted to
+ensure that a prisoner’s claim was “saved” in at
+least one additional set of circumstances: Where the prisoner would
+have been able to bring such a claim prior to the enactment of
+§2255 (or any subsequent changes, like those made by the
+Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA)), but
+somehow cannot bring that claim after a change to the statutory
+framework (unless Congress has clearly expressed its intent to
+restrict the scope of relief in that regard). As the majority has
+interpreted §2255(h), that is precisely the situation
+here.
+
+															A
+
+															To understand why Congress meant for Jones to
+be able to invoke the saving clause and bring his statutory
+innocence claim in a habeas petition filed under §2241, a firm
+grasp of the text, history, and intended operation of §2255(e)
+is required.
+
+															1
+
+															The saving clause is the latter part of
+§2255(e), which states in full:
+
+															“An application for a writ of habeas
+corpus [o]n behalf of a prisoner who is authorized to apply for
+relief by motion pursuant to this section, shall not be entertained
+if it appears that the applicant has failed to apply for relief, by
+motion, to the court which sentenced him, or that such court has
+denied him relief, unless it also appears that the remedy by
+motion is inadequate or ineffective to test the legality of his
+detention.” §2255(e) (emphasis added); see also
+§2255 (1946 ed., Supp. II) (§2255 (1948)).
+
+															Before §2255 was enacted in 1948, federal
+prisoners collaterally attacked their convictions by filing a
+habeas petition. See United States v. Hayman,
+342 U.S.
+205, 210–213 (1952). Such petitions sought judicial
+review of the legality of the individual’s detention, and
+were filed in the district where the person was incarcerated.
+Ibid. This led to some problems: Districts that housed large
+federal prisons were disproportionately burdened with habeas
+petitions. Id., at 213–214. Also, in many cases, the
+court deciding the petition was both unfamiliar with the underlying
+facts and far away from the relevant record, evidence, and
+witnesses. Ibid.
+
+															Congress created §2255—an entirely
+new process for federal prisoners to use when seeking
+postconviction judicial review—to solve these practical
+problems. Ante, at 5–6. Under the procedures laid out
+in §2255, in lieu of filing a traditional habeas petition,
+federal prisoners must file a §2255 motion. And any such
+motion is to be filed in the sentencing court, not in the district
+of confinement. §2255(a) (2018 ed.); see Hayman, 342
+U. S., at 219.
+
+															Congress crafted (what is now) §2255(e) to
+ensure that the new §2255 procedure successfully ousted the
+outdated habeas regime it replaced. Per the first part of that
+provision, as a general matter, §2255 becomes the exclusive
+procedure by which federal prisoners can collaterally attack their
+convictions. See §2255(e) (providing that “[a]n
+application for a writ of habeas corpus . . . shall not
+be entertained” where, in essence, the prisoner fails to
+bring an authorized §2255 motion, or does so and is denied
+relief ). Yet Congress also specified that, in a circumstance
+in which §2255 is “inadequate or ineffective to test the
+legality of his detention,” an individual could still
+file a habeas petition. Ibid.
+
+															There are multiple ways in which §2255
+might be “insufficient” or “[n]ot capable of
+performing the required work” of postconviction review of
+federal convictions. Webster’s New International Dictionary
+1254, 1271 (2d ed. 1934) (defining “inadequate” and
+“ineffective” in this manner); see also Funk &
+Wagnalls New Standard Dictionary of the English Language 1239, 1255
+(1942) (similar). For example, §2255 would not be up to the
+task if it would be impossible or impracticable for a federal
+prisoner to file a §2255 petition. Ante, at 6, 11.
+
+															The case before us involves another way that
+§2255 can be inadequate or ineffective—where the newly
+created §2255 procedure, perhaps inadvertently, blocks a
+prisoner from bringing a claim that was previously cognizable in
+habeas. This is an inadequacy concerning the operation of
+§2255 from Congress’s perspective, because the
+“sole purpose” of §2255 “was to minimize the
+difficulties encountered in habeas corpus hearings” while
+still “affording the same rights in another and more
+convenient forum.” Hayman, 342 U. S., at 219
+(emphasis added); see also Davis v. United States,
+417
+U.S. 333, 343 (1974) (“Th[e] history makes clear that
+§2255 was intended to afford federal prisoners a remedy
+identical in scope to federal habeas corpus” (emphasis
+added)); Sanders v. United States, 373 U.S.
+1, 14 (1963) (“[I]t conclusively appears from the
+historic context in which §2255 was enacted that the
+legislation was intended simply to provide in the sentencing court
+a remedy exactly commensurate with that which had previously
+been available by habeas corpus” (emphasis added; internal
+quotation marks omitted)).
+
+															That much is not in dispute—the majority
+acknowledges that Congress intended to maintain equivalence with
+the claims available in habeas when it enacted §2255. See
+ante, 5–6. Consequently, in any circumstance in which
+the new §2255 procedure actually operates to foreclose a
+postconviction claim that a prisoner could have brought previously
+in a habeas petition, the §2255 process is patently inadequate
+to accomplish Congress’s aim of allowing prisoners to test
+the legality of their detention under §2255 to the same extent
+as they could have in the habeas regime that §2255
+replaced.
+
+															Thus, the saving clause can be properly
+interpreted as effectuating Congress’s intent in this regard.
+As the Government persuasively argues, by inserting a provision
+that allows prisoners to still file habeas petitions, Congress
+“ensure[d] that Section 2255 does not disadvantage federal
+prisoners as compared to habeas.” Brief for Respondent 17;
+see also Boumediene v. Bush, 553
+U.S. 723, 776 (2008) (noting that the purpose of §2255 was
+“to strengthen, rather than dilute, the writ’s
+protections” and further recognizing that the saving clause
+served that purpose). That is, where a federal prisoner could have
+brought a particular habeas claim prior to 1948, but could not
+bring such a claim in a §2255 petition after that date, the
+saving clause kicks in to permit that individual to resort to
+habeas to raise that claim.
+
+															This reading of §2255(e) means that the
+saving clause operates (at the very least, and as it was enacted in
+1948) to preserve from inadvertent extinguishment postconviction
+claims that would have been previously cognizable for federal
+prisoners but cannot be brought by operation of §2255. And the
+flip side of that interpretation—that §2255 is
+inadequate or ineffective if it sub silentio extinguishes
+previously available habeas claims, triggering the saving
+clause—inexorably follows. This interpretation tracks
+Congress’s clear claim-preservation goal. And, as an added
+bonus, it also has the benefit of being in accordance with how
+saving clauses usually work. See 2 J. Sutherland, Statutory
+Construction §4830, pp. 376–377 (3d ed. 1943) (defining
+“saving clause” as a provision “said to preserve
+from destruction certain rights, remedies or privileges which would
+otherwise be destroyed by the general enactment”); see,
+e.g., Andrus v. Shell Oil Co., 446 U.S.
+657, 666 (1980) (noting that Congress included a “savings
+clause” in the statute at issue to “preserv[e]
+pre-existing claims”); United States v.
+Menasche, 348 U.S.
+528, 535 (1955) (noting that the purpose of a saving clause in
+the immigration context was to “manifes[t] a well-established
+congressional policy not to strip [noncitizens] of advantages
+gained under prior laws”).
+
+															2
+
+															Fast forward to 1996: Congress reenacted the
+saving clause—using identical language—when it passed
+AEDPA. §2255(e); §2255 (1948). Thus, because the saving
+clause operated in 1948 to “save” from inadvertent
+extinguishment habeas claims that were available before the
+enactment of §2255, the same was true when Congress revised
+those procedures in the mid-1990s, while keeping the saving clause
+intact. In other words, both in 1948 and to this day, the saving
+clause operates to (among other things) ensure that
+§2255—or the AEDPA amendments—did not, through
+inapt language, substantively alter the scope of available
+postconviction relief for federal prisoners.
+
+															This is not to say that Congress necessarily
+carried forward all of its previous policy determinations with
+respect to the availability of postconviction claims, or that it
+did not change its mind at all about the appropriate dimensions of
+postconviction relief. Indeed, habeas is a dynamic remedy, and
+congressional enactments contribute to its evolution. See
+Felker v. Turpin, 518 U.S.
+651, 664 (1996); see also 2 R. Hertz & J. Liebman, Federal
+Habeas Corpus Practice and Procedure §28.4[a], p. 1738 (7th
+ed. 2020) (Hertz & Liebman) (“Anglo-American law
+. . . has imposed an evolving set of restrictions on
+second and subsequent petitions”). But, again, the saving
+clause—which served an important equalizing
+function—remained intact when Congress reenacted §2255
+in 1996. Thus, while Congress can certainly act to change the scope
+of habeas or its statutory equivalent if it wants to do so, in
+order to overcome the operation of the saving clause (which, again,
+was inserted to maintain equivalence in the absence of intent to
+make a change), Congress has to make said change to the
+availability of postconviction relief deliberately and clearly,
+thereby unequivocally expressing its intent to do so. See
+Holland v. Florida, 560 U.S.
+631, 646 (2010); infra, at 25–28.
+
+															All this means that today (as in 1948) the
+saving clause is best interpreted as allowing for the filing of a
+habeas petition under §2241 where a claim that was cognizable
+prior to AEDPA cannot be brought under §2255, unless Congress
+has clearly expressed its intent to foreclose that particular
+claim.
+
+															B
+
+															That brings us to the situation at issue here.
+When Congress amended §2255 by enacting AEDPA, it legislated
+against a legal background in which a federal prisoner could bring
+a statutory innocence claim in a §2255 petition. The majority
+does not dispute this. See ante, at 18–19. Nor could
+it, because this Court made crystal clear in 1974 in Davis
+that statutory innocence claims are legally cognizable in a
+§2255 motion. 417 U. S., at 343–347.[3]
+
+															Moreover, prior to AEDPA’s enactment, a
+federal prisoner could bring such a postconviction claim of
+statutory innocence in a successive petition. This Court had
+generally restricted successive postconviction filings by the
+1990s, but a prisoner who had previously filed at least one
+petition could still file another one in order to assert innocence.
+That was because any bar to the filing of a successive petition was
+typically lifted if enforcing that bar would result in a
+“miscarriage of justice.” McCleskey v.
+Zant, 499 U.S.
+467, 494–495 (1991); Hertz & Liebman §28.4[g],
+at 1757; see Brief for Respondent 22–24. And under our
+settled precedent, legal innocence claims fit that category. See
+Davis, 417 U. S., at 346 (“There can be no room
+for doubt” that “conviction and punishment
+. . . for an act that the law does not make
+criminal” “ ‘inherently results in a
+complete miscarriage of justice’ ”); see also
+Bousley v. United States, 523
+U.S. 614, 623–624 (1998).
+
+															These background principles relate to the
+successive petition that Jones seeks to bring here as follows. If
+the majority is right that (by virtue of §2255(h)) prisoners
+like Jones are now unable to bring a successive §2255 petition
+to make the same kind of legal innocence claim that they could have
+brought prior to AEDPA, then Congress’s enactment of
+§2255(h) has dramatically altered the legal landscape in a
+manner that seems, at best, inconsistent with its original intent.
+To repeat: The saving clause expresses a congressional intent to
+maintain equivalence between what a prisoner could claim
+before and after §2255(h); yet under the majority’s
+reading, §2255(h)’s “second or successive”
+bar would effectively operate to preclude successive legal
+innocence claims—shrinking the universe of previously
+available claims—the opposite of what Congress set out to do
+when it set up §2255.
+
+															In my view, that is where the saving clause
+comes in. Reading the saving clause to perform its normal, intended
+function of “saving” previously available claims solves
+this problem, because it allows prisoners who could have brought a
+claim prior to the enactment of AEDPA (like Jones) to file a habeas
+petition to the extent that §2255 now precludes such a filing
+under that particular statutory mechanism. Thus, interpreting
+§2255(e)’s “inadequate and ineffective”
+language to permit the filing of a habeas petition that raises a
+legal innocence claim in these circumstances seems perfectly
+consistent with Congress’s intent.
+
+															This understanding of the saving clause also
+explains the clause’s application—or, more precisely,
+its inapplicability—to the types of claims
+specifically mentioned in §§2255(h)(1) and (2). Congress
+has expressly overridden operation of the saving clause with
+respect to those two provisions, because it has clearly expressed
+its intent to narrow the scope of postconviction relief where a
+federal prisoner brings a successive petition raising a claim of
+new evidence or new constitutional law.[4] “A legislature may adopt a policy different from
+that embodied in the general saving statute.” M. Ruud, The
+Savings Clause—Some Problems in Construction and Drafting, 33
+Texas L. Rev. 285, 299 (1955). And here, no one questions that,
+with §§2255(h)(1) and (2), Congress clearly did so. Brief
+for Respondent 26–28. But the majority now reasons that,
+merely by omitting statutory innocence claims from that
+authorized-filings list, Congress should be deemed to have
+exhibited a narrowing intent with respect to those claims as well.
+See ante, at 1–2, 12.
+
+															I disagree. Indeed, in my view, it is precisely
+because the text of §§2255(h)(1) and (2) speaks
+unequivocally to the narrowing Congress wished to effect with
+respect to new-evidence and new-constitutional claims that we
+should not ascertain that Congress meant for the second or
+successive bar to have the same effect with respect to legal
+innocence claims—which, importantly, the statute does not
+mention. To put it bluntly: Congress knows how to speak clearly
+when it wants to disrupt the continuity of claims that are
+available to prisoners before and after it enacts legislation that
+addresses postconviction review procedures. And rather than
+providing any such clear statement as to how an intervening claim
+of statutory innocence should be treated vis-à-vis
+§2255(h)’s second or successive bar, Congress was
+conspicuously silent.[5]
+
+															C
+
+															The majority advances an entirely different
+theory of the work that §2255(e) does with respect to the
+postconviction review scheme—a theory that I do not find even
+remotely persuasive. Opting for the narrowest possible view of
+Congress’s intent regarding the saving clause, the majority
+generally claims that the saving clause only authorizes the filing
+of a habeas petition if filing a §2255 motion would be
+“impossible or impracticable.” Ante, at 6, 11.
+And in the majority’s telling, that circumstance only occurs,
+say, if the courthouse where a §2255 motion would have
+otherwise been filed has burned to the ground or been carried away
+by a mudslide. The majority’s parsimonious perspective on the
+meaning of “inadequate or ineffective” is flawed in
+many respects.
+
+															First and foremost, it is entirely atextual. The
+majority cites exactly zero dictionary definitions of the terms
+“inadequate” or “ineffective.” And while it
+does reference an earlier draft of the legislation that became
+§2255, ante, at 7 (quoting Hayman, 342
+U. S., at 215, n. 23), it fails to mention that Congress
+specifically rejected language that embraced the
+majority’s “impracticable only” proposition. See
+Hayman, 342 U. S., at 215, n. 23; In re
+Dorsainvil, 
+119
+F.3d 245, 250 (CA3 1997).
+
+															Furthermore, while the majority opinion
+accurately recites the history and purpose of §2255, see
+ante, at 5–6, it ignores the import of that
+history. As explained above, when Congress enacted §2255 in
+1948, it intended to ensure equivalence between traditional habeas
+and the new §2255 mechanism for postconviction review.
+Supra, at 5. Accordingly, Congress inserted the saving
+clause to ensure that certain pre-existing postconviction claims
+(say, a claim of statutory innocence) could still be heard even if
+the statutory language Congress was adopting inadvertently barred
+them. Supra, at 3–7. And Congress preserved the
+language of §2255(e)—the language that performs the
+equalizing function—in 1996, even as it made other
+significant changes to §2255. Supra, at 7–8.
+
+															Ignoring all this, the majority grounds its
+analysis of §2255(e) in a scattershot of lower court cases
+that the majority claims “[t]raditionally” viewed the
+saving clause as solving only for practical filing problems.
+Ante, at 6–7. To be sure, a handful of lower courts
+applied the saving clause where the sentencing court was dissolved.
+Ibid. But lower courts have also
+“[t]raditionally,” ante, at 6, treated the
+saving clause as permitting individuals with previously unavailable
+statutory innocence claims to file habeas petitions in light of
+§2255(h)’s successive-petition bar. Prost v.
+Anderson, 636 F.3d 578, 605 (CA10 2011) (Seymour, J.,
+concurring in part and dissenting in part).[6] The majority also fails to grapple with this
+Court’s own opinions that suggest a broader interpretation of
+the saving clause is proper. See Swain v. Pressley,
+430 U.S.
+372, 381–382 (1977); Sanders, 373 U. S., at
+14–15; Hayman, 342 U. S., at 223; Brief for
+Respondent 17–18.
+
+															It appears the majority’s interpretation
+of §2255(e) is primarily attributable to its concern that
+interpreting the saving clause to permit Jones to file a habeas
+petition might authorize an “end-run” around
+§2255’s procedures. Ante, at 10–11, 14. I
+think those fears are vastly overblown.
+
+															Properly interpreted, a §2255 motion is
+only “inadequate or ineffective” when the potential
+procedural bar does not provide a prisoner with any meaningful
+opportunity to present a claim. And that circumstance does
+not exist any time a procedural limitation in §2255 screens
+out a claim. For example, if an individual does not raise his legal
+innocence claim in a §2255 motion in a timely fashion, see
+§2255(f ), he cannot resort to the saving clause to file
+a habeas petition; that individual did have a meaningful
+opportunity to raise his claim pursuant to the §2255 process,
+but missed the window of opportunity. Similarly, where Congress has
+clearly narrowed the scope of postconviction relief—as it has
+done for claims of new evidence and new constitutional
+rules—it has overridden the equivalence aim that would
+otherwise render §2255 inadequate or ineffective, such that
+the saving clause does not apply. On top of this, given the
+congruence purpose underlying §2255(e), an individual can
+resort to habeas via §2255(e) only where the particular claim
+he seeks to bring would have been cognizable under pre-AEDPA
+principles.
+
+															Thus, the majority has no good answer to
+interpreting the saving clause as doing what Congress crafted it to
+do—among other things, ensuring equivalence between
+§2255 and the prior postconviction remedy being replaced or
+modified, unless Congress clearly establishes otherwise. A
+successive statutory innocence claim could have been brought prior
+to the 1996 addition of §2255(h), and Congress has not clearly
+foreclosed such claims in the text of §2255. Therefore, the
+saving clause applies, and Jones should have been permitted to
+raise his legal innocence claim by filing a habeas petition under
+§2241.
+
+															II
+
+															The foregoing analysis assumes, as the
+majority does, that the only hope of a prisoner in Jones’s
+position is to assert his statutory innocence claim via a habeas
+petition filed under §2241 per the saving clause, because
+§2255(h) prevents the filing of such a successive §2255
+motion. But I would not be so quick to assume that a successive
+§2255 motion asserting statutory innocence is impermissible
+due to §2255(h). Here is why.
+
+															Nothing in the whole of §2255 suggests that
+Congress ever considered the scenario presented in this
+case—one in which a prisoner who has already filed a
+postconviction motion suddenly gets a new claim of legal innocence
+(after his first petition was filed) based on a development in
+Supreme Court case law. Therefore, it is not at all clear that
+Congress determined that such an individual is simply out of luck.
+Far from making the decision that a prisoner in this circumstance
+should not be permitted to raise that newly available claim by
+filing another §2255 motion—as the majority
+maintains—Congress has simply never spoken to what is
+supposed to happen with newly available claims of legal
+innocence.
+
+															To reach today’s conclusion, then, the
+majority draws a “negative inference” that Congress
+intended for §2255’s “second or successive”
+bar to preclude successive filings that contain legal innocence
+claims. Ante, at 10. But the majority’s inferential
+reasoning is highly problematic in at least two respects.
+
+															First, negative inferences drawn without proper
+context can be notoriously unreliable. And, as detailed below,
+there are myriad reasons for skepticism here. Section
+2255(h)’s anti-claim-splitting purpose is one. Another is the
+likely reason that legal innocence claims do not appear in the text
+of the statute (spoiler alert: they were inadvertently omitted).
+Background equitable principles and the practical consequences of
+preventing the filing of successive petitions in this circumstance
+are additional key contextual clues that the majority seems to have
+missed.
+
+															Second, I am suspicious of the majority’s
+choice to resort to inferential reasoning at all, given that this
+Court has long held that we will not read a statute to displace
+access to “the great writ” unless Congress has been
+clear about its intention to accomplish this result. Ex parte
+Yerger, 8 Wall. 85, 95, 102 (1869). The clear-statement rule is
+plainly applicable here, and the majority offers the flimsiest of
+explanations for its decision to deviate from its application at
+the threshold of today’s interpretation.
+
+															In short, as shown below, the initial assumption
+that Congress necessarily meant for §2255(h) to bar
+Jones’s successive petition asserting statutory innocence is
+shaky, at best. I would have held that Jones’s petition can
+proceed, even without reliance on the saving clause, because
+§2255(h) does not bar it.
+
+															A
+
+															The majority says that “since [AEDPA],
+second or successive §2255 motions are barred unless they rely
+on” one of two (and only two) circumstances:
+“ ‘newly discovered evidence,’
+§2255(h)(1), or ‘a new rule of constitutional
+law,’ §2255(h)(2).” Ante, at 1. Legal
+innocence claims are barred, the majority holds, pursuant to this
+“straightforward negative inference.” Ante, at
+10. But there is a good reason that the negative-inference canon
+“must be applied with great caution.” A. Scalia &
+B. Garner, Reading Law: The Interpretation of Legal Texts 107
+(2012). And the reason is that “its application depends so
+much on context.” Ibid. In this case, for instance,
+there are several strong contextual clues that substantially
+undercut the majority’s purportedly
+“straightforward” inferential reasoning.
+
+															1
+
+															First of all, while the majority interprets
+§2255(h) as if Congress designed that provision to impose
+“finality” without regard to the claims at issue (other
+than the two listed situations), see ante, at 12, as it
+turns out, that is not the primary purpose of §2255(h).
+Instead, §2255(h)’s “second or successive
+petition” bar was inserted into AEDPA to ensure that all
+available claims a prisoner has are brought in a single
+postconviction petition. In circumstances where the prisoner seeks
+to assert a claim that was previously unavailable
+(i.e., a claim that could not have been raised before),
+Congress permitted successive petitions.
+
+															Explaining this fully requires me to make a
+preliminary big-picture point. Section 2255 (originally and as
+amended by AEDPA) is not a gauntlet of arbitrary hurdles that
+Congress has erected to stymie prisoners who seek to obtain
+judicial review of their detention. Indeed, as explained, when
+Congress first enacted §2255, it had no intention of shrinking
+the catalog of available postconviction claims. Ante, at
+5–6; see also Part I, supra. To be sure, Congress has
+undertaken to restrict the writ’s availability somewhat since
+§2255 was first enacted, but it has nevertheless continued to
+appreciate the significance of access to postconviction review of
+the legality of a prisoner’s detention. Hence, even after
+AEDPA, Congress permits all incarcerated
+individuals—including those who have been convicted of
+serious crimes and who are serving sentences that have been imposed
+by courts of competent jurisdiction—to seek collateral
+relief. See §§2254(a), 2255(a).
+
+															Still, when it enacted AEDPA in 1996, Congress
+was aware of how §2255’s postconviction processes had
+been operating on the ground since §2255’s enactment.
+Thus, Congress quite rationally sought to
+“ ‘balance’ ” the
+“ ‘individual interest in justice that arises in
+the extraordinary case’ ” with
+“ ‘the societal interests in finality, comity, and
+conservation of scarce judicial resources.’ ”
+McQuiggin v. Perkins, 569 U.S.
+383, 393 (2013) (quoting Schlup v. Delo,
+513 U.S.
+298, 324 (1995)).
+
+															Section 2255(h) reflects this balancing.
+“What emerges from a review of the debates over the
+successive petition restrictions is a clear sense that”
+Congress wanted to “preven[t] manipulation of the system
+through relitigation of previously presented claims or strategic
+withholding of claims for later presentation,” while still
+creating “a mechanism that would allow prisoners to have one
+full, fair chance to present their meritorious . . .
+claims to the federal courts.” B. Stevenson, The Politics of
+Fear and Death: Successive Problems in Capital Federal Habeas
+Corpus Cases, 77 N. Y. U. L. Rev. 699, 772 (2002).
+As Senator Hatch said at the time: “We have provided for
+protection of Federal habeas corpus, but we do it one time and that
+is it—unless, of course, they can truly come up with evidence
+of innocence that could not have been presented at trial. There we
+allow successive petitions.” 141 Cong. Rec. 15042 (1995).
+Then-Senator Biden similarly explained that the goal of AEDPA was
+“essentially giving one bite out of the apple to drastically
+reduce the ability to have successive petitions unless there is
+some egregious action that is learned about after the petition is
+filed, the first petition.” Id., at 15027.[7]
+
+															Thus, Congress enacted §2255(h) to prevent
+prisoners from engaging in manipulative filing practices—such
+as claim splitting, i.e., the inefficient business of
+prisoners with time on their hands doling out their existing
+postconviction claims in a series of successive motions filed in
+court seriatim. See Sanders, 373 U. S., at 18 (noting
+that a prisoner may “deliberately withhol[d]” or
+“deliberately abando[n]” claims in a first
+postconviction petition “in the hope of being granted two
+hearings rather than one”).[8] And, tellingly, because Congress was focused on
+that problem—not attempting to impose
+“finality” writ large—it did not bar all
+successive petitions; to the contrary, it proceeded to identify
+particular circumstances in which another collateral challenge
+would be authorized. §§2255(h)(1)–(2).
+
+															Additional doubts about the majority’s
+negative inference surface when one recognizes that the two
+circumstances Congress carved out of the successive-petition bar
+share an important common thread: Both situations relate to the
+newness of the claim that the prisoner seeks to assert in a
+successive petition. That is, both prongs of §2255(h) that
+authorize a successive petition do so where a petitioner brings a
+claim that arose after the time in which the prisoner would or
+could have filed his first petition. Ibid. (authorizing
+successive petitions raising “newly discovered
+evidence” or “a new rule of constitutional
+law” (emphasis added)).
+
+															In light of this key observation, the
+majority’s assumption that §2255(h) bars Jones’s
+claim is significantly hobbled. Jones’s statutory innocence
+claim is also “new”—in the sense that it was not
+available to him when his first §2255 petition was
+filed.[9] And Jones’s
+claim shares other features of the circumstances that Congress
+exempted from the “second or successive” general
+prohibition as well—including that it implicates innocence,
+see §2255(h)(1), and stems from a retroactively applicable
+Supreme Court opinion, see §2255(h)(2). Nor does the filing of
+Jones’s successive petition implicate any
+anti-claim-splitting rationale, as Jones did not manipulatively
+withhold his legal innocence claim during his initial §2255
+proceedings. Indeed, he could not possibly have done so, since this
+Court did not decide Rehaif v. United States, 588
+U. S. ___ (2019), which provided the basis for his claim,
+until nearly two decades after Jones filed his first petition.
+
+															In short, it is hard to believe that a Congress
+that expressly authorized “new” claims involving
+innocence or those that arise from developments in Supreme Court
+case law despite §2255(h)’s successive-petition bar also
+meant for §2255(h) to preclude Jones from bringing the claim
+that he seeks to file here.
+
+															2
+
+															The majority’s negative inference also
+rests on the bald assumption that Congress intentionally
+left statutory innocence out of its list of carveouts, because it
+wanted those claims to be barred if brought in a successive
+petition. Ante, at 12 (asserting that “Congress has
+chosen finality over error correction” with respect to
+statutory innocence claims brought in successive petitions
+(emphasis added)). But there is a perfectly logical alternative
+explanation for why statutory innocence claims do not appear as
+express exclusions in the text of §2255(h), an explanation
+that is based on another important contextual reference point: the
+enactment history of the statute.
+
+															Section 2255(h) was enacted in the same Public
+Law as §2244(b), a provision that contains analogous
+second-or-successive petition limitations for state
+prisoners. Indeed, Congress “appears to have modeled
+§2255(h)(2)” on those state-prisoner provisions.
+Chazen v. Marske, 938 F.3d 851, 863 (CA7 2019)
+(Barrett, J., concurring) (citing R. Fallon, J. Manning, D.
+Meltzer, & D. Shapiro, Hart and Wechsler’s The Federal
+Courts and the Federal System 1362 (7th ed. 2015) (Hart &
+Wechsler)). Like §2255(h), §2244(b)—the model
+provision—does not address statutory innocence claims
+in any fashion. But that is simply because there is no such thing
+as a statutory innocence claim in the realm of federal collateral
+relief for state prisoners. See Hart & Wechsler 1362; see also
+Estelle v. McGuire, 502 U.S.
+62, 67 (1991) (“[F]ederal habeas corpus relief does not
+lie for errors of state law” (internal quotation marks
+omitted)).
+
+															Thus, as others have observed, when Congress
+crafted §2255(h) based on the state-prisoner model in
+§2244(b), it seems to have “ ‘lost sight of
+the fact that’ ” federally incarcerated
+individuals “ ‘can raise federal
+statutory claims in their collateral
+attacks.’ ” Chazen, 938 F. 3d, at 863
+(quoting Hart & Wechsler 1362; emphasis added); Chazen,
+938 F. 3d, at 863 (suggesting that the omission of legal
+innocence claims from §2255(h) was due to “congressional
+oversight”); Reply Brief for Respondent 15.
+
+															To me, this contextual revelation rocks the
+foundation of the majority’s negative inference. That is, it
+is plausible (and perhaps even likely) that Congress did not
+appreciate fully that the modeled-after language establishing a
+successive-petition bar did not capture the full scope of available
+claims for federal prisoners.[10] And, of course, if Congress simply overlooked
+statutory innocence claims when it crafted §2255(h), then the
+omitted language that the majority puts so much stock in is not
+actually indicative of Congress having “chosen
+finality” with respect to statutory innocence claims.
+Ante, at 12. Instead, the absence of any textual reference
+to statutory innocence would be wholly unremarkable.
+
+															3
+
+															Given the purpose and history of §2255(h)
+as I have just described them, I find quite compelling the
+Government’s observation that “[n]othing in AEDPA
+[actually] justifies an inference that Congress silently repealed
+the traditional [postconviction] remedy for federal prisoners who
+have been imprisoned for conduct that Congress did not
+criminalize.” Brief for Respondent 28. I proceed here to add
+that nothing outside of AEDPA—not the background legal
+principles that existed at the time Congress enacted the statute,
+nor the practical consequences of reading §2255(h) in this
+manner—supports that inference either.
+
+															Take equity, for instance. When Congress crafted
+§2255(h), it legislated against an important background
+equitable principle pertaining to postconviction relief: Courts
+should not interpret statutory provisions governing habeas review
+to even “ ‘run the risk’ ” of
+causing prisoners to “ ‘forever los[e] their
+opportunity for any federal review of their . . .
+claims.’ ” Panetti v. Quarterman,
+551 U.S.
+930, 945–946 (2007) (quoting Rhines v.
+Weber, 544 U.S.
+269, 275 (2005)); see also Stewart v.
+Martinez-Villareal, 523 U.S.
+637, 645 (1998). This means that Congress was well aware that
+courts consistently “rel[y] on equitable doctrines to carve
+out . . . ways petitioners can bypass [otherwise
+applicable] procedural obstacles” when a prisoner has
+“not had a full and fair opportunity to litigate their
+federal claims.” E. Primus, Equitable Gateways: Toward
+Expanded Federal Habeas Corpus Review of State-Court Criminal
+Convictions, 61 Ariz. L. Rev. 291, 305 (2019).[11] Knowing that courts are equitable
+tribunals that tend to operate in this fashion should have prompted
+Congress to express its intention to override that value (assuming
+that it actually intended to completely foreclose new legal
+innocence claims). Congress did not do so; yet the majority reads
+its silence to accomplish that same extraordinarily inequitable
+result.[12]
+
+															The practical consequences that inure from the
+majority’s reading also undercut substantially the negative
+inference upon which the majority relies. We have consistently
+warned that courts should “resis[t] an interpretation of
+[AEDPA] that would ‘produce troublesome results’ [and]
+‘create procedural anomalies.’ ”
+Panetti, 551 U. S., at 946 (quoting Castro v.
+United States, 540 U.S.
+375, 380 (2003)). The majority does not speak to this at all,
+but its interpretation of §2255 produces bizarre outcomes.
+
+															First, there is the quirky procedural anomaly
+that arises due to the fact that statutory innocence claims are
+fully authorized in the postconviction review context. This
+Court’s recognition that a statute covers a narrower scope of
+criminal conduct than was previously acknowledged falls within the
+narrow subset of criminal law decisions that are fully retroactive,
+meaning that a federal prisoner can rely upon that new
+determination whether his case is still on direct review or not.
+Schriro v. Summerlin, 542 U.S.
+348, 351–352 (2004); Bousley, 523 U. S., at
+620–621. But reading §2255(h) to bar a successive
+petition raising legal innocence would mean that most prisoners who
+would (remarkably) be eligible for such retroactive relief would
+turn out to have no mechanism for actually requesting it. A strange
+practical conundrum, to say the least.
+
+															Inferring that §2255(h) bars legal
+innocence claims when brought in a successive petition also
+produces stunningly disparate results that bear no relationship to
+Congress’s purported finality goals. Consider two individuals
+who have been convicted of the same federal crime—perhaps two
+codefendants who were tried and sentenced together. Both complete
+their direct appeals, but only one files a §2255 motion within
+AEDPA’s statute of limitations, while the other one decides
+not to or misses the deadline. If §2255(h) bars a successive
+petition raising a legal innocence claim, then when Rehaif
+is handed down—altering the elements of the crime of
+conviction such that both prisoners have a colorable claim
+of legal innocence—only the one who did not previously file a
+§2255 petition can raise this retroactive statutory innocence
+claim.
+
+															Reference to Congress’s interest in
+“finality” cannot explain this odd unequal treatment.
+Under the Court’s interpretation, a prisoner whose conviction
+became final 30 years ago can assert a Rehaif claim
+if he never previously filed a §2255 motion, whereas someone
+whose conviction became final 2 years ago cannot if he has
+already had a §2255 petition adjudicated.[13]
+
+															Interpreting §2255(h) as completely
+foreclosing successive petitions bringing statutory innocence
+claims also places prisoners in an untenable catch-22 that cannot
+be what any rational Congress actually intended. Consider what has
+happened in this very case. Per AEDPA’s statute of
+limitations, Jones had to file his first §2255 petition within
+one year of his conviction becoming final. §2255(f ). He
+did so, and that petition was successful; the Eighth Circuit
+found that Jones had received ineffective assistance of counsel.
+United States v. Jones, 
+403 F.3d 604, 605 (2005). In the majority’s view, by
+seeking to vindicate his Sixth Amendment rights in this way, Jones
+has forfeited, forever and for all time, his right to rely on any
+new retroactive Supreme Court opinion that suggests he is
+incarcerated for noncriminal behavior. There is no indication that
+Congress meant for Jones and other prisoners in his position to
+have to choose between pursing an
+ineffective-assistance-of-counsel claim and a claim of legal
+innocence.
+
+															*  *  *
+
+															Despite all this, the majority clings to its
+“straightforward” negative inference and interprets
+§2255(h) as a bar to a court’s consideration of
+Jones’s legal innocence claim. My point is that, with so many
+contextual indicators that Congress did not really mean for
+§2255(h) to be read to preclude new claims of statutory
+innocence, the Court should have simply determined that
+Jones’s petition, which asserts such a claim, was not plainly
+barred by §2255(h), and could thus proceed in a successive
+§2255 petition.
+
+															B
+
+															Instead of drawing an inference about the
+operation of §2255(h), the most “straightforward”
+way of determining whether Jones’s legal innocence claim is
+precluded by statute, ante, at 12, would have been to apply
+our clear-statement rule to today’s interpretation.
+
+															1
+
+															A “longstanding rule” of this
+Court, INS v. St. Cyr, 533 U.S.
+289, 298 (2001), the clear-statement rule directs that, before
+interpreting a congressional enactment as
+“ ‘clos[ing the Court’s] doors to a class of
+habeas petitioners,’ ” the Court must search for a
+“ ‘clear indication that such was Congress’
+intent,’ ” Panetti, 551 U. S., at 946
+(quoting Castro, 540 U. S., at 381). This principle
+recognizes that Congress must “speak unambiguously when it
+seeks to effect a result that, although constitutional, would
+undermine a constitutionally derived value.” J. Manning,
+Textualism and the Equity of the Statute, 101 Colum. L. Rev.
+1, 121–122 (2001) (Manning). And, before today, this Court
+has repeatedly recognized the importance of the clear-statement
+rule with respect to any analysis of an Act of Congress that
+potentially restricts access to the writ of habeas corpus or its
+statutory equivalent.[14] In
+fact, “where a provision precluding review is claimed to bar
+habeas review,” we have “required a particularly
+clear statement.” Demore v. Kim, 538 U.S.
+510, 517 (2003) (emphasis added).
+
+															The clear-statement rule is plainly implicated
+here. Under the state of the law at the time AEDPA was enacted,
+prisoners were entitled to bring a petition to assert a new claim
+of legal innocence, even a second or successive petition.
+Supra, at 8–9. Congress could change that state of
+affairs, but, under the clear-statement rule, if it intended to do
+so, it needed to speak clearly to effectuate that result.
+
+															At a more general level of analysis, the
+clear-statement rule also applies to these circumstances because
+the interpretive question in this case touches upon the venerated
+writ of habeas corpus—the only writ that is expressly
+mentioned in the Constitution. Art. I, §9, cl. 2;
+Holland, 560 U. S., at 649. We have long recognized
+that the clear-statement rule serves the core liberty interests
+protected by the writ of habeas corpus. See Ex parte
+Yerger, 8 Wall., at 103 (holding, more than 150 years ago, that
+the Court had jurisdiction over a particular habeas petition and
+relying on the clear-statement rule to reach that conclusion,
+explaining that, to conclude otherwise, would “greatly weaken
+the efficacy of the writ” and “deprive the citizen in
+many cases of its benefits”). Likewise, in modern times, we
+have been especially careful to reference clear-statement
+principles, and thereby eschew statutory interpretations that would
+(perhaps unintentionally) foreclose judicial review of
+postconviction claims, even where the text of the statute might
+(sometimes even strongly) suggest otherwise.[15]
+
+															Furthermore, and significantly for present
+purposes, we have already determined that the necessary
+“clear statement” here—i.e., the signal
+from Congress that justifies reading a statute as foreclosing
+access to venerated postconviction review processes—cannot
+be derived from negative inferences drawn from statutory text.
+In Ex parte Yerger, for instance, we declared
+that interpreting a statute to “[r]epea[l] by
+implication” habeas jurisdiction is “not
+favored.” 8 Wall., at 105. More recently, we warned (again)
+that “[i]mplications from statutory text or legislative
+history are not sufficient to repeal habeas jurisdiction; instead,
+Congress must articulate specific and unambiguous statutory
+directives to effect a repeal.” St. Cyr, 533
+U. S., at 299 (citing Ex parte Yerger, 8 Wall., at
+105). And, again, in Holland, this Court explained that the
+clear-statement rule generally prohibits a court from inferring
+that the “inclu[sion of] one item . . . is to
+exclude other similar items” in order to read a statute as
+forbidding review of a postconviction claim. 560 U. S., at
+648; see also id., at 649 (“counsel[ing] hesitancy
+before interpreting AEDPA’s statutory silence as indicating a
+congressional intent to close courthouse doors”). Yet, here,
+as the majority appears to admit, the only way to read
+§2255(h) as barring Jones’s statutory innocence claim is
+to infer that such preclusion is what Congress intended.
+Ante, at 10, 23.
+
+															This case would have been easily resolved if we
+had applied the clear-statement rule at the outset, as we have
+always done in cases of this nature. Doing so would have
+appropriately eliminated a reading of §2255(h) that forecloses
+access to habeas relief by negative implication. Use of the rule
+would have thus protected core constitutional norms by
+“ensur[ing] Congress does not, by broad or general language,
+legislate on a sensitive topic inadvertently or without due
+deliberation.” Spector v. Norwegian Cruise Line
+Ltd., 545 U.S.
+119, 139 (2005) (opinion of Kennedy, J.); see also Will
+v. Michigan Dept. of State Police, 491 U.S.
+58, 65 (1989).
+
+															2
+
+															In the last few pages of its opinion, the
+Court makes the unceremonious (but still startling) announcement
+that the clear-statement rule is inapplicable to today’s
+analysis of §2255(h). Ante, at 23–25.[16] Try as it might, in my view, the
+majority has failed to provide a single persuasive reason for this
+dramatic break.
+
+															First, the majority suggests that the
+clear-statement rule is not appropriate when interpreting
+provisions related to “finality”—and seems to
+draw a line between AEDPA’s statute of limitations, which
+does get clear-statement treatment, and its provisions governing
+successive petitions. Ante, at 23–24. This is
+nonsense. Both AEDPA provisions use similar language.
+§2255(f ) (“A 1-year period of limitation shall
+apply to a motion under this section”); §2255(h)
+(“A second or successive motion must . . . contain
+. . . ”). And both procedural limitations relate to
+Congress’s interest in finality. Ante, at 24;
+Wood v. Milyard, 566 U.S.
+463, 472 (2012) (noting that AEDPA’s statute of
+limitations “lends finality to . . . court
+judgments within a reasonable time” (emphasis added; internal
+quotation marks omitted)).[17]
+
+															Next, the majority conspicuously downplays the
+stakes in this case. Not once does its opinion make direct mention
+of the fact that the claim the majority says §2255(h) silently
+precludes is one that implicates core values because it involves
+legal innocence. Instead, the majority repeatedly describes
+Jones’s bid for access to the postconviction review process
+as bringing a mere “statutory” claim. Ante, at
+2, 12, 21, 23.[18] But
+statutory claims that suggest a person’s innocence are
+different in kind from more run-of-the-mill statutory claims, such
+as a technical, nonprejudicial violation of a criminal procedure
+rule. See United States v. Addonizio, 442 U.S.
+178, 186–187 (1979); Davis, 417 U. S., at
+346–347 (citing Hill v. United States,
+368 U.S.
+424, 428–429 (1962)). In any event, the majority does not
+cite a single case that suggests that an Act of Congress that
+threatens to cut off access to habeas (or its statutory equivalent)
+should be treated any differently for purposes of application of
+the clear-statement rule if a petitioner’s claim has a
+statutory basis.
+
+															The majority’s most full-throated defense
+of its jettisoning of clear-statement principles lies in its
+attempt to cast statutory innocence claims as not
+“historically or constitutionally grounded.”
+Ante, at 24–25. The first and most obvious problem
+with this effort is that the historical pedigree of a claim is
+irrelevant for clear-statement purposes. The clear-statement rule
+is applicable here because the statute being interpreted involves
+access to the writ of habeas corpus—a significant
+constitutional value that we would not assume Congress would
+discard without careful consideration. See Manning 121–122;
+see also Holland, 560 U. S., at 646–649. And, so
+triggered, our clear-statement canon of construction is not
+rendered inapplicable just because the particular type of claim
+that a prisoner seeks to advance in the context of a habeas or
+postconviction proceeding (if he is afforded one) might not date
+back to the founding era. This must be why the majority cites no
+precedent that splices the clear-statement rule in this
+fashion.
+
+															Looking back to the time of the founding to
+determine whether the clear-statement rule applies to our
+interpretation of a statute passed in 1996 also makes no sense. The
+clear-statement question relates to what Congress intended with
+respect to the meaning of the statute at the time it was
+enacted. When Congress introduced §2255(h), it codified or
+changed the law that existed at that time (i.e., in 1996).
+See, e.g., Slack v. McDaniel, 529 U.S.
+473, 483 (2000) (noting that AEDPA’s
+certificate-of-appealability provisions codified the prevailing
+judicial standard). Thus, when this Court has previously applied
+the clear-statement rule and analyzed the meaning of particular
+AEDPA provisions, the feelings of the Framers were of no moment.
+Instead, we properly examined the law leading up to AEDPA’s
+enactment, not founding-era sources. See, e.g.,
+Panetti, 551 U. S., at 944; Magwood v.
+Patterson, 561 U.S.
+320, 337 (2010) (plurality opinion).
+
+															Even if the majority was right with respect to
+its assumption that founding-era practices bear on whether the
+clear-statement rule applies here, historical practice plainly
+undermines its assertion that legal innocence claims are of recent
+vintage. Supreme Court Justices riding circuit in the early 19th
+century repeatedly considered the merits of habeas petitions filed
+by individuals who argued they were being wrongfully incarcerated
+because the laws that had been invoked to justify their
+confinement, properly construed, did not reach their
+conduct.[19] Moreover, and
+importantly, since the mid-19th century, the statutory scheme for
+postconviction review has permitted petitions based not only on a
+“violation of the constitution” but also on a
+“violation of the . . . law of the United
+States.” Judiciary Act of Feb. 5, 1867, ch. 28, §1, 14
+Stat. 385; see also §2255; W. Church, Writ of Habeas Corpus
+§169, p. 249 (2d ed. 1893) (“The issue raised on the
+hearing of a habeas corpus may be one of law
+simply”).[20]
+
+															To the extent the majority’s assessment of
+the purportedly nascent nature of statutory innocence claims rests
+on its view that, at the time of the founding, habeas relief was
+rarely available when a petition was brought by a convicted
+individual (as opposed to a pretrial detainee), ante,
+at 15–19, there are two additional problems. For one thing,
+even assuming that a detainee-versus-convict scope-of-habeas
+distinction existed at the dawn of our Nation, Congress has now
+squarely rejected it.[21]
+However grounded in history and tradition the Court’s own
+view of the scope of habeas might be, it is obviously not shared by
+the Legislature that enacted the statute we are now
+interpreting.
+
+															Second, here again, the majority evaluates the
+historical pedigree of legal innocence claims based on faulty
+history. It maintains that, historically, a court could review a
+habeas petition filed by a convicted individual only for
+“jurisdictional” errors (which the majority defines
+narrowly). Ante, at 15–18, 24–25; cf.
+Edwards v. Vannoy, 593 U. S. ___, ___–___
+(2021) (Gorsuch, J., concurring) (slip op., at 2–8). But
+those who have researched this contention have called it
+“narrative and myth but not history.” L. Kovarsky,
+Habeas Myths, Past and Present, 101 Texas L. Rev. Online 57, 79
+(2022) (Kovarsky); see also J. Siegel, Habeas, History, and
+Hermeneutics, 64 Ariz. L. Rev. 505, 524–532 (2022) (Siegel);
+Brown v. Davenport, 596 U. S. ___, ___–___
+(2022) (Kagan, J., dissenting) (slip op., at 2–8).[22]
+
+															At the very least, this take on early habeas
+practice appears contradicted by United States v.
+Bainbridge, 24 F. Cas. 946 (No. 14,497) (CC Mass. 1816)
+(Story, J.). There, Justice Story considered a statutory innocence
+claim on the merits even though the individual had already pleaded
+guilty. Id., at 949, 951–952. And the
+postconviction/preconviction distinction also runs headlong into
+other precedents that have looked back on history and do not
+subscribe to such a narrow view. St. Cyr, 533 U. S., at
+302 (“[T]he issuance of the writ was not limited to
+challenges to the jurisdiction of the custodian”); Fay
+v. Noia, 372 U.S.
+391, 404 (1963) (“Nor is it true that at common law
+habeas corpus was available only to inquire into the jurisdiction,
+in a narrow sense, of the committing court” (citing
+Bushell’s Case, Vaughn. 135, 124 Eng. Rep. 1006
+(C. P. 1670))).
+
+															Thus, assuming, arguendo, that the
+historical grounding of the particular type of claim Jones sought
+to bring even matters, the majority is mistaken when it contends
+that a statutory innocence claim (including one brought in a
+successive petition) is not sufficiently historical to warrant
+application of our clear-statement rule.
+
+															*  *  *
+
+															If the majority had applied the
+clear-statement rule, as it should have, to determine whether
+§2255(h) precludes successive postconviction petitions that
+assert statutory innocence claims, today’s interpretive task
+would have merely involved answering one simple question: Is there
+an unambiguous sign in the text of §2255 that Congress meant
+for §2255(h) to strip an incarcerated individual of any
+opportunity to raise a new claim of legal innocence in a motion
+brought in federal court? No such sign exists.[23] Therefore, we could have (and should have)
+easily concluded that there is no statutory impediment to
+Jones’s §2255 motion being entertained by a court.
+
+															III
+
+															Finally, I believe that the canon of
+constitutional avoidance also does important work to
+guide—and constrain—the Court’s interpretation of
+§2255 in this case. See Zadvydas v. Davis,
+533 U.S.
+678, 689 (2001); cf. Pressley, 430 U. S., at
+381–382 (relying on the saving clause to conclude that the
+District of Columbia’s postconviction statute, which mirrored
+§2255, was constitutional). The majority’s bottom line,
+reading “the interplay” between §2255(h) and
+§2255(e), ante, at 1, is that a person in prison for
+noncriminal conduct cannot ask a federal court to review the
+legality of his detention if he has previously filed a §2255
+petition. This position is stunning in a country where liberty is a
+constitutional guarantee and the courts are supposed to be
+dispensing justice. It also raises hackles under at least two
+provisions of our founding charter.
+
+															First, the Eighth Amendment. There is a
+nonfrivolous argument that the Constitution’s protection
+against “cruel and unusual punishment” prohibits the
+incarceration of innocent individuals. See In re Davis, 557
+U.S. 952, 953 (2009) (Stevens, J., concurring) (citing
+Triestman v. United States, 
+124 F.3d 361, 377–380 (CA2 1997)); see also
+Herrera v. Collins, 506 U.S.
+390, 432, n. 2 (1993) (Blackmun, J., dissenting) (“It
+. . . may violate the Eighth Amendment to imprison
+someone who is actually innocent”); Robinson v.
+California, 370 U.S.
+660, 667 (1962). This is not to say that the Eighth Amendment
+creates a “freestanding entitlement to a second or successive
+round of postconviction review.” Ante, at 20. But here
+Jones seeks a single meaningful opportunity to have a
+federal court consider his claim of legal innocence.
+
+															The majority’s interpretation also
+implicates the Suspension Clause. Art. I, §9, cl. 2. The
+majority admits that, at a minimum, the Suspension Clause protects
+the right of habeas corpus as it existed at the time of the
+founding.[24] See
+ante, at 15. The majority also seems to acknowledge that, in
+the late 18th century, an individual—even one who had been
+convicted of a crime—could invoke habeas to raise a
+“jurisdictional” error. Ante, at 15,
+24–25. Historically, the term
+“ ‘jurisdictional’ ” when used by
+habeas courts “meant something much broader then than it
+means now.” Kovarsky 75; see also Siegel 524. And,
+importantly, a court lacked “jurisdiction”—and
+thus the writ could issue—when a person was incarcerated for
+noncriminal behavior.[25]
+
+															Thus, it appears that, by its own lights, the
+majority today renders an interpretation of §2255 that has
+potentially significant constitutional implications.
+
+															IV
+
+															I conclude with an observation. Today’s
+ruling follows a recent series of troubling AEDPA
+interpretations.[26] All of
+these opinions have now collectively managed to transform a statute
+that Congress designed to provide for a rational and orderly
+process of federal postconviction judicial review into an aimless
+and chaotic exercise in futility. The route to obtaining collateral
+relief is presently replete with imagined artificial barriers,
+arbitrary dead ends, and traps for the unwary. And today’s
+turn makes the journey palpably absurd: It begins with the Supreme
+Court’s (rare) announcement that a certain claim for release
+exists and is retroactively available to incarcerated individuals
+on collateral review, and ends with the realization that only an
+arbitrarily determined sliver of eligible prisoners (those who have
+not had the temerity to file a prior motion) are actually in a
+position to even ask a court to consider whether any such relief
+might be provided.
+
+															It is quite clear that the Court’s rulings
+in this area of the law reflect a general ethos that convicted
+prisoners should not be permitted to file §2255 motions or
+obtain postconviction relief at all. But what matters is what
+Congress wants with respect to the operation of the
+statutory provisions it enacts. And, as I have shown,
+Congress’s aim in crafting §2255 was to permit convicted
+prisoners to file postconviction motions asserting claims for
+collateral relief in a manner that also curbs abusive filings.
+Congress did not speak—one way or the other—as to what
+should happen if a prisoner who has previously filed a §2255
+motion gets a new claim of legal innocence due to an intervening
+change in the law.
+
+															Given Congress’s silence on this matter,
+in my view, there is simply no justification for drawing a negative
+inference that Congress meant for §2255 to operate in a manner
+that is patently inconsistent with the reasons it passed that
+statute, or the background principles that animated the law more
+broadly at the time of the statute’s enactment, or even
+(possibly) core constitutional principles. Instead, §2255(e)
+should be read—consistent with Congress’s general
+intent to ensure equivalence between the claims available in habeas
+and those that its new postconviction mechanism allowed—to
+permit prisoners who have a new and retroactive statutory innocence
+claim to file a habeas petition in lieu of a §2255 motion.
+Alternatively, we should honor Congress’s clear interest in
+preserving a prisoner’s ability to have one meaningful
+opportunity to have all of his claims presented to a court, by
+allowing Jones to file a petition asserting his new and retroactive
+claim of statutory innocence, notwithstanding what might otherwise
+be perceived as an ironclad bar in §2255(h).
+
+															In other words, as I see it, the negative
+inference that the majority draws today rests on nothing—and
+certainly nothing that actually derives from Congress’s
+intent. Nothing in the text of §2255, background principles
+concerning habeas relief, or AEDPA’s enactment history
+compels (or even supports) the conclusion that Congress intended to
+completely foreclose claims like Jones’s. And it is
+especially perverse to read the statute to lead to that result when
+doing so gives rise to legally dissonant, arbitrary, and untenable
+outcomes. So, the majority’s “straightforward”
+determination that this statute does preclude a prisoner in
+Jones’s position from filing a successive petition to assert
+a legal innocence claim (which it reaches by refusing to follow the
+procedural norm that would have correctly framed the issue as a
+matter of congressional intent relative to clear-statement
+principles) appears to stem from the Court’s own views
+concerning finality, not the will of Congress.
+
+															Ultimately, of course, this all begs the
+question of how (and whether) Congress will respond to the
+Court’s systematic neutering of the balanced postconviction
+processes that the Legislature has established. It seems to me that
+today’s opinion—which unjustifiably closes off all
+avenues for certain defendants to secure meaningful consideration
+of their innocence claims—creates an opening for Congress to
+step in and fix this problem.
+
+Notes
+1
+ I use the terms
+“statutory innocence” and “legal innocence”
+in this opinion interchangeably. Both refer to a situation where an
+individual was convicted under a statute that, properly
+interpreted, did not reach his conduct.
+2
+ I take no position as to
+whether Jones’s legal innocence claim is actually
+meritorious. This case is about whether §2255 should be
+interpreted to prevent him from bringing the claim to a court in
+the first place.
+3
+ In this regard,
+Davis merely acknowledged what had been true since the
+founding. See infra, at 31–34; Davis v.
+United States, 417
+U.S. 333, 343–345 (1974); see also L. Litman, Legal
+Innocence and Federal Habeas, 104 Va. L. Rev. 417, 488, n. 334
+(2018) (“[A]t the time Section 2255 was enacted, federal
+prisoners could raise a claim, in successive petitions, that they
+were mistakenly convicted or sentenced because of an error of
+statutory interpretation”).
+4
+ Prior to AEDPA, an
+individual who wished to file a successive petition claiming
+factual innocence on the basis of new evidence needed only to show
+that it was “more likely than not” that the jury would
+have acquitted him. Schlup v. Delo, 513 U.S.
+298, 327 (1995). But, with AEDPA, Congress narrowed the scope
+of available relief for factual innocence claims by requiring
+prisoners to make their showing by the more stringent “clear
+and convincing evidence” standard. §2255(h)(1); see also
+§2244(b)(2)(B)(ii); 141 Cong. Rec. 15040, 15042 (1995)
+(statement of Sen. Levin). Similarly, before AEDPA, an intervening
+change of circuit precedent arguably could warrant a
+successive petition raising a new constitutional argument. See
+Davis, 417 U. S., at 339–341, 346–347;
+Sanders v. United States, 373 U.S.
+1, 17 (1963); United States v. Nolan, 571 F.2d
+528, 530 (CA10 1978); see also Hertz & Liebman
+§28.3[c][ii], at 1709–1710, and n. 108. Yet AEDPA
+permits successive petitions raising new constitutional claims only
+when premised on retroactive Supreme Court opinions.
+§§2255(h)(2), 2244(b)(2)(A).
+5
+ The text of §2255(h)
+says nothing about legal innocence claims, let alone clearly
+expresses an intent to narrow the scope of available postconviction
+relief for that category of claims, in contrast to what the statute
+says about claims of new evidence or new constitutional rules.
+Congress could have easily stated somewhere in §2255(h) or
+§2244 that “no circuit or district judge shall be
+required to consider a second or successive motion premised only on
+statutory claims, even claims suggesting innocence,” or that
+“a court of appeals shall not certify or authorize a second
+or successive §2255 petition that raises a statutory claim
+only.” Yet nothing close to this kind of language, or
+distinction, appears on the face of the statute. Nor does an intent
+to foreclose statutory innocence claims appear in the legislative
+history of §2255(h), even though that history does
+clearly reflect a congressional intent to narrow the scope of
+postconviction relief for the categories expressly mentioned in
+§§2255(h)(1) and (2) (like new evidence claims), see,
+e.g., 141 Cong. Rec., at 15040, 15042 (statement of Sen.
+Levin).
+6
+ See also, e.g.,
+Triestman v. United States, 
+124 F.3d 361, 363 (CA2 1997); In re Dorsainvil,
+
+119
+F.3d 245, 250–252 (CA3 1997); In re Jones,
+
+226 F.3d 328, 333–334 (CA4 2000); Reyes-Requena v.
+United States, 
+243 F.3d 893, 904 (CA5 2011); Hill v. Masters,
+836 F.3d 591, 599–600 (CA6 2016); In re Davenport,
+
+147 F.3d 605, 610–611 (CA7 1998); Stephens v.
+Herrera, 
+464 F.3d 895, 898 (CA9 2006); Wofford v. Scott,
+
+177 F.3d 1236, 
+1245 (CA11 1999), overruled by McCarthan v. Director
+of Goodwill Industries-Suncoast Inc., 851 F.3d 1076 (CA11 2017)
+(en banc).
+7
+ See also H. R. Rep. No.
+101–681, pt. 1, p. 111 (1990) (explaining that the purpose of
+a predecessor bill was “to promote finality” but also
+“to ensure that habeas corpus petitioners have one fair
+opportunity to present their Federal claims to the Federal
+courts”).
+8
+ It appears that, in
+enacting restrictions on successive petitions, Congress was
+primarily worried about successive petitions filed by state
+prisoners on death row, because a petition could delay the
+execution of a death sentence. See Stevenson, 77
+N. Y. U. L. Rev., at 723–730. Indeed, the law
+is called the Antiterrorism and Effective Death Penalty Act.
+That concern does not apply to a situation like Jones’s,
+since he is not serving a death sentence, and nothing about a
+successive petition delays the execution of his sentence of
+imprisonment.
+9
+ Prior to this
+Court’s holding in Rehaif v. United States, 588
+U. S. ___ (2019), well-established Circuit precedent had
+barred Jones’s claim. United States v. Jones,
+
+266 F.3d 804, 810, n. 5 (CA8 2001) (citing United
+States v. Kind, 
+194 F.3d 900, 906 (CA8 1999)). After Jones’s conviction
+became final, this Court decided Rehaif, which interpreted
+the elements of Jones’s crime of conviction more narrowly
+than some Courts of Appeals had, and thereby recognized a potential
+basis for Jones and other similar defendants to claim legal
+innocence. And because Rehaif was a Supreme Court ruling
+that changed the scope of a criminal statute, it applied
+retroactively to individuals (like Jones) whose convictions had
+become final at the time it was issued. Schriro v.
+Summerlin, 542 U.S.
+348, 351–352 (2004); Bousley v. United
+States, 523 U.S.
+614, 620–621 (1998).
+10  The
+rushed and emotionally charged manner in which AEDPA came into
+fruition makes Congress’s lack of attention to this detail a
+very realistic possibility. AEDPA was passed in reaction to the
+Oklahoma City bombing, and President Clinton had
+“demand[ed]” its passage by the 1-year anniversary of
+that event. J. Liebman, An “Effective Death Penalty”?
+AEDPA and Error Detection in Capital Cases, 67 Brooklyn L. Rev.
+411, 413 (2011); see also Stevenson, 77 N. Y. U. L.
+Rev., at 701. Both this Court and commentators have observed that,
+likely as a result, AEDPA is “shoddily crafted and poorly
+cohered.” L. Kovarsky, Death Ineligibility and Habeas Corpus,
+95 Cornell L. Rev. 329, 342 (2010); see also Lindh v.
+Murphy, 521 U.S.
+320, 336 (1997) (“[I]n a world of silk purses and
+pigs’ ears, [AEDPA] is not a silk purse of the art of
+statutory drafting”).
+11  Many
+of the Courts of Appeals that had read §2255(e) as saving
+legal innocence claims invoked this equitable principle. See,
+e.g., In re Davenport, 147 F. 3d, at 609;
+Triestman, 124 F. 3d, at 378; In re Dorsainvil, 119
+F. 3d, at 251. As lower courts also recognized, the impetus to
+provide a meaningful opportunity for review of a postconviction
+claim was especially strong when failure to hear the claim might
+result in a “miscarriage of justice.” See
+Reyes-Requena, 243 F. 3d, at 904; In re
+Dorsainvil, 119 F. 3d, at 251.
+12  Theoretically, Jones had
+“an” opportunity to raise his claim. But, in my view,
+it was not a meaningful one. Well-established Circuit
+precedent barred the claim at the time of Jones’s direct
+appeal and first petition. See n. 9, supra. Jones has never
+had any opportunity, meaningful or otherwise, to rely on
+Rehaif’s authoritative construction.
+13  Accommodating the possibility of
+retroactively applicable Supreme Court opinions, §2255 runs
+the statute of limitations not just from the date on which the
+conviction became final, but also from the date a new,
+retroactively applicable right was recognized by the Supreme Court.
+§2255(f )(3).
+14  See,
+e.g., Boumediene v. Bush, 553 U.S.
+723, 738 (2008); McQuiggin v. Perkins, 569 U.S.
+383, 397 (2013); Holland v. Florida, 560 U.S.
+631, 646 (2010); Panetti v. Quarterman, 551 U.S.
+930, 946 (2007); Hamdan v. Rumsfeld, 548 U.S.
+557, 575 (2006); Demore v. Kim, 538 U.S.
+510, 517 (2003); Castro v. United States,
+540 U.S.
+375, 381 (2003); INS v. St. Cyr, 533 U.S.
+289, 298 (2001); Ex parte Yerger, 8 Wall. 85, 102
+(1869).
+15  For
+example, we cited the clear-statement rule when declining to read
+§2244(b)(2), which generally prohibits second or successive
+habeas petitions filed by state prisoners, as blocking a
+second-in-time habeas petition that raised an
+incompetent-to-be-executed claim, even though, literally read, the
+statute could have done so. Panetti, 551 U. S., at
+942–943, 945–946. Similarly, in Holland, the
+Court relied on the clear-statement rule when evaluating
+AEDPA’s 1-year statute of limitations, holding that the
+unequivocal statutory limitations period can be equitably tolled,
+even though the text of AEDPA did not include equitable tolling
+among the enumerated exceptions. 560 U. S., at 646–649.
+Likewise, in Castro, the Court used the clear-statement rule
+to reject the argument that §2244(b)(3)(E)—which
+prohibits habeas petitioners from seeking certiorari review of a
+“ ‘grant or denial of an authorization by a court
+of appeals to file a second or successive
+application’ ”—prevented this Court from
+reviewing whether the lower courts had mistakenly concluded that
+the federal prisoner’s petition was in fact a “second
+or successive” petition. 540 U. S., at 379–381.
+Finally, in St. Cyr, the Court utilized the clear-statement
+rule to dispense with the contention that AEDPA stripped federal
+courts of jurisdiction to review a noncitizen’s habeas
+petition raising a pure question of law. 533 U. S., at
+298–299, 314.
+16  It
+appears that no one but the Court’s majority even thought it
+possible to sidestep the clear-statement rule with respect to
+today’s interpretive exercise. Both Jones and the Government
+expressly invoked it. And Court-appointed amicus did not
+dispute its applicability.
+17  This
+Court has also treated these two provisions as similarly
+susceptible to equitable exceptions; for instance, the
+“miscarriage of justice” principle that permits
+bypassing procedural barriers applies to both. McQuiggin,
+569 U. S., at 386, 392–393; Schlup, 513
+U. S., at 320.
+18  The
+euphemistic manner in which the Court’s opinion tiptoes
+around what Jones is actually arguing is noteworthy. The majority
+says that, by operation of §2255(h), prisoners in
+Jones’s position cannot take advantage of “a more
+favorable interpretation of statutory law,” ante, at
+1, which it also obliquely characterizes as “an intervening
+change in statutory interpretation,” ante, at 3, or
+“a newly adopted narrowing interpretation of a criminal
+statute,” ante, at 9. In fact, the word
+“innocence” only appears in the Court’s opinion
+when recounting the Government’s arguments. Ante, at
+21, 23. If the majority has spared a thought for the appropriate
+standard when a petitioner is claiming legal innocence, I could not
+find it in the Court’s opinion.
+19  Ex
+parte D’Olivera, 7 F. Cas. 853, 854 (No. 3,967) (CC Mass.
+1813) (Story, J.) (construing a 1790 statute criminalizing
+desertion from a merchant ship by “seamen engaged in the
+merchants’ service of the United States” as not
+covering certain “foreign seamen in foreign vessels”
+and granting habeas relief to such persons); United States
+v. Bainbridge, 24 F. Cas. 946, 951–952 (No. 14,497)
+(CC Mass. 1816) (Story, J.) (considering on the merits, but
+ultimately rejecting, a habeas petitioner’s argument that an
+enlistment law did not apply to minors enlisted without parental
+consent); Ex parte Randolph, 20 F. Cas. 242,
+254–257 (No. 11,558) (CC Va. 1833) (Marshall, C. J.)
+(granting habeas relief to an individual civilly imprisoned because
+the statute at issue, properly interpreted, did not apply to the
+petitioner); see also, e.g., Grant v. United
+States, 58 F. 694, 695–697 (CA9 1893) (granting writ of
+error to individuals who had been convicted following a trial, on
+the ground that the law at issue, “fairly interpreted,”
+did not reach the petitioners’ conduct because “the
+case does not come within the letter of the statute,” and
+citing cases reaching the same conclusion); In re Wahll, 42
+F. 822, 825–826 (Minn. 1890) (considering, but rejecting on
+the merits, a convicted prisoner’s claim that his acts did
+not amount to a violation of a federal law criminalizing the
+mailing of obscene letters). The majority has plainly expended a
+considerable amount of effort to distinguish all of these cases.
+See ante, at 18–19, and n. 8. Still, its vigorous
+attempt falls short. For example, the majority tries to distinguish
+Wahll on the ground that the court “considered but
+rejected a similar argument for ordering pretrial release.”
+Ante, at 19, n. 8. But it ignores that the Wahll
+court still considered the merits of the statutory argument;
+the court did not dismiss the case on the ground that such
+statutory arguments were not cognizable after the prisoner’s
+conviction. 42 F., at 825–826.
+20  This
+argument that statutory claims are not cognizable in the
+postconviction or habeas context has already been
+considered—and rejected—by this Court. For example, in
+St. Cyr, this Court cited various 17th- and 18th-century
+cases to conclude that the “issuance of the writ” of
+habeas corpus “encompassed detentions based on errors of law,
+including the erroneous application or interpretation of
+statutes.” 533 U. S., at 302. And, in Boumediene,
+the Court reiterated that it is “uncontroversial
+. . . that the privilege of habeas corpus entitles the
+prisoner to a meaningful opportunity to demonstrate that he is
+being held pursuant to ‘the erroneous application or
+interpretation’ of relevant law.” 553 U. S., at
+779 (quoting St. Cyr, 533 U. S., at 302; emphasis
+added). Not once does the majority engage with the propositions
+stated in these cases. Nor does the majority grapple with the
+express statutory language in both the Judiciary Act of 1867 and
+§2255 authorizing claims premised on violations of the
+“ ‘law of the United States.’ ”
+Supra, at 32.
+21  Section 2255 explicitly authorizes a
+convicted prisoner to “move the court which imposed the
+sentence” for the prescribed relief, and it allows petitions
+to be filed after “the date on which the judgment of
+conviction becomes final.” §§2255(a), (f )(1).
+Also, the major procedural change accomplished by Congress’s
+adoption of §2255 in 1948 was to transfer the filing of
+postconviction petitions from the district of confinement to the
+sentencing court, see United States v. Hayman,
+342 U.S.
+205, 215–216 (1952)—a shift that only makes sense
+if Congress contemplated postconviction challenges.
+22  The
+majority relies heavily on Ex parte Watkins, 3 Pet. 193
+(1830), to support its purported “jurisdictional” line.
+Ante, at 15–18. But Watkins does not stand for
+the broad proposition that the majority derives. Watkins
+“itself relies on contested habeas history,” and is (as
+scholars have explained) distinguishable. Kovarsky 70–71.
+That Watkins cannot mean what the majority says is confirmed
+by the numerous “19th and early 20th century cases
+. . . that undeniably decided the merits of
+constitutional claims that were not premised on the detaining
+authority’s lack of jurisdiction or application of an
+unconstitutional statute or sentence.” Hertz & Liebman
+§2.4[c], at 44.
+23  The
+majority does not appear to dispute this conclusion, as it only
+engages with the clear-statement rule to categorically reject its
+applicability. Ante, at 23–25. The majority does
+not—and cannot—establish that, if applied here, the
+clear-statement rule is satisfied.
+24  I
+reject the majority’s suggestion that the Suspension Clause
+protects only the scope of the great writ as it existed in
+the founding era. Historical habeas practice provides the floor,
+and not the ceiling, of Suspension Clause protection. St.
+Cyr, 533 U. S., at 301 (“[A]t the absolute
+minimum, the Suspension Clause protects the writ ‘as it
+existed in 1789’ ” (quoting Felker v.
+Turpin, 518 U.S.
+651, 664 (1996); emphasis added)). The habeas remedy has
+“a dynamic element which itself was adopted by the
+framers,” W. Hurst, The Process of Constitutional
+Construction, in Supreme Court and Supreme Law 61 (E. Cahn ed.
+1954) (statement of P. Freund), such that “to truly
+understand the scope of the writ ‘as it existed in
+1789’ is to understand its protean dynamism, not any of its
+specific applications,” S. Vladeck, The New Habeas
+Revisionism, 124 Harv. L. Rev. 941, 991 (2011); see also P.
+Halliday, Habeas Corpus: From England to Empire 160 (2010). But
+resolving that debate is unnecessary because Jones’s claim
+implicates even the majority’s crabbed view of the Suspension
+Clause.
+25  See,
+e.g., Ex parte Siebold, 100 U.S.
+371, 376–377 (1880) (noting that a court’s
+“authority” to “try and imprison” an
+individual stems from a particular statute and therefore a court
+has “no jurisdiction” if the law does not lawfully
+apply to the prisoner); Ex parte Bollman, 4 Cranch 75, 136
+(1807) (“[A]s the crime with which the prisoners stand
+charged has not been committed, the court can only direct them to
+be discharged”); Matter of Corryell, 22 Cal. 178, 181
+(1863) (“The Court derives its jurisdiction from the law, and
+its jurisdiction extends to such matters as the law declares to be
+criminal, and none other, and when it undertakes to imprison for an
+offense to which no criminality is attached, it acts beyond its
+jurisdiction”); Bushell’s Case, Vaughn. 135, 124
+Eng. Rep. 1006 (C. P. 1670); W. Church, Writ of Habeas Corpus
+§236, p. 327 (2d ed. 1893) (“[T]he prisoner may be
+discharged on habeas corpus, either before or after judgment, where
+the statute or ordinance under which the proceedings are
+inaugurated against him, is unconstitutional, as this is a
+jurisdictional defect”).
+26  See,
+e.g., Shoop v. Twyford, 596 U. S. ___,
+___ (2022) (slip op., at 11) (restricting the ability of federal
+courts to use the All Writs Act in AEDPA cases); Shinn v.
+Martinez Ramirez, 596 U. S. ___, ___, ___–___,
+___–___ (2022) (slip op., at 13, 15–16, 21–22)
+(holding that, although ineffective assistance of postconviction
+counsel can be cause to excuse a procedural default of a
+trial-ineffective-assistance-of-counsel claim, a federal court
+cannot gather evidence to establish postconviction counsel’s
+ineffectiveness); Brown v. Davenport, 596 U. S.
+___, ___, ___–___, ___, ___ (2022) (slip op., at 1,
+5–7, 14, 25) (holding that a state prisoner who shows that a
+trial error prejudiced him under this Court’s federal-habeas
+harmless-error standard must also run an AEDPA-derived gauntlet
+before receiving habeas relief ); Edwards v.
+Vannoy, 593 U. S. ___, ___–___, ___ (2021) (slip
+op., at 10–11, 15) (eliminating, without any party requesting
+it, the ability of prisoners to argue that a new rule of criminal
+procedure announced by this Court should be fully retroactive as a
+“watershed” rule); see id., at ___–___
+(Kagan, J., dissenting) (slip op., at 12–13).
+
+

@@ -1,0 +1,67 @@
+::SCDB_caseID:: 2004-044
+::decision_cite:: 544 U.S. 431 (2005)
+::decision_name::  Bates v. Dow Agrosciences LLC
+::decision_year:: 2005
+::opinion_author:: Thomas
+::opinion_type:: Concurrence & Dissent In Part
+::opinion:: 
+
+
+OPINION OF THOMAS, J.
+BATES V. DOW AGROSCIENCES LLC
+544 U. S. ____ (2005)
+SUPREME COURT OF THE UNITED STATES
+NO. 03-388
+
+
+
+
+
+															DENNIS BATES, et al., PETITIONERS v. DOW
+AGROSCIENCES LLC
+
+															on writ of certiorari to the united states court of
+appeals for the fifth circuit
+
+															[April 27, 2005]
+
+
+
+															   Justice Thomas, with whom Justice Scalia joins, concurring in the judgment in part and dissenting in part.
+
+															
+   I agree with the Court that the term “requirements” in §24(b) of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA), 7 U. S. C. §136v(b), includes common-law duties for labeling or packaging.  Ante, at 10.  I also agree that state-law damages claims may not impose requirements “in addition to or different from” FIFRA’s.  Ante, at 19–21.  While States are free to impose liability predicated on a violation of the federal standards set forth in FIFRA and in any accompanying regulations promulgated by the Environmental Protection Agency, they may not impose liability for labeling requirements predicated on distinct state standards of care.  Section 136v(b) permits States to add remedies—not to alter or augment the substantive rules governing liability for labeling.  See Medtronic, Inc. v. Lohr, 518 U. S. 470, 513 (1996) (O’Connor, J., concurring in part and dissenting in part).  Because the parties have not argued that Dow violated FIFRA’s labeling standards,* the majority properly remands for the District Court to consider whether Texas law mirrors the federal standards.
+
+															
+
+   However, the majority omits a step in its reasoning that should be made explicit: A state-law cause of action, even if not specific to labeling, nevertheless imposes a labeling requirement “in addition to or different from” FIFRA’s when it attaches liability to statements on the label that do not produce liability under FIFRA.  The state-law cause of action then adds some supplemental requirement of truthfulness to FIFRA’s requirement that labeling statements not be “false or misleading.”  7 U. S. C. §136(q)(1)(A).  That is why the fraud claims here are properly remanded to determine whether the state and federal standards for liability-incurring statements are, in their application to this case, the same.  See ante, at 20–21.
+
+															
+
+   Under that reasoning, the majority mistreats two sets of petitioners’ claims.  First, petitioners’ breach-of-warranty claims should be remanded for pre-emption analysis, contrary to the majority’s disposition, see ante, at 11–12.  To the extent that Texas’ law of warranty imposes liability for statements on the label where FIFRA would not, Texas’ law is pre-empted.  See Cipollone v. Liggett Group, Inc., 505 U. S. 504, 551 (1992) (Scalia, J., concurring in judgment in part and dissenting in part).  Second, the majority holds that petitioners’ claim under the Texas Deceptive Trade Practices-Consumer Protection Act (DTPA) is not pre-empted to the extent it is a breach-of-warranty claim.  Ante, at 12, n. 18.  However, the DTPA claim is also (and, in fact, perhaps exclusively) a claim for false or misleading representations on the label.  App. 185–186.  Therefore, all aspects of the DTPA claim should be remanded.  The DTPA claim, like petitioners’ fraud claims, should be pre-empted insofar as it imposes liability for label content where FIFRA would not.
+
+															
+
+   I also note that, despite the majority’s reference to a failure-to-warn claim, ante, at 9–10, n. 15, petitioners have not advanced an actual failure-to-warn claim.  Instead, the Court of Appeals treated petitioners’ claims for negligent testing and defective design and manufacture as “disguised claim[s] for failure to warn.”  332 F. 3d 323, 332–333 (CA5 2003).  If petitioners offer no evidence on remand that Dow erred in the testing, design, or manufacture of Strongarm, these claims will fail on the merits.  On that point, I take the majority to agree.  Ante, at 9–10, n. 15.
+
+															
+
+   We need go no further to resolve this case.  The ordinary meaning of §136v(b)’s terms makes plain that some of petitioners’ state-law causes of action may be pre-empted.  Yet the majority advances several arguments designed to tip the scales in favor of the States and against the Federal Government.  These arguments, in addition to being unnecessary, are unpersuasive.  For instance, the majority states that the presumption against pre-emption requires choosing the interpretation of §136v(b) that disfavors pre-emption.  Ante, at 16–17.  That presumption does not apply, however, when Congress has included within a statute an express pre-emption provision.  See Cipollone v. Liggett Group, Inc., supra, at 545–546 (Scalia, J., concurring in judgment in part and dissenting in part); Nelson, Preemption, 86 Va. L. Rev. 225, 291–292, 298–303 (2000).  Section 136v(b) is an explicit statement that FIFRA pre-empts some state-law claims.  Thus, our task is to determine which state-law claims §136v(b) pre-empts, without slanting the inquiry in favor of either the Federal Government or the States.
+
+															
+
+   The history of tort litigation against manufacturers is also irrelevant.  Ante, at 17.  We cannot know, without looking to the text of §136v(b), whether FIFRA preserved that tradition or displaced it.  The majority notes that Congress must have intended to preserve common-law suits, because the legislative history does not indicate that Congress meant to abrogate such suits.  Ante, at 19–20, n. 26; see also Small v. United States, ante, at __ (Thomas, J., dissenting) (criticizing novel practice of relying on silence in the legislative history); Koons Buick Pontiac GMC, Inc. v. Nigh, 543 U. S. ___, ___ (2004) (slip op., at 5) (Scalia, J., dissenting) (same).  For the Court, then, enacting a pre-emption provision is not enough: either Congress must speak with added specificity in the statute (to avoid the presumption against pre-emption) or some individual Members of Congress or congressional committees must display their preference for pre-emption in the legislative record (to avoid a new canon of congressional silence).  But the Court does not believe its own test, for it agrees that §136v(b) stands to abrogate many common-law causes of action.  On remand, for example, petitioners may be unable to pursue a traditional common-law suit under Texas’ law of fraud.  Finally, while allowing additional state-law remedies likely aids in enforcing FIFRA’s misbranding requirements, ante, at 18, it is for Congress, not this Court, to strike a balance between state tort suits and federal regulation.
+
+															
+
+   Because we need only determine the ordinary meaning of §136v(b), the majority rightly declines to address respondent’s argument that petitioners’ claims are subject to other types of pre-emption.  Brief for Respondent 36–37.  For instance, the majority does not ask whether FIFRA’s regulatory scheme is “so pervasive,” and the federal interest in labeling “so dominant,” that there is no room for States to provide additional remedies.  Rice v. Santa Fe Elevator Corp., 331 U. S. 218, 230 (1947).  Nor does the majority ask whether enforcement of state-law labeling claims would “stan[d] as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress” in enacting FIFRA.  Hines v. Davidowitz, 312 U. S. 52, 67 (1941).
+
+															
+
+   Today’s decision thus comports with this Court’s increasing reluctance to expand federal statutes beyond their terms through doctrines of implied pre-emption.  See Camps Newfound/Owatonna, Inc. v. Town of Harrison, 520 U. S. 564, 617 (1997) (Thomas, J., dissenting).  This reluctance reflects that pre-emption analysis is not “[a] freewheeling judicial inquiry into whether a state statute is in tension with federal objectives,” Gade v. National Solid Wastes Management Assn., 505 U. S. 88, 111 (1992) (Kennedy, J., concurring in part and concurring in judgment), but an inquiry into whether the ordinary meanings of state and federal law conflict.
+
+
+															* Petitioners’ counterclaim expressly disclaims that Dow violated any provision of FIFRA.  App. 192 (First Amended Counterclaim).
+
+
+

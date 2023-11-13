@@ -1,0 +1,176 @@
+::SCDB_caseID:: 2021-001
+::decision_cite:: 20-5279
+::decision_name::  Wooden v. United States
+::decision_year:: 2022
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–5279
+
+															_________________
+
+															WILLIAM DALE WOODEN, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[March 7, 2022]
+
+															
+
+															Justice Gorsuch, with whom Justice Sotomayor joins as to Parts II, III, and IV, concurring in the judgment.
+
+															Once more we confront the Armed Career Criminal Act.  Disputes over the statute’s meaning have occupied so much of this Court’s attention over so many years that various pieces of the law and doctrines associated with it have earned their own nicknames—the Elements Clause, the Residual Clause, the Categorical Approach.  Now comes the Occasions Clause.  This subsection requires courts to impose 15-year mandatory minimum prison sentences on individuals who unlawfully possess a gun if they also have three or more prior convictions for certain crimes “committed on occasions different from one another.”  18 U. S. C. § 924(e)(1).  For years, lower courts have struggled with the Occasions Clause, reaching contradictory judgments on similar facts.  We took this case hoping to bring some clarity to at least this particular corner of the ACCA.
+
+															I
+
+															What do we resolve?  The Court rejects the Sixth Circuit’s rule that crimes occurring sequentially always occur on different occasions.  Sometimes, the Court holds, crimes committed one after another can take place on a single occasion.  No one doubts that William Wooden had to break through wall after wall dividing 10 separate storage units to complete his crimes.  Or that, by the end of it all, he committed 10 distinct criminal offenses.  But, the Court explains, none of this automatically dictates the conclusion that his crimes occurred on different occasions.  Ante, at 4–6.
+
+															Beyond that clear holding, however, lies much uncertainty.  Rather than simply observe that sequential crimes can occur on one occasion and return this case to the Court of Appeals for resolution, the Court ventures further.  It directs lower courts faced with future Occasions Clause cases to employ a “multi-factored” balancing test in which “a range of circumstances may be relevant.”  Ante, at 8.
+
+															The potentially relevant factors turn out to be many and disparate.  The Court says that offenses committed close in time “often”—but not always—take place on a single occasion.  Ibid.  Offenses separated by “substantial gaps in time or significant intervening events” usually occur on separate occasions—though what counts as a “substantial” gap or “significant” event remains unexplained.  Ibid.   “Proximity of location” can be “important” too—but it is not necessarily dispositive.  Ibid.  Whether the defendant’s crimes involve “similar or intertwined” conduct also “may”—or may not—make a difference.  Ibid.  And even this long list of factors probably is not exhaustive.  Ante, at 8–9.  Nor does the list come with any instructions on how to weigh the relative importance of so many factors or how to resolve cases when those factors point in different directions.
+
+															The Court’s multi-factor balancing test may represent an earnest attempt to bring some shape to future litigation under the Occasions Clause.  But it is still very much a judicial gloss on the statute’s terms—and one that is unnecessary to resolve the case at hand.  Multi-factor balancing tests of this sort, too, have supplied notoriously little guidance in many other contexts, and there is little reason to think one might fare any better here.  In fact, many lower courts faced with Occasions Clause cases already look to the same “multiplicity of factors” the Court prescribes today, including geographic location, the nature of the offenses, the number of victims, the means employed, and time.  See, e.g., United States v. Letterlough, 63 F.3d 332, 335–336 (CA4 1995) (listing factors and collecting cases).  So far the results have proven anything but predictable given the almost infinite number of factual permutations these cases can present.  And all of this has yielded a grave problem:  Some individuals face mandatory 15-year prison terms while other similarly situated persons do not—with the results depending on little more than how much weight this or that judge chooses to assign this or that factor.
+
+															Admittedly, a long list of factors may supply a clear answer in some cases.  Who doubts that a single gunshot hitting two people involves two crimes on a single occasion—or that two murders separated by years and miles take place on separate occasions?  The problem is that beyond easy cases like those lies a universe of hard ones, where a long list of non-exhaustive, only sometimes relevant, and often incommensurable factors promises to perpetuate confusion in the lower courts and conflicting results for those whose liberties hang in the balance.
+
+															Consider some examples.  Imagine a defendant who sells drugs to the same undercover police officer twice at the same street corner one hour apart.  Do the sales take place on the same occasion or different ones?  Remember, “[p]roximity of location” and “similar or intertwined . . . conduct” suggest a single occasion.  Ante, at 8.  But “substantial gaps in time” often indicate two episodes.  Ibid.  With these factors pointing in different directions and no clear rule for resolving their conflicting guidance, who can be surprised when reasonable minds reach different conclusions?
+
+															Next, take the Court’s barroom brawl hypothetical.  Because it involves “a continuous stream of closely related criminal acts at one location,” the Court says the crimes necessarily occur on a single “occasion.”  Ibid.  But what if our hypothetical defendant assaults one victim inside the bar and another 20 minutes later in the street outside, in part because the second victim called the police?  Are those two assaults part of a “continuous stream” of conduct?  Do they even occur “at one location”?
+
+															Imagine, too, an individual who commits a robbery or burglary then later assaults a pursuing police officer:  Does the later assault happen on a separate “occasion” from the initial crime?  The times, locations, and crimes differ, but they are related in certain respects too.  Unsurprisingly, the courts of appeals have disagreed in cases like these.  Compare United States v. Leeson, 453 F.3d 631, 639–640 (CA4 2006) (yes), with United States v. Graves, 60 F.3d 1183, 1184–1185, 1187 (CA6 1995) (no).
+
+															Now return to Mr. Wooden.  The Court rightly says that crimes taking place sequentially can sometimes happen on a single occasion.  Ante, at 5–6. But the Court does not stop there and remand this case to the Court of Appeals.  After prescribing a long list of factors for use in future cases, it proceeds to declare that “every” factor points in the same direction in this case and dictates the conclusion that Mr. Wooden’s crimes occurred on a single occasion.  Ante, at 9.  In particular, the Court stresses that his crimes involved storage units in the same building (location) and took place over the same night (timing).  Ibid.
+
+															But even when it comes to Mr. Wooden, it’s not entirely clear whether the Court’s factors compel only one conclusion.  When it comes to location, each storage unit had its own number and space, each burglary infringed on a different person’s property, and Mr. Wooden had to break through a new wall to enter each one.  Suppose this case involved not adjacent storage units but adjacent townhomes or adjacent stores in a mall.  If Mr. Wooden had torn through the walls separating them, would we really say his crimes occurred at the same location?
+
+															The answer is no more certain when the question turns to timing.  Nothing in the record before us speaks to how long Mr. Wooden lingered over his crimes—whether they spanned one hour or many.  Meanwhile, the record does show that between each of his burglaries Mr. Wooden faced a choice between walking away or breaking through another wall into a new storage unit.  In this way, each additional obstacle presented a kind of intervening event.  As the Sixth Circuit put it, there was no reason why Mr. Wooden could not have “call[ed] it a night after the first burglary.”  945 F.3d 498, 505 (2019).  Every judge who confronted this case before us thought his crimes happened on different occasions.  And it’s not hard to see how different minds might come to different conclusions.
+
+															So what accounts for the Court’s disposition in Mr. Wooden’s favor?  The Court insists that its array of factors point inexorably to the conclusion that his crimes occurred on a single occasion.  But when it comes to location, one could view Mr. Wooden’s crimes as having taken place in one location or several, and the Court chooses the more lenient option.  When it comes to timing, one could view his crimes as transpiring in a single episode or as having many potential breaks in the action, and again the Court chooses the more forgiving course.
+
+															Respectfully, all this suggests to me that the key to this case does not lie as much in a multiplicity of factors as it does in the rule of lenity.  Under that rule, any reasonable doubt about the application of a penal law must be resolved in favor of liberty.  Because reasonable minds could differ (as they have differed) on the question whether Mr. Wooden’s crimes took place on one occasion or many, the rule of lenity demands a judgment in his favor.  The rule seems destined as well to play an important role in many other cases under the Occasions Clause—a setting where the statute at issue supplies little guidance, does not define its key term, and the word it does use (“occasions”) can lead different people to different intuitions about the same set of facts.  No list of factors, however thoughtful, can resolve every case under a law like that.  Many ambiguous cases are sure to arise.  In them, a rule of decision is required—and lenity supplies it.
+
+															II
+
+															The “rule of lenity” is a new name for an old idea—the notion that “penal laws should be construed strictly.”  The Adventure, 1 F. Cas. 202, 204 (No. 93) (CC Va. 1812) (Marshall, C. J.).  The rule first appeared in English courts, justified in part on the assumption that when Parliament intended to inflict severe punishments it would do so clearly.  1 W. Blackstone, Commentaries on the Laws of England 88 (1765) (Blackstone); 2 M. Hale, The History of the Pleas of the Crown 335 (1736); see also L. Hall, Strict or Liberal Construction of Penal Statutes, 48 Harv. L. Rev. 748, 749–751 (1935).  In the hands of judges in this country, however, lenity came to serve distinctively American functions—a means for upholding the Constitution’s commitments to due process and the separation of powers.  Accordingly, lenity became a widely recognized rule of statutory construction in the Republic’s early years.[1]
+
+															Consider lenity’s relationship to due process.  Under the Fifth and
+ 
+Fourteenth Amendments, neither the federal government nor the States may deprive individuals of “life, liberty, or property, without due process of law.”  U. S. Const., Amdts. 5, 14.  Generally, that guarantee requires governments seeking to take a person’s freedom or possessions to adhere to “those settled usages and modes of proceeding” found in the common law.  Murray’s Lessee v. Hoboken Land & Improvement Co., 18 How. 272, 277 (1856); N. Chapman & M. McConnell, Due Process as Separation of Powers, 121 Yale L. J. 1672, 1774–1775 (2012).  And among those “settled usages” is the ancient rule that the law must afford ordinary people fair notice of its demands.  See, e.g., Sessions v. Dimaya, 584 U. S. ___, ___–___ (2018) (Gorsuch, J., concurring in part and concurring in judgment) (slip op., at 3–5).  Lenity works to enforce the fair notice requirement by ensuring that an individual’s liberty always prevails over ambiguous laws.
+
+															Early cases confirm the message.  In United States v. Wiltberger, a sailor had killed an individual on a river in China.  5 Wheat. 76, 77 (1820).  But the federal statute under which he was charged criminalized manslaughter only on the “ ‘high seas.’ ”  Id., at 93 (quoting Act of Apr. 30, 1790, § 12,
+
+1Stat.
+115).  Chief Justice Marshall acknowledged that other parts of the law might have suggested Congress intended to capture the sailor’s conduct.  5 Wheat., at 105.  But he insisted that “penal laws are to be construed strictly” because of “the tenderness of the law for the rights of individuals”—and, more specifically, the right of every person to suffer only those punishments dictated by “the plain meaning of words.”  Id., at 95–96.  Where the text of a law mandates punishment for the defendant’s conduct in terms an ordinary person can understand, a court’s job is to apply it as written.  Id., at 95.  But where uncertainty exists, the law gives way to liberty.
+
+															United States v. Mann tells a similar story.  26 F. Cas. 1153 (No. 15,718) (CC NH 1812).  There, Justice Story faced the question whether a federal statute authorized punishment against a shipowner.  After concluding the statutory text did not supply a “definite” answer, Justice Story explained that “[i]t is a principle grown hoary in age and wisdom, that penal statutes are to be construed strictly.”  Id., at 1157.  And that principle more or less resolved the case.  “I will not be the first judge,” Justice Story wrote, “to strain a proviso against [a] citizen, beyond the fair import of its expressions.”  Ibid.  Here again, the connection between lenity and fair notice was clear:  If the law inflicting punishment does not speak “plainly” to the defendant’s conduct, liberty must prevail.  Ibid.
+
+															 Of course, most ordinary people today don’t spend their leisure time reading statutes—and they probably didn’t in Justice Marshall’s and Justice Story’s time either.  But lenity’s emphasis on fair notice isn’t about indulging a fantasy.  It is about protecting an indispensable part of the rule of law—the promise that, whether or not individuals happen to read the law, they can suffer penalties only for violating standing rules announced in advance.  As the framers understood, “subjecting . . . men to punishment for things which, when they were done, were breaches of no law . . . ha[s] been, in all ages, the favorite and most formidable instrumen[t] of tyranny.”  The Federalist No. 84, pp. 511–512 (C. Rossiter ed. 1961) (A. Hamilton); see also McBoyle v. United States,
+
+283 U.S. 25, 27 (1931) (“Although it is not likely that a criminal will carefully consider the text of the law . . . fair warning should be given to the world in language that the common world will understand”).
+
+															Closely related to its fair notice function is lenity’s role in vindicating the separation of powers.  Under our Constitution, “[a]ll” of the federal government’s “legislative Powers” are vested in Congress.  Art. I, § 1.  Perhaps the most important consequence of this assignment concerns the power to punish.  Any new national laws restricting liberty require the assent of the people’s representatives and thus input from the country’s “many parts, interests and classes.”  The Federalist No. 51, at 324 (J. Madison).  Lenity helps safeguard this design by preventing judges from intentionally or inadvertently exploiting “doubtful” statutory “expressions” to enforce their own sensibilities.  Mann, 26 F. Cas., at 1157.  It “places the weight of inertia upon the party that can best induce Congress to speak more clearly,” forcing the government to seek any clarifying changes to the law rather than impose the costs of ambiguity on presumptively free persons.  United States v. Santos,
+
+553 U.S. 507, 514 (2008) (plurality opinion).  In this way, the rule helps keep the power of punishment firmly “in the legislative, not in the judicial department.”  Wiltberger, 5 Wheat., at 95.
+
+															Doubtless, lenity carries its costs.  If judges cannot enlarge ambiguous penal laws to cover problems Congress failed to anticipate in clear terms, some cases will fall through the gaps and the legislature’s cumbersome processes will have to be reengaged.  But, as the framers appreciated, any other course risks rendering a self-governing people “slaves to their magistrates,” with their liberties dependent on “the private opinions of the judge.”  4 Blackstone 371 (1769).  From the start, lenity has played an important role in realizing a distinctly American version of the rule of law—one that seeks to ensure people are never punished for violating just-so rules concocted after the fact, or rules with no more claim to democratic provenance than a judge’s surmise about legislative intentions.
+
+															III
+
+															It may be understandable why the Court declines to discuss lenity today.  Certain controversies and misunderstandings about the rule have crept into our law in recent years.  I would take this opportunity to answer them.
+
+															Begin with the most basic of these controversies—the degree of ambiguity required to trigger the rule of lenity.  Some have suggested that courts should consult the rule of lenity only when, after employing every tool of interpretation, a court confronts a “grievous” statutory ambiguity.  See, e.g., Shaw v. United States, 580 U. S. ___, ___ (2016) (slip op., at 8) (internal quotation marks omitted).  But ask yourself:  If the sheriff cited a loosely written statute as authority to seize your home, would you be satisfied with a judicial explanation that, yes, the law was ambiguous, but the sheriff wins anyway because the ambiguity isn’t “grievous”?  If a judge sentenced you to decades in prison for conduct that no law clearly proscribed, would it matter to you that the judge considered the law “merely”—not “grievously”—ambiguous?
+
+															This “grievous” business does not derive from any well-considered theory about lenity or the mainstream of this Court’s opinions.  Since the founding, lenity has sought to ensure that the government may not inflict punishments on individuals without fair notice and the assent of the people’s representatives.  See supra, at 6–9.  A rule that allowed judges to send people to prison based on intuitions about “merely” ambiguous laws would hardly serve those ends.  Tellingly, this Court’s early cases did not require a “grievous” ambiguity before applying the rule of lenity.  Instead, they followed other courts in holding that, “[i]n the construction of a penal statute, it is well settled . . . that all reasonable doubts concerning its meaning ought to operate in favor of [the defendant].”  Harrison v. Vose, 9 How. 372, 378 (1850) (emphasis added).[2]  Nineteenth century treatises seeking to record the rule put the point this way:  “[I]f there is such an ambiguity in a penal statute as to leave reasonable doubts of its meaning, it is the duty of a court not to inflict the penalty.”  J. Sutherland, Statutes and Statutory Construction § 353, p. 444 (1891); see also 1 J. Bishop, Commentaries on the Criminal Law § 133, p. 172 (2d ed. 1858) (Bishop).  Many of this Court’s contemporary cases employ the same standard too, if sometimes in slightly different words.[3]
+
+															So where did the talk about “grievous” ambiguities begin?  The problem may trace to Huddleston v. United States,
+
+415 U.S. 814, 831 (1974).  That decision came during a “bygone era” characterized by a more freewheeling approach to statutory construction.  Food Marketing Institute v. Argus Leader Media, 588 U. S. ___, ___ (2019) (slip op., at 8) (internal quotation marks omitted).  Nor did the decision pause to consider, let alone overrule, any of this Court’s pre-existing cases explaining lenity’s original and historic scope.  Indeed, in the years that followed Huddleston, this Court routinely returned to a more traditional understanding.  See n. 3, supra.  And even in Huddleston itself, the discussion of “grievous” ambiguities was dicta—the Court found no ambiguity of any kind in the statute at issue.  See 415 U. S., at 831–832.  These peculiar circumstances hardly supply any court with a sound basis for ignoring or restricting one of the most ancient rules of statutory construction—let alone one so closely connected to the Constitution’s protections.[4]
+
+															A second and related misunderstanding has crept into our law.  Sometimes, Members of this Court have suggested that we possess the authority to punish individuals under ambiguous laws in light of our own perceptions about some piece of legislative history or the statute’s purpose.  See, e.g., Moskal v. United States,
+
+498 U.S. 103, 109–111 (1990); United States v. R. L. C.,
+
+503 U.S. 291, 305 (1992) (plurality opinion).  Today’s decision seemingly nods in the same direction.  In a sentence in Part II–A, the Court says that statutory purpose is one factor a judge may “kee[p] an eye on” when deciding whether to enhance an individual’s sentence under the Occasions Clause.  Ante, at 8–9.  The Court then proceeds to discuss the Clause’s legislative history at length in Part II–B.  It may be that the Court today intends to suggest only that judges may consult legislative history and purpose to limit, never expand, punishment under an ambiguous statute.  But even if that’s so, why take such a long way around to the place where lenity already stands waiting?
+
+															The right path is the more straightforward one.  Where the traditional tools of statutory interpretation yield no clear answer, the judge’s next step isn’t to legislative history or the law’s unexpressed purposes.  The next step is to lenity.  As Justice Story explained, because “penal statutes are construed strictly . . . forfeitures are not to be inflicted by straining the words so as to reach some conjectural policy.”  United States v. Open Boat, 27 F. Cas. 354, 357 (No. 15,968) (CC Me. 1829).  “[I]f [cases] are not provided for in the text of the act, courts of justice do not adventure on the usurpation of legislative authority.”  Ibid.  Or as Chief Justice Marshall put it, “[t]o determine that a case is within the intention of a statute, its language must authorise us to say so.”  Wiltberger, 5 Wheat., at 96.  Any other approach would be “unsafe” and “dangerous”—risking the possibility that judges rather than legislators will control the power to define crimes and their punishments.  Ibid.; see also Hughey v. United States,
+
+495 U.S. 411, 422 (1990) (“[L]ongstanding principles of lenity . . . preclude our resolution of the ambiguity . . . on the basis of general declarations of policy in the statute and legislative history”); R. L. C., 503 U. S., at 307–311 (Scalia, J., concurring in part and concurring in judgment); Bell v. United States,
+
+349 U.S. 81, 83 (1955).
+
+															At least one more misconception has arisen in recent years.  In debating the merits of the rule of lenity, some have treated the rule as an island unto itself—a curiosity  
+
+															unique to criminal cases.  But in truth, lenity has long applied outside what we today might call the criminal law.[5]  And it is just one of a number of judicial doctrines that seek to protect fair notice and the separation of powers.  Vagueness doctrine and others besides spring from similar aspirations.  From time to time and for historically contingent reasons, one or another of these doctrines has come into or gone out of fashion.  But narrow one avenue and the same underlying rule-of-law imperatives will eventually find another way to express themselves.  None of these doctrines should be artificially divorced from the others; all are worthy of our respect.[6]
+
+															IV
+
+															 The rule of lenity has a critical role to play in cases under  
+
+															the Occasions Clause.  The statute contains little guidance, and reasonable doubts about its application will arise often.  When they do, they should be resolved in favor of liberty.  Today, the Court does not consult lenity’s rule, but neither does it forbid lower courts from doing so in doubtful cases.  That course is the sound course.  Under our rule of law, punishments should never be products of judicial conjecture about this factor or that one.  They should come only with the assent of the people’s elected representatives and in laws clear enough to supply “fair warning . . . to the world.”  McBoyle, 283 U. S., at 27.[7]
+Notes
+1
+ See, e.g., United States v. Morris, 14 Pet. 464, 475 (1840); United States v. Eighty-Four Boxes of Sugar, 7 Pet. 453, 462–463 (1833); Ronkendorff v. Taylor’s Lessee, 4 Pet. 349, 359 (1830); Carver v. Jackson, 4 Pet. 1, 92–93 (1830); United States v. Sheldon, 2 Wheat. 119, 121–122 (1817); United States v. Lawrence, 3 Dall. 42, 45 (1795); Prescott v. Nevers, 19 F. Cas. 1286, 1288–1289 (No. 11,390) (CC Me. 1827) (Story, J.); The Enterprise, 8 F. Cas. 732, 734–735 (No. 4,499) (CC NY 1812) (Livingston, J.); Bray v. The Atalanta, 4 F. Cas. 37, 38 (No. 1,819) (DC SC 1794). 
+
+2
+ See also United States v. Lacher,
+
+134 U.S. 624, 628 (1890) (conduct must be “plainly and unmistakably within the statute”); United States v. Hartwell, 6 Wall. 385, 395–396 (1868) (observing that “penal laws are to be construed strictly,” such that “they must . . . leave no room for a reasonable doubt” as to the legislature’s meaning); The Merino, 9 Wheat. 391, 403–404 (1824) (affirming a conviction under a “highly penal” law after concluding that “no reasonable doubt” existed as to its application);  The Enterprise, 8 F. Cas., at 734 (“It should be a principal of every criminal code, and certainly belongs to ours, that no person be adjudged guilty of an offence unless it be created and promulgated in terms which leave no reasonable doubt of their meaning”); The Adventure, 1 F. Cas. 202, 204 (No. 93) (CC Va. 1812) (observing that lenity applies “in cases where the [legislature’s] intention is not distinctly perceived,” such that “the mind balances and hesitates between . . . two constructions”). 
+
+3
+ See, e.g., United States v. Davis, 588 U. S. ___, ___ (2019) (slip op., at 19); Yates v. United States,
+
+574 U.S. 528, 547–548 (2015) (plurality opinion); Skilling v. United States,
+
+561 U.S. 358, 410–411 (2010); United States v. Santos,
+
+553 U.S. 507, 513–515 (2008) (plurality opinion); Scheidler v. National Organization for Women, Inc.,
+
+537 U.S. 393, 409 (2003); Cleveland v. United States,
+
+531 U.S. 12, 25 (2000); United States v. Granderson,
+
+511 U.S. 39, 54 (1994); Crandon v. United States,
+
+494 U.S. 152, 158 (1990); United States v. Kozminski,
+
+487 U.S. 931, 951–952 (1988); McNally v. United States,
+
+483 U.S. 350, 359–360 (1987); Dowling v. United States,
+
+473 U.S. 207, 228 (1985); Liparota v. United States,
+
+471 U.S. 419, 427 (1985); United States v. Bass,
+
+404 U.S. 336, 348–349 (1971); Rewis v. United States,
+
+401 U.S. 808, 812 (1971); Bell v. United States,
+
+349 U.S. 81, 83 (1955). 
+
+4
+ Supporters of the “grievous” ambiguity standard sometimes point to cases suggesting that lenity applies only after courts have “seiz[ed] everything from which aid can be derived” in ascertaining a statute’s meaning.  See, e.g., Ocasio v. United States,
+
+578 U.S. 282, 295, n. 8 (2016) (internal quotation marks omitted).  But the “everything from which aid can be derived” language originated in United States v. Fisher, 2 Cranch 358, 386 (1805).  And as uttered by Chief Justice Marshall, it had nothing to do with lenity.  Instead, it concerned only the question whether a court could use a statute’s title in ascertaining its meaning.  See ibid.  What’s more, when the Court first applied the phrase to lenity, it expressly reiterated the rule that, “before we choose the harsher alternative,” it is necessary that “Congress should have spoken in language that is clear and definite.”  United States v. Universal C. I. T. Credit Corp.,
+
+344 U.S. 218, 221–222 (1952).  None of this supports requiring a “grievous” ambiguity before applying the rule of lenity. 
+
+5
+ Historically, lenity applied to all “penal” laws—that is, laws inflicting any form of punishment, including ones we might now consider “civil” forfeitures or fines.  See, e.g., Bishop § 114, at 155–156; The Enterprise, 8 F. Cas., at 734; Eighty-Four Boxes of Sugar, 7 Pet., at 462; see also C. Nelson, The Constitutionality of Civil Forfeiture, 125 Yale L. J. 2446, 2498–2500 (2016). 
+
+6
+ Justice Kavanaugh does not contest lenity’s grounding in our his-tory or its connection to our Constitution’s commitments.  Nor does he offer any reason to believe the “grievous” ambiguity standard is anything other than a modern phenomenon grounded in dicta.  Even so, he insists that lenity should “rarely if ever” apply, because judges “ ‘will almost always reach a conclusion about the best interpretation’ ” that resolves ambiguity.  Ante, at 2 (concurring opinion).  I agree that judges sometimes jump too quickly to ambiguity.  But doctrines like lenity and contra proferentem have played an essential role in our law for centuries, resolving ambiguities where they persist.  Likewise, while I agree with Justice Kavanaugh about the importance of the mens rea presumption, I do not see it as a substitute for the rule of lenity so much as one instantiation of it.  Ante, at 3–4.  Indeed, this Court has often observed that “requiring mens rea is in keeping with our longstanding recognition of” lenity’s demands.  Liparota, 471 U. S., at 419; United States v. United States Gypsum Co.,
+
+438 U.S. 422, 437 (1978); Eighty-Four Boxes of Sugar, 7 Pet., at 462–463 (applying lenity to hold that a penal law cannot be premised on mere “accident or mistake”). 
+
+7
+ A constitutional question simmers beneath the surface of today’s case.  The Fifth and
+ 
+Sixth Amendments generally require the government in criminal cases to prove every fact essential to an individual’s punishment to a jury beyond a reasonable doubt.  See United States v. Haymond, 588 U. S. ___, ___–___ (2019) (plurality opinion) (slip op., at 5–6).  In this case, however, only judges found the facts relevant to Mr. Wooden’s punishment under the Occasions Clause, and they did so under only a preponderance of the evidence standard.  Because Mr. Wooden did not raise a constitutional challenge to his sentence, the Court does not consider the propriety of this practice. But there is little doubt we will have to do so soon.  See United States v. Dudley, 5 F. 4th 1249, 1273–1278 (CA11 2021) (Newsom, J., concurring in part and dissenting in part) (questioning whether the Occasions Clause inquiry can be squared with the Constitution); United States v. Perry, 908 F.3d 1126, 1134–1136 (CA8 2018) (Stras, J., concurring) (same); United States v. Thompson, 421 F.3d 278, 287–295 (CA4 2005) (Wilkins, C. J., dissenting) (same).  And it is hard not to wonder:  If a jury must find the facts supporting a punishment under the Occasions Clause beyond a reasonable doubt, how may judges impose a punishment without equal certainty about the law’s application to those facts? 
+
+

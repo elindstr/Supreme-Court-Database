@@ -1,0 +1,80 @@
+::SCDB_caseID:: 2015-003
+::decision_cite:: 14-361
+::decision_name::  Ocasio v. United States
+::decision_year:: 2016
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 14–361
+
+															_________________
+
+															SAMUEL OCASIO, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															[May 2, 2016]
+
+															
+
+															Justice Thomas, dissenting.
+
+															Today the Court holds that an extortionist can conspire to commit extortion with the person whom he is extorting.  See ante, at 18.  This holding further exposes the flaw in this Court’s understanding of extortion.  In my view, the Court started down the wrong path in Evans v. United States,
+
+504 U. S. 255 (1992)
+, which wrongly equated extortion with bribery.  In so holding, Evans made it seem plausible that an extortionist could conspire with his victim.  Rather than embrace that view, I would not extend Evans’ errors further.  Accordingly, I respectfully dissent.
+
+															I
+
+															The Hobbs Act makes it a crime to “obstruc[t], dela[y], or affec[t] commerce . . . by . . . extortion.”
+
+18 U. S. C. §1951(a).  The Act defines “extortion” as “the obtaining of property from another, with his consent, induced by wrongful use of actual or threatened force, violence, or fear, or under color of official right.”  §1951(b)(2).
+
+															In Evans, this Court held that, to obtain a conviction for extortion “under color of official right,” the Government need show only “that a public official has obtained a payment to which he was not entitled, knowing that the payment was made in return for official acts.”  504 U. S., at 268.  The Court therefore interpreted “extortion” under the Hobbs Act to be “the rough equivalent of . . . ‘taking a bribe.’ ”  Id., at 260.
+
+															I dissented in Evans because the Court’s holding disregarded the “definite and well-established meaning” of the “under color of official right” element of extortion.  Id., at 279 (internal quotation marks omitted).  “ ‘At common law it was essential that . . . money or property be obtained under color of office, that is, under the pretense that the officer was entitled thereto by virtue of his office.  The money or thing received must have been claimed or accepted in right of office, and the person paying must have yielded to official authority.’ ”  Ibid. (quoting 3 R. Anderson, Wharton’s Criminal Law and Procedure §1393,pp. 790–791 (1957); emphasis deleted).  When Congress enacted the Hobbs Act in 1946, “the offense was [thus] understood to involve not merely a wrongful takingby a public official, but a wrongful taking under a false pretense of official right.”  504 U. S., at 281 (emphasis deleted).
+
+															Given the established meaning of under-color-of-official-right extortion adopted in the Hobbs Act, the Court in Evans erred in equating common-law extortion with taking a bribe.  Id., at 283.  Bribery and extortion are different crimes.  Ibid.  With extortion, “the public official is the sole wrongdoer.”  Ibid.  Because the official “acts ‘under color of office,’ the law regards the payor as an innocent victim and not an accomplice.”  Ibid.  An official who solicits or takes a bribe, by contrast, does not do so “under color of office”—that is, “under [a] pretense of official entitlement.”  Ibid.  With bribery, “the payor knows the recipient official is not entitled to the payment,” and “he, as well as the official, may be punished for the offense.”  Ibid. (emphasis deleted).
+
+															II
+
+															Relying on Evans’ definition of Hobbs Act extortion, see ante, at 2–3, 14, the Court holds that an extortionist can conspire to commit extortion with the person whom he is extorting.  Ante, at 10–11, 18.  That holding is irreconcilable with a correct understanding of Hobbs Act extortion and needlessly extends Evans’ error to the conspiracy context.
+
+															The general federal conspiracy statute makes it a crime for “two or more persons [to] conspire . . . to commit any offense against the United States.”
+
+18 U. S. C. §371.  To be guilty of conspiracy to commit under-color-of-official-right extortion, then, two or more persons must conspire to “obtai[n] . . . property from another, with his consent, induced . . . under color of official right.”  §1951(b)(2).
+
+															Under a correct understanding of Hobbs Act extortion, it is illogical and wrong to say that two people conspired to extort one of themselves.  As explained, in a Hobbs Act extortion case, the only perpetrator is the public official; the payor is a victim and not a participant.  See Evans, 504 U. S., at 283 (Thomas, J., dissenting).  That understanding is irreconcilable with the view that an extortionist and his payor-victim can be co-conspirators to extortion of the payor.  If a payor conspires with a public official for the payor to pay that official, then—whatever the two can be said to have done—they have not conspired to obtain payments to that official “under . . . pretense of official entitlement.”  Ibid.  The extortionist and payor both know that the official is not entitled to the payments as a matter of his office.  They have not conspired to commit Hobbs Act extortion.
+
+															The record confirms that the scheme here did not involve extortion as the common law understood that crime.  Far from victimizing repair-shop owners Alexis Moreno and Edwin Mejia, the allegedly extortionate scheme benefited them and their repair shop.  Over time, 90% or more of the shop’s business came from paid-for referrals from police officers.  Moreno and Mejia worked with Ocasio and other officers to maximize the shop’s profits from the scheme.  Moreno and Mejia both pleaded guilty to Hobbs Act extortion and conspiracy—belying any claim that they were innocent victims.  The Government itself does not maintain that the repair-shop owners paid Ocasio based on his assertion of “a false pretense of official right to the payment[s].”  Id., at 282 (Thomas, J., dissenting).  The Government is instead emphatic that Moreno and Mejia “participated as full partners” in the scheme and that “[t]he record . . . refutes any suggestion that [they] were the ‘victims’ of th[e] scheme.”  Brief for United States 41.  Whatever crime Ocasio may have committed, it was not a conspiracy to commit extortion.
+
+															To be sure, the Court’s conclusion is plausible under Evans’ redefinition of extortion.  But that is a reason not to extend Evans’ error.  Only by blurring the distinction between bribery and extortion could Evans make it seem plausible that an extortionist and a victim can conspire to extort the victim.  The Court today takes another step away from the common-law understanding of extortion that the Hobbs Act adopted.
+
+															III
+
+															The Court’s decision is unfortunate because it expands federal criminal liability in a way that conflicts with principles of federalism.  Even when Evans was decided nearly 25 years ago, the Hobbs Act had already “served as the engine for a stunning expansion of federal criminal jurisdiction into a field traditionally policed by state and local laws—acts of public corruption by state and local officials.”  504 U. S., at 290 (Thomas, J., dissenting).  By disregarding the distinction between extortion and bribery, Evans expanded the Hobbs Act to allow federal prosecutors to reach more conduct by state and local government officials.  See id., at 291–294.  That expansion was unwarranted.  Congress had not made its intent to regulate state officials “unmistakably clear in the language of the” Hobbs Act, Gregory v. Ashcroft,
+
+501 U. S. 452,
+460 (1991)
+ (internal quotation marks omitted), so this Court had no basis for reading the Hobbs Act so expansively.  Evans, supra, at 291–292 (Thomas, J., dissenting); see Jones v. United States,
+
+529 U. S. 848,
+858 (2000)
+ (“[U]nless Congress conveys its purpose clearly, it will not be deemed tohave significantly changed the federal-state balance inthe prosecution of crimes” (internal quotation marks omitted)).
+
+															Today the Court again broadens the Hobbs Act’s reach to enable federal prosecutors to punish for conspiracy all participants in a public-official bribery scheme.  The invasion of state sovereign functions is again substantial.  The Federal Government can now more expansively charge state and local officials.  And it can now more easily obtain pleas or convictions from these officials: Because the Government can prosecute bribe-payors with sweeping conspiracy charges, it will be easier to induce those payors to plead out and testify against state and local officials.  The Court thus further wrenches from States the presumptive control that they should have over their own officials’ wrongdoing.
+
+															As in Evans, the Court cites no statutory text “clearly” authorizing this intrusion into matters presumptively left to the States.  Jones, supra, at 858.  As in Evans, there is no need for the Court’s overreach because state law already punishes the conduct at issue here.  See Md. Crim. Law Code Ann. §9–201 (2012) (punishing bribery of and bribery by a public official); cf. United States v. Brock, 501 F. 3d 762, 769 (CA6 2007) (“No one doubts that the States have criminal laws prohibiting their citizens from bribing public officials.  [We cannot think of] any reason to doubt the States’ willingness to invoke these laws when their citizens engage in [a brazen bribery scheme]”).  And, as in Evans, the Court reaches its decision with barely a nod to the sovereignty interests that it tramples.  See ante, at 13–14, and n. 9 (summarily dismissing as “unavailing” Ocasio’s “invocation of . . . principles of federalism”).  As in Evans, I cannot agree.
+
+															*  *  *
+
+															Consistent with the Hobbs Act’s text, I would hold that an extortionist cannot conspire to commit extortion with the person whom he is extorting.  Accordingly, I would reverse the Court of Appeals’ judgment upholding Ocasio’s conspiracy conviction.
+
+															For these reasons, I respectfully dissent.
+													

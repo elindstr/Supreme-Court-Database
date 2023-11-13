@@ -1,0 +1,748 @@
+::SCDB_caseID:: 2014-024
+::decision_cite:: 13-983
+::decision_name::  Elonis v. United States
+::decision_year:: 2015
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–983
+
+															_________________
+
+															ANTHONY DOUGLAS ELONIS, PETITIONER v.
+UNITED STATES
+
+															on writ of certiorari to the united states
+court of appeals for the third circuit
+
+															[June 1, 2015]
+
+															
+
+															Justice Thomas, dissenting.
+
+															We granted certiorari to resolve a conflict in
+the lower courts over the appropriate mental state for threat
+prosecutions under 18 U. S. C. §875(c). Save two,
+every Circuit to have considered the issue—11 in
+total—has held that this provision demands proof only of
+general intent, which here requires no more than that a defendant
+knew he transmitted a communication, knew the words used in that
+communication, and understood the ordinary meaning of those words
+in the relevant context. The outliers are the Ninth and Tenth
+Circuits, which have concluded that proof of an intent to threaten
+was necessary for conviction. Adopting the minority position,
+Elonis urges us to hold that §875(c) and the First Amendment
+require proof of an intent to threaten. The Government in turn
+advocates a general-intent approach.
+
+															Rather than resolve the conflict, the Court
+casts aside the approach used in nine Circuits and leaves nothing
+in its place. Lower courts are thus left to guess at the
+appropriate mental state for §875(c). All they know after
+today’s decision is that a requirement of general intent will
+not do. But they can safely infer that a majority of this Court
+would not adopt an intent-to-threaten requirement, as the opinion
+carefully leaves open the possibility that recklessness may be
+enough. See ante, at 16–17.
+
+															This failure to decide throws everyone from
+appellate judges to everyday Facebook users into a state of
+uncertainty. This uncertainty could have been avoided had we simply
+adhered to the background rule of the common law favoring general
+intent. Although I am sympathetic to my colleagues’ policy
+concerns about the risks associated with threat prosecutions, the
+answer to such fears is not to discard our traditional approach to
+state-of-mind requirements in criminal law. Because the Court of
+Appeals properly applied the general-intent standard, and because
+the communications transmitted by Elonis were “true
+threats” unprotected by the First Amendment, I would affirm
+the judgment below.
+
+															I
+
+															A
+
+															Enacted in 1939, §875(c) provides,
+“Whoever transmits in interstate or foreign commerce any
+communication containing any threat to kidnap any person or any
+threat to injure the person of another, shall be fined under this
+title or imprisoned not more than five years, or both.”
+Because §875(c) criminalizes speech, the First Amendment
+requires that the term “threat” be limited to a narrow
+class of historically unprotected communications called “true
+threats.” To qualify as a true threat, a communication must
+be a serious expression of an intention to commit unlawful physical
+violence, not merely “political hyperbole”;
+“vehement, caustic, and sometimes unpleasantly sharp
+attacks”; or “vituperative, abusive, and inexact”
+statements. Watts v. United States, 394 U. S.
+705, 708 (1969) (per curiam) (internal quotation marks
+omitted). It also cannot be determined solely by the reaction of
+the recipient, but must instead be “determined by the
+interpretation of a reasonable recipient familiar with the
+context of the communication,” United States v.
+Darby, 37 F. 3d 1059, 1066 (CA4 1994) (emphasis added),
+lest historically protected speech be suppressed at the will of an
+eggshell observer, cf. Cox v. Louisiana, 379
+U. S. 536, 551 (1965) (“[C]onstitutional rights may not
+be denied simply because of hostility to their assertion or
+exercise” (internal quotation marks omitted)). There is thus
+no dispute that, at a minimum, §875(c) requires an objective
+showing: The communication must be one that “a reasonable
+observer would construe as a true threat to another.”
+United States v. Jeffries, 692 F. 3d 473, 478
+(CA6 2012). And there is no dispute that the posts at issue here
+meet that objective standard.
+
+															The only dispute in this case is about the state
+of mind necessary to convict Elonis for making those posts. On its
+face, §875(c) does not demand any particular mental state. As
+the Court correctly explains, the word “threat” does
+not itself contain a mens rea requirement. See ante,
+at 8–9. But because we read criminal statutes “in light
+of the background rules of the common law, in which the requirement
+of some mens rea for a crime is firmly embedded,” we
+require “some indication of congressional intent, express or
+implied, . . . to dispense with mens rea as an
+element of a crime.” Staples v. United States,
+511 U. S. 600 –606 (1994) (citation omitted). Absent
+such indicia, we ordinarily apply the “presumption in favor
+of scienter” to require only “proof of general
+intent—that is, that the defendant [must] posses[s]
+knowledge with respect to the actus reus of the
+crime.” Carter v. United States, 530 U. S.
+255, 268 (2000) .
+
+															Under this “conventional mens rea
+element,” “the defendant [must] know the facts that
+make his conduct illegal,” Staples, supra, at 605, but
+he need not know that those facts make his conduct illegal.
+It has long been settled that “the knowledge requisite to
+knowing violation of a statute is factual knowledge as
+distinguished from knowledge of the law.” Bryan v.
+United States, 524 U. S. 184, 192 (1998) (internal
+quotation marks omitted). For instance, in Posters
+‘N’ Things, Ltd. v. United States, 511
+U. S. 513 (1994) , the Court addressed a conviction for
+selling drug paraphernalia under a statute forbidding anyone to
+“ ‘make use of the services of the Postal Service
+or other interstate conveyance as part of a scheme to sell drug
+paraphernalia,’ ” id., at 516 (quoting 21
+U. S. C. §857(a)(1) (1988 ed.)). In applying the
+presumption in favor of scienter, the Court concluded that
+“although the Government must establish that the defendant
+knew that the items at issue are likely to be used with illegal
+drugs, it need not prove specific knowledge that the items are
+‘drug paraphernalia’ within the meaning of the
+statute.” 511 U. S., at 524.
+
+															Our default rule in favor of general intent
+applies with full force to criminal statutes addressing speech.
+Well over 100 years ago, this Court considered a conviction under a
+federal obscenity statute that punished anyone
+“ ‘who shall knowingly deposit, or cause to be
+deposited, for mailing or delivery,’ ” any
+“ ‘obscene, lewd, or lascivious book, pamphlet,
+picture, paper, writing, print, or other publication of an indecent
+character.’ ” Rosen v. United
+States, 161 U. S. 29, 30 (1896) (quoting Rev. Stat.
+§3893). In that case, as here, the defendant argued that, even
+if “he may have had . . . actual knowledge or
+notice of [the paper’s] contents” when he put it in the
+mail, he could not “be convicted of the offence . . .
+unless he knew or believed that such paper could be properly or
+justly characterized as obscene, lewd, and lascivious.” 161
+U. S., at 41. The Court rejected that theory,
+concluding that if the material was actually obscene and
+“deposited in the mail by one who knew or had notice at the
+time of its contents, the offence is complete, although the
+defendant himself did not regard the paper as one that the statute
+forbade to be carried in the mails.” Ibid. As the
+Court explained, “Congress did not intend that the question
+as to the character of the paper should depend upon the opinion or
+belief of the person who, with knowledge or notice of [the
+paper’s] contents, assumed the responsibility of putting it
+in the mails of the United States,” because “[e]very
+one who uses the mails of the United States for carrying papers or
+publications must take notice of . . . what must be
+deemed obscene, lewd, and lascivious.” Id., at
+41–42.
+
+															This Court reaffirmed Rosen’s
+holding in Hamling v. United States, 418 U. S.
+87 (1974) , when it considered a challenge to convictions under the
+successor federal statute, see id., at 98, n. 8 (citing
+18 U. S. C. §1461 (1970 ed.)). Relying on
+Rosen, the Court rejected the argument that the statute
+required “proof both of knowledge of the contents of the
+material and awareness of the obscene character of the
+material.” 418 U. S., at 120 (internal quotation
+marks omitted). In approving the jury instruction that the
+defendants’ “belief as to the obscenity or
+non-obscenity of the material is irrelevant,” the Court
+declined to hold “that the prosecution must prove a
+defendant’s knowledge of the legal status of the materials he
+distributes.” Id., at 120–121 (internal
+quotation marks omitted). To rule otherwise, the Court observed,
+“would permit the defendant to avoid prosecution by simply
+claiming that he had not brushed up on the law.” Id.,
+at 123.
+
+															Decades before §875(c)’s enactment,
+courts took the same approach to the first federal threat statute,
+which prohibited threats against the President. In 1917, Congress
+enacted a law punishing anyone
+
+															“who knowingly and willfully
+deposits or causes to be deposited for conveyance in the mail
+. . . any letter, paper, writing, print, missive, or
+document containing any threat to take the life of or to inflict
+bodily harm upon the President of the United States, or who
+knowingly and willfully otherwise makes any such threat against the
+President.” Act of Feb. 14, 1917, ch. 64, 39Stat. 919.
+
+															Courts applying this statute shortly after its
+enactment appeared to require proof of only general intent. In
+Ragansky v. United States, 253 F. 643 (CA7 1918), for
+instance, a Court of Appeals held that “[a] threat is
+knowingly made, if the maker of it comprehends the meaning of the
+words uttered by him,” and “is willfully made, if in
+addition to comprehending the meaning of his words, the maker
+voluntarily and intentionally utters them as the declaration of an
+apparent determination to carry them into execution,”
+id., at 645. The court consequently rejected the
+defendant’s argument that he could not be convicted when his
+language “[c]oncededly . . . constituted such a
+threat” but was meant only “as a joke.”
+Id., at 644. Likewise, in United States v.
+Stobo, 251 F. 689 (Del. 1918), a District Court rejected the
+defendant’s objection that there was no allegation “of
+any facts . . . indicating any intention . . .
+on the part of the defendant . . . to menace the
+President of the United States,” id., at 693 (internal
+quotation marks omitted). As it explained, the defendant “is
+punishable under the act whether he uses the words lightly or with
+a set purpose to kill,” as “[t]he effect upon the minds
+of the hearers, who cannot read his inward thoughts, is precisely
+the same.” Ibid. At a minimum, there is no historical
+practice requiring more than general intent when a statute
+regulates speech.
+
+															B
+
+															Applying ordinary rules of statutory
+construction, I would read §875(c) to require proof of general
+intent. To “know the facts that make his conduct
+illegal” under §875(c), see Staples, 511
+U. S., at 605, a defendant must know that he
+transmitted a communication in interstate or foreign commerce that
+contained a threat. Knowing that the communication contains a
+“threat”—a serious expression of an intention to
+engage in unlawful physical violence—does not, however,
+require knowing that a jury will conclude that the communication
+contains a threat as a matter of law. Instead, like one who mails
+an “obscene” publication and is prosecuted under the
+federal obscenity statute, a defendant prosecuted under
+§875(c) must know only the words used in that communication,
+along with their ordinary meaning in context.
+
+															General intent divides those who know the facts
+constituting the actus reus of this crime from those who do
+not. For example, someone who transmits a threat who does not know
+English—or who knows English, but perhaps does not know a
+threatening idiom—lacks the general intent required under
+§875(c). See Ragansky, supra, at 645 (“[A]
+foreigner, ignorant of the English language, repeating
+[threatening] words without knowledge of their meaning, may not
+knowingly have made a threat”). Likewise, the hapless mailman
+who delivers a threatening letter, ignorant of its contents, should
+not fear prosecution. A defendant like Elonis, however, who admits
+that he “knew that what [he] was saying was violent”
+but supposedly “just wanted to express [him]self,” App.
+205, acted with the general intent required under §875(c),
+even if he did not know that a jury would conclude that his
+communication constituted a “threat” as a matter of
+law.
+
+															Demanding evidence only of general intent also
+corresponds to §875(c)’s statutory backdrop. As
+previously discussed, before the enactment of §875(c), courts
+had read the Presidential threats statute to require proof only of
+general intent. Given Congress’ presumptive awareness of this
+application of the Presidential threats statute—not to
+mention this Court’s similar approach in the obscenity
+context, see Rosen, 161 U. S., at
+41–42—it is difficult to conclude that the Congress
+that enacted §875(c) in 1939 understood it to contain an
+implicit mental-state requirement apart from general intent. There
+is certainly no textual evidence to support this conclusion. If
+anything, the text supports the opposite inference, as
+§875(c), unlike the Presidential threats statute, contains no
+reference to knowledge or willfulness. Nothing in the statute
+suggests that Congress departed from the “conventional
+mens rea element” of general intent, Staples,
+supra, at 605; I would not impose a higher mental-state
+requirement here.
+
+															C
+
+															The majority refuses to apply these ordinary
+background principles. Instead, it casts my application of general
+intent as a negligence standard disfavored in the criminal law.
+Ante, at 13–16. But that characterization misses the
+mark. Requiring general intent in this context is not the same as
+requiring mere negligence. Like the mental-state requirements
+adopted in many of the cases cited by the Court, general intent
+under §875(c) prevents a defendant from being convicted on the
+basis of any fact beyond his awareness. See, e.g.,
+United States v. X-Citement Video, Inc., 513
+U. S. 64, 73 (1994) (knowledge of age of persons depicted in
+explicit materials); Staples, supra, at 614–615
+(knowledge of firing capability of weapon); Morissette v.
+United States, 342 U. S. 246 –271 (1952)
+(knowledge that property belonged to another). In other words, the
+defendant must know—not merely be reckless or
+negligent with respect to the fact—that he is committing the
+acts that constitute the actus reus of the offense.
+
+															But general intent requires no mental
+state (not even a negligent one) concerning the “fact”
+that certain words meet the legal definition of a threat.
+That approach is particularly appropriate where, as here, that
+legal status is determined by a jury’s application of the
+legal standard of a “threat” to the contents of a
+communication. And convicting a defendant despite his ignorance of
+the legal—or objective—status of his conduct does not
+mean that he is being punished for negligent conduct. By way of
+example, a defendant who is convicted of murder despite claiming
+that he acted in self-defense has not been penalized under a
+negligence standard merely because he does not know that the jury
+will reject his argument that his “belief in the necessity of
+using force to prevent harm to himself [was] a reasonable
+one.” See 2 W. LaFave, Substantive Criminal Law
+§10.4(c), p. 147 (2d ed. 2003).
+
+															The Court apparently does not believe that our
+traditional approach to the federal obscenity statute involved a
+negligence standard. It asserts that Hamling “approved
+a state court’s conclusion that requiring a defendant to know
+the character of the material incorporated a ‘vital element
+of scienter’ so that ‘not innocent but calculated
+purveyance of filth . . . is
+exorcised.’ ” Ante, at 15 (quoting
+Hamling, 418 U. S., at 122 (in turn quoting
+Mishkin v. New York, 383 U. S. 502, 510 (1966)
+). According to the Court, the mental state approved in
+Hamling thus “turns on whether a defendant knew the
+character of what was sent, not simply its contents and
+context.” Ante, at 15. It is unclear what the Court
+means by its distinction between “character” and
+“contents and context.” “Character” cannot
+mean legal obscenity, as Hamling rejected the
+argument that a defendant must have “awareness of the obscene
+character of the material.” 418 U. S., at 120 (internal
+quotation marks omitted). Moreover, this discussion was not part of
+Hamling’s holding, which was primarily a reaffirmation
+of Rosen. See 418 U. S., at 120–121; see
+also Posters ’N’ Things, 511 U. S.,
+at 524–525 (characterizing Hamling as holding that a
+“statute prohibiting mailing of obscene materials does not
+require proof that [the] defendant knew the materials at issue met
+the legal definition of ‘obscenity’ ”).
+
+															The majority’s treatment of Rosen
+is even less persuasive. To shore up its position, it asserts that
+the critical portion of Rosen rejected an
+“ ‘ignorance of the law’ defense,” and
+claims that “no such contention is at issue here.”
+Ante, at 15. But the thrust of Elonis’ challenge is
+that a §875(c) conviction cannot stand if the
+defendant’s subjective belief of what constitutes a
+“threat” differs from that of a reasonable jury. That
+is akin to the argument the defendant made—and lost—in
+Rosen. That defendant insisted that he could not be
+convicted for mailing the paper “unless he knew or believed
+that such paper could be properly or justly characterized as
+obscene.” 161 U. S., at 41. The Court, however, held
+that the Government did not need to show that the defendant
+“regard[ed] the paper as one that the statute forbade to be
+carried in the mails,” because the obscene character of the
+material did not “depend upon the opinion or belief of the
+person who . . . assumed the responsibility of putting it
+in the mails.” Ibid. The majority’s muddying of
+the waters cannot obscure the fact that today’s decision is
+irreconcilable with Rosen and Hamling.
+
+															D
+
+															The majority today at least refrains from
+requiring an intent to threaten for §875(c) convictions, as
+Elonis asks us to do. Elonis contends that proof of a
+defendant’s intent to put the recipient of a threat in fear
+is necessary for conviction, but that element cannot be found
+within the statutory text. “[W]e ordinarily resist reading
+words or elements into a statute that do not appear on its
+face,” including elements similar to the one Elonis proposes.
+E.g., Bates v. United States, 522 U. S. 23, 29
+(1997) (declining to read an “intent to defraud”
+element into a criminal statute). As the majority correctly
+explains, nothing in the text of §875(c) itself requires proof
+of an intent to threaten. See ante, at 8–9. The
+absence of such a requirement is significant, as Congress knows how
+to require a heightened mens rea in the context of threat
+offenses. See §875(b) (providing for the punishment of
+“[w]hoever, with intent to extort . . . , transmits
+in interstate or foreign commerce any communication containing any
+threat to kidnap any person or any threat to injure the person of
+another”); see also §119 (providing for the punishment
+of “[w]hoever knowingly makes restricted personal information
+about [certain officials] . . . publicly available
+. . . with the intent to threaten”).
+
+															Elonis nonetheless suggests that an
+intent-to-threaten element is necessary in order to avoid the risk
+of punishing innocent conduct. But there is nothing absurd about
+punishing an individual who, with knowledge of the words he uses
+and their ordinary meaning in context, makes a threat. For
+instance, a high-school student who sends a letter to his principal
+stating that he will massacre his classmates with a machine gun,
+even if he intended the letter as a joke, cannot fairly be
+described as engaging in innocent conduct. But see ante, at
+4–5, 16 (concluding that Elonis’ conviction under
+§875(c) for discussing a plan to “ ‘initiate
+the most heinous school shooting ever imagined’ ”
+against “ ‘a Kindergarten
+class’ ” cannot stand without proof of some
+unspecified heightened mental state).
+
+															Elonis also insists that we read an
+intent-to-threaten element into §875(c) in light of the First
+Amendment. But our practice of construing statutes “to avoid
+constitutional questions . . . is not a license for the
+judiciary to rewrite language enacted by the legislature,”
+Salinas v. United States, 522 U. S. 52 –60
+(1997) (internal quotation marks omitted), and ordinary background
+principles of criminal law do not support rewriting §875(c) to
+include an intent-to-threaten requirement. We have not altered our
+traditional approach to mens rea for other constitutional
+provisions. See, e.g., Dean v. United States, 556
+U. S. 568 –574 (2009) (refusing to read an
+intent-to-discharge-the-firearm element into a mandatory minimum
+provision concerning the discharge of a firearm during a particular
+crime). The First Amendment should be treated no differently.
+
+															II
+
+															In light of my conclusion that Elonis was
+properly convicted under the requirements of §875(c), I must
+address his argument that his threatening posts were nevertheless
+protected by the First Amendment.
+
+															A
+
+															Elonis does not contend that threats are
+constitutionally protected speech, nor could he: “From 1791
+to the present, . . . our society . . . has
+permitted restrictions upon the content of speech in a few limited
+areas,” true threats being one of them. R. A. V. v.
+St. Paul, 505 U. S. 377 –383 (1992); see
+id., at 388. Instead, Elonis claims that only
+intentional threats fall within this particular historical
+exception.
+
+															If it were clear that intentional threats alone
+have been punished in our Nation since 1791, I would be inclined to
+agree. But that is the not the case. Although the Federal
+Government apparently did not get into the business of regulating
+threats until 1917, the States have been doing so since the late
+18th and early 19th centuries. See, e.g., 1795 N. J.
+Laws p. 108; Ill. Rev. Code of Laws, Crim. Code §108 (1827)
+(1827 Ill. Crim. Code); 1832 Fla. Laws pp. 68–69. And that
+practice continued even after the States amended their
+constitutions to include speech protections similar to those in the
+First Amendment. See, e.g., Fla. Const., Art. I,
+§5 (1838); Ill. Const., Art. VIII, §22 (1818), Mich.
+Const., Art. I, §7 (1835); N. J. Const.,
+Art. I, §5 (1844); J. Hood, Index of Colonial and State
+Laws of New Jersey 1203, 1235, 1257, 1265 (1905); 1 Ill. Stat., ch.
+30, div. 9, §31 (3d ed. 1873). State practice thus provides at
+least some evidence of the original meaning of the phrase
+“freedom of speech” in the First Amendment. See
+Roth v. United States, 354 U. S. 476 –483
+(1957) (engaging in a similar inquiry with respect to
+obscenity).
+
+															Shortly after the founding, several States and
+Territories enacted laws making it a crime to “knowingly send
+or deliver any letter or writing, with or without a name subscribed
+thereto, or signed with a fictitious name, . . .
+threatening to maim, wound, kill or murder any person, or to burn
+his or her [property], though no money, goods or chattels, or other
+valuable thing shall be demanded,” e.g., 1795
+N. J. Laws §57, at 108; see also, e.g., 1816 Ga.
+Laws p. 178; 1816 Mich. Territory Laws p. 128; 1827 Ill. Crim. Code
+§108; 1832 Fla. Laws, at 68–69. These laws appear to be
+the closest early analogue to §875(c), as they penalize
+transmitting a communication containing a threat without proof of a
+demand to extort something from the victim. Threat provisions
+explicitly requiring proof of a specific “intent to
+extort” appeared alongside these laws, see, e.g., 1795
+N. J. Laws §57, at 108, but those provisions are simply
+the predecessors to §875(b) and §875(d), which likewise
+expressly contain an intent-to-extort requirement.
+
+															The laws without that extortion requirement were
+copies of a 1754 English threat statute subject to only a
+general-intent requirement. The statute made it a capital offense
+to “knowingly send any Letter without any Name subscribed
+thereto, or signed with a fictitious Name . . .
+threatening to kill or murder any of his Majesty’s Subject or
+Subjects, or to burn their [property], though no Money or Venison
+or other valuable Thing shall be demanded.” 27 Geo. II, ch.
+15, in 7 Eng. Stat. at Large 61 (1754); see also 4 W. Blackstone,
+Commentaries on the Laws of England 144 (1768) (describing this
+statute). Early English decisions applying this threat statute
+indicated that the appropriate mental state was general intent. In
+King v. Girdwood, 1 Leach 142, 168 Eng. Rep. 173 (K.
+B. 1776), for example, the trial court instructed the jurors that,
+“if they were of opinion that” the “terms of the
+letter conveyed an actual threat to kill or murder,”
+“and that the prisoner knew the contents of it, they ought to
+find him guilty; but that if they thought he did not know the
+contents, or that the words might import any thing less than to
+kill or murder, they ought to acquit,” id., at 143,
+168 Eng. Rep., at 173. On appeal following conviction, the judges
+“thought that the case had been properly left to the
+Jury.” Ibid., 168 Eng. Rep., at 174. Other cases
+likewise appeared to consider only the import of the letter’s
+language, not the intent of its sender. See, e.g.,
+Rex v. Boucher, 4 Car. & P. 562, 563, 172 Eng.
+Rep. 826, 827 (K. B. 1831) (concluding that an indictment was
+sufficient because “th[e] letter very plainly conveys a
+threat to kill and murder” and “[n]o one who received
+it could have any doubt as to what the writer meant to
+threaten”); see also 2 E. East, A Treatise of the Pleas of
+the Crown 1116 (1806) (discussing Jepson and
+Springett’s Case, in which the judges disagreed over
+whether “the letter must be understood as . . .
+importing a threat” and whether that was “a necessary
+construction”).
+
+															Unsurprisingly, these early English cases were
+well known in the legal world of the 19th century United States.
+For instance, Nathan Dane’s A General Abridgement of American
+Law—“a necessary adjunct to the library of every
+American lawyer of distinction,” 1 C. Warren, History of the
+Harvard Law School and of Early Legal Conditions in America 414
+(1908)—discussed the English threat statute and summarized
+decisions such as Girdwood. 7 N. Dane, A General Abridgement
+of American Law 31–32 (1824). And as this Court long ago
+recognized, “It is doubtless true . . . that where
+English statutes . . . have been adopted into our own
+legislation; the known and settled construction of those statutes
+by courts of law, has been considered as silently incorporated into
+the acts, or has been received with all the weight of
+authority.” Pennock v. Dialogue, 2 Pet. 1, 18
+(1829); see also, e.g., Commonwealth v. Burdick, 2
+Pa. 163, 164 (1846) (considering English cases persuasive authority
+in interpreting similar state statute creating the offense of
+obtaining property through false pretenses). In short, there is
+good reason to believe that States bound by their own Constitutions
+to protect freedom of speech long ago enacted general-intent threat
+statutes.
+
+															Elonis disputes this historical analysis on two
+grounds, but neither is persuasive. He first points to a treatise
+stating that the 1754 English statute was “levelled against
+such whose intention it was, (by writing such letters, either
+without names or in fictitious names,) to conceal themselves from
+the knowledge of the party threatened, that they might obtain their
+object by creating terror in [the victim’s] mind.” 2 W.
+Russell & D. Davis, A Treatise on Crimes & Misdemeanors
+1845 (1st Am. ed. 1824). But the fact that the ordinary prosecution
+under this provision involved a defendant who intended to cause
+fear does not mean that such a mental state was required as
+a matter of law. After all, §875(c) is frequently deployed
+against people who wanted to cause their victims fear, but that
+fact does not answer the legal question presented in this case.
+See, e.g., United States v. Sutcliffe, 505 F. 3d
+944, 952 (CA9 2007); see also Tr. of Oral Arg. 53 (counsel for the
+Government noting that “I think Congress would well have
+understood that the majority of these cases probably [involved]
+people who intended to threaten”).
+
+															Elonis also cobbles together an assortment of
+older American authorities to prove his point, but they fail to
+stand up to close scrutiny. Two of his cases address the offense of
+breaching the peace, Ware v. Loveridge, 75 Mich. 488,
+490–493, 42 N. W. 997, 998 (1889); State v.
+Benedict, 11 Vt. 236, 239 (1839), which is insufficiently
+similar to the offense criminalized in §875(c) to be of much
+use. Another involves a prosecution under a blackmailing statute
+similar to §875(b) and §875(c) in that it expressly
+required an “intent to extort.” Norris v.
+State, 95 Ind. 73, 74 (1884). And his treatises do not
+clearly distinguish between the offense of making threats with the
+intent to extort and the offense of sending threatening letters
+without such a requirement in their discussions of threat statutes,
+making it difficult to draw strong inferences about the latter
+category. See 2 J. Bishop, Commentaries on the Criminal Law
+§1201, p. 664, and nn. 5–6 (1877); 2 J. Bishop,
+Commentaries on the Law of Criminal Procedure §975, p. 546
+(1866); 25 The American and English Encyclopædia of Law 1073
+(C. Williams ed. 1894).
+
+															Two of Elonis’ cases appear to discuss an
+offense of sending a threatening letter without an intent to
+extort, but even these fail to make his point. One notes in passing
+that character evidence is admissible “to prove guilty
+knowledge of the defendant, when that is an essential element
+of the crime; that is, the quo animo, the intent or
+design,” and offers as an example that in the context of
+“sending a threatening letter, . . . prior and
+subsequent letters to the same person are competent in order to
+show the intent and meaning of the particular letter in
+question.” State v. Graham, 121 N. C. 623,
+627, 28 S. E. 409, 409 (1897). But it is unclear from that
+statement whether that court thought an intent to threaten
+was required, especially as the case it cited for this
+proposition—Rex v. Boucher, 4 Car. & P.
+562, 563, 172 Eng. Rep. 826, 827 (K. B. 1831)—supports a
+general-intent approach. The other case Elonis cites involves a
+statutory provision that had been judicially limited to
+“ ‘pertain to one or the other acts which are
+denounced by the statute,’ ” namely, terroristic
+activities carried out by the Ku Klux Klan. Commonwealth v.
+Morton, 140 Ky. 628, 630, 131 S. W. 506, 507 (1910)
+(quoting Commonwealth v. Patrick, 127 Ky. 473, 478,
+105 S. W. 981, 982 (1907)). That case thus provides scant
+historical support for Elonis’ position.
+
+															B
+
+															Elonis also insists that our precedents
+require a mental state of intent when it comes to threat
+prosecutions under §875(c), primarily relying on Watts,
+394 U. S. 705 , and Virginia v. Black, 538
+U. S. 343 (2003) . Neither of those decisions, however,
+addresses whether the First Amendment requires a particular mental
+state for threat prosecutions.
+
+															As Elonis admits, Watts expressly
+declined to address the mental state required under the First
+Amendment for a “true threat.” See 394 U. S., at
+707–708. True, the Court in Watts noted “grave
+doubts” about Raganksy’s construction of
+“willfully” in the presidential threats statute. 394
+U. S., at 707–708. But “grave doubts”
+do not make a holding, and that stray statement in Watts is
+entitled to no precedential force. If anything, Watts
+continued the long tradition of focusing on objective criteria in
+evaluating the mental requirement. See ibid.
+
+															The Court’s fractured opinion in
+Black likewise says little about whether an
+intent-to-threaten requirement is constitutionally mandated here.
+Black concerned a Virginia cross-burning law that expressly
+required “ ‘an intent to intimidate a person or
+group of persons,’ ” 538 U. S., at 347
+(quoting Va. Code Ann. §18.2–423 (1996)), and the Court
+thus had no occasion to decide whether such an element was
+necessary in threat provisions silent on the matter. Moreover, the
+focus of the Black decision was on the statutory presumption
+that “any cross burning [w]as prima facie evidence of intent
+to intimidate.” 538 U. S., at 347–348. A
+majority of the Court concluded that this presumption failed to
+distinguish unprotected threats from protected speech because it
+might allow convictions “based solely on the fact of cross
+burning itself,” including cross burnings in a play or at a
+political rally. Id., at 365–366 (plurality opinion);
+id., at 386 (Souter, J., concurring in judgment in part and
+dissenting in part) (“The provision will thus tend to draw
+nonthreatening ideological expression within the ambit of the
+prohibition of intimidating expression”). The objective
+standard for threats under §875(c), however, helps to avoid
+this problem by “forc[ing] jurors to examine the
+circumstances in which a statement is made.” Jeffries,
+692 F. 3d, at 480.
+
+															In addition to requiring a departure from our
+precedents, adopting Elonis’ view would make threats one of
+the most protected categories of unprotected speech, thereby sowing
+tension throughout our First Amendment doctrine. We generally have
+not required a heightened mental state under the First Amendment
+for historically unprotected categories of speech. For instance,
+the Court has indicated that a legislature may constitutionally
+prohibit “ ‘fighting words,’ those
+personally abusive epithets which, when addressed to the ordinary
+citizen, are, as a matter of common knowledge, inherently likely to
+provoke violent reaction,” Cohen v. California,
+403 U. S. 15, 20 (1971) —without proof of an intent to
+provoke a violent reaction. Because the definition of
+“fighting words” turns on how the “ordinary
+citizen” would react to the language, ibid., this
+Court has observed that a defendant may be guilty of a breach of
+the peace if he “makes statements likely to provoke violence
+and disturbance of good order, even though no such eventuality be
+intended,” and that the punishment of such statements
+“as a criminal act would raise no question under [the
+Constitution],” Cantwell v. Connecticut, 310
+U. S. 296 –310 (1940); see also Chaplinsky v.
+New Hampshire, 315 U. S. 568 –573 (1942)
+(rejecting a First Amendment challenge to a general-intent
+construction of a state statute punishing
+“ ‘fighting’ words”); State v.
+Chaplinsky, 91 N. H. 310, 318, 18 A. 2d 754, 758
+(1941) (“[T]he only intent required for conviction
+. . . was an intent to speak the words”). The Court
+has similarly held that a defendant may be convicted of mailing
+obscenity under the First Amendment with-out proof that he knew the
+materials were legally obscene. Hamling, 418
+U. S., at 120–124. And our precedents allow
+liability in tort for false statements about private persons on
+matters of private concern even if the speaker acted negligently
+with respect to the falsity of those statements. See
+Philadelphia Newspapers, Inc. v. Hepps, 475
+U. S. 767 –775 (1986). I see no reason why we should
+give threats pride of place among unprotected speech.
+
+															*  *  *
+
+															There is always a risk that a criminal threat
+statute may be deployed by the Government to suppress legitimate
+speech. But the proper response to that risk is to adhere to our
+traditional rule that only a narrow class of true threats,
+historically unprotected, may be constitutionally proscribed.
+
+															The solution is not to abandon a mental-state
+requirement compelled by text, history, and precedent. Not only
+does such a decision warp our traditional approach to mens
+rea, it results in an arbitrary distinction between threats and
+other forms of unprotected speech. Had Elonis mailed obscene
+materials to his wife and a kindergarten class, he could have been
+prosecuted irrespective of whether he intended to offend those
+recipients or reck-lessly disregarded that possibility. Yet when he
+threatened to kill his wife and a kindergarten class, his intent to
+terrify those recipients (or reckless disregard of that risk)
+suddenly becomes highly relevant. That need not—and should
+not—be the case.
+
+															Nor should it be the case that we cast aside the
+mental-state requirement compelled by our precedents yet offer
+nothing in its place. Our job is to decide questions, not create
+them. Given the majority’s ostensible concern for protecting
+innocent actors, one would have expected it to announce a clear
+rule—any clear rule. Its failure to do so reveals the
+fractured foundation upon which today’s decision rests.
+
+															I respectfully dissent.
+
+													

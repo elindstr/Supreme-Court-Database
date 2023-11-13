@@ -1,0 +1,69 @@
+::SCDB_caseID:: 2020-027
+::decision_cite:: 19-511
+::decision_name::  Facebook, Inc. v. Duguid
+::decision_year:: 2021
+::opinion_author:: Alito
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–511
+
+															_________________
+
+															FACEBOOK, INC., PETITIONER v. NOAH DUGUID, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[April 1, 2021]
+
+															
+
+															Justice Alito, concurring in the judgment.
+
+															I agree with the Court that an “automatic telephone dialing system,” as defined in the Telephone Consumer Protection Act of 1991, must have the capacity to “store . . . telephone numbers” by “using a random or sequential number generator.”
+
+47 U. S. C. §227(a)(1)(A).  I also agree with much of the Court’s analysis and the analysis in several Court of Appeals decisions on this question.  See Gadelhak v. AT&T Servs., Inc., 950 F.3d 458, 463–468 (CA7 2020); Glasser v. Hilton Grand Vacations Co., 948 F.3d 1301, 1306–1312 (CA11 2020).
+
+															I write separately to address the Court’s heavy reliance on one of the canons of interpretation that have come to play a prominent role in our statutory interpretation cases.  Cataloged in a treatise written by our former colleague Antonin Scalia and Bryan A. Garner, counsel for respondents in this case, these canons are useful tools, but it is important to keep their limitations in mind.  This may be especially true with respect to the particular canon at issue here, the “series-qualifier” canon.
+
+															According to the majority’s recitation of this canon, “ ‘[w]hen there is a straightforward, parallel construction that involves all nouns or verbs in a series,’ a modifier at the end of the list ‘normally applies to the entire series.’ ”  Ante, at 5 (quoting A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 147 (2012) (Reading Law)).[1]*
+
+															The Court refers to this canon as a “rul[e] of grammar.”  Ante, at 5.  Yet the Scalia-Garner treatise makes it clear that interpretive canons “are not ‘rules’ of interpretation in any strict sense but presumptions about what an intelligently produced text conveys.”  Reading Law 51.  (Even grammar, according to Mr. Garner, is ordinarily just “an attempt to describe the English language as it is actually used.”  B. Garner, The Chicago Guide to Grammar, Usage, and Punctuation 1 (2016)).  And Reading Law goes out of its way to emphasize the limitations of the series-qualifier canon, warning:
+
+															“Perhaps more than most of the other canons, [the series-qualifier canon] is highly sensitive to context.  Often the sense of the matter prevails: He went forth and wept bitterly does not suggest that he went forth bitterly.”  Reading Law 150.
+
+															The italicized sentence—an English translation of a sentence in the New Testament, Matthew 26:75—is not only grammatical; it is perfectly clear.  No one familiar with the English language would fail to understand it—even though its meaning is contrary to the one suggested by the series-qualifier canon.
+
+															The Court writes that the series-qualifier canon “generally reflects the most natural reading of a sentence,” ante, at 5, and maybe that is so.  But cf. Lockhart v. United States,
+
+577 U.S. 347, 351 (2016) (relying on “the basic intuition that when a modifier appears at the end of a list, it is easier to apply that modifier only to the item directly before it”).  But it is very easy to think of sentences that clearly go against the canon:
+
+															“At the Super Bowl party, she ate, drank, and cheered raucously.”
+
+															“On Saturday, he relaxes and exercises vigorously.”
+
+															“When his owner comes home, the dog wags his tail and barks loudly.”
+
+															“It is illegal to hunt rhinos and giraffes with necks longer than three feet.”
+
+															“She likes to swim and run wearing track spikes.”
+
+															In support of its treatment of the series-qualifier canon, the Court offers this example of a sentence in which the natural reading corresponds with the interpretation suggested by the canon: “[S]tudents must not complete or check any homework to be turned in for a grade, using online homework-help websites.”  Ante, at 5.  I certainly agree that the adverbial phrase in this sentence (“using online homework-help websites”) modifies both of the verbs it follows (“complete” and “check”) and not just the latter.  But that understanding has little to do with syntax and everything to do with our common understanding that teachers do not want to prohibit students from doing homework.  We can see this point clearly if we retain the same syntax but replace the verb “complete” with any number of other verbs that describe something a teacher is not likely to want students to do, say, “ignore,” “overlook,” “discard,” “lose,” “neglect,” “forget,” “destroy,” “throw away,” or “incinerate” their homework.  The concept of “using online homework-help websites” to do any of those things would be nonsensical, and no reader would interpret the sentence to have that meaning—even though that is what the series-qualifier canon suggests.
+
+															The strength and validity of an interpretive canon is an empirical question, and perhaps someday it will be possible to evaluate these canons by conducting what is called a corpus linguistics analysis, that is, an analysis of how particular combinations of words are used in a vast database of English prose.  See generally Lee & Mouritsen, Judging Ordinary Meaning, 127 Yale L. J. 788 (2018).  If the series-qualifier canon were analyzed in this way, I suspect we would find that series qualifiers sometimes modify all the nouns or verbs in a list and sometimes modify just the last noun or verb.  It would be interesting to see if the percentage of sentences in the first category is high enough to justify the canon.  But no matter how the sentences with the relevant structure broke down, it would be surprising if “the sense of the matter” did not readily reveal the meaning in the great majority of cases.  Reading Law 150.
+
+															That is just my guess.  Empirical evidence might prove me wrong, but that is not what matters.  The important point is that interpretive canons attempt to identify the way in which “a reasonable reader, fully competent in the language, would have understood the text at the time it was issued.”  Id., at 33.  To the extent that interpretive canons accurately describe how the English language is generally used, they are useful tools.  But they are not inflexible rules.
+
+															Appellate judges spend virtually every working hour speaking, listening to, reading, or writing English prose.  Statutes are written in English prose, and interpretation is not a technical exercise to be carried out by mechanically applying a set of arcane rules.  Canons of interpretation can help in figuring out the meaning of troublesome statutory language, but if they are treated like rigid rules, they can lead us astray.  When this Court describes canons as rules or quotes canons while omitting their caveats and limitations, we only encourage the lower courts to relegate statutory interpretation to a series of if-then computations.  No reasonable reader interprets texts that way.
+
+															For these reasons, I respectfully concur in the judgment.
+Notes
+1
+*As set out in Reading Law 147, this canon also applies when the modifier precedes the series of verbs or nouns. Some scholars have claimed that “nobody proposed [the series-qualifier] canon until Justice Scalia pioneered it” in Reading Law.  Baude & Sachs, The Law of Interpretation, 130 Harv. L. Rev. 1079, 1125 (2017) (internal quotation marks omitted; emphasis deleted). 
+
+

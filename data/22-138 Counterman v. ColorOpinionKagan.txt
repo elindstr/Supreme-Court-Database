@@ -1,0 +1,608 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-138
+::decision_name::  Counterman v. Colorado
+::decision_year:: 2023
+::opinion_author:: Kagan
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–138
+
+															_________________
+
+															BILLY RAYMOND COUNTERMAN, PETITIONER v.
+COLORADO
+
+															on writ of certiorari to the court of appeals
+of colorado
+
+															[June 27, 2023]
+
+															
+
+															Justice Kagan delivered the opinion of the
+Court.
+
+															True threats of violence are outside the bounds
+of First Amendment protection and punishable as crimes. Today we
+consider a criminal conviction for communications falling within
+that historically unprotected category. The question presented is
+whether the First Amendment still requires proof that the defendant
+had some subjective understanding of the threatening nature of his
+statements. We hold that it does, but that a mental state of
+recklessness is sufficient. The State must show that the defendant
+consciously disregarded a substantial risk that his communications
+would be viewed as threatening violence. The State need not prove
+any more demanding form of subjective intent to threaten
+another.
+
+															I
+
+															From 2014 to 2016, petitioner Billy Counterman
+sent hundreds of Facebook messages to C. W., a local singer and
+musician. The two had never met, and C. W. never responded. In
+fact, she repeatedly blocked Counterman. But each time, he created
+a new Facebook account and resumed his contacts. Some of his
+messages were utterly prosaic (“Good morning
+sweetheart”; “I am going to the store would you like
+anything?”)—except that they were coming from a total
+stranger. 3 App. 465. Others suggested that Counterman might be
+surveilling C. W. He asked “[w]as that you in the white
+Jeep?”; referenced “[a] fine display with your
+partner”; and noted “a couple [of] physical
+sightings.” 497 P.3d 1039, 1044 (Colo. App. 2021). And most
+critically, a number expressed anger at C. W. and envisaged harm
+befalling her: “Fuck off permanently.” Ibid.
+“Staying in cyber life is going to kill you.”
+Ibid. “You’re not being good for human
+relations. Die.” Ibid.
+
+															The messages put C. W. in fear and upended her
+daily existence. She believed that Counterman was
+“threat[ening her] life”; “was very fearful that
+he was following” her; and was “afraid [she] would get
+hurt.” 2 App. 177, 181, 193. As a result, she had “a
+lot of trouble sleeping” and suffered from severe anxiety.
+Id., at 200; see id., at 194–198. She stopped
+walking alone, declined social engagements, and canceled some of
+her performances, though doing so caused her financial strain. See
+id., at 182–183, 199, 201–206, 238–239.
+Eventually, C. W. decided that she had to contact the
+authorities. Id., at 184.
+
+															Colorado charged Counterman under a statute
+making it unlawful to “[r]epeatedly . . .
+make[ ] any form of communication with another person”
+in “a manner that would cause a reasonable person to suffer
+serious emotional distress and does cause that person
+. . . to suffer serious emotional distress.” Colo.
+Rev. Stat. §18–3–602(1)(c) (2022). The only
+evidence the State proposed to introduce at trial were his Facebook
+messages.[1]
+
+															Counterman moved to dismiss the charge on First
+Amendment grounds, arguing that his messages were not “true
+threats” and therefore could not form the basis of a criminal
+prosecution. In line with Colorado law, the trial court assessed
+the true-threat issue using an “objective ‘reasonable
+person’ standard.” People v. Cross,
+
+127 P.3d 71, 76 (Colo. 2006). Under that standard, the State
+had to show that a reasonable person would have viewed the Facebook
+messages as threatening. By contrast, the State had no need to
+prove that Counterman had any kind of “subjective intent to
+threaten” C. W. In re R. D., 464 P.3d
+717, 731, n. 21 (Colo. 2020). The court decided, after
+“consider[ing] the totality of the circumstances,” that
+Counterman’s statements “r[o]se to the level of a true
+threat.” 497 P. 3d, at 1045. Because that was so, the court
+ruled, the First Amendment posed no bar to prosecution. The court
+accordingly sent the case to the jury, which found Counterman
+guilty as charged.
+
+															The Colorado Court of Appeals affirmed.
+Counterman had urged the court to hold that the First Amendment
+required the State to show that he was aware of the threatening
+nature of his statements. Relying on its precedent, the court
+turned the request down: It “decline[d] today to say that a
+speaker’s subjective intent to threaten is necessary”
+under the First Amendment to procure a conviction for threatening
+communications. Id., at 1046 (quoting R. D., 464
+P. 3d, at 731, n. 21). Using the established objective
+standard, the court then approved the trial court’s ruling
+that Counterman’s messages were “true threats”
+and so were not protected by the First Amendment. 497 P. 3d, at
+1050. The Colorado Supreme Court denied review.
+
+															Courts are divided about (1) whether the First
+Amendment requires proof of a defendant’s subjective mindset
+in true-threats cases, and (2) if so, what mens rea standard
+is sufficient. We therefore granted certiorari. 598 U. S. ___
+(2023).
+
+															II
+
+															True threats of violence, everyone agrees, lie
+outside the bounds of the First Amendment’s protection. And a
+statement can count as such a threat based solely on its objective
+content. The first dispute here is about whether the First
+Amendment nonetheless demands that the State in a true-threats case
+prove that the defendant was aware in some way of the threatening
+nature of his communications.[2] Colorado argues that there is no such requirement.
+Counterman contends that there is one, based mainly on the
+likelihood that the absence of such a mens rea requirement
+will chill protected, non-threatening speech. Counterman’s
+view, we decide today, is the more consistent with our precedent.
+To combat the kind of chill he references, our decisions have often
+insisted on protecting even some historically unprotected speech
+through the adoption of a subjective mental-state element. We
+follow the same path today, holding that the State must prove in
+true-threats cases that the defendant had some understanding of his
+statements’ threatening character. The second issue here
+concerns what precise mens rea standard suffices for the
+First Amendment purpose at issue. Again guided by our precedent, we
+hold that a recklessness standard is enough. Given that a
+subjective standard here shields speech not independently entitled
+to protection—and indeed posing real dangers—we do not
+require that the State prove the defendant had any more specific
+intent to threaten the victim.
+
+															A
+
+															“From 1791 to the present,” the
+First Amendment has “permitted restrictions upon the content
+of speech in a few limited areas.” United States v.
+Stevens, 559 U.S.
+460, 468 (2010). These “historic and traditional
+categories” are “long familiar to the bar” and
+perhaps, too, the general public. Ibid. One is
+incitement—statements “directed [at] producing imminent
+lawless action,” and likely to do so. Brandenburg v.
+Ohio, 395 U.S.
+444, 447 (1969) (per curiam). Another is
+defamation—false statements of fact harming another’s
+reputation. See Gertz v. Robert Welch, Inc.,
+418 U.S.
+323, 340, 342 (1974). Still a third is
+obscenity—valueless material “appeal[ing] to the
+prurient interest” and describing “sexual
+conduct” in “a patently offensive way.”
+Miller v. California, 413 U.S.
+15, 24 (1973). This Court has “often described [those]
+historically unprotected categories of speech as being of such
+slight social value as a step to truth that any benefit that may be
+derived from them is clearly outweighed by the social
+interest” in their proscription. Stevens, 559
+U. S., at 470 (internal quotation marks omitted; emphasis
+deleted).
+
+															“True threats” of violence is
+another historically unprotected category of communications.
+Virginia v. Black, 538
+U.S. 343, 359 (2003); see United States v.
+Alvarez, 567 U.S.
+709, 717–718 (2012) (plurality opinion). The
+“true” in that term distinguishes what is at issue from
+jests, “hyperbole,” or other statements that when taken
+in context do not convey a real possibility that violence will
+follow (say, “I am going to kill you for showing up
+late”). Watts v. United States, 394 U.S.
+705, 708 (1969) (per curiam). True threats are
+“serious expression[s]” conveying that a speaker means
+to “commit an act of unlawful violence.” Black,
+538 U. S., at 359. Whether the speaker is aware of, and
+intends to convey, the threatening aspect of the message is not
+part of what makes a statement a threat, as this Court recently
+explained. See Elonis v. United States, 575 U.S. 723,
+733 (2015). The existence of a threat depends not on “the
+mental state of the author,” but on “what the statement
+conveys” to the person on the other end. Ibid. When
+the statement is understood as a true threat, all the harms that
+have long made threats unprotected naturally follow. True threats
+subject individuals to “fear of violence” and to the
+many kinds of “disruption that fear engenders.”
+Black, 538 U. S., at 360 (internal quotation marks
+omitted). The facts of this case well illustrate how.[3]
+
+															Yet the First Amendment may still demand a
+subjective mental-state requirement shielding some true threats
+from liability. The reason relates to what is often called a
+chilling effect. Prohibitions on speech have the potential to
+chill, or deter, speech outside their boundaries. A speaker may be
+unsure about the side of a line on which his speech falls. Or he
+may worry that the legal system will err, and count speech that is
+permissible as instead not. See Philadelphia Newspapers,
+Inc. v. Hepps, 475 U.S.
+767, 777 (1986). Or he may simply be concerned about the
+expense of becoming entangled in the legal system. The result is
+“self-censorship” of speech that could not be
+proscribed—a “cautious and restrictive exercise”
+of First Amendment freedoms. Gertz, 418 U. S., at 340.
+And an important tool to prevent that outcome—to stop people
+from steering “wide[ ] of the unlawful
+zone”—is to condition liability on the State’s
+showing of a culpable mental state. Speiser v.
+Randall, 357 U.S.
+513, 526 (1958). Such a requirement comes at a cost: It will
+shield some otherwise proscribable (here, threatening) speech
+because the State cannot prove what the defendant thought. But the
+added element reduces the prospect of chilling fully protected
+expression. As this Court has noted, the requirement lessens
+“the hazard of self-censorship” by
+“compensat[ing]” for the law’s uncertainties.
+Mishkin v. New York, 383 U.S.
+502, 511 (1966). Or said a bit differently: “[B]y
+reducing an honest speaker’s fear that he may accidentally
+[or erroneously] incur liability,” a mens rea
+requirement “provide[s] ‘breathing room’ for more
+valuable speech.” Alvarez, 567 U. S., at 733
+(Breyer, J., concurring in judgment).
+
+															That kind of “strategic protection”
+features in our precedent concerning the most prominent categories
+of historically unprotected speech. Gertz, 418 U. S.,
+at 342. Defamation is the best known and best theorized example.
+False and defamatory statements of fact, we have held, have
+“no constitutional value.” Id., at 340; see
+Alvarez, 567 U. S., at 718–719 (plurality
+opinion). Yet a public figure cannot recover for the injury such a
+statement causes unless the speaker acted with “knowledge
+that it was false or with reckless disregard of whether it was
+false or not.” New York Times Co. v. Sullivan,
+376 U.S.
+254, 280 (1964); see Garrison v. Louisiana,
+379 U.S.
+64, 74 (1964) (using the same standard for criminal libel).
+That rule is based on fear of
+“self-censorship”—the worry that without such a
+subjective mental-state requirement, the uncertainties and expense
+of litigation will deter speakers from making even truthful
+statements. Sullivan, 376 U. S., at 279. The First
+Amendment, we have concluded, “requires that we protect some
+falsehood in order to protect speech that matters.”
+Gertz, 418 U. S., at 341.
+
+															The same idea arises in the law respecting
+obscenity and incitement to unlawful conduct. Like threats,
+incitement inheres in particular words used in particular contexts:
+Its harm can arise even when a clueless speaker fails to grasp his
+expression’s nature and consequence. But still, the First
+Amendment precludes punishment, whether civil or criminal, unless
+the speaker’s words were “intended” (not just
+likely) to produce imminent disorder. Hess v.
+Indiana, 414 U.S.
+105, 109 (1973) (per curiam); see Brandenburg,
+395 U. S., at 447; NAACP v. Claiborne Hardware
+Co., 458 U.S.
+886, 927–929 (1982). That rule helps prevent a law from
+deterring “mere advocacy” of illegal acts—a kind
+of speech falling within the First Amendment’s core.
+Brandenburg, 395 U. S., at 449. And for a similar
+reason, the First Amendment demands proof of a defendant’s
+mindset to make out an obscenity case. Obscenity is obscenity,
+whatever the purveyor’s mental state. But we have repeatedly
+recognized that punishment depends on a “vital element of
+scienter”—often described as the defendant’s
+awareness of “the character and nature” of the
+materials he distributed. Hamling v. United States,
+418 U.S.
+87, 122–123 (1974); see Elonis, 575 U. S., at
+739 (reiterating Hamling). The rationale should by now be
+familiar. Yes, “obscene speech and writings are not
+protected.” Smith v. California, 361 U.S.
+147, 152 (1959). But punishing their distribution without
+regard to scienter would “have the collateral effect of
+inhibiting” protected expression. Id., at 151. Given
+“the ambiguities inherent in the definition of
+obscenity,” the First Amendment “requires proof of
+scienter to avoid the hazard of self-censorship.”
+Mishkin, 383 U. S., at 511.[4]
+
+															The same reasoning counsels in favor of
+requiring a subjective element in a true-threats case. This Court
+again must consider the prospect of chilling non-threatening
+expression, given the ordinary citizen’s predictable tendency
+to steer “wide[ ] of the unlawful zone.”
+Speiser, 357 U. S., at 526. The speaker’s fear of
+mistaking whether a statement is a threat; his fear of the legal
+system getting that judgment wrong; his fear, in any event, of
+incurring legal costs—all those may lead him to swallow words
+that are in fact not true threats. Some 50 years ago, Justice
+Marshall made the point when reviewing a true-threats prosecution
+arguably involving only political hyperbole. See Rogers v.
+United States, 422 U.S.
+35 (1975). The Court in Rogers reversed the conviction
+on other grounds, but Justice Marshall focused on the danger of
+deterring non-threatening speech. An objective standard, turning
+only on how reasonable observers would construe a statement in
+context, would make people give threats “a wide berth.”
+Id., at 47 (concurring opinion). And so use of that standard
+would discourage the “uninhibited, robust, and wide-open
+debate that the First Amendment is intended to protect.”
+Id., at 48 (quoting Sullivan, 376 U. S., at
+270).
+
+															The reasoning—and indeed some of the
+words—came straight from this Court’s decisions
+insisting on a subjective element in other unprotected-speech
+cases, whether involving defamation, incitement, or obscenity. No
+doubt, the approach in all of those cases has a cost: Even as it
+lessens chill of protected speech, it makes prosecution of
+otherwise proscribable, and often dangerous, communications harder.
+And the balance between those two effects may play out differently
+in different contexts, as the next part of this opinion discusses.
+But the ban on an objective standard remains the same, lest
+true-threats prosecutions chill too much protected, non-threatening
+expression.
+
+															B
+
+															The next question concerns the type of
+subjective standard the First Amendment requires. The law of
+mens rea offers three basic choices. Purpose is the most
+culpable level in the standard mental-state hierarchy, and the
+hardest to prove. A person acts purposefully when he
+“consciously desires” a result—so here, when he
+wants his words to be received as threats. United States v.
+Bailey, 444 U.S.
+394, 404 (1980). Next down, though not often distinguished from
+purpose, is knowledge. Ibid. A person acts knowingly when
+“he is aware that [a] result is practically certain to
+follow”—so here, when he knows to a practical certainty
+that others will take his words as threats. Ibid. (internal
+quotation marks omitted). A greater gap separates those two from
+recklessness. A person acts recklessly, in the most common
+formulation, when he “consciously disregard[s] a substantial
+[and unjustifiable] risk that the conduct will cause harm to
+another.” Voisine v. United States, 579 U.S.
+686, 691 (2016) (internal quotation marks omitted). That standard
+involves insufficient concern with risk, rather than awareness of
+impending harm. See Borden v. United States, 593
+U. S. ___, ___ (2021) (plurality opinion) (slip op., at 5).
+But still, recklessness is morally culpable conduct, involving a
+“deliberate decision to endanger another.”
+Voisine, 579 U. S., at 694. In the threats context, it
+means that a speaker is aware “that others could regard his
+statements as” threatening violence and “delivers them
+anyway.” Elonis, 575 U. S., at 746 (Alito, J.,
+concurring in part and dissenting in part).[5]
+
+															Among those standards, recklessness offers the
+right path forward. We have so far mostly focused on the
+constitutional interest in free expression, and on the correlative
+need to take into account threat prosecutions’ chilling
+effects. But the precedent we have relied on has always
+recognized—and insisted on
+“accommodat[ing]”—the “competing
+value[ ]” in regulating historically unprotected
+expression. Gertz, 418 U. S., at 348. Here, as we have
+noted, that value lies in protecting against the profound harms, to
+both individuals and society, that attend true threats of
+violence—as evidenced in this case. See supra, at 2,
+6. The injury associated with those statements caused history long
+ago to place them outside the First Amendment’s bounds. When
+despite that judgment we require use of a subjective mental-state
+standard, we necessarily impede some true-threat prosecutions. And
+as we go up the subjective mens rea ladder, that imposition
+on States’ capacity to counter true threats becomes still
+greater—and, presumably, with diminishing returns for
+protected expression. In advancing past recklessness, we make it
+harder for a State to substantiate the needed inferences about
+mens rea (absent, as is usual, direct evidence). And of
+particular importance, we prevent States from convicting morally
+culpable defendants. See Elonis, 575 U. S., at 745
+(opinion of Alito, J.). For reckless defendants have done more than
+make a bad mistake. They have consciously accepted a substantial
+risk of inflicting serious harm.
+
+															Using a recklessness standard also fits with the
+analysis in our defamation decisions. As noted earlier, the Court
+there adopted a recklessness rule, applicable in both civil and
+criminal contexts, as a way of accommodating competing interests.
+See supra, at 7–8. In the more than half-century in
+which that standard has governed, few have suggested that it needs
+to be higher—in other words, that still more First Amendment
+“breathing space” is required. Gertz, 418
+U. S., at 342. And we see no reason to offer greater
+insulation to threats than to defamation. See Elonis, 575
+U. S., at 748 (opinion of Alito, J.). The societal interests
+in countering the former are at least as high. And the protected
+speech near the borderline of true threats (even though sometimes
+political, as in Rogers) is, if anything, further from the
+First Amendment’s central concerns than the chilled speech in
+Sullivan-type cases (i.e., truthful
+reputation-damaging statements about public officials and
+figures).
+
+															It is true that our incitement decisions demand
+more—but the reason for that demand is not present here. When
+incitement is at issue, we have spoken in terms of specific intent,
+presumably equivalent to purpose or knowledge. See Hess, 414
+U. S., at 109; supra, at 8. In doing so, we recognized
+that incitement to disorder is commonly a hair’s-breadth away
+from political “advocacy”—and particularly from
+strong protests against the government and prevailing social order.
+Brandenburg, 395 U. S., at 447. Such protests gave rise
+to all the cases in which the Court demanded a showing of intent.
+See ibid.; Hess, 414 U. S., at 106; Claiborne
+Hardware Co., 458 U. S., at 888, 928. And the Court
+decided those cases against a resonant historical backdrop: the
+Court’s failure, in an earlier era, to protect mere advocacy
+of force or lawbreaking from legal sanction. See, e.g.,
+Whitney v. California, 274 U.S.
+357 (1927); Gitlow v. New York, 268 U.S.
+652 (1925); Abrams v. United States, 250 U.S.
+616 (1919). A strong intent requirement was, and remains, one
+way to guarantee history was not repeated. It was a way to ensure
+that efforts to prosecute incitement would not bleed over, either
+directly or through a chilling effect, to dissenting political
+speech at the First Amendment’s core. But the potency of that
+protection is not needed here. For the most part, the speech on the
+other side of the true-threats boundary line—as compared with
+the advocacy addressed in our incitement decisions—is neither
+so central to the theory of the First Amendment nor so vulnerable
+to government prosecutions. It is not just that our incitement
+decisions are distinguishable; it is more that they compel the use
+of a distinct standard here.[6]
+
+															That standard, again, is recklessness. It offers
+“enough ‘breathing space’ for protected
+speech,” without sacrificing too many of the benefits of
+enforcing laws against true threats. Elonis, 575 U. S.,
+at 748 (opinion of Alito, J.). As with any balance, something is
+lost on both sides: The rule we adopt today is neither the most
+speech-protective nor the most sensitive to the dangers of true
+threats. But in declining one of those two alternative paths,
+something more important is gained: Not “having it
+all”—because that is impossible—but having much
+of what is important on both sides of the scale.[7]
+
+															III
+
+															It is time to return to Counterman’s
+case, though only a few remarks are necessary. Counterman, as
+described above, was prosecuted in accordance with an objective
+standard. See supra, at 3. The State had to show only that a
+reasonable person would understand his statements as threats. It
+did not have to show any awareness on his part that the statements
+could be understood that way. For the reasons stated, that is a
+violation of the First Amendment.
+
+															We accordingly vacate the judgment of the
+Colorado Court of Appeals and remand the case for further
+proceedings not inconsistent with this opinion.
+
+															It is so ordered.
+
+Notes
+1
+ The statute Counterman
+was charged with violating is titled a “stalking”
+statute and also prohibits “[r]epeatedly follow[ing],
+approach[ing], contact[ing], [or] plac[ing] under
+surveillance” another person.
+§18–3–602(1)(c). But the State had no evidence,
+beyond what Counterman claimed, that he actually had followed or
+surveilled C. W. For example, C. W. had never noticed anything
+of that kind. So the prosecution based its case solely on
+Counterman’s “[r]epeated[ ] . . .
+communication[s]” with C. W. Ibid.
+2
+ A preliminary
+clarification may be useful, concerning the difference between
+awareness of a communication’s contents and awareness of its
+threatening nature. Everyone agrees, again, that the State must
+prove the former—and Colorado law appears to hold as much.
+See Colo. Rev. Stat. §18–3–602(1)(c); Brief for
+Respondent 18. So, for example, if a defendant delivers a sealed
+envelope without knowing that a threatening letter is inside, he
+cannot be liable for the communication. So too (though this common
+example seems fairly preposterous) if a “foreigner, ignorant
+of the English language, who would not know the meaning of the
+words,” somehow manages to convey an English-language threat.
+Elonis v. United States, 575 U.S. 723, 738 (2015)
+(internal quotation marks omitted). The question in this case
+arises when the defendant (unlike in those hypotheticals)
+understands the content of the words, but may not grasp that others
+would find them threatening. Must he do so, under the First
+Amendment, for a true-threats prosecution to succeed?
+3
+ The concurrence relies on
+Virginia v. Black, 538 U.S.
+343 (2003), to argue that the category of true threats itself
+incorporates a mens rea element. See post, at
+9–11, 14 (Sotomayor, J., concurring in part and concurring in
+judgment). But that claim is based on a misreading. The statements
+the concurrence quotes merely reflect that the statute involved in
+the case required a showing of intent. Black did not address
+whether the First Amendment demands such a showing, or why it might
+do so. See United States v. Jeffries, 692 F.3d 473,
+479–480 (CA6 2012) (Sutton, J.); see also post, at
+9–10, and n. 4 (Barrett, J., dissenting) (explaining
+that Black concerned a different part of the statute,
+preventing consideration of contextual factors in assessing whether
+a statement was a threat).
+4
+ The dissent, in urging an
+objective standard here, reads the obscenity decisions as requiring
+merely that the defendant know “what the material
+depicts” (as a speaker must know a communication’s
+contents). Post, at 5–6 (opinion of Barrett, J.)
+(relying on Hamling, 418 U. S., at 120–123). But
+see the statements quoted above: That is not what they say. And
+indeed, this Court recently rejected the dissent’s
+revisionist reading, explaining in detail—and in response to
+a near-identical argument—that the obscenity decisions demand
+awareness of “the character of [the materials,] not
+simply [their] contents.” Elonis, 575 U. S., at
+739–740 (discussing Hamling, 418 U. S., at
+120–123, and Mishkin, 383 U. S., at 510). The
+dissent’s use of two other First Amendment
+categories—fighting words and false commercial
+speech—to support an objective test also falls flat. See
+post, at 3–4 (opinion of Barrett, J.). This Court has
+not upheld a conviction under the fighting-words doctrine in 80
+years. At the least, that doctrine is today a poor candidate for
+spinning off other First Amendment rules. False commercial speech
+is also a poor analog, though for different reasons. Put aside that
+the line of cases the dissent invokes has never been listed among
+the historically unprotected categories of speech. See,
+e.g., United States v. Stevens, 559 U.S.
+460, 468 (2010); see supra, at 5. Yet more relevant, the
+Court has often noted that commercial speech is less vulnerable to
+chill than most other speech is. See, e.g., Board of
+Trustees of State Univ. of N. Y. v. Fox, 492 U.S.
+469, 481 (1989). And it is the fear of chill that has led to
+state-of-mind requirements in the context of unprotected
+speech.
+5
+ Just to complete the
+mens rea hierarchy, the last level is negligence—but
+that is an objective standard, of the kind we have just rejected. A
+person acts negligently if he is not but should be aware of a
+substantial risk—here, that others will understand his
+words as threats. See Borden, 593 U. S., at ___
+(plurality opinion) (slip op., at 5). That makes liability depend
+not on what the speaker thinks, but instead on what a reasonable
+person would think about whether his statements are threatening in
+nature. See Elonis, 575 U. S., at 738 (“Having
+liability turn on whether a reasonable person regards the
+communication as a threat—regardless of what the defendant
+thinks—reduces culpability . . . to
+negligence” (internal quotation marks omitted)).
+6
+ Our obscenity decisions
+are of no help in this inquiry, because the Court has never
+determined the precise mens rea needed to impose punishment.
+In arguing to the contrary, the concurrence relies mainly on
+Hamling. Post, at 18–19 (opinion of Sotomayor,
+J.). But if the dissent is wrong in saying that Hamling (and
+other obscenity decisions) allowed an objective inquiry, see
+supra, at 9, n. 4, the concurrence is wrong in suggesting
+that it required use of a purpose or knowledge standard. As to the
+concurrence’s claim, Hamling held only that a statute
+with that standard was “constitutionally sufficient.”
+418 U. S., at 123. The decision said nothing about whether it
+was constitutionally necessary, or instead whether a recklessness
+standard would suffice as well.
+7
+ The dissent accuses the
+Court of making a “Goldilocks judgment” in favoring a
+recklessness standard. Post, at 13 (opinion of Barrett, J.).
+But in law, as in life, there are worse things than being
+“just right.”
+
+

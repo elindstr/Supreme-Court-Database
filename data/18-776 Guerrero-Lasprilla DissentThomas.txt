@@ -1,0 +1,173 @@
+::SCDB_caseID:: 2019-027
+::decision_cite:: 18-776
+::decision_name::  Guerrero-Lasprilla v. Barr
+::decision_year:: 2020
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 18–776 and 18–1015
+
+															_________________
+
+															PEDRO PABLO GUERRERO-LASPRILLA, PETITIONER
+
+															18–776v.
+
+															WILLIAM P. BARR, ATTORNEY GENERAL; and
+
+															
+
+															RUBEN OVALLES, PETITIONER
+
+															18–1015v.
+
+															WILLIAM P. BARR, ATTORNEY GENERAL
+
+															on writs of certiorari to the united states court of appeals for the fifth circuit
+
+															[March 23, 2020]
+
+															
+
+															Justice Thomas, with whom Justice Alito joins as to all but Part II–A–1, dissenting.
+
+															We granted certiorari to decide whether a denial of equitable tolling for lack of due diligence is reviewable as a “question of law” under 8 U. S. C. §1252(a)(2)(D).  Not content with resolving that narrow question, the Court categorically proclaims that federal courts may review immigration judges’ applications of any legal standard to established facts in criminal aliens’ removal proceedings.  Ante, at 1–2.  In doing so, the majority effectively nullifies a jurisdiction-stripping statute, expanding the scope of judicial review well past the boundaries set by Congress.  Because this arrogation of authority flouts both the text and structure of the statute, I respectfully dissent.
+
+															I
+
+															Under §1252(a)(2)(C), “[n]otwithstanding any other provision of law (statutory or nonstatutory), . . . no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed [certain] criminal offense[s].”  This broad jurisdiction-stripping provision is known as the “criminal-alien bar.”  The only exceptions to the provision’s otherwise all-encompassing language are found in §1252(a)(2)(D), which states that “[n]othing in subparagraph . . . (C) . . . shall be construed as precluding review of constitutional claims or questions of law.”  Thus, under the criminal-alien bar, any claim that neither is constitutional nor raises a question of law is unreviewable.  Because petitioners raise no con- stitutional claim and due diligence in the equitable-tolling context is not a “question of law,” their claims are unreviewable.
+
+															A
+
+															Equitable tolling’s due-diligence requirement presents a mixed question of law and fact.  A litigant will qualify for equitable tolling only if he “has pursued his rights diligently but some extraordinary circumstance prevents him from bringing a timely action.”  Lozano v. Montoya Alvarez,
+
+572 U.S. 1, 10 (2014).  To determine whether a litigant has exercised due diligence, judges must conduct what this Court has characterized as an “ ‘equitable, often fact-intensive’ ” inquiry, considering “in detail” the unique facts of  each case to decide whether a litigant’s efforts were reasonable in light of his circumstances.  Holland v. Florida,
+
+560 U.S. 631, 653–654 (2010) (Breyer, J., for the Court).  In other words, courts ask “whether the historical facts found satisfy the legal test,” which, as this Court recently (and unanimously) recognized, is a quintessential “ ‘mixed question’ of law and fact.”  U. S. Bank N. A. v. Village at Lake- ridge, LLC, 583 U. S. ___, ___ (2018) (slip op., at 7) (quoting Pullman-Standard v. Swint,
+
+456 U.S. 273, 289, n. 19 (1982)); but see ante, at 4–5.
+
+															B
+
+															The text of §1252(a)(2)(D) authorizes courts to review only “constitutional claims or questions of law.”  It does not refer to mixed questions of law and fact, and cannot be divined to do so.  As the statute’s plain language and structure demonstrate, “questions of law” cannot reasonably be read to include mixed questions.
+
+															Although the statute does not define “questions of law,” longstanding historical practice indicates that the phrase does not encompass mixed questions of law and fact.  For well over a century, this Court has recognized questions of law, questions of fact, and mixed questions of law and fact as three discrete categories.  See, e.g., Pullman-Standard, supra, at 288 (distinguishing between a “question of law,” a “mixed question of law and fact,” and a “pure question of fact”); Ross v. Day,
+
+232 U.S. 110, 116 (1914) (distinguishing between “a mere question of law” and “a mixed question of law and fact”); Bates & Guild Co. v. Payne,
+
+194 U.S. 106, 109 (1904) (distinguishing between “mixed questions of law and fact” and questions “of law alone”); Jewell v. Knight,
+
+123 U.S. 426, 432 (1887) (distinguishing between “questions of law only,” “questions of fact,” and questions “of mixed law and fact”); Republican River Bridge Co. v. Kansas Pacific R. Co.,
+
+92 U.S. 315, 318–319 (1876) (distinguishing between a “mixed question of law and fact,” a “law question,” and a “fact [question]”).  A leading civil procedure treatise at the time of §1252(a)(2)(D)’s enactment confirms this understanding.  See 9A C. Wright & A. Miller, Federal Practice and Procedure §§2588–2589 (2d ed. 1995) (distinguishing between conclusions and questions of law, and “mixed questions of law and fact”).
+
+															The majority resists this conclusion by pointing to cases in which the Court has characterized mixed questions as either legal or factual.  But this occasional emphasis on either law or fact does not change the reality that many questions include both.  This Court sometimes uses these two categories because “[m]ixed questions are not all alike” and, in certain contexts, this Court must distinguish between them by determining whether they present primarily legal or primarily factual inquiries.  Village at Lakeridge, supra, at ___–___ (slip op., at 8–9) (whether a creditor is a nonstatutory insider presents a factual inquiry); see also Neitzke v. Williams,
+
+490 U.S. 319, 326 (1989) (whether a complaint fails to state a claim presents a legal inquiry).[1]
+
+															The Court often uses these labels in contexts that lend themselves to a fact/law dichotomy.  For example, it asks whether a question is primarily legal or primarily factual when it needs to determine the appropriate standard of appellate review.  See, e.g., Village at Lakeridge, supra, at ___ (slip op., at 9).  A similar dichotomy arises when the Court considers whether an issue is one for the judge or jury.  See, e.g., United States v. Gaudin,
+
+515 U.S. 506, 512 (1995) (“the application-of-legal-standard-to-fact sort of question . . . , commonly called a ‘mixed question of law and fact,’ has typically been resolved by juries” as a fact issue).
+
+															But these considerations are irrelevant in the context of a statutory judicial-review provision such as §1252(a)(2), which contains text that refers only to “questions of law.”  The federal appellate judges who review claims under this provision are competent to review legal, factual, and mixed questions alike; their authority is constrained only by the statutory text.  Our task, therefore, is simply to interpret the words of the statute, which invoke no forced dichotomy because Congress could have easily included mixed questions in the text if it wanted to do so.  See, e.g.,
+
+38 U. S. C. §7292(d) (referring to a “challenge to a law . . . as applied to the facts of a particular case” as distinct from “questions of law”).  Accordingly, there is no need to place the due- diligence inquiry into either category here.[2]
+
+															Moreover, conflating “questions of law” with mixed questions would lead to absurd results in light of the statute’s structure.  The criminal-alien bar, which directly precedes
+
+8 U. S. C. §1252(a)(2)(D), is an unequivocally broad jurisdiction-stripping provision, barring review “[n]otwithstanding any other provision of law (statutory or nonstatutory).”  §1252(a)(2)(C).  That is the default rule.  Section 1252(a)(2)(D) merely delineates two narrow exceptions to this  criminal-alien bar—“constitutional claims” and “questions of law.”
+
+															Reading “questions of law” to include all mixed questions would turn §1252(a)(2)’s structure on its head.  It would transform §1252(a)(2)(D)’s narrow exception into a broad provision permitting judicial review of all criminal aliens’ challenges to their removal proceedings except the precious few that raise only pure questions of fact.  Because those questions are already effectively unreviewable under the Immigration and Nationality Act’s (INA’s) extremely deferential standard, §1252(b)(4)(B) (Board’s “findings of fact are conclusive unless any reasonable adjudicator would be compelled to conclude to the contrary”), this interpretation would reduce the jurisdiction-stripping provision to a near nullity.  Put another way, the exception would all but swallow the rule.[3]  The logical reading of §1252(a)(2) is that the exception is narrower than the rule and covers only what is stated in the text: constitutional claims and questions of law.[4]
+
+															II
+
+															Undeterred by the statute’s text and structure, the majority concludes that criminal aliens are entitled to judicial review of any question involving the application of established facts to a legal standard.  Ante, at 1–2.  Even a fact-intensive mixed question like due diligence, which requires “[p]recious little” “legal work,” Village at Lakeridge, 583 U. S., at ___ (slip op., at 10), is a “question of law” according to the majority.  To justify its erroneous reading of the text, the majority resorts to the presumption favoring judicial review and to legislative intent.  Neither interpretive tool is appropriate for, or helpful to, the majority’s analysis.
+
+															A
+
+															The majority relies heavily on the presumption favoring judicial review of agency action as set out in our modern cases.  Ante, at 5–7.  Even accepting those precedents, which no party asks us to reconsider, the presumption does no work here because the statute’s text and structure plainly preclude review of mixed questions.
+
+															1
+
+															As an initial matter, I have come to have doubts about our modern cases applying the presumption of reviewability.  Courts have long understood that they “generally have jurisdiction to grant relief ” when individuals are injured by unlawful administrative action.  American School of Magnetic Healing v. McAnnulty,
+
+187 U.S. 94, 108 (1902).  Applying this well-settled principle, we have refused to read a statute’s “silence . . . as to judicial review” to preclude such review.  Stark v. Wickard,
+
+321 U.S. 288, 309 (1944); see also Board of Governors, FRS v. Agnew,
+
+329 U.S. 441, 444 (1947).  But the modern presumption of reviewability relied on by the majority today goes far beyond this traditional approach.
+
+															The modern presumption developed against the backdrop of the Administrative Procedure Act (APA).  See Abbott Laboratories v. Gardner,
+
+387 U.S. 136, 140–141 (1967); see also Weyerhaeuser Co. v. United States Fish and Wildlife Serv., 586 U. S. ___, ___ (2018) (slip op., at 11).  In that statute, Congress created a general right of judicial review for individuals injured by agency action.
+
+5 U. S. C. §702.  Notably, however, Congress also specified that this right did not apply when “statutes preclude judicial review.”  §701(a)(1).
+
+															Rather than recognize that courts should give the words of both the APA and agencies’ organic statutes their natural meaning, the Court relied on “[t]he spirit of [legislators’] statements” in Committee Reports and the “broadly remedial purposes of the [APA]” to craft a strong presumption of reviewability.  Heikkila v. Barber,
+
+345 U.S. 229, 232 (1953).  The Court ultimately concluded that statutory text alone, even that which “appears to bar [judicial review],” is “not conclusive.”  Id., at 233.  Under this approach, a court will yield its jurisdiction “only upon a showing of ‘clear and convincing evidence,’ ” drawn from a statute’s purpose and legislative history, that Congress “intended” as much.  Abbott Laboratories, supra, at 139, 141; see also ante, at 6.
+
+															There are at least three reasons to doubt the soundness of this modern presumption.  First, it elevates the supposed purpose or “spirit” of the APA over the statute’s text.  The “spirit” of a law is nothing more than “the unhappy interpretive conception of a supposedly better policy than can be found in the words of [the] authoritative text.”  A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 344 (2012).  Its invocation represents a “bald assertion of an unspecified and hence unbounded judicial power to ignore what the law says.”  Id., at 343.  And it is especially problematic to rely on the “spirit” of the APA in actions arising under a separate substantive statute with a judicial-review provision that is entirely distinct from the APA, such as the INA.
+
+															Second, the Court’s test for rebutting the presumption relies heavily on legislative intent, inviting courts to discern the mental processes of legislators through legislative history.  But “[e]ven assuming a majority of Congress read the [legislative history], agreed with it, and voted for [the statute] with the same intent, ‘we are a government of laws, not of men, and are governed by what Congress enacted rather than by what it intended.’ ”  Digital Realty Trust, Inc. v. Somers, 583 U. S. ___, ___ (2018) (Thomas, J., concurring in part and concurring in judgment) (slip op., at 1) (quoting Lawson v. FMR LLC,
+
+571 U.S. 429, 459–460 (2014) (Scalia, J., concurring in principal part and concurring in judgment)).
+
+															Finally, the clear-and-convincing-evidence requirement appears to conflict with the text of the Constitution.  Under Articles I and III, Congress has the authority to establish the jurisdiction of inferior federal courts and to regulate the appellate jurisdiction of this Court.  See Art. I, §8, cl. 9; Art. III, §2, cl. 2; see also Patchak v. Zinke, 583 U. S. ___, ___–___ (2018) (slip op., at 7–10).  It occasionally wields this power to prevent federal courts from reviewing certain actions through jurisdiction-stripping statutes.  See, e.g., 12 U. S. C. §§1818(i)(1), 4208;
+
+15 U. S. C. §719h(c)(3); 31 U. S. C. §3730(e)(4)(A).  Using this modern presumption, however, the Court has reached the opposite result, despite a statute’s plain text.  See, e.g., INS v. St. Cyr,
+
+533 U.S. 289 (2001); see also ante, at 6–7.  By placing heightened requirements on statutes promulgated under Congress’ exclusive authority rather than simply giving effect to their ordinary meaning, courts upset the delicate balance of power reflected in the Constitution’s text.
+
+															2
+
+															Even assuming that the modern presumption is justified and can properly be applied to actions outside the APA context, it does no work in these cases.  First, as explained above, “questions of law” cannot reasonably be read to include mixed questions.  See supra, at 3–6; cf. Kucana v. Holder,
+
+558 U.S. 233, 251 (2010).  But even if it could, the sweeping language of §1252(a)(2)(C) provides clear and convincing evidence that judicial review of mixed questions is barred.  The broad language of that provision leaves no room for ambiguity as to Congress’ design.  In erecting the criminal-alien bar, Congress unequivocally precluded judicial review of wide swaths of claims.  The presumption, to the extent it should apply here at all, is thus firmly rebutted.
+
+															The Court nevertheless concludes that the presumption of reviewability dictates today’s result.  It bases this conclusion on the observation that “interpreting [§1252(a)(2)(D)] to exclude mixed questions would effectively foreclose judicial review of the Board’s determinations so long as it announced the correct legal standard.”  Ante, at 6–7.  But “[t]he resulting barrier to meaningful judicial review” is not a problem in need of a judicial solution, ante, at 7—it is evidence of Congress’ design, which is precisely the sort of “clear and convincing evidence” that should “dislodge the presumption,” Kucana, supra, at 252 (internal quotation marks omitted).  By using Congress’ preclusive design to justify rather than dislodge the presumption, the majority dramatically expands the presumption, rendering it effectively irrebuttable.
+
+															B
+
+															The majority next relies on the purported purpose of §1252(a)(2)(D) to justify its reading of the text.  It claims that Congress intended to provide an “ ‘adequate substitute’ for habeas in view of St. Cyr’s guidance” regarding the scope of the Suspension Clause.  Ante, at 10.  As explained above, legislative intent, to the extent it exists independent of the words in the statute, is unhelpful to the proper interpretation of a statute’s text.  See supra, at 8.  But its invocation is especially unhelpful to the majority here.  Even assuming Congress looked to St. Cyr when drafting §1252(a)(2)(D), the limited “guidance” provided in that opinion supports my reading of the statute, not the majority’s.
+
+															As an initial matter, the Court in St. Cyr expressly declined to resolve “the difficult question of what the Suspension Clause protects.”  St. Cyr, 533 U. S., at 301, n. 13.  Respondent in that case argued that §1252(a)(2)(C) would violate the Suspension Clause if it were read to preclude review of all questions of law in habeas proceedings.  But rather than affirm that position, the Court concluded that it was enough to merely identify that “substantial constitutional questio[n]” to warrant rejection of the Government’s interpretation.  Id., at 300.  Indeed, the meaning of the Suspension Clause and its applicability to removal proceedings remain open questions.  See Department of Homeland Security v. Thuraissigiam, post, p. ___ (2019) (granting certiorari).  In explaining its decision, the Court in St. Cyr merely asserted that the Suspension Clause “protects the writ as it existed in 1789” and noted that “there is substantial evidence . . . that pure questions of law” were generally covered by the common-law writ.  533 U. S., at 301, 304–305 (emphasis added; internal quotation marks omitted).  The decision said nothing about mixed questions or the application of settled facts to a legal standard.
+
+															The majority relies on one sentence of dicta in St. Cyr, which states that the common-law writ addressed “the erroneous application or interpretation of statutes.”  Id., at 302; see ante, at 9.  But the application of a statute does not always involve applying facts to a legal standard, nor is it necessarily analogous to the equitable and fact-intensive due-diligence inquiry.
+
+															The majority next suggests that Congress was familiar with the underlying details of common-law cases cited in St. Cyr, ante, at 9, or the lower court decisions expanding on St. Cyr’s dicta, ante, at 10.  But such a “fanciful presumption of legislative knowledge” cannot justify the majority’s position.  Scalia, Reading Law, at 324.[5]  And if Congress were presumed to have such a robust knowledge of our precedents, one would certainly expect it to be familiar with our historical practice of using “questions of law” and “mixed questions” as distinct terms.  See supra, at 3.
+
+															The only guidance provided by St. Cyr’s dicta concerned “pure questions of law.”  533 U. S., at 305; see also id., at 314, n. 38 (“this case raises only a pure question of law . . . , not . . . an objection to the manner in which discretion was exercised”).  So even if it were appropriate to assume that Congress enacted §1252(a)(2)(D) with the collective intention of following St. Cyr’s guidance (which it is not), that statutory purpose supports reading “questions of law” to mean just that: “questions of law.”
+
+															*  *  *
+
+															Ironically, the majority refers to §1252(a)(2)(D) as the “Limited Review Provision.”  Ante, at 1.  But according to the majority’s interpretation, it is anything but “limited”—nearly all claims are reviewable.  That reading contradicts the plain text and structure of §1252(a)(2), which was enacted to strip federal courts of their jurisdiction to review most criminal aliens’ claims challenging removal proceedings.  The Constitution gives the Legislative Branch the authority to curtail that jurisdiction.  We cannot simply invoke this presumption of reviewability to circumvent Congress’ decision.  Doing so upsets, not preserves, the separation of powers reflected in the Constitution’s text.  I respectfully dissent.
+Notes
+1
+ The majority also cites Mitchell v. Forsyth,
+
+472 U.S. 511 (1985), for the proposition that “whether a given set of facts meet a particular legal standard . . . present[s] a legal inquiry.”  Ante, at 4.  But that case involved a motion for summary judgment, so the inquiry was limited to whether “a given proposition of law was not clearly established at the time the defendant committed the alleged acts.”  472 U. S., at 529, n. 10.  It did not concern the application of facts to a legal standard, such as whether “the defendant’s actions were in fact unlawful.”  Ibid. 
+
+2
+ Even if this statute were interpreted in terms of a fact/law dichotomy, the majority offers no explanation as to why the due-diligence inquiry would fall on the “primarily legal” side of the line.   
+
+3
+ The majority claims we must read §1252(a)(2)(C) “in th[e] context” of the purported legislative intent behind §1252(a)(2)(D).  Ante, at 12.  As explained below, atextual legislative intent is not an appropriate tool for interpreting a statute.  See infra, at 8.  But even if it were, the purported legislative intent here supports a narrow reading of §1252(a)(2)(D) that leaves much of §1252(a)(2)(C) intact.  See infra, at 10–12. 
+
+4
+ The majority makes much of the phrase “questions of law and fact” in another subsection of §1252, known as the “zipper clause,” which consolidates judicial review of immigration proceedings.  Ante, at 7–8 (discussing
+
+8 U. S. C. §1252(b)(9)).  But that language is most naturally read to encompass all three categories—“questions of law,” “questions of . . . fact,” and “questions of law and fact.”  §1252(b)(9).  At a minimum, the meaning of the zipper clause’s text is ambiguous and cannot overcome the plain text of §§1252(a)(2)(C)–(D). 
+
+5
+ To support its reliance on this presumption, the majority cites Merck & Co. v. Reynolds,
+
+559 U.S. 633 (2010).  But that case presumed that when Congress used a specific term it imported a particular meaning that courts had given the term through uniform interpretation.  See id., at 647–648.  The majority goes much further here, claiming that Congress’ “intent” was to give effect to lower courts’ interpretations of this Court’s dicta.  Ante, at 11.  Contrary to the majority’s suggestion, nothing in the legislative history indicates that Congress relied on lower courts’ interpretations of St. Cyr in enacting §1252(a)(2)(D).  Congress merely highlighted the “confusion in the federal courts” as one of “the many problems caused by St. Cyr.”  H. R. Conf. Rep. No. 109–72, pp. 173–174 (2005).  Notably, the Report also stated that “the most significant [problem]” was “that [the] decision allow[ed] criminal aliens to delay their expulsion from the United States for years.”  Id., at 173.  Thus, even if one could divine a shared legislative intent by reading this Conference Report, it would appear that Congress intended to streamline removal proceedings by limiting judicial review to the greatest extent possible under St. Cyr. 
+
+

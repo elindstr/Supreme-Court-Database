@@ -1,0 +1,983 @@
+::SCDB_caseID:: 2020-015
+::decision_cite:: 19-123
+::decision_name::  Fulton v. Philadelphia
+::decision_year:: 2021
+::opinion_author:: Alito
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–123
+
+															_________________
+
+															SHARONELL FULTON, et al., PETITIONERS v. CITY OF PHILADELPHIA, PENNSYLVANIA, et al.
+
+															on writ of certiorari to the united states court of appeals for the third circuit
+
+															[June 17, 2021]
+
+															
+
+															Justice Alito, with whom Justice Thomas and Justice Gorsuch join, concurring in the judgment.
+
+															This case presents an important constitutional question that urgently calls out for review: whether this Court’s governing interpretation of a bedrock constitutional right, the right to the free exercise of religion, is fundamentally wrong and should be corrected.
+
+															In Employment Div., Dept. of Human Resources of Ore. v. Smith,
+
+494 U.S. 872 (1990), the Court abruptly pushed aside nearly 40 years of precedent and held that the
+ 
+First Amendment’s Free Exercise Clause tolerates any rule that categorically prohibits or commands specified conduct so long as it does not target religious practice.  Even if a rule serves no important purpose and has a devastating effect on religious freedom, the Constitution, according to Smith, provides no protection.  This severe holding is ripe for reexamination. 
+
+															I
+
+															There is no question that Smith’s interpretation can have startling consequences.  Here are a few examples.  Suppose that the Volstead Act, which implemented the Prohibition Amendment, had not contained an exception for sacramental wine.  See Pub. L. 66, §3,
+
+41Stat.
+308–309.  The Act would have been consistent with Smith even though it would have prevented the celebration of a Catholic Mass anywhere in the United States.[1]  Or suppose that a State, following the example of several European countries, made it unlawful to slaughter an animal that had not first been rendered unconscious.[2]  That law would be fine under Smith even though it would outlaw kosher and halal slaughter.[3]  Or suppose that a jurisdiction in this country, following the recommendations of medical associations in Europe, banned the circumcision of infants.[4]  A San Francisco ballot initiative in 2010 proposed just that.[5]  A categorical ban would be allowed by Smith even though it would prohibit an ancient and important Jewish and Muslim practice.[6]  Or suppose that this Court or some other court enforced a rigid rule prohibiting attorneys from wearing any form of head covering in court.  The rule would satisfy Smith even though it would prevent Orthodox Jewish men, Sikh men, and many Muslim women from appearing.  Many other examples could be added.
+
+															We may hope that legislators and others with rule- making authority will not go as far as Smith allows, but the present case shows that the dangers posed by Smith are not hypothetical.  The city of Philadelphia (City) has issued an ultimatum to an arm of the Catholic Church: Either engage in conduct that the Church views as contrary to the traditional Christian understanding of marriage or abandon a mission that dates back to the earliest days of the Church—providing for the care of orphaned and abandoned children.
+
+															Many people believe they have a religious obligation to assist such children.  Jews and Christians regard this as a scriptural command,[7] and it is a mission that the Catholic Church has undertaken since ancient times.  One of the first known orphanages is said to have been founded by St. Basil the Great in the fourth century,[8] and for centuries, the care of orphaned and abandoned children was carried  out by religious orders.[9]
+
+															In the New World, religious groups continued to take the lead.  The first known orphanage in what is now the United States was founded by an order of Catholic nuns in New Orleans around 1729.[10]  In the 1730s, the first two orphanages in what became the United States at the founding were established in Georgia by Lutherans and by Rev. George Whitefield, a leader in the “First Great Awakening.”[11]  In the late 18th and early 19th centuries, Protestants and Catholics established orphanages in major cities.  One of the first orphanages in Philadelphia was founded by a Catholic priest in 1798.[12]  The Jewish Society for the Relief of Orphans and Children of Indigent Parents began its work in Charleston in 1801.[13]
+
+															During the latter part of the 19th century and continuing into the 20th century, the care of children was shifted from orphanages to foster families,[14] but for many years, state and local government participation in this field was quite limited.  As one of Philadelphia’s amici puts it, “[i]nto the early twentieth century, the care of orphaned and abandoned children in the United States remained largely in the hands of private charitable and religious organizations.”[15]  In later years, an influx of federal money[16] spurred States and local governments to take a more active role, and today many governments administer what is essentially a licensing system.  As is typical in other jurisdictions, no private charitable group may recruit, vet, or support foster parents in Philadelphia without the City’s approval.
+
+															Whether with or without government participation, Catholic foster care agencies in Philadelphia and other cities have a long record of finding homes for children whose parents are unable or unwilling to care for them.  Over the years, they have helped thousands of foster children and parents, and they take special pride in finding homes for children who are hard to place, including older children and those with special needs.[17]
+
+															Recently, however, the City has barred Catholic Social Services (CSS) from continuing this work.  Because the Catholic Church continues to believe that marriage is a bond between one man and one woman, CSS will not vet same-sex couples.  As far as the record reflects, no same-sex couple has ever approached CSS, but if that were to occur, CSS would simply refer the couple to another agency that is happy to provide that service—and there are at least 27 such agencies in Philadelphia.  App. 171; App. to Pet. for Cert. 137a; see also id., at 286a.  Thus, not only is there no evidence that CSS’s policy has ever interfered in the slightest with the efforts of a same-sex couple to care for a foster child, there is no reason to fear that it would ever have that effect.
+
+															None of that mattered to Philadelphia.  When a newspaper publicized CSS’s policy, the City barred CSS from continuing its foster care work.  Remarkably, the City took this step even though it threatens the welfare of children awaiting placement in foster homes.  There is an acute shortage of foster parents, both in Philadelphia and in the country at large.[18]  By ousting CSS, the City eliminated one of its major sources of foster homes.  And that’s not all.  The City went so far as to prohibit the placement of any children in homes that CSS had previously vetted and approved.  Exemplary foster parents like petitioners Sharonell Fulton and Toni Lynn Simms-Busch are blocked from providing loving homes for children they were eager to help.[19]  The City apparently prefers to risk leaving children without foster parents than to allow CSS to follow its religiously dictated policy, which threatens no tangible harm.
+
+															CSS broadly implies that the fundamental objective of City officials is to force the Philadelphia Archdiocese to change its position on marriage.  Among other things, they point to statements by a City official deriding the Archdiocese’s position as out of step with Pope Francis’s teaching and 21st century moral views.[20]  But whether or not this is the City’s real objective, there can be no doubt that Philadelphia’s ultimatum restricts CSS’s ability to do what it believes the Catholic faith requires.
+
+															Philadelphia argues that its stance is allowed by Smith because, it claims, a City policy categorically prohibits foster care agencies from discriminating against same-sex couples.  Bound by Smith, the lower courts accepted this argument, 320 F. Supp. 3d 661, 682–684 (ED Pa. 2018), 922 F.3d 140, 156–159 (CA3 2019), and we then granted certiorari, 589 U. S. ___ (2020).  One of the questions that we accepted for review is “[w]hether Employment Division v. Smith should be revisited.”  We should confront that question.
+
+															Regrettably, the Court declines to do so.  Instead, it reverses based on what appears to be a superfluous (and likely to be short-lived) feature of the City’s standard annual contract with foster care agencies.  Smith’s holding about categorical rules does not apply if a rule permits individualized exemptions, 494 U. S., at 884, and the majority seizes on the presence in the City’s standard contract of language giving a City official the power to grant exemptions.  Ante, at 7.  The City tells us that it has never granted such an exemption and has no intention of handing one to CSS, Brief for City Respondents 36; App. to Pet. for Cert. 168a, but the majority reverses the decision below because the contract supposedly confers that never-used power.  Ante, at 10, 15.
+
+															This decision might as well be written on the dissolving paper sold in magic shops.  The City has been adamant about pressuring CSS to give in, and if the City wants to get around today’s decision, it can simply eliminate the never-used exemption power.[21]  If it does that, then, voilà, today’s decision will vanish—and the parties will be back where they started.  The City will claim that it is protected by Smith; CSS will argue that Smith should be overruled; the lower courts, bound by Smith, will reject that argument; and CSS will file a new petition in this Court challenging Smith.  What is the point of going around in this circle?
+
+															Not only is the Court’s decision unlikely to resolve the present dispute, it provides no guidance regarding similar controversies in other jurisdictions.  From 2006 to 2011, Catholic Charities in Boston, San Francisco, Washington, D. C., and Illinois ceased providing adoption or foster care services after the city or state government insisted that they serve same-sex couples.  Although the precise legal grounds for these actions are not always clear, it appears that they were based on laws or regulations generally prohibiting discrimination on the basis of sexual orientation.[22]  And some jurisdictions have adopted anti-discrimination rules that expressly target adoption services.[23]  Today’s decision will be of no help in other cases involving the exclusion of faith-based foster care and adoption agencies unless by some chance the relevant laws contain the same glitch as the Philadelphia contractual provision on which the majority’s decision hangs.  The decision will be even less significant in all the other important religious liberty cases that are bubbling up.
+
+															We should reconsider Smith without further delay.  The correct interpretation of the Free Exercise Clause is a question of great importance, and Smith’s interpretation is hard to defend.  It can’t be squared with the ordinary meaning of the text of the Free Exercise Clause or with the prevalent understanding of the scope of the free-exercise right at the time of the
+ 
+First Amendment’s adoption.  It swept aside decades of established precedent, and it has not aged well.  Its interpretation has been undermined by subsequent scholarship on the original meaning of the Free Exercise Clause.  Contrary to what many initially expected, Smith has not provided a clear-cut rule that is easy to apply, and experience has disproved the Smith majority’s fear that retention of the Court’s prior free-exercise jurisprudence would lead to “anarchy.”  494 U. S., at 888.
+
+															When Smith reinterpreted the Free Exercise Clause, four Justices—Brennan, Marshall, Blackmun, and O’Connor—registered strong disagreement.  Id., at 891, 892 (O’Connor, J., joined in part by Brennan, Marshall, and Blackmun, JJ., concurring in judgment); id., at 907–908 (Blackmun, J., joined by Brennan and Marshall, JJ., dissenting).  After joining the Court, Justice Souter called for Smith to be reexamined.  Church of Lukumi Babalu Aye, Inc. v. Hialeah,
+
+508 U.S. 520, 559 (1993) (opinion concurring in part and concurring in judgment).  So have five sitting Justices.  Kennedy v. Bremerton School Dist., 586 U. S. ___, ___–___ (2019) (Alito, J., joined by Thomas, Gorsuch, and Kavanaugh, JJ., concurring in denial of certiorari) (slip op., at 5–6); City of Boerne v. Flores,
+
+521 U.S. 507, 566 (1997) (Breyer, J., dissenting).  So have some of the country’s most distinguished scholars of the Religion Clauses.  See, e.g., McConnell, Free Exercise Revisionism and the Smith Decision, 57 U. Chi. L. Rev. 1109 (1990) (McConnell, Free Exercise Revisionism); Laycock, The Supreme Court’s Assault on Free Exercise, and the Amicus Brief That Was Never Filed, 8 J. L. & Religion 99 (1990).  On two separate occasions, Congress, with virtual unanimity, expressed the view that Smith’s interpretation is contrary to our society’s deep-rooted commitment to religious liberty.  In enacting the Religious Freedom Restoration Act of 1993,
+
+107Stat.
+1488 (codified at
+
+42 U. S. C. §2000bb et seq.), and the Religious Land Use and Institutionalized Persons Act of 2000,
+
+114Stat.
+803 (codified at
+
+42 U. S. C. §2000cc et seq.), Congress tried to restore the constitutional rule in place before Smith was handed down.  Those laws, however, do not apply to most state action, and they leave huge gaps.
+
+															It is high time for us to take a fresh look at what the Free Exercise Clause demands.
+
+															II
+
+															A
+
+															To fully appreciate what the Court did in Smith, it is necessary to recall the substantial body of precedent that it displaced.  Our seminal decision on the question of religious exemptions from generally applicable laws was Sherbert v. Verner,
+
+374 U.S. 398 (1963), which had been in place for nearly four decades when Smith was decided.  In that earlier case, Adell Sherbert, a Seventh-day Adventist, was fired because she refused to work on Saturday, her Sabbath Day.  374 U. S., at 399.  Unable to find other employment that did not require Saturday work, she applied for unemployment compensation but was rejected because state law disqualified claimants who “ failed, without good cause . . . to accept available suitable work when offered. ”  Id., at 399–401, and n. 3 (internal quotation marks omitted).  The State Supreme Court held that this denial of benefits did not violate Sherbert’s free-exercise right, but this Court reversed.
+
+															In an opinion authored by Justice Brennan, the Court began by surveying the Court’s few prior cases involving claims for religious exemptions from generally applicable laws.  Id., at 402–403.  In those decisions, the Court had not articulated a clear standard for resolving such conflicts, but as the Sherbert opinion accurately recounted, where claims for religious exemptions had been rejected, “[t]he conduct or actions [in question] invariably posed some substantial threat to public safety, peace or order.”  Id., at 403.  (As will be shown below, this description of the earlier decisions corresponds closely with the understanding of the scope of the free-exercise right at the time of the
+ 
+First Amendment’s adoption.  See infra, at 29–36.)
+
+															After noting these earlier decisions, the Court turned to the case at hand and concluded that the denial of benefits imposed a substantial burden on Sherbert’s free exercise of religion.  374 U. S., at 404.  It “force[d] her to choose between following the precepts of her religion and forfeiting benefits, on the one hand, and abandoning one of the precepts of her religion in order to accept work, on the other hand.”  Ibid.  As a result, the Court reasoned, the decision below could be sustained only if it was “justified by a ‘compelling state interest.’ ”  Id., at 403, 406.  The State argued that its law was needed to prevent “the filing of fraudulent claims by unscrupulous claimants feigning religious objections,” but Justice Brennan’s opinion found this justification insufficient because the State failed to show that “no alternative forms of regulation would combat such abuses without infringing
+ 
+First Amendment rights.”  Id., at 407.
+
+															The test distilled from Sherbert—that a law that imposes a substantial burden on the exercise of religion must be narrowly tailored to serve a compelling interest—was the governing rule for the next 37 years.  Applying that test, the Court sometimes vindicated free-exercise claims.  In Wisconsin v. Yoder,
+
+406 U.S. 205, 234 (1972), for example, the Court held that a state law requiring all students to remain in school until the age of 16 violated the free-exercise rights of Amish parents whose religion required that children leave school after the eighth grade.  The Court acknowledged the State’s “admittedly strong interest in compulsory education” but concluded that the State had failed to “show with . . . particularity how [that interest] would be adversely affected by granting an exemption to the Amish.”  Id., at 236.  And in holding that the Amish were entitled to a special exemption, the Court expressly rejected the interpretation of the Free Exercise Clause that was later embraced in Smith.  Indeed, the Yoder Court stated this point again and again: “[T]here are areas of conduct protected by the Free Exercise Clause of the
+ 
+First Amendment and thus beyond the power of the State to control, even under regulations of general applicability”; “[a] regulation neutral on its face may, in its application, nonetheless offend the constitutional requirement for governmental neutrality if it unduly burdens the free exercise of religion”; insisting that Amish children abide by the compulsory attendance requirement was unconstitutional even though it “applie[d] uniformly to all citizens of the State and d[id] not, on its face, discriminate against religions or a particular religion, [and was] motivated by legitimate secular concerns.”  Id., at 220 (emphasis added).
+
+															Other decisions also accepted free-exercise claims under the Sherbert test.  In Thomas v. Review Bd. of Ind. Employment Security Div.,
+
+450 U.S. 707, 710, 720 (1981), the Court concluded that a State could not withhold unemployment benefits from a Jehovah’s Witness who quit his job because he refused to do work that he viewed as contributing to the production of military weapons.  In so holding, the Court reiterated that “ ‘[a] regulation neutral on its face may, in its application, nonetheless offend the constitutional requirement for governmental neutrality if it unduly burdens the free exercise of religion.’ ”  Id., at 717 (quoting Yoder, 406 U. S., at 220).
+
+															Subsequently, in Hobbie v. Unemployment Appeals Comm’n of Fla.,
+
+480 U.S. 136, 141 (1987), the Court found that a state rule that was “ ‘neutral and uniform in its application’ ” nevertheless violated the Free Exercise Clause under the Sherbert test.  A similar violation was found in Frazee v. Illinois Dept. of Employment Security,
+
+489 U.S. 829 (1989).
+
+															Other cases applied Sherbert but found no violation.  In United States v. Lee,
+
+455 U.S. 252, 258 (1982), the Court held that mandatory contributions to Social Security were constitutional because they were “indispensable to the fiscal vitality of the social security system.”  In Gillette v. United States,
+
+401 U.S. 437, 462 (1971), denying conscientious-objector status to men whose opposition to war was limited to one particular conflict was held to be “strictly justified by substantial governmental interests.”  In still other cases, the Court found Sherbert inapplicable either because the challenged law did not implicate the conduct of the individual seeking an exemption, see Bowen v. Roy,
+
+476 U.S. 693, 700 (1986); Lyng v. Northwest Indian Cemetery Protective Assn.,
+
+485 U.S. 439, 450–451 (1988), or because the case arose in a context where the government exercised broader authority over assertions of individual rights, see O’Lone v. Estate of Shabazz,
+
+482 U.S. 342, 353 (1987) (prison); Goldman v. Weinberger,
+
+475 U.S. 503, 506 (1986) (military).  None of these decisions questioned the validity of Sherbert’s interpretation of the free-exercise right.
+
+															B
+
+															This is where our case law stood when Smith reached the Court.  The underlying situation in Smith was very similar to that in Sherbert.  Just as Adell Sherbert had been denied unemployment benefits due to conduct mandated by her religion (refraining from work on Saturday), Alfred Smith and Galen Black were denied unemployment benefits because of a religious practice (ingesting peyote as part of a worship service of the Native American Church).  494 U. S., at 874.  Applying the Sherbert test, the Oregon Supreme Court held that this denial of benefits violated Smith’s and Black’s free-exercise rights, and this Court granted review.[24]
+
+															The State defended the denial of benefits under the Sherbert framework.  It argued that it had a compelling interest in combating the use of dangerous drugs and that accommodating their use for religious purposes would upset its enforcement scheme.  Brief for Petitioners in Employment Div., Dept. of Human Resources v. Smith, No. 88–1213, O. T. 1988, pp. 5–7, 12, 16.  The State never suggested that Sherbert should be overruled.  See Brief for Petitioners in No. 88–1213, at 11.  Instead, the crux of its disagreement with Smith and Black and the State Supreme Court was whether its interest in preventing drug use could be served by a more narrowly tailored rule that made an exception for religious use by members of the Native American Church.
+
+															The question divided the four Justices who objected to the Smith majority’s rationale.  Compare 494 U. S., at 905–907 (O’Connor J., concurring in judgment), with id., at 909–919 (Blackmun, J., joined by Brennan and Marshall, JJ., dissenting).  And the Smith majority wanted no part of that question.  Instead, without briefing or argument on whether Sherbert should be cast aside, the Court adopted what it seems to have thought was a clear-cut test that would be easy to apply: A “generally applicable and otherwise valid” rule does not violate the Free Exercise Clause “if prohibiting the exercise of religion . . . is not [its] object . . . but merely the incidental effect of ” its operation.  494 U. S., at 878.  Other than cases involving rules that target religious conduct, the Sherbert test was held to apply to only two narrow categories of cases: (1) those involving the award of unemployment benefits or other schemes allowing individualized exemptions and (2) so-called “hybrid rights” cases.  See 494 U. S., at 881–884.[25]
+
+															To clear the way for this new regime, the majority was willing to take liberties.  Paying little attention to the terms of the Free Exercise Clause, it was satisfied that its interpretation represented a “permissible” reading of the text, Smith, 494 U. S., at 878, and it did not even stop to explain why that was so.  The majority made no effort to ascertain the original understanding of the free-exercise right, and it limited past precedents on grounds never previously suggested.  Sherbert, Thomas, and Hobbie were placed in a special category because they concerned the award of unemployment compensation, Smith, 494 U. S., at 883, and Yoder was distinguished on the ground that it involved both a free-exercise claim and a parental-rights claim, Smith, 494 U. S., at 881.  Not only did these distinctions lack support in prior case law, the issue in Smith itself could easily be viewed as falling into both of these special categories.  After all, it involved claims for unemployment benefits, and members of the Native American Church who ingest peyote as part of a religious ceremony are surely engaging in expressive conduct that falls within the scope of the Free Speech Clause.  See, e.g., Texas v. Johnson,
+
+491 U.S. 397, 404 (1989).
+
+															None of these obstacles stopped the Smith majority from adopting its new rule and displacing decades of precedent.  The majority feared that continued adherence to that case law would “cour[t] anarchy” because it “would open the prospect of constitutionally required religious exemptions from civic obligations of almost every conceivable kind.”  494 U. S., at 888.  The majority recognized that its new interpretation would place small religious groups at a “relative disadvantage,” but the majority found that preferable to the problems it envisioned if the Sherbert test had been retained.  494 U. S., at 890.
+
+															Four Justices emphatically disagreed with Smith’s reinterpretation of the Free Exercise Clause.  Justice O’Connor wrote that this new reading “dramatically depart[ed] from well-settled
+ 
+First Amendment jurisprudence” and was “incompatible with our Nation’s fundamental commitment to individual religious liberty.”  494 U. S., at 891 (opinion concurring in judgment).  Justices Brennan, Marshall, and Blackmun protested that the majority had “mischaracteriz[ed]” and “discard[ed]” the Court’s free-exercise jurisprudence on its way to “perfunctorily dismiss[ing]” the “settled and inviolate principle” that state laws burdening religious freedom may stand only if “justified by a compelling interest that cannot be served by less restrictive means.”  Id., at 907–908 (Blackmun, J., joined by Brennan and Marshall, JJ., dissenting).
+
+															Smith’s impact was quickly felt, and Congress was inundated with reports of the decision’s consequences.[26]  In response, it attempted to restore the Sherbert test.  In the House, then-Representative Charles Schumer introduced a bill that made a version of that test applicable to all actions taken by the Federal Government or the States.  H. R. 1308, 103d Cong., 1st Sess. (1993).  This bill, which eventually became the Religious Freedom Restoration Act (RFRA), passed in the House without dissent, was approved in the Senate by a vote of 97 to 3, and was enthusiastically signed into law by President Clinton.  139 Cong. Rec. 27239–27341 (1993) (House voice vote); id., at 26416 (Senate vote); Remarks on Signing the Religious Freedom Restoration Act of 1993, 29 Weekly Comp. of Pres. Doc. 2377 (1993).  And when this Court later held in City of Boerne,
+
+521 U.S. 507, that Congress lacked the power under the 14th Amendment to impose these rules on the States, Congress responded by enacting the Religious Land Use and Institutionalized Persons Act (RLUIPA) under its spending power and its power to regulate interstate commerce.  See
+
+114Stat.
+803.  Introduced in the Senate by Sen. Orrin Hatch and cosponsored by Sen. Edward Kennedy, RLUIPA imposed the same rules as RFRA on land use and prison regulations.  S. 2869, 106th Cong., 2d Sess. (2000);
+
+42 U. S. C. §2000cc et seq; 146 Cong. Rec. 16698 (2000).  RLUIPA passed both Houses of Congress without a single negative vote and, like RFRA, was signed by President Clinton.  Id., at 16703, 16623; Statement on Signing the Religious Land Use and Institutionalized Persons Act of 2000, 36 Weekly Comp. of Pres. Doc. 2168 (2000).
+
+															RFRA and RLUIPA have restored part of the protection that Smith withdrew, but they are both limited in scope and can be weakened or repealed by Congress at any time.  They are no substitute for a proper interpretation of the Free Exercise Clause.
+
+															III
+
+															A
+
+															That project must begin with the constitutional text.  In Martin v. Hunter’s Lessee, 1 Wheat. 304, 338–339 (1816), Justice Story laid down the guiding principle: “If the text be clear and distinct, no restriction upon its plain and obvious import ought to be admitted, unless the inference be irresistible.”  And even though we now have a thick body of precedent regarding the meaning of most provisions of the Constitution, our opinions continue to respect the primacy of the Constitution’s text.  See, e.g., Chiafalo v. Washington, 591 U. S. ___, ___–___ (2020) (slip op., at 9–13) (starting with the text of Art. II, §1, before considering historical practice); Knick v. Township of Scott, 588 U. S. ___, ___ (2019) (slip op., at 6) (beginning analysis with the text of the Takings Clause); Gamble v. United States, 587 U. S. ___, ___–___ (2019) (slip op., at 3–4) (starting with the text of the
+ 
+Fifth Amendment before turning to history and precedent); City of Boerne, 521 U. S., at 519 (“In assessing the breadth of §5’s enforcement power, we begin with its text”).
+
+															Smith, however, paid shockingly little attention to the text of the Free Exercise Clause.  Instead of examining what readers would have understood its words to mean when adopted, the opinion merely asked whether it was “permissible” to read the text to have the meaning that the majority favored.  494 U. S., at 878.  This strange treatment of the constitutional text cannot be justified—and is especially surprising since it clashes so sharply with the way in which Smith’s author, Justice Scalia, generally treated the text of the Constitution (and, indeed, with his entire theory of legal interpretation).  As he put it, “What I look for in the Constitution is precisely what I look for in a statute: the original meaning of the text.”  A. Scalia, A Matter of Interpretation 38 (1997).  See also NLRB v. Noel Canning,
+
+573 U.S. 513, 575–583 (2014) (Scalia, J., concurring in judgment); Stop the Beach Renourishment, Inc. v. Florida Dept. of Environmental Protection,
+
+560 U.S. 702, 722 (2010) (plurality opinion of Scalia, J.); Maryland v. Craig,
+
+497 U.S. 836, 860–861 (1990) (Scalia, J., dissenting).
+
+															Justice Scalia’s opinion for the Court in District of Columbia v. Heller,
+
+554 U.S. 570 (2008), is a prime example of his usual approach, and it is a model of what a reexamination of the Free Exercise Clause should entail.  In Heller, after observing that the “Constitution was written to be understood by the voters,” Justice Scalia’s opinion begins by presuming that the “words and phrases” of the
+ 
+Second Amendment carry “their normal and ordinary . . . meaning.”  Id., at 576 (internal quotation marks omitted).  The opinion then undertakes a careful examination of all the Amendment’s key terms.  It does not simply ask whether its interpretation of the text is “permissible.”  Smith, 494 U. S., at 878.
+
+															B
+
+															Following the sound approach that the Court took in Heller, we should begin by considering the “normal and ordinary” meaning of the text of the Free Exercise Clause: “Congress shall make no law . . . prohibiting the free exercise [of religion].”  Most of these terms and phrases—“Congress,”[27] “shall make,” “no law,”[28] and “religion”[29]—do not require discussion for present purposes, and we can therefore focus on what remains: the term “prohibiting” and the phrase “the free exercise of religion.”
+
+															Those words had essentially the same meaning in 1791  as they do today.  “To prohibit” meant either “[t]o forbid” or “to hinder.” 2 S. Johnson, A Dictionary of the English Language (1755) (Johnson (1755)).[30]  The term “exercise” had both a broad primary definition (“[p]ractice” or “outward performance”) and a narrower secondary one (an “[a]ct of divine worship whether publick or private”).  1 id.[31]  (The Court long ago declined to give the
+ 
+First Amendment’s reference to “exercise” this narrow reading.  See, e.g., Cantwell v. Connecticut, 
+310 U.S. 296, 303–304 (1940).)  And “free,” in the sense relevant here, meant “unrestrained.”  1 Johnson (1755).[32]
+
+															If we put these definitions together, the ordinary meaning of “prohibiting the free exercise of religion” was (and still is) forbidding or hindering unrestrained religious practices or worship.  That straightforward understanding is a far cry from the interpretation adopted in Smith.  It certainly does not suggest a distinction between laws that are generally applicable and laws that are targeted.
+
+															As interpreted in Smith, the Clause is essentially an anti-discrimination provision: It means that the Federal Government and the States cannot restrict conduct that constitutes a religious practice for some people unless it imposes the same restriction on everyone else who engages in the same conduct.  Smith made no real attempt to square that equal-treatment interpretation with the ordinary meaning of the Free Exercise Clause’s language, and it is hard to see how that could be done.
+
+															The key point for present purposes is that the text of the Free Exercise Clause gives a specific group of people (those who wish to engage in the “exercise of religion”) the right to do so without hindrance.  The language of the Clause does not tie this right to the treatment of persons not in this group.
+
+															The oddity of Smith’s interpretation can be illustrated by considering what the same sort of interpretation would mean if applied to other provisions of the Bill of Rights.  Take the
+ 
+Sixth Amendment, which gives a specified group of people (the “accused” in criminal cases) a particular right (the right to the “Assistance of Counsel for [their] defence”).  Suppose that Congress or a state legislature adopted a law banning counsel in all litigation, civil and criminal.  Would anyone doubt that this law would violate the
+ 
+Sixth Amendment rights of criminal defendants?
+
+															Or consider the
+ 
+Seventh Amendment, which gives a specified group of people (parties in most civil “Suits at common law”) “the right of trial by jury.”  Would there be any question that a law abolishing juries in all civil cases would violate the rights of parties in cases that fall within the
+ 
+Seventh Amendment’s scope?
+
+															Other examples involving language similar to that in the Free Exercise Clause are easy to imagine.  Suppose that the amount of time generally allotted to complete a state bar exam is 12 hours but that applicants with disabilities secure a consent decree allowing them an extra hour.  Suppose that the State later adopts a rule requiring all applicants to complete the exam in 11 hours.  Would anyone argue that this was consistent with the decree?
+
+															Suppose that classic car enthusiasts secure the passage of a state constitutional amendment exempting cars of a certain age from annual safety inspections, but the legislature later enacts a law requiring such inspections for all vehicles regardless of age.  Can there be any doubt that this would violate the state constitution?
+
+															It is not necessary to belabor this point further.  What all these examples show is that Smith’s interpretation conflicts with the ordinary meaning of the
+ 
+First Amendment’s terms.
+
+															C
+
+															Is there any way to bring about a reconciliation?  The short answer is “no.”  Survey all the briefs filed in support of respondents (they total more than 40) and three decades of law review articles, and what will you find?  Philadelphia’s brief refers in passing to one possible argument—and the source it cites is a law review article by one of Smith’s leading academic critics, Professor Michael W. McConnell.  See Brief for City Respondents 49 (citing McConnell, Free Exercise Revisionism 1115).  Trying to see if there was any way to make Smith fit with the constitutional text, Professor McConnell came up with this argument—but then rejected it.  McConnell, Free Exercise Revisionism 1115–1116.
+
+															The argument goes as follows: Even if a law prohibits conduct that constitutes an essential religious practice, it cannot be said to “prohibit” the free exercise of religion unless that was the lawmakers’ specific object.
+
+															This is a hair-splitting interpretation.  It certainly does not represent the “normal and ordinary” meaning of the Free Exercise Clause’s terms.  See Heller, 554 U. S., at 576.  Consider how it would play out if applied to some of the hypothetical laws discussed at the beginning of this opinion.  A law categorically banning all wine would not “prohibit” the celebration of a Catholic Mass?  A law categorically forbidding the slaughter of a conscious animal would not “prohibit” kosher and halal slaughterhouses?  A rule categorically banning any head covering in a courtroom would not “prohibit” appearances by orthodox Jewish men, Sikh men, and Muslim women who wear hijabs?  It is no wonder that Smith’s many defenders have almost uniformly foregone this argument.
+
+															D
+
+															Not only is it difficult to square Smith’s interpretation with the terms of the Free Exercise Clause, the absence of any language referring to equal treatment is striking.  If equal treatment was the objective, why didn’t Congress say that?  And since it would have been simple to cast the Free Exercise Clause in equal-treatment terms, why would the state legislators who voted for ratification have read the Clause that way?
+
+															It is not as if there were no models that could have been used.  Other constitutional provisions contain non-discrimination language.  For example, Art. I, §9, cl. 6, provides that “[n]o Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another.”  Under Art. IV, §2, cl. 1, “[t]he Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.”  Article V provides that “no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.”  Language mandating equal treatment of one sort or another also appeared in the religious liberty provisions of colonial charters and state constitutions.[33]  But Congress eschewed those models.  The contrast between these readily available anti-discrimination models and the language that appears in the
+ 
+First Amendment speaks volumes.
+
+															IV
+
+															A
+
+															While we presume that the words of the Constitution carry their ordinary and normal meaning, we cannot disregard the possibility that some of the terms in the Free Exercise Clause had a special meaning that was well understood at the time.  Heller, again, provides a helpful example.  Heller did not hold that the right to keep and bear arms means that everyone has the right to keep and bear every type of weaponry in all places and at all times.  Instead, it held that the
+ 
+Second Amendment protects a known right that was understood to have defined dimensions.  554 U. S., at 626–628.
+
+															Following Heller’s lead, we must ask whether the Free Exercise Clause protects a right that was known at the time of adoption to have defined dimensions.  But in doing so, we must keep in mind that there is a presumption that the words of the Constitution are to be interpreted in accordance with their “normal and ordinary” sense.  Id., at 576 (internal quotation marks omitted).  Anyone advocating a different reading must overcome that presumption.
+
+															B
+
+															1
+
+															What was the free-exercise right understood to mean when the Bill of Rights was ratified?  And in particular, was it clearly understood that the right simply required equal treatment for religious and secular conduct?  When Smith was decided, scholars had not devoted much attention to the original meaning of the Free Exercise Clause, and the parties’ briefs ignored this issue, as did the opinion of the Court.  Since then, however, the historical record has been plumbed in detail,[34] and we are now in a good position to examine how the free-exercise right was understood when the
+ 
+First Amendment was adopted.
+
+															By that date, the right to religious liberty already had a long, rich, and complex history in this country.  What appears to be the first “free exercise” provision was adopted in 1649.  Prompted by Lord Baltimore,[35] the Maryland Assembly enacted a provision protecting the right of all Christians to engage in “the free exercise” of religion.[36]  Rhode Island’s 1663 Charter extended the right to all.  See Charter of Rhode Island and Providence Plantations (1663), in Cogan 34.  Early colonial charters and agreements in Carolina, Delaware, New Jersey, New York, and Pennsylvania also recognized the right to free exercise,[37] and by 1789, every State except Connecticut had a constitutional provision protecting religious liberty.  McConnell, Origins 1455.  In fact, the Free Exercise Clause had more analogs in State Constitutions than any other individual right.  See Calabresi, Agudo, & Dore, State Bills of Rights in 1787 and 1791: What Individual Rights Are Really Deeply Rooted in American History and Tradition? 85 S. Cal. L. Rev. 1451, 1463–1464, 1472–1473 (2012).  In all of those State Constitutions, freedom of religion enjoyed broad protection, and the right “was universally said to be an unalienable right.”  McConnell, Origins 1456.[38]
+
+															2
+
+															What was this right understood to protect?  In seeking to discern that meaning, it is easy to get lost in the voluminous discussion of religious liberty that occurred during the long period from the first British settlements to the adoption of the Bill of Rights.  Many different political figures, religious leaders, and others spoke and wrote about religious liberty and the relationship between the authority of civil governments and religious bodies.  The works of a variety of thinkers were influential, and views on religious liberty were informed by religion, philosophy, historical experience, particular controversies and issues, and in no small measure by the practical task of uniting the Nation.  The picture is complex.
+
+															For present purposes, we can narrow our focus and concentrate on the circumstances that relate most directly to the adoption of the Free Exercise Clause.  As has often been recounted, critical state ratifying conventions approved the Constitution on the understanding that it would be amended to provide express protection for certain fundamental rights,[39] and the right to religious liberty was unquestionably one of those rights.  As noted, it was expressly protected in 12 of the 13 State Constitutions, and these state constitutional provisions provide the best evidence of the scope of the right embodied in the
+ 
+First Amendment.
+
+															When we look at these provisions, we see one predominant model.  This model extends broad protection for religious liberty but expressly provides that the right does not protect conduct that would endanger “the public peace” or “safety.”
+
+															 
+
+															This model had deep roots in early colonial charters.  It appeared in the Rhode Island Charter of 1663,[40] the Second Charter of Carolina in 1665,[41] and the New York Act Declaring Rights & Priviledges in 1691.[42]
+
+															By the founding, more than half of the State Constitutions contained free-exercise provisions subject to a “peace and safety” carveout or something similar.  The Georgia Constitution is a good example.  It provided that “[a]ll persons whatever shall have the free exercise of their religion; provided it be not repugnant to the peace and safety of the State.”  Ga. Const., Art. LVI (1777), in Cogan 16 (emphasis added).  The founding era Constitutions of Delaware, Maryland, Massachusetts, New Hampshire, New York, Rhode Island, and South Carolina all contained broad protections for religious exercise, subject to limited peace-and-safety carveouts.[43]
+
+															The predominance of this model is highlighted by its use in the laws governing the Northwest Territory.  In the Northwest Ordinance of 1787, the Continental Congress provided that “[n]o person, demeaning himself in a peaceable and orderly manner, shall ever be molested on account of his mode of worship, or religious sentiments, in the said territory.”  Art. I (emphasis added).  After the ratification of the Constitution, the First Congress used similar language in the Northwest Ordinance of 1789.  See Act of Aug. 7, 1789,
+
+1Stat.
+52 (reaffirming Art. I of Northwest Ordinance of 1787).  Since the First Congress also framed and approved the Bill of Rights, we have often said that its apparent understanding of the scope of those rights is entitled to great respect.  See, e.g., Town of Greece v. Galloway,
+
+572 U.S. 565, 575–578 (2014); Harmelin v. Michigan,
+
+501 U.S. 957, 980 (1991) (opinion of Scalia, J.); Marsh v. Chambers,
+
+463 U.S. 783, 786–792 (1983); Carroll v. United States,
+
+267 U.S. 132, 150–151 (1925).
+
+															3
+
+															The model favored by Congress and the state legislatures—providing broad protection for the free exercise of religion except where public “peace” or “safety” would be endangered—is antithetical to Smith.  If, as Smith held, the free-exercise right does not require any religious exemptions from generally applicable laws, it is not easy to imagine situations in which a public-peace-or-safety carveout would be necessary.  Legislatures enact generally applicable laws to protect public peace and safety.  If those laws are thought to be sufficient to address a particular type of conduct when engaged in for a secular purpose, why wouldn’t they also be sufficient to address the same type of conduct when carried out for a religious reason?
+
+															Smith’s defenders have no good answer.  Their chief response is that the free-exercise provisions that included these carveouts were tantamount to the Smith rule because any conduct that is generally prohibited or generally required can be regarded as necessary to protect public peace or safety.  See City of Boerne, 521 U. S., at 539 (Scalia, J., concurring in part) (“At the time these provisos were enacted, keeping ‘peace’ and ‘order’ seems to have meant, precisely, obeying the laws”).
+
+															This argument gives “public peace and safety” an unnaturally broad interpretation.  Samuel Johnson’s 1755 dictionary defined “peace” as: “1. Respite from war. . . . 2. Quiet from suits or disturbances. . . . 3. Rest from any commotion. 4. Stil[l]ness from riots or tumults. . . . 5. Reconciliation of differences. . . . 6. A state not hostile. . . . 7. Rest; quiet; content; freedom from terrour; heavenly rest. . . .”  2 Johnson.[44]
+
+															In ordinary usage, the term “safety” was understood to mean: “1. Freedom from danger. . . . 2. Exemption from hurt. 3. Preservation from hurt. . . .”  Ibid.[45]
+
+															When “peace” and “safety” are understood in this way, it cannot be said that every violation of every law imperils public “peace” or “safety.”  In 1791 (and today), violations of many laws do not threaten “war,” “disturbances,” “commotion,” “riots,” “terrour,” “danger,” or “hurt.”  Blackstone catalogs numerous violations that do not threaten any such harms, including  “cursing”;[46]  refusing to pay assessments for “the repairs of sea banks and sea walls” and the “cleansing of rivers, public streams, ditches and other conduits”;[47] “retaining a man’s hired servant before his time is expired”;[48] an attorney’s failure to show up for a trial;[49] the unauthorized “solemniz[ing of a] marriage in any other place besides a church, or public chapel wherein banns have been usually published”;[50] “transporting and seducing our artists to settle abroad”;[51] engaging in the conduct of “a common scold”;[52] and “exercis[ing] a trade in any town, without having previously served as an apprentice for seven years.”[53]
+
+															In contrast to these violations, Blackstone lists “offences against the public peace.” 4 Commentaries on the Laws of England 142–153 (1769).  Those include: riotous assembling of 12 persons or more; unlawful hunting; anonymous threats and demands; destruction of public floodgates, locks, or sluices on a navigable river; public fighting; riots or unlawful assemblies; “tumultuous” petitioning; forcible entry or detainer; riding or “going armed” with dangerous or unusual weapons; spreading false news to “make discord between the king and nobility, or concerning any great man of the realm”; spreading “false and pretended” prophecies to disturb the peace; provoking breaches of the peace; and libel “to provoke . . . wrath, or expose [an individual] to public hatred, contempt, and ridicule.”  Ibid. (emphasis deleted); see also McConnell, Freedom from Persecution 835–836.  These offenses might inform what constitutes actual or threatened breaches of public peace or safety in the ordinary sense of those terms.[54]  But the ordinary meaning of offenses that threaten public peace or safety must be stretched beyond the breaking point to encompass all violations of any law.[55]
+
+															C
+
+															That the free-exercise right included the right to certain religious exemptions is strongly supported by the practice of the Colonies and States.  When there were important clashes between generally applicable laws and the religious practices of particular groups, colonial and state legislatures were willing to grant exemptions—even when the generally applicable laws served critical state interests.
+
+															Oath exemptions are illustrative.  Oath requirements were considered “indispensable” to civil society because they were thought to ensure that individuals gave truthful testimony and fulfilled commitments.  McConnell, Origins 1467.  Quakers and members of some other religious groups refused to take oaths, ibid., and therefore a categorical oath requirement would have resulted in the complete exclusion of these Americans from important civic activities, such as testifying in court and voting, see ibid.
+
+															Tellingly, that is not what happened.  In the 1600s, Carolina allowed Quakers to enter a pledge rather than swearing an oath.  Ibid.  In 1691, New York permitted Quakers to give testimony after giving an affirmation.  Ibid.  Massachusetts did the same in 1743.  Id., at 1467–1468.  In 1734, New York also allowed Quakers to qualify to vote by making an affirmation, and in 1740, Georgia granted an exemption to Jews, allowing them to omit the phrase “ ‘on the faith of a Christian’ ” from the State’s naturalization oath.  Id., at 1467.  By 1789, almost all States had passed oath exemptions.  Id., at 1468.
+
+															Some early State Constitutions and declarations of rights formally provided oath exemptions for religious objectors.  For instance, the Maryland Declaration of Rights of 1776 declared that Quakers, Mennonites, and members of some other religious groups “ought to be allowed to make their solemn affirmation” instead of an oath.  §36, in Cogan 18.  Similarly, the Massachusetts Constitution of 1780 permitted Quakers holding certain government positions to decline to take the prescribed oath of office, allowing affirmations instead.  Pt. II, ch. VI, Art. I, in id., at 22.  The Federal Constitution likewise permits federal and state officials to make either an “Oath or Affirmation, to support this Constitution.”  Art. VI, cl. 3 (emphasis added); see also Art. I, §3, cl. 6; Art. II, §1, cl. 8.
+
+															Military conscription provides an even more revealing example.  In the Colonies and later in the States, able-bodied men of a certain age were required to serve in the militia, see Heller, 554 U. S., at 595–596, but Quakers, Mennonites, and members of some other religious groups objected to militia service on religious grounds, see McConnell, Origins 1468.  The militia was regarded as essential to the security of the State and the preservation of freedom, see Heller, 554 U. S., at 597–598, but colonial governments nevertheless granted religious exemptions, see McConnell, Origins 1468.  Rhode Island, Maryland, North Carolina, and New Hampshire did so in the founding era.  Ibid.  In 1755, New York permitted a conscientious objector to obtain an exemption if he paid a fee or sent a substitute.  Ibid.  Massachusetts adopted a similar law two years later, and Virginia followed suit in 1776.  Ibid., and n. 297.
+
+															The Continental Congress also granted exemptions to religious objectors because conscription would do “violence to their consciences.”  Resolution of July 18, 1775, in 2 Journals of the Continental Congress, 1774–1789, p. 189 (W. Ford ed. 1905) (quoted in McConnell, Origins 1469, and n. 299).  This decision is especially revealing because during that time the Continental Army was periodically in desperate need of soldiers,[56] the very survival of the new Nation  
+
+															often seemed in danger,[57] and the Members of Congress faced bleak personal prospects if the war was lost.[58]  Yet despite these stakes, exemptions were granted.
+
+															Colonies with established churches also permitted non-members to decline to pay special taxes dedicated to the support of ministers of the established church.  McConnell, Origins 1469.  Massachusetts and Connecticut exempted Baptists and Quakers in 1727.  Ibid.  Virginia provided exemptions to Huguenots in 1700, German Lutherans in 1730, and dissenters from the Church of England in 1776.  Ibid.; see also S. Cobb, The Rise of Religious Liberty in America 98, 492 (1902).  Beginning in 1692, New Hampshire exempted those who could prove they were “ ‘conscientiously’ ” of a “ ‘different persuasion,’ ” regularly attended their own religious services, and contributed financially to their faith.  McConnell, Origins 1469.
+
+															Various other religious exemptions were also provided.  North Carolina and Maryland granted exemptions from the requirement that individuals remove their hats in court, a gesture that Quakers viewed as an impermissible showing of respect to a secular authority.  Id., at 1471–1472.  And Rhode Island exempted Jews from some marriage laws.  Id., at 1471.
+
+															In an effort to dismiss the significance of these legislative exemptions, it has been argued that they show only what the Constitution permits, not what it requires.  City of Boerne, 521 U. S., at 541 (opinion of Scalia, J.).  But legislatures provided those accommodations before the concept of judicial review took hold, and their actions are therefore strong evidence of the founding era’s understanding of the free-exercise right.  See McConnell, Free Exercise Revisionism 1119.  Cf. Heller, 554 U. S., at 600–603 (looking to state constitutions that preceded the adoption of the
+ 
+Second Amendment).
+
+															D
+
+															Defenders of Smith have advanced historical arguments of their own, but they are unconvincing, and in any event, plainly insufficient to overcome the ordinary meaning of the constitutional text.
+
+															1
+
+															One prominent argument points to language in some founding-era charters and constitutions prohibiting laws or government actions that were taken “for” or “on account” of religion.  See City of Boerne, 521 U. S., at 538–539 (opinion of Scalia, J.).  That phrasing, it is argued, reaches only measures that target religion, not neutral and generally applicable laws.  This argument has many flaws.
+
+															No such language appears in the Free Exercise Clause, and in any event, the argument rests on a crabbed reading of the words “for” or “on account of ” religion.  As Professor McConnell has explained, “[i]f a member of the Native American Church is arrested for ingesting peyote during a religious ceremony, then he surely is molested ‘for’ or ‘on account of ’ his religious practice—even though the law under which he is arrested is neutral and generally applicable.”  Freedom From Persecution 834.
+
+															This argument also ignores the full text of many of the provisions on which it relies.  Id., at 833–834.  While some protect against government actions taken “for” or “on account of ” religion, they do not stop there.  Instead, they go on to provide broader protection for religious liberty.  See, e.g., Maryland Act Concerning Religion (1649), in Cogan 17 (guaranteeing residents not be “troubled . . . in the free exercise [of religion]”); New York Constitution (1777), in id., at 26 (guaranteeing “the free Exercise and Enjoyment of religious Profession and Worship”).
+
+															2
+
+															Another argument advanced by Smith’s defenders relies on the paucity of early cases “refusing to enforce a generally applicable statute because of its failure to make accommodation,” City of Boerne, 521 U. S., at 542 (opinion of Scalia, J.).  If exemptions were thought to be constitutionally required, they contend, we would see many such cases.
+
+															There might be something to this argument if there were a great many cases denying exemptions and few granting them, but the fact is that diligent research has found only a handful of cases going either way.  Commentators have discussed the dearth of cases, and as they note, there are many possible explanations.[59]  Early 19th century legislation imposed only limited restrictions on private conduct, and this minimized the chances of conflict between generally applicable laws and religious practices.  The principal conflicts that arose—involving oaths, conscription, and taxes to support an established church—were largely resolved by state constitutional provisions and laws granting exemptions.  And the religious demographics of the time decreased the likelihood of conflicts.  The population was overwhelmingly Christian and Protestant, the major Protestant denominations made up the great bulk of the religious adherents,[60] and other than with respect to the issue of taxes to support an established church, it is hard to think of conflicts between the practices of the members of these denominations and generally applicable laws that a state legislature might have enacted.
+
+															Members of minority religions are most likely to encounter such conflicts, and the largest minority group, the Quakers, who totaled about 10% of religious adherents,[61] had received exemptions for the practices that conflicted with generally applicable laws.  As will later be shown, see infra, at 46–50, the small number of religious-exemption cases that occurred during the early 19th century involved members of what were then tiny religious groups—such as Catholics, Jews, and Covenanters.[62]  Given the size of these groups, one would not expect a large number of cases.  And where cases arose, the courts’ decisions may not have always been reported.  Barclay, The Historical Origins of Judicial Religious Exemptions, 96 Notre Dame L. Rev. 55, 70 (2020).
+
+															3
+
+															When the body of potentially relevant cases is examined, they provide little support for Smith’s interpretation of the free-exercise right.  Not only are these decisions few in number, but they reached mixed results.  In addition, some are unreasoned; some provide ambiguous explanations; and many of the cases denying exemptions were based on grounds that do not support Smith.
+
+															The most influential early case granting an exemption was People v. Philips, 1 W. L. J. 109, 112–113 (Gen. Sess., N. Y. 1813), where the court held that a Catholic priest could not be compelled to testify about a confession.  The priest’s refusal, the court reasoned, was protected by the state constitutional right to the free exercise of religion and did not fall within the exception for “acts of licentiousness” and “practices inconsistent with the peace or safety of th[e] State.”[63]  This, of course, is exactly the understanding of the free-exercise right that is seen in the founding era State Constitutions. 
+
+															Although Philips was not officially reported, knowledge of the decision appears to have spread widely.  Four years later, another New York court implicitly reaffirmed the principle Philips recognized but found the decision inapplicable because the Protestant minister who was called to testify did not feel a religious obligation to refuse.  See Smith’s Case, 2 N. Y. City-Hall Recorder 77, 80, and n. (1817); McConnell, Origins 1505–1506; Walsh 40–41.
+
+															In 1827, a South Carolina court relied on Philips as support for its decision to grant an exemption from a state law relied on to bar the testimony of a witness who denied a belief in punishment after death for testifying falsely, and the State’s newly constituted high court approved that opinion.  Farnandis v. Henderson, 1 Carolina L. J. 202, 213, 214 (1827).[64] 
+
+															In Commonwealth v. Cronin, 2 Va. Cir. 488, 498, 500, 505 (1855), a Virginia court followed Philips and held that a priest’s free-exercise right required an exemption from the general common law rule compelling a witness to “disclose all he may know” when giving testimony.
+
+															On the other side of the ledger, the most prominent opponent of exemptions was John Bannister Gibson of the Pennsylvania Supreme Court.  Today, Gibson is best known for his dissent in Eakin v. Raub, 12 Serg. & Rawle 330, 355–356 (1825), which challenged John Marshall’s argument for judicial review in Marbury v. Madison, 1 Cranch 137 (1803).  See McConnell, Origins 1507.  Three years after Eakin, Gibson’s dissent in Commonwealth v. Lesher, 17 Serg. & Rawle 155 (Pa. 1828), advanced a related argument against decisions granting religious exemptions.  Gibson agreed that the state constitutional provision protecting religious liberty conferred the right to do or forbear from doing any act “not prejudicial to the public weal,” but he argued that judges had no authority to override legislative judgments about what the public weal required.  Id., at 160–161 (emphasis deleted).
+
+															Three years later, he made a similar argument in dicta in Philips’s Executors v. Gratz, 2 Pen. & W. 412, 412–413 (Pa. 1831), where a Jewish plaintiff had taken a non-suit (agreed to a dismissal) in a civil case scheduled for trial on a Saturday.  Gibson’s opinion for the Court set aside the non-suit on other grounds but rejected the plaintiff ’s religious objection to trial on Saturday.  Id., at 416–417.  He proclaimed that a citizen’s obligation to the State must always take precedence over any religious obligation, and he expressly registered disagreement with the New York court’s decision in Philips.  Id., at 417.
+
+															In South Carolina, an exemption claim was denied in State v. Willson, 13 S. C. L. 393, 394–397 (1823), where the court refused to exempt a member of the Covenanters religious movement from jury service.  Because Covenanters opposed the Constitution on religious grounds, they refused to engage in activities, such as jury service and voting, that required an oath to support the Constitution or otherwise enlisted their participation in the Nation’s scheme of government.[65]  It is possible to read the opinion in Willson  as embodying something like the Smith rule—or as concluding that granting the exemption would have opened the floodgates and undermined public peace and safety.  See 13 S. C. L., at 395 (“who could distinguish . . . between the pious asseveration of a holy man and that of an accomplished villain”).  But if Willson is read as rejecting religious exemptions, South Carolina’s reconstituted high court reversed that position in Farnandis.[66]
+
+															Other cases denying exemptions are even less helpful to Smith’s defenders.  Three decisions rejected challenges to Sunday closing laws by merchants who celebrated Saturday as the Sabbath, but at least two of these were based on the court’s conclusion that the asserted religious belief was unfounded.  See City Council of Charleston v. Benjamin, 33 S. C. L. 508, 529 (1846) (“There is . . . no violation of the Hebrew’s religion, in requiring him to cease from labor on another day than his Sabbath, if he be left free to observe the latter according to his religion” (emphasis deleted)); Commonwealth v. Wolf, 3 Serg. & Rawle 47, 50, 51 (Pa. 1817) (“[T]he Jewish Talmud . . . asserts no such doctrine” and the objection was made “out of mere caprice”).  That reasoning is contrary to a principle that Smith reaffirmed: “Repeatedly and in many different contexts, we have warned that courts must not presume to determine . . . the plausibility of a religious claim.”  494 U. S., at 887.
+
+															A third Sunday closing law decision appears to rest at least in part on a similar ground.  See Specht v. Commonwealth, 8 Pa. 312 (1848).  The court observed that the merchant’s conscience rights might have been violated if his religion actually required him to work on Sunday, but the court concluded that the commandment to keep holy the Sabbath had never been understood to impose “an imperative obligation to fill up each day of the other six with some worldly employment.”  Id., at 326.
+
+															Other cases cited as denying exemptions were decided on nebulous grounds.  In Stansbury v. Marks, 2 Dall. 213 (Pa. 1793), a decision of the Pennsylvania Supreme Court, the case report in its entirety states: “In this cause (which was tried on Saturday, the 5th of April) the defendant offered Jonas Phillips, a Jew, as a witness; but he refused to be sworn, because it was his Sabbath.  The Court, therefore, fined him £10; but the defendant, afterwards, waving the benefit of his testimony, he was discharged from the fine.”  (Emphasis deleted.)  What can be deduced from this cryptic summary?  Was the issue mooted when the defendant waived the benefit of Phillips’s testimony?  Who can tell?
+
+															In Commonwealth v. Drake, 15 Mass. 161 (1818), the Supreme Judicial Court of Massachusetts summarily affirmed the conviction of a criminal defendant who was convicted after the trial court admitted the testimony of his fellow church members before whom he had confessed.  The State argued that the defendant had voluntarily confessed, that his confession was not required by any “ecclesiastical rule,” and that he had confessed “not to the church” but “to his friends and neighbours.”  Id., at 162.  Because the court provided no explanation of its decision, this case sheds no light on the understanding of the free-exercise right.
+
+															All told, this mixed bag of antebellum decisions does little to support Smith, and extending the search past the Civil War does not advance Smith’s cause.  One of the objectives of the
+ 
+Fourteenth Amendment, it has been argued, was to protect the religious liberty of African-Americans in the South, where a combination of laws that did not facially target religious practice had been used to suppress religious exercise by slaves.  See generally Lash, The Second Adoption of the Free Exercise Clause: Religious Exemptions Under the
+ 
+Fourteenth Amendment, 88 Nw. U. L. Rev. 1106 (1994).
+
+															4
+
+															Some have claimed that the drafting history of the Bill of Rights supports Smith.  See Brief for
+ 
+First Amendment Scholars as Amici Curiae 10–11; Muñoz, Original Meaning 1085.  But as Professor Philip Hamburger, one of Smith’s most prominent academic defenders, has concluded, “[w]hat any of this [history] implies about the meaning of the Free Exercise Clause is speculative.”  Religious Exemption 928.
+
+															Here is the relevant history.  The House debated a provision, originally proposed by Madison, that protected the right to bear arms but included language stating that “no person, religiously scrupulous, shall be compelled to bear arms.”  1 Annals of Cong. 749, 766 (1789); see also Muñoz, Original Meaning 1112.  Some Members spoke in favor of 
+
+															 
+
+															the proposal,[67] others opposed it,[68] and in the end, after adding the words “in person” at the end of the clause, the House adopted it.[69]  The Senate, however, rejected the proposal (for reasons not provided on the public record), id., at 1116, and the House acceded to the deletion.
+
+															Those who claim that this episode supports Smith argue that the House would not have found it necessary to include this proviso in the
+ 
+Second Amendment if it had thought that the Free Exercise Clause already protected conscientious objectors from conscription, Muñoz, Original Meaning 1120, but that conclusion is unfounded.  Those who favored Madison’s language might have thought it necessary, not because the free-exercise right never required religious exemptions but because they feared that exemption from military service would be held to fall into the free-exercise right’s carveout for conduct that threatens public safety.[70]  And of course, it could be argued that the willingness of the House to constitutionalize this exemption despite its potential effect on national security shows the depth of the Members’ commitment to the concept of religious exemptions.
+
+															As for the Senate’s rejection of the proviso, we have often warned against drawing inferences from Congress’s failure to adopt a legislative proposal.  See Schneidewind v. ANR Pipeline Co.,
+
+485 U.S. 293, 306 (1988) (“This Court generally is reluctant to draw inferences from Congress’ failure to act”); Brecht v. Abrahamson,
+
+507 U.S. 619, 632–633 (1993) (collecting cases).  And in this instance, there are many possible explanations for what happened in the Senate.  The rejection of the proviso could have been due to a general objection to religious exemptions, but it could also have been based on any of the following grounds: opposition to this particular exemption, the belief that conscientious objectors were already protected by the Free Exercise Clause, a belief that military service fell within the public safety carveout, or the view that Congress should be able to decide whether to grant or withhold such exemptions based on its assessment of what national security required at particular times.
+
+															*  *  *
+
+															In sum, based on the text of the Free Exercise Clause and evidence about the original understanding of the free-exercise right, the case for Smith fails to overcome the more natural reading of the text.  Indeed, the case against Smith is very convincing.
+
+															V
+
+															That conclusion cannot end our analysis.  “We will not overturn a past decision unless there are strong grounds for doing so,” Janus v. State, County, and Municipal Employees, 585 U. S. ___, ___ (2018) (slip op., at 34), but at the same time, stare decisis is “not an inexorable command.”  Ibid. (internal quotation marks omitted).  It “is at its weakest when we interpret the Constitution because our interpretation can be altered only by constitutional amendment or by overruling our prior decisions.”  Agostini v. Felton,
+
+521 U.S. 203, 235 (1997).  And it applies with “perhaps least force of all to decisions that wrongly denied
+ 
+First Amendment rights.”  Janus, 585 U. S., at ___ (slip op., at 34); see also Federal Election Comm’n v. Wisconsin Right to Life, Inc.,
+
+551 U.S. 449, 500 (2007) (Scalia, J., concurring in part and concurring in judgment) (“This Court has not hesitated to overrule decisions offensive to the
+ 
+First Amendment (a fixed star in our constitutional constellation, if there is one)” (internal quotation marks omitted)); Citizens United v. Federal Election Comm’n,
+
+558 U.S. 310, 365 (2010) (overruling Austin v. Michigan Chamber of Commerce,
+
+494 U.S. 652 (1990)); West Virginia Bd. of Ed. v. Barnette,
+
+319 U.S. 624, 642 (1943) (overruling Minersville School Dist. v. Gobitis,
+
+310 U.S. 586 (1940)).
+
+															In assessing whether to overrule a past decision that appears to be incorrect, we have considered a variety of factors, and four of those weigh strongly against Smith: its reasoning; its consistency with other decisions; the workability of the rule that it established; and developments since the decision was handed down.  See Janus, 585 U. S., at ___–___ (slip op., at 34–35).  No relevant factor, including reliance, weighs in Smith’s favor.
+
+															A
+
+															Smith’s reasoning.  As explained in detail above, Smith is a methodological outlier.  It ignored the “normal and ordinary” meaning of the constitutional text, see Heller, 554 U. S., at 576, and it made no real effort to explore the understanding of the free-exercise right at the time of the
+ 
+First Amendment’s adoption.  And the Court adopted its reading of the Free Exercise Clause with no briefing on the issue from the parties or amici.  Laycock, 8 J. L. & Religion, at 101.
+
+															Then there is Smith’s treatment of precedent.  It looked for precedential support in strange places, and the many precedents that stood in its way received remarkably rough treatment.
+
+															Looking for a case that had endorsed its no-exemptions view, Smith turned to Gobitis, 310 U. S., at 586, a decision that Justice Scalia himself later acknowledged was “erroneous,” Wisconsin Right to Life, Inc., 551 U. S., at 500–501 (opinion concurring in part).  William Gobitas,[71] a 10-year-old fifth grader, and his 12-year-old sister Lillian refused to salute the flag during the Pledge of Allegiance because, along with other Jehovah’s Witnesses, they thought the salute constituted idolatry.  310 U. S., at 591–592.[72]  William’s “teacher tried to force his arm up, but William held on to his pocket and successfully resisted.”[73]  The Gobitas children were expelled from school, and the family grocery was boycotted.[74]
+
+															This Court upheld the children’s expulsion because, in ringing rhetoric quoted by Smith, “[c]onscientious scruples have not, in the course of the long struggle for religious toleration, relieved the individual from obedience to a general law not aimed at the promotion or restriction of religious beliefs.”  310 U. S., at 594; see also Smith, 494 U. S., at 879 (quoting this passage).  This declaration was overblown when issued in 1940.  (As noted, many religious exemptions had been granted by legislative bodies, and the 1940 statute instituting the peacetime draft continued that tradition by exempting conscientious objectors.  Selective Training and Service Act,
+
+54Stat.
+885,
+889.)  By 1990, when Smith was handed down, the pronouncement flew in the face of nearly 40 years of Supreme Court precedent.
+
+															But even if all that is put aside, Smith’s recourse to Gobitis was surprising because the decision was overruled just three years later when three of the Justices in the majority had second thoughts.  See Barnette,
+
+319 U.S. 642; id., at 643–644 (Black and Douglas, JJ., concurring); id., at 644–646 (Murphy, J., concurring).  Turning Gobitis’s words on their head, Barnette held that students with religious objections to saluting the flag were indeed “relieved . . . from obedience to a general [rule] not aimed at the promotion or restriction of religious beliefs.”  Gobitis, 310 U. S., at 594.
+
+															After reviving Gobitis’s anti-exemption rhetoric, Smith turned to Reynolds v. United States,
+
+98 U.S. 145, an 1879 decision upholding the polygamy conviction of a member of the Church of Jesus Christ of Latter-day Saints.  Unlike Gobitis, Reynolds at least had not been overruled,[75] but the decision was not based on anything like Smith’s interpretation of the Free Exercise Clause.  It rested primarily on the proposition that the Free Exercise Clause protects beliefs, not conduct.  98 U. S., at 166–167.  The Court had repudiated that distinction a half century before Smith was decided.  See Cantwell, 310 U. S., at 303–304; Murdock v. Pennsylvania,
+
+319 U.S. 105, 110–111, 117 (1943).  And Smith itself agreed!  See 494 U. S., at 877.
+
+															The remaining pre-Sherbert cases cited by Smith actually cut against its interpretation.  None was based on the rule that Smith adopted.  Although these decisions ended up denying exemptions, they did so on other grounds.  In Prince v. Massachusetts,
+
+321 U.S. 158 (1944), where a Jehovah’s Witness who enlisted a child to distribute religious literature was convicted for violating a state child labor law, the decision was based on the Court’s assessment of the strength of the State’s interest.  Id., at 159–160, 162, 169–170; see also Yoder, 406 U. S., at 230–231 (describing the Prince Court’s rationale).
+
+															In Braunfeld v. Brown,
+
+366 U.S. 599, 601, 609 (1961) (plurality opinion), which rejected a Jewish merchant’s challenge to Pennsylvania’s Sunday closing laws, the Court balanced the competing interests.  The Court attached diminished weight to the burden imposed by the law (because it did not require work on Saturday), id., at 606,[76] and on the other side of the balance, the Court accepted the Commonwealth’s view that the public welfare was served by providing a uniform day of rest, id., at 608–609; see Sherbert, 374 U. S., at 408–409 (discussing Braunfeld).
+
+															When Smith came to post-Sherbert cases, the picture did not improve.  First, in order to place Sherbert, Hobbie, and Thomas in a special category reserved for cases involving unemployment compensation, an inventive transformation was required.  None of those opinions contained a hint that they were limited in that way.  And since Smith itself involved the award of unemployment compensation benefits under a scheme that allowed individualized exemptions, it is hard to see why that case did not fall into the same category.
+
+															The Court tried to escape this problem by framing Alfred Smith’s and Galen Black’s free-exercise claims as requests for exemptions from the Oregon law criminalizing the possession of peyote, see 494 U. S., at 876, but neither Smith nor Black was prosecuted for that offense even though the State was well aware of what they had done.  The State had the discretion to decline prosecution based on the facts of particular cases, and that is presumably what it did regarding Smith and Black.  Why this was not sufficient to bring the case within Smith’s rule about individualized exemptions is unclear.  See McConnell, Free Exercise Revisionism 1124.
+
+															Having pigeon-holed Sherbert, Hobbie, and Thomas as unemployment compensation decisions, Smith still faced problems.  For one thing, the Court had previously applied the Sherbert test in many cases not involving unemployment compensation, including Hernandez v. Commissioner,
+
+490 U.S. 680 (1989) (disallowance of tax deduction); Lee, 
+
+455 U.S. 252 (payment of taxes); and Gillette, 
+401 U.S. 437 (denial of conscientious objector status to person with religious objection to a particular war).  To get these cases out of the way, Smith claimed that, because they ultimately found no free-exercise violations, they merely “purported to apply the Sherbert test.”  494 U. S., at 883 (emphasis added).
+
+															This was a curious observation.  In all those cases, the Court invoked the Sherbert test but found that it did not require relief.  See Hernandez, 490 U. S., at 699; Lee, 455 U. S., at 257–260; Gillette, 401 U. S., at 462.  Was the Smith Court questioning the sincerity of these earlier opinions?  If not, then in what sense did those decisions merely “purport” to apply Sherbert?
+
+															Finally, having swept all these cases from the board, Smith still faced at least one big troublesome precedent: Yoder.  Yoder not only applied the Sherbert test but held that the Free Exercise Clause required an exemption totally unrelated to unemployment benefits.  406 U. S., at 220–221, 236.  To dispose of Yoder, Smith was forced to invent yet another special category of cases, those involving “hybrid-rights” claims.  Yoder fell into this category because it implicated both the Amish parents’ free-exercise claim and a parental-rights claim stemming from Pierce v. Society of Sisters,
+
+268 U.S. 510 (1925).  See Smith, 494 U. S., at 881.  And in such hybrid cases, Smith held, the Sherbert test survived.  See 494 U. S., at 881–882.
+
+															It is hard to see the justification for this curious doctrine.  The idea seems to be that if two independently insufficient constitutional claims join forces they may merge into a single valid hybrid claim, but surely the rule cannot be that asserting two invalid claims, no matter how weak, is always enough.  So perhaps the doctrine requires the assignment of a numerical score to each claim.  If a passing grade is 70 and a party advances a free-speech claim that earns a grade of 40 and a free-exercise claim that merits a grade of 31, the result would be a (barely) sufficient hybrid claim.  Such a scheme is obviously unworkable and has never been recognized outside of Smith.
+
+															And then there is the problem that the hybrid-rights exception would largely swallow up Smith’s general rule.  A great many claims for religious exemptions can easily be understood as hybrid free-exercise/free-speech claims.  Take the claim in Smith itself.  To members of the Native American Church, the ingestion of peyote during a religious ceremony is a sacrament.  When Smith and Black participated in this sacrament, weren’t they engaging in a form of expressive conduct?  Their ingestion of peyote “communicate[d], in a rather dramatic way, [their] faith in the tenets of the Native American Church,” and the State’s prohibition of that practice “interfered with their ability to communicate this message” in violation of the Free Speech Clause.  McConnell, Free Exercise Revisionism 1122.  And, “if a hybrid claim is one in which a litigant would actually obtain an exemption from a formally neutral, generally applicable law under another constitutional provision, then there would have been no reason for the Court in [the so-called] hybrid cases to have mentioned the Free Exercise Clause at all.”  Lukumi, 508 U. S., at 566–567 (opinion of Souter, J.); see also Laycock, 8 J. L. & Religion, at 106 (noting that Smith “reduces the free exercise clause to a cautious redundancy, relevant only to ‘hybrid’ cases”).  It is telling that this Court has never once accepted a “hybrid rights” claim in the more than three decades since Smith.
+
+															In addition to all these maneuvers—creating special categories for unemployment compensation cases, cases involving individualized exemptions, and hybrid-rights cases—Smith ignored the multiple occasions when the Court had directly repudiated the very rule that Smith adopted.  See supra, at 13–14.
+
+															Smith’s rough treatment of prior decisions diminishes its own status as a precedent.
+
+															B
+
+															 Consistency with other precedents.  Smith is also discordant with other precedents.  Smith did not overrule Sherbert or any of the other cases that built on Sherbert from 1963 to 1990, and for the reasons just discussed, Smith is tough to harmonize with those precedents.
+
+															The same is true about more recent decisions.  In Hosanna-Tabor Evangelical Lutheran Church and School v. EEOC,
+
+565 U.S. 171 (2012), the Court essentially held that the
+ 
+First Amendment entitled a religious school to a special exemption from the requirements of the Americans with Disabilities Act of 1990 (ADA),
+
+104Stat.
+327,
+
+42 U. S. C. §12101 et seq.  When the school discharged a teacher, she claimed that she had been terminated because of disability.  565 U. S., at 178–179.  Since the school considered her a “minister” and she provided religious instruction for her students, the school argued that her discharge fell within the so-called “ministerial exception” to generally applicable employment laws.  Id., at 180.  The Equal Employment Opportunity Commission maintained that Smith precluded recognition of this exception because “the ADA’s prohibition on retaliation, like Oregon’s prohibition on peyote use, is a valid and neutral law of general applicability.”  Id., at 190; see id., at 189–190.  We nevertheless held that the exception applied.  Id., at 190.[77]  Similarly, in Our Lady of Guadalupe School v. Morrissey-Berru, 591 U. S. ___, ___–___ (2020) (slip op., at 21–22), we found that other religious schools were entitled to similar exemptions from both the ADA and the Age Discrimination in Employment Act of 1967.
+
+															There is also tension between Smith and our opinion in Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Comm’n, 584 U. S. ___ (2018).  In that case, we observed that “[w]hen it comes to weddings, it can be assumed that a member of the clergy who objects to gay marriage on moral and religious grounds could not be compelled to perform the ceremony without denial of his or her right to the free exercise of religion.”  Id., at ___ (slip op., at 10).  The clear import of this observation is that such a member of the clergy would be entitled to a religious exemption from a state law restricting the authority to perform a state-recognized marriage to individuals who are willing to officiate both opposite-sex and same-sex weddings.
+
+															Other inconsistencies exist.  Smith declared that “a private right to ignore generally applicable laws” would be a “constitutional anomaly,” 494 U. S., at 886, but this Court has often permitted exemptions from generally applicable laws in
+ 
+First Amendment cases.  For instance, in Boy Scouts of America v. Dale,
+
+530 U.S. 640, 656 (2000), we granted the Boy Scouts an exemption from an otherwise generally applicable state public accommodations law.  In Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, Inc.,
+
+515 U.S. 557, 573 (1995), parade sponsors’ speech was exempted from the requirements of a similar law.
+
+															The granting of an exemption from a generally applicable law is tantamount to a holding that a law is unconstitutional as applied to a particular set of facts, see Barclay & Rienzi, Constitutional Anomalies or As-Applied Challenges? A Defense of Religious Exemptions, 59 Boston College L. Rev. 1595, 1611 (2018), and cases holding generally applicable laws unconstitutional as applied are unremarkable.  “[T]he normal rule is that partial, rather than facial, invalidation is the required course, such that a statute may . . . be declared invalid to the extent that it reaches too far, but otherwise left intact.”  Ayotte v. Planned Parenthood of Northern New Eng.,
+
+546 U.S. 320, 329 (2006) (internal quotation marks omitted; emphasis added).  Thus, in Brown v. Socialist Workers ’74 Campaign Comm. (Ohio),
+
+459 U.S. 87 (1982), we held that a law requiring disclosure of campaign contributions and expenditures could not be “constitutionally applied” to a minor party whose members and contributors would face “threats, harassment or reprisals.” Id., at 101–102.  Cf. NAACP v. Alabama ex rel. Patterson,
+
+357 U.S. 449, 466 (1958) (exempting the NAACP from a disclosure order entered to purportedly investigate compliance with a generally applicable statute).  In Hustler Magazine, Inc. v. Falwell,
+
+485 U.S. 46, 56 (1988), and Snyder v. Phelps,
+
+562 U.S. 443, 459 (2011), the Court held that an established and generally applicable tort claim (the intentional infliction of emotional distress) could not constitutionally be applied to the particular expression at issue.  Similarly, breach-of-the-peace laws, although generally valid, have been held to violate the Free Speech Clause under certain circumstances.  See Cohen v. California,
+
+403 U.S. 15, 16, 26 (1971); Cantwell, 310 U. S., at 300, 311; see also Bartnicki v. Vopper,
+
+532 U.S. 514, 517, 535 (2001) (respondents not liable under law prohibiting disclosure of illegally intercepted communications because their speech was protected by the
+ 
+First Amendment); United States v. Treasury Employees,
+
+513 U.S. 454, 477 (1995) (respondents not subject to the honoraria ban because it would violate their
+ 
+First Amendment rights); United States v. Grace,
+
+461 U.S. 171, 175, 179, 183 (1983) (respondents engaging in expressive conduct on public sidewalks not subject to law generally regulating conduct on Supreme Court grounds).
+
+															Finally, Smith’s treatment of the free-exercise right is fundamentally at odds with how we usually think about liberties guaranteed by the Bill of Rights.  As Justice Jackson famously put it, “[t]he very purpose of a Bill of Rights was to withdraw certain subjects from the vicissitudes of political controversy, to place them beyond the reach of majorities and officials.”  Barnette, 319 U. S., at 638.  Smith, by contrast, held that protection of religious liberty was better left to the political process than to courts.  494 U. S., at 890.  In Smith’s view, the Nation simply could not “afford the luxury” of protecting the free exercise of religion from generally applicable laws.  Id., at 888.  Under this interpretation, the free exercise of religion does not receive the judicial protection afforded to other, favored rights.
+
+															C
+
+															Workability.  One of Smith’s supposed virtues was ease of application, but things have not turned out that way.  Instead, at least four serious problems have arisen and continue to plague courts when called upon to apply Smith.
+
+															1
+
+															“Hybrid-rights” cases.  The “hybrid rights” exception, which was essential to distinguish Yoder, has baffled the lower courts.  They are divided into at least three camps.  See Combs v. Homer-Center School Dist., 540 F.3d 231, 244–247 (CA3 2008) (describing Circuit split).  Some courts have taken the extraordinary step of openly refusing to follow this part of Smith’s interpretation.  The Sixth Circuit was remarkably blunt: “[H]old[ing] that the legal standard under the Free Exercise Clause depends on whether a free-exercise claim is coupled with other constitutional rights . . . is completely illogical.”  Kissinger v. Board of Trustees of Ohio State Univ., 5 F.3d 177, 180 (1993).  The Second and Third Circuits have taken a similar approach.  See Leebaert v. Harrington, 332 F.3d 134, 144 (CA2 2003) (“We . . . can think of no good reason for the standard of review to vary simply with the number of constitutional rights that the plaintiff asserts have been violated”); Knight v. Connecticut Dept. of Pub. Health, 275 F.3d 156, 167 (CA2 2001); Combs, 540 F. 3d, at 247 (“Until the Supreme Court provides direction, we believe the hybrid-rights theory to be dicta”).
+
+															A second camp holds that the hybrid-rights exception applies only when a free-exercise claim is joined with some other independently viable claim.  See Archdiocese of Washington v. WMATA, 897 F.3d 314, 331 (CADC 2018) (A “hybrid rights claim . . . requires independently viable free speech and free exercise claims”); Gary S. v. Manchester School Dist., 374 F.3d 15, 19 (CA1 2004) (adopting District Court’s reasoning that “the [hybrid-rights] exception can be invoked only if the plaintiff has joined a free exercise challenge with another independently viable constitutional claim,” 241 F. Supp. 2d 111, 121 (NH 2003)); Brown v. Hot, Sexy and Safer Productions, 68 F.3d 525, 539 (CA1 1995).  But this approach essentially makes the free-exercise claim irrelevant.  See Axson-Flynn v. Johnson, 356 F.3d 1277, 1296–1297 (CA10 2004) (“[I]t makes no sense to adopt a strict standard that essentially requires a successful companion claim because such a test would make the free exercise claim unnecessary”); see also Lukumi, 508 U. S., at 567 (opinion of Souter, J.) (making the same point).
+
+															The third group requires that the non-free-exercise claim be “colorable.”  See Cornerstone Christian Schools v. University Interscholastic League, 563 F.3d 127, 136, n. 8 (CA5 2009); San Jose Christian College v. Morgan Hill, 360 F.3d 1024, 1032–1033 (CA9 2004); Axson-Flynn, 356 F. 3d, at 1295–1297.  But what that means is obscure.  See, e.g., id., at 1295 (referring to “helpful” analogies such as the “ ‘likelihood of success on the merits’ standard for preliminary injunctions” or the pre-Antiterrorism and Effective Death Penalty Act standard for obtaining an evidentiary hearing, i.e., a “ ‘colorable showing of factual innocence’ ”).[78]
+
+															It is rare to encounter a holding of this Court that has so thoroughly stymied or elicited such open derision from the Courts of Appeals.
+
+															2
+
+															Rules that “target” religion.  Post-Smith cases have also struggled with the task of determining whether a purportedly neutral rule “targets” religious exercise or has the restriction of religious exercise as its “object.”  Lukumi, 508 U. S., at 534; Smith, 494 U. S., at 878.  A threshold question is whether “targeting” calls for an objective or subjective inquiry.  Must “targeting” be assessed based solely on the terms of the relevant rule or rules?  Or can evidence of the rulemakers’ motivation be taken into account?  If subjective motivations may be considered, does it matter whether the challenged state action is an adjudication, the promulgation of a rule, or the enactment of legislation?  Should courts consider the motivations of only the officials who took the challenged action, or may they also take into account comments by superiors and others in a position of influence?  And what degree of hostility to religion or a religious group is required to prove “targeting”?
+
+															The genesis of this problem was Smith’s holding that a rule is not neutral “if prohibiting the exercise of religion” is its “object.”  494 U. S., at 878.  Smith did not elaborate on what that meant, and later in Lukumi, which concerned city ordinances that burdened the practice of Santeria, 508 U. S., at 525–528, Justices in the Smith majority adopted different interpretations.  Justice Scalia and Chief Justice Rehnquist took the position that the “object” of a rule must be determined by its terms and that evidence of the rulemakers’ motivation should not be considered.  508 U. S., at 557–559.  This interpretation had the disadvantage of allowing skillful rulemakers to target religious exercise by devising a facially neutral rule that applies to both the targeted religious conduct and a slice of secular conduct that can be burdened without eliciting unacceptable opposition from those whose interests are affected.
+
+															The alternative to this approach takes courts into the difficult business of ascertaining the subjective motivations of rulemakers.  In Lukumi, Justices Kennedy and Stevens took that path and relied on numerous statements by council members showing that their object was to ban the practice of Santeria within the city’s borders.  Id., at 540–542.  Thus, Lukumi left the meaning of a rule’s “object” up in the air.
+
+															When the issue returned in Masterpiece Cakeshop, the question was only partially resolved.  Holding that the Colorado Civil Rights Commission violated the free-exercise rights of a baker who refused for religious reasons to create a cake for a same-sex wedding, the Court pointed to disparaging statements made by commission members, and the Court noted that these comments, “by an adjudicatory body deciding a particular case,” “were made in a very different context” from the remarks by the council members in Lukumi.  Masterpiece Cakeshop, 584 U. S., at ___ (slip op., at 14).  That is as far as this Court’s decisions have gone on the question of targeting, and thus many important questions remain open.
+
+															The present case highlights two—specifically, which officials’ motivations are relevant and what degree of disparagement must be shown to establish unconstitutional targeting.  In Masterpiece Cakeshop, the commissioners’ statements—comparing the baker’s actions to the Holocaust and slavery and suggesting that his beliefs were just an excuse for bigotry—went too far.  Id., at ___–___ (slip op., at 12–14).  But what about the comments of Philadelphia officials in this case?  The city council labeled CSS’s policy “discrimination that occurs under the guise of religious freedom.”  App. to Pet. for Cert. 147a.  The mayor had said that the Archbishop’s actions were not “Christian,” and he once called on the Pope “to kick some ass here.”  Id., at 173a, 177a–178a.  In addition, the commissioner of the Department of Human Services (DHS), who serves at the mayor’s pleasure,[79] disparaged CSS’s policy as out of date and out of touch with Pope Francis’s teachings.[80]
+
+															The Third Circuit found this evidence insufficient.  Although the mayor conferred with the DHS commissioner both before and after her meeting with CSS representatives, the mayor’s remarks were disregarded because there was no evidence “that he played a direct role, or even a significant role, in the process.”  922 F. 3d, at 157 (emphasis added).  The city council’s suggestion that CSS’s religious liberty claim was a “guise” for discrimination was found to “fal[l] into [a] grey zone,” and the commissioner’s debate with a CSS representative about up-to-date Catholic teaching, which “some might think . . . improper” “if taken out of context” was “best viewed as an effort to reach common ground with [CSS] by appealing to an authority within their shared religious tradition.”  Ibid.  One may agree or disagree with the Third Circuit’s characterization and evaluation of the statements of the City officials, but the court’s analysis highlights the extremely impressionistic inquiry that Smith’s targeting requirement may entail.
+
+															Confusion and disagreement about “targeting” have surfaced in other cases.  Recently in Roman Catholic Diocese of Brooklyn v. Cuomo, 592 U. S. ___ (2020) (per curiam), there were conflicting views about comments made by the Governor of New York.  On the day before he severely restricted religious services in Brooklyn, the Governor “said that if the ‘ultra-Orthodox [Jewish] community’ would not agree to enforce the rules, ‘then we’ll close the institutions down.’ ”  Agudath Israel of America v. Cuomo, 980 F.3d 222, 229 (CA2 2020)  (Park, J., dissenting).  A dissenting judge on the Second Circuit thought the Governor had crossed the line, ibid., and we ultimately enjoined enforcement of the rules, Roman Catholic Diocese, 592 U. S., at ___.  But two Justices who dissented found the Governor’s comments inconsequential.  Id., at ___–___ (slip op., at 4–5) (opinion of Sotomayor, J., joined by Kagan, J.).
+
+															In Stormans, Inc. v. Wiesman, 579 U. S. ___ (2016) (denying certiorari), there was similar disagreement.  That case featured strong evidence that pro-life Christian pharmacists who refused to dispense emergency contraceptives were the object of a new rule requiring every pharmacy to dispense every Food and Drug Administration-approved drug.  A primary drafter of the rule all but admitted that the rule was aimed at these pharmacists, and the Governor took unusual steps to secure adoption of the rule.  Stormans, Inc. v. Selecky, 854 F. Supp. 2d 925, 937–943 (WD Wash. 2012).  After a 12-day trial, the District Court found that Christian pharmacists had been targeted, id., at 966, 987, but the Ninth Circuit refused to accept that finding, Stormans, Inc., 794 F.3d 1064, 1079 (2015).  Compare Stormans, Inc., 579 U. S., at ___–___, and n. 3 (Alito, J., joined by Roberts, C. J., and Thomas, J., dissenting from denial of certiorari) (slip op., at 8–9, and n. 3) (questioning Ninth Circuit’s finding).
+
+															Decisions of the lower courts on the issue of targeting remain in disarray.  Compare F. F. v. State, 66 Misc. 3d 467, 479–482, 114 N. Y. S. 3d 852, 865–867 (2019) (declining to consider individual legislators’ comments); Tenafly Eruv Assn., Inc. v. Tenafly, 309 F.3d 144, 168, n. 30 (CA3 2002) (declining to reach issue), with Commack Self-Service Kosher Meats, Inc. v. Hooker, 680 F.3d 194, 211 (CA2 2012) (considering legislative history); St. John’s United Church of Christ v. Chicago, 502 F.3d 616, 633 (CA7 2007) (“[W]e must look at . . . the ‘historical background of the decision under challenge’ ” (quoting Lukumi, 508 U. S., at 540)); Children’s Healthcare Is a Legal Duty, Inc. v. Min De Parle, 212 F.3d 1084, 1090 (CA8 2000) (targeting can be evidenced by legislative history).
+
+															3
+
+															The nature and scope of exemptions.  There is confusion about the meaning of Smith’s holding on exemptions from generally applicable laws.  Some decisions apply this special rule if multiple secular exemptions are granted.  See, e.g., Horen v. Commonwealth, 23 Va. App. 735, 743–744, 479 S.E.2d 553, 557 (1997); Rader v. Johnston, 924 F. Supp. 1540, 1551–1553 (Neb. 1996).  Others conclude that even one secular exemption is enough.  See, e.g., Midrash Sephardi, Inc. v. Surfside, 366 F.3d 1214, 1234–1235 (CA11 2004); Fraternal Order of Police Newark Lodge No. 12 v. Newark, 170 F.3d 359, 365 (CA3 1999).  And still others have applied the rule where the law, although allowing no exemptions on its face, was widely unenforced in cases involving secular conduct.  See, e.g., Tenafly Eruv Assn., 309 F. 3d, at 167–168.
+
+															4
+
+															Identifying appropriate comparators.  To determine whether a law provides equal treatment for secular and religious conduct, two steps are required.  First, a court must identify the secular conduct with which the religious conduct is to be compared.  Second, the court must determine whether the State’s reasons for regulating the religious conduct apply with equal force to the secular conduct with which it is compared.  See Lukumi, 508 U. S., at 543.  In Smith, this inquiry undoubtedly seemed straightforward: The secular conduct and the religious conduct prohibited by the Oregon criminal statute were identical.  But things are not always that simple.
+
+															Cases involving rules designed to slow the spread of COVID–19 have driven that point home.  State and local rules adopted for this purpose have typically imposed different restrictions for different categories of activities.  Sometimes religious services have been placed in a category with certain secular activities, and sometimes religious services have been given a separate category of their own.  To determine whether COVID–19 rules provided neutral treatment for religious and secular conduct, it has been necessary to compare the restrictions on religious services with the restrictions on secular activities that present a comparable risk of spreading the virus, and identifying the secular activities that should be used for comparison has been hotly contested.
+
+															In South Bay United Pentecostal Church v. Newsom, 590 U. S. ___ (2020), where the Court refused to enjoin restrictions on religious services, The Chief Justice’s concurrence likened religious services to lectures, concerts, movies, sports events, and theatrical performances.  Id., at ___ (slip op., at 2).  The dissenters, on the other hand, focused on “supermarkets, restaurants, factories, and offices.”  Id., at ___ (opinion of Kavanaugh, J., joined by Thomas and Gorsuch, JJ.) (slip op., at 3).
+
+															In Calvary Chapel Dayton Valley v. Sisolak, 591 U. S. ___ (2020), Nevada defended a rule imposing severe limits on attendance at religious services and argued that houses of worship should be compared with “movie theaters, museums, art galleries, zoos, aquariums, trade schools, and technical schools.”  Response to Emergency Application for Injunction, O. T. 2019, No. 19A1070, pp. 7, 14–15.  Members of this Court who would have enjoined the Nevada rule looked to the State’s more generous rules for casinos, bowling alleys, and fitness facilities.  591 U. S., at ___–___ (Alito, J., joined by Thomas and Kavanaugh, JJ., dissenting) (slip op., at 6–7).
+
+															In Roman Catholic Diocese of Brooklyn, 592 U. S. ___, Justices in the majority compared houses of worship with large retail establishments, factories, schools, liquor stores, bicycle repair shops, and pet shops, id., at ___ (slip op., at 3); id., at ___ (Gorsuch, J., concurring) (slip op., at 2), id., at ___ (Kavanaugh, J., concurring) (slip op., at 2), while dissenters cited theaters and concert halls, id., at ___ (opinion of Sotomayor, J., joined by Kagan, J.) (slip op., at 2).
+
+															In Danville Christian Academy, Inc. v. Beshear, 592 U. S. ___ (2020), the District Court enjoined enforcement of an executive order that compelled the closing of a religiously affiliated school, reasoning that the State permitted pre-schools, colleges, and universities to stay open and also allowed attendance at concerts and lectures.  Danville Christian Academy, Inc. v. Beshear, ___ F. Supp. 3d ___, 2020 WL 6954650, *4 (ED Ky., Nov. 25, 2020).  The Sixth Circuit reversed, concluding that the rule was neutral and generally applicable because it applied to all elementary and secondary schools, whether secular or religious.  Kentucky ex rel. Danville Christian Academy, Inc. v. Beshear, 981 F.3d 505, 509 (2020).
+
+															Much of Smith’s initial appeal was likely its apparent simplicity.  Smith seemed to offer a relatively simple and clear-cut rule that would be easy to apply.  Experience has shown otherwise.
+
+															D
+
+															Subsequent developments.  Developments since Smith provide additional reasons for changing course.  The Smith majority thought that adherence to Sherbert would invite “anarchy,” 494 U. S., at 888, but experience has shown that this fear was not well founded.  Both RFRA and RLUIPA impose essentially the same requirements as Sherbert, and we have observed that the courts are well “up to the task” of applying that test.  Gonzales v. O Centro Espírita Beneficente União do Vegetal,
+
+546 U.S. 418, 436 (2006).  See also Cutter v. Wilkinson,
+
+544 U.S. 709, 722 (2005) (noting “no cause to believe” the test could not be “applied in an appropriately balanced way”).
+
+															Another significant development is the subsequent profusion of studies on the original meaning of the Free Exercise Clause.  When Smith was decided, the available scholarship was thin, and the Court received no briefing on the subject.  Since then, scholars have explored the subject in great depth.[81]
+
+															*  *  *
+
+															Multiple factors strongly favor overruling Smith.  Are there countervailing factors?
+
+															E
+
+															None is apparent.  Reliance is often the strongest factor favoring the retention of a challenged precedent, but no strong reliance interests are cited in any of the numerous briefs urging us to preserve Smith.  Indeed, the term is rarely even mentioned.
+
+															All that the City has to say on the subject is that overruling Smith would cause “substantial regulatory . . . disruption” by displacing RFRA, RLUIPA, and related state laws, Brief for City Respondents 51 (internal quotation marks omitted), but this is a baffling argument.  How would overruling Smith disrupt the operation of laws that were enacted to abrogate Smith?
+
+															One of the City’s amici, the New York State Bar Association, offers a different reliance argument.  It claims that some individuals, relying on Smith, have moved to jurisdictions with anti-discrimination laws that do not permit religious exemptions.  Brief for New York State Bar Association as Amicus Curiae 11.  The bar association does not cite any actual examples of individuals who fall into this category, and there is reason to doubt that many actually exist.
+
+															For the hypothesized course of conduct to make sense, all of the following conditions would have to be met.  First, it would be necessary for the individuals in question to believe that a religiously motivated party in the jurisdiction they left or avoided might engage in conduct that harmed them.  Second, this conduct would have to be conduct not already protected by Smith in that it (a) did not violate a generally applicable state law, (b) that law did not allow individual exemptions, and (c) there was insufficient proof of religious targeting.  Third, the feared conduct would have to fall outside the scope of RLUIPA.  Fourth, the conduct, although not protected by Smith, would have to be otherwise permitted by local law, for example, through a state version of RFRA.  Fifth, this fear of harm at the hands of a religiously motivated actor would have to be a but-for cause of the decision to move.  Perhaps there are individuals who fall into the category that the bar association hypothesizes, but we should not allow violations of the Free Exercise Clause in perpetuity based on such speculation.
+
+															Indeed, even if more substantial reliance could be shown, Smith’s dubious standing would weigh against giving this factor too much weight.  Smith has been embattled since the day it was decided, and calls for its reexamination have intensified in recent years.  See Masterpiece Cakeshop, 584 U. S., at ___ (Gorsuch, J., joined by Alito, J., concurring) (slip op., at 1); Kennedy, 586 U. S., at ___–___ (Alito, J., joined by Thomas, Gorsuch, and Kavanaugh, JJ., concurring in denial of certiorari) (slip op., at 5–6); City of Boerne 521 U. S., at 566  (Breyer, J., dissenting) (“[T]he Court should direct the parties to brief the question whether [Smith] was correctly decided”); id., at 565 (O’Connor, J., joined by Breyer, J., dissenting) (“[I]t is essential for the Court to reconsider its holding in Smith”); Lukumi, 508 U. S., at 559 (Souter, J., concurring in part and concurring in judgment) (“[I]n a case presenting the issue, the Court should reexamine the rule Smith declared”).  Thus, parties have long been on notice that the decision might soon be reconsidered.  See Janus, 585 U. S., at ___ (slip op., at 45).
+
+															*  *  *
+
+															Smith was wrongly decided.  As long as it remains on the books, it threatens a fundamental freedom.  And while precedent should not lightly be cast aside, the Court’s error in Smith should now be corrected.
+
+															VI
+
+															A
+
+															If Smith is overruled, what legal standard should be applied in this case?  The answer that comes most readily to mind is the standard that Smith replaced: A law that imposes a substantial burden on religious exercise can be sustained only if it is narrowly tailored to serve a compelling government interest.
+
+															Whether this test should be rephrased or supplemented with specific rules is a question that need not be resolved here because Philadelphia’s ouster of CSS from foster care work simply does not further any interest that can properly be protected in this case.  As noted, CSS’s policy has not hindered any same-sex couples from becoming foster parents, and there is no threat that it will do so in the future.
+
+															CSS’s policy has only one effect: It expresses the idea that same-sex couples should not be foster parents because only a man and a woman should marry.  Many people today find this idea not only objectionable but hurtful.  Nevertheless, protecting against this form of harm is not an interest that can justify the abridgment of
+ 
+First Amendment rights.
+
+															We have covered this ground repeatedly in free speech cases.  In an open, pluralistic, self-governing society, the expression of an idea cannot be suppressed simply because some find it offensive, insulting, or even wounding.  See Matal v. Tam, 582 U. S. ___, ___–___ (2017) (slip op., at 1–2) (“Speech may not be banned on the ground that it expresses ideas that offend”); Hurley, 515 U. S., at 579 (“[T]he law . . . is not free to interfere with speech for no better reason than promoting an approved message or discouraging a disfavored one, however enlightened either purpose may strike the government”); Johnson, 491 U. S., at 414 (“If there is a bedrock principle underlying the
+ 
+First Amendment, it is that the government may not prohibit the expression of an idea simply because society finds the idea itself offensive or disagreeable”); FCC v. Pacifica Foundation,
+
+438 U.S. 726, 745 (1978) (opinion of Stevens, J.) (“[T]he fact that society may find speech offensive is not a sufficient reason for suppressing it.  Indeed, if it is the speaker’s opinion that gives offense, that consequence is a reason for according it constitutional protection”); Street v. New York,
+
+394 U.S. 576, 592 (1969) (“[T]he public expression of ideas may not be prohibited merely because the ideas are themselves offensive to some of their hearers”); Cf. Coates v. Cincinnati,
+
+402 U.S. 611, 615 (1971) (“Our decisions establish that mere public intolerance or animosity cannot be the basis for abridgment of . . . constitutional freedoms”).
+
+															The same fundamental principle applies to religious practices that give offense.  The preservation of religious freedom depends on that principle.  Many core religious beliefs are perceived as hateful by members of other religions or nonbelievers.  Proclaiming that there is only one God is offensive to polytheists, and saying that there are many gods is anathema to Jews, Christians, and Muslims.  Declaring that Jesus was the Son of God is offensive to Judaism and Islam, and stating that Jesus was not the Son of God is insulting to Christian belief.  Expressing a belief in God is nonsense to atheists, but denying the existence of God or proclaiming that religion has been a plague is infuriating to those for whom religion is all-important.
+
+															Suppressing speech—or religious practice—simply because it expresses an idea that some find hurtful is a zero-sum game.  While CSS’s ideas about marriage are likely to be objectionable to same-sex couples, lumping those who hold traditional beliefs about marriage together with racial bigots is insulting to those who retain such beliefs.  In Obergefell v. Hodges, 
+
+576 U.S. 644 (2015), the majority made a commitment.  It refused to equate traditional beliefs about marriage, which it termed “decent and honorable,” id., at 672, with racism, which is neither.  And it promised that “religions, and those who adhere to religious doctrines, may continue to advocate with utmost, sincere conviction that, by divine precepts, same-sex marriage should not be condoned.”  Id., at 679.  An open society can keep that promise while still respecting the “dignity,” “worth,” and fundamental equality of all members of the community.  Masterpiece Cakeshop, 584 U. S., at ___ (slip op., at 9).
+
+															B
+
+															One final argument must be addressed.  Philadelphia and many of its amici contend that preservation of the City’s policy is not dependent on Smith.  They argue that the City is simply asserting the right to control its own internal operations, and they analogize CSS to either a City employee or a contractor hired to perform an exclusively governmental function.
+
+															This argument mischaracterizes the relationship between CSS and the City.  The members of CSS’s staff are not City employees; the power asserted by the City goes far beyond a refusal to enter into a contract; and the function that CSS and other private foster care agencies have been performing for decades has not historically been an exclusively governmental function.  See, e.g., Leshko v. Servis, 423 F.3d 337, 343–344 (CA3 2005) (“No aspect of providing care to foster children in Pennsylvania has ever been the exclusive province of the government”); Rayburn v. Hogue, 241 F.3d 1341, 1347 (CA11 2001) (acknowledging that foster care is not traditionally an exclusive state prerogative); Milburn v. Anne Arundel Cty. Dept. of Social Servs., 871 F.2d 474, 479 (CA4 1989) (same); Malachowski v. Keene, 787 F.2d 704, 711 (CA1 1986) (same); see also Ismail v. County of Orange, 693 Fed. Appx. 507, 512 (CA9 2017) (concluding that foster parents were not state actors).  On the contrary, States and cities were latecomers to this field, and even today, they typically leave most of the work to private agencies.
+
+															The power that the City asserts is essentially the power to deny CSS a license to continue to perform work that it has carried out for decades and that religious groups have performed since time immemorial.  Therefore, the cases that provide the basis for the City’s argument—such as Garcetti v. Ceballos,
+
+547 U.S. 410 (2006), and Board of Comm’rs, Wabounsee Cty. v. Umbehr,
+
+518 U.S. 668 (1996)—are far afield.  A government cannot “reduce a group’s
+ 
+First Amendment rights by simply imposing a licensing requirement.”  National Institute of Family and Life Advocates v. Becerra, 585 U. S. ___, ___ (2018) (slip op., at 14).
+
+															*  *  *
+
+															For all these reasons, I would overrule Smith and reverse the decision below.  Philadelphia’s exclusion of CSS from foster care work violates the Free Exercise Clause, and CSS is therefore entitled to an injunction barring Philadelphia from taking such action.
+
+															After receiving more than 2,500 pages of briefing and after more than a half-year of post-argument cogitation, the Court has emitted a wisp of a decision that leaves religious liberty in a confused and vulnerable state.  Those who count on this Court to stand up for the
+ 
+First Amendment have every right to be disappointed—as am I.
+Notes
+1
+ Code of Canon Law, Canon §924 (Eng. transl. 1998). 
+
+2
+ See Law Library of Congress, Global Legal Research Center, Legal Restrictions on Religious Slaughter in Europe (Mar. 2018), www.loc.gov/law/help/religious-slaughter/religious-slaughter-europe.pdf. 
+
+3
+ Id., at 1–2. 
+
+4
+ See Frisch et al., Cultural Bias in the AAP’s 2012 Technical Report and Policy Statement on Male Circumcision, 131 Pediatrics 796, 799 (2013) (representatives of pediatric medical associations in 16 European countries and Canada recommending against circumcision because the practice “has no compelling health benefits, causes postoperative pain, can have serious long-term consequences, constitutes a violation of the United Nations’ Declaration of the Rights of the Child, and conflicts with the Hippocratic oath”). 
+
+5
+ See Initiative Measure To Be Submitted Directly to the Voters: Genital Cutting of Male Minors (Oct. 13, 2010) (online source archived at www.supremecourt.gov); see also Jewish Community Relations Council of San Francisco v. Arntz, 2012 WL 11891474, *1 (Super. Ct. San Francisco Cty., Cal., Apr. 6, 2012) (ordering that the proposed initiative be removed from the ballot because it was preempted by California law). 
+
+6
+ See 4 Encyclopaedia Judaica 730 (2d ed. 2007) (“Jewish circumcision originated, according to the biblical account, with Abraham”); The Shengold Jewish Encyclopedia 62 (3d ed. 2003) (“[Circumcision] has become a basic law among Jews.  In times of persecution, Jews risked their livesto fulfill the commandment”); B. Abramowitz, The Law of Israel: A Compilation of the Hayye Adam 206 (1897) (“It is a positive commandment that a father shall circumcise his son or that he shall appoint another Israelite to act as his agent therein”); 3 Encyclopedia of Religion 1798 (2d ed. 2005) (“Muslims agree that [circumcision] must occur before marriage and is required of male converts”); H. Gibb & J. Kramers, Shorter Encyclopaedia of Islam 254 (1953). 
+
+7
+ See Holy Bible, Deuteronomy 10:18, 16:11, 26:12–13; James 1:27. 
+
+8
+ See A. Crislip, From Monastery to Hospital: Christian Monasticism & the Transformation of Health Care in Late Antiquity 104, 111 (2005) (describing Basil of Caesarea’s use of his 4th century monastery as a “place for the nourishment of orphans,” who “lived in their own wing of the monastery,” “were provided with all the necessities of life[,] and were raised by the monastics acting as surrogate parents” (internal quotation marks omitted)). 
+
+9
+ Ransel, Orphans and Foundlings, in 3 Encyclopedia of European Social History 497, 498 (2001). 
+
+10
+ T. Hacsi, Second Home: Orphan Asylums and Poor Families in America 17 (1997). 
+
+11
+ Id., at 17–18; F. Chapell, The Great Awakening of 1740, pp. 90–91 (1903). 
+
+12
+ 2 Encylopedia of the New American Nation 477 (2006); Hacsi, Second Home, at 18. 
+
+13
+ 15 Encyclopaedia Judaica 485. 
+
+14
+ 2 Encyclopedia of Children and Childhood 639–640 (2004); Brief for Historians of Child Welfare as Amici Curiae 16–17. 
+
+15
+ Brief for Annie E. Casey Foundation et al. as Amici Curiae 4–5. 
+
+16
+ See Social Security Act, §521,
+
+49Stat.
+627,
+633; Social Security ActAmendments of 1961,
+
+75Stat.
+131. 
+
+17
+ See United States Conference of Catholic Bishops, Discrimination Against Catholic Adoption Services (2018), https://www.usccb.org/issues-and-action/religious-liberty/upload/Discrimination-against-Catholic-adoption-services.pdf. 
+
+18
+ See Brief for Petitioners 11–12 (citing Wax-Thibodeaux, “We Are Just Destroying These Kids”: The Foster Children Growing Up Inside Detention Centers, Washington Post (Dec. 30, 2019), https://www.washingtonpost.com/national/we-are-just-destroying-these-kids-the-foster-children-growing-up-inside-detention-centers/2019/12/30/97f65f3a-eaa2-11e9-9c6d-436a0df4f31d_story.html (describing the placement of foster children in emergency shelters and juvenile detention centers)); Brief in Opposition for City Respondents 4 (acknowledging 5,000 children in need of care in Philadelphia); Terruso, Philly Puts Out “Urgent” Call—300 Families Needed for Fostering, Philadelphia Inquirer (Mar. 8, 2018), https://www.inquirer.com/philly/news/foster-parents-dhs-philly-child-welfare-adoptions-20180308.html; see also Haskins, Kohomban, & Rodriguez, Keeping Up With the Caseload: How To Recruit and Retain Foster Parents, The Brookings Institution (Apr. 24, 2019), https: www.brookings.edu/blog/upfront/2019/04/24/keeping-up-with-the-caseload-how-to-recruit-and-retain-foster-parents/ (explaining that “[t]he number of children in foster care ha[d] risen for the fifth consecutive year” to nearly 443,000 in 2017 and noting that “between 30 to 50 percent of foster families step down each year”); Adams, Foster Care Crisis: More Kids Are Entering, but Fewer Families Are Willing To Take Them In, NBC News (Dec. 30, 2020), https://www.nbcnews.com/news/nbcblk/foster-care-crisis-more-kids-are-entering-fewer-families-are-n1252450 (explaining how the COVID–19 pandemic has overwhelmed the United States’ foster care system); Satija, For Troubled Foster Kids in Houston, Sleeping in Offices Is “Rock Bottom,” Texas Tribune (Apr. 20, 2017), https://www.texastribune.org/2017/04/20/texas-foster-care-placement-crisis/ (describing Texas’s shortage of placement options, which resulted in children sleeping in office buildings where “no one is likely to stop them” if they decide to run away); Associated Press, Indiana Agencies Desperate To Find Foster Parents With Children Entering System at All-Time High, Fox 59 (Mar. 7, 2017), https://fox59.com/news/indiana-agencies-desperate-to-find-foster-parents-with-children-entering-system-at-all-time-high/ (noting that nearly 1,000 children in Indiana are in need of care and that, in the span of one month, the State’s largest not-for-profit child services agency was able to place 3 children out of 150 to 200in one region); Lawrence, Georgia Foster Care System in Crisis Due to Shortage of Foster Homes, ABC News Channel 9 (Feb. 15, 2017), https://newschannel9.com/news/local/georgia-foster-care-system-in-crisis-due-to-shortage-of-foster-homes (reporting on a county in Georgia with 116 children in need of care but only 14 foster families). 
+
+19
+ See App. to Pet. for Cert. 19a, 64a, 140a; see also App. 59 (plaintiff Cecilia Paul testifying that, at the time of the evidentiary hearing below, she had no children in her care due to the City’s policy). 
+
+20
+ Id., at 182, 365–366 (describing Department of Human Services commissioner’s comments to CSS that “it would be great if we followed the teachings of Pope Francis” and that “things have changed since 100 years ago”). 
+
+21
+ The Court’s decision also depends on its own contested interpretation of local and state law.  See post, at 2–7 (Gorsuch, J., concurring in judgment).  Instead of addressing whether the City’s Fair Practices Ordinance is generally applicable, the Court concludes that the ordinance does not apply to CSS because CSS’s foster care certification services do not constitute “public accommodations” under the FPO.  Ante, at 11.  Of course, this Court’s interpretation of state and local law is not binding on state courts.  See, e.g., West v. American Telephone & Telegraph Co.,
+
+311 U.S. 223, 236 (1940); see also Danforth v. Minnesota,
+
+552 U.S. 264, 291 (2008) (Roberts, C. J., dissenting) (“State courts are the final arbiters of their own state law”).  Should the Pennsylvania courts interpret the FPO differently, they would effectively abrogate the Court’s decision in this case. 
+
+22
+ See 102 Code Mass. Regs. 1.03(1) (1997) (prohibiting discrimination on the basis of sexual orientation as a condition of receiving the state license required to provide adoption services); San Francisco Admin. Code §12B.1(a) (2021) (requiring that all contracts with the city include a provision “obligating the contractor not to discriminate on the basis of ” sexual orientation and noting that the code section was last amended in 2000); D. C. Code §§ 2–1401.02(24), 2–1402.31 (2008) (prohibiting, on the basis of sexual orientation, the direct or indirect denial of “the full and equal enjoyment of the goods, services, facilities, privileges, advantages, and accommodations of any place of public accommodations,” defined to include “establishments dealing with goods or services of any kind”); Ill. Comp. Stat., ch. 775, §§5/1–103(O–1), (Q), 5/5–101(A), 5/5–102 (2011) (prohibiting discrimination on the basis of sexual orientation in a “place of public accommodation,” defined by a list of non-exclusive examples). 
+
+23
+ See, e.g., Cal. Welf. & Inst. Code Ann. §16013(a) (West 2018) (declaring that “all persons engaged in providing care and services to foster children, including . . . foster parents [and] adoptive parents . . . shall have fair and equal access to all available programs, services, benefits, and licensing processes, and shall not be subjected to discrimination . . . on the basis of . . . sexual orientation”); D. C. Munic. Regs., tit. 29, §6003.1(d) (2018) (providing that foster parents are “[t]o not be subject to discrimi-nation as provided in the D. C. Human Rights Act,” which prohibits discrimination on the basis of sexual orientation); see also 110 Code Mass. Regs. 1.09(1) (2008) (“No applicant for or recipient of Department [of Children and Families] services shall, on the ground of . . . sexual orientation . . . be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination in connection with any service, program, or activity administered or provided by the Department”). 
+
+24
+ This Court actually granted review twice: once, after the state court first held that the denial of benefits was unconstitutional, see Smith v. Employment Div., Dept. of Human Resources, 301 Ore. 209, 220, 721 P.2d 445, 451 (1986), cert. granted
+
+480 U.S. 916 (1987), and then again after the case was remanded for the state court to determine whether peyote consumption for religious use was unlawful under Oregon law, see Employment Div., Dept. of Human Resources of Ore. v. Smith,
+
+485 U.S. 660, 662, 673–674 (1988).  When the state court held that it was and reaffirmed its prior decision, 307 Ore. 68, 72–73, 763 P.2d 146, 147–148 (1988), the Court granted certiorari,
+
+489 U.S. 1077 (1989). 
+
+25
+ Justice Barrett makes the surprising claim that “[a] longstanding tenet of our free exercise jurisprudence” that “pre-dates” Smith is “that a law burdening religious exercise must satisfy strict scrutiny if it gives government officials discretion to grant individualized exemptions.”  Ante, at 2 (concurring opinion).  If there really were such a “longstanding [pre-Smith] tenet,” one would expect to find cases stating that rule, but Justice Barrett does not cite even one such case.  Instead, she claims to find support by reading between the lines of what the Court said in a footnote in Sherbert, 374 U. S., at 401, n. 4, and a portion of the opinion in Cantwell v. Connecticut,
+
+310 U.S. 296, 303–307 (1940)).  Ante, at 2.  But even a close interlinear reading of those cases yields no evidence of this supposed tenet. In the Sherbert footnote, the Court responded to the dissent’s argument that South Carolina law did not recognize any exemptions from the general eligibility requirement for unemployment benefits.  374 U. S., at 419–420 (Harlan, J., dissenting).  The footnote expressed skepticism about this interpretation of South Carolina law, but it did not suggest that its analysis would have been any different if the dissent’s interpretation were correct. In Cantwell, the Court addressed the constitutionality of a state statute that generally prohibited the solicitation of funds for religious purposes unless a public official found in advance that the cause was authentically religious.  See 310 U. S., at 300–302.  The Court held that the Free Exercise Clause prohibited the State from conditioning permission to solicit funds on an administrative finding about a religious group’s authenticity, but the Court did not suggest that a blanket ban on solicitation would have necessarily been sustained.  On the contrary, it said that the State was “free to regulate the time and manner of solicitation generally, in the interest of public safety, peace, comfort or convenience.”  Id., at 307–308 (emphasis added).  And the Court said not one word about “strict scrutiny,” a concept that was foreign to Supreme Court case law at that time.  See Fallon, Strict Judicial Scrutiny, 54 UCLA L. Rev. 1267, 1284 (2007) (“Before 1960, what we would now call strict judicial scrutiny . . . did not exist”). 
+
+26
+ A particularly heartbreaking example was a case in which a judge felt compelled by Smith to reverse his previous decision holding the state medical examiner liable for performing the autopsy of a young Hmong man who had been killed in a car accident.  The young man’s parents were tortured by the thought that the autopsy would prevent their sonfrom entering the afterlife.  See Yang v. Sturner, 750 F. Supp. 558, 560 (RI 1990); see also 139 Cong. Rec. 9681 (1993) (remarks of Rep. Edwards).  Members of Congress were also informed that veterans’ cemeteries had refused to allow burial on weekends even when that was required by the deceased’s religion, id., at 9687 (remarks of Rep. Cardin), and that churches were prohibited from conducting services in areas zoned for commercial and industrial uses, id., at 9684 (remarks of Rep. Schumer).  In just the first three years after Smith, more than 50 cases were decided against religious claimants.  139 Cong. Rec., at 9685 (remarks of Rep. Hoyer); see also id., at 9684 (remarks of Rep. Schumer) (“Smith was a devastating blow to religious freedom”). 
+
+27
+ Although the
+ 
+First Amendment refers to “Congress,” we have held that the
+ 
+Fourteenth Amendment—which references the entire “State,” not just a legislature—makes the rights protected by the Amendment applicable to the States.  Gitlow v. New York,
+
+268 U.S. 652 (1925); Hamilton v. Regents of Univ. of Cal.,
+
+293 U.S. 245 (1934); Cantwell, 310 U.S. 296; Everson v. Board of Ed. of Ewing,
+
+330 U.S. 1 (1947).  And we have long applied that Amendment to actions taken by those responsible for enforcing the law.  See, e.g., Lyng v. Northwest Indian Cemetery Protective Assn.,
+
+485 U.S. 439 (1988) (considering
+ 
+First Amendment claim based on federal agency’s decision); Thomas v. Review Bd. of Ind. Employment Security Div.,
+
+450 U.S. 707 (1981) (applying
+ 
+First Amendment against a state agency); Pickering v. Board of Ed. of Township High School Dist. 205, Will Cty.,
+391 U.S. 563 (1968) (applying
+ 
+First Amendment against local board of education); see also U. S. Const., Amdt. 14, §1 (“No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States” (emphasis added)). 
+
+28
+ The phrase “no law” applies to the freedom of speech and the freedom of the press, as well as the right to the free exercise of religion, and there is no reason to believe that its meaning with respect to all these rights is not the same.  With respect to the freedom of speech, we have long held that “no law” does not mean that every restriction on what a person may say or write is unconstitutional.  See, e.g., Miller v. California,
+
+413 U.S. 15, 23 (1973); see also Federal Election Comm’n v. Wisconsin Right to Life, Inc.,
+
+551 U.S. 449, 482 (2007) (opinion of Roberts, C. J.); Times Film Corp. v. Chicago,
+
+365 U.S. 43, 47–49 (1961).  Many restrictions on what a person could lawfully say or write were well established at the time of the adoption of the
+ 
+First Amendment and have continued to this day.  Fraudulent speech, speech integral to criminal conduct, speech soliciting bribes, perjury, speech threatening physical injury, and obscenity are examples.  See, e.g., Donaldson v. Read Magazine, Inc.,
+
+333 U.S. 178, 190–191 (1948) (fraud); Giboney v. Empire Storage & Ice Co.,
+
+336 U.S. 490, 498 (1949) (speech integral to criminal conduct); McCutcheon v. Federal Election Comm’n,
+
+572 U.S. 185, 191–192 (2014) (plurality opinion) (quid pro quo bribes); United States v. Dunnigan,
+
+507 U.S. 87, 96–97 (1993) (perjury); Virginia v. Black,
+
+538 U.S. 343, 359 (2003) (threats); Miller, 413 U. S., at 23 (obscenity).  The
+ 
+First Amendment has never been thought to have done away with all these rules.  Alexander Meiklejohn reconciled this conclusion with the constitutional text: The
+ 
+First Amendment “does not forbid the abridging of speech.  But, at the same time, it does forbid the abridging of the freedom of speech.”  Free Speech and Its Relation to Self-Government 19 (1948) (emphasis deleted).  In other words, the Free Speech Clause protects a right that was understood at the time of adoption to have certain defined limits.  See Konigsberg v. State Bar of Cal.,
+
+366 U.S. 36, 49, and n. 10 (1961).  As explained below, the same is true of the Free Exercise Clause.  See infra, at 28–36.  No one has ever seriously argued that the Free Exercise Clause protects every conceivable religious practice or even every conceivable form of worship, including such things as human sacrifice. 
+
+29
+ Whatever the outer boundaries of the term “religion” as used in the
+ 
+First Amendment, there can be no doubt that CSS’s contested policy represents an exercise of “religion.”  
+
+30
+ See also N. Bailey, Universal Etymological English Dictionary (22d ed. 1770) (Bailey) (“to forbid, to bar, to keep from”); T. Dyche & W. Pardon, A New General English Dictionary (14th ed. 1771) (Dyche & Pardon) (“to forbid, bar, hinder, or keep from any thing”); 2 Johnson (6th ed. 1785) (“1. To forbid, to interdict by authority. . . . 2. To debar; to hinder”); 2 J. Ash, The New & Complete Dictionary of the English Language (2d ed. 1795) (Ash) (“To forbid, to interdict by authority; to debar, to hinder”); 2 N. Webster, An American Dictionary of the English Language (1828) (Webster) (“1. To forbid; to interdict by authority; . . . 2. To hinder; to debar; to prevent; to preclude”); 2 J. Boag, The Imperial Lexicon of the English Language 275 (1850) (Boag) (“To forbid; to interdict by authority.  To hinder; to debar; to prevent; to preclude”). 
+
+31
+ See also Bailey (“to practice”); Dyche & Pardon (“to practice or do a thing often; to employ one’s self frequently in the same thing”); 1 Ash (“Practise, use, employment, a task, an act of divine worship”); 2 Johnson (9th ed. 1805) (“Practice; outward performance”; “Act of divine worship, whether publick or private”); 1 Webster (“1. Use, practice; . . . 2. Practice; performance; as the exercise of religion . . . 10. Act of divine worship”); 1 Boag 503 (“Use; practice; . . . Practice; performance . . . Act of divine worship”). 
+
+32
+ See also Dyche & Pardon (“at liberty, that can do or refuse at his pleasure, that is under no restraint”); 1 Ash (“Having liberty,” “unrestrained,” ”exempt”); 1 Webster (“1. Being at liberty; not being under necessity or restraint, physical or moral . . . 5. Unconstrained; unrestrained; not under compulsion or control”); 1 Boag 567–568 (“Being at liberty; not being under necessity or restraint, physical or moral . . . Unconstrained; unrestrained, not under compulsion or control.  Permitted; allowed; open; not appropriated.  Not obstructed”). 
+
+33
+ See, e.g., Del. Declaration of Rights §3 (1776), in The Complete Bill of Rights 15 (N. Cogan ed. 1997) (Cogan) (“That all persons professing the Christian religion ought forever to enjoy equal rights and privileges in this state” (emphasis added)); Md. Declaration of Rights, Art. 33 (1776), in id., at 17 (“[A]ll persons professing the christian religion are equally entitled to protection in their religious liberty” (emphasis added)); N. Y. Const., Art. XXXVIII (1777), in id., at 26 (“[T]he free Exercise and Enjoyment of religious Profession and Worship, without Discrimination or Preference, shall forever hereafter be allowed within this State to all Mankind” (emphasis added)); S. C. Const., Art. VIII, §1 (1790), in id., at 41 (“The free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall, forever hereafter, be allowed within this state to all mankind” (emphasis added)). 
+
+34
+ See, e.g., McConnell, The Origins and Historical Understanding of Free Exercise of Religion, 103 Harv. L. Rev. 1409 (1990) (McConnell, Origins); McConnell, Free Exercise Revisionism 1109; McConnell, Freedom From Persecution or Protection of the Rights of Conscience?: A Critique of Justice Scalia’s Historical Arguments in City of Boerne v. Flores, 39 Wm. & Mary L. Rev. 819 (1998) (McConnell, Freedom From Persecution); Hamburger, A Constitutional Right of Religious Exemption: An Historical Perspective, 60 Geo. Wash. L. Rev. 915 (1992) (Hamburger, Religious Exemption); Hamburger, More Is Less, 90 Va. L. Rev. 835 (2004) (Hamburger, More Is Less); Laycock, Religious Liberty as Liberty, 7 J. Contemp. Legal Issues 313 (1996); Bradley, Beguiled: Free Exercise Exemptions and the Siren Song of Liberalism, 20 Hofstra L. Rev. 245 (1991); Campbell, Note, A New Approach to Nineteenth Century Religious Exemption Cases, 63 Stan. L. Rev. 973 (2011) (Campbell, A New Approach); Kmiec, The Original Understanding of the Free Exercise Clause and Religious Diversity, 59 UMKC L. Rev. 591 (1991); Lash, The Second Adoption of the Free Exercise Clause: Religious Exemptions Under the
+ 
+Fourteenth Amendment, 88 Nw. U. L. Rev. 1106 (1994); Lombardi, Nineteenth-Century Free Exercise Jurisprudence and the Challenge ofPolygamy: The Relevance of Nineteenth-Century Cases and Commentaries for Contemporary Debates About Free Exercise Exemptions, 85 Ore. L. Rev. 369 (2006) (Lombardi, Free Exercise); Muñoz, The Original Meaning of the Free Exercise Clause: The Evidence From the First Congress, 31 Harv. J. L. & Pub. Pol’y 1083 (2008) (Muñoz, Original Meaning); Nestor, Note, The Original Meaning and Significance of Early State Provisos to the Free Exercise of Religion, 42 Harv. J. L. & Pub. Pol’y 971 (2019) (Nestor); M. Nussbaum, Liberty of Conscience 120–130 (2008); Walsh, The First Free Exercise Case, 73 Geo. Wash. L. Rev. 1 (2004) (Walsh). 
+
+35
+ McConnell, Origins 1425 (describing Lord Baltimore’s directive to the new Protestant governor and councilors of Maryland to refrain from interfering with the “free exercise” of Christians, particularly Roman Catholics).  
+
+36
+ Act Concerning Religion (1649), in Cogan 17; see also McConnell, Origins 1425. 
+
+37
+ See Second Charter of Carolina (1665), in Cogan 27–28 (recognizing the right of persons to “freely and quietly have and enjoy . . . their Judgments and Consciences, in Matters of Religion” and declaring that “no Person . . . shall be in any way molested, punished, disquieted, or called in Question, for any Differences in Opinion, or Practice in Matters of religious Concernments, who do not actually disturb the Civil Peace”);  Charter of Delaware, Art. I (1701), in id., at 15 (ensuring “[t]hat no person . . . who shall confess and acknowledge One Almighty God . . . shall be in any case molested or prejudiced, in his . . . person or estate, because of his . . . consciencious persuasion or practice, nor . . . to do or suffer anyother act or thing, contrary to their religious persuasion”); Concession and Agreement of the Lords Proprietors of the Province of New Caesarea, or New-Jersey (1664), in id., at 23 (declaring the right of all persons to “freely and fully have and enjoy . . . their Judgments and Consciences in matters of Religion throughout the said Province” and ensuring “[t]hat no person . . . at any Time shall be any ways molested, punished, disquieted or called in question for any Difference in Opinion or Practice in matter of Religious Concernments, who do not actually disturb the civil Peace of the said Province”); Concessions and Agreements of West New-Jersey, ch. XVI (1676), in id., at 24 (providing that “no Person . . . shall be any ways upon any pretence whatsoever, called in Question, or in the least punished or hurt, either in Person, Estate, or Priviledge, for the sake of his Opinion, Judgment, Faith or Worship towards God in Matters of Religion”); Laws of West New-Jersey, Art. X (1681), ibid. (“That Liberty of Conscience in Matters of Faith and Worship towards God, shall be granted to all People within the Province aforesaid; who shall live peacably and quietly therein”); Fundamental Constitutions for East New-Jersey, Art. XVI (1683), ibid. (“All Persons living in the Province who confess and acknowledge the one Almighty and Eternal God, and holds themselves obliged in Conscience to live peacably and quietly in a civil Society, shall in no way be molested or prejudged for their Religious Perswasions and Exercise in matters of Faith and Worship”); New York Act Declaring . . . Rights & Priviledges (1691), in id., at 25 (“That no Person . . . shall at any time be any way molested, punished, disturbed, disquieted or called in question for any Difference in Opinion, or matter of Religious Concernment, who do not under that pretence disturb the Civil Peace of the Province”); Charter of Privileges Granted by William Penn (1701), in id., at 31–32 (declaring that “no Person . . . who shall confess and acknowledge One almighty God . . . and profess . . . themselves obliged to live quietly under the Civil Government, shall be in any Case molested or prejudiced . . . because of . . . their consciencious [sic] Persuasion or Practice, nor . . . suffer any other Act or Thing, contrary to their religious Persuasion”). 
+
+38
+ See infra, at 34, and n. 43; N. J. Const., Art. XVIII (1776), in Cogan 25 (“That no Person shall ever within this Colony be deprived of the inestimable Privilege of worshipping Almighty God in a Manner agreeable to the Dictates of his own Conscience; nor under any Pretence whatsoever compelled to attend any Place of Worship contrary to his own Faith and Judgment”); N. C. Decl. of Rights §XIX (1776), in id., at 30 (“That all Men have a natural and unalienable Right to worship Almighty God according to the Dictates of their own Conscience”); Pa. Const., Declaration of Rights of the Inhabitants of the State of Pa., Art. II (1776), in id., at 32 (“That all men have a natural and unalienable right to worship Almighty God according to the dictates of their own consciences and understanding: And that no man ought to or of right can be compelled to attend any religious worship, or erect or support any place of worship, or maintain any ministry, contrary to, or against, his own free will and consent: Nor can any man, who acknowledges the being of a God, be justly deprived or abridged of any civil right as a citizen, on account of his religious sentiments or peculiar mode of religious worship: And that no authority can or ought to be vested in, or assumed by any power whatever, that shall in any case interfere with, or in any manner controul, the right of conscience in the free exercise of religious worship”); Va. Declaration of Rights, Art. XVI (1776), in id., at 44 (“THAT religion, or the duty which we owe to our Creator, and the manner of discharging it, can be directed only by reason and conviction, not by force or violence, and therefore all men are equally entitled to the free exercise of religion, according to the dictates of conscience; and that it is the mutual duty of all to practise Christian forbearance, love, and charity, towards each other”); see also Vt. Const., ch. 1, §3 (1777), in id., at 41 (“That all Men have a natural and unalienable Right to worship Almighty God according to the Dictates of their own Consciences and Understanding . . . and that no Man ought or of Right can be compelled to attend any religious Worship, or erect, or support any Place of Worship, or maintain any Minister contrary to the Dictates of his Conscience; nor can any Man who professes the Protestant Religion, be justly deprived or abridged of any civil Right, as a Citizen, on Account of his religious Sentiment, or peculiar Mode of religious Worship, and that no Authority can, or ought to be vested in, or assumed by any Power whatsoever, that shall in any Case interfere with, or in any Manner control the Rights of Conscience, in the free Exerciseof religious Worship”). 
+
+39
+ See McDonald v. Chicago,
+
+561 U.S. 742, 769 (2010); see also Creating the Bill of Rights 281, 282 (H. Veit., K. Bowling, & C. Bickford eds. 1991); 1 A. Kelly, W. Harbison, & H. Belz, The American Constitution: Its Origins and Development 110, 118 (7th ed. 1991). 
+
+40
+ See Charter of Rhode Island and Providence Plantations (1663), in Cogan 34 (protecting the free exercise of religion so long as residents “do not Actually disturb the Civil Peace of Our said Colony” and “Behav[e] themselves Peaceably and Quietly, And not Using This Liberty to Licentiousness and Prophaneness; nor to the Civil Injury, or outward Disturbance of others” (emphasis deleted)). 
+
+41
+ See Second Charter of Carolina (1665), in id., at 27–28 (guaranteeing free exercise to persons “who do not actually disturb the Civil Peace” and who “behav[e] themselves peaceably, and [do] not us[e] this Liberty to Licentiousness, nor to the Civil Injury, or outward Disturbance of others”). 
+
+42
+ New York Act Declaring . . . Rights & Priviledges (1691), in id., at 25 (protecting the right to free exercise for all persons “who do not under that pretence disturb the Civil Peace” and who “behav[e] themselves peaceably, quietly, modestly and Religiously, and [do] not us[e] this Liberty to Licentiousness, nor to the civil Injury or outward Disturbance of others”). 
+
+43
+ Del. Declaration of Rights §§2–3 (1776), in id., at 15 (“That all men have a natural and unalienable right to worship Almighty God according to the dictates of their own consciences and understandings . . . .  That all persons professing the Christian religion ought forever to enjoy equal rights and privileges in this state, unless, under colour of religion, anyman disturb the peace, the happiness or safety of society” (emphasis added)); Md. Declaration of Rights, Art. 33 (1776), in id., at 17 (“That as it is the duty of every man to worship God in such manner as he thinks most acceptable to him, all persons professing the christian religion are equally entitled to protection in their religious liberty, wherefore no person ought by any law to be molested in his person or estate on account of his religious persuasion or profession, or for his religious practice, unless under colour of religion any man shall disturb the good order, peace or safety of the state, or shall infringe the laws of morality, or injure others, in their natural, civil or religious rights” (emphasis added)); Mass. Const., pt. I, Art. II (1780), in id., at 20–21 (“It is the right as well as the duty of all men in society, publickly, and at stated seasons, to worship the SUPREME BEING, the Great Creator and Preserver of the Universe.  And no subject shall be hurt, molested, or restrained, in his person, liberty, or estate, for worshipping GOD in the manner and season most agreeable to the dictates of his own conscience; or for his religious profession or sentiments; provided he doth not disturb the publick peace, or obstruct others in their religious worship” (emphasis added)); N. H. Const., pt. I, Art. V (1783), in id., at 22–23 (“Every individual has a natural and unalienable right to worship GOD according to the dictates of his own conscience, and reason; and no subject shall be hurt, molested, or restrained in his person, liberty or estate for worshipping GOD in the manner and season most agreeable to the dictates of his own conscience, . . . provided he doth not disturb the public peace, or disturb others in their religious worship” (emphasis added)); N. Y. Const., Art. XXXVIII (1777), in id., at 26 (“[T]he free Exercise and Enjoyment of religious Profession and Worship, without Discrimination or Preference, shall forever hereafter be allowed within this State to all Mankind.  Provided, That the Liberty of Conscience hereby granted, shall not be so construed, as to excuse Acts of Licentiousness, or justify Practices inconsistent with the Peace or Safety of this State” (some emphasis added)); Charter of Rhode Island and Providence Plantations (1663), in id., at 34 (guaranteeing free exercise for matters that “do not Actually disturb the Civil Peace of Our said Colony” so long as persons “[b]ehav[e] themselves Peaceably and Quietly, And [do] not Us[e] This Liberty to Licentiousness and Prophaneness; nor to the Civil Injury, or outward Disturbance of others” (some emphasis added)); S. C. Const., Art. VIII, §1 (1790), in id., at 41 (“The free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall, forever hereafter, be allowed within this state to all mankind; provided that the liberty of conscience thereby declared shall not be so construed as to excuse acts of licentiousness, or justify practices inconsistent with the peace or safety of this state” (emphasis added)). 
+
+44
+ See also 2 Webster (“1. In a general sense, a state of quiet or tranquility; freedom from disturbance or agitation. . . .  2. Freedom from war with a foreign nation; public quiet.  3. Freedom from internal commotion or civil war.  4. Freedom from private quarrels, suits or disturbance.  5. Freedom from agitation or disturbance by the passions, as from fear, terror, anger, anxiety or the like; quietness of mind; tranquillity; calmness; quiet of conscience. . . . 6. Heavenly rest; the happiness of heaven. . . . 7. Harmony; concord; a state of reconciliation between parties at variance.  8. Public tranquility; that quiet, order and security which is guarauteed by the laws; as, to keep the peace; to break the peace”); 2 Ash (“Rest, quiet, respite from war, respite from tumult; reconciliation, an accommodation of differences”). 
+
+45
+ See also Bailey (“Freedom from Danger, Custody, Security”); 2 Ash (“Security from danger, freedom from hurt; custody, security from escape”); 2 Webster (“[1.] Freedom from danger or hazard . . . . 2. Exemption from hurt, injury or loss. . . . 3. Preservation from escape; close custody. . . . 4. Preservation from hurt”). 
+
+46
+ 4 W. Blackstone, Commentaries on the Laws of England 59 (1769). 
+
+47
+ 3 id., at 73–74 (1768). 
+
+48
+ Id., at 141–142.  
+
+49
+ Id., at 164. 
+
+50
+ 4 id., at 163. 
+
+51
+ Id., at 160 (emphasis deleted). 
+
+52
+ Id., at 169 (emphasis deleted). 
+
+53
+ Id., at 160 (emphasis deleted). 
+
+54
+ Some late 18th century and early 19th century dictionaries provided special definitions of the term “peace” as used in the law, and these definitions fit the offenses on Blackstone’s list.  See, e.g., 1 Johnson (6th ed. 1785) (“That general security and quiet which the king warrants to his subjects, and of which he therefore avenges the violation; every forcible injury is a breach of the king’s peace” (emphasis deleted)); 5 G. Jacob, Law-Dictionary (1811) (“[P]articularly in law, [‘peace’] intends a quiet behaviour towards the King and his Subjects”); Bailey (defining “peace” in the “Law Sense” as “quiet and inoffensive Behaviour towards King and Subject”). 
+
+55
+ Such an interpretation would also clash with the way in which the scope of state legislative power was understood.  If any violation of the law had been regarded as a breach of public peace or safety, there would have been no need for the lawmaking authority of a state legislature to extend any further, but there is no evidence that state legislative authority was understood that way.  New York’s 1777 Constitution demonstrates the point.  As noted above, it protected free exercise unless a person invoked that protection to “excuse Acts of Licentiousness, or justify Practices inconsistent with the Peace or Safety of this State.”  Art. XXXVIII, in Cogan 26.  But the New York Constitution authorized the legislature to enact laws to further broader aims, including “good government, welfare, and prosperity.”  Art. XIX, in 5 Federal and State Constitutions 2633 (F. Thorpe ed. 1909).  That authority obviously goes well beyond the prohibition of “Practices inconsistent with” the “Peace” and “Safety” (or “Licentiousness”).  See McConnell, Freedom from Persecution 835–836.  In like manner, State Constitutions and other declarations of rights commonly proclaimed that government should pursue broader goals, such as the promotion of “prosperity” and “happiness.”  See Nestor, Table III: Comparing the Provisos to the Scope of Legislative Power (online source archived at www.supremecourt.gov). 
+
+56
+ Mayer, The Continental Army, in A Companion to the American Revolution 309 (J. Greene & J. Pole eds. 2000); R. Wright, The Continental Army 153–154, 163 (1983). 
+
+57
+ See The Oxford Companion to American Military History 606–608, 611 (J. Chambers ed. 1999). 
+
+58
+ See Declaration of Independence ¶ 31 (“[W]e mutually pledge to each other our Lives, our Fortunes and our sacred Honor”); see also P. Maier, American Scripture 152–153 (1997); Boyd, The Declaration of Independence: The Mystery of the Lost Original, 100 Pa. Mag. Hist. & Bio. 438, 445 (1976); L. Montross, The Reluctant Rebels 165 (1970); E. Burnett, The Continental Congress 196–197 (1941).  Of the 56 signers of the Declaration of Independence, 9 were taken as prisoners of war; 2 had sons who died; 3 had sons who were taken captive; 9 had their homes destroyed; and 13 saw their homes occupied, confiscated, or damaged.  M. Novak, On Two Wings: Humble Faith and Common Sense at the American Founding 157–158 (2002). 
+
+59
+ See Barclay, The Historical Origins of Judicial Religious Exemptions, 96 Notre Dame L. Rev. 55, 69–73 (2020); McConnell, Free Exercise Revisionism 1118; Campbell, A New Approach 978, 987; Lombardi, Free Exercise 385; Campbell, Religious Neutrality in the Early Republic, 24 Regent U. L. Rev. 311, 314–315, n. 20 (2012). 
+
+60
+ W. Newman & P. Halvorson, Atlas of American Religion 18 (2000). 
+
+61
+ Ibid. 
+
+62
+ The Covenanters originated in Scotland, where they opposed the Stuart kings’ right to rule over the Presbyterian Church.  See Emery, Church and State in the Early Republic: The Covenanters’ Radical Critique, 25 J. L. & Religion 487, 488 (2009).  They immigrated to the United States and, in the 1790s, organized a branch of the Reformed Presbyterian Church.  Id., at 489.  Members ascribe to two foundational documents—the Scottish National Covenant of 1638 and the Solemn League and Covenant of 1643—and believe in the supremacy of God over man in both civil and ecclesiastical matters.  Id., at 448; see also J. McFeeters, The Covenanters in America: The Voice of Their Testimony on Present Moral Issues 57 (1892). 
+
+63
+ Privileged Communications to Clergymen, 1 Cath. Law. 199, 207–209 (1955). 
+
+64
+ See also Walsh 41; Campbell, A New Approach 992, n. 99; Lombardi, Free Exercise 408, and n. 152. 
+
+65
+ See McFeeters, The Covenanters in America 121–129; id., at 122 (Covenanters “must refuse upon the grounds of honor, conscience, and consistency, to be identified by oath or ballot with such a political system”); id., at 129 (Covenanters “decline to take any responsible part in the administration of civil power”); W. Gibson & A. McLeod, Reformation Principles Exhibited, by the Reformed Presbyterian Church in the United States of America 138 (1807) (“The juror voluntarily places himself upon oath, under the direction of a law which is immoral.  The Reformed Presbytery declare this practice inconsistent with their Testimony, and warn Church-members against serving on juries under the direction of the constituted courts of law”). 
+
+66
+ See O’Neall, Early History of the Judiciary of South Carolina, p. xi, in 1 Biographical Sketches of the Bench and Bar of South Carolina (1859); Walsh 41–42 (explaining that South Carolina “dismantled” the “five-member constitutional court” that decided Willson and replaced it with a new high court—the South Carolina Court of Appeals—which concurred in the opinion in Farnandis). 
+
+67
+ Hamburger, Religious Exemption 928, and n. 56 (quoting the statement of Rep. Boudinot). 
+
+68
+ Id., at 928, and n. 57 (quoting the statement of Rep. Benson). 
+
+69
+ Muñoz, Original Meaning 1115. 
+
+70
+ Several State Constitutions contained both Free Exercise Clause analogs and provisions protecting conscientious objectors, and this has been cited as evidence that the free-exercise analogs did not confer any right to exemptions.  See id., at 1118–1119.  This argument is unpersuasive for the reasons explained above. 
+
+71
+ The family name was apparently misspelled in the case caption.  See Sutton, Barnette, Frankfurter, and Judicial Review, 96 Marq. L. Rev. 133, 134 (2012).  
+
+72
+ See also N. Feldman, Scorpions 179 (2010). 
+
+73
+ Ibid. 
+
+74
+ Id., at 180. 
+
+75
+ This discussion does not suggest that Reynolds should be overruled. 
+
+76
+ “The clear implication was that a ‘direct’ interference would have been unconstitutional.”  McConnell, Free Exercise Revisionism 1125. 
+
+77
+ Our strained attempt to square the ministerial exception with Smith highlights the tension between the two decisions.  Smith held that a generally applicable law satisfies the
+ 
+First Amendment if “prohibiting the exercise of religion . . . is not the object of the [government action] but merely the incidental effect.”  494 U. S., at 878.  But the ADA’s effect on religion in Hosanna-Tabor was “incidental” in the sense in which the term was used in Smith.  The opinion in Hosanna-Tabor tried to distinguish Smith as involving only “outward physical acts” instead of “the faith and mission of the church itself.”  565 U. S., at 190.  But a prohibition of peyote use surely affected “the faith and mission” of the Native American Church, which regards the ingestion of peyote as a sacrament.  
+
+78
+ Recently, some lower courts have proceeded under yet another approach, which analyzes whether the claims presented are sufficiently similar to those raised in the cases that this Court purported to distinguish in Smith.  See Henderson v. McMurray, 987 F.3d 997, 1006–1007 (CA11 2021); see also Illinois Bible Colleges Assn. v. Anderson, 870 F.3d 631, 641 (CA7 2017). 
+
+79
+ App. 367–369 (Commissioner Figueora testifying that she was appointed by the mayor, reports ultimately to him, and considers herself part of his administration); Phila. Home Rule Charter, Art. IX, ch. 2, §9–200 (Removal of Appointive Officers). 
+
+80
+ App. 182, 365–366.  Apart from the statements made by City officials, other evidence suggested that the City was targeting CSS.  For instance, the City changed its justification for the closure of intake to CSS numerous times.  Brief for Petitioners 12–15 (describing six different justifications).  And although the City’s stated harm was that CSS’s process for certifying new families was discriminatory, it responded by prohibiting placement with all CSS families, including those already certified.  The City’s response therefore appears to “proscribe more religious conduct than is necessary to achieve [its] stated ends.”  Lukumi, 508 U. S., at 538. 
+
+81
+ See, e.g., McConnell, Origins 1409; McConnell, Free Exercise Revisionism 1109; McConnell, Freedom From Persecution 819; Hamburger, Religious Exemption 915; Hamburger, More Is Less 835; Laycock, 7 J. Contemp. Legal Issues 313; Bradley, 20 Hofstra L. Rev. 245; Campbell, A New Approach 973; Kmiec, 59 UMKC L. Rev. 591; Lash, 88 Nw. U. L. Rev. 1106; Lombardi, Free Exercise 369; Muñoz, Original Meaning 1083; Nestor 971; Nussbaum, Liberty of Conscience, at 120–130; Walsh 1. 
+
+

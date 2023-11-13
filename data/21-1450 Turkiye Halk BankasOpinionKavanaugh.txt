@@ -1,0 +1,639 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1450
+::decision_name::  Turkiye Halk Bankasi A.S. v. United States
+::decision_year:: 2023
+::opinion_author:: Kavanaugh
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States
+Reports. Readers are requested to notify the Reporter of
+Decisions, Supreme Court of the United States, Washington,
+D. C. 20543, pio@supremecourt.gov, of any typographical or
+other formal errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1450
+
+															_________________
+
+															TURKIYE HALK BANKASI A. S., aka HALKBANK,
+PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states
+court of appeals for the second circuit
+
+															[April 19, 2023]
+
+															
+
+															Justice Kavanaugh delivered the opinion of the
+Court.
+
+															The United States indicted Halkbank, a bank
+owned by the Republic of Turkey, for conspiring to evade U. S.
+economic sanctions against Iran. The United States brought the
+prosecution in the U. S. District Court for the Southern
+District of New York. Halkbank contends that the indictment should
+be dismissed because the general federal criminal jurisdiction
+statute, 18 U. S. C. §3231, does not extend to
+prosecutions of instrumentalities of foreign states such as
+Halkbank. Halkbank alternatively argues that the Foreign Sovereign
+Immunities Act of 1976 provides instrumentalities of foreign states
+with absolute immunity from criminal prosecution in U. S.
+courts.
+
+															We disagree with Halkbank on both points. We
+hold that the District Court has jurisdiction under 18
+U. S. C. §3231 over the prosecution of Halkbank. We
+further hold that the Foreign Sovereign Immunities Act does not
+provide immunity from criminal prosecution. With respect to an
+additional common-law immunity argument raised by Halkbank, we
+vacate the judgment of the Court of Appeals and remand.
+
+															I
+
+															Halkbank is a bank whose shares are
+majority-owned by the Turkish Wealth Fund, which in turn is part of
+and owned by the Republic of Turkey. In 2019, the United States
+indicted Halkbank for a multi-year conspiracy to evade economic
+sanctions imposed by the United States on Iran. The indictment
+alleged that Halkbank, with the assistance of high-ranking Turkish
+government officials, laundered billions of dollars of Iranian oil
+and gas proceeds through the global financial system, including the
+U. S. financial system, in violation of U. S. sanctions
+and numerous federal statutes. The indictment further claimed that
+Halkbank made false statements to the U. S. Treasury
+Department in an effort to conceal the scheme. Two individual
+defendants, including a former Halkbank executive, have already
+been convicted in federal court for their roles in the alleged
+conspiracy. According to the U. S. Government, several other
+indicted defendants, including Halkbank’s former general
+manager and its former head of foreign operations, remain at
+large.
+
+															Halkbank moved to dismiss the indictment on the
+ground that an instrumentality of a foreign state such as Halkbank
+is immune from criminal prosecution under the Foreign Sovereign
+Immunities Act of 1976, 28 U. S. C. §§1330,
+1602 et seq. The U. S. District Court for the
+Southern District of New York denied the motion, reasoning in
+relevant part that the FSIA “does not appear to grant
+immunity in criminal proceedings.” App. to Pet. for Cert.
+25a, 34a.
+
+															Halkbank filed an interlocutory appeal, and the
+U. S. Court of Appeals for the Second Circuit affirmed. 16 F.
+4th 336 (2021). The Court of Appeals first determined that the
+District Court has subject matter jurisdiction over this criminal
+prosecution under 18 U. S. C. §3231. As to the FSIA,
+the Court of Appeals assumed without deciding that the FSIA confers
+immunity in criminal proceedings to foreign states and their
+instrumentalities, but held that in any event Halkbank’s
+charged conduct fell within the FSIA’s exception for
+commercial activities.
+
+															We granted certiorari. 598 U. S. ___
+(2022).
+
+															II
+
+															Halkbank first contends that the District
+Court lacks jurisdiction over this criminal prosecution.
+
+															Section 3231 of Title 18 provides: “The
+district courts of the United States shall have original
+jurisdiction, exclusive of the courts of the States, of all
+offenses against the laws of the United States.” Via its
+sweeping language, §3231 opens federal district courts to the
+full range of federal prosecutions for violations of federal
+criminal law. By its terms, §3231 plainly encompasses
+Halkbank’s alleged criminal offenses, which were
+“against the laws of the United States.”
+
+															Halkbank cannot and does not dispute that
+§3231’s text as written encompasses the offenses charged
+in the indictment. Halkbank nonetheless argues that the statute
+implicitly excludes foreign states and their instrumentalities. In
+support of that argument, Halkbank identifies certain civil and
+bankruptcy statutes that expressly refer to actions against foreign
+states and their instrumentalities. See 28 U. S. C.
+§§1330(a), 1603(a)–(b); 11 U. S. C.
+§§101(27), 106(a); Act of Mar. 3, 1875, ch. 137, §1,
+18Stat. 470, as amended, §3, 90Stat. 2891. Because §3231
+refers generically to “all” federal criminal offenses
+without specifically mentioning foreign states or their
+instrumentalities, Halkbank reasons that foreign states and their
+instrumentalities do not fall within §3231’s scope.
+
+															We decline to graft an atextual limitation onto
+§3231’s broad jurisdictional grant over “all
+offenses” simply because several unrelated provisions in the
+U. S. Code happen to expressly reference foreign states and
+instrumentalities. Those scattered references in distinct contexts
+do not shrink the textual scope of §3231, which operates
+“without regard to the identity or status of the
+defendant.” C. Keitner, Prosecuting Foreign States, 61 Va. J.
+Int’l L. 221, 242 (2021). Nor will we create a new
+clear-statement rule requiring Congress to “clearly
+indicat[e] its intent” to include foreign states and their
+instrumentalities within §3231’s jurisdictional grant.
+Brief for Petitioner 11.
+
+															Halkbank also points to §3231’s
+predecessor: a provision of the Judiciary Act of 1789 granting
+district courts “cognizance of all crimes and offences that
+shall be cognizable under the authority of the United
+States.” §9, 1Stat. 76. In Halkbank’s view, other
+statutory provisions from that same era—including several
+that referred to suits against foreign actors—suggest that
+Congress would have expressly referenced foreign states and their
+instrumentalities if Congress had intended the 1789 provision to
+reach those entities. And Halkbank says that we should read
+§3231 like its predecessor provision. The premise is
+unsupported. The 1789 provision, like §3231 itself, contains
+no exception for prosecutions of foreign states or their
+instrumentalities. And this Court has never suggested that the 1789
+provision contains an implicit exception. So the 1789 provision
+does not help Halkbank’s argument that we should find an
+implicit exception in §3231.
+
+															Finally, Halkbank invokes a separate provision
+of the 1789 Judiciary Act granting district courts jurisdiction
+over “all civil causes of admiralty and maritime
+jurisdiction.” §9, id., at 77. Halkbank asserts
+that this Court has construed that provision not to confer
+jurisdiction over foreign state entities. Brief for Petitioner 22,
+25 (citing Schooner Exchange v. McFaddon, 7 Cranch
+116 (1812)). It follows, Halkbank says, that the 1789 Act’s
+similar general reference to “all crimes and offences”
+and its successor §3231’s reference to “all
+offenses” likewise must be interpreted not to reach foreign
+states and their instrumentalities.
+
+															We disagree with Halkbank’s reading of our
+precedents. The case on which Halkbank primarily relies,
+Schooner Exchange, indeed held that a district court lacked
+“jurisdiction” over a suit claiming ownership of a
+French warship docked in a Philadelphia port. 7 Cranch, at
+146–147. But Schooner Exchange did not address
+statutory subject matter jurisdiction. Instead, as this Court has
+since explained, Schooner Exchange concerned principles of
+foreign sovereign immunity that “developed as a matter of
+common law.” Samantar v. Yousuf, 560 U.S.
+305, 311 (2010). Contrary to Halkbank’s contention, the
+common-law sovereign immunity recognized in Schooner
+Exchange is a “rule of substantive law governing the
+exercise of the jurisdiction of the courts,” not an exception
+to a general statutory grant of subject matter jurisdiction.
+Republic of Mexico v. Hoffman, 324 U.S.
+30, 36 (1945); see also Ex parte Peru, 318 U.S.
+578, 587–588 (1943).
+
+															In sum, the District Court has jurisdiction
+under 18 U. S. C. §3231 over this criminal
+prosecution.
+
+															III
+
+															Relying on the Foreign Sovereign Immunities
+Act, Halkbank contends that it enjoys immunity from criminal
+prosecution. We disagree because the Act does not provide foreign
+states and their instrumentalities with immunity from
+criminal proceedings.
+
+															A
+
+															The doctrine of foreign sovereign immunity
+originally developed in U. S. courts “as a matter of
+common law” rather than by statute. Samantar v.
+Yousuf, 560 U.S.
+305, 311 (2010). In determining whether to allow suits against
+foreign sovereigns, however, courts traditionally “deferred
+to the decisions of the political branches—in particular,
+those of the Executive Branch.” Verlinden B. V. v.
+Central Bank of Nigeria, 461 U.S.
+480, 486 (1983); see also Rubin v. Islamic Republic
+of Iran, 583 U. S. ___, ___ (2018) (slip op., at 4);
+Republic of Austria v. Altmann, 541 U.S.
+677, 689 (2004).
+
+															In 1952, the State Department announced the
+“restrictive” theory of foreign sovereign immunity,
+under which immunity was typically afforded in cases involving a
+foreign state’s public acts, but not its strictly commercial
+acts. Rubin, 583 U. S., at ___–___ (slip op., at
+4–5). In the ensuing years, the process by which the
+Executive Branch submitted statements regarding a foreign
+state’s immunity sometimes led to inconsistency, particularly
+in light of the case-by-case diplomatic pressure that the Executive
+Branch received from foreign nations. Verlinden, 461
+U. S., at 487. And when foreign states did not ask the State
+Department to weigh in, courts were left to render immunity rulings
+on their own, generally by reference to prior State Department
+decisions. Opati v. Republic of Sudan, 590 U. S.
+___, ___ (2020) (slip op., at 2); Verlinden, 461 U. S.,
+at 487.
+
+															In 1976, Congress entered the fray and sought
+to standardize the judicial process with respect to immunity for
+foreign sovereign entities in civil cases. Congress passed and
+President Ford signed the Foreign Sovereign Immunities Act. The
+FSIA prescribed a “comprehensive set of legal standards
+governing claims of immunity in every civil action against a
+foreign state.” Id., at 488.
+
+															To that end, the FSIA codifies a baseline
+principle of immunity for foreign states and their
+instrumentalities. 28 U. S. C. §1604. The FSIA then
+sets out exceptions to that principle—including, for example,
+the exception for commercial activities.
+§§1605–1607.
+
+															The FSIA defines a “foreign state”
+to encompass instrumentalities of a foreign state—including
+entities that are directly and majority-owned by a foreign state.
+§§1603(a)–(b); Dole Food Co. v.
+Patrickson, 538 U.S.
+468, 473–474 (2003). (In this case, the United States
+does not contest Halkbank’s status as an instrumentality of a
+foreign state for purposes of the FSIA. Brief for United States 28;
+see also 16 F. 4th, at 342, n. 8.)
+
+															Since the FSIA’s enactment, this Court has
+repeatedly stated that the statute applies in “civil”
+actions. See, e.g., Cassirer v. Thyssen-Bornemisza
+Collection Foundation, 596 U. S. ___, ___ (2022) (slip
+op., at 5); Republic of Argentina v. NML Capital,
+Ltd., 573 U.S.
+134, 141 (2014); Altmann, 541 U. S., at 691;
+Verlinden, 461 U. S., at 488. Although the Court has
+not expressly held that the FSIA covers only civil matters,
+the Court has never applied the Act’s immunity provisions in
+a criminal case.
+
+															We now hold that the FSIA does not grant
+immunity to foreign states or their instrumentalities in criminal
+proceedings. Through the FSIA, Congress enacted a comprehensive
+scheme governing claims of immunity in civil actions against
+foreign states and their instrumentalities. That scheme does not
+cover criminal cases.
+
+															1
+
+															To begin with, the text of the FSIA indicates
+that the statute exclusively addresses civil suits against foreign
+states and their instrumentalities. The first provision of the FSIA
+grants district courts original jurisdiction over “any
+nonjury civil action against a foreign state” as to
+“any claim for relief in personam with respect to which the
+foreign state is not entitled to immunity.” 28
+U. S. C. §1330(a) (emphasis added); 90Stat.
+2891.
+
+															The FSIA then sets forth a carefully calibrated
+scheme that relates only to civil cases. For instance, the sole
+FSIA venue provision exclusively addresses venue in a “civil
+action” against a foreign state. §1391(f ). The Act
+similarly provides for removal to federal court of a “civil
+action” brought in state court. §1441(d). The Act
+prescribes detailed rules—including those governing service
+of “the summons and complaint,” §1608(a)(1), along
+with “an answer or other responsive pleading to the
+complaint,” §1608(d), as well as for any judgment of
+default, §1608(e)—that relate to civil cases alone. So,
+too, the Act’s provision regarding counterclaims concerns
+only civil proceedings. §1607. Finally, the Act renders a
+non-immune foreign state “liable in the same manner and to
+the same extent as a private individual,” except that a
+foreign state (but not an agency or instrumentality thereof)
+“shall not be liable for punitive damages.” §1606.
+Each of those terms characterizes civil, not criminal,
+litigation.
+
+															Other parts of the statute underscore the
+FSIA’s exclusively civil focus. Congress codified its finding
+that authorizing federal courts to determine claims of foreign
+sovereign immunity “would protect the rights of both foreign
+states and litigants in United States courts.”
+§1602 (emphasis added). The statutory term
+“litigants” does not ordinarily sweep in governments
+acting in a prosecutorial capacity. See Black’s Law
+Dictionary 1119 (11th ed. 2019) (defining “litigant” as
+“A party to a lawsuit; the plaintiff or defendant in a court
+action”). What is more, Congress described the FSIA as
+defining “the circumstances in which foreign states are
+immune from suit,” not from criminal investigation or
+prosecution. 90Stat. 2891 (emphasis added).
+
+															In stark contrast to those many provisions
+concerning civil actions, the FSIA is silent as to criminal
+matters. The Act says not a word about criminal proceedings against
+foreign states or their instrumentalities. If Halkbank were correct
+that the FSIA immunizes foreign states and their instrumentalities
+from criminal prosecution, the subject undoubtedly would have
+surfaced somewhere in the Act’s text. Congress typically does
+not “hide elephants in mouseholes.” Whitman v.
+American Trucking Assns., Inc., 531
+U.S. 457, 468 (2001).
+
+															Context reinforces text. Although the vast
+majority of litigation involving foreign states and their
+instrumentalities at the time of the FSIA’s enactment in 1976
+was civil, the Executive Branch occasionally attempted to subject
+foreign-government-owned entities to federal criminal
+investigation. See In re Grand Jury Investigation of
+Shipping Industry, 
+186 F. Supp. 298, 318–320 (DC 1960); In re
+Investigation of World Arrangements, 13 F.R.D. 280,
+288–291 (DC 1952). Given that history, it becomes even more
+unlikely that Congress sought to codify foreign sovereign immunity
+from criminal proceedings without saying a word about such
+proceedings.
+
+															Congress’s determination about the
+FSIA’s precise location within the U. S. Code bolsters
+that inference. Congress expressly decided to house each provision
+of the FSIA within Title 28, which mostly concerns civil procedure.
+See 90Stat. 2891. But the FSIA did not alter Title 18, which
+addresses crimes and criminal procedure.
+
+															Finally, this Court’s decision in
+Samantar supports the conclusion that the FSIA does not
+apply to criminal proceedings. In Samantar, we considered
+whether the FSIA’s immunity provisions applied to a suit
+against an individual foreign official based on actions taken in
+his official capacity. 560 U. S., at 308. Analyzing the
+Act’s “text, purpose, and history,” the Court
+determined that the FSIA’s “comprehensive solution for
+suits against states” does not “exten[d] to suits
+against individual officials.” Id., at 323, 325.
+
+															As in Samantar, we conclude here that the
+FSIA’s provisions concerning suits against foreign states and
+their instrumentalities do not extend to a discrete
+context—in this case, criminal proceedings. The Act’s
+“careful calibration” of jurisdiction, procedures, and
+remedies for civil litigation confirms that Congress did not
+“cover” criminal proceedings. Id., at 319. Put
+simply, immunity in criminal proceedings “was not the
+particular problem to which Congress was responding.”
+Id., at 323.
+
+															2
+
+															In response to all of that evidence of the
+FSIA’s exclusively civil scope, Halkbank emphasizes a
+sentence of the FSIA codified at 28 U. S. C. §1604:
+“Subject to existing international agreements,” a
+“foreign state shall be immune from the jurisdiction of the
+courts of the United States and of the States except as provided in
+sections 1605 to 1607 of this chapter.” Halkbank contends
+that §1604 renders it immune not only from civil suits but
+also from criminal prosecutions.
+
+															In complete isolation, §1604 might be
+amenable to that reading. But this Court has a “duty to
+construe statutes, not isolated provisions.” Graham County
+Soil and Water Conservation Dist. v. United States ex rel.
+Wilson, 559 U.S.
+280, 290 (2010) (internal quotation marks omitted). And the
+Court must read the words Congress enacted “in their context
+and with a view to their place in the overall statutory
+scheme.” Davis v. Michigan Dept. of Treasury,
+489 U.S.
+803, 809 (1989). When we consider §1604 alongside its
+neighboring FSIA provisions, it becomes overwhelmingly evident that
+§1604 does not grant immunity to foreign states and their
+instrumentalities in criminal matters.
+
+															Section 1330(a) is the place to start. This
+Court has explained that “Sections 1604 and 1330(a) work in
+tandem.” Argentine Republic v. Amerada Hess
+Shipping Corp., 488 U.S.
+428, 434 (1989). Indeed, the public law containing the FSIA
+begins with §1330 and then later follows with §1604. See
+90Stat. 2891–2892. Recall that §1330(a) confers
+district-court jurisdiction over “any nonjury civil action
+against a foreign state” as to “any claim for relief in
+personam with respect to which the foreign state is not entitled to
+immunity.” Section 1604 then confers immunity on foreign
+states unless an enumerated statutory exception applies. See
+§§1605–1607.
+
+															Reading the two provisions together (as we must)
+and sequentially (per Congress’s design), the natural
+inference is that §1604 operates exclusively in civil cases.
+Section 1330(a) spells out a universe of civil (and only civil)
+cases against foreign states over which district courts have
+jurisdiction, and §1604 then clarifies how principles of
+immunity operate within that limited civil universe.
+
+															We thus decline to read §1604’s grant
+of immunity to apply in criminal proceedings—a category of
+cases beyond the civil actions contemplated in §1330(a), the
+jurisdictional grant to which §1604 is substantively and
+sequentially linked. Before making that leap, we would expect to
+find some express textual indication regarding §1604’s
+purportedly broader-than-civil scope. But none exists.
+
+															Moreover, Halkbank’s interpretation of
+§1604 is difficult to square with its interpretation of
+§1605, an FSIA provision delineating exceptions to the
+immunity granted in §1604. Halkbank reads §1604 to confer
+immunity in both civil and criminal cases. But Halkbank then turns
+around and insists that the exceptions to that immunity specified
+in §1605—exceptions which, per the statute, apply
+“in any case”—attach exclusively in civil
+matters. Brief for Petitioner 43.
+
+															In other words, Halkbank sees §1330 as
+operating only in civil cases, §1604 in both civil and
+criminal cases, and §1605 only in civil cases. In
+Halkbank’s view, the FSIA’s scope awkwardly flip-flops
+from civil to civil-and-criminal back to civil again in sequential
+provisions. Congress did not write such a mangled statute. The
+better and more natural reading is that §§1330, 1604, and
+1605 operate in tandem within a single universe of civil
+matters.
+
+															The FSIA’s remaining provisions described
+above—namely, those detailing elaborate procedures and
+remedies applicable exclusively in civil cases—strongly
+buttress the conclusion that §1604 “lays down a baseline
+principle of foreign sovereign immunity from civil
+actions,” and from civil actions alone. Cassirer,
+596 U. S., at ___ (slip op., at 5) (emphasis added).
+Considering the FSIA “as a whole,” there is
+“nothing to suggest we should read” §1604 to apply
+to criminal proceedings. Samantar, 560 U. S., at
+319.
+
+															In sum, Halkbank’s narrow focus on
+§1604 misses the forest for the trees (and a single tree at
+that). Halkbank’s §1604 argument reduces to the
+implausible contention that Congress enacted a statute focused
+entirely on civil actions and then in one provision that does not
+mention criminal proceedings somehow stripped the Executive Branch
+of all power to bring domestic criminal prosecutions against
+instrumentalities of foreign states. On Halkbank’s view, a
+purely commercial business that is directly and majority-owned by a
+foreign state could engage in criminal conduct affecting U. S.
+citizens and threatening U. S. national security while facing
+no criminal accountability at all in U. S. courts. Nothing in
+the FSIA supports that result.
+
+															B
+
+															Halkbank advances three additional reasons why
+this Court should read the FSIA to immunize foreign states and
+their instrumentalities from criminal proceedings. None is
+persuasive.
+
+															First, Halkbank emphasizes this
+Court’s statement in a 1989 case that the FSIA is the
+“sole basis for obtaining jurisdiction over a foreign state
+in federal court.” Amerada Hess, 488 U. S., at
+439. But Amerada Hess was not a criminal case. Rather, it
+was a civil case brought under the Alien Tort Statute and under the
+federal courts’ general admiralty and maritime jurisdiction.
+Id., at 432 (citing 28 U. S. C. §§1333,
+1350). This Court has often admonished that “general language
+in judicial opinions” should be read “as referring in
+context to circumstances similar to the circumstances then before
+the Court and not referring to quite different circumstances that
+the Court was not then considering.” Illinois v.
+Lidster, 540 U.S.
+419, 424 (2004). Amerada Hess made clear that the FSIA
+displaces general “grants of subject-matter jurisdiction in
+Title 28”—that is, in civil cases against
+foreign states. 488 U. S., at 437 (citing 28
+U. S. C. §§1331, 1333, 1335, 1337, 1338). The
+Court had no occasion to consider the FSIA’s implications for
+Title 18’s grant of criminal jurisdiction over
+“all” federal criminal offenses. 18 U. S. C.
+§3231.
+
+															At any rate, Amerada Hess’s
+rationale does not translate to the criminal context. The
+Court’s holding as to the nonapplicability of general civil
+jurisdictional grants was based on the FSIA’s own civil
+jurisdictional grant and the “comprehensiveness” of the
+statutory scheme as to civil matters. 488 U. S., at
+434–435, and n. 3, 437 (citing 28 U. S. C.
+§1330(a)). But the FSIA contains no grant of criminal
+jurisdiction and says nothing about criminal matters—a
+distinct legal regime housed in an entirely separate title of the
+U. S. Code. The FSIA did not implicitly repeal or modify 18
+U. S. C. §3231’s core grant of criminal
+jurisdiction.
+
+															Second, Halkbank warns that courts and
+the Executive will lack “congressional guidance” as to
+procedure in criminal cases if we conclude that the FSIA does not
+apply in the criminal context. Brief for Petitioner 37. But that
+concern carried no weight in Samantar, which likewise deemed
+the FSIA’s various procedures inapplicable to a specific
+category of cases—there, suits against foreign officials. In
+any event, the Federal Rules of Criminal Procedure would govern any
+federal criminal proceedings. And although Halkbank argues that
+Congress would not have been “indifferent” to criminal
+jury trials involving instrumentalities of foreign states,
+id., at 38, juries already resolve similarly sensitive cases
+against foreign officials after Samantar.
+
+															Third, Halkbank briefly raises a
+consequentialist argument. According to Halkbank, if the FSIA does
+not apply to criminal proceedings, then state prosecutors
+would also be free to commence criminal proceedings against foreign
+states and their instrumentalities. Halkbank argues that those
+state prosecutions would raise foreign policy concerns. But we must
+interpret the FSIA as written. And the statute simply does not
+grant immunity to foreign states and their instrumentalities in
+criminal matters.
+
+															In addition, it is not evident that the premise
+of Halkbank’s consequentialist argument is correct. To begin
+with, Halkbank offers no history of state prosecutors subjecting
+foreign states or their instrumentalities to criminal jurisdiction.
+And if such a state prosecution were brought, the United States
+could file a suggestion of immunity. A decision by a state court to
+deny foreign sovereign immunity might be reviewable by this Court
+(a question we do not here address). Moreover, state criminal
+proceedings involving foreign states or their instrumentalities
+might be preempted under principles of foreign affairs preemption
+(another question we do not here address). Cf. American Ins.
+Assn. v. Garamendi, 539 U.S.
+396 (2003). And if those principles do not apply or do not
+suffice to protect U. S. national security and foreign policy
+interests, Congress and the President may always respond by
+enacting additional legislation.
+
+															In short, Halkbank’s various FSIA
+arguments are infused with the notion that U. S. criminal
+proceedings against instrumentalities of foreign states would
+negatively affect U. S. national security and foreign policy.
+But it is not our role to rewrite the FSIA based on purported
+policy concerns that Congress and the President have not seen fit
+to recognize. The FSIA does not provide foreign states and their
+instrumentalities with immunity from criminal proceedings.
+
+															IV
+
+															Although the FSIA does not immunize Halkbank
+from criminal prosecution, Halkbank advances one other plea for
+immunity. In the context of a civil proceeding, this Court has
+recognized that a suit not governed by the FSIA “may still be
+barred by foreign sovereign immunity under the common law.”
+Samantar v. Yousuf, 560 U.S.
+305, 324 (2010). Halkbank maintains that principles of
+common-law immunity preclude this criminal prosecution even if the
+FSIA does not. To that end, Halkbank contends that
+common-law-immunity principles operate differently in criminal
+cases than in civil cases. See Brief for Petitioner 34–35,
+44. And Halkbank argues that the Executive Branch cannot
+unilaterally abrogate common-law immunity by initiating
+prosecution. Id., at 44.
+
+															The Government disagrees. Reasoning from
+pre-FSIA history and precedent, the Government asserts that the
+common law does not provide for foreign sovereign immunity when, as
+here, the Executive Branch has commenced a federal criminal
+prosecution of a commercial entity like Halkbank. See Brief for
+United States 21. In the alternative, the Government contends that
+any common-law immunity in criminal cases would not extend to
+commercial activities such as those undertaken by Halkbank.
+Id., at 16–21.
+
+															The Court of Appeals did not fully consider the
+various arguments regarding common-law immunity that the parties
+press in this Court. See 16 F. 4th, at 350–351. Nor did the
+Court of Appeals address whether and to what extent foreign states
+and their instrumentalities are differently situated for purposes
+of common-law immunity in the criminal context. We express no view
+on those issues and leave them for the Court of Appeals to consider
+on remand. Cf. Samantar, 560 U. S., at
+325–326.
+
+															*  *  *
+
+															With respect to the holding of the Court of
+Appeals that the District Court has jurisdiction under 18
+U. S. C. §3231, we affirm. With respect to the
+holding of the Court of Appeals that the FSIA does not provide
+immunity to Halkbank, we affirm on different grounds—namely,
+that the FSIA does not apply to criminal proceedings. With respect
+to common-law immunity, we vacate the judgment of the Court of
+Appeals and remand for the Court of Appeals to consider the
+parties’ common-law arguments in a manner consistent with
+this opinion.
+
+															It is so ordered.
+
+													

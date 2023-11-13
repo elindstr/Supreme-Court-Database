@@ -1,0 +1,170 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1599
+::decision_name::  Polselli v. Internal Revenue Service
+::decision_year:: 2023
+::opinion_author:: Jackson
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1599
+
+															_________________
+
+															HANNA KARCHO POLSELLI, et al.,
+PETITIONERS v. INTERNAL REVENUE SERVICE
+
+															on writ of certiorari to the united states
+court of appeals for the sixth circuit
+
+															[May 18, 2023]
+
+															
+
+															Justice Jackson, with whom Justice Gorsuch
+joins, concurring.
+
+															The Court holds today that there is no
+“legal interest” limitation on the ability of the
+Internal Revenue Service to summon records without notice under 26
+U. S. C. §7609(c)(2)(D)(i). I agree. I write to
+emphasize two points I believe are critical to understanding that,
+despite our rejection of this particular limit, the summoning power
+of the IRS under that provision is circumscribed nonetheless.
+
+															First, while the need for efficient tax
+administration is certainly important and Congress has given the
+agency lots of attendant authority, the default rule when
+the IRS seeks information from third-party recordkeepers under this
+statute is notice. The IRS can summon “any books, papers,
+records, or other data” that “may be relevant or
+material to” determining a taxpayer’s liability or
+collecting unpaid tax. §§7602(a)(1)–(2). And it can
+issue such summonses to “any . . . person
+the [IRS] may deem proper.” §7602(a)(2) (emphasis
+added). But, as a general matter, when the IRS issues a summons
+pursuant to this authority, the agency must provide notice to
+“any person . . . identified in the summons”
+and to whom “any portion of [the requested] records”
+relate. §7609(a)(1) (imposing notice requirement as the
+“general” rule).
+
+															Notice is not a mere formality. In the context
+of tax administration, it serves an important function. Providing
+notice ensures that, when the IRS comes calling, the implicated
+interests are balanced. On one hand, the notice requirement permits
+the IRS to summon recordkeepers for the information it needs,
+without imposing overly burdensome procedural hurdles or inviting
+excessive delay. See, e.g., §7609(a)(2) (allowing the
+IRS to serve notice by mail); §7609(b)(2) (setting time
+limitations on filing a motion to quash). On the other hand,
+notice—and the concomitant right to judicial
+review—empowers persons whose information is at stake to
+enlist assistance from the courts, as needed, to prevent the agency
+from overreaching. §7609(b); see also Tiffany Fine Arts,
+Inc. v. United States, 469 U.S.
+310, 320–321 (1985).
+
+															To be sure, Congress has also recognized that
+there might be situations, particularly in the collection context,
+where providing notice could frustrate the IRS’s ability to
+effectively administer the tax laws. For instance, upon receiving
+notice that the IRS has served a summons, interested persons might
+move or hide collectable assets, making the agency’s
+collection efforts substantially harder.
+
+															That is where the exception at
+§7609(c)(2)(D)(i) comes in. In such circumstances,
+§7609(c)(2)(D)(i) prevents notice from tipping the balance
+entirely in favor of the delinquent taxpayer, at the expense of the
+IRS. But, depending on whose information the summons seeks (for
+example, an innocent third party’s), or the nature of the
+requested records, it might not be reasonable to conclude that
+providing notice would frustrate the IRS’s tax-collection
+goal. And when that is the case, it might unjustifiably tip the
+scales in the other direction (i.e., entirely in the
+IRS’s favor) to allow the IRS to proceed without notice just
+because its delinquency resolution process has entered the
+collection phase.
+
+															In other words, the statute’s balancing of
+interests indicates that Congress did not give the IRS a blank
+check, so to speak, to do with as it will in the collection arena.
+Thus, in my view, courts must not interpret §7609(c)(2)(D)(i)
+as if that agency has been gifted with boundless authority.
+Treating the IRS’s power to issue unnoticed summonses as
+effectively unlimited permits the exception to devour the rule,
+upsetting the statute’s calibration.
+
+															Second, and similarly, it is hard for me
+to believe that, in the context of a default-notice system,
+Congress would intentionally insert an exception that could so
+dramatically upend its objectives. Read too broadly,
+§7609(c)(2)(D)(i) would presumably permit the IRS to summon
+anyone’s records without notice, no matter how broad
+the summons is or how potentially intrusive that records request
+might be, so long as the agency thinks doing so would provide a
+clue to the location of a delinquent taxpayer’s assets.
+
+															Imagine, for example, a delinquent taxpayer who
+routinely visits his local mom-and-pop dry cleaning business.
+Imagine also that the IRS suspects this delinquent taxpayer
+sometimes uses credit cards with different names. Under a broad
+reading of §7609(c)(2)(D)(i), I suppose the IRS could issue a
+summons to the dry cleaner’s bank without notice to the dry
+cleaner, seeking years of the dry cleaner’s financial
+records. The agency might believe that having the entirety of that
+business’s financial information would aid its tax-collection
+efforts—even though the taxpayer has no known financial
+interest in that business, or any special relationship with the
+business’s owners—because knowing what methods of
+payment (or aliases) the taxpayer regularly uses could help the
+agency track down the taxpayer’s assets. And it might intend
+to sift through the requested haystack of the business’s bank
+records in order to find the needle of the taxpayer’s
+transaction information.
+
+															For their part, the dry cleaner’s owners
+would probably look askance at having all of their financial
+records requisitioned and reviewed in this manner. But, without
+notice, they cannot object to the summons’s scope or work
+with the IRS (and the court) to provide the records that most
+likely involve the delinquent taxpayer or his aliases. The owners
+would have to rely on the recipient of the summons (the bank) to
+articulate their privacy concerns and negotiate with the agency.
+Yet there is no guarantee under the statute that the bank will do
+that, and even if it does, how is the bank supposed to identify
+which credit cards may have been used by the delinquent taxpayer
+over a multiyear period?
+
+															This situation seems to me to be the kind of
+circumstance in which Congress would not have intended to prevent
+the dry cleaning business from attempting to protect its interests.
+And, in my view, reading §7609 to require notice—and the
+potential for judicial oversight—in relation to such
+attenuated tax-collection activities is entirely consistent with
+the statutory scheme. Conversely, allowing the agency to sidestep
+oversight of its broad summons power by not providing notice in
+these kinds of situations undermines the important aims of the
+default-notice system.
+
+															The bottom line is this: As I read the statute,
+the IRS is not necessarily exempt from notice obligations any time
+a tax-delinquency matter enters the collection phase. Rather, the
+exception in §7609(c)(2)(D)(i) merely reflects
+Congress’s determination that, in some situations, requiring
+the agency to provide notice in connection with its tax-collection
+efforts would undermine the balance that the statute strikes with
+its default-notice requirement. Consequently, I believe that both
+courts and the IRS itself must be ever vigilant when determining
+when notice is not required. Doing so properly involves a
+careful fact-based inquiry that might well vary from case to case,
+depending on the scope and nature of the information the IRS
+seeks.
+
+													

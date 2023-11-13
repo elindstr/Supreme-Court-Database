@@ -1,0 +1,545 @@
+::SCDB_caseID:: 2013-067
+::decision_cite:: 573 U.S. 431 (2014)
+::decision_name::  ABC v. Aereo, Inc.
+::decision_year:: 2014
+::opinion_author:: Scalia
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13â€“461
+
+															_________________
+
+															AMERICAN BROADCASTING COMPANIES, INC.,etÂ al.,
+PETITIONERS v. AEREO, INC., fkaBAMBOOM LABS, INC.
+
+															on writ of certiorari to the united states court of appeals for
+the second circuit
+
+															[June 25, 2014]
+
+															Â Â Â Â  Justice
+Scalia, with whom Justice Thomas and Justice Alito join,
+dissenting.
+
+															Â Â Â Â  This case
+is the latest skirmish in the long-running copyright battle over
+the delivery of television programming. Petitioners, a collection
+of television networks and affiliates (Networks), broadcast
+copyrighted programs on the public airwaves for all to see. Aereo,
+respondent, operates an automated system that allows subscribers to
+receive, on Internet-connected devices, programs that they select,
+including the Networksâ€™ copyrighted programs.
+The Networks sued Aereo for several forms of copyright
+infringement, but we are here concerned with a single claim: that
+Aereo violates the Networksâ€™
+â€œexclusive righ[t]â€ to
+â€œperformâ€ their programs
+â€œpublicly.â€17
+U.Â S.Â C. Â§106(4). That claim
+fails at the very outset because Aereo does not
+â€œperformâ€ at all. The Court manages
+to reach the opposite conclusion only by disregarding widely
+accepted rules for service-provider liability and adopting in their
+place an improvised standard
+(â€œlooks-like-cable-TVâ€) that will
+sow confusion for years to come.
+
+															I. Legal Standard
+
+															Â Â Â Â  There are
+two types of liability for copyright infringement: direct and
+secondary. As its name suggests, the former applies when an actor
+personally engages in infringing conduct. See Sony Corp. of America
+v. Universal City Studios, Inc.,464 U.Â S. 417,433
+(1984). Secondary liability, by contrast, is a means of holding
+defendants responsible for infringement by third parties, even when
+the defendants â€œhave not themselves engaged in
+the infringing activity.â€ Id., at 435. It applies when
+a defendant â€œintentionally induc[es] or
+encourag[es]â€ infringing acts by others or profits from
+such acts â€œwhile declining to exercise a right
+to stop or limit [them].â€ Metro-Goldwyn-Mayer Studios
+Inc. v. Grokster, Ltd.,545 U. S. 913,930 (2005).
+
+															Â Â Â Â  Most suits
+against equipment manufacturers and service providers involve
+secondary-liability claims. For ex-ample, when movie studios sued
+to block the sale ofSonyâ€™s Betamax videocassette
+recorder (VCR), they argued that Sony was liable because its
+customers were making unauthorized copies. See Sony, supra, at
+434â€“435. Record labels and movie studios relied
+on a similar theory when they sued Grokster and StreamCast, two
+providers of peer-to-peer file-sharing software. See Grokster,
+supra, at 920â€“921, 927.
+
+															Â Â Â Â  This suit,
+or rather the portion of it before us here, is fundamentally
+different. The Networks claim that Aereo directly infringes their
+public-performance right. Accordingly, the Networks must prove that
+Aereo â€œperform[s]â€ copyrighted
+works, Â§106(4), when its subscribers log in, select a
+channel, and push the â€œwatchâ€
+button. That process undoubtedly results in a performance; the
+question is who does the performing. See Cartoon Network LP, LLLP
+v. CSC Holdings, Inc., 536 F.Â 3d 121, 130 (CA2 2008).
+If Aereoâ€™s subscribers perform but Aereo does
+not, the claim necessarily fails.
+
+															Â Â Â Â  The
+Networksâ€™ claim is governed by a simple but
+profoundly important rule: A defendant may be held directly liable
+only if it has engaged in volitional conduct that violates the Act.
+See 3 W. Patry, Copyright Â§9:5.50 (2013). This
+requirement is firmly grounded in the Actâ€™s
+text, which defines â€œperformâ€ in
+active, affirmative terms: One
+â€œperform[s]â€ a copyrighted
+â€œaudiovisual work,â€ such as a movie
+or news broadcast, by â€œshow[ing] its images in
+any sequenceâ€ or â€œmak[ing] the
+sounds accompanying it audible.â€ Â§101. And
+since the Act makes it unlawful to copy or perform copyrighted
+works, not to copy or perform in general, see Â§501(a),
+the volitional-act requirement demands conduct directed to the
+plaintiffâ€™s copyrighted material, see Sony,
+supra, at 434. Every Court of Appeals to have considered an
+automated-service providerâ€™s direct liability
+for copyright infringement has adopted that rule. See Fox
+Broadcasting Co. v. Dish Network LLC, 747 F. 3d 1060,
+1066â€“1068 (CA9 2014); Cartoon Network, supra, at
+130â€“131 (CA2 2008); CoStar Group, Inc. v.
+LoopNet, Inc., 373 F. 3d 544, 549â€“550 (CA4
+2004).[1] Although we have not opined on the
+issue, our cases are fully consistent with a volitional-conduct
+requirement. For example, we gave several examples of direct
+infringement in Sony, each of which involved a volitional act
+directed to the plaintiffâ€™s copyrighted
+material. See 464 U.Â S., at 437, n.Â 18.
+
+															Â Â Â Â  The
+volitional-conduct requirement is not at issue in most
+direct-infringement cases; the usual point of dispute is whether
+the defendantâ€™s conduct is infringing (e.g.,
+Does the defendantâ€™s design copy the
+plaintiffâ€™s?), rather than whether the defendant
+has acted at all (e.g., Did this defendant create the infringing
+design?). But it comes right to the fore when a direct-infringement
+claim is lodged against a defendant who does nothing more than
+operate an automated, user-controlled system. See, e.g., Fox
+Broadcasting, supra, at 1067; Cartoon Network, supra, at 131.
+Internet-service providers are a prime example. When one user sends
+data to another, the providerâ€™s equipment
+facilitates the transfer automatically. Does that mean that the
+provider is directly liable when the transmission happens to result
+in the â€œreproduc[tion],â€
+Â§106(1), of a copyrighted work? It does not. The
+providerâ€™s system is â€œtotally
+indifferent to the materialâ€™s
+content,â€ whereas courts require
+â€œsome aspect of volitionâ€ directed
+at the copyrighted material before direct liability may be imposed.
+CoStar, 373 F.Â 3d, at
+550â€“551.[2] The defendant may
+be held directly liable only if the defendant itself
+â€œtrespassed on the exclusive domain of the
+copyright owner.â€ Id., at 550. Most of the time that
+issue will come down to who selects the copyrighted content: the
+defendant or its customers. See Cartoon Network, supra,
+at131â€“132.
+
+															Â Â Â Â  A
+comparison between copy shops and video-on-demand services
+illustrates the point. A copy shop rents out photocopiers on a
+per-use basis. One customer might copy his
+10-year-oldâ€™s drawingsâ€”a
+perfectly lawful thing to doâ€”while another might
+duplicate a famous artistâ€™s copyrighted
+photographsâ€”a use clearly prohibited by
+Â§106(1). Either way, the customer chooses the content
+and activates the copying function; the photocopier does nothing
+except in response to the customerâ€™s commands.
+Because the shop plays no role in selecting the content, it cannot
+be held directly liable when a customer makes an infringing copy.
+See CoStar, supra, at 550.
+
+															Â Â Â Â 
+Video-on-demand services, like photocopiers, respond automatically
+to user input, but they differ in one crucial respect: They choose
+the content. When a user signs in to Netflix, for example,
+â€œthousands of .Â .Â .
+movies [and] TV episodesâ€ carefully curated by Netflix
+are â€œavailable to watch instantly.â€
+See How [D]oes Netflix [W]ork?, online at
+http://help.netflix.com/en/node/412 (as visited June 20, 2014, and
+available in Clerk of Courtâ€™s case file). That
+selection and arrangement by the service provider constitutes a
+volitional act directed to specific copyrighted works and thus
+serves as a basis for direct liability.
+
+															Â Â Â Â  The
+distinction between direct and secondary liability would collapse
+if there were not a clear rule for deter-mining whether the
+defendant committed the infringing act. See Cartoon Network, 536
+F.Â 3d, at 132â€“133. The
+volitional-conduct requirement supplies that rule; its purpose is
+not to excuse defendants from accountability, but to channel the
+claims against them into the correct analytical track. See Brief
+for 36 Intellectual Property and Copyright Law Professors as Amici
+Curiae 7. Thus, in the example given above, the fact that the copy
+shop does not choose the content simply means that its culpability
+will be assessed using secondary-liability rules rather than
+direct-liability rules. See Sony, supra, at
+434â€“442; Cartoon Network, supra, at
+132â€“133.
+
+															II. Application to Aereo
+
+															Â Â Â Â  So which is
+Aereo: the copy shop or the video-on-demand service? In truth, it
+is neither. Rather, it is akin to a copy shop that provides its
+patrons with a library card. Aereo offers access to an automated
+system consisting of routers, servers, transcoders, and dime-sized
+antennae. Like a photocopier or VCR, that system lies dormant until
+a subscriber activates it. When a subscriber selects a program,
+Aereoâ€™s system picks up the relevant broadcast
+signal, translates its audio and video components into digital
+data, stores the data in a user-specific file, and transmits that
+fileâ€™s contents to the subscriber via the
+Internetâ€”at which point the
+subscriberâ€™s laptop, tablet, or other device
+displays the broadcast just as an ordinary television would. The
+result of that process fits the statutory definition of a
+performance to a tee: The subscriberâ€™s device
+â€œshow[s]â€ the
+broadcastâ€™s
+â€œimagesâ€ and
+â€œmake[s] the sounds accompanyingâ€
+the broadcast â€œaudible.â€
+Â§101. The only question is whether those performances
+are the product of Aereoâ€™s volitional
+conduct.
+
+															Â Â Â Â  They are
+not. Unlike video-on-demand services, Aereo does not provide a
+prearranged assortment of movies and television shows. Rather, it
+assigns each subscriber an antenna thatâ€”like a
+library cardâ€”can be used to obtain whatever
+broadcasts are freely available. Some of those broadcasts are
+copyrighted; others are in the public domain. The key point is that
+subscribers call all the shots: Aereoâ€™s
+automated system does not relay any program, copyrighted or not,
+until a subscriber selects the program and tells Aereo to relay it.
+Aereoâ€™s operation of that system is a volitional
+act and a but-for cause of the resulting performances, but, as in
+the case of the copy shop, that degree of involvement is not enough
+for direct liability. See Grokster, 545 U.Â S., at 960
+(Breyer, J., concurring) (â€œ[T]he producer of a
+technology which permits unlawful copying does not himself engage
+in unlawful copyingâ€).
+
+															Â Â Â Â  In sum,
+Aereo does not â€œperformâ€ for the
+sole and simple reason that it does not make the choice of content.
+And because Aereo does not perform, it cannot be held directly
+liable for infringing the Networksâ€™
+public-performance right.[3] That conclusion does
+not necessarily mean that Aereoâ€™s service
+complies with the Copyright Act. Quite the contrary. The
+Networksâ€™ complaint alleges that Aereo is
+directly and secondarily liable for infringing their
+public-performance rights (Â§106(4)) and also their
+reproduction rights (Â§106(1)). Their request for a
+preliminary injunctionâ€”the only issue before
+this Courtâ€”is based exclusively on the
+direct-liability portion of the public-performance claim (and
+further limited to Aereoâ€™s
+â€œwatchâ€ function, as opposed to its
+â€œrecordâ€ function). See App. to Pet.
+for Cert. 60aâ€“61a. Affirming the judgment below
+would merely return this case to the lower courts for consideration
+of the Networksâ€™ remaining claims.
+
+															III. Guilt By Resemblance
+
+															Â Â Â Â  The
+Courtâ€™s conclusion that Aereo performs boils
+down to the following syllogism: (1) Congress amended the Act to
+overrule our decisions holding that cable systems do not perform
+when they retransmit over-the-air broadcasts;[4]
+(2) Aereo looks a lot like a cable system; therefore (3) Aereo
+performs. Ante, at 4â€“10. That reasoning suffers
+from a trio of defects.
+
+															Â Â Â Â  First, it
+is built on the shakiest of foundations. Perceiving the text to be
+ambiguous, ante, at 4, the Court reaches out to decide the case
+based on a few isolated snippets of legislative history, ante, at
+7â€“8 (citing H.Â R. Rep. No.
+94â€“1476 (1976)). The Court treats those snippets
+as authoritative evidence of congressional intent even though they
+come from a single report issued by a committee whose members make
+up a small fraction of one of the two Houses of Congress. Little
+else need be said here about the severe shortcomings of that
+interpretative methodology. See Lawson v. FMR LLC, 571
+U.Â S. ___, ___ (2014) (Scalia, J., concurring in
+principal part and concurring in judgment) (slip op., at
+1â€“2).
+
+															Â Â Â Â  Second, the
+Courtâ€™s reasoning fails on its own terms because
+there are material differences between the cable systems at issue
+in Teleprompter Corp. v. Columbia Broadcasting System, Inc.,415
+U.Â S. 394 (1974), and Fortnightly Corp. v. United
+Artists Television, Inc.,392 U.Â S. 390 (1968), on the
+one hand and Aereo on the other. The former (which were then known
+as community-antenna television systems) captured the full range of
+broadcast signals and forwarded them to all subscribers at all
+times, whereas Aereo transmits only specific programs selected by
+the user, at specific times selected by the user. The Court
+acknowledges this distinction but blithely concludes that it
+â€œdoes not make a critical
+difference.â€ Ante, at 10. Even if that were true, the
+Court fails to account for other salient differences between the
+two technologies.[5] Though cable systems started
+out essentially as dumb pipes that routed signals from point A to
+point B, see ante, at 5, by the 1970â€™s, that
+kind of service
+â€œÂ â€˜no longer
+exist[ed],â€™Â â€ Brief for
+Petitioners in Columbia Broadcasting System, Inc. v. Teleprompter
+Corp., O. T. 1973, No. 72â€“1633, p. 22. At the
+time of our Teleprompter decision, cable companies
+â€œperform[ed] the same functions as
+â€˜broadcastersâ€™ by
+deliberately selecting and importing distant signals, originating
+programs, [and] selling commercials,â€ id., at 20, thus
+making them curators of contentâ€”more akin to
+video-on-demand services than copy shops. So far as the record
+reveals, Aereo does none of those things.
+
+															Â Â Â Â  Third, and
+most importantly, even accepting that the 1976 amendments had as
+their purpose the overruling of our cable-TV cases, what they were
+meant to do and how they did it are two different
+questionsâ€”and it is the latter that governs the
+case before us here. The injury claimed is not violation of a law
+that says operations similar to cable TV are subject to copyright
+liability, but violation of Â§106(4) of the Copyright
+Act. And whatever soothing reasoning the Court uses to reach its
+result (â€œthis looks like cable TVâ€),
+the consequence of its holding is that someone who implements this
+technology â€œperform[s]â€ under that
+provision. That greatly disrupts settled jurisprudence which,
+before today, applied the straightforward, bright-line test of
+volitional conduct directed at the copyrighted work. If that test
+is not outcome determinative in this case, presumably it is not
+outcome determinative elsewhere as well. And it is not clear what
+the Court proposes to replace it. Perhaps the Court means to adopt
+(invent, really) a two-tier version of the Copyright Act, one part
+of which applies to â€œcable companies and their
+equivalentsâ€ while the other governs everyone else.
+Ante, at 9â€“10, 16.
+
+															Â Â Â Â  The
+rationale for the Courtâ€™s adÂ hoc
+rule for cable-system lookalikes is so broad that it renders nearly
+a third of the Courtâ€™s opinion superfluous. Part
+II of the opinion concludes that Aereo performs because it
+resembles a cable company, and Congress amended the Act in 1976
+â€œto bring the activities of cable systems within
+[its] scope.â€ Ante, at 8. Part III of the opinion
+purports to address separately the question whether Aereo performs
+â€œpub-licly.â€ Ante, at
+10â€“15. Trouble is, that question cannot remain
+open if Congressâ€™s supposed intent to regulate
+whatever looks like a cable company must be given legal effect (as
+the Court says in Part II). The Act reaches only public
+performances, see Â§106(4), so Congress could not have
+regulated â€œthe activities of cable
+systemsâ€ without deeming their retransmissions public
+performances. The upshot is this: If Aereoâ€™s
+similarity to a cable company means that it performs, then by
+necessity that same characteristic means that it does so publicly,
+and Part III of the Courtâ€™s opinion discusses an
+issue that is no longer relevantâ€”though
+discussing it certainly gives the opinion the
+â€œfeelâ€ of real textual analysis.
+
+															Â Â Â Â  Making
+matters worse, the Court provides no criteria for determining when
+its cable-TV-lookalike rule applies. Must a defendant offer access
+to live television to qualify? If similarity to cable-television
+service is the measure, then the answer must be yes. But consider
+the implications of that answer: Aereo would be free to do exactly
+what it is doing right now so long as it built mandatory time
+shifting into its â€œwatchâ€
+function.[6] Aereo would not be providing live
+television if it made subscribers wait to tune in until after a
+showâ€™s live broadcast ended. A subscriber could
+watch the 7 p.m. airing of a 1-hour program any time after 8 p.m.
+Assuming the Court does not intend to adopt such a do-nothing rule
+(though it very well may), there must be some other means of
+identifying who is and is not subject to its guilt-by-resemblance
+regime.
+
+															Â Â Â Â  Two other
+criteria come to mind. One would cover any automated service that
+captures and stores live television broadcasts at a
+userâ€™s direction. That canâ€™t
+be right, since it is exactly what remote storage digital video
+recorders (RSâ€“DVRs) do, see Cartoon Network, 536
+F.Â 3d, at 124â€“125, and the Court
+insists that its â€œlimited holdingâ€
+does not decide the fate of those devices, ante, at
+16â€“17. The other potential benchmark is the one
+offered by the Government: The cable-TV-lookalike rule embraces any
+entity that â€œoperates an integrated system,
+substantially dependent on physical equipment that is used in
+common by [its] subscribers.â€ Brief for United States
+as Amicus Curiae 20. The Court sensibly avoids that approach
+because it would sweep in Internet service providers and a host of
+other entities that quite obviously do not perform.
+
+															Â Â Â Â  That leaves
+as the criterion of cable-TV-resemblance nothing but
+thâ€™olâ€™
+totality-of-the-circumstances test (which is not a test at all but
+merely assertion of an intent to perform test-free,
+adÂ hoc, case-by-case evaluation). It will take years,
+perhaps decades, to determine which automated systems now in
+existence are governed by the tradi-tional volitional-conduct test
+and which get the Aereo treatment. (And automated systems now in
+contemplation will have to take their chances.) The Court vows that
+its ruling will not affect cloud-storage providers and
+cable-television systems, see ante, at 16â€“17,
+but it cannot deliver on that promise given the imprecision of its
+result-driven rule. Indeed, the difficulties inherent in the
+Courtâ€™s makeshift approach will become apparent
+in this very case. Todayâ€™s decision addresses
+the legality of Aereoâ€™s
+â€œwatchâ€ function, which provides
+nearly contemporaneous access to live broadcasts. On remand, one of
+the first questions the lower courts will face is whether
+Aereoâ€™s â€œrecordâ€
+function, which allows subscribers to save a program while it is
+airing and watch it later, infringes the
+Networksâ€™ public-performance right. The
+volitional-conduct rule provides a clear answer to that question:
+Because Aereo does not select the programs viewed by its users, it
+does not perform. But it is impossible to say how the issue will
+come out under the Courtâ€™s analysis, since cable
+companies did not offer remote recording and playback services when
+Congress amended the Copyright Act in 1976.
+
+															
+*â€ƒâ€ƒ*â€ƒâ€ƒ*
+
+															Â Â Â Â  I share the
+Courtâ€™s evident feeling that what Aereo is doing
+(or enabling to be done) to the Networksâ€™
+copyrighted programming ought not to be allowed. But perhaps we
+need not distort the Copyright Act to forbid it. As discussed at
+the outset, Aereoâ€™s secondary liability for
+performance infringement is yet to be determined, as is its primary
+and secondary liability for reproduction infringement. If that does
+not suffice, then (assuming one shares the
+majorityâ€™s estimation of right and wrong) what
+we have before us must be considered a
+â€œloopholeâ€ in the law. It is not the
+role of this Court to identify and plug loopholes. It is the role
+of good lawyers to identify and exploit them, and the role of
+Congress to eliminate them if it wishes. Congress can do that, I
+may add, in a much more targeted, better informed, and less
+disruptive fashion than the crude
+â€œlooks-like-cable-TVâ€ solution the
+Court invents today.
+
+															Â Â Â Â  We came
+within one vote of declaring the VCR contraband 30 years ago in
+Sony. See 464 U.Â S., at 441, n. 21. The dissent in that
+case was driven in part by the plaintiffsâ€™
+prediction that VCR technology would wreak all manner of havoc in
+the television and movie industries. See id., at 483 (opinion of
+Blackmun, J.); see also Brief for CBS, Inc., as Amicus Curiae, O.
+T. 1982, No. 81â€“1687, p. 2 (arguing that VCRs
+â€œdirectly threatenedâ€ the bottom
+line of â€œ[e]very broadcasterâ€).
+
+															Â Â Â Â  The
+Networks make similarly dire predictions about Aereo. We are told
+that nothing less than â€œthe very existence of
+broadcast television as we know itâ€ is at stake. Brief
+for Petitioners 39. Aereo and its amici dispute those forecasts and
+make a few of their own, suggesting that a decision in the
+Networksâ€™ favor will stifle technological
+innovation and imperil billions of dollars of investments in
+cloud-storage services. See Brief for Respondents
+48â€“51; Brief for BSA, The Software Alliance as
+Amicus Curiae 5â€“13. We are in no position to
+judge the validity of those self-interested claims or to foresee
+the path of future technological development. See Sony, supra, at
+430â€“431; see also Grokster, 545
+U.Â S., at 958 (Breyer, J., concurring). Hence, the
+proper course is not to bend and twist the Actâ€™s
+terms in an effort to produce a just outcome, but to apply the law
+as it stands and leave to Congress the task of deciding whether the
+Copyright Act needs an upgrade. I conclude, as the Court concluded
+in Sony: â€œIt may well be that Congress will take
+a fresh look at this new technology, just as it so often has
+examined other innovations in the past. But it is not our job to
+apply laws that have not yet been written. Applying the copyright
+statute, as it now reads, to the facts as they have been developed
+in this case, the judgment of the Court of Appeals must be
+[affirmed].â€ 464 U.Â S., at 456.
+
+															Â Â Â Â  I
+respectfully dissent.
+
+Notes
+1Â An unpublished decision of the
+Third Circuit is to the same effect. v. , 242 Fed. Appx. 833,
+836â€“837 (2007) ().
+2Â Congress has enacted several
+safe-harbor provisions applicable to automated network processes,
+see, â€“(b), but those provisions do not foreclose
+â€œany other defense,â€
+Â§512(), including a volitional-conduct
+defense.
+3Â Because I conclude that Aereo
+does not perform at all, I do not reach the question whether the
+performances in this case are to the public. See at
+10â€“15.
+4Â See Teleprompter Corp. v.
+Columbia Broadcasting System, Inc., 415 U. S. 394 (1974);
+Fortnightly Corp. v. United Artists Television, Inc., 392 U.
+S. 390 (1968).
+5Â The Court observes that
+â€œ[t]he subscribers of the and cable systems
+.Â .Â . selected what programs to display on
+their receiving sets,â€ but acknowledges that those
+choices were possible only because â€œthe
+television signals, in a sense, lurked behind the screen, ready to
+emerge when the subscriber turned the knob.â€ at 10. The
+latter point is dispositive: The signals were
+â€œready to emergeâ€ because the cable
+systemâ€”much like a video-on-demand
+providerâ€”took affirmative, volitional steps to
+them there. As discussed above, the same cannot be said of the
+programs available through Aereoâ€™s automated
+system.
+6Â Broadcasts accessible through
+the â€œwatchâ€ function are technically
+not live because Aereoâ€™s servers take anywhere
+from a few seconds to a few minutes to begin transmitting data to a
+subscriberâ€™s device. But the resulting delay is
+so brief that it cannot reasonably be classified as time
+shifting.
+
+

@@ -1,0 +1,222 @@
+::SCDB_caseID:: 2021-059
+::decision_cite:: 21-401
+::decision_name::  ZF Automotive U. S., Inc. v. Luxshare, Ltd.
+::decision_year:: 2022
+::opinion_author:: Barrett
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 21–401 and 21–518
+
+															_________________
+
+															ZF AUTOMOTIVE US, INC., et al., PETITIONERS
+
+															21–401v.
+
+															LUXSHARE, LTD.
+
+															on writ of certiorari before judgment to the united states court of appeals for the sixth circuit
+
+															
+
+															ALIXPARTNERS, LLP, et al., PETITIONERS
+
+															21–518v.
+
+															THE FUND FOR PROTECTION OF INVESTORS’ RIGHTS IN FOREIGN STATES
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															 [June 13, 2022]
+
+															Justice Barrett delivered the opinion of the Court.
+
+															Congress has long allowed federal courts to assist foreign or international adjudicative bodies in evidence gathering.  The current statute,
+
+28 U. S. C. §1782, permits district courts to order testimony or the production of evidence “for use in a proceeding in a foreign or international tribunal.”  These consolidated cases require us to decide whether private adjudicatory bodies count as “foreign or international tribunals.”  They do not.  The statute reaches only governmental or intergovernmental adjudicative bodies, and neither of the arbitral panels involved in these cases fits that bill.
+
+															I
+
+															Both cases before us involve a party seeking discovery in the United States for use in arbitration proceedings abroad.  In both, the party seeking discovery invoked §1782, which permits a district court to order the production of certain evidence “for use in a proceeding in a foreign or international tribunal.”  And in both, the party resisting discovery argued that the arbitral panel at issue did not qualify as a “foreign or international tribunal” under the statute.
+
+															But while these cases present the same threshold legal question, their factual contexts differ.  We discuss each in turn.
+
+															A
+
+															The first case involves an allegation of fraud in a business deal gone sour.  ZF Automotive US, Inc., a Michigan-based automotive parts manufacturer and subsidiary of a German corporation, sold two business units to Luxshare, Ltd., a Hong Kong-based company, for almost a billion dollars.  Luxshare claims that after the deal was done, it discovered that ZF had concealed information about the business units.  As a result, Luxshare says, it overpaid by hundreds of millions of dollars.
+
+															In the contract governing the sale, the parties had agreed that all disputes would be “exclusively and finally settled by three (3) arbitrators in accordance with the Arbitration Rules of the German Institution of Arbitration e.V. (DIS).”  App. in No. 21–401, p. 93.  DIS is a private dispute-resolution organization based in Berlin.  The agreement, which is governed by German law, provides that arbitration take place in Munich and that the arbitration panel be formed by Luxshare and ZF each choosing one arbitrator and those two arbitrators choosing a third.
+
+															With an eye toward initiating a DIS arbitration against ZF, Luxshare filed an ex parte application under §1782 in the U. S. District Court for the Eastern District of Michigan, seeking information from ZF and two of its senior officers.  (Section 1782 allows a party to obtain discovery even in advance of a proceeding.  See Intel Corp. v. Advanced Micro Devices, Inc.,
+
+542 U.S. 241, 259 (2004).)  The District Court granted the request, and Luxshare served subpoenas on ZF and the officers.
+
+															ZF moved to quash the subpoenas, arguing (among other things) that the DIS panel was not a “foreign or international tribunal” under §1782.  As ZF acknowledged, however, Circuit precedent foreclosed that argument.  See Abdul Latif Jameel Transp. Co. v. FedEx Corp., 939 F.3d 710 (CA6 2019).  The District Court ordered ZF to produce documents and an officer to sit for a deposition, and the Sixth Circuit denied ZF’s request for a stay.
+
+															We granted a stay and certiorari before judgment to resolve a split among the Courts of Appeals over whether the phrase “foreign or international tribunal” in §1782 includes private arbitral panels.  Compare Servotronics, Inc. v. Boeing Co., 954 F.3d 209 (CA4 2020); Abdul Latif, 939 F.3d 710, with National Broadcasting Co. v. Bear Stearns & Co., 165 F.3d 184 (CA2 1999); Republic of Kazakhstan v. Biedermann Int’l, 168 F.3d 880 (CA5 1999); Servotronics, Inc. v. Rolls-Royce PLC, 975 F.3d 689 (CA7 2020).
+
+															B
+
+															The second case began with a dispute between Lithuania and a disappointed Russian investor in AB bankas SNORAS (Snoras), a failed Lithuanian bank.  After finding Snoras unable to meet its obligations, Lithuania’s central bank nationalized it and appointed Simon Freakley, currently the CEO of a New York-based consulting firm called AlixPartners, LLP, as a temporary administrator.  After Freakley issued a report on Snoras’ financial status, Lithuanian authorities commenced bankruptcy proceedings and declared Snoras insolvent.  The Fund for Protection of Investors’ Rights in Foreign States—a Russian corporation and the assignee of the Russian investor—claims that Lithuania expropriated certain investments from Snoras along the way.
+
+															The Fund initiated a proceeding against Lithuania under a bilateral investment treaty between Lithuania and Russia (titled “Agreement Between the Government of the Russian Federation and the Government of the Republic of Lithuania on the Promotion and Reciprocal Protection of the Investments”).  App. to Pet. for Cert. in No. 21–518, p. 56a.  The treaty seeks to promote “favourable conditions for investments made by investors of one Contracting Party in the territory of the other Contracting Party.”  Ibid.
+
+															Relevant here, the treaty addresses the procedure for resolving “any dispute between one Contracting Party and [an] investor of the other Contracting Party concerning” investments in the first Contracting Party’s territory.  Id., at 64a.  It provides that if the parties cannot resolve their dispute within six months, “the dispute, at the request of either party and at the choice of an investor, shall be submitted to” one of four specified forums.  Id., at 64a–65a.  The Fund chose “an ad hoc arbitration in accordance with Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL),” with each party selecting one arbitrator and those two choosing a third.  Id., at 65a; App. in No. 21–518, p. 159a.  Under the treaty, “[t]he arbitral decision shall be final and binding on both parties of the dispute.”  App. to Pet. for Cert. in No. 21–518, at 65a.
+
+															After initiating arbitration, but before the selection of arbitrators, the Fund filed a §1782 application in the U. S. District Court for the Southern District of New York, seeking information from Freakley and AlixPartners about Freakley’s role as temporary administrator of Snoras.  AlixPartners resisted discovery, arguing that the ad hoc arbitration panel was not a “foreign or international tribunal” under §1782 but instead a private adjudicative body.  The District Court rejected that argument and granted the Fund’s discovery request.
+
+															The Second Circuit affirmed.  Unlike the Sixth Circuit, the Second Circuit had previously held that a private arbitration panel does not constitute a “foreign or international tribunal” under §1782.  See National Broadcasting Co., 165 F.3d 184.  But it still had to decide how to classify the ad hoc panel that would adjudicate the dispute between the Fund and Lithuania.  After employing a multifactor test to determine “ ‘whether the body in question possesses the functional attributes most commonly associated with private arbitration,’ ” it concluded that the ad hoc panel was “foreign or international” rather than private.  5 F. 4th 216, 225, 228 (2021).
+
+															We granted certiorari and consolidated the two cases.  595 U. S. ___ (2021).
+
+															II
+
+															We begin with the question whether the phrase “foreign or international tribunal” in §1782 includes private adjudicative bodies or only governmental or intergovernmental bodies.  If the former, all agree that §1782 permits discovery to proceed in both cases.  If the latter, we must determine whether the arbitral panels in these cases qualify as governmental or intergovernmental bodies.
+
+															A
+
+															Section 1782(a) provides:
+
+															“The district court of the district in which a person resides or is found may order him to give his testimony or statement or to produce a document or other thing for use in a proceeding in a foreign or international tribunal, including criminal investigations conducted before formal accusation.”
+
+															The key phrase for purposes of this case is “foreign or international tribunal.”
+
+															Standing alone, the word “tribunal” casts little light on the question.  It can be used as a synonym for “court,” in which case it carries a distinctively governmental flavor.  See, e.g., Black’s Law Dictionary 1677 (4th ed. rev. 1968) (“[t]he seat of a judge” or “a judicial court; the jurisdiction which the judges exercise”).  But it can also be used more broadly to refer to any adjudicatory body.  See, e.g., American Heritage Dictionary 1369 (1969) (“[a]nything having the power of determining or judging”).  Here, statutory history indicates that Congress used “tribunal” in the broader sense.  A prior version of §1782 covered “any judicial proceeding” in “any court in a foreign country,”
+
+28 U. S. C. §1782 (1958 ed.), but in 1964, Congress expanded the provision to cover proceedings in a “foreign or international tribunal.”  As we have previously observed, that shift created “ ‘the possibility of U. S. judicial assistance in connection with administrative and quasi-judicial proceedings abroad.’ ”  Intel, 542 U. S., at 258 (alterations omitted).  So a §1782 “tribunal” need not be a formal “court,” and the broad meaning of “tribunal” does not itself exclude private adjudicatory bodies.[1]  If we had nothing but this single word to go on, there would be a good case for including private arbitral panels. 
+
+															This is where context comes in.  “Tribunal” does not stand alone—it belongs to the phrase “foreign or international tribunal.”  And attached to these modifiers, “tribunal” is best understood as an adjudicative body that exercises governmental authority.[2]  Cf. FCC v. AT&T Inc.,
+
+562 U.S. 397, 406 (2011) (“[T]wo words together may assume a more particular meaning than those words in isolation”).
+
+															Take “foreign tribunal” first.  Congress could have used “foreign” in one of two ways here.  It could mean something like “[b]elonging to another nation or country,” which would support reading “foreign tribunal” as a governmental body.  Black’s Law Dictionary, at 775.  Or it could more generally mean “from” another country, which would sweep in private adjudicative bodies too.  See, e.g., Random House Dictionary of the English Language 555 (1966) (“derived from another country or nation; not native”).  The first meaning is the better fit.
+
+															The word “foreign” takes on its more governmental meaning when modifying a word with potential governmental or sovereign connotations.  That is why “foreign” suggests something different in the phrase “foreign leader” than it does in “foreign films.”  Brief for Petitioners in No. 21–401, pp. 20–21; Brief for Respondent in No. 21–401, pp. 7–8.  The phrase “foreign leader” brings to mind “an official of a foreign state, not a team captain of a European football club.”  Brief for United States as Amicus Curiae 17.  So too with “foreign tribunal.”  “Tribunal” is a word with potential governmental or sovereign connotations, so “foreign tribunal” more naturally refers to a tribunal belonging to a foreign nation than to a tribunal that is simply located in a foreign nation.  And for a tribunal to belong to a foreign nation, the tribunal must possess sovereign authority conferred by that nation.  See id., at 14–15 (a governmental adjudicator is “one whose role in deciding the dispute rests on” a “nation’s sovereign authority”).
+
+															This reading of “foreign tribunal” is reinforced by the statutory defaults for discovery procedure.  In addition to authorizing district courts to order testimony or the production of evidence, §1782 permits them to “prescribe the practice and procedure, which may be in whole or part the practice and procedure of the foreign country or the international tribunal, for taking the testimony or statement or producing the document or other thing.”  §1782(a) (emphasis added).  The reference to the procedure of “the foreign country or the international tribunal” parallels the authorization for district courts to grant discovery for use in a “foreign or international tribunal” mentioned just before in §1782.  The statute thus presumes that a “foreign tribunal” follows “the practice and procedure of the foreign country.”  It is unremarkable for the statute to presume that a foreign court, quasi-judicial body, or any other governmental adjudicatory body follows the practice and procedures prescribed by the government that conferred authority on it.[3]  But that would be an odd assumption to make about a private adjudicatory body, which is typically the creature of an agreement between private parties who prescribe their own rules.  See Stolt-Nielsen S. A. v. AnimalFeeds Int’l Corp.,
+
+559 U.S. 662, 683 (2010).  That the default discovery procedures for a “foreign tribunal” are governmental suggests that the body is governmental too.
+
+															Now for “international tribunal.”  “International” can mean either (1) involving or of two or more “nations,” or (2) involving or of two or more “nationalities.”  American Heritage Dictionary, at 685 (“[o]f, relating to, or involving two or more nations or nationalities”); see also Random House Dictionary, at 743 (“between or among nations; involving two or more nations”; “of or pertaining to two or more nations or their citizens”).  The latter definition is unlikely in this context because an adjudicative body would be “international” if it had adjudicators of different nationalities—and it would be strange for the availability of discovery to turn on the national origin of the adjudicators.  So no party argues that “international” carries that meaning here.  A tribunal is “international” when it involves or is of two or more nations, meaning that those nations have imbued the tribunal with official power to adjudicate disputes.  See Tr. of Oral Arg. 77 (the United States arguing that “the touchstone” is whether the body is “exercising official power on behalf of the two governments”).
+
+															So understood, “foreign tribunal” and “international tribunal” complement one another; the former is a tribunal imbued with governmental authority by one nation, and the latter is a tribunal imbued with governmental authority by multiple nations.
+
+															B
+
+															Section 1782’s focus on governmental and intergovernmental tribunals is confirmed by both the statute’s history and a comparison to the Federal Arbitration Act (FAA),
+
+9 U. S. C. §1 et seq.
+
+															From the start, the statute has been about respecting foreign nations and the governmental and intergovernmental bodies they create.  From 1855 until 1964, §1782 and its antecedents covered assistance only to foreign “courts.”  See Act of Mar. 2, 1855, ch. 140, §2,
+
+10Stat.
+630; Act of Mar. 3, 1863, ch. 95, §1,
+
+12Stat.
+769; Act of Feb. 27, 1877, ch. 69, §875,
+
+19Stat.
+241; Act of June 25, 1948, ch. 646, §1782,
+
+62Stat.
+949;
+
+28 U. S. C. §1782 (1958 ed.).  And before 1964, a separate strand of law covered assistance to “ ‘any international tribunal or commission . . . in which the United States participate[d] as a party.’ ”  Act of June 7, 1933, ch. 50,
+
+48Stat.
+117.  The process of combining these two statutory lines began when Congress established the Commission on International Rules of Judicial Procedure.  See Act of Sept. 2, 1958, Pub. L. 85–906, §§1–2,
+
+72Stat.
+1743.  It charged the Commission with improving the process of judicial assistance, specifying that the “assistance and cooperation” was “between the United States and foreign countries” and that “the rendering of assistance to foreign courts and quasi-judicial agencies” should be improved.  Ibid. (emphasis added).  In 1964, Congress adopted the Commission’s proposed legislation, which became the modern version of §1782.
+
+															Interpreting §1782 to reach only bodies exercising governmental authority is consistent with Congress’ charge to the Commission.  Seen in light of the statutory history, the amendment did not signal an expansion from public to private bodies, but rather an expansion of the types of public bodies covered.  By broadening the range of governmental and intergovernmental bodies included in §1782, Congress increased the “assistance and cooperation” rendered by the United States to those nations.
+
+															After all, the animating purpose of §1782 is comity: Permitting federal courts to assist foreign and international governmental bodies promotes respect for foreign governments and encourages reciprocal assistance.  It is difficult to see how enlisting district courts to help private bodies would serve that end.  Such a broad reading of §1782 would open district court doors to any interested person seeking assistance for proceedings before any private adjudicative body—a category broad enough to include everything from a commercial arbitration panel to a university’s student disciplinary tribunal.  See Brief for Petitioners in No. 21–401, at 19.  Why would Congress lend the resources of district courts to aid purely private bodies adjudicating purely private disputes abroad?
+
+															Extending §1782 to include private bodies would also be in significant tension with the FAA, which governs domestic arbitration, because §1782 permits much broader discovery than the FAA allows.  Among other differences, the FAA permits only the arbitration panel to request discovery, see
+
+9 U. S. C. §7, while district courts can entertain §1782 requests from foreign or international tribunals or any “interested person,”
+
+28 U. S. C. §1782(a).  In addition, prearbitration discovery is off the table under the FAA but broadly available under §1782.  See Intel, 542 U. S., at 259 (holding that discovery is available for use in proceedings “within reasonable contemplation”).  Interpreting §1782 to reach private arbitration would therefore create a notable mismatch between foreign and domestic arbitration.  And as the Seventh Circuit observed, “[i]t’s hard to conjure a rationale for giving parties to private foreign arbitrations such broad access to federal-court discovery assistance in the United States while precluding such discovery assistance for litigants in domestic arbitrations.”  Rolls-Royce, 975 F. 3d, at 695.
+
+															*  *  *
+
+															In sum, we hold that §1782 requires a “foreign or international tribunal” to be governmental or intergovernmental.  Thus, a “foreign tribunal” is one that exercises governmental authority conferred by a single nation, and an “international tribunal” is one that exercises governmental authority conferred by two or more nations.  Private adjudicatory bodies do not fall within §1782.
+
+															III
+
+															That leaves the question whether the adjudicative bodies in the cases before us are governmental or intergovernmental.  They are not.
+
+															A
+
+															Analyzing the status of the arbitral panel involved in Luxshare’s dispute with ZF is straightforward.  Private parties agreed in a private contract that DIS, a private dispute-resolution organization, would arbitrate any disputes between them.  See Stolt-Nielsen, 559 U. S., at 682 (“[A]n arbitrator derives his or her powers from the parties’ agreement to forgo the legal process and submit their disputes to private dispute resolution”).  By default, DIS panels operate under DIS rules, just like panels of any other private arbitration organization operate under private arbitral rules.  The panels are formed by the parties—with each party selecting one arbitrator and those two arbitrators choosing a third.  No government is involved in creating the DIS panel or prescribing its procedures.  This adjudicative body therefore does not qualify as a governmental body.
+
+															Luxshare weakly suggests that a commercial arbitral panel like the DIS panel qualifies as governmental so long as the law of the country in which it would sit (here, Germany) governs some aspects of arbitration and courts play a role in enforcing arbitration agreements.  See Brief for Respondent in No. 21–401, at 26–27; Boeing, 954 F. 3d, at 213–214.  But private entities do not become governmental because laws govern them and courts enforce their contracts—that would erase any distinction between private and governmental adjudicative bodies.  Luxshare’s implausibly broad definition of a governmental adjudicative body is nothing but an attempted end run around §1782’s limit.
+
+															B
+
+															The ad hoc arbitration panel at issue in the Fund’s dispute with Lithuania presents a harder question.  A sovereign is on one side of the dispute, and the option to arbitrate is contained in an international treaty rather than a private contract.  These factors, which the Fund emphasizes, offer some support for the argument that the ad hoc panel is intergovernmental.  Yet neither Lithuania’s presence nor the treaty’s existence is dispositive, because Russia and Lithuania are free to structure investor-state dispute resolution as they see fit.  What matters is the substance of their agreement: Did these two nations intend to confer governmental authority on an ad hoc panel formed pursuant to the treaty?  See BG Group plc v. Republic of Argentina,
+
+572 U.S. 25, 37 (2014) (“As a general matter, a treaty is a contract, though between nations,” and “[i]ts interpretation normally is, like a contract’s interpretation, a matter of determining the parties’ intent”).
+
+															The provision regarding ad hoc arbitration appears in Article 10, which permits an investor to choose one of four forums to resolve disputes:
+
+															“a) [a] competent court or court of arbitration of the Contracting Party in which territory the investments are made;
+
+															“b) the Arbitration Institute of the Stockholm Chamber of Commerce;
+
+															“c) the Court of Arbitration of the International Chamber of Commerce;
+
+															“d) an ad hoc arbitration in accordance with Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).”  App. to Pet. for Cert. in No. 21–518, at 64a–65a.
+
+															The options on this menu vary in form.  For example, a “competent court or court of arbitration of the Contracting Party” (i.e., the state in which an investor does business) is clearly governmental; a court “of ” a sovereign belongs to that sovereign.  The inclusion of courts on the list reflects Russia and Lithuania’s intent to give investors the choice of bringing their disputes before a pre-existing governmental body.
+
+															An ad hoc arbitration panel, by contrast, is not a pre-existing body, but one formed for the purpose of adjudicating investor-state disputes.  And nothing in the treaty reflects Russia and Lithuania’s intent that an ad hoc panel exercise governmental authority.  For instance, the treaty does not itself create the panel; instead, it simply references the set of rules that govern the panel’s formation and procedure if an investor chooses that forum.  In addition, the ad hoc panel “functions independently” of and is not affiliated with either Lithuania or Russia.  5 F. 4th, at 226.  It consists of individuals chosen by the parties and lacking any “official affiliation with Lithuania, Russia, or any other governmental or intergovernmental entity.”  Ibid.  And it lacks other possible indicia of a governmental nature.  See ibid. (“[T]he panel receives zero government funding,” “the proceedings . . . maintain confidentiality,” and the “ ‘award may be made public only with the consent of both parties’ ”).[4]
+
+															Indeed, the ad hoc panel at issue in the Fund’s dispute with Lithuania is “materially indistinguishable in form and function” from the DIS panel resolving the dispute between ZF and Luxshare.  Brief for George A. Bermann et al. as Amici Curiae 19.  In a private arbitration, the panel derives its authority from the parties’ consent to arbitrate.  The ad hoc panel in this case derives its authority in essentially the same way.  Russia and Lithuania each agreed in the treaty to submit to ad hoc arbitration if an investor chose it.  The Fund took Lithuania up on that offer by initiating such an arbitration, thereby triggering the formation of an ad hoc panel with the authority to resolve the parties’ dispute.  That authority exists because Lithuania and the Fund consented to the arbitration, not because Russia and Lithuania clothed the panel with governmental authority.  Cf. Granite Rock Co. v. Teamsters,
+
+561 U.S. 287, 299 (2010) (“[T]he first principle that underscores all of our arbitration decisions” is that “[a]rbitration is strictly ‘a matter of consent’ ”); AT&T Technologies, Inc. v. Communications Workers,
+
+475 U.S. 643, 648–649 (1986) (“[A]rbitrators derive their authority to resolve disputes only because the parties have agreed in advance to submit such grievances to arbitration”).  So inclusion in the treaty does not, as the Fund suggests, automatically render ad hoc arbitration governmental.  Instead, it reflects the countries’ choice to offer investors the potentially appealing option of bringing their disputes to a private arbitration panel that operates like commercial arbitration panels do.  In a treaty designed to attract foreign investors by offering “favourable conditions for investments,” App. to Pet. for Cert. in No. 21–518, at 56a, that choice makes sense.
+
+															None of this forecloses the possibility that sovereigns might imbue an ad hoc arbitration panel with official authority.  Governmental and intergovernmental bodies may take many forms, and we do not attempt to prescribe how they should be structured.  The point is only that a body does not possess governmental authority just because nations agree in a treaty to submit to arbitration before it.  The relevant question is whether the nations intended that the ad hoc panel exercise governmental authority.  And here, all indications are that they did not.
+
+															The Fund tries to bolster its case by analogizing to past adjudicatory bodies: (1) the body at issue in the dispute over the sinking of the Canadian ship I’m Alone, which derived from a treaty between the United States and Great Britain; and (2) the United States-Germany Mixed Claims Commission.  There appears to be broad consensus that these bodies would qualify as intergovernmental.  Ergo, the Fund says, the ad hoc panel must be intergovernmental too.
+
+															This does not follow.  It is not dispositive whether an adjudicative body shares some features of other bodies that look governmental.  Instead, the inquiry is whether those features and other evidence establish the intent of the relevant nations to imbue the body in question with governmental authority.  And though we need not decide the status of the I’m Alone and Mixed Claims commissions, it is worth noting some differences between the treaties providing for them and the treaty at issue here.  For instance, those treaties specified that each sovereign would be involved in the formation of the bodies, and, with respect to the treaty creating the Mixed Claims Commission in particular, it also specified where the commission would initially meet, the method of funding, and that the commissioners could appoint other officers to assist in the proceedings.  See Convention Between the United States and Great Britain for Prevention of Smuggling of Intoxicating Liquors, Art. IV, Jan. 23, 1924,
+
+43Stat.
+1761–1762, T. S. No. 685; Agreement Between the United States and Germany for a Mixed Commission to Determine the Amount To Be Paid by Germany in Satisfaction of Germany’s Financial Obligations Under the Treaty Concluded Between the Two Governments on August 25, 1921, Arts. II, III, IV, V, Aug. 10, 1922,
+
+42Stat.
+2200, T. S. No. 665.  So while there are some similarities between the ad hoc arbitration panel and the I’m Alone and Mixed Claims commissions, there are distinctions too.  Thus, even taking the Fund’s argument on its own terms, its analogies are less helpful than it hopes.
+
+															*  *  *
+
+															In sum, only a governmental or intergovernmental adjudicative body constitutes a “foreign or international tribunal” under §1782.  Such bodies are those that exercise governmental authority conferred by one nation or multiple nations.  Neither the private commercial arbitral panel in the first case nor the ad hoc arbitration panel in the second case qualifies.  We reverse the order of the District Court in No. 21–401 denying the motion to quash, and we reverse the judgment of the Court of Appeals in No. 21–518.
+
+															
+
+															It is so ordered.
+Notes
+1
+ Luxshare argues that commercial arbitral panels are §1782 tribunals because they “fit comfortably” under the “quasi-judicial paradigm” from our decision in Intel.  Brief for Respondent in No. 21–401, p. 19.  There, we recognized that the body at issue, the Commission of the European Communities, was a §1782 tribunal in part because it was a “first-instance decisionmaker” that rendered dispositive rulings reviewable in court.  542 U. S., at 254–255, 258.  But we did not purport to establish a test for what counts as a foreign or international tribunal.  The issue before us now—whether a private arbitral body qualifies as a “foreign or international tribunal”—was not before us in Intel.  No one there disputed that the body at issue exercised governmental authority. 
+
+2
+ The parties do not dispute that the bodies at issue are sufficiently adjudicatory, so we need not precisely define the outer bounds of §1782 “tribunals.”  The issue here is only whether the statute requires “tribunals” to be governmental or intergovernmental bodies. 
+
+3
+ The provision makes the similarly unremarkable assumption that an “international tribunal” defaults to the rules on which the relevant nations agreed. 
+
+4
+ Comparing Article 10 of the treaty (governing investor-state disputes) with Article 11 (governing state-to-state disputes) further suggests that the ad hoc panel under Article 10 is of a nongovernmental nature.  Article 11 provides that an unsettled dispute between the countries “shall, upon the request of either Contracting Party, be submitted to an Arbitral Tribunal.”  App. to Pet. for Cert. in No. 21–518, p. 65a.  Each country is involved in forming that arbitral body and funds its operations.  See id., at 66a–67a.  Article 11 also provides, under some circumstances, for the countries to invite officials of the International Court of Justice to appoint the body’s members.  Id., at 66a.  This reflects a higher level of government involvement and highlights the absence of such details in Article 10’s ad hoc arbitration option. 
+
+

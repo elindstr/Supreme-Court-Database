@@ -1,0 +1,169 @@
+::SCDB_caseID:: 2019-043
+::decision_cite:: 19-67
+::decision_name::  United States v. Sineneng-Smith
+::decision_year:: 2020
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–67
+
+															_________________
+
+															UNITED STATES, PETITIONER v. EVELYN SINENENG-SMITH
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[May 7, 2020]
+
+															
+
+															Justice Thomas, concurring.
+
+															I agree with the Court that the Ninth Circuit abused its discretion in reaching out to decide whether
+
+8 U. S. C. §1324(a)(1)(A)(iv) is unconstitutionally overbroad.  In my view, however, the Court of Appeals’ decision violates far more than the party presentation rule.  The merits of that decision also highlight the troubling nature of this Court’s overbreadth doctrine.  That doctrine provides that “a law may be invalidated as overbroad if ‘a substantial number of its applications are unconstitutional, judged in relation to the statute’s plainly legitimate sweep.’ ”  United States v. Stevens,
+
+559 U.S. 460, 473 (2010) (quoting Washington State Grange v. Washington State Republican Party,
+
+552 U.S. 442, 449, n. 6 (2008)).  Although I have previously joined the Court in applying this doctrine, I have since developed doubts about its origins and application.  It appears that the overbreadth doctrine lacks any basis in the Constitution’s text, violates the usual standard for facial challenges, and contravenes traditional standing principles.  I would therefore consider revisiting this doctrine in an appropriate case.
+
+															I
+
+															This Court’s overbreadth jurisprudence is untethered from the text and history of the
+ 
+First Amendment.  It first emerged in the mid-20th century.  In Thornhill v. Alabama,
+
+310 U.S. 88 (1940), the Court determined that an antipicketing statute was “invalid on its face” due to its “sweeping proscription of freedom of discussion,” id., at 101–105.  The Court rejected the State’s argument that the statute was constitutional because it was “limited or restricted in its application” to proscribable “violence and breaches of the peace [that] are the concomitants of picketing.”  Id., at 105.  Without considering whether the defendant’s actual conduct was entitled to
+ 
+First Amendment protection, the Court concluded that the law was unconstitutional because it “d[id] not aim specifically at evils within the allowable area of state control but, on the contrary, swe[pt] within its ambit other activities that in ordinary circumstances constitute an exercise of freedom of speech or of the press.”  Id., at 97.
+
+															Since then, the Court has invoked this rationale to facially invalidate a wide range of laws, from statutes enacted by Congress, see, e.g., Ashcroft v. Free Speech Coalition,
+
+535 U.S. 234 (2002), to measures passed by city officials, see, e.g., Board of Airport Comm’rs of Los Angeles v. Jews for Jesus, Inc.,
+
+482 U.S. 569 (1987).  These laws covered a variety of subjects, from nudity in drive-in movies, Erznoznik v. Jacksonville,
+
+422 U.S. 205 (1975), to charitable solicitations, Schaumburg v. Citizens for Better Environment,
+
+444 U.S. 620 (1980), to depictions of animal cruelty, Stevens, supra, at 460.  And all these laws were considered unconstitutional not because they necessarily violated an individual’s
+ 
+First Amendment rights but “because of a judicial prediction or assumption that the statute’s very existence may cause [some citizens] to refrain from constitutionally protected [activity].”  Broadrick v. Oklahoma,
+
+413 U.S. 601, 612 (1973) (emphasis added); see also Erznoznik, supra, at 216.
+
+															Notably, this Court has not attempted to ground its void-for-overbreadth rule in the text or history of the First Amendment.  It did not do so in Thornhill, and it has not done so since. Rather, the Court has justified this doctrine solely by reference to policy considerations and value judgments.  See New York v. Ferber,
+
+458 U.S. 747, 768–769 (1982).  It has stated that facially invalidating overbroad statutes is sometimes necessary because “[
+ 
+First Amendment] freedoms are delicate and vulnerable, as well as supremely precious in our society,” and thus “need breathing space to survive.”[1]  NAACP v. Button,
+
+371 U.S. 415, 433 (1963).  And, in the context of the freedom of speech, the Court has justified the overbreadth doctrine’s departure from traditional principles of adjudication by noting free speech’s “transcendent value to all society, and not merely to those exercising their rights.”  Dombrowski v. Pfister,
+
+380 U.S. 479, 486 (1965).
+
+															In order to protect this “transcendent” right, ibid., the Court will deem a statute unconstitutional when, in “the judgment of this Court[,] the possible harm to society in permitting some unprotected speech to go unpunished is outweighed by the possibility that protected speech of others may be muted and perceived grievances left to fester because of the possible inhibitory effects of [the] statut[e].”  Broadrick, supra, at 612.  In other words, the doctrine is driven by a judicial determination of what serves the public good.  But there is “no evidence [from the founding] indicat[ing] that the
+ 
+First Amendment empowered judges to determine whether particular restrictions of speech promoted the general welfare.”  Campbell, Natural Rights and the
+ 
+First Amendment, 127 Yale L. J. 246, 259 (2017).  This makes sense given that the Founders viewed value judgments and policy considerations to be the work of legislatures, not unelected judges.  See Obergefell v. Hodges,
+
+576 U.S. 644, 709 (2015) (Roberts, C. J., dissenting).  Nevertheless, such judgments appear to be the very foundation upon which this Court’s modern overbreadth doctrine was built.
+
+															Perhaps unsurprisingly, the overbreadth doctrine shares a close relationship with this Court’s questionable vagueness doctrine.  See Johnson v. United States,
+
+576 U.S. 591, 611–623 (2015) (Thomas, J., concurring in judgment).  In fact, it appears that the Court’s void-for-overbreadth rule developed as a result of the vagueness doctrine’s application in the
+ 
+First Amendment context.  For example, this Court’s decision in Thornhill, which is recognized as “the fountainhead of the overbreadth doctrine,” Monaghan, Overbreadth, 1981 S. Ct. Rev. 1, 11, cited a vagueness precedent in support of its overbreadth analysis.  310 U. S., at 96 (citing Stromberg v. California,
+
+283 U.S. 359, 367 (1931)).  And the decision expressed concerns regarding the antipicketing statute’s “vague” terms with “no ascertainable meaning” and their resulting potential for “discriminatory enforcement.”  Thornhill, supra, at 97–98, 100–101; cf. Chicago v. Morales,
+
+527 U.S. 41, 56 (1999) (opinion of Stevens, J.).  As the overbreadth doctrine has developed, it has “almost wholly merged” with the vagueness doctrine as applied to “statutes covering [F]irst [A]mendment activities.”  Sargentich, Note, The
+ 
+First Amendment Overbreadth Doctrine, 83 Harv. L. Rev. 844, 873 (1970).  Given the dubious origins of the vagueness doctrine, I find this shared history “unsettling.”  Johnson, supra, at 621 (opinion of Thomas, J.).
+
+															II
+
+															In addition to its questionable origins, the overbreadth doctrine violates the usual standard for facial challenges.  Typically, this Court will deem a statute unconstitutional on its face only if “no set of circumstances exists under which the Act would be valid.”  United States v. Salerno,
+
+481 U.S. 739, 745 (1987).  But the overbreadth doctrine empowers courts to hold statutes facially unconstitutional even when they can be validly applied in numerous circumstances, including the very case before the court.
+
+															By lowering the bar for facial challenges in the
+ 
+First Amendment context, the overbreadth doctrine exacerbates the many pitfalls of what is already a “disfavored” method of adjudication.  Washington State Grange, 552 U. S., at 450.  “[U]nder our constitutional system[,] courts are not roving commissions assigned to pass judgment on the validity of the Nation’s laws.”  Broadrick, 413 U. S., at 610–611.  But when a court entertains—or in this case, seeks out—an overbreadth challenge, it casts aside the “judicial restraint” necessary to avoid “ ‘premature’ ” and “ ‘unnecessary pronouncement[s] on constitutional issues.’ ”  Washington State Grange, supra, at 450 (quoting United States v. Raines,
+
+362 U.S. 17, 22 (1960)).  This principle of restraint has long served as a fundamental limit on the scope of judicial power.  See Liverpool, New York & Philadelphia S. S. Co. v. Commissioners of Emigration,
+
+113 U.S. 33, 39 (1885).  “[T]here is good evidence that courts [in the early Republic] understood judicial review to consist [simply] ‘of a refusal to give a statute effect as operative law in resolving a case’ ” once that statute was determined to be unconstitutional.  Johnson, supra, at 615 (opinion of Thomas, J.) (quoting Walsh, Partial Unconstitutionality, 85 N. Y. U. L. Rev. 738, 756 (2010)).  Thus, our “modern practice of strik[ing] down” legislation as facially unconstitutional bears little resemblance to the practices of 18th and 19th century courts.  Johnson, supra, at 615 (opinion of Thomas, J.) (internal quotation marks omitted); see also Mitchell, The Writ-of-Erasure Fallacy, 104 Va. L. Rev. 933, 936 (2018) (“[F]ederal courts have no authority to erase a duly enacted law from the statute books”).
+
+															Moreover, by relaxing the standard for facial challenges, the overbreadth doctrine encourages “speculat[ion]” about “ ‘imaginary’ cases,”  Washington State Grange, supra, at 450 (quoting Raines, supra, at 22), and “summon[s] forth an endless stream of fanciful hypotheticals,” United States v. Williams,
+
+553 U.S. 285, 301 (2008).  And, when a court invalidates a statute based on its theoretical, illicit applications at the expense of its real-world, lawful applications, the court “threaten[s] to short circuit the democratic process by preventing laws embodying the will of the people from being implemented in a manner consistent with the Constitution.”  Washington State Grange, supra, at 451.
+
+															Collaterally, this Court has a tendency to lower the bar for facial challenges when preferred rights are at stake.  See, e.g., Planned Parenthood of Southeastern Pa. v. Casey,
+
+505 U.S. 833 (1992).  This ad hoc approach to constitutional adjudication impermissibly expands the judicial power and “reduc[es] constitutional law to policy-driven value judgments.”  Whole Woman’s Health v. Hellerstedt, 579 U. S. ___, ___ (2016) (Thomas, J., dissenting) (slip op., at 16).  We ought to “abid[e] by one set of rules to adjudicate constitutional rights,” ibid., particularly when it comes to the disfavored practice of facial challenges.
+
+															III
+
+															Finally, by allowing individuals to challenge a statute based on a third party’s constitutional rights, the overbreadth doctrine is at odds with traditional standing principles.  This Court has long adhered to the rule that “a litigant must assert his or her own legal rights and interests, and cannot rest a claim to relief on the legal rights or interests of third parties.”  Powers v. Ohio,
+
+499 U.S. 400, 410 (1991); see also Clark v. Kansas City,
+
+176 U.S. 114, 118 (1900); Owings v. Norwood’s Lessee, 5 Cranch 344, 348 (1809) (Marshall, C. J.).  The Court has created a “limited” exception to this rule, allowing third-party standing in certain cases in which the litigant has “a close relation to the third-party” and there is a substantial “hindrance to the third party’s ability to protect his or her own interests.”  Powers, supra, at 410–411.  Litigants raising overbreadth challenges rarely satisfy either requirement, but the Court nevertheless allows third-party standing to “avoi[d] making vindication of freedom of expression await the outcome of protracted litigation.”  Dombrowski, 380 U. S., at 487.  As I have previously explained, this Court “has no business creating ad hoc exceptions so that others can assert rights that seem especially important to vindicate.”  Whole Women’s Health, supra, at ___ (Thomas, J., dissenting) (slip op., at 16).
+
+															The overbreadth doctrine’s disregard for the general rule against third-party standing is especially problematic in light of the rule’s apparent roots in Article III’s case-or-controversy requirement.  Although the modern Court has characterized the rule as a prudential rather than jurisdictional matter, see Craig v. Boren,
+
+429 U.S. 190, 193 (1976), it has never provided a substantive justification for that assertion.  And the Court has admitted that this rule against third-party standing is “not always clearly distinguished from the constitutional limitation[s]” on standing, Barrows v. Jackson,
+
+346 U.S. 249, 255 (1953); is “closely related to Art[icle] III concerns,” Warth v. Seldin,
+
+422 U.S. 490, 500 (1975); and even is “grounded in Art[icle] III limits on the jurisdiction of federal courts to actual cases and controversies,”  Ferber, 458 U. S., at 767, n. 20.
+
+															These statements find support in a historical understanding of Article III.  To understand the scope of the Constitution’s case-or-controversy requirement, “we must ‘refer directly to the traditional, fundamental limitations upon the powers of common-law courts.’ ”  Spokeo, Inc. v. Robins, 578 U. S. ___, ___ (2016) (Thomas, J., concurring) (slip op., at 2) (quoting Honig v. Doe,
+
+484 U.S. 305, 340 (1988) (Scalia, J., dissenting)).  “Common-law courts imposed different limitations on a plaintiff ’s right to bring suit depending on the type of right the plaintiff sought to vindicate.”  Spokeo, 578 U. S., at ___ (Thomas, J., concurring) (slip op., at 2).  “In a suit for the violation of a private right, courts historically presumed that the plaintiff suffered a de facto injury [if] his personal, legal rights [were] invaded.”  Ibid.  Personal constitutional rights, such as those protected under the
+ 
+First Amendment, are “private rights” in that they “ ‘belon[g] to individuals, considered as individuals.’ ”  Ibid. (quoting 3 W. Blackstone, Commentaries on the Laws of England *2); see also Ferber, supra, at 767 (recognizing “the personal nature of constitutional rights” as a “cardinal principl[e] of our constitutional order”); Hessick, Standing, Injury in Fact, and Private Rights, 93 Cornell L. Rev. 275, 287 (2008) (listing “
+ 
+First Amendment rights” as examples of private rights provided by the Constitution).  Thus, when a litigant challenges a statute on the grounds that it has violated his
+ 
+First Amendment rights, he has alleged an injury sufficient to establish standing for his claim, regardless of the attendant damages or other real-world harms he may or may not have suffered.
+
+															Overbreadth doctrine turns this traditional common-law rule on its head: It allows a litigant without a legal injury to assert the
+ 
+First Amendment rights of hypothetical third parties, so long as he has personally suffered a real-world injury.  See Broadrick, 413 U. S., at 612.  In other words, the litigant has no private right of his own that is genuinely at stake.  See Woolhandler & Nelson, Does History Defeat Standing Doctrine? 102 Mich. L. Rev. 689, 722–723 (2004); see also Hessick, 93 Cornell L. Rev., at 280–281.  At common law, this sort of “factual harm without a legal injury was damnum absque injuria and provided no basis for relief.”  Ibid.  Courts adhered to the “obvious” and “ancient maxim” that one’s real-world damages alone cannot “lay the foundation of an action . . . if the act complained of does not violate any of his legal rights.”  Parker v. Griswold, 17 Conn. *288, *302–*303 (1846).
+
+															Here, the overbreadth challenge embraced by respondent on appeal relied entirely on the free speech rights of  others—immigration lawyers, activists, clergy, and even grandmothers.  This is not terribly surprising given that the overbreadth arguments were developed by amici organizations that represent some of these third parties, not by respondent herself.  See ante, at 7–8.  Although it appears respondent lacked standing on appeal to assert the rights of individuals not before the court, she did have standing to seek relief for alleged violations of her own constitutional rights, which she raised before the Ninth Circuit commandeered her appeal.  On remand, the Court of Appeals will be well within the bounds of its Article III jurisdiction in considering these narrower arguments.
+
+															*  *  *
+
+															The overbreadth doctrine appears to be the handiwork of judges, based on the misguided “notion that some constitutional rights demand preferential treatment.”  Whole Woman’s Health, 579 U. S., at ___ (Thomas, J., dissenting) (slip op., at 14).  It seemingly lacks any basis in the text or history of the
+ 
+First Amendment, relaxes the traditional standard for facial challenges, and violates Article III principles regarding judicial power and standing.  In an appropriate case, we should consider revisiting this doctrine.
+Notes
+1
+The Court often discusses the doctrine as applying in the context of “
+ 
+First Amendment rights” more generally.  Broadrick v. Oklahoma,
+
+413 U.S. 601, 611–613 (1973); see also NAACP v. Button,
+
+371 U.S. 415, 433 (1963) (discussing “the
+ 
+First Amendment freedoms”).  Such arguments are typically raised in free speech cases, but the Court has occasionally entertained overbreadth challenges invoking the freedom of the press, see, e.g., Thornhill v. Alabama,
+
+310 U.S. 88 (1940), and the freedom of association, see, e.g., Keyishian v. Board of Regents of Univ. of State of N. Y.,
+
+385 U.S. 589 (1967).  Curiously, however, the Court has never applied this doctrine in the context of the
+ 
+First Amendment’s Religion Clauses.  In fact, the Court currently applies a far less protective standard to free exercise claims, upholding laws that substantially burden religious exercise so long as they are neutral and generally applicable.  See Employment Div., Dept. of Human Resources of Ore. v. Smith,
+
+494 U.S. 872 (1990).  The Court has never acknowledged, much less explained, this discrepancy. 
+
+

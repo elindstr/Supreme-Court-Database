@@ -1,0 +1,99 @@
+::SCDB_caseID:: 2018-011
+::decision_cite:: 17-988
+::decision_name::  Lamps Plus, Inc. v. Varela
+::decision_year:: 2019
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–988
+
+															_________________
+
+															LAMPS PLUS, INC., et al., PETITIONERS v. FRANK VARELA
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[April 24, 2019]
+
+															
+
+															Justice Breyer, dissenting.
+
+															Although I join Justice Ginsburg’s and Justice Kagan’s dissents in full, I also dissent for another reason.  In my view, the Court of Appeals lacked jurisdiction to hear this case.  Consequently, we lack jurisdiction as well.  See
+
+28 U. S. C. §1254.  My reason for reaching this conclusion is the following.  The Federal Arbitration Act, at §4, says that a “court,” upon being satisfied that the parties have agreed to arbitrate a claim, “shall make an order directing the parties to proceed to arbitration in accordance with the terms of the agreement.”
+
+9 U. S. C. §4.  Section 16 of the Act then says that “an appeal may not be taken from an interlocutory order . . . directing arbitration to proceed under section 4 of this title.”  §16(b)(2) (emphasis added).  And directing arbitration to proceed is just what the District Court did here.  App. to Pet. for Cert. 23a.
+
+															I
+
+															These statutory provisions reflect a congressional effort (in respect to a specific subject matter) to help resolve a more general problem.  Too few interlocutory appeals will too often impose upon parties delay and expense that an interlocutory appeal, by quickly correcting a lower court error, might have spared them.  But too many interlocu- tory appeals will too often unnecessarily delay proceedings while a party appeals and loses.  And delays can clog the appellate system, thereby slowing down the workings, and adding to the costs, of the judicial system seen as a whole. Congress’ jurisdictional statutes consequently compromise, providing, for example, for interlocutory appeals in some instances, such as cases involving injunctive orders, see, e.g.,
+
+28 U. S. C. §1292(a)(1), or where important separable legal questions are at issue, see, e.g., Ashcroft v. Iqbal,
+
+556 U.S. 662, 671 (2009), or where a district court certifies an open legal question to a court of appeals for determination, see, e.g.,
+
+28 U. S. C. §1292(b).  But often statutes and rules require the parties to proceed to the end of a trial before obtaining appellate review.  See, e.g., §1291.
+
+															The statutory provisions before us are a local species of this jurisdictional genus.  In them, Congress limited interlocutory review of orders concerning arbitration in a way that favors arbitration.  Consequently, §16(a) of the FAA will normally allow an immediate appeal where arbitration is denied, but §16(b) will normally require parties to wait until the end of the arbitration in order to bring legal questions about that proceeding to a court of appeals.
+
+															A couple of examples illustrate the point.  Take first §4 of the FAA.  Section 4 provides that a “court,” upon being satisfied that the parties have agreed to arbitrate a claim, “shall make an order directing the parties to proceed to arbitration in accordance with the terms of the agreement.”
+
+9 U. S. C. §4.  Section 16(a) of the FAA provides that a party may immediately appeal a district court order refusing to compel arbitration under §4, while §16(b) provides that a party generally may not immediately appeal a district court order compelling arbitration under §4.  Compare §16(a)(1)(B) (“An appeal may be taken from” an order “denying a petition under section 4 of this title”) with §16(b)(2) (“[A]n appeal may not be taken from an interlocutory order . . . directing arbitration to proceed under section 4 of this title”).
+
+															Section 3 of the FAA provides another good example.  Where a suit contains several claims, and the district court has determined that the parties agreed to arbitrate only a subset of those claims, §3 of the FAA provides that the district court must stay the litigation at the request of either party.  See §3 (providing that a court, when referring claims for arbitration, “shall on application of one of the parties stay” the case “until such arbitration has been had”).  The stay relieves the parties of the burden and distraction of continuing to litigate any remaining claims while the arbitration is ongoing.  And true to the FAA’s proarbitration appellate scheme, §16(a) permits immediate appeals of district court orders refusing to enter a stay, while §16(b) generally prohibits immediate appeals of district court orders granting a stay.  Compare §16(a)(1)(A) (“An appeal may be taken from” an order “refusing a stay of any action under section 3 of this title”) with §16(b)(1) (“[A]n appeal may not be taken from an interlocutory order . . . granting a stay of any action under section 3 of this title”).
+
+															I could go on.  Section 16(a) of the FAA permits immediate appeal of an interlocutory order granting an injunction against arbitration, while §16(b) generally prohibits immediate appeal of an order refusing to enjoin an arbitration.  Compare §16(a)(2) with §16(b)(4).  Section 16(a) of the FAA permits immediate appeal of an order denying an application to compel arbitration pursuant to §206, while §16(b) generally prohibits immediate appeal of an order compelling arbitration pursuant to §206.  Compare §16(a)(1)(C) with §16(b)(3).  Et cetera.
+
+															The point, however, is that the appellate scheme of the FAA reflects Congress’ policy decision that, if a district court determines that arbitration of a claim is called for, there should be no appellate interference with the arbitral process unless and until that process has run its course.
+
+															With §16’s structure, and Congress’ policy in mind, we can turn to the facts of this case.
+
+															II
+
+															Respondent Frank Varela is an employee of petitioner Lamps Plus, Inc.  At the outset of their employment re- lationship, Varela and Lamps Plus agreed to arbitrate employment-related claims.  Varela later filed suit against Lamps Plus on behalf of himself and a class of Lamps Plus’ employees.  Lamps Plus asked the District Court to compel arbitration.  And the District Court granted Lamps Plus’ request.  Despite having won the relief that it requested, Lamps Plus appealed the District Court’s order because Lamps Plus objected to the District Court’s conclusion that the parties’ agreement permitted arbitration on a classwide basis.  The Court of Appeals affirmed the District Court’s judgment.  And we granted Lamps Plus’ petition for certiorari to consider whether the Court of Appeals erred in so ruling.
+
+															But on those facts, I think that the Court lacks jurisdiction over Lamps Plus’ petition.  When Lamps Plus responded to Varela’s lawsuit by seeking a motion to compel arbitration, and the District Court granted that motion, this case fell neatly into §16(b)’s description of unappeal- able district court orders under the FAA.  The parties were obligated by the FAA to arbitrate their dispute without the expense and delay of further litigation.  If, after arbitration, the parties were dissatisfied with the award or with the District Court’s arbitration related decisions, §16(a) of the FAA provides for an appeal at that later date.  See §§16(a)(1)(D)–(E) (permitting appeals of orders confirming, modifying, or vacating an award); see also §16(a)(3) (permitting appeal of “a final decision with respect to an arbitration”).  But, in the interim, §16(b) deprived the Court of Appeals of jurisdiction to hear any such complaint.  See §§16(b)(1)–(4).  I recognize that Lamps Plus is dissatisfied with the arbitration that the District Court ordered here.  But the District Court’s order nonetheless granted the motion compelling arbitration, leaving Lamps Plus to bring its claim to an appellate court only after the arbitration is completed.  See §16(b)(2).  I believe we should enforce the statutory provisions that lead to this conclusion.
+
+															Lamps Plus offers three arguments in response.  First, Lamps Plus suggests the Court of Appeals had jurisdiction over Lamps Plus’ appeal because the District Court order at issue here not only granted Lamps Plus’s motion to compel arbitration, but also granted Lamps Plus’ motion to dismiss the case.  See Brief for Petitioners 29.  Lamps Plus points out that §16(a) permits the appeal of “a final decision with respect to an arbitration.”
+
+9 U. S. C. §16(a)(3).  Lamps Plus reasons that, so long as a decision is final, it is appealable under the FAA.
+
+															I disagree because I do not believe that the District Court had the discretion to dismiss the case immediately after granting Lamps Plus’ motion to compel arbitration.  Section 4 of the FAA permits a district court to compel the parties to arbitrate their claim, and §16(b)(2) explains that “an appeal may not be taken from an interlocutory order . . . directing arbitration to proceed under section 4 of this title.”  Thus, the District Court order compelling arbitration was interlocutory and generally unappealable.  As I have just explained, to read the statute any other way would contravene §16’s proarbitration appeal scheme by turning an interlocutory order that would have been unappealable under §16(b) of the Act into a dismissal order that is appealable under §16(a).  
+
+															And because the order granting Lamps Plus’ motion to compel was interlocutory, the District Court’s dismissal of the case—in the very same order, see App. to Pet. for Cert. 23a—did not give the Court of Appeals jurisdiction over Lamps Plus’ appeal.  An improper dismissal cannot create appellate jurisdiction to review an interlocutory order.
+
+															Our decision in Microsoft Corp. v. Baker, 582 U. S. ___ (2017), holds as much.  The plaintiffs in Microsoft sought to appeal a district court order denying certification of a class.  Under Federal Rule of Appellate Procedure 23(f), plaintiffs can ordinarily bring such an appeal only with the court of appeals’ permission.  But the plaintiffs in Baker, who had been denied permission to appeal, tried to circumvent that denial by stipulating to a voluntary dismissal of their claims.  The voluntary dismissal, they claimed, was an appealable “final decisio[n]” under
+
+28 U. S. C. §1291.  And in their appeal of the dismissal, they would be free to also seek review of the order denying class certification.  We disagreed.  As we explained there, to permit plaintiffs to “transform a tentative interlocutory order into a final judgment . . . simply by dismissing their claims with prejudice” would be to “undermine §1291’s firm finality principle, designed to guard against piecemeal appeals, and subvert the balanced solution Rule 23(f) put in place for immediate review of class-action orders.”  Microsoft, supra, at ___, ___ (slip op., at 2, 16) (citation omitted).
+
+															The same reasoning applies here.  Section 16(a)(3) of the FAA, like
+
+28 U. S. C. §1291, creates appellate jurisdiction only over “final decisions.”  Despite that jurisdictional limit, Lamps Plus, like the plaintiffs in Microsoft, seeks review of an interlocutory order.  Like the plaintiffs in Microsoft, Lamps Plus attempts to obtain appellate review by “transform[ing]” an interlocutory order into a final decision.  582 U. S., at ___ (slip op., at 16).  Like the plaintiffs in Microsoft, Lamps Plus has done so based on an order “purporting to end the litigation”—an order that Lamps Plus itself “persuade[d] a district court to issue.”  Ibid.  And like the plaintiffs in Microsoft, Lamps Plus does not “complain of the ‘final’ order that dismissed [the] case,” but instead seeks “review of only the inherently interlocutory order” compelling arbitration.  Ibid. (alterations omitted). Therefore, like the Court in Microsoft, I would hold that Lamps Plus cannot, by securing an unlawful dismissal, find a way around the appellate jurisdiction scheme that Congress wrote into the FAA.
+
+															Second, Lamps Plus suggests that this Court has already decided that a district court order compelling arbitration and dismissing a plaintiff’s complaint creates no jurisdictional problem.  Brief for Petitioners 29–30.  Lamps Plus cites Green Tree Financial Corp.-Ala. v. Randolph,
+
+531 U.S. 79 (2000), in support of that argument.  And according to Lamps Plus, “this Court held in Randolph” that “when a district court orders arbitration and dismisses the plaintiff’s claims,” the order is “final” and therefore appealable under §16 of the FAA.  Brief for Petitioners 29–30.
+
+															But Randolph does not control the jurisdictional aspect of this case.  The Randolph Court explicitly reserved the question that we face now, stating: “Had the District Court entered a stay instead of a dismissal in this case, that order would not be appealable.
+
+9 U. S. C. §16(b)(1).  The question whether the District Court should have taken that course is not before us, and we do not address it.”  Randolph, supra, at 87, n. 2 (emphasis added).  Thus, although the Randolph Court stated that §16(a)(3) of the FAA permits appeals of final orders entered under the FAA, the Court did not decide whether a district court could convert an interlocutory, unappealable order under §16(b) into an appealable order under §16(a) by entering a dismissal instead of a stay.  For that reason, Randolph does not answer the jurisdictional question here.  
+
+															Third, and finally, Lamps Plus suggests that the Court of Appeals had jurisdiction because the District Court “effectively denied Lamps Plus’s motion to compel arbitration” when the District Court interpreted the arbitration agreement to permit class arbitration.  Brief for Petitioners 31 (emphasis deleted).  Leaning heavily on dicta from Stolt-Nielsen S. A. v. AnimalFeeds Int’l Corp.,
+
+559 U.S. 662 (2010), Lamps Plus argues that class arbitration is so “fundamental[ly]” different from individual arbitration that the fact that “the district court purported to grant Lamps Plus’s motion is not controlling.”  Brief for Petitioners 31.
+
+															But Stolt-Nielsen cannot bear the weight Lamps Plus would place on it.  We held in Stolt-Nielsen that a party may not be compelled to “submit to class arbitration unless there is a contractual basis for concluding that the party agreed to do so.”  559 U. S., at 684.  We did not hold that class arbitration is not arbitration at all.  And because class arbitration is arbitration, the District Court’s interpretation of Lamps Plus and Varela’s arbitration agreement to permit class arbitration could not create appellate jurisdiction over the District Court order compelling the parties to arbitrate their dispute.  See
+
+9 U. S. C. §16(b)(2) (prohibiting interlocutory appeals of district court orders “directing arbitration to proceed”).
+
+															Nor did we hold in Stolt-Nielsen (or anywhere else) that §16 of the FAA permits appeals of interlocutory orders directing arbitration to proceed, so long as the order incorporates some ruling that one party dislikes.  If that were the rule, then §16’s limitations on appellate jurisdiction would be near meaningless.  Consequently, the courts of appeals have—rightly, I believe—long recognized that they lack jurisdiction over appeals from orders that compel arbitration, “albeit not in the ‘first-choice’ ” manner of the party that moved to compel.  Al Rushaid v. National Oilwell Varco, Inc., 814 F.3d 300, 304 (CA5 2016).  See also, e.g., Blue Cross Blue Shield of Mass., Inc. v. BCS Ins. Co., 671 F.3d 635, 638 (CA7 2011) (concluding that the court of appeals lacked jurisdiction over an order compelling arbitration but denying a motion to direct arbitrators to “hold separate rather than consolidated proceedings”); Bushley v. Credit Suisse First Boston, 360 F.3d 1149, 1154 (CA9 2004) (similar holding with respect to a request that arbitration take place before a different forum); Augustea Impb Et Salvataggi v. Mitsubishi Corp., 126 F.3d 95, 98 (CA2 1997) (similar holding with respect to a request that the parties arbitrate in a different location).  As one of those courts explained, “[p]ursuant to the plain meaning of th[e] statute . . . a party cannot appeal a district court’s order unless, at the end of the day, the parties are forced to settle their dispute other than by arbitration.” Id., at 99.  And Lamps Plus’ characterization of the District Court’s order compelling arbitration as an “effectiv[e] den[ial]” of Lamps Plus’ motion “does not make it so.”  Blue Cross Blue Shield, supra, at 637.
+
+															Consequently, I would hold that we lack jurisdiction over this case.  But because the Court accepts jurisdiction and decides the substantive legal question before us, I shall do the same.  And in respect to that question I agree with Justice Ginsburg and Justice Kagan, and I join their dissents.
+													

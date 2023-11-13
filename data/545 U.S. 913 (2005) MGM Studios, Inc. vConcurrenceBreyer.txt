@@ -1,0 +1,221 @@
+::SCDB_caseID:: 2004-079
+::decision_cite:: 545 U.S. 913 (2005)
+::decision_name::  MGM Studios, Inc. v. Grokster, Ltd.
+::decision_year:: 2005
+::opinion_author:: Breyer
+::opinion_type:: Concurrence
+::opinion:: 
+
+
+BREYER, J., CONCURRING
+METRO-GOLDWYN-MAYER STUDIOS INC. V.GROKSTER, LTD.
+545 U. S. ____ (2005)
+SUPREME COURT OF THE UNITED STATES
+NO. 04-480
+
+
+
+
+
+															METRO-GOLDWYN-MAYER STUDIOS INC., et al.,
+PETITIONERS v. GROKSTER, LTD., et al.
+
+															on writ of certiorari to the united states court of
+appeals for the ninth circuit
+
+															[June 27, 2005]
+
+
+
+															   Justice Breyer, with whom Justice Stevens and Justice O’Connor join, concurring.
+
+															
+   I agree with the Court that the distributor of a dual-use technology may be liable for the infringing activities of third parties where he or she actively seeks to advance the infringement.  Ante, at 1.  I further agree that, in light of our holding today, we need not now “revisit” Sony Corp. of America v. Universal City Studios, Inc., 464 U. S. 417 (1984).  Ante, at 17.  Other Members of the Court, however, take up the Sony question: whether Grokster’s product is “capable of ‘substantial’ or  ‘commercially significant’ noninfringing uses.”  Ante, at 1 (Ginsburg, J., concurring) (quoting Sony, supra, at 442).  And they answer that question by stating that the Court of Appeals was wrong when it granted summary judgment on the issue in Grokster’s favor.  Ante, at 4.  I write to explain why I disagree with them on this matter.
+
+															I
+
+															
+   The Court’s opinion in Sony and the record evidence (as described and analyzed in the many briefs before us) together convince me that the Court of Appeals’ conclusion has adequate legal support.
+
+															A
+
+															
+   I begin with Sony’s standard.  In Sony, the Court considered the potential copyright liability of a company that did not itself illegally copy protected material, but rather sold a machine—a Video Cassette Recorder (VCR)—that could be used to do so.  A buyer could use that machine for noninfringing purposes, such as recording for later viewing (sometimes called “ ‘time-shifting,’ ” Sony, 464 U. S., at 421) uncopyrighted television programs or copyrighted programs with a copyright holder’s permission.  The buyer could use the machine for infringing purposes as well, such as building libraries of taped copyrighted programs.  Or, the buyer might use the machine to record copyrighted programs under circumstances in which the legal status of the act of recording was uncertain (i.e., where the copying may, or may not, have constituted a “fair use,” id., at 425–426).  Sony knew many customers would use its VCRs to engage in unauthorized copying and “ ‘library-building.’ ” Id., at 458–459 (Blackmun, J., dissenting).  But that fact, said the Court, was insufficient to make Sony itself an infringer.  And the Court ultimately held that Sony was not liable for its customers’ acts of infringement.
+
+															   In reaching this conclusion, the Court recognized the need for the law, in fixing secondary copyright liability, to “strike a balance between a copyright holder’s legitimate demand for effective—not merely symbolic—protection of the statutory monopoly, and the rights of others freely to engage in substantially unrelated areas of commerce.”  Id., at 442.  It pointed to patent law’s “staple article of commerce” doctrine, ibid., under which a distributor of a product is not liable for patent infringement by its customers unless that product is “unsuited for any commercial noninfringing use.”  Dawson Chemical Co. v. Rohm & Haas Co., 448 U. S. 176, 198 (1980).  The Court wrote that the sale of copying equipment, “like the sale of other articles of commerce, does not constitute contributory infringement if the product is widely used for legitimate, unobjectionable purposes.  Indeed, it need merely be capable of substantial noninfringing uses.”  Sony, 464 U. S., at 442 (emphasis added).  The Court ultimately characterized the legal “question” in the particular case as “whether [Sony’s VCR] is capable of commercially significant noninfringing uses” (while declining to give “precise content” to these terms).  Ibid. (emphasis added).
+
+															
+
+   It then applied this standard.  The Court had before it a survey (commissioned by the District Court and then prepared by the respondents) showing that roughly 9% of all VCR recordings were of the type—namely, religious, educational, and sports programming—owned by producers and distributors testifying on Sony’s behalf who did not object to time-shifting.  See Brief for Respondent Universal Studios et al. O. T. 1983, No. 81–1687, pp. 52–53; see also Sony, supra, at 424 (7.3% of all Sony VCR use is to record sports programs; representatives of the sports leagues do not object).  A much higher percentage of VCR users had at one point taped an authorized program, in addition to taping unauthorized programs.  And the plaintiffs—not a large class of content providers as in this case—owned only a small percentage of the total available unauthorized programming.  See ante, at 6–7, and n. 3 (Ginsburg, J., concurring).  But of all the taping actually done by Sony’s customers, only around 9% was of the sort the Court referred to as authorized.
+
+															
+
+   The Court found that the magnitude of authorized programming was “significant,” and it also noted the “significant potential for future authorized copying.”  464 U. S., at 444.  The Court supported this conclusion by referencing the trial testimony of professional sports league officials and a religious broadcasting representative.  Id., at 444, and n. 24.  It also discussed (1) a Los Angeles educational station affiliated with the Public Broadcasting Service that made many of its programs available for home taping, and (2) Mr. Rogers’ Neighborhood, a widely watched children’s program.  Id., at 445.  On the basis of this testimony and other similar evidence, the Court determined that producers of this kind had authorized duplication of their copyrighted programs “in significant enough numbers to create a substantial market for a noninfringing use of the” VCR.  Id., at 447, n. 28 (emphasis added).
+
+															
+
+   The Court, in using the key word “substantial,” indicated that these circumstances alone constituted a sufficient basis for rejecting the imposition of secondary liability.  See id., at 456 (“Sony demonstrated a significant likelihood that substantial numbers of copyright holders” would not object to time-shifting (emphasis added)).  Nonetheless, the Court buttressed its conclusion by finding separately that, in any event, unauthorized time- shifting often constituted not infringement, but “fair use.”  Id., at 447–456.
+
+															B
+
+															
+   When measured against Sony’s underlying evidence and analysis, the evidence now before us shows that Grokster passes Sony’s test—that is, whether the company’s product is capable of substantial or commercially significant noninfringing uses.  Id., at 442.  For one thing, petitioners’ (hereinafter MGM) own expert declared that 75% of current files available on Grokster are infringing and 15% are “likely infringing.”  See App. 436–439, ¶¶6–17 (Decl. of Dr. Ingram Olkin); cf. ante, at 4 (opinion of the Court).  That leaves some number of files near 10% that apparently are noninfringing, a figure very similar to the 9% or so of authorized time-shifting uses of the VCR that the Court faced in Sony.
+
+															   As in Sony, witnesses here explained the nature of the noninfringing files on Grokster’s network without detailed quantification.  Those files include: 
+
+															
+
+—Authorized copies of music by artists such as Wilco, Janis Ian, Pearl Jam, Dave Matthews, John Mayer, and others.  See App. at 152–153, ¶¶9–13 (Decl. of Aram Sinnreich) (Wilco’s “lesson has already been adopted by artists still signed to their major labels”); id., at 170, ¶¶5–7 (Decl. of Patricia D. Hoekman) (locating “numerous audio recordings” that were authorized for swapping); id., at 74, ¶10 (Decl. of Daniel B. Rung) (describing Grokster’s partnership with a company that hosts music from thousands of independent artists)
+
+															
+
+—Free electronic books and other works from various online publishers, including Project Gutenberg.  See id., at 136, ¶12 (Decl. of Gregory B. Newby) (“Numerous authorized and public domain Project Gutenberg eBooks are made available” on Grokster.  Project Gutenberg “welcomes this widespread sharing … using these software products[,] since they assist us in meeting our objectives”); id., at 159–160, ¶32 (Decl. of Sinnreich)
+
+															
+
+—Public domain and authorized software, such as WinZip 8.1.  Id., at 170, ¶8 (Decl. of Hoekman); id., at 165, ¶¶4–7 (Decl. of John Busher) 
+
+															
+
+—Licensed music videos and television and movie segments distributed via digital video packaging with the permission of the copyright holder.  Id., at 70, ¶24 (Decl. of Sean L. Mayers)
+
+															
+
+   The nature of these and other lawfully swapped files is such that it is reasonable to infer quantities of current lawful use roughly approximate to those at issue in Sony.  At least, MGM has offered no evidence sufficient to survive summary judgment that could plausibly demonstrate a significant quantitative difference.  See ante, at 4 (opinion of the Court); see also Brief for Motion Picture Studio and Recording Company Petitioners i (referring to “at least 90% of the total use of the services”); but see ante, at 6–7, n. 3 (Ginsburg, J., concurring).  To be sure, in quantitative terms these uses account for only a small percentage of the total number of uses of Grokster’s product.  But the same was true in Sony, which characterized the relatively limited authorized copying market as “substantial.”  (The Court made clear as well in Sony that the amount of material then presently available for lawful copying—if not actually copied—was significant, see 464 U. S., at 444, and the same is certainly true in this case.)  
+
+															
+
+   Importantly, Sony also used the word “capable,” asking whether the product is “capable of” substantial noninfringing uses.  Its language and analysis suggest that a figure like 10%, if fixed for all time, might well prove insufficient, but that such a figure serves as an adequate foundation where there is a reasonable prospect of expanded legitimate uses over time.  See ibid. (noting a “significant potential for future authorized copying”).  And its language also indicates the appropriateness of looking to potential future uses of the product to determine its “capability.”
+
+															
+
+   Here the record reveals a significant future market for noninfringing uses of Grokster-type peer-to-peer software.  Such software permits the exchange of any sort of digital file—whether that file does, or does not, contain copyrighted material.  As more and more uncopyrighted information is stored in swappable form, it seems a likely inference that lawful peer-to-peer sharing will become increasingly prevalent.  See, e.g., App. 142, ¶20 (Decl. of Brewster Kahle) (“The [Internet Archive] welcomes [the] redistribution [of authorized films] by the Morpheus-Grokster-KaZaa community of users”); id., at 166, ¶8 (Decl. of Busher) (sales figures of $1,000 to $10,000 per month through peer-to-peer networks “will increase in the future as Acoustica’s trialware is more widely distributed through these networks”); id., at 156–164, ¶¶21–40 (Decl. of Sinnreich).
+
+															
+
+   And that is just what is happening.  Such legitimate noninfringing uses are coming to include the swapping of: research information (the initial purpose of many peer-to-peer networks); public domain films (e.g., those owned by the Prelinger Archive); historical recordings and digital educational materials (e.g., those stored on the Internet Archive); digital photos (OurPictures, for example, is starting a P2P photo-swapping service); “shareware” and “freeware” (e.g., Linux and certain Windows software); secure licensed music and movie files (Intent MediaWorks, for example, protects licensed content sent across P2P networks); news broadcasts past and present (the BBC Creative Archive lets users “rip, mix and share the BBC”); user-created audio and video files (including “podcasts” that may be distributed through P2P software); and all manner of free “open content” works collected by Creative Commons (one can search for Creative Commons material on StreamCast).  See Brief for Distributed Computing Industry Association as Amicus Curiae 15–26; Merges, A New Dynamism in the Public Domain, 71 U. Chi. L. Rev. 183 (2004).  I can find nothing in the record that suggests that this course of events will not continue to flow naturally as a consequence of the character of the software taken together with the foreseeable development of the Internet and of information technology.  Cf. ante, at 1–2 (opinion of the Court) (discussing the significant benefits of peer-to-peer technology).
+
+															
+
+   There may be other now-unforeseen noninfringing uses that develop for peer-to-peer software, just as the home-video rental industry (unmentioned in Sony) developed for the VCR.  But the foreseeable development of such uses, when taken together with an estimated 10% noninfringing material, is sufficient to meet Sony’s standard.  And while Sony considered the record following a trial, there are no facts asserted by MGM in its summary judgment filings that lead me to believe the outcome after a trial here could be any different.  The lower courts reached the same conclusion.
+
+															
+
+   Of course, Grokster itself may not want to develop these other noninfringing uses.  But Sony’s standard seeks to protect not the Groksters of this world (which in any event may well be liable under today’s holding), but the development of technology more generally.  And Grokster’s desires in this respect are beside the point.
+
+															II
+
+															
+   The real question here, I believe, is not whether the record evidence satisfies Sony.  As I have interpreted the standard set forth in that case, it does.  And of the Courts of Appeals that have considered the matter, only one has proposed interpreting Sony more strictly than I would do—in a case where the product might have failed under any standard.  In re Aimster Copyright Litigation, 334 F. 3d 643, 653 (CA7 2003) (defendant “failed to show that its service is ever used for any purpose other than to infringe” copyrights (emphasis added)); see Matthew Bender & Co., Inc. v. West Pub. Co., 158 F. 3d 693, 706–707 (CA2 1998) (court did not require that noninfringing uses be “predominant,” it merely found that they were predominant, and therefore provided no analysis of Sony’s boundaries); but see ante, at 3 n. 1 (Ginsburg, J., concurring); see also A&M Records v. Napster, Inc., 239 F. 3d 1004, 1020 (CA9 2001) (discussing Sony); Cable/Home Communication Corp. v. Network Productions, Inc., 902 F. 2d 829, 842–847 (CA11 1990) (same); Vault Corp. v. Quaid Software, Ltd., 847 F. 2d 255, 262 (CA5 1988) (same); cf. Dynacore Holdings Corp. v. U. S. Philips Corp., 363 F. 3d 1263, 1275 (CA Fed. 2004) (same); see also Doe v. GTE Corp., 347 F. 3d 655, 661 (CA7 2003) (“A person may be liable as a contributory infringer if the product or service it sells has no (or only slight) legal use”).
+
+															   Instead, the real question is whether we should modify the Sony standard, as MGM requests, or interpret Sony more strictly, as I believe Justice Ginsburg’s approach would do in practice.  Compare ante, at 4–8 (concurring) (insufficient evidence in this case of both present lawful uses and of a reasonable prospect that substantial noninfringing uses would develop over time), with Sony, 464 U. S., at 442–447 (basing conclusion as to the likely existence of a substantial market for authorized copying upon general declarations, some survey data, and common sense).
+
+															
+
+   As I have said, Sony itself sought to “strike a balance between a copyright holder’s legitimate demand for effective—not merely symbolic—protection of the statutory monopoly, and the rights of others freely to engage in substantially unrelated areas of commerce.”  Id., at 442.  Thus, to determine whether modification, or a strict interpretation, of Sony is needed, I would ask whether MGM has shown that Sony incorrectly balanced copyright and new-technology interests.  In particular: (1) Has Sony (as I interpret it) worked to protect new technology?  (2) If so, would modification or strict interpretation significantly weaken that protection?  (3) If so, would new or necessary copyright-related benefits outweigh any such weakening?
+
+															A
+
+															
+   The first question is the easiest to answer.  Sony’s rule, as I interpret it, has provided entrepreneurs with needed assurance that they will be shielded from copyright liability as they bring valuable new technologies to market.  
+
+															   Sony’s rule is clear. That clarity allows those who develop new products that are capable of substantial noninfringing uses to know, ex ante, that distribution of their product will not yield massive monetary liability.  At the same time, it helps deter them from distributing products that have no other real function than—or that are specifically intended for—copyright infringement, deterrence that the Court’s holding today reinforces (by adding a weapon to the copyright holder’s legal arsenal).
+
+															
+
+   Sony’s rule is strongly technology protecting.  The rule deliberately makes it difficult for courts to find secondary liability where new technology is at issue.  It establishes that the law will not impose copyright liability upon the distributors of dual-use technologies (who do not themselves engage in unauthorized copying) unless the product in question will be used almost exclusively to infringe copyrights (or unless they actively induce infringements as we today describe). Sony thereby recognizes that the copyright laws are not intended to discourage or to control the emergence of new technologies, including (perhaps especially) those that help disseminate information and ideas more broadly or more efficiently.  Thus Sony’s rule shelters VCRs, typewriters, tape recorders, photocopiers, computers, cassette players, compact disc burners, digital video recorders, MP3 players, Internet search engines, and peer-to-peer software.  But Sony’s rule does not shelter descramblers, even if one could theoretically use a descrambler in a noninfringing way.  464 U. S., at 441–442; Compare Cable/Home Communication Corp., supra, at 837–850 (developer liable for advertising television signal descrambler), with Vault Corp., supra, at 262 (primary use infringing but a substantial noninfringing use).  
+
+															
+
+   Sony’s rule is forward looking.  It does not confine its scope to a static snapshot of a product’s current uses (thereby threatening technologies that have undeveloped future markets).  Rather, as the VCR example makes clear, a product’s market can evolve dramatically over time.  And Sony—by referring to a capacity for substantial noninfringing uses—recognizes that fact.  Sony’s word “capable” refers to a plausible, not simply a theoretical, likelihood that such uses will come to pass, and that fact anchors Sony in practical reality.  Cf. Aimster, supra, at 651. 
+
+															
+
+   Sony’s rule is mindful of the limitations facing judges where matters of technology are concerned. Judges have no specialized technical ability to answer questions about present or future technological feasibilility or commercial viability where technology professionals, engineers, and venture capitalists themselves may radically disagree and where answers may differ depending upon whether one focuses upon the time of product development or the time of distribution.  Consider, for example, the question whether devices can be added to Grokster’s software that will filter out infringing files.  MGM tells us this is easy enough to do, as do several amici that produce and sell the filtering technology.  See, e.g., Brief for Motion Picture Studio Petitioners 11; Brief for Audible Magic Corp. et al. as Amicus Curiae 3–10.  Grokster says it is not at all easy to do, and not an efficient solution in any event, and several apparently disinterested computer science professors agree.  See Brief for Respondents 31; Brief for Computer Science Professors as Amicus Curiae 6–10, 14–18.  Which account should a judge credit?  Sony says that the judge will not necessarily have to decide.
+
+															
+
+   Given the nature of the Sony rule, it is not surprising that in the last 20 years, there have been relatively few contributory infringement suits—based on a product distribution theory—brought against technology providers (a small handful of federal appellate court cases and perhaps fewer than two dozen District Court cases in the last 20 years).  I have found nothing in the briefs or the record that shows that Sony has failed to achieve its innovation-protecting objective.
+
+															B
+
+															
+   The second, more difficult, question is whether a modified Sony rule (or a strict interpretation) would significantly weaken the law’s ability to protect new technology. Justice Ginsburg’s approach would require defendants to produce considerably more concrete evidence—more than was presented here—to earn Sony’s shelter.  That heavier evidentiary demand, and especially the more dramatic (case-by-case balancing) modifications that MGM and the Government seek, would, I believe, undercut the protection that Sony now offers. 
+
+															   To require defendants to provide, for example, detailed evidence—say business plans, profitability estimates, projected technological modifications, and so forth—would doubtless make life easier for copyrightholder plaintiffs.  But it would simultaneously increase the legal uncertainty that surrounds the creation or development of a new technology capable of being put to infringing uses.  Inventors and entrepreneurs (in the garage, the dorm room, the corporate lab, or the boardroom) would have to fear (and in many cases endure) costly and extensive trials when they create, produce, or distribute the sort of information technology that can be used for copyright infringement.  They would often be left guessing as to how a court, upon later review of the product and its uses, would decide when necessarily rough estimates amounted to sufficient evidence.  They would have no way to predict how courts would weigh the respective values of infringing and noninfringing uses; determine the efficiency and advisability of technological changes; or assess a product’s potential future markets.  The price of a wrong guess—even if it involves a good-faith effort to assess technical and commercial viability—could be large statutory damages (not less than $750 and up to $30,000 per infringed work).  17 U. S. C. §504(c)(1).  The additional risk and uncertainty would mean a consequent additional chill of technological development.
+
+															C
+
+															
+   The third question—whether a positive copyright impact would outweigh any technology-related loss—I find the most difficult of the three.  I do not doubt that a more intrusive Sony test would generally provide greater revenue security for copyright holders. But it is harder to conclude that the gains on the copyright swings would exceed the losses on the technology roundabouts.  
+
+															   For one thing, the law disfavors equating the two different kinds of gain and loss; rather, it leans in favor of protecting technology.  As Sony itself makes clear, the producer of a technology which permits unlawful copying does not himself engage in unlawful copying—a fact that makes the attachment of copyright liability to the creation, production, or distribution of the technology an exceptional thing.  See 464 U. S., at 431 (courts “must be circumspect” in construing the copyright laws to preclude distribution of new technologies).  Moreover, Sony has been the law for some time.  And that fact imposes a serious burden upon copyright holders like MGM to show a need for change in the current rules of the game, including a more strict interpretation of the test.  See, e.g., Brief for Motion Picture Studio Petitioners 31 (Sony should not protect products when the “primary or principal” use is infringing).    
+
+															
+
+   In any event, the evidence now available does not, in my view, make out a sufficiently strong case for change.  To say this is not to doubt the basic need to protect copyrighted material from infringement. The Constitution itself stresses the vital role that copyright plays in advancing the “useful Arts.”  Art. I, §8, cl. 8.  No one disputes that “reward to the author or artist serves to induce release to the public of the products of his creative genius.”  United States v. Paramount Pictures, Inc., 334 U. S. 131, 158 (1948).  And deliberate unlawful copying is no less an unlawful taking of property than garden-variety theft.  See, e.g., 18 U. S. C. §2319 (criminal copyright infringement); §1961(1)(B) (copyright infringement can be a predicate act under the Racketeer Influenced and Corrupt Organizations Act); §1956(c)(7)(D) (money laundering includes the receipt of proceeds from copyright infringement).  But these highly general principles cannot by themselves tell us how to balance the interests at issue in Sony or whether Sony’s standard needs modification.  And at certain key points, information is lacking.
+
+															
+
+   Will an unmodified Sony lead to a significant diminution in the amount or quality of creative work produced?  Since copyright’s basic objective is creation and its revenue objectives but a means to that end, this is the underlying copyright question.  See Twentieth Century Music Corp. v. Aiken, 422 U. S. 151, 156 (1975) (“Creative work is to be encouraged and rewarded, but private motivation must ultimately serve the cause of promoting broad public availability of literature, music, and the other arts”).  And its answer is far from clear.  
+
+															
+
+   Unauthorized copying likely diminishes industry
+revenue, though it is not clear by how much.  Compare
+S. Liebowitz, Will MP3 Downloads Annihilate the
+Record Industry? The Evidence So Far, p. 2 (June 2003), http://www.utdallas.edu/~liebowit/intprop/records.pdf
+(all Internet materials as visited June 24, 2005, and available in Clerk of Court’s case file) (file sharing
+has caused a decline in music sales), and Press Release, Informa Media Group Report (citing Music on the Internet (5th ed. 2004)) (estimating total lost sales to the music industry in the range of $2 billion annually),
+at http://www.informatm.com, with F. Oberholzer
+& K. Strumpf, The Effect of File Sharing on Record
+Sales: An Empirical Analysis, p. 24 (Mar. 2004), www.unc.edu/~cigar/papers/FileSharing_March2004.pdf (academic study concluding that “file sharing has
+no statistically significant effect on purchases of the
+average album”), and McGuire, Study: File-Sharing
+No Threat to Music Sales (Mar. 29, 2004), http://www.washingtonpost.com/ac2/wp-dyn/A34300-2004
+Mar29?language=printer (discussing mixed evidence).  
+
+															
+
+   The extent to which related production has actually and resultingly declined remains uncertain, though there is good reason to believe that the decline, if any, is not substantial.  See, e.g., M. Madden, Pew Internet & American Life Project, Artists, Musicians, and the Internet, p. 21, http://www.pewinternet.org/pdfs/PIP_Artists.Musicians_
+Report.pdf (nearly 70% of musicians believe that file sharing is a minor threat or no threat at all to creative industries); Benkler, Sharing Nicely: On Shareable Goods and the Emergence of Sharing as a Modality of Economic Production, 114 Yale L. J. 273, 351–352 (2004) (“Much of the actual flow of revenue to artists—from performances and other sources—is stable even assuming a complete displacement of the CD market by peer-to-peer distribution … .  [I]t would be silly to think that music, a cultural form without which no human society has existed, will cease to be in our world [because of illegal file swapping]”).
+
+															
+
+   More importantly, copyright holders at least potentially have other tools available to reduce piracy and to abate whatever threat it poses to creative production.  As today’s opinion makes clear, a copyright holder may proceed against a technology provider where a provable specific intent to infringe (of the kind the Court describes) is present.  Ante, at 24 (opinion of the Court).  Services like Grokster may well be liable under an inducement theory.
+
+															
+
+   In addition, a copyright holder has always had the legal authority to bring a traditional infringement suit against one who wrongfully copies.  Indeed, since September 2003, the Recording Industry Association of America (RIAA) has filed “thousands of suits against people for sharing copyrighted material.”  Walker, New Movement Hits Universities: Get Legal Music, Washington Post, Mar. 17, 2005, p. E1.  These suits have provided copyright holders with damages; have served as a teaching tool, making clear that much file sharing, if done without permission, is unlawful; and apparently have had a real and significant deterrent effect.  See, e.g., L. Rainie, M. Madden, D. Hess, & G. Mudd, Pew Internet Project and comScore Media Metrix Data Memo: The state of music downloading
+and file-sharing online, pp. 2, 4, 6, 10 (Apr. 2004), www.pewinternet.org/pdfs/PIP_Filesharing_April_04.pdf (number of people downloading files fell from a peak of roughly 35 million to roughly 23 million in the year following the first suits; 38% of current downloaders report downloading fewer files because of the suits); M. Madden & L. Rainie, Pew Internet Project Data Memo: Music and video downloading moves beyond P2P, p. 7 (March 2005), www.pewinternet.org/pdfs/PIP_Filesharing_March05.pdf
+(number of downloaders has “inched up” but “continues to rest well below the peak level”); Groennings, Note, Costs and Benefits of the Recording Industry’s Litigation Against Individuals, 20 Berkeley Technology L. J. 571 (2005); but see Evangelista, Downloading Music and Movie Files is as Popular as Ever, San Francisco Chronicle, Mar. 28, 2005, p. E1 (referring to the continuing “tide of rampant copyright infringement,” while noting that the RIAA says it believes the “campaign of lawsuits and public education has at least contained the problem”).
+
+															
+
+   Further, copyright holders may develop new technological devices that will help curb unlawful infringement. Some new technology, called “digital ‘watermarking’ ” and “digital fingerprint[ing],” can encode within the file information about the author and the copyright scope and date, which “fingerprints” can help to expose infringers.  RIAA Reveals Method to Madness, Wired News, Aug. 28, 2003, http://www.wired.com/news/digiwood/0,1412,60222,00.html; Besek, Anti-Circumvention Laws and Copyright: A Report from the Kernochan Center for Law, Media and the
+Arts, 27 Colum. J. L. & Arts 385, 391, 451 (2004).  Other technology can, through encryption, potentially restrict users’ ability to make a digital copy.  See J. Borland, Tripping the Rippers, C/net News.com (Sept. 28, 2001), http://news.com.com/Tripping+the+rippers/2009=1023_3=273619.html; but see Brief for Bridgemar Services Ltd. as Amicus Curiae 5–8 (arguing that peer-to-peer service providers can more easily block unlawful swapping).
+
+															
+
+   At the same time, advances in technology have discouraged unlawful copying by making lawful copying (e.g., downloading music with the copyright holder’s permission) cheaper and easier to achieve.  Several services now sell music for less than $1 per song.  (Walmart.com, for example, charges $0.88 each).  Consequently, many consumers initially attracted to the convenience and flexibility of services like Grokster are now migrating to lawful paid services (services with copying permission) where they can enjoy at little cost even greater convenience and flexibility without engaging in unlawful swapping.  See Wu, When Code Isn’t Law, 89 Va. L. Rev. 679, 731–735 (2003) (noting the prevalence of technological problems on unpaid swapping sites); K. Dean, P2P Tilts Toward Legitimacy, wired.com, Wired News (Nov. 24, 2004), http://
+www.wired.com/news/digiwood/0,1412,65836,00.html; M. Madden & L. Rainie, March 2005 Data Memo, supra, at 6–7 (percentage of current downloaders who have used paid services rose from 24% to 43% in a year; number using free services fell from 58% to 41%).
+
+															
+
+   Thus, lawful music downloading services—those that charge the customer for downloading music and pay royalties to the copyright holder—have continued to grow and to produce substantial revenue.  See Brief for Internet Law Faculty as Amici Curiae 5–20; Bruno, Digital Entertainment: Piracy Fight Shows Encouraging Signs (Mar. 5, 2005), available at LEXIS, News Library, Billboard File (in 2004, consumers worldwide purchased more than 10 times the number of digital tracks purchased in 2003; global digital music market of $330 million in 2004 expected to double in 2005); Press Release, Informa Media Report, supra (global digital revenues will likely exceed $3 billion in 2010); Ashton, [International Federation of the Phonographic Industry] Predicts Downloads Will Hit the Mainstream, Music Week, Jan. 29, 2005, p. 6 (legal music sites and portable MP3 players “are helping transform the digital music market” into “an everyday consumer experience”).  And more advanced types of non-music-oriented P2P networks have also started to develop, drawing in part on the lessons of Grokster.     
+
+															
+
+   Finally, as Sony recognized, the legislative option remains available.  Courts are less well suited than Congress to the task of “accommodat[ing] fully the varied permutations of competing interests that are inevitably implicated by such new technology.”  Sony, 464 U. S., at 431; see, e.g., Audio Home Recording Act of 1992, 106 Stat. 4237 (adding 17 U. S. C., ch. 10); Protecting Innovation and Art While Preventing Piracy: Hearing Before the Senate Comm. on the Judiciary, 108th Cong., 2d Sess. (July 22, 2004). 
+
+															
+
+   I do not know whether these developments and similar alternatives will prove sufficient, but I am reasonably certain that, given their existence, a strong demonstrated need for modifying Sony (or for interpreting Sony’s standard more strictly) has not yet been shown.  That fact, along with the added risks that modification (or strict interpretation) would impose upon technological innovation, leads me to the conclusion that we should maintain Sony, reading its standard as I have read it.  As so read, it requires affirmance of the Ninth Circuit’s determination of the relevant aspects of the Sony question. 
+
+															***
+
+															   For these reasons, I disagree with Justice Ginsburg, but I agree with the Court and join its opinion.
+
+
+
+													

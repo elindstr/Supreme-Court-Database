@@ -1,0 +1,192 @@
+::SCDB_caseID:: 2020-020
+::decision_cite:: 19-5807
+::decision_name::  Edwards v. Vannoy
+::decision_year:: 2021
+::opinion_author:: Kagan
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–5807
+
+															_________________
+
+															THEDRICK EDWARDS, PETITIONER v. DARREL VANNOY, WARDEN
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[May 17, 2021]
+
+															
+
+															Justice Kagan, with whom Justice Breyer and Justice Sotomayor join, dissenting.
+
+															“A verdict, taken from eleven, [i]s no verdict at all,” this Court proclaimed just last Term.  Ramos v. Louisiana, 590 U. S. ___, ___−___ (2020) (slip op., at 4–5) (internal quotation marks omitted).  Citing centuries of history, the Court in Ramos termed the
+ 
+Sixth Amendment right to a unanimous jury “vital,” “essential,” “indispensable,” and “fundamental” to the American legal system.  Id., at ___, ___, ___ (slip op., at 4, 6, 7).  The Court therefore saw fit to disregard stare decisis and overturn a 50-year-old precedent enabling States to convict criminal defendants based on non-unanimous verdicts.[1]  And in taking that weighty step, the Court also vindicated core principles of racial justice.  For in the Court’s view, the state laws countenancing non-unanimous verdicts originated in white supremacism and continued in our own time to have racially discriminatory effects.  See id., at ___−___ (slip op., at 2–3); id., at ___ (Sotomayor, J., concurring in part) (slip op., at 4); id., at ___−___ (Kavanaugh, J., concurring in part) (slip op., at 12–15).  Put all that together, and it is easy to see why the opinions in Ramos read as historic.  Rarely does this Court make such a fundamental change in the rules thought necessary to ensure fair criminal process.  If you were scanning a thesaurus for a single word to describe the decision, you would stop when you came to “watershed.”
+
+															Yet the Court insists that Ramos’s holding does not count as a “watershed” procedural rule under Teague v. Lane,
+
+489 U.S. 288, 311 (1989) (plurality opinion).  The result of today’s ruling is easily stated.  Ramos will not apply retroactively, meaning that a prisoner whose appeals ran out before the decision can receive no aid from the change in law it made.  So Thedrick Edwards, unlike Evangelisto Ramos, will serve the rest of his life in prison based on a 10-to-2 jury verdict.  Only the reasoning of today’s holding resists explanation.  The majority cannot (and indeed does not) deny, given all Ramos said, that the jury unanimity requirement fits to a tee Teague’s description of a watershed procedural rule.  Nor can the majority explain its result by relying on precedent.  Although flaunting decisions since Teague that held rules non-retroactive, the majority comes up with none comparable to this case.  Search high and low the settled law of retroactivity, and the majority still has no reason to deny Ramos watershed status.  
+
+															So everything rests on the majority’s last move—the overturning of Teague’s watershed exception.  If there can never be any watershed rules—as the majority here asserts out of the blue—then, yes, jury unanimity cannot be one.  The result follows trippingly from the premise.  But adopting the premise requires departing from judicial practice and principle.  In overruling a critical aspect of Teague, the majority follows none of the usual rules of stare decisis.  It discards precedent without a party requesting that action.  And it does so with barely a reason given, much less the “special justification” our law demands.  Halliburton Co. v. Erica P. John Fund, Inc.,
+
+573 U.S. 258, 266 (2014).  The majority in that way compounds its initial error: Not content to misapply Teague’s watershed provision here, see ante, at 10–14, the majority forecloses any future application, see ante, at 14–15.  It prevents any procedural rule ever—no matter how integral to adjudicative fairness—from benefiting a defendant on habeas review.  Thus does a settled principle of retroactivity law die, in an effort to support an insupportable ruling.
+
+															I
+
+															Start with what Teague and its progeny repeatedly said about what makes a new rule of criminal procedure “watershed” (so that, before today, the rule applied retroactively).[2]  A watershed rule, we held, is “implicit in the concept of ordered liberty.”  Teague, 489 U. S., at 311 (plurality opinion) (internal quotation marks omitted).  Such a rule addresses one of “the bedrock procedural elements” of the criminal process.  Ibid. (emphasis deleted).  Or similarly stated, it plays a “fundamental” and “central[ ]” role in a trial.  Beard v. Banks,
+
+542 U.S. 406, 418, 420 (2004).  More specifically, a new rule, to qualify as watershed, must be “essential to [the trial’s] fairness.”  Whorton v. Bockting,
+
+549 U.S. 406, 418 (2007); see Teague, 489 U. S., at 312 (plurality opinion).  And it must go to the defendant’s guilt or innocence, “prevent[ing] an impermissibly large risk of an inaccurate conviction.”  Whorton, 549 U. S., at 418 (internal quotation marks omitted); see Teague, 489 U. S., at 312 (plurality opinion).  Those requirements set a high bar.  But they capture—or anyway, were once meant to—a “small core of rules” needed to fairly adjudicate a defendant’s guilt.  Beard, 542 U. S., at 417.
+
+															The first clue that the unanimity rule falls within Teague’s small core is that the Court thought its adoption justified overturning precedent.  Ramos didn’t just announce a new rule.  It reversed a prior, well-settled one.  As the majority recounts, “Ramos repudiated this Court’s 1972 decision in Apodaca v. Oregon,
+
+406 U.S. 404, which had allowed non-unanimous juries in state criminal trials.”  Ante, at 1.  Such a toppling of precedent needs a special justification—more than a run-of-the-mill claim of error.  To meet that demand, the Ramos majority described Apodaca as flouting the essential “meaning of the
+ 
+Sixth Amendment’s jury trial right,” as revealed in both historical practice and judicial decisions.  590 U. S., at ___ (slip op., at 21).  Two concurring Justices added, to support discarding this “egregiously wrong” precedent, that the unanimity rule prevents improper verdicts: Apodaca “sanctions the conviction” of some defendants who would otherwise defeat the State’s efforts “to [meet] its burden” of proving guilt.  590 U. S., at ___ (Kavanaugh, J.) (slip op., at 12); id., at ___ (Sotomayor, J.) (slip op., at 2). And the majority and concurrences alike invoked racial justice to support abandoning stare decisis, explaining how a non-unanimity rule has posed a special danger of canceling Black jurors’ votes.  See id., at ___–___, ___ (slip op., at 1–2, 21); id., at ___ (Sotomayor, J.) (slip op., at 4); id., at ___–___ (Kavanaugh, J.) (slip op., at 12–15); infra, at 8.  At bottom, then, the Court took the unusual step of overruling precedent for the most fundamental of reasons: the need to ensure, in keeping with the Nation’s oldest traditions, fair and dependable adjudications of a defendant’s guilt.  In this much alone, Ramos’s reasoning evokes this Court’s descriptions of watershed rules.[3]
+
+															And putting talk of stare decisis aside, there remains much more in Ramos to echo Teague.  If, as today’s majority says, Teague is full of “adjectives,” ante, at 10, so too is Ramos—and mostly the same ones.  Jury unanimity, the Court pronounced, is an “essential element[ ]” of the jury trial right, and thus is “fundamental to the American scheme of justice.”  590 U. S., at ___–___ (slip op., at 6–7).  The Court discussed the rule’s “ancient” history—“400 years of English and American cases requiring unanimity” leading up to the
+ 
+Sixth Amendment.  Id., at ___, ___ (slip op., at 15, 11).  As early as the 14th century, English common law recognized jury unanimity as a “vital right.”  Id., at ___ (slip op., at 4).  Adopting that view, the early American States likewise treated unanimity as an “essential feature of the jury trial.”  Id., at ___ (slip op., at 5).  So by the time the Framers drafted the
+ 
+Sixth Amendment, “the right to a jury trial meant a trial in which the jury renders a unanimous verdict.”  Id., at ___ (slip op., at 12) (emphasis in original).  Because that was so, no jury verdict could stand (or in some metaphysical sense, even exist) absent full agreement: “A verdict, taken from eleven, was no verdict at all.”  Id., at ___–___ (slip op., at 4–5) (internal quotation marks omitted).  Unanimity served as a critical safeguard, needed to protect against wrongful deprivations of citizens’ “hard-won liberty.”  Id., at ___ (slip op., at 15).  Or as Justice Story summarized the law a few decades after the Founding: To obtain a conviction, “unanimity in the verdict of the jury is indispensable.”  Id., at ___ (slip op., at 6).
+
+															If a rule so understood isn’t a watershed one, then nothing is.  (And that is, of course, what the majority eventually says.)  Once more, from the quotations just above: “fundamental,” “essential,” “vital,” “indispensable.”  No wonder today’s majority declares a new-found aversion to “adjectives”—or, as a concurring opinion says, “all these words.”  Ante, at 10; ante, at 10 (Gorsuch, J., concurring).  The unanimity rule, as Ramos described it, is as “bedrock” as bedrock comes.  Teague, 489 U. S., at 315 (plurality opinion).  It is as grounded in the Nation’s constitutional traditions—with centuries-old practice becoming part of the
+ 
+Sixth Amendment’s original meaning.  And it is as central to the Nation’s idea of a fair and reliable guilty verdict.  When can the State punish a defendant for committing a crime?  Return again to Ramos, this time going back to Blackstone: Only when “the truth of [an] accusation” is “confirmed by the unanimous suffrage” of a jury “of his equals and neighbours.”  590 U. S., at ___ (slip op., at 4) (quoting 4 Commentaries on the Laws of England 343 (1769)).  For only then is the jury’s finding of guilt certain enough—secure enough, mistake-proof enough—to take away the person’s freedom.
+
+															Twice before, this Court retroactively applied rules that are similarly integral to jury verdicts.  First, in Ivan V. v. City of New York,
+
+407 U.S. 203, 204 (1972) (per curiam), we gave “complete retroactive effect” to the rule of In re Winship,
+
+397 U.S. 358 (1970), that a jury must find guilt “beyond a reasonable doubt.”  Like Ramos, Winship rested on an “ancient” legal tradition incorporated into the Constitution.  397 U. S., at 361.  As in Ramos, that tradition served to “safeguard men” from “unjust convictions, with resulting forfeitures” of freedom.  397 U. S., at 362.  And as in Ramos, that protection plays a “vital” part in “the American scheme of criminal procedure.”  397 U. S., at 363–364.  With all that established, the Ivan V. Court needed just two pages to hold Winship retroactive, highlighting the reasonable-doubt standard’s “indispensable” role in “reducing the risk” of wrongful convictions.  407 U. S., at 204–205.  Second, in Brown v. Louisiana,
+
+447 U.S. 323 (1980), we retroactively applied the rule of Burch v. Louisiana,
+
+441 U.S. 130 (1979), that a six-person guilty verdict must be unanimous.  Think about that for a moment: We held retroactive a unanimity requirement, no different from the one here save that it applied to a smaller jury.  The reasoning should by now sound familiar.  Allowing conviction by a non-unanimous jury “impair[s]” the “purpose and functioning of the jury,” undermining the
+ 
+Sixth Amendment’s very “essence.”  Brown, 447 U. S., at 331 (plurality opinion).  It “raises serious doubts about the fairness of [a] trial.”  Id., at 335, n. 13.  And it fails to “assure the reliability of [a guilty] verdict.”  Id., at 334. So when a jury has divided, as when it has failed to apply the reasonable-doubt standard, “there has been no jury verdict within the meaning of the
+ 
+Sixth Amendment.”  Sullivan v. Louisiana,
+
+508 U.S. 275, 280 (1993).[4]
+
+															And something still more supports retroactivity here, for the opinions in Ramos (unlike in Winship or Burch) relied on a strong claim about racial injustice.  The Court detailed the origins of Louisiana’s and Oregon’s non-unanimity rules, locating them (respectively) in a convention to “establish the supremacy of the white race” and “the rise of the Ku Klux Klan.”  590 U. S., at ___ (slip op., at 2) (internal quotation marks omitted).  Those rules, the Court explained, were meant “to dilute the influence [on juries] of racial, ethnic, and religious minorities”—and particularly, “to ensure that African-American juror service would be meaningless.”  Ibid. (internal quotation marks omitted).  Two concurring opinions linked that history to current practice.  “In light of the[ir] racist origins,” Justice Kavanaugh stated, “it is no surprise that non-unanimous juries can make a difference”—that “[t]hen and now” they can “negate the votes of black jurors, especially in cases with black defendants.”  Id., at ___ (slip op., at 13); see id., at ___ (Sotomayor, J.) (slip op., at 4).  But that statement precludes today’s result.  If the old rule functioned “as an engine of discrimination against black defendants,” id., at ___ (Kavanaugh, J.) (slip op., at 13), its replacement must “implicat[e]” (as watershed rules do) “the fundamental fairness and accuracy of the criminal proceeding,” Beard, 542 U. S., at 417 (internal quotation marks omitted).  Or as Justice Kavanaugh put the point more concretely, the unanimity rule then helps prevent “racial prejudice” from resulting in wrongful convictions.  Ramos, 590 U. S., at ___ (slip op., at 15).  The rule should therefore apply not just forward but back, to all convictions rendered absent its protection.
+
+															II
+
+															The majority argues in reply that the jury unanimity rule is not so fundamental because . . . .  Well, no, scratch that.  Actually, the majority doesn’t contest anything I’ve said about the foundations and functions of the unanimity requirement.  Nor could the majority reasonably do so.  For everything I’ve said about the unanimity rule comes straight out of Ramos’s majority and concurring opinions.  Just check the citations: I’ve added barely a word to what those opinions (often with soaring rhetoric) proclaim.  Start with history.  The ancient foundations of the unanimous jury rule?  Check.  The inclusion of that rule in the
+ 
+Sixth Amendment’s original meaning?  Check.  Now go to function.  The fundamental (or bedrock or central) role of the unanimous jury in the American system of criminal justice?  Check.  The way unanimity figures in ensuring fairness in criminal trials and protecting against wrongful guilty verdicts?  Check.  The link between those purposes and safeguarding the jury system from (past and present) racial prejudice?  Check.  In sum: As to every feature of the unanimity rule conceivably relevant to watershed status, Ramos has already given the answer—check, check, check—and today’s majority can say nothing to the contrary.[5]
+
+															Instead, the majority relies on decisions holding non-retroactive various other—even though dissimilar—procedural rules.  In making that argument from past practice, the majority adopts two discrete tactics.  Call the first “throw everything against the wall.”  Call the second “slice and dice.”  Neither can avail to render the jury unanimity rule anything less than what Ramos thought it—as the majority concedes, “momentous.”  Ante, at 14.
+
+															As its first move, the majority lists as many decisions holding rules non-retroactive as it can muster.  See ante, at 11–12 (reviewing a “long line of cases”).  The premise here is that sheer volume matters: The majority presents the catalog as if every rule is as important as every other and as if comparing any to the unanimity requirement is beside the point.  But that idea founders on this Court’s constant refrain that watershed rules are only a small subset of procedural rules.  See, e.g., Graham v. Collins,
+
+506 U.S. 461, 478 (1993).  For under that view (as under the very meaning of “watershed”), nothing could be less surprising than that non-watershed rules greatly outnumber watershed ones.  That inexorable fact cannot refute the designation of any given rule—much less of jury unanimity—as watershed.  And the majority’s kitchen-sink list becomes yet less probative of the issue here because most of its bulk comes from decisions on sentencing.  See ante, at 11 (citing Beard, 542 U. S., at 408; O’Dell v. Netherland,
+
+521 U.S. 151, 153 (1997); Lambrix v. Singletary,
+
+520 U.S. 518, 540 (1997); Sawyer v. Smith,
+
+497 U.S. 227, 229 (1990); Schriro v. Summerlin,
+
+542 U.S. 348, 352 (2004)).  But Teague itself explains why sentencing procedures are not watershed: A watershed rule, the Court said there, must go to the jury’s “determination of innocence or guilt.”  489 U. S., at 313 (plurality opinion); see Beard, 542 U. S., at 417.  So the majority’s indiscriminate inventory of non-retroactive rules cannot get it home.
+
+															Enter the majority’s second stratagem, which tries to conquer by dividing.  Here, the majority picks out “three aspects of Ramos” pointing toward watershed status, and names one prior decision to match each of the three.  Ante, at 12.  So in addressing the unanimity rule’s “significance,” the majority notes that the Court once held the jury-trial right non-retroactive.  Ante, at 12–13 (citing DeStefano v. Woods,
+
+392 U.S. 631, 633 (1968) (per curiam) and Duncan v. Louisiana,
+
+391 U.S. 145 (1968)).  In tackling Ramos’s return to “original meaning,” the majority points to our decision that an originalist rule about hearsay evidence should not apply backward.  Ante, at 13 (citing Whorton, 549 U. S., at 421 and Crawford v. Washington,
+
+541 U.S. 36 (2004)).  And in discussing Ramos’s role in “prevent[ing] racial discrimination,” the majority invokes our denial of retroactivity to a rule making it easier to prove race-based peremptory strikes.  Ante, at 13–14 (citing Allen v. Hardy,
+
+478 U.S. 255, 261 (1986) (per curiam) and Batson v. Kentucky,
+
+476 U.S. 79 (1986)).  
+
+															What the majority doesn’t find—or even pretend to—is any decision corresponding to Ramos on all of those dimensions.  Take just a pair of examples.  The Court has never suggested that requiring a bench trial has race-based purposes or effects.  See DeStefano, 392 U. S., at 633–635.[6] Similarly, the Court thought its new rule on hearsay evidence of less than towering import: Calling the rule “limited in scope,” we doubted that it would have any effect on the “accuracy of factfinding.”  Whorton, 549 U. S., at 419.  I’ll resist making like points about other permutations because the main point here is a general one.  The majority must slice and dice in this way—dividing Ramos into three for purposes of comparison—because it cannot find any rule analogous to jury unanimity on all relevant fronts.  And that is for a simple reason: No procedure adopted since Teague so comprehensively fulfills that decision’s criteria for retroactivity.  If any rule is watershed, it is jury unanimity.  See supra, at 6.
+
+															So the majority is left to overrule Teague’s holding on watershed rules.[7]  On the last page or so of its merits discussion (before it turns to pre-butting this dissent), the majority eliminates the watershed exception, declaring it “long past time” to do so.  Ante, at 15.  Teague had said there would not be “many” (retroactive) watershed rules.  489 U. S., at 313 (plurality opinion).  The majority now says there will be none at all.  If that is so, of course, jury unanimity cannot be watershed.  Finally, the majority offers an intelligible reason for declining to apply Ramos retroactively.  
+
+															But in taking that road, the majority breaks a core judicial rule: respect for precedent.  Stare decisis is a foundation stone of the rule of law, “promot[ing] the evenhanded, predictable, and consistent development of legal principles, foster[ing] reliance on judicial decisions, and contribut[ing] to the actual and perceived integrity of the judicial process.”  Payne v. Tennessee,
+
+501 U.S. 808, 827 (1991).  Adherence to precedent is, of course, “not an inexorable command.”  Id., at 828.  Ramos itself teaches that much.  But Ramos also shows how high stare decisis sets the bar for overruling a prior decision.  To reverse course, we insist on compelling reasons, thorough explanation, and careful attention to competing interests.  But not here.  The majority crawls under, rather than leaps over, the stare decisis bar.  
+
+															To begin with, no one here asked us to overrule Teague.  This Court usually confines itself to the issues raised and briefed by the parties.  See, e.g., United States v. Sineneng-Smith, 590 U. S. ___, ___ (2020) (slip op., at 3) (discussing “the principle of party presentation”).  There may be reasons to ignore that rule in one or another everyday case.  But to do so in pursuit of overturning precedent is nothing short of extraordinary.  Cf. Ramos, 590 U. S., at ___, n. 4 (Kavanaugh, J.) (slip op., at 9, n. 4) (An “important factor” protecting stare decisis “is that the Court typically does not overrule a precedent unless a party requests overruling”).  We are supposed to (fairly) apply the prevailing law until a party asks us to change it.  And when a party does make that request, we are supposed to attend to countervailing arguments—which no one here had a chance to make.  That orderly process, skipped today, is what enables a court to arrive at a considered decision about whether to overthrow precedent.
+
+															Equally striking, the majority gives only the sketchiest of reasons for reversing Teague’s watershed exception.  In deciding whether to depart from precedent, the Court usually considers—and usually at length—a familiar set of factors capable of providing the needed special justification.  See, e.g., Knick v. Township of Scott, 588 U. S. ___, ___ (2019) (slip op., at 20) (listing such considerations).  The majority can’t be bothered with that customary, and disciplining, practice; it barely goes through the motions.  Seldom has this Court so casually, so off-handedly, tossed aside precedent.  In its page of analysis, the majority offers just one ground for its decision—that since Teague, the Court has not identified a new rule as watershed, and so “the purported exception has become an empty promise.”  Ante, at 15.  But even viewed in the abstract, that argument does not fly.  That the Court has not found a watershed rule since Teague does not mean it could or would not in the future.  Teague itself understood that point: It saw value in the watershed exception even while recognizing that watershed rules would be few and far between.  489 U. S., at 313 (plurality opinion).  And viewed in the context of this case, the majority’s argument positively craters.  For the majority today comes face-to-face with a rule that perfectly fits each of Teague’s criteria: Jury unanimity, as described in Ramos, is watershed—even though no prior rule was.  See supra, at 4–8.  That airtight match between Ramos and Teague refutes the majority’s one stated reason for overruling the latter decision.  The majority could not rely on the absence of watershed rules to topple Teague if it had just faithfully applied that decision to this case.
+
+															In choosing otherwise, the majority imposes a steep price for overruling Apodaca in Ramos.  Taking with one hand what it gave with the other, the Court curtails Ramos’s effects by expunging Teague’s provision for watershed rules.  And so too the Court limits the consequences of any similarly fundamental change in criminal procedure that may emerge in the future.  For the first time in many decades (since long before Teague, see supra, at 3, n. 2), those convicted under rules found not to produce fair and reliable verdicts will be left without recourse in federal courts.[8]
+
+															I would not discard Teague’s watershed exception and so keep those unfairly convicted people from getting new trials.  Instead, I would accept the consequences of last Term’s holding in Ramos.  A decision like that comes with a promise, or at any rate should.  If the right to a unanimous jury is so fundamental—if a verdict rendered by a divided jury is “no verdict at all”—then Thedrick Edwards should not spend his life behind bars over two jurors’ opposition.  I respectfully dissent. 
+Notes
+1
+ I dissented in Ramos precisely because of its abandonment of stare decisis.  See 590 U. S., at ___−___ (slip op., at 5–9) (Alito, J., dissenting); see also Kimble v. Marvel Entertainment, LLC,
+
+576 U.S. 446, 455 (2015) (“Respecting stare decisis means sticking to some wrong decisions”).  Now that Ramos is the law, stare decisis is on its side.  I take the decision on its own terms, and give it all the consequence it deserves.  
+
+2
+ Prior to Teague, the Court gave retroactive effect to a somewhat wider range of new procedural rules.  See ante, at 13, n. 5; Danforth v. Minnesota,
+
+552 U.S. 264, 271–273 (2008).  To find the no-retroactivity-ever rule that the majority announces today, a time traveler would have to go back to around 1950—when the Bill of Rights’ protections for criminal defendants did not even apply to the States.  See ibid. 
+
+3
+ The majority misunderstands my point about the interaction between stare decisis and Teague.  I am not saying that if a “right is important enough to justify overruling” precedent, then it is “important enough to apply retroactively.”  Ante, at 16.  (If that were my claim, this dissent would be far shorter.)  Rather, the overruling of precedent—and more, the justifications given to support that overruling—are elements to consider when deciding on a rule’s watershed status.  Or, as I say above, “a first clue.”  Here, that clue cuts against the majority: Ramos overturned precedent (rather than just announcing a new rule) on grounds strikingly reminiscent of Teague’s criteria for watershed status.  Still more clues, pointing in the same direction, appear in the coming pages . . . .   
+
+4
+ The majority argues that Ivan V. and Brown applied these new rules only to cases on direct appeal.  See ante, at 13, n. 5.  But that isn’t right.  Although Ivan V. itself involved a direct appeal, the Court has made clear that the “complete retroactive effect” Ivan V. gave Winship included cases in habeas.  See, e.g., United States v. Johnson,
+
+457 U.S. 537, 562–563, n. 21 (1982).  And similarly, lower courts uniformly understood Brown to govern habeas cases, even though a concurring opinion (which supplied the ruling’s fifth and sixth votes) addressed only cases on direct appeal.  See, e.g., Atkins v. Listi, 625 F.2d 525, 526 (CA5 1980); see also Brown, 447 U. S., at 337 (opinion of Powell, J., joined by Stevens, J.).  Those applications to habeas cases make sense because the Court of that time did not often distinguish in its retroactivity rulings between direct and collateral review.  See Stovall v. Denno,
+
+388 U.S. 293, 300–301 (1967).  For that reason, the majority must fall back on the argument that “Brown and Ivan V. were pre-Teague decisions” and “Teague tightened the previous standard” for retroactivity.  Ante, at 13, n. 5.  That is true enough, see supra, at 3, n. 2, but irrelevant here given Brown and Ivan V’s reasoning.  As just noted, each of those decisions said everything a court would say today in designating a new rule “watershed”—inessence, that the rule is central to the process of fairly deciding on adefendant’s guilt. 
+
+5
+ The majority does try to say that the plurality opinion in Ramos nonetheless “plainly foreshadowed today’s decision” by noting that Teague’s watershed test was “demanding by design,” in recognition of the States’ reliance interests.  Ante, at 16–17 (internal quotation marks omitted); see also ante, at 17–19 (repeating the assertion twice more).  But the Ramos plurality’s description of the watershed test was nothing more than objective fact: Yes, the watershed test was purposefully demanding.  As to whether the watershed test was so demanding as to exclude the jury unanimity rule, here is what the plurality had to say: “Whether the right to jury unanimity applies to cases on collateral review is a question for a future case where the parties will have a chance to brief the issue and we will benefit from their adversarial presentation.”  Ramos, 590 U. S., at ___ (slip op., at 24).  Not a lot of “plain[ ] foreshadow[ing]” there.  Only a fair bit of wisdom about how to resolve legal issues—which, as I’ll later discuss, the majority could usefully have considered before overruling the watershed exception.  See infra, at 13. 
+
+6
+ Even on the metric of significance alone, the Court has not previously ranked the jury-unanimity and jury-trial rights as today’s majority does.  As earlier noted, the Court in Brown found a unanimity rule retroactive despite its earlier holding that the jury-trial right was not.  See supra, at 6–7.  The Court explained that the accuracy and fairness concerns raised by divided juries—where, by definition, at least one person retains reasonable doubt—exceed those arising from judicial verdicts.  See Brown, 447 U. S., at 334–335, n. 13 (plurality opinion).  In insisting otherwise, the majority falls prey to a common greater-includes-the-lesser fallacy—akin to the view that if a State can eliminate a jury, it can impose jury rules of whatever kind it likes.  See ante, at 12–13 (reasoning that the treatment of a “broader” right controls that of a “subsidiary” right); Brown, 447 U. S., at 334–335, n. 13 (rejecting precisely that view).   
+
+7
+ In describing the majority as overruling Teague, I do not mean it overrules only Teague.  That decision doesn’t stand alone in stating the watershed exception as governing law.  As I count, the Court has recited the exception 17 more times before today.  See Montgomery v. Louisiana,
+
+577 U.S. 190, 198 (2016); Welch v. United States,
+
+578 U.S. 120, 128 (2016); Chaidez v. United States,
+
+568 U.S. 342, 347, n. 3 (2013); Danforth, 552 U. S., at 266, 274–275; Whorton v. Bockting,
+
+549 U.S. 406, 416 (2007); Beard v. Banks,
+
+542 U.S. 406, 416–417 (2004); Horn v. Banks,
+
+536 U.S. 266, 271, n. 5 (2002) (per curiam); Tyler v. Cain,
+
+533 U.S. 656, 665 (2001); Bousley v. United States,
+
+523 U.S. 614, 619–620 (1998); O’Dell v. Netherland,
+
+521 U.S. 151, 156–157 (1997); Lambrix v. Singletary,
+
+520 U.S. 518, 539 (1997); Gray v. Netherland,
+
+518 U.S. 152, 170 (1996); Caspari v. Bohlen,
+
+510 U.S. 383, 396 (1994); Graham v. Collins, 506 U. S., 461, 477–478 (1993); Gilmore v. Taylor,
+
+508 U.S. 333, 345 (1993); Saffle v. Parks,
+
+494 U.S. 484, 494–495 (1990); Sawyer v. Smith,
+
+497 U.S. 227, 241–242 (1990). 
+
+8
+ The majority’s final claim is that it is properly immune from this criticism—that I cannot “turn around and impugn” its ruling—because “criminal defendants as a group are better off under Ramos and today’s decision, taken together, than they would have been if [my] dissenting view had prevailed in Ramos.”  Ante, at 19.  The suggestion is surprising.  It treats judging as scorekeeping—and more, as scorekeeping about how much our decisions, or the aggregate of them, benefit a particular kind of party.  I see the matter differently.  Judges should take cases one at a time, and do their best in each to apply the relevant legal rules.  And when judges err, others should point out where they went astray.  No one gets to bank capital for future cases; no one’s past decisions insulate them from criticism.  The focus always is, or should be, getting the case before us right. 
+
+

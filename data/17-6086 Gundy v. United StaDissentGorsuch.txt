@@ -1,0 +1,661 @@
+::SCDB_caseID:: 2018-003
+::decision_cite:: 17-6086
+::decision_name::  Gundy v. United States
+::decision_year:: 2019
+::opinion_author:: Gorsuch
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–6086
+
+															_________________
+
+															HERMAN AVERY GUNDY, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															[June 20, 2019]
+
+															
+
+															Justice Gorsuch, with whom The Chief Justice and Justice Thomas join, dissenting.
+
+															The Constitution promises that only the people’s elected representatives may adopt new federal laws restricting liberty.  Yet the statute before us scrambles that design.  It purports to endow the nation’s chief prosecutor with the power to write his own criminal code governing the lives of a half-million citizens.  Yes, those affected are some of the least popular among us.  But if a single executive branch official can write laws restricting the liberty of this group of persons, what does that mean for the next?
+
+															Today, a plurality of an eight-member Court endorses this extraconstitutional arrangement but resolves nothing.  Working from an understanding of the Constitution at war with its text and history, the plurality reimagines the terms of the statute before us and insists there is nothing wrong with Congress handing off so much power to the Attorney General.  But Justice Alito supplies the fifth vote for today’s judgment and he does not join either the plurality’s constitutional or statutory analysis, indicating instead that he remains willing, in a future case with a full Court, to revisit these matters.  Respectfully, I would not wait.
+
+															I
+
+															For individuals convicted of sex offenses after Congress adopted the Sex Offender Registration and Notification Act (SORNA) in 2006, the statute offers detailed instructions.  It requires them “to provide state governments with (and to update) information, such as names and current addresses, for inclusion on state and federal sex offender registries.”[1]  The law divides offenders into three tiers based on the seriousness of their crimes: Some must register for 15 years, others for 25 years, and still others for life.[2]  The statute proceeds to set registration deadlines: Offenders sentenced to prison must register before they’re released, while others must register within three business days after sentencing.[3]  The statute explains when and how offenders must update their registrations.[4]  And the statute specifies particular penalties for failing to comply with its commands.[5]  On and on the statute goes for more than 20 pages of the U. S. Code.
+
+															But what about those convicted of sex offenses before the Act’s adoption?  At the time of SORNA’s enactment, the nation’s population of sex offenders exceeded 500,000, and Congress concluded that something had to be done about these “pre-Act” offenders too.  But it seems Congress couldn’t agree what that should be.  The treatment of pre-Act offenders proved a “controversial issue with major policy significance and practical ramifications for states.”[6]  Among other things, applying SORNA immediately to this group threatened to impose unpopular and costly burdens 
+
+															 
+
+															on States and localities by forcing them to adopt or overhaul their own sex offender registration schemes.[7]  So Congress simply passed the problem to the Attorney General.  For all half-million pre-Act offenders, the law says only this, in
+
+34 U. S. C. §20913(d):
+
+															“The Attorney General shall have the authority to specify the applicability of the requirements of this subchapter to sex offenders convicted before the enactment of this chapter . . . and to prescribe rules for the registration of any such sex offender.”
+
+															Yes, that’s it.  The breadth of the authority Congress granted to the Attorney General in these few words can only be described as vast.  As the Department of Justice itself has acknowledged, SORNA “does not require the Attorney General” to impose registration requirements on pre-Act offenders “within a certain time frame or by a date certain; it does not require him to act at all.”[8]  If the Attorney General does choose to act, he can require all pre-Act offenders to register, or he can “require some but not all to register.”[9]  For those he requires to register, the Attorney General may impose “some but not all of [SORNA’s] registration requirements,” as he pleases.[10]  And he is free to change his mind on any of these matters “at any given time or over the course of different [political] administrations.”[11]  Congress thus gave the Attorney General free rein to write the rules for virtually the entire existing sex offender population in this country—a situation that promised to persist for years or decades until 
+
+															 
+
+															pre-Act offenders passed away or fulfilled the terms of their registration obligations and post-Act offenders came to predominate.
+
+															Unsurprisingly, different Attorneys General have exercised their discretion in different ways.[12]  For six months after SORNA’s enactment, Attorney General Gonzales left past offenders alone.  Then the pendulum swung the other direction when the Department of Justice issued an interim rule requiring pre-Act offenders to follow all the same rules as post-Act offenders.[13]  A year later, Attorney General Mukasey issued more new guidelines, this time directing the States to register some but not all past offenders.[14]  Three years after that, Attorney General Holder required the States to register only those pre-Act offenders convicted of a new felony after SORNA’s enactment.[15]  Various Attorneys General have also taken different positions on whether pre-Act offenders might be entitled to credit for time spent in the community before SORNA was enacted.[16]
+
+															These unbounded policy choices have profound consequences for the people they affect.  Take our case.  Before SORNA’s enactment, Herman Gundy pleaded guilty in 2005 to a sexual offense.  After his release from prison five years later, he was arrested again, this time for failing to register as a sex offender according to the rules the Attorney General had then prescribed for pre-Act offenders.  As a result, Mr. Gundy faced an additional 10-year prison term—10 years more than if the Attorney General had, in 
+
+															 
+
+															his discretion, chosen to write the rules differently.
+
+															II
+
+															A
+
+															Our founding document begins by declaring that “We the People . . . ordain and establish this Constitution.”  At the time, that was a radical claim, an assertion that sovereignty belongs not to a person or institution or class but to the whole of the people.  From that premise, the Constitution proceeded to vest the authority to exercise different aspects of the people’s sovereign power in distinct entities.  In Article I, the Constitution entrusted all of the federal government’s legislative power to Congress.  In Article II, it assigned the executive power to the President.  And in Article III, it gave independent judges the task of applying the laws to cases and controversies.
+
+															To the framers, each of these vested powers had a distinct content.  When it came to the legislative power, the framers understood it to mean the power to adopt gener- ally applicable rules of conduct governing future actions by private persons—the power to “prescrib[e] the rules by which the duties and rights of every citizen are to be regulated,”[17] or the power to “prescribe general rules for the government of society.”[18]
+
+															The framers understood, too, that it would frustrate “the system of government ordained by the Constitution” if Congress could merely announce vague aspirations and then assign others the responsibility of adopting legislation to realize its goals.[19]  Through the Constitution, after 
+
+															 
+
+															all, the people had vested the power to prescribe rules limiting their liberties in Congress alone.  No one, not even Congress, had the right to alter that arrangement.  As Chief Justice Marshall explained, Congress may not “delegate . . . powers which are strictly and exclusively legislative.”[20]  Or as John Locke, one of the thinkers who most influenced the framers’ understanding of the separation of powers, described it:
+
+															“The legislative cannot transfer the power of making laws to any other hands; for it being but a delegated power from the people, they who have it cannot pass it over to others.  The people alone can appoint the form of the commonwealth, which is by constituting the legislative, and appointing in whose hands that shall be.  And when the people have said we will submit to rules, and be governed by laws made by such men, and in such forms, nobody else can say other men shall make laws for them; nor can the people be bound by any laws but such as are enacted by those whom they have chosen and authorised to make laws for them.”[21]
+
+															Why did the framers insist on this particular arrangement?  They believed the new federal government’s most dangerous power was the power to enact laws restricting the people’s liberty.[22]  An “excess of law-making” was, in their words, one of “the diseases to which our governments are most liable.”[23]  To address that tendency, the framers went to great lengths to make lawmaking difficult.  In Article I, by far the longest part of the Constitution, the 
+
+															 
+
+															framers insisted that any proposed law must win the approval of two Houses of Congress—elected at different times, by different constituencies, and for different terms in office—and either secure the President’s approval or obtain enough support to override his veto.  Some occasionally complain about Article I’s detailed and arduous processes for new legislation, but to the framers these were bulwarks of liberty.
+
+															Nor was the point only to limit the government’s capac- ity to restrict the people’s freedoms.  Article I’s detailed processes for new laws were also designed to promote deliberation.  “The oftener the measure is brought under examination,” Hamilton explained, “the greater the diversity in the situations of those who are to examine it,” and “the less must be the danger of those errors which flow from want of due deliberation, or of those missteps which proceed from the contagion of some common passion or interest.”[24]
+
+															Other purposes animated the framers’ design as well.  Because men are not angels[25] and majorities can threaten minority rights, the framers insisted on a legislature composed of different bodies subject to different electorates as a means of ensuring that any new law would have to secure the approval of a supermajority of the people’s representatives.  This, in turn, assured minorities that their votes would often decide the fate of proposed legislation.  Indeed, some even thought a Bill of Rights would prove unnecessary in light of the Constitution’s design; in their view, sound structures forcing “[a]mbition [to] . . . counteract ambition” would do more than written promises to guard unpopular minorities from the tyranny of the majority.[26]  Restricting the task of legislating to one branch characterized by difficult and deliberative processes was also designed to promote fair notice and the rule of law, ensuring the people would be subject to a relatively stable and predictable set of rules.[27]  And by directing that legislating be done only by elected representatives in a public process, the Constitution sought to ensure that the lines of accountability would be clear: The sovereign people would know, without ambiguity, whom to hold accountable for the laws they would have to follow.[28]
+
+															If Congress could pass off its legislative power to the executive branch, the “[v]esting [c]lauses, and indeed the entire structure of the Constitution,” would “make no sense.”[29]  Without the involvement of representatives from across the country or the demands of bicameralism and presentment, legislation would risk becoming nothing more than the will of the current President.  And if laws could be simply declared by a single person, they would not be few in number, the product of widespread social consensus, likely to protect minority interests, or apt to provide stability and fair notice.[30]  Accountability would suffer too.  Legislators might seek to take credit for addressing a pressing social problem by sending it to the executive for resolution, while at the same time blaming the executive for the problems that attend whatever measures he chooses to pursue.  In turn, the executive might point to Congress as the source of the problem.  These opportunities for finger-pointing might prove tempt-
+
+															 
+
+															ingly advantageous for the politicians involved, but they would also threaten to “ ‘disguise . . . responsibility for . . . the decisions.’ ”[31]
+
+															The framers warned us against permitting consequences like these.  As Madison explained, “ ‘[t]here can be no liberty where the legislative and executive powers are united in the same person, or body of magistrates.’ ”[32]  The framers knew, too, that the job of keeping the legislative power confined to the legislative branch couldn’t be trusted to self-policing by Congress; often enough, legislators  will face rational incentives to pass problems to the executive branch.  Besides, enforcing the separation of powers isn’t about protecting institutional prerogatives or governmental turf.  It’s about respecting the people’s sovereign choice to vest the legislative power in Congress alone.  And it’s about safeguarding a structure designed to protect their liberties, minority rights, fair notice, and the rule of law.  So when a case or controversy comes within the judicial competence, the Constitution does not permit judges to look the other way; we must call foul when the constitutional lines are crossed.  Indeed, the framers afforded us independence from the political branches  in large part to encourage exactly this kind of “forti- tude . . . to do [our] duty as faithful guardians of the  Constitution.”[33]
+
+															B
+
+															Accepting, then, that we have an obligation to decide whether Congress has unconstitutionally divested itself of its legislative responsibilities, the question follows: What’s the test?  Madison acknowledged that “no skill in the science of government has yet been able to discriminate and define, with sufficient certainty, its three great provinces—the legislative, executive, and judiciary.”[34]  Chief Justice Marshall agreed that policing the separation of powers “is a subject of delicate and difficult inquiry.”[35]  Still, the framers took this responsibility seriously and offered us important guiding principles.
+
+															First, we know that as long as Congress makes the policy decisions when regulating private conduct, it may authorize another branch to “fill up the details.”  In Wayman v. Southard, this Court upheld a statute that instructed the federal courts to borrow state-court procedural rules but allowed them to make certain “alterations and additions.”  Writing for the Court, Chief Justice Marshall distinguished between those “important subjects, which must be entirely regulated by the legislature itself,” and “those of less interest, in which a general provision may be made, and power given to those who are to act . . . to fill up the details.”[36]  The Court upheld the statute before it because Congress had announced the controlling general policy when it ordered federal courts to follow state procedures, and the residual authority to make “alterations and additions” did no more than permit courts to fill up the details.
+
+															Later cases built on Chief Justice Marshall’s understanding.  In In re Kollock, for example, the Court upheld 
+
+															 
+
+															a statute that assigned the Commissioner of Internal Revenue the responsibility to design tax stamps for margarine packages.[37]  Later still, and using the same logic, the Court sustained other and far more consequential statutes, like a law authorizing the Secretary of Agriculture to adopt rules regulating the “use and occupancy” of public forests to protect them from “destruction” and “depredations.”[38]  Through all these cases, small or large, runs the theme that Congress must set forth standards “sufficiently definite and precise to enable Congress, the courts, and the public to ascertain” whether Congress’s guidance has been followed.[39]
+
+															Second, once Congress prescribes the rule governing private conduct, it may make the application of that rule depend on executive fact-finding.  Here, too, the power extended to the executive may prove highly consequential.  During the Napoleonic Wars, for example, Britain and France each tried to block the United States from trading with the other.  Congress responded with a statute instructing that, if the President found that either Great Britain or France stopped interfering with American trade, a trade embargo would be imposed against the other country.  In Cargo of Brig Aurora v. United States, this Court explained that it could “see no sufficient reason, why the legislature should not exercise its discretion [to impose an embargo] either expressly or conditionally, as their judgment should direct.”[40]  Half a century later, Congress likewise made the construction of the Brooklyn Bridge depend on a finding by the Secretary of War that 
+
+															 
+
+															the bridge wouldn’t interfere with navigation of the East River.  The Court held that Congress “did not abdicate any of its authority” but “simply declared that, upon a certain fact being established, the bridge should be deemed a lawful structure, and employed the secretary of war as an agent to ascertain that fact.”[41]
+
+															Third, Congress may assign the executive and judicial branches certain non-legislative responsibilities.  While the Constitution vests all federal legislative power in Congress alone, Congress’s legislative authority sometimes overlaps with authority the Constitution separately vests in another branch.[42]  So, for example, when a congressional statute confers wide discretion to the executive, no separation-of-powers problem may arise if “the discretion is to be exercised over matters already within the scope of executive power.”[43]  Though the case was decided on different grounds, the foreign-affairs-related statute in Cargo of the Brig Aurora may be an example of this kind of permissible lawmaking, given that many foreign affairs powers are constitutionally vested in the president under Article II.  Wayman itself might be explained by the same principle as applied to the judiciary: Even in the absence of any statute, courts have the power under Article III “to regulate their practice.”[44]
+
+															C
+
+															Before the 1930s, federal statutes granting authority to 
+
+															 
+
+															the executive were comparatively modest and usually easily upheld.  But then the federal government began to grow explosively.  And with the proliferation of new executive programs came new questions about the scope of congressional delegations.  Twice the Court responded by striking down statutes for violating the separation of powers.
+
+															In A. L. A. Schechter Poultry Corp. v. United States, the Court considered a statute that transferred to the President the power “to approve ‘codes of fair competition’ ” for slaughterhouses and other industries.[45]  But Congress offered no meaningful guidance.  It did not, for example, reference any pre-existing common law of fair competition that might have supplied guidance on the policy questions, as it arguably had done earlier with the Sherman Act.[46]  And it did not announce rules contingent on executive fact-finding.  Nor was this assigned power one that anyone thought might inhere in the executive power.  Proceeding without the need to convince a majority of legislators, the President adopted a lengthy fair competition code written by a group of (possibly self-serving) New York poultry butchers.
+
+															Included in the code was a rule that often made it a federal crime for butchers to allow customers to select which individual chickens they wished to buy.  Kosher butchers such as the Schechters had a hard time following these rules.  Yet the government apparently singled out the Schechters as a test case; inspectors repeatedly visited them and, at times, apparently behaved abusively toward their customers.  When the Schechters finally kicked the 
+
+															 
+
+															inspectors out, they were greeted with a criminal indictment running to dozens of counts.  After a trial in which the Schechters were found guilty of selling one allegedly “unfit” chicken and other miscellaneous counts,[47] this Court agreed to hear the case and struck down the law as a violation of the separation of powers.  If Congress could permit the President to write a new code of fair competition all his own, Justice Cardozo explained, then “anything that Congress may do within the limits of the commerce clause for the betterment of business [could] be done by the President . . . by calling it a code.  This is delegation running riot.”[48]
+
+															The same year, in Panama Refining Co. v. Ryan, the Court struck down a statute that authorized the President to decide whether and how to prohibit the interstate transportation of “ ‘hot oil,’ ” petroleum produced or withdrawn from storage in excess of state-set quotas.  As in Schechter Poultry, the law provided no notice to regulated parties about what the President might wind up prohibiting, leading the Court to observe that Congress “ha[d] declared no policy, ha[d] established no standard, ha[d] laid down no rule.”[49]  The Court explained that the statute did not call for the executive to “ascertai[n] the existence of facts to which legislation is directed.”[50]  Nor did it ask the executive to “ ‘fill up the details’ ” “within the framework of the policy which the legislature has sufficiently defined.”[51]  “If [the statute] were held valid,” the Court continued, “it would be idle to pretend that anything would be left of limitations upon the power of the Congress to delegate its law-making function.”[52]
+
+															After Schechter Poultry and Panama Refining, Congress responded by writing a second wave of New Deal legislation more “[c]arefully crafted” to avoid the kind of problems that sank these early statutes.[53]  And since that time the Court hasn’t held another statute to violate the separation of powers in the same way.  Of course, no one thinks that the Court’s quiescence can be attributed to an unwavering new tradition of more scrupulously drawn statutes.  Some lament that the real cause may have to do with a mistaken “case of death by association” because Schechter Poultry and Panama Refining happened to be handed down during the same era as certain of the Court’s now-discredited substantive due process decisions.[54] But maybe the most likely explanation of all lies in the story of the evolving “intelligible principle” doctrine.
+
+															This Court first used that phrase in 1928 in J. W. Hampton, Jr., & Co. v. United States, where it remarked that a statute “lay[ing] down by legislative act an intelligible principle to which the [executive official] is directed to conform” satisfies the separation of powers.[55]  No one at the time thought the phrase meant to effect some revolution in this Court’s understanding of the Constitution.  While the exact line between policy and details, lawmaking and fact-finding, and legislative and non-legislative functions had sometimes invited reasonable debate, everyone agreed these were the relevant inquiries.  And when Chief Justice Taft wrote of an “intelligible principle,” it seems plain enough that he sought only to explain the 
+
+															 
+
+															operation of these traditional tests; he gave no hint of a wish to overrule or revise them.  Tellingly, too, he wrote the phrase seven years before Schechter Poultry and Panama Refining, and it did nothing to alter the analysis in those cases, let alone prevent those challenges from succeeding by lopsided votes.
+
+															There’s a good argument, as well, that the statute in J. W. Hampton passed muster under the traditional tests.  To boost American competitiveness in international trade, the legislation directed the President to “ ‘investigat[e]’ ” the relative costs of production for American companies and their foreign counterparts and impose tariffs or duties that would “ ‘equalize’ ” those costs.[56]  It also offered guidance on how to determine costs of production, listing  several relevant factors and establishing a process for interested parties to submit evidence.[57]  The President’s fact-finding responsibility may have required intricate calculations, but it could be argued that Congress had made all the relevant policy decisions, and the Court’s reference to an “intelligible principle” was just another way to describe the traditional rule that Congress may leave the executive the responsibility to find facts and fill up details.[58]
+
+															Still, it’s undeniable that the “intelligible principle” remark eventually began to take on a life of its own.  We sometimes chide people for treating judicial opinions as if they were statutes, divorcing a passing comment from its context, ignoring all that came before and after, and treating an isolated phrase as if it were controlling.[59]  But that seems to be exactly what happened here.  For two decades, no one thought to invoke the “intelligible principle” comment as a basis to uphold a statute that would have failed more traditional separation-of-powers tests.  In fact, the phrase sat more or less silently entombed until the late 1940s.  Only then did lawyers begin digging it up in earnest and arguing to this Court that it had somehow displaced (sub silentio of course) all prior teachings in this area.[60]
+
+															This mutated version of the “intelligible principle” remark has no basis in the original meaning of the Constitution, in history, or even in the decision from which it was plucked.  Judges and scholars representing a wide and diverse range of views have condemned it as resting on “misunderst[ood] historical foundations.”[61]  They have explained, too, that it has been abused to permit delegations of legislative power that on any other conceivable account should be held unconstitutional.  Indeed, where some have claimed to see “intelligible principles” many “less discerning readers [have been able only to] find gibberish.”[62]  Even Justice Douglas, one of the fathers of the administrative state, came to criticize excessive congressional delegations in the period when the intelligible principle “test” began to take hold.[63]
+
+															Still, the scope of the problem can be overstated.  At least some of the results the Court has reached under the banner of the abused “intelligible principle” doctrine may be consistent with more traditional teachings.  Some delegations have, at least arguably, implicated the president’s inherent Article II authority.  The Court has held, for example, that Congress may authorize the President to prescribe aggravating factors that permit a military court-martial to impose the death penalty on a member of the Armed Forces convicted of murder—a decision that may 
+
+															 
+
+															implicate in part the President’s independent commander-in-chief authority.[64]  Others of these cases may have involved laws that specified rules governing private conduct but conditioned the application of those rules on fact-finding—a practice that is, as we’ve seen, also long associated with the executive function.[65]
+
+															More recently, too, we’ve sought to tame misunderstandings of the intelligible principle “test.”  In Touby v. United States, the Court considered a provision of the Controlled Substances Act that allowed the Attorney General to add a substance to a list of prohibited drugs temporarily if he determined that doing so was “ ‘necessary to avoid an imminent hazard to the public safety.’ ”[66]  Notably, Congress required the Attorney General, before acting, to consider the drug’s “ ‘history and current pattern of abuse,’ ” the “ ‘scope, duration, and significance of [that] abuse,’ ” and “ ‘[w]hat, if any, risk there is to the public health.’ ”[67]  In approving the statute, the Court stressed all these constraints on the Attorney General’s discretion and, in doing so, seemed to indicate that the statute supplied an “intelligible principle” because it assigned an essentially fact-finding responsibility to the executive.  Whether or not one agrees with its characterization of the statute, in proceeding as it did Touby may have at least begun to point us back in the direction of the right questions.  To determine whether a statute provides an intelli-
+
+															 
+
+															gible principle, we must ask: Does the statute assign to the executive only the responsibility to make factual findings?  Does it set forth the facts that the executive must consider and the criteria against which to measure them?  And most importantly, did Congress, and not the Executive Branch, make the policy judgments?  Only then can we fairly say that a statute contains the kind of intelligible principle the Constitution demands.
+
+															While it’s been some time since the Court last held that a statute improperly delegated the legislative power to another branch—thanks in no small measure to the intelligible principle misadventure—the Court has hardly abandoned the business of policing improper legislative delegations.  When one legal doctrine becomes unavailable to do its intended work, the hydraulic pressures of our constitutional system sometimes shift the responsibility to different doctrines.[68]  And that’s exactly what’s happened here.  We still regularly rein in Congress’s efforts to delegate legislative power; we just call what we’re doing by different names.
+
+															Consider, for example, the “major questions” doctrine.  Under our precedents, an agency can fill in statutory gaps where “statutory circumstances” indicate that Congress meant to grant it such powers.[69]  But we don’t follow that rule when the “statutory gap” concerns “a question of deep ‘economic and political significance’ that is central to the statutory scheme.”[70]  So we’ve rejected agency demands that we defer to their attempts to rewrite rules for billions of dollars in healthcare tax credits,[71] to assume control over millions of small greenhouse gas sources,[72] and to ban cigarettes.[73]  Although it is nominally a canon of statutory construction, we apply the major questions doctrine in service of the constitutional rule that Congress may not divest itself of its legislative power by transferring that power to an executive agency.
+
+															Consider, too, this Court’s cases addressing vagueness.  “A vague law,” this Court has observed, “impermissibly delegates basic policy matters to policemen, judges, and juries for resolution on an ad hoc and subjective basis.”[74]  And we have explained that our doctrine prohibiting vague laws is an outgrowth and “corollary of the separation of powers.”[75]  It’s easy to see, too, how most any challenge to a legislative delegation can be reframed as a vagueness complaint: A statute that does not contain “sufficiently definite and precise” standards “to enable Congress, the courts, and the public to ascertain” whether Congress’s guidance has been followed at once presents a delegation problem and provides impermissibly vague guidance to affected citizens.[76]  And it seems little coincidence that our void-for-vagueness cases became much more common soon after the Court began relaxing its approach to legislative delegations.  Before 1940, the Court decided only a handful of vagueness challenges to federal statutes.  Since then, the phrase “void for vagueness” has appeared in our cases well over 100 times.
+
+															 
+
+															Nor have we abandoned enforcing other sides of the separation-of-powers triangle between the legislative, executive, and judiciary.  We have not hesitated to prevent Congress from “confer[ring] the Government’s ‘judicial Power’ on entities outside Article III.”[77]  We’ve forbidden the executive from encroaching on legislative functions by wielding a line-item veto.[78]  We’ve prevented Congress from delegating its collective legislative power to a single House.[79]  And we’ve policed legislative efforts to control executive branch officials.[80]  These cases show that, when the separation of powers is at stake, we don’t just throw up our hands.  In all these areas, we recognize that abdication is “not part of the constitutional design.”[81]  And abdication here would be no more appropriate.  To leave this aspect of the constitutional structure alone undefended would serve only to accelerate the flight of power from  the legislative to the executive branch, turning the latter into a vortex of authority that was constitutionally reserved for the people’s representatives in order to protect their liberties.
+
+															III
+
+															A
+
+															Returning to SORNA with this understanding of our charge in hand, problems quickly emerge.  Start with this one: It’s hard to see how SORNA leaves the Attorney General with only details to fill up.  Of course, what qualifies as a detail can sometimes be difficult to discern and, 
+
+															 
+
+															as we’ve seen, this Court has upheld statutes that allow federal agencies to resolve even highly consequential details so long as Congress prescribes the rule governing private conduct.  But it’s hard to see how the statute before us could be described as leaving the Attorney General with only details to dispatch.  As the government itself admitted in Reynolds, SORNA leaves the Attorney General free to impose on 500,000 pre-Act offenders all of the statute’s requirements, some of them, or none of them.  The Attorney General may choose which pre-Act offenders to subject to the Act.  And he is free to change his mind at any point or over the course of different political administrations.  In the end, there isn’t a single policy decision concerning pre-Act offenders on which Congress even tried to speak, and not a single other case where we have upheld executive authority over matters like these on the ground they constitute mere “details.”  This much appears to have been deliberate, too.  Because members of Congress could not reach consensus on the treatment of pre-Act offenders, it seems this was one of those situations where they found it expedient to hand off the job to the executive and direct there the blame for any later problems that might emerge.
+
+															Nor can SORNA be described as an example of conditional legislation subject to executive fact-finding.  To be sure, Congress could have easily written this law in that way.  It might have required all pre-Act offenders to register, but then given the Attorney General the authority to make case-by-case exceptions for offenders who do not present an “ ‘imminent hazard to the public safety’ ” comparable to that posed by newly released post-Act offenders.[82]  It could have set criteria to inform that determination, too, asking the executive to investigate, say, whether 
+
+															 
+
+															an offender’s risk of recidivism correlates with the time since his last offense, or whether multiple lesser offenses indicate higher or lower risks than a single greater  offense.
+
+															But SORNA did none of this.  Instead, it gave the Attorney General unfettered discretion to decide which requirements to impose on which pre-Act offenders.  The Attorney General’s own edicts acknowledge the consider- able policy-making powers he enjoys, describing his rules governing pre-Act offenders as “ ‘of fundamental importance to the initial operation of SORNA, and to its practical scope . . . since [they] determin[e] the applicability of SORNA’s requirements to virtually the entire existing sex offender population.’ ”[83]  These edicts tout, too, the Attorney General’s “discretion to apply SORNA’s requirements to sex offenders with pre-SORNA convictions if he determines (as he has) that the public benefits of doing so outweigh any adverse effects.”[84]  Far from deciding the factual predicates to a rule set forth by statute, the Attorney General himself acknowledges that the law entitles him to make his own policy decisions.
+
+															Finally, SORNA does not involve an area of overlapping authority with the executive.  Congress may assign the President broad authority regarding the conduct of foreign affairs or other matters where he enjoys his own inherent Article II powers.  But SORNA stands far afield from any of that.  It gives the Attorney General the authority to “prescrib[e] the rules by which the duties and rights” of citizens are determined, a quintessentially legislative power.[85]
+
+															Our precedents confirm these conclusions.  If allowing 
+
+															 
+
+															the President to draft a “cod[e] of fair competition” for slaughterhouses was “delegation running riot,” then it’s hard to see how giving the nation’s chief prosecutor the power to write a criminal code rife with his own policy choices might be permissible.[86]  And if Congress may not give the President the discretion to ban or allow the interstate transportation of petroleum, then it’s hard to see how Congress may give the Attorney General the discretion to apply or not apply any or all of SORNA’s requirements to pre-Act offenders, and then change his mind at any time.[87]  If the separation of powers means anything, it must mean that Congress cannot give the executive branch a blank check to write a code of conduct governing private conduct for a half-million people.
+
+															The statute here also sounds all the alarms the founders left for us.  Because Congress could not achieve the consensus necessary to resolve the hard problems associated with SORNA’s application to pre-Act offenders, it passed the potato to the Attorney General.  And freed from the need to assemble a broad supermajority for his views, the Attorney General did not hesitate to apply the statute retroactively to a politically unpopular minority.  Nor could the Attorney General afford the issue the kind of deliberative care the framers designed a representative legislature to ensure.  Perhaps that’s part of the reason why the executive branch found itself rapidly adopting different positions across different administrations.  And because SORNA vested lawmaking power in one person rather than many, it should be no surprise that, rather than few and stable, the edicts have proved frequent and shifting, with fair notice sacrificed in the process.  Then, too, there is the question of accountability.  In passing this 
+
+															 
+
+															statute, Congress was able to claim credit for “comprehensively” addressing the problem of the entire existing population of sex offenders (who can object to that?), while in fact leaving the Attorney General to sort it out.
+
+															It would be easy enough to let this case go.  After all, sex offenders are one of the most disfavored groups in our society.  But the rule that prevents Congress from giving the executive carte blanche to write laws for sex offenders is the same rule that protects everyone else.  Nor is it hard to imagine how the power at issue in this case—the power of a prosecutor to require a group to register with the government on pain of weighty criminal penalties—could be abused in other settings.  To allow the nation’s chief law enforcement officer to write the criminal laws he is charged with enforcing—to “ ‘unit[e]’ ” the “ ‘legislative and executive powers . . . in the same person’ ”—would be to mark the end of any meaningful enforcement of our separation of powers and invite the tyranny of the majority that follows when lawmaking and law enforcement responsibilities are united in the same hands.[88]
+
+															Nor would enforcing the Constitution’s demands spell doom for what some call the “administrative state.”  The separation of powers does not prohibit any particular policy outcome, let alone dictate any conclusion about the proper size and scope of government.  Instead, it is a procedural guarantee that requires Congress to assemble a social consensus before choosing our nation’s course on policy questions like those implicated by SORNA.  What is more, Congress is hardly bereft of options to accomplish all it might wish to achieve.  It may always authorize executive branch officials to fill in even a large number of details, to find facts that trigger the generally applicable rule of conduct specified in a statute, or to exercise non-
+
+															 
+
+															legislative powers.  Congress can also commission agencies or other experts to study and recommend legislative language.  Respecting the separation of powers forecloses no substantive outcomes.  It only requires us to respect along the way one of the most vital of the procedural protections of individual liberty found in our Constitution.
+
+															B
+
+															What do the government and the plurality have to say about the constitutional concerns SORNA poses?  Most everyone, the plurality included, concedes that if SORNA allows the Attorney General as much authority as we have outlined, it would present “a nondelegation question.”[89]  So the only remaining available tactic is to try to make this big case “small-bore”[90] by recasting the statute in a way that might satisfy any plausible separation-of-powers test.  So, yes, just a few years ago in Reynolds the government represented to this Court that SORNA granted the Attorney General nearly boundless discretion with respect to pre-Act offenders.  But now, faced with a constitutional challenge, the government speaks out of the other side of its mouth and invites us to reimagine SORNA as compelling the Attorney General to register pre-Act offenders “to the maximum extent feasible.”  And, as thus reinvented, the government insists, the statute supplies a clear statement of legislative policy, with only details for the Attorney General to clean up.
+
+															But even this new dream of a statute wouldn’t be free from doubt.  A statute directing an agency to regulate private conduct to the extent “feasible” can have many possible meanings: It might refer to “technological” feasibility, “economic” feasibility, “administrative” feasibility, 
+
+															 
+
+															or even “political” feasibility.  Such an “evasive standard” could threaten the separation of powers if it effectively allowed the agency to make the “important policy choices” that belong to Congress while frustrating “meaningful judicial review.”[91]  And that seems exactly the case here, where the Attorney General is left free to make all the important policy decisions and it is difficult to see what standard a court might later use to judge whether he exceeded the bounds of the authority given to him.
+
+															But don’t worry over that; return to the real world.  The bigger problem is that the feasibility standard is a figment of the government’s (very recent) imagination.  The only provision addressing pre-Act offenders, §20913(d), says nothing about feasibility.  And the omission can hardly be excused as some oversight: No one doubts that Congress knows exactly how to write a feasibility standard into law when it wishes.[92]  Unsurprisingly, too, the existence of some imaginary statutory feasibility standard seemed to have escaped notice at the Department of Justice during the Attorney General’s many rulemakings; in those proceedings, as we have seen, the Attorney General has repeatedly admitted that the statute affords him the authority to “balance” the burdens on sex offenders with “public safety interests” as and how he sees fit.[93]
+
+															Unable to muster a feasibility standard from the only statutory provision addressing pre-Act offenders, the plurality invites us to hunt in other and more unlikely corners.  It points first to SORNA’s “[d]eclaration of purpose,” which announces that Congress, “[i]n order to pro-
+
+															 
+
+															tect the public from sex offenders and offenders against children . . . establishes a comprehensive national system for the registration of those offenders.”[94]  But nowhere is feasibility mentioned here either.  In fact, this provision doesn’t purport to guide the Attorney General’s discretion at all.  Instead, it simply declares what Congress believed the rest of the statute’s enacted provisions had already “establishe[d],” without the need for any action by the Attorney General.  And by now surely we must all agree that broad and sweeping statements like these about “a statute’s ‘basic purpose’ are . . . inadequate to overcome the words of its text regarding the specific issue under consideration.”[95]  While those adopting SORNA might have declared that they hoped and wished for a “comprehensive national system,” the fact remains that the law they actually adopted for pre-Act offenders leaves everything to the Attorney General.  Hopes and dreams are not laws.
+
+															Besides, even if we were to pretend that §20901 amounted to a directive telling the Attorney General to establish a “comprehensive national system” for pre-Act offenders, the plurality reads too much into the word “comprehensive.”  Comprehensive coverage does not mean coverage to the maximum extent feasible.  “Comprehensive” means “having the attribute of comprising or including much; of large content or scope,” “[i]nclusive of; embracing,” or “[c]ontaining much in small compass; compendious.”[96]  So, for example, a criminal justice system may be called “comprehensive” even though many crimes go unpursued.  And SORNA itself contains all sorts of 
+
+															 
+
+															coverage exceptions for post-Act offenders yet claims to comprehensively address them.[97]  In the same way, no reason exists why SORNA might not also claim to address pre-Act offenders “comprehensively” even though the Attorney General is free to exercise his discretion to forgo registration for some, many, or maybe all of them.  The statute still “comprehensively” addresses these persons by indicating they must abide whatever rules an Attorney General may choose.  In all these ways, SORNA might be said to address sex offenders past, present, and future in a way that “compris[es] or includ[es] much,” and that is “of large content or scope,” but in a way that nevertheless delegates important policy decisions to the executive branch.
+
+															Finding it impossible to conscript the statute’s declaration of purpose into doing the work it needs done, the government and plurality next ask us to turn to SORNA’s definition of “ ‘sex offender.’ ”[98]  They emphasize that SORNA defines a “sex offender” as “ ‘an individual who was convicted of a sex offense’ ”—and, they note, pre-Act offenders meet this definition.[99]  Because pre-Act offenders fall within the definition of “sex offender[s],” the government and plurality continue, it follows that the Attorney General must ensure all of them are registered and subject to SORNA’s demands.
+
+															That much, however, does not follow.  To say that pre-Act sex offenders fall within the definition of “sex offenders” is merely a truism: Yes, of course, these people have already been convicted of sex offenses under state law.  But whether these individuals are also subject to federal registration requirements is a different question entirely.  
+
+															 
+
+															And as we have seen, the only part of the statute that speaks to pre-Act sex offenders—§20913(d)—makes plain that they are not automatically subject to all the Act’s terms but are left to their fate at the hands of the Attorney General.  Look at it this way: If the statute’s definitional section were really enough to command the registration of all sex offenders, the Act would have had no need to proceed to explain, as it does at great length, when post-Act sex offenders must register and when they need not.
+
+															If that argument won’t work, the plurality points us to §20913(d)’s second clause, which grants the Attorney General the authority “to prescribe rules for the registration of . . . sex offenders . . . who are unable to comply” with the Act’s initial registration requirements.[100]  According to the plurality, this language suggests that Congress expected the Attorney General to register pre-Act offenders to the maximum extent feasible.  But, of course, this clause, too, says nothing of the sort.  And the authority provided under §20913(d)’s first clause—which gives the Attorney General the blanket authority “to specify the applicability of the requirements of this subchapter”—is additional to the authority granted under the second clause.  So not only does the Attorney General have the authority to prescribe rules for the registration of pre-Act offenders under the second clause, he is free to specify which statutory requirements he does and does not wish to apply under the first clause.  Far from suggesting a maximalist approach then, the second clause read in light of the first only serves to underscore the breadth of the Attorney General’s discretion.
+
+															With so little in statutory text to work with, the government and the plurality “can’t resist” highlighting cer-
+
+															 
+
+															tain statements from the Act’s legislative history.[101]  But “legislative history is not the law.”[102]  Still less can committee reports or statements by individual legislators be used “to muddy clear statutory language” like that before us.[103]  And even taken on their own terms, these statements do no more than confirm that some members of Congress hoped and wished that the Attorney General would exercise his discretion to register at least some pre-Act offenders.  None of these snippets mentions a “feasibility” standard, and none can obscure the absence of such a standard in the law itself.
+
+															That leaves the plurality and the government to try to fish its feasibility standard from our decision in Reynolds.  But Reynolds would make a difference only if it bound us as a matter of stare decisis to adopt an interpretation inconsistent with the statute’s terms.  And, of course, it does no such thing.  The government and the plurality submit that Reynolds was premised on an understanding that Congress intended the statute to apply to pre-Act offenders to the maximum extent feasible.  To support their reading they point to Reynolds’ surmise that Congress “may well have thought [that there could be] practical problems” with applying SORNA to pre-Act offenders and for that reason left their registration obligations to be sorted out by the Attorney General.[104]  But speculation about some of Congress’s motives in adopting §20913(d) aside, Reynolds plainly understood the statute itself as investing the Attorney General with sole power to decide whether and when to apply SORNA’s requirements to pre-
+
+															 
+
+															Act offenders.[105]
+
+															*
+
+															Nothing found here can come as a surprise.  In Reynolds, the government told this Court that SORNA supplies no standards regulating the Attorney General’s treatment of pre-Act offenders.  This Court agreed, and everyone proceeded with eyes open about the potential constitutional consequences; in fact, the dissent expressly warned that adopting such a broad construction of the statute would yield the separation-of-powers challenge we face today.[106]  Now, when the statute faces the chopping block, the government asks us to ignore its earlier arguments and reimagine (really, rewrite) the statute in a new and narrower way to avoid its long-predicted fate.  No wonder some of us are not inclined to play along.
+
+															The only real surprise is that the Court fails to make good on the consequences the government invited, resolving nothing and deferring everything.  In a future case with a full panel, I remain hopeful that the Court may yet recognize that, while Congress can enlist considerable assistance from the executive branch in filling up details and finding facts, it may never hand off to the nation’s chief prosecutor the power to write his own criminal code.  That “is delegation running riot.”[107]
+Notes
+1
+ Reynolds v. United States,
+
+565 U.S. 432, 434 (2012). 
+
+2
+ 34 U. S. C. §§20911, 20915(a). 
+
+3
+ §20913(b). 
+
+4
+ §20913(c). 
+
+5
+ §20913(e). 
+
+6
+ Logan, The Adam Walsh Act and the Failed Promise of Administrative Federalism, 78 Geo. Wash. L. Rev. 993, 999–1000 (2010). 
+
+7
+ Id., at 1003–1004. 
+
+8
+ Brief for United States in Reynolds v. United States, O. T. 2011, No. 10–6549, p. 23. 
+
+9
+ Id., at 24. 
+
+10
+ Ibid. 
+
+11
+ Ibid. 
+
+12
+ See, e.g., 72 Fed. Reg. 8894 (2007); 73 Fed. Reg. 38030 (2008); 76 Fed. Reg. 1639 (2011). 
+
+13
+ 28 CFR §72.3 (2007); 72 Fed. Reg. 8894. 
+
+14
+ See 73 Fed. Reg. 38030. 
+
+15
+ See 76 Fed. Reg. 1639. 
+
+16
+ Compare 73 Fed. Reg. 38036 (no credit given) with 75 Fed. Reg. 81851 (full credit given). 
+
+17
+ The Federalist No. 78, p. 465 (C. Rossiter ed. 1961) (A. Hamilton). 
+
+18
+ Fletcher v. Peck, 6 Cranch 87, 136 (1810); see also J. Locke, The Second Treatise of Civil Government and a Letter Concerning Toleration §22, p. 13 (1947) (Locke, Second Treatise); 1 W. Blackstone, Commentaries on the Laws of England 44 (1765). 
+
+19
+ Marshall Field & Co. v. Clark,
+
+143 U.S. 649, 692 (1892). 
+
+20
+ Wayman v. Southard, 10 Wheat. 1, 42–43 (1825). 
+
+21
+ Locke, Second Treatise §141, at 71. 
+
+22
+ The Federalist No. 48, at 309–312 (J. Madison). 
+
+23
+ Id., No. 62, at 378.  See also id., No. 73, at 441–442 (Hamilton); Locke, Second Treatise §143. 
+
+24
+ The Federalist No. 73, at 443. 
+
+25
+ Id., No. 51, at 322 (Madison); D. Schoenbrod, Power Without Responsibility 29 (1993) (Schoenbrod). 
+
+26
+ The Federalist No. 51, at 322.  See also id., No. 84, at 515 (Hamilton). 
+
+27
+ Id., No. 62, at 378–380. 
+
+28
+ Schoenbrod 99; see also The Federalist No. 50, at 316 (Madison). 
+
+29
+ Lawson, Delegation and Original Meaning, 88 Va. L. Rev. 327, 340 (2002). 
+
+30
+ The Federalist No. 47, at 303 (Madison); id., No. 62, at 378 (same). 
+
+31
+ Rao, Administrative Collusion: How Delegation Diminishes the Collective Congress, 90 N. Y. U. L. Rev. 1463, 1478 (2015).  See also B. Iancu, Legislative Delegation: The Erosion of Normative Limits in Modern Constitutionalism 87 (2012). 
+
+32
+ The Federalist No. 47, at 302 (Madison).  Accord, 1 Blackstone, Commentaries on the Laws of England, at 142; see also Cass, Delegation Reconsidered: A Delegation Doctrine for the Modern Administrative State, 40 Harv. J. L. & Pub. Pol’y 147, 153 (2016). 
+
+33
+ The Federalist No. 78, at 470. 
+
+34
+ Id., No. 37, at 228 (Madison). 
+
+35
+ Wayman, 10 Wheat., at 46. 
+
+36
+ Id., at 31, 43. 
+
+37
+ 
+
+165 U.S. 526, 532 (1897). 
+
+38
+ United States v. Grimaud,
+
+220 U.S. 506, 522 (1911).  See also Buttfield v. Stranahan,
+
+192 U.S. 470, 496 (1904); ICC v. Goodrich Transit Co.,
+
+224 U.S. 194, 210, 215 (1912). 
+
+39
+ Yakus v. United States,
+
+321 U.S. 414, 426 (1944). 
+
+40
+ 7 Cranch 382, 388 (1813) (emphasis added). 
+
+41
+ Miller v. Mayor of New York,
+
+109 U.S. 385, 393 (1883). 
+
+42
+ See Loving v. United States,
+
+517 U.S. 748, 768 (1996); id., at 776 (Scalia, J., concurring in part and concurring in judgment); United States v. Curtiss-Wright Export Corp.,
+
+299 U.S. 304, 320 (1936); Youngstown Sheet & Tube Co. v. Sawyer,
+
+343 U.S. 579, 635 (1952) (Jackson, J., concurring). 
+
+43
+ Schoenbrod, The Delegation Doctrine: Could the Court Give It Substance? 83 Mich. L. Rev. 1223, 1260 (1985). 
+
+44
+ 10 Wheat., at 43. 
+
+45
+ 
+
+295 U.S. 495, 521–522 (1935). 
+
+46
+ See State Oil Co. v. Khan,
+
+522 U.S. 3, 21 (1997); National Soc. of Professional Engineers v. United States,
+
+435 U.S. 679, 688 (1978); Letwin, The English Common Law Concerning Monopolies, 21 U. Chi. L. Rev. 355 (1954). 
+
+47
+ See A. Shlaes, The Forgotten Man: A New History of the Great Depression 214–225 (2007). 
+
+48
+ Schechter Poultry, 295 U. S., at 553 (concurring opinion). 
+
+49
+ Panama Refining Co. v. Ryan,
+
+293 U.S. 388, 415, 418, 430 (1935). 
+
+50
+ Id., at 426. 
+
+51
+ Id., at 426 (quoting Wayman, 10 Wheat., at 43); 293 U. S., at 429. 
+
+52
+ Id., at 430. 
+
+53
+ M. McKenna, Franklin Roosevelt and the Great Constitutional War: The Court-Packing Crisis of 1937, p. 424 (2002). 
+
+54
+ J. Ely, Democracy and Distrust: A Theory of Judicial Review 133 (1980). 
+
+55
+ 
+
+276 U.S. 394, 409 (1928). 
+
+56
+ Id., at 401. 
+
+57
+ Id., at 401–402. 
+
+58
+ But see Department of Transportation v. Association of American Railroads,
+
+575 U.S. 43, ___, ___, and n. 4 (2015) (Thomas, J., concurring in judgment) (slip op., at 14, 17, and n. 4). 
+
+59
+ See, e.g., Reiter v. Sonotone Corp.,
+
+442 U.S. 330, 341 (1979). 
+
+60
+ See, e.g., Lichter v. United States,
+
+334 U.S. 742, 785 (1948) (upholding a statute authorizing the executive to define “ ‘excessive profits’ ” earned by military contractors on the basis that the statute contained an “ ‘intelligible principle’ ”). 
+
+61
+ Association of American Railroads, 575 U. S., at ___ (Thomas, J., concurring in judgment) (slip op., at 17).  See also n. 62, infra (collecting sources). 
+
+62
+ Lawson, 88 Va. L. Rev., at 329.  See also Mistretta v. United States,
+
+488 U.S. 361, 415–417 (1989) (Scalia, J., dissenting); Ely, supra, at 132 (“[B]y refusing to legislate, our legislators are escaping the sort of accountability that is crucial to the intelligible functioning of a democratic republic”); Wright, Beyond Discretionary Justice, 81 Yale L. J. 575, 583 (1972) (“[T]he delegation doctrine retains an important potential as a check on the exercise of unbounded, standardless discretion by administrative agencies”); Michigan Gambling Opposition v. Kempthorne, 525 F.3d 23, 34 (CADC 2008) (Brown, J., dissenting) (“[The majority] conjures standards and limits from thin air to construct a supposed intelligible principle”) (collecting cases); Schoenbrod, 83 Mich. L. Rev., at 1231 (“[T]he [intelligible principle] test has become so ephemeral and elastic as to lose its meaning”); Schwartz, Of Administrators and Philosopher-Kings: The Republic, the Laws, and Delegations of Power, 72 Nw. U. L. Rev. 443, 446 (1977) (“[T]he requirement of defined standards has . . . become all but a vestigial euphemism”); P. Hamburger, Is Administrative Law Unlawful? 378 (2014) (“[T]he notion of an ‘intelligible principle’ sets a ludicrously low standard for what Congress must supply”); M. Redish, The Constitution as Political Structure 138–139 (1995); Gewirtz, The Courts, Congress, and Executive Policy-Making: Notes on Three Doctrines, 40 Law & Contemp. Prob., pt. 2, pp. 46, 50–51 (Summer 1976); McGowan, Congress, Court, and Control of Delegated Power, 77 Colum. L. Rev. 1119, 1127–1128, and  n. 33 (1977). 
+
+63
+ “Washington, D. C., is filled with lobbyists for every special interest that is trying to make a fast buck out of some piece of the public domain. . . . In the thirties and forties I had viewed the creation of an agency as the solution of a problem.  I learned that agencies soon became spokesmen for the status quo, that few had the guts to carry through the reforms assigned to them.  I also realized that Congress defaulted when it left it up to an agency to do what the ‘public interest’ indicated should be done.  ‘Public interest’ is too vague a standard to be left to free-wheeling administrators.  They should be more closely confined to specific ends or goals.”  W. Douglas, Go East, Young Man 216–217 (1974). 
+
+64
+ Loving, 517 U. S., at 771–774. 
+
+65
+ See, e.g., Skinner v. Mid-America Pipeline Co.,
+
+490 U.S. 212, 215, 219–220 (1989) (statute directing Secretary of Transportation to establish pipeline safety user fees “ ‘sufficient to meet the costs of [specified] activities’ ” but not “ ‘exceed[ing] 105 percent of the aggregate of appropriations made for such fiscal year for activities to be funded by such fees’ ”). 
+
+66
+ 
+
+500 U.S. 160, 166 (1991). 
+
+67
+ Ibid. 
+
+68
+ See, e.g., McDonald v. Chicago,
+
+561 U.S. 742, 758 (2010) (incorporating the
+ 
+Second Amendment through the Due Process Clause instead of the Privileges or Immunities Clause). 
+
+69
+ United States v. Mead Corp.,
+
+533 U.S. 218, 229 (2001). 
+
+70
+ King v. Burwell, 576 U. S. ___, ___ (2015) (slip op., at 8). 
+
+71
+ Ibid. 
+
+72
+ Utility Air Regulatory Group v. EPA,
+
+573 U.S. 302, 324 (2014). 
+
+73
+ FDA v. Brown & Williamson Tobacco Corp.,
+
+529 U.S. 120, 159–160 (2000). 
+
+74
+ Grayned v. City of Rockford,
+
+408 U.S. 104, 108–109 (1972); see Kolender v. Lawson,
+
+461 U.S. 352, 358, n. 7 (1983); Sessions v. Dimaya, 584 U. S. ___, ___–___ (2018) (Gorsuch, J., concurring in part and concurring in judgment) (slip op., at 7–9). 
+
+75
+ Id., at ___–___ (opinion of Kagan, J.) (slip op., at 4–5). 
+
+76
+ Yakus, 321 U. S., at 426. 
+
+77
+ Stern v. Marshall,
+
+564 U.S. 462, 484 (2011); Plaut v. Spendthrift Farm, Inc.,
+
+514 U.S. 211, 225–226 (1995). 
+
+78
+ Clinton v. City of New York,
+
+524 U.S. 417, 449 (1998). 
+
+79
+ INS v. Chadha,
+
+462 U.S. 919 (1983). 
+
+80
+ Free Enterprise Fund v. Public Company Accounting Oversight Bd.,
+
+561 U.S. 477, 496–497 (2010); Lucia v. SEC, 585 U. S. ___ (2018). 
+
+81
+ Clinton, 524 U. S., at 452 (Kennedy, J., concurring). 
+
+82
+ Cf. Touby, 500 U. S., at 166. 
+
+83
+ 75 Fed. Reg. 81850 (quoting 72 Fed. Reg. 8896). 
+
+84
+ 75 Fed. Reg. 81850. 
+
+85
+ The Federalist No. 78, at 465 (Hamilton); see also Part II–A, supra. 
+
+86
+ Schechter Poultry, 295 U. S., at 552–553 (Cardozo, J., concurring). 
+
+87
+ Panama Refining, 293 U. S., at 430. 
+
+88
+ The Federalist No. 47, at 302. 
+
+89
+ Ante, at 6. 
+
+90
+ Ante, at 17. 
+
+91
+ Industrial Union Dept., AFL–CIO v. American Petroleum Institute,
+
+448 U.S. 607, 676, 685–686 (1980) (Rehnquist, J., concurring in judgment). 
+
+92
+ See, e.g., 42 U. S. C. §§1310(b)(2)(C), 1383b(e)(2)(B);
+
+20 U. S. C. §3509;
+
+49 U. S. C. §24201(a)(1). 
+
+93
+ 75 Fed. Reg. 81851–81852. 
+
+94
+ 
+
+34 U. S. C. §20901.  See also ante, at 11–12. 
+
+95
+ Mertens v. Hewitt Associates,
+
+508 U.S. 248, 261 (1993) (emphasis deleted). 
+
+96
+ 3 Oxford English Dictionary 632 (2d ed. 1989). 
+
+97
+ See, e.g., 34 U. S. C. §§20911(7)(A)–(B), (8), 20915(a), (b)(1). 
+
+98
+ Ante, at 12–13. 
+
+99
+ Ibid. 
+
+100
+ Ante, at 14. 
+
+101
+ See ante, at 13–14. 
+
+102
+ Epic Systems Corp. v. Lewis, 584 U. S. ___, ___ (2018) (slip op., at 23). 
+
+103
+ Milner v. Department of Navy,
+
+562 U.S. 562, 572 (2011). 
+
+104
+ Reynolds, 565 U. S., at 440–441. 
+
+105
+ Id., at 445 (holding that “the Act’s registration requirements do not apply to pre-Act offenders until the Attorney General so specifies”); id., at 439 (rejecting argument that any SORNA requirements apply to pre-Act offenders “before the Attorney General validly specifies” they do); id., at 440–441 (observing that the Attorney General might conclude that “different federal registration treatment of different categories of pre-Act offenders” is “warranted”). 
+
+106
+ See id., at 450 (Scalia, J., dissenting). 
+
+107
+ Schechter Poultry, 295 U. S., at 553 (Cardozo, J., concurring). 
+
+

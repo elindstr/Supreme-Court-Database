@@ -1,0 +1,103 @@
+::SCDB_caseID:: 2016-071
+::decision_cite:: 16-6219
+::decision_name::  Davila v. Davis
+::decision_year:: 2017
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 16–6219
+
+															_________________
+
+															ERICK DANIEL DAVILA, PETITIONER v. LORIE DAVIS, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONSDIVISION
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[June 26, 2017]
+
+															
+
+															Justice Breyer, with whom Justice Ginsburg, Justice Sotomayor, and Justice Kagan join, dissenting.
+
+															As the Court explains, normally a federal habeas court cannot hear a state prisoner’s claim that his trial lawyer was, constitutionally speaking, “ineffective” if the prisoner failed to assert that claim in state court at the appropriate time, that is, if he procedurally defaulted the claim.  See ante, at 1 (the prisoner’s failure to raise his federal claim at the initial-review state collateral proceeding amounts to an “adequate and independent state procedural ground” for denying habeas relief).
+
+															But there are equitable exceptions.  In Martinez v. Ryan,
+
+566 U. S. 1 (2012)
+, and later in Trevino v. Thaler,
+
+569 U. S. 413 (2013)
+, we held that, despite the presence of a procedural default, a federal court can nonetheless hear a prisoner’s claim that his trial counsel was ineffective, where (1) the framework of state procedural law “makes it highly unlikely in a typical case that a defendant will have a meaningful opportunity to raise a claim of ineffective assistance of trial counsel on direct appeal,” id., at 429; (2) in the state “ ‘initial-review collateral proceeding, there was no counsel or counsel in that proceeding was ineffective,’ ” ibid. (quoting Martinez, 566 U. S., at 17); and (3) “the underlying ineffective-assistance-of-trial-counsel claim is a substantial one, which is to say that the prisoner must demonstrate that the claim has some merit,” id.,at 14.
+
+															In my view, this same exception (with the same qualifications) should apply when a prisoner raises a constitutional claim of ineffective assistance of appellate counsel.  See, e.g., Evitts v. Lucey,
+
+469 U. S. 387,
+396 (1985)
+ (Constitution guarantees a defendant an effective appellate counsel, just as it guarantees a defendant an effective trial counsel).
+
+															I
+
+															Two simple examples help make clear why I believe Martinez and Trevino should govern the outcome of this case.
+
+															Example One: Ineffective assistance of trial counsel.  The prisoner claims that his trial lawyer was ineffective, say, because counsel failed to object to an obviously unfair jury selection, failed to point out that the prosecution had promised numerous benefits to its main witness in return for the witness’ testimony, or failed to object to an erroneous jury instruction that made conviction and imposition of the death penalty far more likely.  Next suppose the prisoner appeals but, per state law, may not bring his ineffective-assistance claim until collateral review in state court (i.e., state habeas corpus), where the prisoner will have a better opportunity to develop his claim and the attorney will be better able to explain his (perhaps strategic) reasons for his actions at trial.  Suppose that, on collateral review, the prisoner fails to bring up his ineffective-assistance claim, perhaps because he is no longer represented by counsel or because his counsel there is ineffective.  Under these circumstances, if his ineffective-assistance claim is a “substantial” one, i.e., it has “some merit,” then Martinez and Trevino hold that a federal court can hear the claim even though the state habeas court did not consider it.  See Trevino, supra, at 429; Martinez, supra, at 14.  The fact that the prisoner had no lawyer in the initial state habeas proceeding (or his lawyer in that proceeding was ineffective) constitutes grounds for excusing the procedural default.
+
+															Example Two: Ineffective assistance of appellate counsel. Now suppose that a prisoner claims that the trial court made an important error of law, say, improperly instructing the jury, or that the prosecution engaged in misconduct.  He believes his lawyer on direct appeal should have raised those errors because they led to his conviction or (as here) a death sentence.  The appellate lawyer’s failure to do so, the prisoner might claim, amounts to ineffective assistance of appellate counsel.  The prisoner cannot make this argument on direct appeal, for the direct appeal is the very proceeding in which he is represented by the lawyer he says was ineffective.  Next suppose the prisoner fails to raise his appellate lawyer’s ineffectiveness at the initial state habeas proceeding, either because he was not represented by counsel in that proceeding or because his counsel there also was ineffective.  When he brings his case to the federal habeas court, the State contends that the prisoner’s failure to present his claim during the initial state habeas proceeding constitutes a procedural default that precludes federal review of his claim.
+
+															Given Martinez and Trevino, the prisoner in the first example who complains about his trial counsel can overcome the procedural default but, in the Court’s view today, the prisoner in the second example who complains about his appellate counsel cannot.  Why should the law treat the second prisoner differently?  Why should the Court not apply the rules of Martinez and Trevino to claims of ineffective assistance of both trial and appellate counsel?
+
+															II
+
+															As I have said, the Constitution applies similarly to both prisoners: It guarantees them effective assistance of counsel at both trial and during an initial appeal.  See Strickland v. Washington,
+
+466 U. S. 668,
+686 (1984)
+ (trial); Evitts, supra, at 396 (appeal).  Moreover, the reasoning of Martinez and Trevino applies similarly to both situations.
+
+															Four features of the claim of ineffective assistance of trial counsel led the Martinez Court to its conclusion.  Each equally applies here.  First, the Court stressed the importance of the underlying constitutional right to effective assistance of trial counsel, describing it as “a bedrock principle in our justice system.”  566 U. S., at 12.  Our cases make clear that the constitutional right to effective assistance of appellate counsel is also critically important.  The Court wrote in Douglas v. California,
+
+372 U. S. 353,
+357 (1963)
+, that “where the merits of the one and only appeal . . . as of right are decided without benefit of counsel, we think an unconstitutional line has been drawn between rich and poor.”  The Court held in Evitts that “[a] first appeal as of right . . . is not adjudicated in accord with due process of law if the appellant does not have the effective assistance of an attorney.”  469 U. S., at 396.  The Court added that “the promise of Gideon [v. Wainwright,
+
+372 U. S. 335 (1963)
+,] that a criminal defendant has a right to counsel at trial . . . would be a futile gesture unless it comprehended the right to the effective assistance of counsel” “on appeal.”  Id., at 397.  And we stated in Martinez itself that “if the attorney appointed by the State to pursue the direct appeal is ineffective, the prisoner has been denied fair process.”  566 U. S., at 11 (citing Coleman v. Thompson,
+
+501 U. S. 722,
+754 (1991)
+; Evitts, supra, at 396; Douglas, supra, at 357–358).  The fact that, according to Department of Justice statistics, nearly a third of convictions or sentences in capital cases are overturned at some stage of review suggests the practical importance of the appeal right, particularly in a capital case such as this one.  See Dept. of Justice, Bureau of Justice Statistics, Capital Punishment, 2013–Statistical Tables, p. 19, (rev. Dec. 2014) (Table 16); see also Brief for National Association of Criminal Defense Lawyers et al. as Amici Curiae 10.
+
+															Second, we pointed out in Martinez that the “initial” state collateral review proceeding “is the first designated proceeding for a prisoner to raise a claim of ineffective assistance at trial.”  566 U. S., at 11.  We added that it “is in many ways the equivalent of a prisoner’s direct appeal as to the ineffective-assistance claim.”  Ibid.  In Trevino, we applied Martinez despite the theoretical possibility that a prisoner might raise an ineffective-assistance-of-trial-counsel claim on direct appeal.  We wrote that the State’s procedural system denied prisoners a “meaningful opportunity” to bring ineffective-assistance claims on appeal; in effect, it required them to raise the claim for the first time in state collateral review proceedings.  569 U. S., at 429.
+
+															This consideration applies a fortiori where the constitutional claim at issue is ineffective assistance of appellate counsel.  The prisoner cannot raise that kind of claim in the very appeal in which he claims his counsel was ineffective.  See Ha Van Nguyen v. Curry, 736 F. 3d 1287, 1294–1295 (CA9 2013).  It makes no difference that the nature of the claim, rather than the State’s express rule, makes that so.  See Trevino, supra, at 429 (extending Martinez where the “state procedural framework, by reason of its design and operation, makes it highly unlikely in a typical case that a defendant will have a meaningful opportunity to raise” the claim on direct appeal); Trevino, supra, at 424 (referring to “the inherent nature of most ineffective assistance of trial counsel claims ” (emphasis added; internal quotation marks omitted)); see also Martinez, 566 U. S., at 19–20, n. 1 (Scalia, J., dissenting) (There is no “relevant difference between cases in which the State says that certain claims can only be brought on collateral review and cases in which those claims by their nature can only be brought on collateral review”).
+
+															Third, Martinez pointed out that, unless “counsel’s errors in an initial-review collateral proceeding . . . establish cause to excuse the procedural default in a federal habeas proceeding, no court will review the prisoner’s claims.”  Id., at 10–11 (majority opinion).  The same is true when the prisoner claims ineffective assistance of appellate counsel.
+
+															The Court argues to the contrary.  It says that at least one court—namely, the trial court—will have considered the underlying legal error.  Ante, at 11.  (If not, perhaps trial counsel was ineffective.)  But I believe the Court here misses the point.  The prisoner’s complaint is about the ineffectiveness of his appellate counsel.  That ineffectiveness could consist, for example, in counsel’s failure to appeal 10 different erroneous decisions of the trial court.  The fact that the trial court made those decisions (assuming they are erroneous) does not help the prisoner.  To the contrary, it forms the basis of his ineffectiveness claim.  In the absence of a Martinez-like rule, the prisoner here (and prisoners in similar cases) would receive no review of their ineffective-assistance claims.  Moreover, there will be cases in which no court will consider the underlying trial error, either.  Suppose that, during the pendency of the appeal, appellate counsel learns of a Brady violation, juror misconduct, judicial bias, or some similar violation whose basis was not known during the trial.  See Brady v. Maryland,
+
+373 U. S. 83 (1963)
+.  And suppose appellate counsel fails to pursue the claim in the manner prescribed by state law.  Without the exception petitioner here seeks, no court will hear either the appellate-ineffective-assistance claim or the underlying Brady, misconduct, or bias claim.
+
+															Fourth, the Martinez Court believed that its decision would “not . . . put a significant strain on state resources.”  566 U. S., at 15.  That is because Martinez imposed limiting conditions: It excuses only those defaults that (1) occur at the initial-review collateral proceeding; (2) where prisoner had no counsel, or ineffective counsel, in that proceeding; and (3) where the underlying claim of ineffective assistance is “substantial,” i.e., has “some merit.”  Id., at 14–16.  Moreover, as the Court pointed out, because many States provide prisoners with counsel in initial-review collateral proceedings (or at least when the prisoner seems to have a meritorious claim), it is unlikely that prisoners will default substantial ineffective-assistance claims.  See id., at 14–15 (providing examples).  Finally, there is no evidence before us that Martinez has produced a greater-than-expected increase in courts’ workload, even though Martinez applies, as Texas concedes, “in most States.”  Tr. of Oral Arg. 38.
+
+															It therefore seems unlikely that applying Martinez to ineffective-assistance-of-appellate-counsel claims will “put a significant strain on” state or federal resources.  As I have said, the same limitations as the Court placed upon the assertion of a Martinez claim would apply here.  And the Court’s fear of triggering federal second-guessing of many, if not all, trial errors is of no greater concern here than it was in Martinez, for both trial- and appellate-level ineffectiveness claims “could serve as the gateway to federal review of a host of trial errors.”  Ante, at 13.  Given a natural judicial hesitation to second-guess counsels’ decisions, it is not surprising that we have no significant evidence of defaulted claims of ineffective assistance with “some merit” flooding the federal courts, either in respect to trial counsel (as in Martinez) or in respect to appellate counsel (as here).  See Strickland, 466 U. S., at 690–691 (To prevail on an ineffective-assistance claim, the defendant must show that his attorney’s actions “were outside the wide range of professionally competent assistance,” rather than strategic decisions to which the courtmust defer, and that those actions had an “effect on the judgment”).
+
+															In fact, Texas has supplied some empirical evidence, but that evidence suggests that courts can manage a Martinez exception expanded to include claims of ineffective assistance of appellate counsel.  Texas says that in the Ninth Circuit, which has applied Martinez to ineffective-assistance-of-appellate-counsel claims since late 2013, petitioners have used the expanded version of Martinez “in dozens” of federal habeas cases.  Brief for Respondent 37.  (Texas specifically refers to 10 cases, in only 1 of which the petitioner prevailed.  Ibid., n. 13.)  During that period, state prisoners filed at least 7,500 federal habeas petitions in the Ninth Circuit.  See Ninth Circuit Ann. Rep. 71 (2015) (2,468 cases referred to magistrate judges in 2014; 2,693 in 2015).  Hence, Texas’ estimate of added workload comes down to an increase of “dozens” of cases out of 7,500 cases in total.  That figure represents an increase, but not an increase significant enough to warrant depriving a prisoner of any forum to adjudicate a substantial claim that he was deprived of his constitutional right to effective assistance of appellate counsel.
+
+															III
+
+															In my view, the Court’s effort to distinguish Martinez comes down to the following points: (1) Martinez concerned only claims of ineffective trial counsel; (2) Martinez involved trial errors that, at least sometimes, would have escaped review, while here at least one court (the trial court) may have reviewed the underlying legal error; (3) Martinez involved cases in which the State itself pre-vented its appellate courts from reviewing the claim of trial counsel’s ineffectiveness, whereas here it is the nature of the ineffectiveness claim that prevents the appellate courts from reviewing it; and (4) extending Martinez could flood the federal system with normally meritless claims.
+
+															I have explained why I believe the last mentioned empirical prediction does not distinguish Martinez and why, in any event, it is unlikely to prove correct.  See supra, at 7–8.  And I have explained why the second and third points do not successfully distinguish Martinez.  The second fails to focus on the relevant claim: ineffective assistance of counsel.  See supra, at 6.  And it fails to acknowledge that there may be cases in which the trial court will not have considered the legal error underlying the ineffective-assistance claim.  Ibid.  The third has little to do with the matter.  It overlooks the fact that there is no “relevant difference” between cases in which the State requires that certain claims be brought only on collateral review and “cases in which those claims by their nature can only be brought on collateral review,” such as claims of ineffective assistance of appellate counsel.  See supra, at 5–6 (quoting Martinez, 566 U. S., at 19–20, n. 1 (Scalia, J., dissenting)).  In both cases, the State’s scheme deprives a prisoner from having his substantial constitutional claim heard, through no fault of his own.
+
+															As to the first point, the Court is of course right.  Martinez had to do only with the ineffectiveness of trial counsel.  But our cases make clear that due process requires a criminal defendant to have effective assistance of appellate counsel as well.  See supra, at 4.  Indeed, effective trial counsel and appellate counsel are inextricably connected elements of a fair trial.
+
+															The basic legal principle that should determine the outcome of this case is the principle that requires courts to treat like cases alike.  To put the matter more familiarly, what is sauce for the goose is sauce for the gander.  The dissent in Martinez wrote that there “is not a dime’s worth of difference in principle between [ineffective-assistance-of-trial-counsel] cases and many other cases in which initial state habeas will be the first opportunity for a particular claim to be raised,” including “claims asserting ineffective assistance of appellate counsel.”  566 U. S., at 19 (opinion of Scalia, J.).  I agree.
+
+															With respect, I dissent.
+													

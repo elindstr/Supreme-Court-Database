@@ -1,0 +1,520 @@
+::SCDB_caseID:: 2019-029
+::decision_cite:: 18-1023
+::decision_name::  Maine Community Health Options v. United States
+::decision_year:: 2020
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 18–1023, 18–1028 and 18–1038
+
+															_________________
+
+															MAINE COMMUNITY HEALTH OPTIONS, PETITIONER
+
+															18–1023v.
+
+															UNITED STATES
+
+															
+
+															MODA HEALTH PLAN, INC., PETITIONER
+
+															18–1028v.
+
+															UNITED STATES
+
+															BLUE CROSS AND BLUE SHIELD OF NORTH CAROLINA, PETITIONER
+
+															v.
+
+															UNITED STATES
+
+															LAND OF LINCOLN MUTUAL HEALTH INSURANCE COMPANY, AN ILLINOIS NONPROFIT MUTUAL INSURANCE CORPORATION, PETITIONER
+
+															18–1038v.
+
+															UNITED STATES
+
+															on writs of certiorari to the united states court of appeals for the federal circuit
+
+															[April 27, 2020]
+
+															Justice Sotomayor delivered the opinion of the Court.[1]*
+
+															The Patient Protection and Affordable Care Act expanded healthcare coverage to many who did not have or could not afford it.  The Affordable Care Act did this by, among other things, providing tax credits to help people buy insurance and establishing online marketplaces where insurers could sell plans.  To encourage insurers to enter those marketplaces, the Act created several programs to defray the carriers’ costs and cabin their risks.
+
+															Among these initiatives was the “Risk Corridors” program, a temporary framework meant to compensate insurers for unexpectedly unprofitable plans during the marketplaces’ first three years.  The since-expired Risk Corridors statute, §1342, set a formula for calculating payments under the program: If an insurance plan loses a certain amount of money, the Federal Government “shall pay” the plan; if the plan makes a certain amount of money, the plan “shall pay” the Government.  See §1342,
+
+124Stat.
+211–212 (codified at
+
+42 U. S. C. §18062).  Some plans made money and paid the Government.  Many suffered losses and sought reimbursement.  The Government, however, did not pay.
+
+															These cases are about whether petitioners—insurers who claim losses under the Risk Corridors program—have a right to payment under §1342 and a damages remedy for the unpaid amounts.  We hold that they do.  We conclude that §1342 of the Affordable Care Act established a money-mandating obligation, that Congress did not repeal this obligation, and that petitioners may sue the Government for damages in the Court of Federal Claims.
+
+															I
+
+															A
+
+															In 2010, Congress passed the Patient Protection and Affordable Care Act,
+
+124Stat.
+119, seeking to improve national health-insurance markets and extend coverage to millions of people without adequate (or any) health insurance.  To that end, the Affordable Care Act called for the creation of virtual health-insurance markets, or “Health Benefit Exchanges,” in each State.
+
+42 U. S. C. §18031(b)(1).  Individuals may buy health-insurance plans directly on an exchange and, depending on their household income, receive tax credits for doing so.
+
+26 U. S. C. §36B; 42 U. S. C. §§18081, 18082.  Once an insurer puts a plan on an exchange, it must “accept every employer and individual in the State that applies for such coverage,”
+
+42 U. S. C. §300gg–1(a), and may not tether premiums to a particular applicant’s health, §300gg(a).  In other words, the Act “ensure[s] that anyone can buy insurance.”  King v. Burwell,
+
+576 U.S. 473, 493 (2015).
+
+															Insurance carriers had many reasons to participate in these new exchanges.  Through the Affordable Care Act, they gained access to millions of new customers with tax credits worth “billions of dollars in spending each year.”  Id., at 485.  But the exchanges posed some business risks, too—including a lack of “reliable data to estimate the cost of providing care for the expanded pool of individuals seeking coverage.”  892 F.3d 1311, 1314 (CA Fed. 2018) (case below in No. 18–1028).
+
+															This uncertainty could have given carriers pause and affected the rates they set.  So the Affordable Care Act created several risk-mitigation programs.  At issue here is the Risk Corridors program.[2]
+
+															B
+
+															The Risk Corridors program aimed to limit participating plans’ profits and losses for the exchanges’ first three years (2014, 2015, and 2016).  See §1342,
+
+124Stat.
+211,
+
+42 U. S. C. §18062.  It did so through a formula that computed a plan’s gains or losses at the end of each year.  Plans with profits above a certain threshold would pay the Government, while plans with losses below that threshold would receive payments from the Government.  §1342(b),
+
+124Stat.
+211.  Specifically, §1342 stated that the eligible profitable plans “shall pay” the Secretary of the Department of Health and Human Services (HHS), while the Secretary “shall pay” the eligible unprofitable plans.  Ibid.[3]
+
+															When it enacted the Affordable Care Act in 2010, Congress did not simultaneously appropriate funds for the yearly payments the Secretary could potentially owe under the Risk Corridors program.  Neither did Congress limit the amounts that the Government might pay under §1342.  Nor did the Congressional Budget Office (CBO) “score”—that is, calculate the budgetary impact of—the Risk Corridors program.
+
+															In later years, the CBO noted that the Risk Corridors statute did not require the program to be budget neutral.  The CBO reported that, “[i]n contrast” to the Act’s other risk-mitigation programs, “risk corridor collections (which will be recorded as revenues) will not necessarily equal risk corridor payments, so that program can have net effects on the budget deficit.”  CBO, The Budget and Economic Outlook: 2014 to 2024, p. 59 (2014).  The CBO thus recognized that “[i]f insurers’ costs exceed their expectations, on average, the risk corridor program will impose costs on the federal budget.”  Id., at 110.
+
+															Like the CBO, the federal agencies charged with implementing the program agreed that §1342 did not require budget neutrality.  Nine months before the program started, HHS acknowledged that the Risk Corridors program was “not statutorily required to be budget neutral.”  78 Fed. Reg. 15473 (2013).  HHS assured, however, that “[r]egardless of the balance of payments and receipts, HHS will remit payments as required under Section 1342 of the Affordable Care Act.”  Ibid.
+
+															Similar guidance came from the Centers for Medicare and Medicaid Services (CMS), the agency tasked with helping the HHS Secretary collect and remit program payments.  CMS confirmed that a lack of payments from profitable plans would not relieve the Government from making its payments to the unprofitable ones.  See 79 Fed. Reg. 30260 (2014).  Citing “concerns that risk corridors collections may not be sufficient to fully fund risk corridors payments” to the unprofitable plans, CMS declared that “[i]n the unlikely event of a shortfall . . . HHS recognizes that the Affordable Care Act requires the Secretary to make full payments to issuers.”  Ibid.
+
+															C
+
+															The program’s first year, 2014, tallied a deficit of about $2.5 billion.  Profitable plans owed the Government $362 million, while the Government owed unprofitable plans $2.87 billion.  See CMS, Risk Corridors Payment Proration Rate for 2014 (2015).
+
+															At the end of the first year, Congress enacted a bill appropriating a lump sum for CMS’ Program Management.  See Pub. L. 113–235, Div. G, Tit. II,
+
+128Stat.
+2130–2131 (providing for the fiscal year ending September 30, 2015).  The bill included a rider restricting the appropriation’s effect on Risk Corridors payments out to issuers:
+
+															“None of the funds made available by this Act . . . or transferred from other accounts funded by this Act to the ‘Centers for Medicare and Medicaid Services— Program Management’ account, may be used for payments under section 1342(b)(1) of Public Law 111–148 (relating to risk corridors).”  §227, id., at 2491.
+
+															The program’s second year resembled its first.  In February 2015, HHS repeated its belief that “risk corridors collections w[ould] be sufficient to pay for all” of the Government’s “risk corridors payments.”  80 Fed. Reg. 10779 (2015).  The agency again “recognize[d] that the Affordable Care Act requires the Secretary to make full payments to issuers.”  Ibid.  “In the unlikely event that risk corridors collections” were “insufficient to make risk corridors payments,” HHS reassured, the Government would “use other sources of funding for the risk corridors payments, subject to the availability of appropriations.”  Ibid.
+
+															The 2015 program year also ran a deficit, this time worth about $5.5 billion.  See CMS, Risk Corridors Payment and Charge Amounts for the 2015 Benefit Year (2016).  Facing a second shortfall, CMS continued to “recogniz[e] that the Affordable Care Act requires the Secretary to make full payments to issuers.”  CMS, Risk Corridors Payments for 2015, p. 1 (2016).  CMS also confirmed that “HHS w[ould] record risk corridors payments due as an obligation of the United States Government for which full payment is required.”  Ibid.  And at the close of the second year, Congress enacted another appropriations bill with the same rider as before.  See Pub. L. 114–113, §225,
+
+129Stat.
+2624 (providing for the fiscal year ending September 30, 2016).
+
+															The program’s final year, 2016, was similar.  The Government owed unprofitable insurers about $3.95 billion more than profitable insurers owed the Government.  See CMS, Risk Corridors Payment and Charge Amounts for the 2016 Benefit Year (2017).  And Congress passed an appropriations bill with the same rider.  See Pub. L. 115–31, §223,
+
+131Stat.
+543 (providing for the fiscal year ending September 30, 2017).
+
+															All told, the Risk Corridors program’s deficit exceeded $12 billion.
+
+															D
+
+															The dispute here is whether the Government must pay the remaining deficit.  Petitioners in these consolidated cases are four health-insurance companies that participated in the healthcare exchanges: Maine Community Health Options, Blue Cross and Blue Shield of North Carolina, Land of Lincoln Mutual Health Insurance Company, and Moda Health Plan, Inc.  They assert that their plans were unprofitable during the Risk Corridors program’s 3-year term and that, under §1342, the HHS Secretary still owes them hundreds of millions of dollars.
+
+															These insurers sued the Federal Government for damages in the United States Court of Federal Claims, invoking the Tucker Act,
+
+28 U. S. C. §1491.  They alleged that §1342 of the Affordable Care Act obligated the Government to pay the full amount of their losses as calculated by the statutory formula and sought a money judgment for the unpaid sums owed—a claim that, if successful, could be satisfied through the Judgment Fund.[4]  These lawsuits saw mixed results in the trial courts.  Petitioner Moda prevailed; the others did not.[5]
+
+															A divided panel of the United States Court of Appeals for the Federal Circuit ruled for the Government in each appeal.  See 892 F.3d 1311; 892 F.3d 1184 (2018); 729 Fed. Appx. 939 (2018).  As relevant here, the Federal Circuit concluded that §1342 had initially created a Government obligation to pay the full amounts that petitioners sought under the statutory formula.  See 892 F. 3d, at 1320–1322.  The court also recognized that “it has long been the law that the government may incur a debt independent of an appropriation to satisfy that debt, at least in certain circumstances.”  Id., at 1321.
+
+															Even so, the court held that Congress’ appropriations riders impliedly “repealed or suspended” the Government’s obligation.  Id., at 1322.  Although the panel acknowledged that “[r]epeals by implication are generally disfavored”—especially when the “alleged repeal occurred in an appropriations bill”—it found that the riders here “adequately expressed Congress’s intent to suspend” the Government’s payments to unprofitable plans “beyond the sum of payments” it collected from profitable plans.  Id., at 1322–1323, 1325.
+
+															Judge Newman dissented, observing that the Government had not identified any “statement of abrogation or amendment of the statute,” nor any “disclaimer” of the Government’s “statutory and contractual commitments.”  Id., at 1335.  The dissent also reasoned that precedent undermined the court’s conclusion and that the appropriations riders could not apply retroactively because the Government had used the Risk Corridors program to induce insurers to enter the exchanges.  Id., at 1336–1339.  Emphasizing the importance of Government credibility in public-private enterprise, the dissent warned that the majority’s decision would “undermin[e] the reliability of dealings with the government.”  Id., at 1340.
+
+															A majority of the Federal Circuit declined to revisit the court’s decision en banc, 908 F.3d 738 (2018) (per curiam); see also id., at 740 (Newman, J., dissenting); id., at 741 (Wallach, J., dissenting), and we granted certiorari, 588 U. S. ___ (2019).
+
+															These cases present three questions: First, did §1342 of the Affordable Care Act obligate the Government to pay participating insurers the full amount calculated by that statute?  Second, did the obligation survive Congress’ appropriations riders?  And third, may petitioners sue the Government under the Tucker Act to recover on that obligation?  Because our answer to each is yes, we reverse.
+
+															II
+
+															The Risk Corridors statute created a Government obligation to pay insurers the full amount set out in §1342’s formula.
+
+															A
+
+															An “obligation” is a “definite commitment that creates a legal liability of the government for the payment of goods and services ordered or received, or a legal duty . . . that could mature into a legal liability by virtue of actions on the part of the other party beyond the control of the United States.”  GAO, A Glossary of Terms Used in the Federal Budget Process 70 (GAO–05–734SP, 2005).  The Government may incur an obligation by contract or by statute.  See ibid.
+
+															Incurring an obligation, of course, is different from paying one.  After all, the Constitution’s Appropriations Clause provides that “No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law.”  Art. I, §9, cl. 7; see also GAO, Principles of Federal Appropriations Law 2–3 (4th ed. 2016) (hereinafter GAO Redbook) (“[T]he authority to incur obligations by itself is not sufficient to authorize payments from the Treasury”).  Creating and satisfying a Government obligation, therefore, typically involves four steps: (1) Congress passes an organic statute (like the Affordable Care Act) that creates a program, agency, or function; (2) Congress passes an Act authorizing appropriations; (3) Congress enacts the appropriation, granting “budget authority” to incur obligations and make payments, and designating the funds to be drawn; and (4) the relevant Government entity begins incurring the obligation.  See id., at 2–56; see also Op. Comp. Gen., B–193573 (Dec. 19, 1979).
+
+															But Congress can deviate from this pattern.  It may, for instance, authorize agencies to enter into contracts and “incur obligations in advance of appropriations.”  GAO Redbook 2–4.  In that context, the contracts “constitute obligations binding on the United States,” such that a “failure or refusal by Congress to make the necessary appropriation would not defeat the obligation, and the party entitled to payment would most likely be able to recover in a lawsuit.”  Id., at 2–5; see also, e.g., Cherokee Nation of Okla. v. Leavitt,
+
+543 U.S. 631, 636–638 (2005) (rejecting the Government’s argument that it is legally bound by its contractual promise to pay “if, and only if, Congress appropriated sufficient funds”); Salazar v. Ramah Navajo Chapter,
+
+567 U.S. 182, 191 (2012) (“Although the agency itself cannot disburse funds beyond those appropriated to it, the Government’s ‘valid obligations will remain enforceable in the courts’ ” (quoting 2 GAO Redbook 6–17 (2d ed. 1992)).
+
+															Congress can also create an obligation directly by statute, without also providing details about how it must be satisfied.  Consider, for example, United States v. Langston,
+
+118 U.S. 389 (1886).  In that case, Congress had enacted a statute fixing an official’s annual salary at “$7,500 from the date of the creation of his office.”  Id., at 394.  Years later, however, Congress failed to appropriate enough funds to pay the full amount, prompting the officer to sue for the remainder.  Id., at 393.  Understanding that Congress had created the obligation by statute, this Court held that a subsequent failure to appropriate enough funds neither “abrogated [n]or suspended” the Government’s pre-existing commitment to pay.  Id., at 394.  The Court thus affirmed judgment for the officer for the balance owed.  Ibid.[6]
+
+															The GAO shares this view.  As the Redbook explains, if Congress created an obligation by statute without detailing how it will be paid, “an agency could presumably meet a funding shortfall by such measures as making prorated payments.”  GAO Redbook 2–36, n. 39.  But “such actions would be only temporary pending receipt of sufficient funds to honor the underlying obligation” and “[t]he recipient would remain legally entitled to the balance.”  Ibid.  Thus, the GAO warns, although a “failure to appropriate” funds “will prevent administrative agencies from making payment,” that failure “is unlikely to prevent recovery by way of a lawsuit.”  Id., at 2–63 (citing, e.g., Langston, 118 U. S., at 394).
+
+															Put succinctly, Congress can create an obligation directly through statutory language.
+
+															B
+
+															Section 1342 imposed a legal duty of the United States that could mature into a legal liability through the insurers’ actions—namely, their participating in the healthcare exchanges.
+
+															This conclusion flows from §1342’s express terms and context.  See, e.g., Merit Management Group, LP v. FTI Consulting, Inc., 583 U. S. ___, ___ (2018) (slip op., at 11) (statutory interpretation “begins with the text”).  The first sign that the statute imposed an obligation is its mandatory language: “shall.”  “Unlike the word ‘may,’ which implies discretion, the word ‘shall’ usually connotes a requirement.”  Kingdomware Technologies, Inc. v. United States, 579 U. S. ___, ___ (2016) (slip op., at 9); see also Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach,
+
+523 U.S. 26, 35 (1998) (observing that “ ‘shall’ ” typically “creates an obligation impervious to . . . discretion”).  Section 1342 uses the command three times: The HHS Secretary “shall establish and administer” the Risk Corridors program from 2014 to 2016, “shall provide” for payments according to a precise statutory formula, and “shall pay” insurers for losses exceeding the statutory threshold.  §§1342(a), (b)(1),
+
+114Stat.
+211,
+42 U. S. C. §§18062(a), (b)(1).
+
+															Section 1342’s adjacent provisions also underscore its mandatory nature.  In §1341 (a reinsurance program) and §1343 (a risk-adjustment program), the Affordable Care Act differentiates between when the HHS Secretary “shall” take certain actions and when she “may” exercise discretion.  See §1341(b)(2),
+
+124Stat.
+209,
+
+42 U. S. C. §18061(b)(2) (“[T]he Secretary . . . shall include” a formula that “may be designed” in multiple ways); §1343(b),
+
+124Stat.
+212,
+
+42 U. S. C. §18063(b) (“The Secretary . . . shall establish” and “may utilize” certain criteria).  Yet Congress chose mandatory terms for §1342.  “When,” as is the case here, Congress “distinguishes between ‘may’ and ‘shall,’ it is generally clear that ‘shall’ imposes a mandatory duty.”  Kingdomware, 579 U. S., at ___ (slip op., at 9).
+
+															Nothing in §1342 requires the Risk Corridors program to be budget neutral, either.  Nor does the text suggest that the Secretary’s payments to unprofitable plans pivoted on profitable plans’ payments to the Secretary, or that a partial payment would satisfy the Government’s whole obligation.  Thus, without “any indication” that §1342 allows the Government to lessen its obligation, we must “give effect to [Section 1342’s] plain command.”  Lexecon, 523 U. S., at 35.  That is, the statute meant what it said: The Government “shall pay” the sum that §1342 prescribes.[7]
+
+															C
+
+															The Government does not contest that §1342’s plain terms appeared to create an obligation to pay whatever amount the statutory formula provides.  It insists instead that the Appropriations Clause, Art. I, §9, cl. 7, and the Anti-Deficiency Act,
+
+31 U. S. C. §1341, “qualified” that obligation by making “HHS’s payments contingent on appropriations by Congress.”  Brief for United States 20.  “Because Congress did not appropriate funds beyond the amounts collected” from profitable plans, this argument goes, “HHS’s statutory duty [to pay unprofitable plans] extended only to disbursing those collected amounts.”  Id., at 24–25.
+
+															That does not follow.  Neither the Appropriations Clause nor the Anti-Deficiency Act addresses whether Congress itself can create or incur an obligation directly by statute.  Rather, both provisions constrain how federal employees and officers may make or authorize payments without appropriations.  See U. S. Const., Art. I, §9, cl. 7 (requiring an “Appropriatio[n] made by Law” before money may “be drawn” to satisfy a payment obligation);
+
+31 U. S. C. §1341(a)(1)(A) (“[A]n officer or employee of the United States Government . . . may not . . . make or authorize an expenditure or obligation exceeding an amount available in an appropriation or fund for the expenditure or obligation”).  As we have explained, “ ‘[a]n appropriation per se merely imposes limitations upon the Government’s own agents,’ ” but “ ‘its insufficiency does not pay the Government’s debts, nor cancel its obligations.’ ”  Ramah, 567 U. S., at 197 (quoting Ferris v. United States, 27 Ct. Cl. 542, 546 (1892)).  If anything, the Anti-Deficiency Act confirms that Congress can create obligations without contemporaneous funding sources: That Act’s prohibitions give way “as specified” or “authorized” by “any other provision of law.”
+
+31 U. S. C. §1341(a)(1).  Here, the Government’s obligation was authorized by the Risk Corridors statute.
+
+															And contrary to the Government’s view, §1342’s obligation-creating language does not turn on whether Congress expressly provided “budget authority” before appropriating funds.  Budget authority is an agency’s power “provided by Federal law to incur financial obligations,”
+
+88Stat.
+297,
+
+2 U. S. C. §622(2)(A), “that will result in immediate or future outlays of government funds,” GAO Redbook 2–1; see also id., at 2–55 (“Agencies may incur obligations only after Congress grants budget authority”); GAO, A Glossary of Terms Used in the Federal Budget Process, at 20–21.  As explained above, Congress usually gives budget authority through an appropriations Act or by expressly granting an agency authority to contract for the Government.  See GAO Redbook 2–1 to 2–5.  But budget authority is not necessary for Congress itself to create an obligation by statute.  See Langston, 118 U. S., at 394; cf. Raines v. Byrd,
+
+521 U.S. 811, 815 (1997) (treating legal obligations of the Government as distinct from budget authority).
+
+															The Government’s arguments also conflict with well- settled principles of statutory interpretation.  At bottom, the Government contends that the existence and extent of its obligation here is “subject to the availability of appropriations.”  Brief for United States 41.  But that language appears nowhere in §1342, even though Congress could have expressly limited an obligation to available appropriations or specific dollar amounts.  Indeed, Congress did so explicitly in other provisions of the Affordable Care Act.[8]
+
+															This Court generally presumes that “ ‘when Congress includes particular language in one section of a statute but omits it in another,’ ” Congress “ ‘intended a difference in meaning.’ ”  Digital Realty Trust, Inc. v. Somers, 583 U. S. ___, ___ (2018) (slip op., at 10) (quoting Loughrin v. United States,
+
+573 U.S. 351, 358 (2014) (alterations omitted)).  The Court likewise hesitates “ ‘to adopt an interpretation of a congressional enactment which renders superfluous another portion of that same law.’ ”  Republic of Sudan v. Harrison, 587 U. S. ___, ___ (2019) (slip op., at 10) (quoting Mackey v. Lanier Collection Agency & Service, Inc.,
+
+486 U.S. 825, 837 (1988)).  The “subject to appropriations” and payment-capping language in other sections of the Affordable Care Act would be meaningless had §1342 simultaneously achieved the same end with silence.
+
+															In sum, the plain terms of the Risk Corridors provision created an obligation neither contingent on nor limited by the availability of appropriations or other funds.
+
+															III
+
+															The next question is whether Congress impliedly repealed the obligation through its appropriations riders.  It did not.
+
+															A
+
+															Because Congress did not expressly repeal §1342, the Government seeks to show that Congress impliedly did so.  But “repeals by implication are not favored,” Morton v. Mancari,
+
+417 U.S. 535, 549 (1974) (internal quotation marks omitted), and are a “rarity,” J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred Int’l, Inc.,
+
+534 U.S. 124, 142 (2001) (internal quotation marks omitted).  Presented with two statutes, the Court will “regard each as effective”—unless Congress’ intention to repeal is “ ‘ “clear and manifest,” ’ ” or the two laws are “irreconcilable.”  Morton, 417 U. S., at 550–551 (quoting United States v. Borden Co.,
+
+308 U.S. 188, 198 (1939)); see also FCC v. NextWave Personal Communications Inc.,
+
+537 U.S. 293, 304 (2003) (“[W]hen two statutes are capable of co-existence, it is the duty of the courts, absent a clearly expressed congressional intention to the contrary, to regard each as effective” (internal quotation marks omitted)).
+
+															This Court’s aversion to implied repeals is “especially” strong “in the appropriations context.”  Robertson v. Seattle Audubon Soc.,
+
+503 U.S. 429, 440 (1992); see also New York Airways, Inc. v. United States, 177 Ct. Cl. 800, 810, 369 F.2d 743, 748 (1966).  The Government must point to “something more than the mere omission to appropriate a sufficient sum.”  United States v. Vulte,
+
+233 U.S. 509, 515 (1914); accord, GAO Redbook 2–63 (“The mere failure to appropriate sufficient funds is not enough”).  The question, then, is whether the appropriations riders manifestly repealed or discharged the Government’s uncapped obligation.
+
+															Langston confirms that the appropriations riders did neither.  Recall that in Langston, Congress had established a statutory obligation to pay a salary of $7,500, yet later appropriated a lesser amount.  118 U. S., at 393–394.  This Court held that Congress did not “abrogat[e] or suspen[d]” the salary-fixing statute by “subsequent enactments [that] merely appropriated a less amount” than necessary to pay, because the appropriations bill lacked “words that expressly or by clear implication modified or repealed the previous law.”  Id., at 394.
+
+															Vulte reaffirmed that a mere failure to appropriate does not repeal or discharge an obligation to pay.  At issue there was whether certain appropriations Acts had repealed a Government obligation to pay bonuses to military servicemen.  233 U. S., at 511–512.  A 1902 statute had provided a 10 percent bonus to officers serving outside the contiguous United States, but in 1906 and 1907, Congress enacted appropriations funding the bonuses for officers “except [those in] P[ue]rto Rico and Hawaii.”  Id., at 512. Then, in 1908, Congress enacted a statute stating “ ‘[t]hat the increase of pay . . . shall be as now provided by law.’ ”  Id., at 513.  When Lieutenant Nelson Vulte sought a bonus for his service in Puerto Rico from 1908 to 1909, the Government refused, contending that the appropriations Acts had impliedly repealed its obligation altogether.
+
+															Relying on Langston, Vulte rejected that argument.  “[I]t is to be remembered,” the Court wrote, that the alleged repeals “were in appropriation acts and no words were used to indicate any other purpose than the disbursement of a sum of money for the particular fiscal years.”  233 U. S., at 514.  At most, the appropriations had “temporarily suspend[ed]” payments, but they did not use “ ‘the most clear and positive terms’ ” required to “modif[y] or repea[l]” the Government’s obligation itself.  Id., at 514–515 (quoting Minis v. United States, 15 Pet. 423, 445 (1841)).  Because the Government had failed to show that repeal was the only ‘ “reasonable interpretation’ ” of the appropriation Acts, the obligation persisted.  233 U. S., at 515 (quoting Minis, 15 Pet., at 445).
+
+															The parallels among Langston, Vulte, and these cases are clear.  Here, like in Langston and Vulte, Congress “merely appropriated a less amount” than that required to satisfy the Government’s obligation, without “expressly or by clear implication modif[ying]” it.  Langston, 118 U. S., at 394; see also Vulte, 233 U. S., at 515.  The riders stated that “[n]one of the funds made available by this Act,” as opposed to any other sources of funds, “may be used for payments under” the Risk Corridors statute.  §227,
+
+128Stat.
+2491; accord, §225,
+
+129Stat.
+2624; §223,
+
+131Stat.
+543.  But “no words were used to indicate any other purpose than the disbursement of a sum of money for the particular fiscal years.”  Vulte, 233 U. S., at 514.  And especially because the Government had already begun incurring the prior year’s obligation each time Congress enacted a rider, reasonable (and nonrepealing) interpretations exist.  Indeed, finding a repeal in these circumstances would raise serious questions whether the appropriations riders retroactively impaired insurers’ rights to payment.  See Landgraf v. USI Film Products,
+
+511 U.S. 244, 265–266, 280 (1994); see also GAO Redbook 1–61 to 1–62.
+
+															The relevant agencies’ responses to the riders also undermine the case for an implied repeal here.  Had Congress “clearly expressed” its intent to repeal, one might have expected HHS or CMS to signal the sea change.  Morton, 417 U. S., at 551.  But even after Congress enacted the first rider, the agencies reiterated that “the Affordable Care Act requires the Secretary to make full payments to issuers,” 80 Fed. Reg. 10779, and that “HHS w[ould] record risk corridors payments due as an obligation of the United States Government for which full payment is required,” CMS, Risk Corridors Payments for 2015, at 1.  They understood that profitable insurers’ payments to the Government would not dispel the Secretary’s obligation to pay unprofitable insurers, even “in the event of a shortfall.”  Ibid.
+
+															Given the Court’s potent presumption in the appropriations context, an implied-repeal-by-rider must be made of sterner stuff.
+
+															B
+
+															To be sure, this Court’s implied-repeal precedents reveal two situations where the Court has deemed appropriations measures irreconcilable with statutory obligations to pay.  But neither one applies here.
+
+															The first line of cases involved appropriations bills that, without expressly invoking words of “repeal,” reached that outcome by completely revoking or suspending the underlying obligation before the Government began incurring it.  See United States v. Will,
+
+449 U.S. 200 (1980); United States v. Dickerson,
+
+310 U.S. 554 (1940).  Will concluded that Congress had canceled an obligation to pay cost-of- living raises through appropriations bills that bluntly stated that future raises “ ‘shall not take effect’ ” or that restricted funds from “ ‘this Act or any other Act.’ ”  449 U. S., at 206–207, 223.[9]  Likewise, Dickerson held that a series of appropriations bills repealed an obligation to pay military-reenlistment bonuses due in particular fiscal years.  See 310 U. S., at 561.  One enactment “ ‘hereby suspended’ ” the bonuses before they took effect, and another “continued” this suspension for additional years, providing that “ ‘no part of any appropriation in this or any other Act for the [next] fiscal year . . . shall be available for the payment [of the bonuses] notwithstanding’ ” the statute creating the Government’s obligation to pay.  Id., at 555–557.
+
+															Here, by contrast, the appropriations riders did not use the kind of “shall not take effect” language decisive in Will.  See 449 U. S., at 222–223.  Nor did the riders purport to “suspen[d]” §1342 prospectively or to foreclose funds from “any other Act” “notwithstanding” §1342’s money-mandating text.  Dickerson, 310 U. S., at 556–557; see also Will, 449 U. S., at 206–207.  Neither Will nor Dickerson supports the Federal Circuit’s implied-repeal holding.
+
+															The second strand of precedent turned on provisions that reformed statutory payment formulas in ways “irreconcilable” with the original methods.  See United States v. Mitchell,
+
+109 U.S. 146, 150 (1883); see also United States v. Fisher,
+
+109 U.S. 143, 145–146 (1883).  In Mitchell, an appropriations bill decreased the salaries for federal interpreters (from $400 to $300) and changed how the agency would distribute any “ ‘additional pay’ ” (from “ ‘all emoluments and allowances whatsoever’ ” to payments at the agency head’s discretion).  109 U. S., at 147, 149.  And in Fisher, Congress altered an obligation to pay judges $3,000 per year by providing that a lesser appropriation would be “ ‘in full compensation’ ” for services rendered in the next fiscal year.  109 U. S., at 144.[10]
+
+															The appropriations bills here created no such conflict as in Mitchell and Fisher.  The riders did not reference §1342’s payment formula at all, let alone “irreconcilabl[y]” change it.  Mitchell, 109 U. S., at 150.  Nor did they provide that Risk Corridors payments from profitable plans would be “ ‘in full compensation’ ” of the Government’s obligation to unprofitable plans.  Fisher, 109 U. S., at 146.  Instead, the riders here must be taken at face value: as a “mere omission to appropriate a sufficient sum.”  Vulte, 233 U. S., at 515.  Congress could have used the kind of language we have held to effect a repeal or suspension—indeed, it did so in other provisions of the relevant appropriations bills.  See, e.g., §716,
+
+128Stat.
+2163 (“None of the funds appropriated or otherwise made available by this or any other Act shall be used . . . ”); §714,
+
+129Stat.
+2275 (same); §714,
+
+131Stat.
+168 (same).  But for the Risk Corridors program, it did not.
+
+															C
+
+															We also find unpersuasive the only pieces of legislative history that the Federal Circuit cited.  According to the Court of Appeals, a floor statement and an unpublished GAO letter provided “clear intent” to cancel or “suspend” the Government’s Risk Corridors obligation.  See 892 F. 3d, at 1318–1319, 1325–1326.  We doubt that either source could ever evince the kind of clear congressional intent required to repeal a statutory obligation through an appropriations rider.  See United States v. Kwai Fun Wong,
+
+575 U.S. 402, 412 (2015).  But even if they could, they did not do so here.
+
+															The floor statement (which Congress adopted as an “explanatory statement”) does not cross the clear-expression threshold.  See 160 Cong. Rec. 17805, 18307 (2014); see also §4,
+
+128Stat.
+2132.  That statement interpreted an HHS regulation as saying that “the risk corridor program will be budget neutral, meaning the federal government will never pay out more than it collects.” 160 Cong. Rec., at 18307.[11]  But that misunderstands the referenced regulation, which provided only that HHS “project[ed]” that the program would be budget neutral and that the agency “intend[ed]” to treat it that way, while making clear that “it [was] difficult to estimate” the “aggregate risk corridors payments and charges at [the] time.”  79 Fed. Reg. 13829.  HHS’ goals did not alter its prior interpretation that the Risk Corridors program was “not statutorily required to be budget neutral.”  78 Fed. Reg. 15473.  And neither the floor statement nor the appropriations rider said anything requiring budget neutrality or redefining §1342’s formula.[12]
+
+															The GAO letter is even more inapt.  In it, the GAO responded to two legislators’ inquiry by identifying two sources of available funding for the first year of Risk Corridors payments: CMS’ appropriations for the 2014 fiscal year and profitable insurance plans’ payments to the Secretary.  892 F. 3d, at 1318; see also App. in No. 17–1994 (CA Fed.), pp. 234–240.  Because the rider cut off the first source of funds, the Federal Circuit inferred congressional intent “to temporarily cap” the Government’s payments “at the amount of payments” profitable plans made “for each of the applicable years” of the Risk Corridors program.  892 F. 3d, at 1325.  That was error.  The letter has little value because it appears nowhere in the legislative record.  Perhaps for that reason, the Government does not rely on it.
+
+															IV
+
+															Having found that the Risk Corridors statute established a valid yet unfulfilled Government obligation, this Court must turn to a final question: Where does petitioners’ lawsuit belong, and for what relief?  We hold that petitioners properly relied on the Tucker Act to sue for damages in the Court of Federal Claims.
+
+															A
+
+															The United States is immune from suit unless it unequivocally consents.  United States v. Navajo Nation,
+
+556 U.S. 287, 289 (2009).  The Government has waived immunity for certain damages suits in the Court of Federal Claims through the Tucker Act,
+
+24Stat.
+505.  See United States v. Mitchell,
+
+463 U.S. 206, 212 (1983).  That statute permits “claim[s] against the United States founded either upon the Constitution, or any Act of Congress or any regulation of an executive department, or upon any express or implied contract with the United States, or for liquidated or unliquidated damages in cases not sounding in tort.”
+
+28 U. S. C. §1491(a)(1).
+
+															The Tucker Act, however, does not create “substantive rights.”  Navajo Nation, 556 U. S., at 290.  A plaintiff relying on the Tucker Act must premise her damages action on “other sources of law,” like “statutes or contracts.”  Ibid.  For that reason, “[n]ot every claim invoking the Constitution, a federal statute, or a regulation is cognizable under the Tucker Act.”  Mitchell, 463 U. S., at 216.  Nor will every “failure to perform an obligation . . . creat[e] a right to monetary relief ” against the Government.  United States v. Bormes,
+
+568 U.S. 6, 16 (2012).
+
+															To determine whether a statutory claim falls within the Tucker Act’s immunity waiver, we typically employ a “fair interpretation” test.  A statute creates a “right capable of grounding a claim within the waiver of sovereign immunity if, but only if, it ‘can fairly be interpreted as mandating compensation by the Federal Government for the damage sustained.’ ”  United States v. White Mountain Apache Tribe,
+
+537 U.S. 465, 472 (2003) (quoting Mitchell, 463 U. S., at 217)); see also Navajo Nation, 556 U. S., at 290 (“The other source of law need not explicitly provide that the right or duty it creates is enforceable through a suit for damages”).  Satisfying this rubric is generally both necessary and sufficient to permit a Tucker Act suit for damages in the Court of Federal Claims.  White Mountain Apache, 537 U. S., at 472–473.[13]
+
+															But there are two exceptions.  The Tucker Act yields when the obligation-creating statute provides its own detailed remedies, or when the Administrative Procedure Act,
+
+60Stat.
+237, provides an avenue for relief.  See Bormes, 568 U. S., at 13, 16; Bowen v. Massachusetts,
+
+487 U.S. 879, 900–908 (1988).
+
+															B
+
+															Petitioners clear each hurdle: The Risk Corridors statute is fairly interpreted as mandating compensation for damages, and neither exception to the Tucker Act applies.
+
+															1
+
+															Rarely has the Court determined whether a statute can “fairly be interpreted as mandating compensation by the Federal Government.”  Mitchell, 463 U. S., at 216–217 (internal quotation marks omitted).  Likely this is because so-called money-mandating provisions are uncommon, see M. Solomson, Court of Federal Claims: Jurisdiction, Practice, and Procedure 4–18 (2016), and because Congress has at its disposal several blueprints for conditioning and limiting obligations, see n. 7, supra; see also GAO Redbook 2–22 to 2–24, 2–54 to 2–58.  But Congress used none of those tools in §1342.  The Risk Corridors statute is one of the rare laws permitting a damages suit in the Court of Federal Claims.
+
+															Here again §1342’s mandatory text is significant.  Statutory “ ‘shall pay’ language” often reflects congressional intent “to create both a right and a remedy” under the Tucker Act.  Bowen, 487 U. S., at 906, n. 42; see also, e.g., id., at 923 (Scalia, J., dissenting) (“[A] statute commanding the payment of a specified amount of money by the United States impliedly authorizes (absent other indication) a claim for damages in the defaulted amount”); United States v. Testan,
+
+424 U.S. 392, 404 (1976) (suggesting that the Back Pay Act, 5 U. S. C. §5596, may permit damages suits under the Tucker Act “in carefully limited circumstances”); Mitchell, 463 U. S., at 217 (similar).  Section 1342’s triple mandate—that the HHS Secretary “shall establish and administer” the program, “shall provide” for payment according to the statutory formula, and “shall pay” qualifying insurers—falls comfortably within the class of money- mandating statutes that permit recovery of money damages in the Court of Federal Claims.
+
+															Bolstering our finding is §1342’s focus on compensating insurers for past conduct.  In assessing Tucker Act actions, this Court has distinguished statutes that “attempt to compensate a particular class of persons for past injuries or labors” from laws that “subsidize future state expenditures.”  Bowen, 487 U. S., at 906, n. 42.  (The first group permits Tucker Act suits; the second does not.)  The Risk Corridors statute sits securely in the first category: It uses a backwards-looking formula to compensate insurers for losses incurred in providing healthcare coverage for the prior year.[14]
+
+															2
+
+															Nor is there a separate remedial scheme supplanting the Court of Federal Claims’ power to adjudicate petitioners’ claims.
+
+															True, the Tucker Act “is displaced” when “a law assertedly imposing monetary liability on the United States contains its own judicial remedies.”  Bormes, 568 U. S., at 12.  A plaintiff in that instance cannot rely on our “fair interpretation” test, and instead must stick to the money- mandating statute’s “own text” to “determine whether the damages liability Congress crafted extends to the Federal Government.”  Id., at 15–16.  Examples include the Fair Credit Reporting Act,
+
+84Stat.
+1127, and the Agricultural Marketing Agreement Act of 1937,
+
+50Stat.
+246.  The former superseded the Tucker Act by creating a cause of action, imposing a statute of limitations, and providing subject-matter jurisdiction in federal district courts.  See 15 U. S. C. §§1681n, 1681o, 1681p; Bormes, 568 U. S., at 15.  And the latter did so by allowing aggrieved parties to petition the Secretary of Agriculture and by paving a path for judicial review.  See
+
+7 U. S. C. §608c(15); Horne v. Department of Agriculture,
+
+569 U.S. 513, 527 (2013).
+
+															Unlike those statutes, however, the Affordable Care Act did not establish a comparable remedial scheme.  Nor has the Government identified one.  So this exception to the Tucker Act is no barrier here.
+
+															Neither does the Administrative Procedure Act bar petitioners’ Tucker Act suit.  To be sure, in Bowen, this Court held in the Medicaid context that a State properly sued the HHS Secretary under the Administrative Procedure Act (not the Tucker Act) in district court (not the Court of Federal Claims) for failure to make statutorily required payments.  See 487 U. S., at 882–887, 901–905.
+
+															But Bowen is distinguishable on several scores.  First, the relief requested there differed materially from what petitioners pursue here.  In Bowen, the State did not seek money damages, but instead sued for prospective declaratory and injunctive relief to clarify the extent of the Government’s ongoing obligations under the Medicaid program.  Unlike §1342, which “provide[s] compensation for specific instances of past injuries or labors,” id., at 901, n. 31, the pertinent Medicaid provision was a “grant-in-aid program,” which “direct[ed] the Secretary . . . to subsidize future state expenditures,” id., at 906, n. 42.  Thus, the suit in Bowen “was not merely for past due sums, but for an injunction to correct the method of calculating payments going forward.”  Great-West Life & Annuity Ins. Co. v. Knudson,
+
+534 U.S. 204, 212 (2002).  And because the Court of Federal Claims “does not have the general equitable powers of a district court to grant prospective relief,” 487 U. S., at 905, the Court reasoned that Bowen belonged in district court.
+
+															Second, the parties’ relationship in Bowen also differs from the one implicated here.  The State had employed the Administrative Procedure Act in Bowen because of the litigants’ “complex ongoing relationship,” which made it important that a district court adjudicate future disputes.  Id., at 905; see also id., at 900, n. 31.  The Court added that the Administrative Procedure Act “is tailored” to “[m]anaging the relationships between States and the Federal Government that occur over time and that involve constantly shifting balance sheets,” while the Tucker Act is suited to “remedy[ing] particular categories of past injuries or labors for which various federal statutes provide compensation.”  Id., at 904–905, n. 39.
+
+															These observations confirm that petitioners properly sued the Government in the Court of Federal Claims.  Petitioners’ prayer for relief under the Risk Corridors statute looks nothing like the requested redress in Bowen.  Petitioners do not ask for prospective, nonmonetary relief to clarify future obligations; they seek specific sums already calculated, past due, and designed to compensate for completed labors.  The Risk Corridors statute and Tucker Act allow them that remedy.  And because the Risk Corridors program expired years ago, this litigation presents no special concern about managing a complex ongoing relationship or tracking ever-changing accounting sheets.  Petitioners’ suit thus lies in the Tucker Act’s heartland.[15]
+
+															V
+
+															In establishing the temporary Risk Corridors program, Congress created a rare money-mandating obligation requiring the Federal Government to make payments under §1342’s formula.  And by failing to appropriate enough sums for payments already owed, Congress did simply that and no more: The appropriation bills neither repealed nor discharged §1342’s unique obligation.  Lacking other statutory paths to relief, and absent a Bowen barrier, petitioners may seek to collect payment through a damages action in the Court of Federal Claims.[16]
+
+															These holdings reflect a principle as old as the Nation itself: The Government should honor its obligations.  Soon after ratification, Alexander Hamilton stressed this insight as a cornerstone of fiscal policy.  “States,” he wrote, “who observe their engagements . . . are respected and trusted: while the reverse is the fate of those . . . who pursue an opposite conduct.”  Report Relative to a Provision for the Support of Public Credit (Jan. 9, 1790), in 6 Papers of Alexander Hamilton 68 (H. Syrett & J. Cooke eds. 1962).  Centuries later, this Court’s case law still concurs.
+
+															The judgments of the Court of Appeals are reversed, and the cases are remanded for further proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+* Justice Thomas and Justice Gorsuch join all but Part III–C of this opinion. 
+
+2
+ The others were the “Reinsurance” and “Risk Adjustment” programs.  The former ran from 2014 to 2016 and required insurers to pay premiums into a pool that compensated carriers covering “high risk individuals.”  §1341,
+
+124Stat.
+208,
+
+42 U. S. C. §18061.  The latter is still in effect and annually transfers funds from insurance plans with relatively low-risk enrollees to plans with higher risk enrollees.  See §1343,
+
+124Stat.
+212,
+
+42 U. S. C. §18063. 
+
+3
+ If a health insurance plan made (or lost) up to 3 percentage points more than expected in a plan year, the plan would keep the gains (or losses).  If the plan made (or lost) between 3 and 8 percentage points more than predicted, it would give up half of the earnings (or would be compensated for half of the shortfalls) exceeding the 3 percentage-point threshold.  If the gains (or losses) exceeded predictions by eight percentage points, the insurers would pay (or receive) 80 percent of the gains (or losses) exceeding the 8 percentage-point mark.  See §1342(b),
+
+124Stat.
+211,
+
+42 U. S. C. §18062(b). 
+
+4
+ For a meritorious claim brought within the Tucker Act’s 6-year statute of limitations,
+
+28 U. S. C. §2501, federal law generally requires that the “final judgment rendered by the United States Court of Federal Claims against the United States . . . be paid out of any general appropriation therefor.”  §2517(a).  The Judgment Fund is a permanent and indefinite appropriation for “[n]ecessary amounts . . . to pay final judgments, awards, compromise settlements, and interest and costs specified in the judgments or otherwise authorized by law when . . . payment is not otherwise provided for.”
+
+31 U. S. C. §1304(a)(1). 
+
+5
+ Compare 130 Fed. Cl. 436 (2017) (granting Moda Health Plan partial summary judgment on its statutory and implied-in-fact-contract claims), with 129 Fed. Cl. 81 (2016) (dismissing Land of Lincoln’s statutory, contract, and Takings Clause claims), 131 Fed. Cl. 457 (2017) (dismissing Blue Cross Blue Shield’s statutory and contract claims), and 133 Fed. Cl. 1 (2017) (dismissing Maine Community Health’s statutory claims). 
+
+6
+ The Government suggests that Langston is irrelevant because that case predates the Judgment Fund, cf. n. 3, supra, meaning that the Court “had no occasion” to determine whether the statute at issue “authorized a money-damages remedy” against the Government, Brief for United States 30.  But by affirming a judgment against the United States, Langston necessarily confirmed the Government’s obligation to pay independent of a specific appropriation.  What remedies ensure that the Government makes good on its duty to pay is a separate question that we take up below.  See Part IV, infra. 
+
+7
+ Our conclusion matches the interpretations that HHS and CMS have repeated since before the Risk Corridors program began.  In the agencies’ view, the Risk Corridors program was “not statutorily required to be budget neutral” and instead required HHS to “remit payments” “[r]egardless of the balance of payments and receipts.”  78 Fed. Reg. 15473 (HHS regulation); accord, 79 Fed. Reg. 30260 (CMS regulation noting that even “[i]n the unlikely event of a shortfall for the 2015 program year, . . . the Affordable Care Act requires the Secretary to make full payments to issuers”). 
+
+8
+ See, e.g., 
+
+42 U. S. C. §280k(a) (“The Secretary . . . shall, subject to the availability of appropriations, establish a 5-year national, public education campaign”); §293k(c) (“Fifteen percent of the amount appropriated . . . in each . . . fiscal year shall be allocated to [certain] physician assistant training programs”); §293k–1(e) (“There is authorized to be appropriated to carry out this section, $10,000,000”); §293k–2(e) (payments “made to an entity from an award of a grant or contract under [§293k–2(a)] shall be . . . subject to the availability of appropriations for the fiscal year involved to make the payments”); §300hh–31(a) (“Subject to the availability of appropriations, the Secretary . . . shall establish [anepidemiology-laboratory program] to award grants”); note following §1396a (“In no case may . . . the aggregate amount of payments made by the Secretary to eligible States under this section exceed $75,000,000”); §1397m–1(b)(2)(A) (“Subject to the availability of appropriations . . . the amount paid to a State for a fiscal year under [an adult protective services program] shall equal . . . ”). This kind of limiting language is not unique to the Affordable Care Act.  When Congress has restricted “shall pay” language to an appropriation or available funds, it has done so expressly.  See, e.g.,
+
+2 U. S. C. §2064;
+
+5 U. S. C. §8334; 7 U. S. C. §§2013, 2031, 3243, 6523, 7717; 10 U. S. C. §§1175, 1413a, 1598, 2031, 2410j, 2774, 9780; 12 U. S. C. §3337;
+
+15 U. S. C. §4723; 16 U. S. C. §§45f, 410aa–1, 426n, 459e–1, 460m–16, 698f, 1852; 20 U. S. C. §§80q–5, 1070a, 1134b, 1161g;
+
+22 U. S. C. §2906;
+
+25 U. S. C. §1912;
+
+30 U. S. C. §1314;
+
+32 U. S. C. §716;
+
+34 U. S. C. §12573;
+
+38 U. S. C. §5317A; 42 U. S. C. §§303, 624, 655, 677, 1203, 1353, 1396b, 8623, 12622, 16014, 16512; 46 U. S. C. §§51504, 53106, 53206;
+
+47 U. S. C. §395;
+
+49 U. S. C. §5312; 50 U. S. C. §§4236, 4237;
+
+52 U. S. C. §21061. Congress has also been explicit when it has capped payments, often setting a dollar amount or designating a specific fund from which the Government shall pay.  See, e.g., 5 U. S. C. §§8102a, 8134, 8461; 7 U. S. C. §§26, 6523;
+
+10 U. S. C. §1413a; 16 U. S. C. §§450e–1, 460kk;
+
+19 U. S. C. §2296; 20 U. S. C. §§1070g–1, 1078, 3988, 5607;
+
+22 U. S. C. §3681; 30 U. S. C. §1240a;
+
+31 U. S. C. §3343;
+
+38 U. S. C. §1542; 42 U. S. C. §§290bb–38, 295h, 618, 5318a, 15093; 43 U. S. C. §§1356a, 1619;
+
+46 U. S. C. §53106;
+
+50 U. S. C. §4114. These common limitations—and our discussion below, see Part IV,infra—diminish the dissent’s concern that other statutes may support a damages action in the Court of Federal Claims.  Post, at 3 (opinion of Alito, J.). 
+
+9
+ Still, Will held unconstitutional the changes that purported to reduce the Government’s payment obligations after the obligation-creating statutes had already taken effect.  See 449 U. S., at 224–226, 230. 
+
+10
+ The Federal Circuit has also recognized that Congress may override a statutory payment formula through an appropriation that expressly earmarks a lesser amount for that payment obligation in the upcoming fiscal year.  See Highland Falls-Fort Montgomery Central School Dist. v. United States, 48 F.3d 1166, 1169–1171 (1995); see also GAO Redbook 2–62 (discussing Highland Falls and noting that earmarking a lesser amount can create an “irreconcilable conflict” with a statutory payment formula).  Perhaps because these cases do not involve an earmark to satisfy an incompatible payment formula, the Federal Circuit did not rely on Highland Falls below. 
+
+11
+ The statement provides in full: “In 2014, HHS issued a regulation stating that the risk corridorprogram will be budget neutral, meaning that the federal government will never pay out more than it collects from issuers over the three year period risk corridors are in effect.  The agreement includes new bill language to prevent the CMS Program Management appropriation account from being used to support risk corridors payments.”  160 Cong. Rec., at 18307. 
+
+12
+ In this implied-repeal context, it is also telling that Congressconsidered—but did not enact—bills containing the type of text that may have satisfied the clear-expression rule.  See e.g., Obamacare Taxpayer Bailout Protection Act, S. 2214, 113th Cong., 2d Sess., §2 (2014) (“ ‘[T]he Secretary shall ensure that payments out and payments in . . . are provided for in amounts that the Secretary determines are necessary to reduce to zero the cost . . . to the Federal Government of carrying out the program under this section’ ”); Taxpayer Bailout Protection Act, S. 359, 114th Cong., 1st Sess., §2 (2015) (“ ‘The Secretary shall ensure that the amount of payments to plans . . . does not exceed the amount of payments to the Secretary’ ” and “ ‘shall proportionately decrease the amount of payments to plans’ ”); Taxpayer Bailout Protection Act, H. R. 724, 114th Cong., 1st Sess., §2 (2015) (same). 
+
+13
+ Relying on Alexander v. Sandoval,
+
+532 U.S. 275 (2001), the dissent’s logic suggests that a federal statute could never provide a cause of action for damages absent magic words explicitly inviting suit.  See post, at 2, 4–7.  We have repeatedly rejected that notion—including in opinions written by Sandoval’s author.  See, e.g., United States v. Bormes,
+
+568 U.S. 6, 15–16 (2012); United States v. Navajo Nation,
+
+556 U.S. 287, 290 (2009).  Not even Sandoval went as far as the dissent; that decision instead explained that “[t]he judicial task is to interpret the statute Congress has passed to determine whether it displays an intent to create not just a private right but also a private remedy.”  532 U. S., at 286.  That is precisely what the money-mandating inquiry does: It provides a framework for determining when Congress has authorized a claim against the Government. This framework also makes good sense.  Cf. post, at 4.  As the author of Sandoval explained, if a statutory obligation to pay money is mandatory, then the congressionally conferred “right to receive money,” post, at 8, n. 5, will typically display an intent to provide a damages remedy for the defaulted amount, Bowen v. Massachusetts,
+
+487 U.S. 879, 923 (1988) (Scalia, J., dissenting) (a “statute commanding the payment of a specified amount of money by the United States impliedly authorizes (absent other indication) a claim for damages in the defaulted amount”).  As this Court recently observed, Congress enacted the Tucker Act to “suppl[y] the missing ingredient for an action against the United States for the breach of monetary obligations not otherwise judicially enforceable.”  Bormes, 568 U. S., at 12. By the dissent’s contrary suggestion, not only is a mandatory statutory obligation to pay meaningless, so too is a constitutional one.  After all, the Constitution did not “expressly create . . . a right of action,” post, at 3, when it mandated “just compensation” for Government takings of private property for public use, Amdt. 5; see also First English Evangelical Lutheran Church of Glendale v. County of Los Angeles,
+
+482 U.S. 304, 315–316 (1987).  Although there is no express cause of action under the Takings Clause, aggrieved owners can sue through the Tucker Act under our case law.  E.g., Ruckelshaus v. Monsanto Co.,
+
+467 U.S. 986, 1016–1017 (1984) (citing United States v. Causby,
+
+328 U.S. 256, 267 (1946)). 
+
+14
+ Despite agreeing that “[t]he Court is correct” on the case law, the dissent proposes supplemental briefing and re-argument.  Post, at 4, 8.  We underscore, however, that all Members of this Court agree that today’s cases do not break new doctrinal ground. The Federal Circuit, moreover, concurs in our conclusion.  892 F. 3d, 1311, 1320, n. 2 (2018) (holding that §1342 “is money-mandating for [Tucker Act] purposes” (citing Greenlee County v. United States, 487 F.3d 871, 877 (CA Fed. 2007))).  It also agrees with our analysis broadly, having held that “shall pay” language “generally makes a statute money-mandating” under the Tucker Act.  Id., at 877 (internal quotation marks omitted).  Conversely, the Court of Appeals has concluded that a statute is not money mandating where the Government enjoys “complete discretion” in determining whether (and whom) to pay.  See, e.g., Doe v. United States, 463 F.3d 1314, 1324 (2006) (noting that the statutoryterm, “may,” creates a rebuttable presumption that the “statute creates discretion”). 
+
+15
+ The dissent concedes that there may “be some sharply defined categories of claims that may be properly asserted” through the TuckerAct “simply as a matter of precedent.”  Post, at 6, and nn. 3, 4 (citing takings, breach-of-contract, failure-to-pay-compensation, and breach-of-fiduciary-duty claims as examples).  Petitioners’ claim—breach of anunambiguous statutory promise to pay for services rendered to theGovernment—fits easily within those precedents.  The only differences the dissent seems to assert here are that the dollar figure is higher and that petitioners do not deserve a “bailout” for their “bet” that the Federal Government would comply with federal law.  Post, at 2, 3, 7; but cf., e.g., 79 Fed. Reg. 30260 (assuring insurers with “concerns that risk corridors collections may not be sufficient to fully fund risk corridors payments” that the Government would still pay).  Our analysis in Tucker Act cases has never revolved on such results-oriented reasoning. 
+
+16
+ Having found that the Risk Corridors statute is a money-mandating provision for which a Tucker Act suit lies, we need not resolve petitioners’ alternative arguments for recovery based on an implied-in-fact contract theory or under the Takings Clause. 
+
+

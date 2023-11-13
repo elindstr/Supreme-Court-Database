@@ -1,0 +1,73 @@
+::SCDB_caseID:: 2015-069
+::decision_cite:: 15-415
+::decision_name::  Encino Motorcars, LLC v. Navarro
+::decision_year:: 2016
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–415
+
+															_________________
+
+															ENCINO MOTORCARS, LLC, PETITIONER v.HECTOR NAVARRO, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 20, 2016]
+
+															
+
+															Justice Thomas, with whom Justice Alito joins, dissenting.
+
+															The Court granted this case to decide whether an exemption under the Fair Labor Standards Act (FLSA),
+
+29 U. S. C. §201 et seq., “requires payment of increased compensation to certain automobile dealership employees”— known as service advisors—“for overtime work.”  Ante, at 1; see also ante, at 2, 7.  The majority declines to resolve that question.  Instead, after explaining why the Court owes no deference to the Department of Labor’s regulation purporting to interpret this provision, see Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+
+467 U. S. 837,
+843 (1984)
+, the majority leaves it “for the Court of Appeals to interpret the statute in the first instance.”  Ante, at 12.
+
+															I agree with the majority’s conclusion that we owe no Chevron deference to the Department’s position because “deference is not warranted where [a] regulation is ‘procedurally defective.’ ”  Ante, at 8.  But I disagree with its ultimate decision to punt on the issue before it.  We have an “obligation . . . to decide the merits of the question presented.”  CBOCS West, Inc. v. Humphries,
+
+553 U. S. 442,
+472 (2008)
+ (Thomas, J., dissenting).  We need not wade into the murky waters of Chevron deference to decide whether the Ninth Circuit’s reading of the statute was correct.  We must instead examine the statutory text.  That text reveals that service advisors are salesmen primarily engaged in the selling of services for automobiles.  Accordingly, I would reverse the Ninth Circuit’s judgment. Federal law requires overtime pay for certain employees who work more than 40 hours per week.  §207(a)(2)(C).  But the FLSA exempts various categories of employees from this overtime requirement.  §213.  The question before the Court is whether the following exemption encompasses service advisors:
+
+															
+
+															“The provisions of section 207 of this title shall not apply with respect to— 
+
+															.     .     .     .     . “(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers.”  §213(b).
+
+															
+
+															I start with the uncontroversial notion that a service advisor is a “salesman.”  The FLSA does not define the term “salesman,” so “we give the term its ordinary meaning.”  Taniguchi v. Kan Pacific Saipan, Ltd., 566 U. S. ___, ___ (2012) (slip op., at 5).  A “salesman” is someone who sells goods or services.  14 Oxford English Dictionary 391 (2d ed. 1989) (“[a] man whose business it is to sell goods or conduct sales”); Random House Dictionary of the English Language 1262 (1966) (Random House) (“a man who sells goods, services, etc.”).  Service advisors, whose role it is to “interact with customers and sell them services for their vehicles,” ante, at 2, are plainly “salesm[e]n.”  See ibid. (cataloguing sales-related duties of service advisors).  
+
+															A service advisor, however, is not “primarily engaged in selling . . . automobiles.”  §213(b)(10)(A).  On the contrary, a service advisor is a “salesman” who sells servicing solutions.  Ante, at 2.  So the exemption applies only if it cov-ers not only those salesmen primarily engaged in selling automobiles but also those salesmen primarily engaged in servicing automobiles.  
+
+															The exemption’s structure confirms that salesmen could do both.  The exemption contains three nouns (“salesman, partsman, or mechanic”) and two gerunds (“selling or servicing”).  The three nouns are connected by the disjunctive “or,” as are the gerunds.  So unless context dictates otherwise, a salesman can either be engaged in selling or servicing automobiles.  Cf. Reiter v. Sonotone Corp.,
+
+442 U. S. 330,
+339 (1979)
+.  
+
+															 Context does not dictate otherwise.  A salesman, namely, one who sells servicing solutions, can be “primarily engaged in . . . servicing automobiles.”  §213(b)(10)(A).  The FLSA does not define the term “servicing,” but its ordinary meaning includes both “[t]he action of maintaining or repairing a motor vehicle” and “the action of providing a service.”  15 Oxford English Dictionary 39; see also Random House 1304 (defining “service” to mean “the providing . . . of . . . activities required by the public, as maintenance, repair, etc.”).  A service advisor’s selling of service solutions fits both definitions.  The service advisor is the customer’s liaison for purposes of deciding what parts are necessary to maintain or repair a vehicle, and therefore is primarily engaged in “the action of maintaining or repairing a motor vehicle” or “the action of providing a service” for an automobile.
+
+															Other features of the exemption confirm that a service advisor is a salesman primarily engaged in servicing automobiles.  Consider the exemption’s application to a “partsman.” Like a service advisor, a partsman neither sells vehicles nor repairs vehicles himself.  See 29 CFR §779.372(c)(2) (2015) (defining “partsman” as “any employee employed for the purpose of and primarily engaged in requisitioning, stocking, and dispensing parts”).  For the provision to exempt partsmen, then, the phrase “primarily engaged in . . . servicing” must cover some employees who do not themselves perform repair or maintenance.  So “servicing” refers not only to the physical act of repairing or maintaining a vehicle but also to acts integral to the servicing process more generally.
+
+															Respondents’ contrary contentions are unavailing.  They first invoke the distributive canon: “Where a sentence contains several antecedents and several consequents,” the distributive canon instructs courts to “read [those several terms] distributively and apply the words to the subjects which, by context, they seem most properly to relate.”  2A N. Singer & S. Singer, Sutherland on Statu-tory Construction §47.26, on p. 448 (rev. 7th ed. 2014).  Respondents accordingly maintain that
+
+29 U. S. C. §213(b)(10)(A) exempts only salesmen primarily engaged in selling automobiles.  Brief for Respondents 20–26.  But the distributive canon is less helpful in cases such as this because the antecedents and consequents cannot be read-ily matched on a one-to-one basis.  Here, there are three nouns to be matched with only two gerunds, so the canon does not overcome the exemption’s plain meaning.  Perhaps respondents might have a better argument if the statute exempted “salesman or mechanics who primarily engage in selling or servicing automobiles.”  In such a case, one might assume that Congress meant the nouns and gerunds to match on a one-to-one basis, and the distributive canon could be utilized to determine how the matching should occur.  But that is not the statute before us.  For the reasons explained, supra, at 3–4, the plain meaning of the various terms in the exemption establish that the term “salesman” is not limited to only those who sell automobiles.  It also extends to those “primarily engaged in . . . servicing automobiles.”  §213(b)(10)(A).  
+
+															Respondents also resist this natural reading of the exemption by invoking the made-up canon that courts must narrowly construe the FLSA exemptions.  Brief for Respondents 41–42.  The Ninth Circuit agreed with respondents on this score.  780 F. 3d 1267, 1271–1272, n. 3 (2015).  The court should not do so again on remand.  We have declined to apply that canon on two recent occasions, one of which also required the Court to parse the meaning of an exemption in §213.  Christopher v. SmithKline Beecham Corp., 567 U.S. ___, ___–___, n. 21 (2012) (slip op., at 19–20, n. 21); see also Sandifer v. United States Steel Corp., 571 U.S. ___, ___, n. 7 (2014) (slip op., at 11, n. 7).  There is no basis to infer that Congress means anything beyond what a statute plainly says simply because the legislation in question could be classified as “remedial.”  See Scalia, Assorted Canards of Contemporary Legal Analysis, 40 Case W. Res. L. Rev. 581, 581–586 (1990).  Indeed, this canon appears to “res[t] on an elemental misunderstanding of the legislative process,” viz., “that Congress intend[s] statutes to extend as far as possible in service of a singular objective.”  Brief for Chamber of Commerce of the United States of America et al. as Amici Curiae 7.
+
+															*  *  *
+
+															For the foregoing reasons, I would hold that the FLSA exemption set out in §213(b)(10)(A) covers the service advisors in this case.  Service advisors are “primarily engaged in . . . servicing automobiles,” given their integral role in selling and providing vehicle services.  Accordingly, I would reverse the judgment of the Ninth Circuit.
+													

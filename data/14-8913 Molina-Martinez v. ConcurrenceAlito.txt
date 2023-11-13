@@ -1,0 +1,120 @@
+::SCDB_caseID:: 2015-031
+::decision_cite:: 14-8913
+::decision_name::  Molina-Martinez v. United States
+::decision_year:: 2016
+::opinion_author:: Alito
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 14–8913
+
+															_________________
+
+															SAUL MOLINA-MARTINEZ, PETITIONER v.UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[April 20, 2016]
+
+															
+
+															Justice Alito, with whom Justice Thomas joins, concurring in part and concurring in the judgment.
+
+															I agree with the Court that the Fifth Circuit’s rigid approach to unpreserved Guidelines errors is incorrect.  And I agree that petitioner has shown a reasonable probability that the District Court would have imposed a different sentence in his case if his recommended Guidelines sentence had been accurately calculated.  Unlike the Court, however, I would not speculate about how often the reasonable probability test will be satisfied in future cases.  The Court’s predictions in dicta about how plain-error review will play out are predicated on the view that sentencing judges will continue to rely very heavily on the Guidelines in the future, but that prediction may not turn out to be accurate.  We should not make predictions about the future effects of Guidelines errors, particularly since some may misunderstand those predictions as veiled directives.
+
+															I
+
+															“ ‘No procedural principle is more familiar to this Court than that a constitutional right,’ or a right of any other sort, ‘may be forfeited in criminal as well as civil cases by the failure to make timely assertion of the right before the tribunal having jurisdiction to determine it.’ ”  United States v. Olano,
+
+507 U. S. 725,
+731 (1993)
+ (quoting Yakus v. United States,
+
+321 U. S. 414,
+444 (1944)
+).  Consistent with this principle, Rule 52 of the Federal Rules of Criminal Procedure treats defendants who preserve their claims much more favorably than those who fail to register a timely objection.  When the defendant has made a timely objection to an error, the Government generally bears the burden of showing that the error was harmless.  Olano, 507 U. S., at 734.  By contrast, when a defendant has failed to make a timely objection, “[i]t is the defendant rather than the Government who bears the burden of persuasion with respect to prejudice.”  Ibid.; see also id., at 741–742 (Kennedy, J., concurring).
+
+															This framework applies to errors in the calculation of an advisory Guidelines sentence.  If the defendant does not call the error to the attention of the sentencing judge, the defendant may obtain relief on appeal only if he or she proves that the error was prejudicial—specifically, that there is a “reasonable probability” that, but for the error, the sentence would have been different.  United States v. Dominguez Benitez,
+
+542 U. S. 74
+–83 (2004).  Meeting this burden “should not be too easy for defendants.”  Id., at 82.  Instead, the standard should be robust enough to “enforce the policies that underpin Rule 52(b) generally, to encourage timely objections and reduce wasteful reversals by demanding strenuous exertion to get relief for unpreserved error.”  Ibid.  By placing this burden on the defendant, Rule 52(b) compels defense counsel to devote careful attention to the potential complexities of the Guidelines at sentencing, thus providing the district court—which “is ordinarily in the best position to determine the relevant facts and adjudicate the dispute”—with “the opportunity to consider and resolve” any objections.  Puckett v. United States,
+
+556 U. S. 129,
+134 (2009)
+; see also ibid. (“[A]ppellate-court authority to remedy” unpreserved errors “is strictly circumscribed” in order to “induce the timely raising of claims and objections”); United States v. Vonn,
+
+535 U. S. 55,
+73 (2002)
+ (“[T]he value of finality requires defense counsel to be on his toes, not just the judge, and the defendant who just sits there when a mistake can be fixed cannot just sit there when he speaks up later on”); Olano, supra, at 742–743 (Kennedy, J., concurring) (“[T]he operation of Rule 52(b) does not permit a party to withhold an objection . . . and then to demand automatic reversal”).
+
+															Whether a defendant can show a “reasonable probability” of a different sentence depends on the “particular facts and circumstances” of each case.  United States v. Davila, 569 U. S. ___, ___–___ (2013) (slip op., at 13–14).  “We have previously warned against courts’ determining whether an error is harmless through the use of manda-tory presumptions and rigid rules rather than case-specific application of judgment, based upon examination of the record.”  Shinseki v. Sanders,
+
+556 U. S. 396,
+407 (2009)
+ (citing Kotteakos v. United States,
+
+328 U. S. 750,
+760 (1946)
+).  Instead of relying on presumptions, a court of appeals must “engage in [a] full-record assessment” to determine whether a defendant who forfeited a claim of Guidelines error has met his case-specific burden of showing of prejudice.  Davila, supra, at ___ (slip op., at 14).  The answer may be affected by a variety of factors, including any direct evidence, the nature and magnitude of the error, the sentencing judge’s view of the Guidelines,[1] the approach of the circuit in question,[2] and the particular crime at issue.[3]
+
+															Under the specific circumstances here, Molina-Martinez met his burden.  As the Court points out, Molina-Martinez demonstrated that the Guidelines “were the focal point for the proceedings”; that “[t]he 77-month sentence the District Court selected is conspicuous for its position as the lowest sentence within what the District Court believed to be the applicable range”; and that “the District Court’s selection of a sentence at the bottom of the range, despite the Government’s request for the maximum Guidelines sentence, ‘evinced an intention . . . to give the minimum recommended by the Guidelines.’ ”  Ante, at 13.  This evidence establishes a “reasonable probability that the District Court would have imposed a different sentence had it known that 70 months was in fact the lowest sentence the Commission deemed appropriate.”  Ibid. 
+
+															In concluding otherwise, the Fifth Circuit applied exactly the sort of strict, categorical rule against which we have warned.  Under the Fifth Circuit’s approach, Molina-Martinez could not satisfy his burden with circumstantial evidence regarding the parties’ sentencing arguments or the District Court’s selection of a sentence at the very bottom of the range.  See 588 Fed. Appx. 333, 335 (CA5 2014) (per curiam).  Rather, the Fifth Circuit would require a defendant to produce direct evidence, such as an “explicit statement suggesting that the Guidelines range was a primary factor in sentencing.”  Ibid.  But there is no good reason to preclude defendants from showing prejudice via the type of circumstantial evidence at issue here.  As this case illustrates, the manner in which a district court applies an incorrect Guidelines range can itself serve as evidence of an effect on substantial rights.  I thus concur in the Court’s opinion insofar as it rejects the Fifth Circuit’s misguided approach and finds that Molina-Martinez demonstrated a reasonable probability of a different sentence absent the Guidelines error. 
+
+															II
+
+															I cannot, however, join the Court’s dicta speculating that “most” defendants who forfeit a Guidelines error will be able to show a reasonable probability of prejudice.  Ante, at 9, 11, 15.  Things may turn out that way, but I see no reason to prejudge an empirical question that is unnecessary to our decision in this case and that will be worked out by the lower courts on a case-by-case basis.[4]
+
+															The Court’s proclamations about what will occur in “most” cases are based on Sentencing Commission statistics indicating that the Guidelines tend to influence sentences.  See ante, at 10.  Perhaps these statistics are probative of the Guidelines’ current impact on sentencing.  But they provide an unstable and shifting basis for the Court’s prophecies about the future.  The Guidelines are now entirely advisory, see United States v. Booker,
+
+543 U. S. 220,
+245 (2005)
+, and in time the lower courts may increasingly drift away from the Guidelines and back toward the sentencing regime that prevailed prior to their issuance.[5]  As circumstances change, and as judges who spent decades applying mandatory Guidelines ranges are replaced with new judges less wedded to the Guidelines, the statistics underlying the Court’s forecasts may change dramatically.[6]  Because I cannot join the Court’s questionable predictions, I concur only in part and in the judgment. Notes
+
+1
+
+
+		 See, e.g., United States Sentencing Commission, Report on the Continuing Impact of United States v. Booker on Federal Sentencing 3 (2012) (Booker Report) (“[T]he Commission’s analysis of individual judge data showed that the identity of the judge has played an increasingly important role in the sentencing outcomes in many districts”); Bowman, Dead Law Walking: The Surprising Tenacity of the Federal Sentencing Guidelines, 51 Houston L. Rev. 1227, 1266 (2014) (“Inter-Judge Disparity Has . . . Increased Since Booker”); Scott, Inter-Judge Sentencing Disparity After Booker: A First Look, 63 Stan. L. Rev. 1, 30 (2010) (“[I]n their guideline sentencing patterns, judges have responded in starkly different ways to Booker, with some following a ‘free at last’ pattern and others a ‘business as usual’ pattern”).
+	
+
+
+2
+
+
+		 See, e.g., Booker Report 6 (“The influence of the guidelines . . . has varied by circuit”); Bowman, supra, at 1261 (“Different Districts Have Had Very Different Post-Booker Experiences”); Yang, Have Interjudge Sentencing Disparities Increased in an Advisory Guidelines Regime?  Evidence from Booker, 89 N. Y. U. L. Rev. 1268, 1277, 1319–1323 (2014) (presenting “evidence of substantial interdistrict differences in sentencing outcomes”).
+	
+
+
+3
+
+
+		 See, e.g., Booker Report 5 (“The influence of the guidelines . . . has generally remained stable in drug trafficking, firearms, and immigration offenses, but has diminished in fraud and child pornography offenses”).
+	
+
+
+4
+
+
+		 Some of the Court’s dicta could perhaps be interpreted not as predictions, but as instructions to lower courts to side with the forfeiting defendant unless the Government can point to “unusual circum-stances.”  See ante, at 11–12 (“[I]n the ordinary case a defendant will satisfy his burden to show prejudice by pointing to the application of an incorrect, higher Guidelines range and the sentence he received thereunder.  Absent unusual circumstances, he will not be required to show more”).  For several reasons, however, I do not think the opinion can be fairly viewed as requiring such a result.  First, the Court makes clear that today’s decision does not shift the burden of persuasion from a forfeiting defendant to the Government.  See ante, at 14 (Under Rule 52(b), “ ‘[i]t is the defendant rather than the Government who bears the burden of persuasion with respect to prejudice,’ ” and “[t]he holding here does not” shift the burden).  Second, the opinion acknowledges that a “court’s reliance on an incorrect range” will not always “suffice to show an effect on the defendant’s substantial rights”—even where “the record is silent as to what the district court might have done had it considered the correct Guidelines range.”  Ante, at 11.  It follows that even where the Government fails to identify any direct evidence of harmlessness, the defendant cannot automatically satisfy his burden simply by pointing to the application of an incorrect Guidelines range.  Instead of employing a strict presumption against the Government, the Court emphasizes, “a reviewing court must consider the facts and circumstances of the case before it.”  Ibid.; see also ibid. (“ ‘Our essential point is that particular facts and circumstances matter’ ” (quoting United States v. Davila, 569 U. S. ___, ___ (2013) (slip op., at 13))).  Given these caveats, I do not read the Court’s opinion as replacing the Fifth Circuit’s inflexible pro-Government presumption with an equally inflexible pro-defendant presumption.  Rather, I take the Court at its word: “The decision today simply states that courts reviewing sentencing errors cannot apply a categorical rule requiring additional evidence in cases, like this one, where the district court applied an incorrect range but nevertheless sentenced the defendant within the correct range.”  Ante, at 14.   
+	
+
+
+5
+
+
+		 See, e.g., Assessing Booker and Its Aftermath, Practice Under the Federal Sentencing Guidelines §1.02(C)(1), pp. 1–14 to 1–16 (D. Debold ed., 5th ed. 2016) (Debold) (“Since the first weeks after Booker, district courts have been engaged in a dynamic debate over the precise weight to be given the now advisory Guidelines,” and “there are reasons to expect continued evolution in sentencing norms”); id., §1.02(C)(2) (“[D]istrict courts can be expected to continue to test the boundaries of their discretion. . . . Accordingly, while it is clear that district courts now enjoy more discretion at sentencing, the proper bounds of that discretion will continue to be explored”).
+	
+
+
+6
+
+
+		 See, e.g., Yang, 89 N. Y. U. L. Rev., at 1277 (finding that “Judges who have no prior experience sentencing under the mandatory Guidelines regime are more likely to depart from the Guidelines-recommended range than their pre-Booker counterparts, suggesting that newer judges are less anchored to the Guidelines”); id., at 1318–1319 (“The ‘anchor’ effect of the Guidelines sentence may be more prominent for pre-Booker appointees because these judges are more acculturated to and experienced with constraining their sentences to the dictates of the Guidelines.  In contrast, the ‘anchor’ effect is less prominent for post-Booker appointees.  These potential anchoring differences . . . may ‘increase as the years go by and the bench is filled with individuals who have no history with binding guidelines’ ”); see also, e.g., Debold §1.02(C)(1), at 1–16 (“Sentencing judges, particularly more recent appointees, are also growing increasingly skeptical of the Guidelines as they become more comfortable viewing the Guidelines as advice and look deeper into the reasoning supporting (or failing to support) the Guidelines’ recommendations”); Gertner, Supporting Advisory Guidelines, 3 Harv. L. & Pol’y Rev. 261, 270 (2009) (describing continued Guideline sentencing as the result of “the habits ingrained during twenty years of mandatory Guideline sentencing”); Stith, The Arc of the Pendulum: Judges, Prosecutors, and the Exercise of Discretion, 117 Yale L. J. 1420, 1496–1497 (2008) (“[A]s a new generation of prosecutors and judges enters into service, the pendulum may swing back toward the local exercise of informed discretion, if Booker lasts that long.  But incumbent sentencing decision makers may be reluctant to regard as unreasonable the sentences they were obliged to seek and impose for two decades under the command and the conceit of law”).
+	
+
+

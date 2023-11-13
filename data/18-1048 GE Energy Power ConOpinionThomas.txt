@@ -1,0 +1,157 @@
+::SCDB_caseID:: 2019-035
+::decision_cite:: 18-1048
+::decision_name::  GE Energy Power Conversion France SAS v. Outokumpu Stainless USA, LLC
+::decision_year:: 2020
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press. 
+
+															SUPREME COURT OF THE UNITED STATES
+
+															 _________________
+
+															No. 18–1048
+
+															_________________
+
+															GE ENERGY POWER CONVERSION FRANCE SAS, CORP., fka CONVERTEAM SAS, PETITIONER v. OUTOKUMPU STAINLESS USA, LLC, et al.
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 1, 2020]
+
+															Justice Thomas delivered the opinion of the Court. 
+
+															The question in this case is whether the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, June 10, 1958, 21 U. S. T. 2517, T. I. A. S. No. 6997, conflicts with domestic equitable estoppel doctrines that permit the enforcement of arbitration agreements by nonsignatories.  We hold that it does not. 
+
+															I
+
+															In 2007, ThyssenKrupp Stainless USA, LLC, entered into three contracts with F. L. Industries, Inc., for the construction of cold rolling mills at ThyssenKrupp’s steel manufacturing plant in Alabama.  Each of the contracts contained an identical arbitration clause.  The clause provided that “[a]ll disputes arising between both parties in connection with or in the performances of the Contract . . . shall be submitted to arbitration for settlement.”  App. 171.
+
+															After executing these agreements, F. L. Industries, Inc., entered into a subcontractor agreement with petitioner GE Energy Power Conversion France SAS, Corp. (GE Energy), then known as Converteam SAS.  Under that agreement, GE Energy agreed to design, manufacture, and supply motors for the cold rolling mills.  Between 2011 and 2012, GE Energy delivered nine motors to the Alabama plant for installation.  Soon thereafter, respondent Outokumpu Stainless USA, LLC, acquired ownership of the plant from ThyssenKrupp.
+
+															According to Outokumpu, GE Energy’s motors failed by the summer of 2015, resulting in substantial damages. In 2016, Outokumpu and its insurers filed suit against GE Energy in Alabama state court.  GE Energy removed the case to federal court under
+
+9 U. S. C. §205, which authorizes the removal of an action from state to federal court if the action “relates to an arbitration agreement . . . falling under the Convention [on the Recognition and Enforcement of Foreign Arbitral Awards].”  GE Energy then moved to dismiss and compel arbitration, relying on the arbitration clauses in the contracts between F. L. Industries, Inc., and ThyssenKrupp.
+
+															The District Court granted GE Energy’s motion to dismiss and compel arbitration with Outokumpu and Sompo Japan Insurance Company of America.  Outokumpu Stainless USA LLC v. Converteam SAS, 2017 WL 401951 (SD Ala., Jan. 30, 2017).[1]  The court held that GE Energy qualified as a party under the arbitration clauses because the contracts defined the terms “Seller” and “Parties” to include subcontractors.  Id., at *4.  Because the court concluded that both Outokumpu and GE Energy were parties to the agreements, it declined to address GE Energy’s argument that the agreement was enforceable under equitable estoppel.  Id., at *1, n. 1. 
+
+															The Eleventh Circuit reversed the District Court’s order compelling arbitration.  Outokumpu Stainless USA, LLC v. Converteam SAS, 902 F.3d 1316 (2018).  The court interpreted the Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention or Convention) to include a “requirement that the parties actually sign an agreement to arbitrate their disputes in order to compel arbitration.”  Id., at 1326 (emphasis in original).  The court concluded that this requirement was not satisfied because “GE Energy is undeniably not a signatory to the Contracts.”  Ibid.  It then held that GE Energy could not rely on state-law equitable estoppel doctrines to enforce the arbitration agreement as a nonsignatory because, in the court’s view, equitable estoppel conflicts with the Convention’s signatory requirement.  Id., at 1326–1327. 
+
+															Given a conflict between the Courts of Appeals on this question,[2] we granted certiorari.  588 U. S. ___ (2019).
+
+															II
+
+															A
+
+															Chapter 1 of the Federal Arbitration Act (FAA) permits courts to apply state-law doctrines related to the enforcement of arbitration agreements.  Section 2 of that chapter provides that an arbitration agreement in writing “shall be . . . enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.”
+
+9 U. S. C. §2.  As we have explained, this provision requires federal courts to “place [arbitration] agreements ‘ “upon the same footing as other contracts.” ’ ”  Volt Information Sciences, Inc. v. Board of Trustees of Leland Stanford Junior Univ.,
+
+489 U.S. 468, 474 (1989) (quoting Scherk v. Alberto-Culver Co.,
+
+417 U.S. 506, 511 (1974)).  But it does not “alter background principles of state contract law regarding the scope of agreements (including the question of who is bound by them).”  Arthur Andersen LLP v. Carlisle,
+
+556 U.S. 624, 630 (2009).
+
+															The “traditional principles of state law” that apply under Chapter 1 include doctrines that authorize the enforcement of a contract by a nonsignatory.  Id., at 631 (internal quotation marks omitted).  For example, we have recognized that arbitration agreements may be enforced by nonsignatories through “ ‘assumption, piercing the corporate veil, alter ego, incorporation by reference, third-party beneficiary theories, waiver and estoppel.’ ”  Ibid. (quoting 21 R. Lord, Williston on Contracts §57:19, p. 183 (4th ed. 2001)). 
+
+															This case implicates domestic equitable estoppel doctrines.  Generally, in the arbitration context, “equitable estoppel allows a nonsignatory to a written agreement containing an arbitration clause to compel arbitration where a signatory to the written agreement must rely on the terms of that agreement in asserting its claims against the nonsignatory.”  Id., at 200 (2017).  In Arthur Andersen, we recognized that Chapter 1 of the FAA permits a nonsignatory to rely on state-law equitable estoppel doctrines to enforce an arbitration agreement.  556 U. S., at 631–632. 
+
+															B
+
+															The New York Convention is a multilateral treaty that addresses international arbitration.  21 U. S. T. 2517, T. I. A. S. No. 6997.  It focuses almost entirely on arbitral awards.  Article I(1) describes the Convention as applying only to “the recognition and enforcement of arbitral awards.”  Id., at 2519.  Articles III, IV, and V contain recognition and enforcement obligations related to arbitral awards for contracting states and for parties seeking the enforcement of arbitral awards.  Id., at 2519–2520.  Article VI addresses when an award can be set aside or suspended.  Id., at 2520.  And Article VII(1) states that the “Convention shall not . . . deprive any interested party of any right he may have to avail himself of an arbitral award in the manner and to the extent allowed by the law or the treaties of the country where such award is sought to be relied upon.”  Id., at 2520–2521.
+
+															Only one article of the Convention addresses arbitration agreements—Article II.  That article contains only three provisions, each one sentence long.  Article II(1) requires “[e]ach Contracting State [to] recognize an agreement in writing under which the parties undertake to submit to arbitration all or any differences which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not, concerning a subject matter capable of settlement by arbitration.”  Id., at 2519.  Article II(2) provides that “[t]he term ‘agreement in writing’ shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.”  Ibid.  Finally, Article II(3) states that “[t]he court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this article, shall, at the request of one of the parties, refer the parties to arbitration, unless it finds that the said agreement is null and void, inoperative or incapable of being performed.”  Ibid. 
+
+															C
+
+															In 1970, the United States acceded to the New York Convention, and Congress enacted implementing legislation in Chapter 2 of the FAA.  See
+
+84Stat.
+692,
+9 U. S. C. §§201–208.  Chapter 2 grants federal courts jurisdiction over actions governed by the Convention, §203; establishes venue for such actions, §204; authorizes removal from state court, §205; and empowers courts to compel arbitration, §206.  Chapter 2 also states that “Chapter 1 applies to actions and proceedings brought under this chapter to the extent that [Chapter 1] is not in conflict with this chapter or the Convention.”  §208.
+
+															III
+
+															We must determine whether the equitable estoppel doctrines permitted under Chapter 1 of the FAA, see supra, at 3–4, “conflict with . . . the Convention.”  §208.  Applying familiar tools of treaty interpretation, we conclude that they do not conflict.
+
+															A
+
+															“The interpretation of a treaty, like the interpretation of a statute, begins with its text.”  Medellín v. Texas,
+
+552 U.S. 491, 506 (2008).  The text of the New York Convention does not address whether nonsignatories may enforce arbitration agreements under domestic doctrines such as equitable estoppel.  The Convention is simply silent on the issue of nonsignatory enforcement, and in general, “a matter not covered is to be treated as not covered”—a principle “so obvious that it seems absurd to recite it,” A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 93 (2012).  
+
+															This silence is dispositive here because nothing in the text of the Convention could be read to otherwise prohibit the application of domestic equitable estoppel doctrines.  Only one Article of the Convention addresses arbitration agreements—Article II—and only one provision of Article II addresses the enforcement of those agreements—Article II(3).  The text of Article II(3) states that courts of a contracting state “shall . . . refer the parties to arbitration” when the parties to an action entered into a written agreement to arbitrate and one of the parties requests referral to arbitration.  The provision, however, does not restrict contracting states from applying domestic law to refer parties to arbitration in other circumstances.  That is, Article II(3) provides that arbitration agreements must be enforced in certain circumstances, but it does not prevent the application of domestic laws that are more generous in enforcing arbitration agreements.  Article II(3) contains no exclusionary language; it does not state that arbitration agreements shall be enforced only in the identified circumstances.  Given that the Convention was drafted against the backdrop of domestic law, it would be unnatural to read Article II(3) to displace domestic doctrines in the absence of exclusionary language.  Cf. Marx v. General Revenue Corp.,
+
+568 U.S. 371, 380–384 (2013). 
+
+															This interpretation is especially appropriate in the context of Article II.  Far from displacing domestic law, the provisions of Article II contemplate the use of domestic doctrines to fill gaps in the Convention.  For example, Article II(1) refers to disputes “capable of settlement by arbitration,” but it does not identify what disputes are arbitrable, leaving that matter to domestic law.  Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc.,
+
+473 U.S. 614, 639, n. 21 (1985).  Similarly, Article II(3) states that it does not apply to agreements that are “null and void, inoperative or incapable of being performed,” but it fails to define those terms.  Again, the Convention requires courts to rely on domestic law to fill the gaps; it does not set out a comprehensive regime that displaces domestic law.
+
+															In sum, the only provision of the Convention that addresses the enforcement of arbitration agreements is Article II(3).  We do not read the nonexclusive language of that provision to set a ceiling that tacitly precludes the use of domestic law to enforce arbitration agreements.  Thus, nothing in the text of the Convention “conflict[s] with” the application of domestic equitable estoppel doctrines permitted under Chapter 1 of the FAA.
+
+9 U. S. C. §208. 
+
+															B
+
+															“Because a treaty ratified by the United States is ‘an agreement among sovereign powers,’ we have also considered as ‘aids to its interpretation’ the negotiation and drafting history of the treaty as well as ‘the postratification understanding’ of signatory nations.”  Medellín, 552 U. S., at 507 (quoting Zicherman v. Korean Air Lines Co.,
+
+516 U.S. 217, 226 (1996)).  These aids confirm our interpretation of the Convention’s text.
+
+															1
+
+															Our precedents have looked to the “negotiating and drafting history” of a treaty as an aid in determining the shared understanding of the treaty.  Id., at 226.  Invoking this interpretive aid, Outokumpu argues that the Convention’s drafting history establishes a “rule of consent” that “displace[s] varying local laws.”  Brief for Respondents 27.  We are unpersuaded.  For one, nothing in the text of the Convention imposes a “rule of consent” that displaces domestic law—let alone a rule that allows some domestic-law doctrines and not others, as Outokumpu proposes.  The only time the Convention uses the word “consent” is in Article X(3), which addresses ratification and accession procedures.  Moreover, the statements relied on by Outokumpu do not address the specific question whether the Convention prohibits the application of domestic law that would allow nonsignatories to compel arbitration.  Cherry-picked “generalization[s]” from the negotiating and drafting history cannot be used to create a rule that finds no support in the treaty’s text.  Zicherman, 516 U. S., at 227. 
+
+															To the extent the drafting history sheds any light on the meaning of the Convention, it shows only that the drafters sought to impose baseline requirements on contracting states.  As this Court has recognized, “[i]n their discussion of [Article II], the delegates to the Convention voiced frequent concern that courts of signatory countries . . . should not be permitted to decline enforcement of such agreements on the basis of parochial views of their desirability or in a manner that would diminish the mutually binding nature of the agreements.”  Scherk, 417 U. S., at 520, n. 15 (citing G. Haight, Convention on the Recognition and Enforcement of Foreign Arbitral Awards: Summary Analysis of Record of United Nations Conference, May/June 1958, pp. 24–28 (1958)).  Nothing in the drafting history suggests that the Convention sought to prevent contracting states from applying domestic law that permits nonsignatories to enforce arbitration agreements in additional circumstances.  
+
+															2
+
+															 “[T]he postratification understanding” of other contracting states may also serve as an aid to our interpretation of a treaty’s meaning.  Medellín, 552 U. S., at 507 (internal quotation marks omitted).  To discern this understanding, we have looked to the “[d]ecisions of the courts of other Convention signatories,” El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng,
+
+525 U.S. 155, 175 (1999), as well as the “postratification conduct” of the governments of contracting states, Zicherman, 516 U. S., at 227. 
+
+															Here, the weight of authority from contracting states indicates that the New York Convention does not prohibit the application of domestic law addressing the enforcement of arbitration agreements.  The courts of numerous contracting states permit enforcement of arbitration agreements by entities who did not sign an agreement.  See 1 G. Born, International Commercial Arbitration §10.02, pp. 1418–1484 (2d ed. 2014) (compiling cases).  The United States identifies at least one contracting state with domestic legislation illustrating a similar understanding.  See Brief for United States as Amicus Curiae 28 (discussing Peru’s national legislation).  And GE Energy points to a recommendation issued by the United Nations Commission on International Trade Law that, although not directly addressing Article II(3), adopts a nonexclusive interpretation of Article II(1) and (2).  Report of the United Nations Commission on International Trade Law on the Work of Its Thirty-Ninth Session, Recommendation Regarding the Interpretation of Article II, Paragraph 2, and Article VII, Paragraph 1, of the Convention on the Recognition and Enforcement of Foreign Arbitral Awards ¶¶1, 2, U. N. Doc. A/61/17, annex II (July 7, 2006) (UN recommendation).  
+
+															These sources, while generally pointing in one direction, are not without their faults.  The court decisions, domestic legislation, and UN recommendation relied on by the parties occurred decades after the finalization of the New York Convention’s text in 1958.  This diminishes the value of these sources as evidence of the original shared understanding of the treaty’s meaning.  Moreover, unlike the actions and decisions of signatory nations, we have not previously relied on UN recommendations to discern the meaning of treaties.  See also Yang v. Majestic Blue Fisheries, LLC, 876 F.3d 996, 1000–1001 (CA9 2017) (declining to give weight to the 2006 UN recommendation).  But to the extent this evidence is given any weight, it confirms our interpretation of the Convention’s text. 
+
+															3
+
+															Finally, the parties dispute whether the Executive’s interpretation of the New York Convention should affect our analysis.  The United States claims that we should apply a “ ‘canon of deference’ ” and give “ ‘ “great weight” ’ ” to an interpretation set forth by the Executive in an amicus brief submitted to the D. C. Circuit in 2014.  Brief for United States as Amicus Curiae 30 (quoting Abbott v. Abbott,
+
+560 U.S. 1, 15 (2010)); see also Brief for United States as Amicus Curiae in No. 13–7004 (CADC), pp. 7, 9.  GE Energy echoes this request.  Outokumpu, on the other hand, argues that the Executive’s noncontemporaneous interpretation sheds no light on the meaning of the treaty, asserting that the Executive expressed the “opposite . . . view at the time of the Convention’s adoption.”  Brief for Respondents 33.  Outokumpu asserts that this Court has repeatedly rejected executive interpretations that contradict the treaty’s text or the political branches’ previous understanding of a treaty.  Id., at 34–35 (citing, e.g., Chan v. Korean Air Lines, Ltd.,
+
+490 U.S. 122, 136 (1989) (Brennan, J., concurring in judgment); Perkins v. Elg,
+
+307 U.S. 325, 328, 337–349 (1939)).
+
+															We have never provided a full explanation of the basis for our practice of giving weight to the Executive’s interpretation of a treaty.  Nor have we delineated the limitations of this practice, if any.  But we need not resolve these issues today.  Our textual analysis aligns with the Executive’s interpretation so there is no need to determine whether the Executive’s understanding is entitled to “weight” or “deference.”  Cf. Edelman v. Lynchburg College,
+
+535 U.S. 106, 114–115, n. 8 (2002) (“[T]here is no need to resolve deference issues when there is no need for deference”).  
+
+															IV
+
+															The Court of Appeals did not analyze whether Article II(3) of the New York Convention conflicts with equitable estoppel.  Instead, the court held that Article II(1) and (2) include a “requirement that the parties actually sign an agreement to arbitrate their disputes in order to compel arbitration.”  902 F. 3d, at 1326.  But those provisions address the recognition of arbitration agreements, not who is bound by a recognized agreement.  Article II(1) simply requires contracting states to “recognize an agreement in writing,” and Article II(2) defines the term “agreement in writing.”  Here, the three agreements at issue were both written and signed.[3]  Only Article II(3) speaks to who may request referral under those agreements, and it does not prohibit the application of domestic law.  See supra, at 6–7.
+
+															Because the Court of Appeals concluded that the Convention prohibits enforcement by nonsignatories, the court did not determine whether GE Energy could enforce the arbitration clauses under principles of equitable estoppel or which body of law governs that determination.  Those questions can be addressed on remand.  We hold only that the New York Convention does not conflict with the enforcement of arbitration agreements by nonsignatories under domestic-law equitable estoppel doctrines.
+
+															*  *  *
+
+															For the foregoing reasons, we reverse the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion. 
+
+															It is so ordered.
+Notes
+1
+ The District Court later granted GE Energy’s motion to compel arbitration with additional insurers.  Outokumpu Stainless USA LLC v. Converteam SAS, 2017 WL 480716 (SD Ala., Feb. 3, 2017). 
+
+2
+ Compare 902 F.3d 1316, 1326 (CA11 2018), and Yang v. Majestic Blue Fisheries, LLC, 876 F.3d 996, 1001–1002 (CA9 2017), with Aggarao v. MOL Ship Mgmt. Co., 675 F.3d 355, 375 (CA4 2012), and Sourcing Unlimited, Inc. v. Asimco Int’l, Inc., 526 F.3d 38, 48 (CA1 2008). 
+
+3
+ We do not address whether Article II(2) requires a signed agreement. 
+
+

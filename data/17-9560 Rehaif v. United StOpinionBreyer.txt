@@ -1,0 +1,190 @@
+::SCDB_caseID:: 2018-066
+::decision_cite:: 17-9560
+::decision_name::  Rehaif v. United States
+::decision_year:: 2019
+::opinion_author:: Breyer
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–9560
+
+															_________________
+
+															HAMID MOHAMED AHMED ALI REHAIF, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 21, 2019]
+
+															
+
+															Justice Breyer delivered the opinion of the Court.
+
+															A federal statute,
+
+18 U. S. C. §922(g), provides that “[i]t shall be unlawful” for certain individuals to possess firearms.  The provision lists nine categories of individuals subject to the prohibition, including felons and aliens who are “illegally or unlawfully in the United States.”  Ibid.  A separate provision, §924(a)(2), adds that anyone who “knowingly violates” the first provision shall be fined or imprisoned for up to 10 years.  (Emphasis added.)
+
+															The question here concerns the scope of the word “knowingly.”  Does it mean that the Government must prove that a defendant knew both that he engaged in the relevant conduct (that he possessed a firearm) and also that he fell within the relevant status (that he was a felon, an alien unlawfully in this country, or the like)?  We hold that the word “knowingly” applies both to the defendant’s conduct and to the defendant’s status.  To convict a defendant, the Government therefore must show that the defendant knew he possessed a firearm and also that he knew he had the relevant status when he possessed it.
+
+															I
+
+															Petitioner Hamid Rehaif entered the United States on a nonimmigrant student visa to attend university.  After he received poor grades, the university dismissed him and told him that his “ ‘immigration status’ ” would be terminated unless he transferred to a different university or left the country.  App. to Pet. for Cert. 3a.  Rehaif did neither.
+
+															Rehaif subsequently visited a firing range, where he shot two firearms.  The Government learned about his target practice and prosecuted him for possessing firearms as an alien unlawfully in the United States, in violation of §922(g) and §924(a)(2).  At the close of Rehaif’s  trial, the judge instructed the jury (over Rehaif’s objection) that the “United States is not required to prove” that Rehaif “knew that he was illegally or unlawfully in the United States.”  App. to Pet. for Cert. 4a (internal quotation marks omitted).  The jury returned a guilty verdict, and Rehaif was sentenced to 18 months’ imprisonment.
+
+															Rehaif appealed.  He argued that the judge erred in instructing the jury that it did not need to find that he knew he was in the country unlawfully.  The Court of Appeals for the Eleventh Circuit, however, concluded that the jury instruction was correct, and it affirmed Rehaif’s conviction.  See 888 F.3d 1138, 1148 (2018).  The Court of Appeals believed that the criminal law generally does not require a defendant to know his own status, and further observed that no court of appeals had required the Government to establish a defendant’s knowledge of his status in the analogous context of felon-in-possession prosecutions.  Id., at 1145–1146.
+
+															We granted certiorari to consider whether, in prosecutions under §922(g) and §924(a)(2), the Government must prove that a defendant knows of his status as a person barred from possessing a firearm.  We now reverse.
+
+															II
+
+															Whether a criminal statute requires the Government to prove that the defendant acted knowingly is a question of congressional intent.  See Staples v. United States,
+
+511 U.S. 600, 605 (1994).  In determining Congress’ intent, we start from a longstanding presumption, traceable to the common law, that Congress intends to require a defendant to possess a culpable mental state regarding “each of the statutory elements that criminalize otherwise innocent conduct.”  United States v. X-Citement Video, Inc.,
+
+513 U.S. 64, 72 (1994); see also Morissette v. United States,
+
+342 U.S. 246, 256–258 (1952).  We normally characterize this interpretive maxim as a presumption in favor of “scienter,” by which we mean a presumption that criminal statutes require the degree of knowledge sufficient to “mak[e] a person legally responsible for the consequences of his or her act or omission.”  Black’s Law Dictionary 1547 (10th ed. 2014).
+
+															We apply the presumption in favor of scienter even when Congress does not specify any scienter in the statutory text.  See Staples, 511 U. S., at 606.  But the presumption applies with equal or greater force when Congress includes a general scienter provision in the statute itself.  See ALI, Model Penal Code §2.02(4), p. 22 (1985) (when a statute “prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears”).
+
+															A
+
+															Here we can find no convincing reason to depart from the ordinary presumption in favor of scienter.  The statutory text supports the presumption.  The text of §924(a)(2) says that “[w]hoever knowingly violates” certain subsections of §922, including §922(g), “shall be” subject to penalties of up to 10 years’ imprisonment.  The text of §922(g) in turn provides that it “shall be unlawful for any person . . . , being an alien . . . illegally or unlawfully in the United States,” to “possess in or affecting commerce, any firearm or ammunition.”
+
+															The term “knowingly” in §924(a)(2) modifies the verb “violates” and its direct object, which in this case is §922(g).  The proper interpretation of the statute thus turns on what it means for a defendant to know that he has “violate[d]” §922(g).  With some here-irrelevant omissions, §922(g) makes possession of a firearm or ammunition unlawful when the following elements are satisfied: (1) a status element (in this case, “being an alien . . . illegally or unlawfully in the United States”); (2) a possession element (to “possess”); (3) a jurisdictional element (“in or affecting commerce”); and (4) a firearm element (a “firearm or ammunition”).
+
+															No one here claims that the word “knowingly” modifies the statute’s jurisdictional element.  Jurisdictional elements do not describe the “evil Congress seeks to prevent,” but instead simply ensure that the Federal Government has the constitutional authority to regulate the defendant’s conduct (normally, as here, through its Commerce Clause power).  Luna Torres v. Lynch, 578 U. S. ___, ___–___ (2016) (slip op., at 15–16).  Because jurisdictional elements normally have nothing to do with the wrongfulness of the defendant’s conduct, such elements are not subject to the presumption in favor of scienter.  See id., at ___ (slip op., at 16).
+
+															Jurisdictional element aside, however, the text of §922(g) simply lists the elements that make a defendant’s behavior criminal.  As “a matter of ordinary English grammar,” we normally read the statutory term “ ‘knowingly’ as applying to all the subsequently listed elements of the crime.”  Flores-Figueroa v. United States,
+
+556 U.S. 646, 650 (2009); see also id., at 652 (we “ordinarily read a phrase in a criminal statute that introduces the elements of a crime with the word ‘knowingly’ as applying that word to each element”).  This is notably not a case where the modifier “knowingly” introduces a long statutory phrase, such that questions may reasonably arise about how far into the statute the modifier extends.  See id., at 659 (Alito, J., concurring in part).  And everyone agrees that the word “knowingly” applies to §922(g)’s possession element, which is situated after the status element.  We see no basis to interpret “knowingly” as applying to the second §922(g) element but not the first.  See United States v. Games-Perez, 667 F.3d 1136, 1143 (CA10 2012) (Gorsuch, J., concurring).  To the contrary, we think that by specifying that a defendant may be convicted only if he “knowingly violates” §922(g), Congress intended to require the Government to establish that the defendant knew he violated the material elements of §922(g).
+
+															B
+
+															Beyond the text, our reading of §922(g) and §924(a)(2) is consistent with a basic principle that underlies the criminal law, namely, the importance of showing what Blackstone called “a vicious will.”  4 W. Blackstone, Commentaries on the Laws of England 21 (1769).  As this Court has explained, the understanding that an injury is criminal only if inflicted knowingly “is as universal and persistent in mature systems of law as belief in freedom of the human will and a consequent ability and duty of the normal individual to choose between good and evil.”  Morissette, 342 U. S., at 250.  Scienter requirements advance this basic principle of criminal law by helping to “separate those who understand the wrongful nature of their act from those who do not.”  X-Citement Video, 513 U. S., at 72–73, n. 3.
+
+															The cases in which we have emphasized scienter’s importance in separating wrongful from innocent acts are legion.  See, e.g., id., at 70; Staples, 511 U. S., at 610; Liparota v. United States,
+
+471 U.S. 419, 425 (1985); United States v. Bailey,
+
+444 U.S. 394, 406, n. 6 (1980); United States v. United States Gypsum Co.,
+
+438 U.S. 422, 436 (1978); Morissette, 342 U. S., at 250–251.  We have interpreted statutes to include a scienter requirement even where the statutory text is silent on the question.  See Staples, 511 U. S., at 605.  And we have interpreted statutes to include a scienter requirement even where “the most grammatical reading of the statute” does not support one.  X-Citement Video, 513 U. S., at 70.
+
+															Applying the word “knowingly” to the defendant’s status in §922(g) helps advance the purpose of scienter, for it helps to separate wrongful from innocent acts.  Assuming compliance with ordinary licensing requirements, the possession of a gun can be entirely innocent.  See Staples, 511 U. S., at 611.  It is therefore the defendant’s status, and not his conduct alone, that makes the difference.  Without knowledge of that status, the defendant may well lack the intent needed to make his behavior wrongful.  His behavior may instead be an innocent mistake to which criminal sanctions normally do not attach.  Cf. O. Holmes, The Common Law 3 (1881) (“even a dog distinguishes between being stumbled over and being kicked”).
+
+															We have sometimes declined to read a scienter requirement into criminal statutes.  See United States v. Balint,
+
+258 U.S. 250, 254 (1922).  But we have typically declined to apply the presumption in favor of scienter in cases involving statutory provisions that form part of a “regulatory” or “public welfare” program and carry only minor penalties.  See Staples, 511 U. S., at 606; Morissette, 342 U. S., at 255–259.  The firearms provisions before us are not part of a regulatory or public welfare program, and they carry a potential penalty of 10 years in prison that we have previously described as “harsh.”  X-Citement Video, 513 U. S., at 72.  Hence, this exception to the presumption in favor of scienter does not apply.
+
+															III
+
+															The Government’s arguments to the contrary do not convince us that Congress sought to depart from the normal presumption in favor of scienter.
+
+															The Government argues that Congress does not normally require defendants to know their own status.  But the Government supports this claim primarily by referring to statutes that differ significantly from the provisions at issue here.  One of these statutes prohibits “an officer, employee, contractor, or consultant of the United States” from misappropriating classified information.
+
+18 U. S. C. §1924(a).  Another statute applies to anyone “at least eighteen years of age” who solicits a minor to help avoid detection for certain federal crimes.
+
+21 U. S. C. §861(a)(2).  A third applies to a “parent [or] legal guardian” who allows his child to be used for child pornography.
+
+18 U. S. C. §2251(b).
+
+															We need not decide whether we agree or disagree with the Government’s interpretation of these statutes.  In the provisions at issue here, the defendant’s status is the “crucial element” separating innocent from wrongful conduct.  X-Citement Video, 513 U. S., at 73.  But in the statutes cited by the Government, the conduct prohibited—misappropriating classified information, seeking to evade detection for certain federal crimes, and facilitating child pornography—would be wrongful irrespective of the defendant’s status.  This difference assures us that the presumption in favor of scienter applies here even assuming the Government is right that these other statutes do not require knowledge of status.
+
+															Nor do we believe that Congress would have expected defendants under §922(g) and §924(a)(2) to know their own statuses.  If the provisions before us were construed to require no knowledge of status, they might well apply to an alien who was brought into the United States unlawfully as a small child and was therefore unaware of his un- lawful status.  Or these provisions might apply to a person who was convicted of a prior crime but sentenced only to probation, who does not know that the crime is “punish- able by imprisonment for a term exceeding one year.”  §922(g)(1) (emphasis added); see also Games-Perez, 667 F. 3d, at 1138 (defendant held strictly liable regarding his status as a felon even though the trial judge had told him repeatedly—but incorrectly—that he would “leave this courtroom not convicted of a felony”).  As we have said, we normally presume that Congress did not intend to impose criminal liability on persons who, due to lack of knowledge, did not have a wrongful mental state.  And we doubt that the obligation to prove a defendant’s knowledge of his status will be as burdensome as the Government suggests.  See Staples, 511 U. S., at 615, n. 11 (“knowledge can be inferred from circumstantial evidence”).
+
+															The Government also argues that whether an alien is “illegally or unlawfully in the United States” is a question of law, not fact, and thus appeals to the well-known maxim that “ignorance of the law” (or a “mistake of law”) is no excuse.  Cheek v. United States,
+
+498 U.S. 192, 199 (1991).
+
+															This maxim, however, normally applies where a defendant has the requisite mental state in respect to the elements of the crime but claims to be “unaware of the existence of a statute proscribing his conduct.”  1 W. LaFave &  A. Scott, Substantive Criminal Law §5.1(a), p. 575 (1986).  In contrast, the maxim does not normally apply where a defendant “has a mistaken impression concerning the legal effect of some collateral matter and that mistake results in his misunderstanding the full significance of his conduct,” thereby negating an element of the offense.  Ibid.; see also Model Penal Code §2.04, at 27 (a mistake of law is a defense if the mistake negates the “knowledge . . . required to establish a material element of the offense”).  Much of the confusion surrounding the ignorance-of-the-law maxim stems from “the failure to distinguish [these] two quite different situations.”  LaFave, Substantive Criminal Law §5.1(d), at 585.
+
+															We applied this distinction in Liparota, where we considered a statute that imposed criminal liability on “whoever knowingly uses, transfers, acquires, alters, or possesses” food stamps “in any manner not authorized by the statute or the regulations.”  471 U. S., at 420 (quotation altered).  We held that the statute required scienter not only in respect to the defendant’s use of food stamps, but also in respect to whether the food stamps were used in a “manner not authorized by the statute or regulations.”  Id., at 425, n. 9.  We therefore required the Government to prove that the defendant knew that his use of food stamps was unlawful—even though that was a question of law.  See ibid.
+
+															This case is similar.  The defendant’s status as an alien “illegally or unlawfully in the United States” refers to a legal matter, but this legal matter is what the commentators refer to as a “collateral” question of law.  A defendant who does not know that he is an alien “illegally or unlawfully in the United States” does not have the guilty state of mind that the statute’s language and purposes require.
+
+															The Government finally turns for support to the statu- tory and legislative history.  Congress first enacted a criminal statute prohibiting particular categories of persons from possessing firearms in 1938.  See Federal Firearms Act,
+
+52Stat.
+1250.  In 1968, Congress added new cate- gories of persons subject to the prohibition.  See Omnibus Crime Control and Safe Streets Act,
+
+82Stat.
+197.  Then, in 1986, Congress passed the statute at issue here, the Firearms Owners’ Protection Act,
+
+100Stat.
+449, note following
+
+18 U. S. C. §921, which reorganized the prohibition on firearm possession and added the language providing that only those who violate the prohibition “knowingly” may be held criminally liable.
+
+															The Government says that, prior to 1986, the courts had reached a consensus that the law did not require the Government to prove scienter regarding a defendant’s status.  And the Government relies on the interpretive canon providing that when particular statutory language has received a settled judicial construction, and Congress subsequently reenacts that “same language,” courts should presume that Congress intended to ratify the judicial consensus.  Helsinn Healthcare S. A. v. Teva Pharmaceuticals USA, Inc., 586 U. S. ___, ___ (2019) (slip op., at 7).
+
+															Prior to 1986, however, there was no definitive judicial consensus that knowledge of status was not needed.  This Court had not considered the matter.  As the Government says, most lower courts had concluded that the statute did not require knowledge of status.  See, e.g., United States v. Pruner, 606 F.2d 871, 874 (CA9 1979).  But the Sixth Circuit had held to the contrary, specifically citing the risk that a defendant “may not be aware of the fact” that barred him from possessing a firearm. United States v. Renner, 496 F.2d 922, 926 (1974).  And the Fourth Circuit had found that knowledge of a defendant’s status was not needed because the statute “[b]y its terms” did not require knowledge of status.  United States v. Williams, 588 F.2d 92 (1978) (per curiam).
+
+															This last-mentioned circumstance is important.  Any pre-1986 consensus involved the statute as it read prior to 1986—without any explicit scienter provision.  But Congress in 1986 added a provision clarifying that a defendant could be convicted only if he violated the prohibition on firearm possession “knowingly.”  This addition, which would serve no apparent purpose under the Government’s view, makes it all but impossible to draw any inference that Congress intended to ratify a pre-existing consensus when, in 1986, it amended the statute.
+
+															The Government points to the House Report on the legislation, which says that the 1986 statute would require the Government to prove “that the defendant’s conduct was knowing.”  H. R. Rep. No. 99–495, p. 10 (1986) (emphasis added).  Although this statement speaks of “conduct” rather than “status,” context suggests that the Report may have meant the former to include the latter.  In any event, other statements suggest that the word “knowingly” was intended to apply to both conduct and status.  The Senate Report, for example, says that the proposed amendments sought to exclude “individuals who lack all criminal intent and knowledge,” without distinguishing between conduct and status.  S. Rep. No. 97–476, p. 15 (1982).  And one Senate sponsor of the bill pointed out that the absence of a scienter requirement in the prior statutes had resulted in “severe penalties for unintentional missteps.”  132 Cong. Rec. 9590 (1986) (statement of Sen. Hatch).
+
+															Thus, assuming without deciding that statutory or legislative history could overcome the longstanding presumption in favor of scienter, that history here is at best inconclusive.
+
+															*  *  *
+
+															The Government asks us to hold that any error in the jury instructions in this case was harmless.  But the lower courts did not address that question.  We therefore leave the question for those courts to decide on remand.  See Thacker v. TVA, 587 U. S. ___, ___ (2019) (slip op., at 10) (citing Cutter v. Wilkinson,
+
+544 U.S. 709, 718, n. 7 (2005)).
+
+															We conclude that in a prosecution under
+
+18 U. S. C. §922(g) and §924(a)(2), the Government must prove both that the defendant knew he possessed a firearm and that he knew he belonged to the relevant category of persons barred from possessing a firearm.  We express no view, however, about what precisely the Government must prove to establish a defendant’s knowledge of status in respect to other §922(g) provisions not at issue here.  See post, at 13–15 (Alito, J., dissenting) (discussing other statuses listed in §922(g) not at issue here).  We accordingly reverse the judgment of the Court of Appeals and re- mand the case for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+
+															
+
+															
+
+															APPENDIX
+
+															
+
+18 U. S. C. §924(a)(2)
+
+															“Whoever knowingly violates subsection (a)(6), (d), (g), (h), (i), (j), or (o) of section 922 shall be fined as provided in this title, imprisoned not more than 10 years, or both.”
+
+															
+
+															
+
+18 U. S. C. §922(g)
+
+															“It shall be unlawful for any person—
+
+															“(1) who has been convicted in any court of, a crime punishable by imprisonment for a term exceeding one year;
+
+															“(2) who is a fugitive from justice;
+
+															“(3) who is an unlawful user of or addicted to any controlled substance . . . ;
+
+															“(4) who has been adjudicated as a mental defective or who has been committed to a mental institution;
+
+															“(5) who, being an alien—(A) is illegally or unlawfully in the United States; or (B) . . . has been admitted to the United States under a nonimmigrant visa (as that term is defined in section 101(a)(26) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(26)));
+
+															“(6) who has been discharged from the Armed Forces under dishonorable conditions;
+
+															“(7) who, having been a citizen of the United States, has renounced his citizenship;
+
+															“(8) who is subject to a court order that—(A) was issued after a hearing of which such person received actual notice, and at which such person had an opportunity to participate; (B) restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child; and (C)(i) includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or (ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury; or
+
+															“(9) who has been convicted in any court of a misdemeanor crime of domestic violence,
+
+															to ship or transport in interstate or foreign commerce, or possess in or affecting commerce, any firearm or ammunition; or to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce.”
+													

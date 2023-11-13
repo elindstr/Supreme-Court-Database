@@ -1,0 +1,102 @@
+::SCDB_caseID:: 2020-067
+::decision_cite:: 19-8709
+::decision_name::  Greer v. United States
+::decision_year:: 2021
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–8709 and 20–444
+
+															_________________
+
+															GREGORY GREER, PETITIONER
+
+															19–8709v.
+
+															UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															
+
+															UNITED STATES, PETITIONER
+
+															20–444v.
+
+															MICHAEL ANDREW GARY
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															 [June 14, 2021]
+
+															
+
+															Justice Sotomayor, concurring as to No. 19–8709, and concurring in part, dissenting in part, and dissenting from the judgment as to No. 20–444.
+
+															For years, all 12 Courts of Appeals with criminal jurisdiction agreed that a defendant need not know he is a felon to be guilty of being a felon in possession of a firearm under 18 U. S. C. §§922(g)(1) and 924(a)(2).  This Court came to the opposite conclusion in Rehaif v. United States, 588 U. S. ___ (2019).  Gregory Greer’s and Michael Gary’s felon-in-possession convictions were not yet final when Rehaif was decided.  The District Court did not inform Gary of the knowledge-of-status element at his plea colloquy, and Greer’s District Court did not instruct the jury that it had to make a knowledge-of-status finding to convict.  Neither Greer nor Gary objected to those omissions.  The question now is whether they have shown that their convictions should be vacated under plain-error review.
+
+															I agree with the Court that Greer is not entitled to such relief because he cannot show that the trial error affected his substantial rights.  I write separately to highlight two limits on today’s decision.  First, the Court’s analysis in Greer’s case does not extend to the distinct context of harmless-error review, which applies when defendants contemporaneously object at trial.  Second, the knowledge-of-status element is an element just like any other.  The Government must prove it beyond a reasonable doubt, and defendants seeking relief based on Rehaif errors bear only the usual burden on plain-error review.  With that understanding, I join the portions of the Court’s opinion addressing Greer’s case and affirming the judgment of the Court of Appeals for the Eleventh Circuit.
+
+															As to Gary, I agree with the Court that the Court of Appeals for the Fourth Circuit erred in holding that the District Court’s failure to inform Gary of the knowledge-of-status element automatically entitled him to relief on plain-error review.  Unlike this Court, I would not decide in the first instance whether Gary can make a case-specific showing that the error affected his substantial rights.  I would instead vacate the judgment below and remand for the Fourth Circuit to address that question.  I therefore respectfully dissent from the judgment as to Gary.
+
+															I
+
+															A
+
+															Greer was found guilty by a jury that was not instructed on the knowledge-of-felon-status element required by Rehaif.  To obtain relief on plain-error review, Greer must show, among other things, that the error affected his substantial rights.  Here, that means Greer must show a reasonable probability that a correctly instructed jury would have reasonably doubted that he knew he was a felon when he possessed the gun.  Greer has not carried that burden.
+
+															The evidence at trial showed that, while Greer was talking to police officers, he “touched the right side of his waistband repeatedly” and then sprinted away when the officers said they were going to pat him down for weapons.  798 Fed. Appx. 483, 485 (CA11 2020) (per curiam).  Two officers followed him into a stairwell and “heard the dull sound of a heavy object fall to the ground.”  Ibid.  A third found a pistol lying on the landing.  Ibid.
+
+															Greer’s presentence report shows that, before he possessed the gun at issue, “he accrued five felony convictions” and “served separate sentences of 36 months and of 20 months in prison.”  Id., at 486.  He was released from custody just six months before his arrest in this case.  Greer was an adult when he was convicted of these felonies and when he served these two separate sentences of well over a year.  As the Court explains, this evidence outside the trial record is relevant to whether Greer has shown an effect on his substantial rights.
+
+															On appeal, Greer had notice of the Rehaif requirement and an opportunity to rebut the force of this evidence.  He has not done so.  He therefore has not shown a reasonable probability that the jury in an error-free trial would reasonably doubt that he knew of his felon status when he possessed the gun.  As a result, the error did not affect his substantial rights.
+
+															B
+
+															Critically, this type of analysis is not permissible in the “harmless error” context.  When a defendant contemporaneously objects and is wrongly overruled, appellate courts generally review for harmless error.  See Fed. Rule Crim. Proc. 52(a).  Under that standard, the Government retains the burden to show that any constitutional error is harmless beyond a reasonable doubt.  See Neder v. United States,
+
+527 U.S. 1, 7 (1999).  Considering evidence outside the record and placing any evidentiary weight on the defendant’s silence would be patently unfair in that context.
+
+															On harmless-error review, defendants have not forfeited any of their rights, including their right to have a jury decide whether there is reasonable doubt as to any element of the crime charged.  For that reason, a constitutional error is harmless only if there is no reasonable doubt about whether it affected the jury’s actual verdict in the actual trial.  See, e.g., Sullivan v. Louisiana,
+
+508 U.S. 275, 279 (1993) (reviewing courts must determine “what effect [the error] had upon the guilty verdict in the case at hand”).  Incriminating evidence the jury never considered is irrelevant to that inquiry.  See Yates v. Evatt,
+
+500 U.S. 391, 404–406 (1991) (courts “must ask what evidence the jury actually considered in reaching its verdict” to decide the basis on which “the jury actually rested its verdict”).  Appellate courts cannot find errors harmless simply because they believe that inculpatory evidence the Government never put before the jury (like Greer’s presentence report) is sufficient to find the defendant guilty.
+
+															Nor have defendants on harmless-error review forfeited their right to require the Government to prove its case beyond a reasonable doubt.  The Court places great weight on the fact that Greer has not explained how he might convince a jury to doubt that he knew he was a felon.  See ante, at 6.  On harmless-error review, courts cannot put such weight on a defendant’s failure to make an affirmative case.  The burden of proof beyond a reasonable doubt remains squarely with the Government.
+
+															In sum, if the Government fails to carry its burden, over the defendant’s objection, appellate courts cannot correct that shortcoming by looking to incriminating evidence the Government never submitted to the jury or by relying on the defendant’s failure to demonstrate his own innocence on appeal.  Cf. In re Winship,
+
+397 U.S. 358, 364 (1970) (a “free society” requires that “every individual . . . have confidence that his government cannot adjudge him guilty of a criminal offense without convincing a proper factfinder of his guilt with utmost certainty”).  The Court’s approach in Greer’s case is a function of the shifted burden of persuasion under the substantial-rights prong of plain-error review.  It has no application in the harmless-error context.
+
+															C
+
+															Today’s decision also should not be read to create a legal presumption that every individual convicted of a felony understands he is a felon.  The Government must prove the knowledge-of-status element beyond a reasonable doubt, just like any other element.  Standing alone, the fact of a prior felony conviction is hardly enough to meet that exacting standard.  Individuals convicted of crimes carrying a potential term of incarceration of more than one year may “ordinarily” or “typically” know that fact.  Ante, at 2, 4, 6.  But that is a far cry from proof beyond a reasonable doubt that any individual person on trial knew his status when he possessed a gun.
+
+															Nor does today’s decision impose a uniquely heavy burden on defendants who must establish that a Rehaif error affected their substantial rights.  Such defendants must make only the same showing as any other defendant at this stage: a reasonable probability of a different outcome.  Defendants who show a reasonable probability that a properly instructed jury would have had reasonable doubts about the knowledge-of-status element are entitled to relief.
+
+															There are many reasons a defendant might not know a prior conviction could have led to a sentence of more than a year in prison.  Most obviously, as the Court recognized in Rehaif, “a person who was convicted of a prior crime but sentenced only to probation [may] not know that the crime [was] ‘punishable by imprisonment for a term exceeding one year.’ ”  588 U. S., at ___ (slip op., at 8).  Even if a defendant was incarcerated for over a year, moreover, that does not necessarily eliminate reasonable doubt that he knew of his felon status.  For example, a defendant may not understand that a conviction in juvenile court or a misdemeanor under state law can be a felony for purposes of federal law.  Or he likewise might not understand that pretrial detention was included in his ultimate sentence.[1]  Confusion along these lines becomes more likely as time passes.
+
+															If a defendant demonstrates why a jury in an error-free trial might have reasonable doubts as to the knowledge-of-felon-status element, he has shown a reasonable probability of a different outcome.  That is so even if the fact of a prior felony conviction is uncontested, and even if the reviewing court would still vote to convict were it sitting on the jury in the first instance.  After all, reasonable judges and juries often disagree.[2]
+
+															With these clarifications, I join the portions of the Court’s opinion affirming the judgment of the Eleventh Circuit.
+
+															II
+
+															I dissent from the judgment as to Gary.  The question the United States asked the Court to answer is “[w]hether a defendant who pleaded guilty to possessing a firearm as a felon . . . is automatically entitled to plain-error relief if the district court did not advise him that one element of that offense is knowledge of his status as a felon.”  Pet. for Cert. in No. 20–444, p. I.  That was the sole basis for the Fourth Circuit’s decision that the Rehaif error affected Gary’s substantial rights, see 954 F.3d 194, 203–208 (2020).
+
+															For the reasons the Court articulates, I agree that automatic relief is inappropriate.  Gary must therefore make a case-specific showing that the error affected his substantial rights.  Unlike Greer, Gary argues he can do so.  See Brief for Respondent in No. 20–444, pp. 46–50; Tr. of Oral Arg. in No. 20–444, pp. 38–40.  The Government addresses these contentions on the merits, with no mention of forfeiture.  See Reply Brief in No. 20–444, pp. 7–9.  “Any further consideration of that question is properly addressed by the [Court of Appeals] on remand, subject to ordinary principles of waiver and forfeiture.”  McDonough v. Smith, 588 U. S. ___, ___, n. 3 (2019) (slip op., at 6, n. 3); see also Retirement Plans Comm. of IBM v. Jander, 589 U. S. ___, ___ (2020) (per curiam) (slip op., at 3) (“[T]he Court of Appeals should have an opportunity to decide whether to entertain these arguments in the first instance”).  I would limit our decision to the question presented and would vacate and remand for the Fourth Circuit to decide all remaining issues.  I respectfully dissent from the judgment as to Gary.
+Notes
+1
+ Presentence reports can also be materially wrong or incomplete in ways that did not matter at sentencing but might be critical to a Rehaif defense.  For instance, they might incorrectly describe the time a defendant spent actually incarcerated, or not reflect a defendant’s mental illness or the fact that a prior court erroneously described the consequences of conviction.  As the Court recognizes and the Government repeatedly represented at oral argument, see ante, at 5; Tr. of Oral Arg. in No. 19–8709, pp. 42–43, 50–51, 61–62; Tr. of Oral Arg. in No. 20–444, pp. 16–17, defendants may rely on new evidence to support any arguments like these on appeal. 
+
+2
+ Compare, e.g., United States v. Lockhart, 947 F.3d 187, 206 (CA4 2020) (en banc) (Rushing, J., dissenting) (predicting the Government would not have “ ‘any difficulty at all in offering overwhelming proof that [the defendant] knew’ ” his status in light of his more than “six years in prison”), with Electronic Case Filing in No. 3:15–cr–34 (WDNC) (ECF), Doc. 72, pp. 14–16 (defense closing argument at trial on remand, arguing exclusively that the defendant did not know of his status based on juvenile convictions); ECF Doc. 68 (jury verdict of not guilty). 
+
+

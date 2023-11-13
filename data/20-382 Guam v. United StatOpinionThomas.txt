@@ -1,0 +1,115 @@
+::SCDB_caseID:: 2020-060
+::decision_cite:: 20-382
+::decision_name::  Guam v. United States
+::decision_year:: 2021
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–382
+
+															_________________
+
+															TERRITORY OF GUAM, PETITIONER v.  UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the district of columbia circuit
+
+															[May 24, 2021]
+
+															
+
+															Justice Thomas delivered the opinion of the Court.
+
+															The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, commonly known as CERCLA, establishes a complex statutory scheme for responding to certain environmental hazards.
+
+94Stat.
+2767, as amended,
+
+42 U. S. C. §9601 et seq.  Several of its provisions address what is often the crucial question in a remedial action: Who pays?
+
+															Today’s case involves §113(f )(3)(B) of the Act,[1] which allows “[a] person who has resolved its liability to the United States or a State” in a settlement to seek “contribution”—that is, money from another responsible individual.  The question is whether a party must resolve a CERCLA-specific liability in order to trigger this right, or whether a broader array of settlements involving environmental liability will do.  We hold that CERCLA contribution requires resolution of a CERCLA-specific liability.
+
+															I
+
+															Guam and the United States are engaged in a long-running dispute over the Ordot Dump, a “ ‘280-foot mountain of trash’ ” near the center of the island.  950 F.3d 104, 109 (CADC 2020).  The Navy constructed the dump in the 1940s, and then allegedly deposited toxic military waste there for several decades.  The United States later ceded control of the site to Guam, which itself used the dump as a public landfill.  But that did not end the Federal Government’s involvement.  In the late 20th century, the Environmental Protection Agency (EPA) determined that the dump posed an ecological hazard.  After Guam allegedly failed to comply with agency directives to remediate the site, the EPA sued under the Clean Water Act, asserting that Guam was “ ‘discharging pollutants . . . into waters of the United States without obtaining a permit.’ ”  Ibid.
+
+															That litigation ended in 2004, when Guam and the EPA entered into a consent decree.  The decree required Guam, among other things, to pay a civil penalty and to close and cover the dump.  Guam’s compliance would, in turn, be “in full settlement and satisfaction of the civil judicial claims of the United States . . . as alleged in the Complaint”—that is, claims under the Clean Water Act.  Id., at 116.  But Guam was not completely free.  As the agreement explained, “the United States d[id] not waive any rights or remedies available to it for any violation by the Government of Guam of federal and territorial laws and regulations,” “[e]xcept as specifically provided [i]n [the decree].”  App. to Pet. for Cert. 166a.
+
+															Thirteen years later, it was Guam’s turn to sue—this time under CERCLA.  According to Guam’s complaint, the United States’ earlier use of the dump exposed it to liability on two fronts.  The first was a cost-recovery action under §107(a), which allows a State (or here, a Territory), to recover “all costs of [a] removal or remedial action” from “any person who at the time of disposal of any hazardous substance owned or operated any facility at which such hazardous substances were disposed of.”  See also §101(27).  The second was a §113(f ) “contribution” action.  Under that provision, a “person who has resolved its liability to the United States . . . for some or all of a response action or for some or all of the costs of such action in [a ] settlement may seek contribution from any person who is not [already] party to a [qualifying] settlement.”  §113(f )(3)(B).
+
+															Rather than increase Guam’s odds of recovery, however, the second legal theory led to the dismissal of its complaint.  According to the D. C. Circuit, if a party can assert a contribution claim under §113(f ), it cannot assert a cost-recovery claim under §107(a).  See 950 F. 3d, at 111.  The court then determined that Guam possessed a contribution claim—at least at one point—because the remedial measures and conditional release in the Clean Water Act decree sufficiently “ ‘resolved Guam’s liability’ ” for the dump.  Id., at 114–117 (brackets omitted).  But because the 2004 decree had triggered the since-expired 3-year statute of limitations for contribution actions, Guam had no remedy at all.  Id., at 107, 117; see also §113(g)(3).  We granted certiorari.  592 U. S. ___ (2021).
+
+															II
+
+															Guam now attacks two links in this chain of reasoning: First, Guam retreats from its complaint and argues that it never had a viable contribution claim under §113(f ), leaving it free to pursue a cost-recovery action under §107(a).  The reason, argues Guam, is that a contribution claim arises only if a settlement resolves liability under CERCLA, and not under some other law such as the Clean Water Act.  Second, Guam contends that even if resolution of a non-CERCLA liability is enough, the decree did not adequately “resolve” any sort of liability because Guam did not formally admit responsibility and because the agreement left Guam open to future enforcement action.
+
+															We need only address the first point to decide this case.[2]  A settlement must resolve a CERCLA liability to trigger a contribution action under §113(f )(3)(B).
+
+															Our analysis focuses on the totality of subsection 113(f ), which governs the scope of a “contribution” claim under CERCLA.  This subsection begins with an anchor provision—entitled “contribution”—that allows “[a]ny person [to] seek contribution from any other person who is liable or potentially liable under section [1]07(a) of [CERCLA], during or following any civil action under section [1]06 of [CERCLA] or under section [1]07(a) of [CERCLA].”  §113(f )(1).  It next describes how parties can insulate themselves from contribution, explaining that “[a] person who has resolved its liability to the United States or a State in an administrative or judicially approved settlement shall not be liable for claims for contribution regarding matters addressed in the settlement.”  §113(f )(2).  And finally, it discusses the treatment of “[p]ersons not party to [a] settlement.”  §113(f )(3).  Most relevant here, “[a] person who has resolved its liability to the United States . . . for some or all of a response action or for some or all of the costs of such action in an administrative or judicially approved settlement may seek contribution from any person who is not party to a settlement referred to in [§113(f )(2)].”  §113(f )(3)(B).
+
+															That this subsection centers on and is entitled “contribution” is the first clue that it is concerned only with the distribution of CERCLA liability.  A contribution suit does not exist in a vacuum, but rather is a tool for apportioning the burdens of a predicate “common liability” among the responsible parties.  United States v. Atlantic Research Corp.,
+
+551 U.S. 128, 138–139 (2007); see also Northwest Airlines, Inc. v. Transport Workers,
+
+451 U.S. 77, 86–87 (1981).  The most obvious place to look for that threshold liability is CERCLA’s reticulated statutory matrix of environmental duties and liabilities.  Cf. Burlington N. & S. F. R. Co. v. United States,
+
+556 U.S. 599, 610 (2009) (“[Section 107(a)(3)] liability may not extend beyond the limits of the statute itself ”).  After all, “[s]tatutes must ‘be read as a whole,’ ” Atlantic Research, 551 U. S., at 135—an especially salient approach in this case given that CERCLA’s very title reinforces that it is a “Comprehensive” Act.
+
+															Remaining within the bounds of CERCLA is also consistent with the familiar principle that a federal contribution action is virtually always a creature of a specific statutory regime.  See Northwest Airlines, 451 U. S., at 90–91, 95–97 (noting a “narrow exception” for admiralty cases).  In fact, there is no “general federal right to contribution” whatsoever.  Id., at 96; cf. Middlesex County Sewerage Authority v. National Sea Clammers Assn.,
+
+453 U.S. 1, 13–15 (1981) (refusing to “assum[e] that Congress intended to authorize by implication additional judicial remedies for private citizens suing under [two environmental statutes]”).  That modest understanding is difficult to reconcile with the United States’ invitation to treat §113(f )(3)(B) as a free-roving contribution right for a host of environmental liabilities arising under other laws.
+
+															The interlocking language and structure of the relevant text confirm this understanding.  The provision at issue here—§113(f )(3)(B)—recognizes a statutory right to contribution in the specific circumstance where a person “has resolved its liability” via “settlement.”  But as explained above, this entitlement to postsettlement contribution does not stand alone.  On the contrary, §113(f )(3)(B) exists within “ ‘the specific context’ ” of subsection (f ), which outlines the broader workings of CERCLA contribution.  Merit Management Group, LP v. FTI Consulting, Inc., 583 U. S. ___, ___ (2018) (slip op., at 11).
+
+															This §113(f ) family of contribution provisions anticipates a predicate CERCLA liability, especially when properly read in “sequenc[e]” as “ ‘integral parts of a whole.’ ”  New Prime Inc. v. Oliveira, 586 U. S. ___, ___ (2019) (slip op., at 4); see also Cooper Industries, Inc. v. Aviall Services, Inc.,
+
+543 U.S. 157, 167 (2004) (looking to “the whole of §113”).  The §113(f )(1) anchor provision is especially clear on this point, allowing contribution “during or following any civil action under §[1]06 of this title or under §[1]07 of this title.”  See also id., at 166 (“The natural meaning of [§113(f )(1)] is that contribution may only be sought . . . ‘during or following’ a specified civil action”).  And though §§113(f )(2) and 113(f )(3) are not quite as explicit, their phrasing and context still presume that a CERCLA liability is necessary to trigger contribution.
+
+															Section 113(f )(2), for example, explains that a settlement by one party “does not discharge any of the other potentially liable persons unless its terms so provide.”  (Emphasis added.)  The highlighted phrase is a “natural referent” to the text of the anchor provision, United States v. Briggs, 592 U. S. ___, ___ (2020) (slip op., at 3), which creates a CERCLA-specific contribution right against “any other person who is liable or potentially liable under §[1]07 of [CERCLA],” §113(f )(1) (emphasis added).
+
+															Section 113(f )(3)(B)—the provision at issue here—also has language that is best “understood only with reference” to the CERCLA regime.  Atlantic Research, 551 U. S., at 135; see also Sturgeon v. Frost,
+
+577 U.S. 424, 438 (2016).  The provision’s final clause explains that contribution is available “from any person who is not party to a settlement referred to in [§113(f )(2)].”  As discussed above, §113(f )(2) in turn mirrors the §113(f )(1) anchor provision that requires a predicate CERCLA liability.  Section 113(f )(3)(B)’s opening clause separately ties itself to the CERCLA regime by permitting contribution after a party “has resolved its liability . . . for some or all of a response action or for some or all of the costs of such action.”  (Emphasis added.)  Not only does the anchor provision also discuss allocation of “response costs,” §113(f )(1), but the phrase “response action” is a familiar CERCLA phrase that appears dozens of times throughout the Act.  E.g., §101 (12 appearances); §107 (17 appearances).
+
+															To be sure, as the Government points out, remedial measures that a party takes under another environmental statute might resemble steps taken in a formal CERCLA “response action.”  But relying on that functional overlap to reinterpret the phrase “resolved its liability . . . for some or all of a response action” to mean “settled an environmental liability that might have been actionable under CERCLA” would stretch the statute beyond Congress’ actual language.
+
+															Perhaps more important, the Government’s interpretation would place undue stress on the word “resolve.”  This term conveys certainty and finality.  See Webster’s Third New International Dictionary 1933 (1986) (“make clear or certain”); American Heritage Dictionary 1107 (1981) (“remove or dispel (doubts); . . . bring to a conclusion”).[3]  It would be rather odd to say that a party has “resolved its liability” if that party remains vulnerable to a CERCLA suit.  All the more so given that it will not always be clear whether the substance of a prior environmental settlement was sufficiently similar to a quasi-CERCLA “response action.”  As even the Government admits, “ ‘response action’ is, indeed, a broad term, [but] it is not an unlimited term [that covers] everything under the sun.”  Tr. of Oral Arg. 39–40; cf. 950 F. 3d, at 116 (comparing Guam’s obligations under the Clean Water Act decree to CERCLA’s “definition of a ‘remedial action’ ”).  Rather than requiring parties and courts to estimate whether a prior settlement was close enough to CERCLA, the far simpler approach is to ask whether a settlement expressly discharged a CERCLA liability.[4]
+
+															No more persuasive are the United States’ efforts to emphasize the differences among §113(f )’s provisions.  The Government observes that §113(f )(3)(B)—unlike the §113(f )(1) anchor provision—does not expressly demand a predicate CERCLA action.  That distinction, so the argument goes, implies that a broader range of environmental liabilities can trigger §113(f )(3)(B).  See Russello v. United States,
+
+464 U.S. 16, 23 (1983) (“ ‘[W]here Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion’ ”).  But this effort to tear §113(f )(3)(B) away from its companions based on a negative implication falters in light of the other strong textual links among them.  See Marx v. General Revenue Corp.,
+
+568 U.S. 371, 381 (2013); Entergy Corp. v. Riverkeeper, Inc.,
+
+556 U.S. 208, 222 (2009).  Section 113(f )(3)(B)’s use of the familiar phrase “response action,” express cross-reference to another CERCLA provision, and placement in the statutory scheme prevent us from so easily severing it from the larger Act.
+
+															Similarly unavailing is the Government’s theory that a tightly unified interpretation of these provisions would create surplusage problems.  The United States argues, for example, that a reading of §113(f )(3)(B) that does nothing more than allow a party to seek contribution after settling a CERCLA liability would be redundant with §113(f )(1), which already permits contribution “during or following any civil action under [§§106 and 107].”  But there is legitimate reason for separate provisions, even if both allow contribution only for a CERCLA liability.  For example, §113(f )(3)(B) specifies the consequences of a particular type of resolution (i.e., settlement), explaining that an “administrative or judicially approved settlement” is sufficient and reinforcing that a contribution claim will not extend to parties who have already settled.  This sort of belt-and-suspenders approach hardly compels an all-encompassing reading of §113(f )(3)(B).  Cf. Rimini Street, Inc. v. Oracle  USA, Inc., 586 U. S. ___, ___ (2019) (slip op., at 11) (“We have recognized that some redundancy is hardly unusual in statutes addressing costs” (internal quotation marks omitted)).  Rather than try “to avoid surplusage at all costs,” Atlantic Research, 551 U. S., at 137, we interpret §113(f )(3)(B) in light of its text and place within a comprehensive statutory scheme.
+
+															*  *  *
+
+															The most natural reading of §113(f )(3)(B) is that a party may seek contribution under CERCLA only after settling a CERCLA-specific liability.  We thus reverse the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+ For the sake of simplicity, we cite CERCLA’s provisions as they appear in the Act itself.  The most relevant corresponding sections of Title 42 of the U. S. Code are §9607 (§107 of CERCLA) and §9613 (§113 of CERCLA). 
+
+2
+ Guam has not challenged other portions of the lower court’s reasoning, so we express no opinion on them. 
+
+3
+ See also §113(f )(2) (“A person who has resolved its liability [in a] settlement shall not be liable for claims for contribution regarding matters addressed in the settlement” (emphasis added)); United States v. Atlantic Research Corp.,
+
+551 U.S. 128, 141 (2007) (“[S]ettlement [under §113(f )(2)] carries the inherent benefit of finally resolving liability as to the United States or a State” (emphasis added)). 
+
+4
+ This straightforward inquiry has the additional “benefit” of “provid[ing] clarity” for the 3-year statute of limitations.  United States v. Briggs, 592 U. S. ___, ___ (2020) (slip op., at 4).  If a broad, textually undefined set of environmental settlements could start the clock on a §113(f )(3)(B) contribution action, a party who did not realize that his non-CERCLA settlement overlaps with a hypothetical CERCLA response action might fail to sue in time. 
+
+

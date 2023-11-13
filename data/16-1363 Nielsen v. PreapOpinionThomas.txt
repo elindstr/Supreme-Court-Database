@@ -1,0 +1,79 @@
+::SCDB_caseID:: 2018-010
+::decision_cite:: 16-1363
+::decision_name::  Nielsen v. Preap
+::decision_year:: 2019
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 16–1363
+
+															_________________
+
+															KIRSTJEN M. NIELSEN, SECRETARY OF HOMELAND SECURITY, et al., PETITIONERS v. MONY PREAP, et al.
+
+															BRYAN WILCOX, ACTING FIELD OFFICE DIRECTOR, IMMIGRATION AND CUSTOMS ENFORCEMENT, et al., PETITIONERS v. BASSAM YUSUF KHOURY, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[March 19, 2019]
+
+															
+
+															Justice Thomas, with whom Justice Gorsuch joins, concurring in part and concurring in the judgment.
+
+															I continue to believe that no court has jurisdiction to decide questions concerning the detention of aliens before final orders of removal have been entered.  See Jennings v. Rodriguez, 583 U. S. ___, ___–___ (2018) (Thomas, J., concurring in part and concurring in judgment) (slip op., at 1–11).  By my count, Congress has erected at least three barriers to our review of the merits, and I also question whether Article III jurisdiction existed at the time of class certification.  Nonetheless, because the Court has held that we have jurisdiction in cases like these, and because I largely agree with the Court’s resolution of the merits, I join all but Parts II and III–B–2 of the Court’s opinion.
+
+															I
+
+															Respondents consist of two classes of aliens who committed criminal offenses that require the Secretary of Homeland Security to detain them without a bond hearing under
+
+8 U. S. C. §1226(c), but who were not detained immediately upon release from criminal custody.  Respondents argued that, by failing to immediately detain them, the Secretary lost the authority to deny them a bond hearing when they were rearrested.
+
+															The first class action was brought in the Northern District of California and has three class representatives.  One of the plaintiffs, Mony Preap, received cancellation of removal and was not in immigration custody at the time of certification.  The other two, Eduardo Vega Padilla and Juan Lozano Magdaleno, had received bond hearings as required by a Ninth Circuit decision, Rodriguez v. Robbins, 715 F.3d 1127, 1138 (2013); Padilla had been released, while Magdaleno was denied release.  The District Court certified a class of all aliens in California who are or will be subjected to mandatory detention under §1226(c) and who were not or will not have been taken into custody by the Government immediately upon their release from criminal custody for a §1226(c)(1) offense.  The court issued a preliminary injunction requiring the Government to provide all class members with bond hearings under §1226(a).
+
+															The second class action was brought in the Western District of Washington and also has three class representatives: Bassam Yusuf Khoury and Alvin Rodriguez Moya, who had been released on bond before class certification after their Rodriguez hearings, and Pablo Carrera Zavala, who was released before class certification because the Department of Homeland Security determined that he had not committed a predicate §1226(c)(1) offense.  The District Court certified a class of all aliens in its judicial district who were not detained immediately upon their release from criminal custody but were subjected to mandatory detention under §1226(c).  The court entered a declaratory judgment barring the Government from subjecting class members to detention under §1226(c) unless it took the alien into custody immediately upon release.
+
+															II
+
+															At least three statutory provisions limit judicial review here, and I am skeptical whether the District Courts had Article III jurisdiction to certify the classes.
+
+															A
+
+															First, §1252(b)(9) bars judicial review of “all questions of law and fact, including interpretation and application of constitutional and statutory provisions, arising from any action taken or proceeding brought to remove an alien from the United States,” except for review of “a final order” or other circumstances not present here.  These cases raise questions of law or fact arising from removal proceedings—“[d]etention is necessarily a part of [the] deportation procedure” that culminates in the removal of the alien, Carlson v. Landon,
+
+342 U.S. 524, 538 (1952)—and they do not come to us on review of final orders of removal.  Thus, for the reasons I set forth in Jennings, supra, at ___–___ (slip op., at 1–11), no court has jurisdiction over these class actions.
+
+															B
+
+															Second, §1226(e) provides that “[n]o court may set aside any action or decision by the [Secretary] under this section regarding the detention or release of any alien or the grant, revocation, or denial of bond or parole.”  (Emphasis added.)  This provision “unequivocally deprives federal courts of jurisdiction to set aside ‘any action or decision’ by the [Secretary]” regarding detention, discretionary or otherwise.  Demore v. Kim,
+
+538 U.S. 510, 533 (2003) (O’Connor, J., concurring in part and concurring in judgment); see Jennings, supra, at ___, n. 6 (slip op., at 11, n. 6).  The Court once again reads this language as permitting judicial review for challenges to the “statutory framework as a whole.”  Ante, at 7 (internal quotation marks omitted).  But the text of the statute contains no such exception.  Accordingly, I continue to think that no court has jurisdiction over these kinds of actions.
+
+															C
+
+															Third, §1252(f)(1) deprives district courts of “jurisdiction or authority to enjoin or restrain the operation of [§§1221–1232] other than with respect to the application of such provisions to an individual alien against whom proceedings under [§§1221–1232] have been initiated.”  The text of §1252(f)(1) explicitly prohibits the classwide injunctive relief ordered by the Northern District of California in this instance, given that the class includes future, yet-to-be detained aliens against whom proceedings have not been initiated.  See Reno v. American-Arab Anti-Discrimination Comm.,
+
+525 U.S. 471, 481 (1999) (explaining that §1252(f)(1) “prohibits federal courts from granting classwide injunctive relief against the operation of §§1221–1231”).  The District Court relied on Rodriguez v. Hayes, 591 F.3d 1105 (CA9 2010), which held that this provision does not affect authority to enjoin alleged violations of the specified statutes because those claims do not “seek to enjoin the operation of the immigration detention statutes, but to enjoin conduct . . . not authorized by the statutes.”  Id., at 1120.  This reasoning is circular and unpersuasive.  Many claims seeking to enjoin or restrain the operation of the relevant statutes will allege that the Executive’s action does not comply with the statutory grant of authority, but the text clearly bars jurisdiction to enter an injunction “[r]egardless of the nature of the ac- tion or claim.”  Although the Court avoids deciding whether §1252(f)(1) prevented the District Court’s injunction here, ante, at 8, I would hold that it did.
+
+															D
+
+															Finally, I harbor two concerns about whether the class actions were moot at the time of certification.  First, as the Court recognizes, class actions are ordinarily “moot if no named class representative with an unexpired claim remain[s] at the time of class certification.”  United States v. Sanchez-Gomez, 584 U. S. ___, ___ (2018) (slip op., at 4); ante, at 9.  At the time of class certification, all six of the named plaintiffs had received bond hearings or cancellation of removal.  As I understand the plaintiffs’ arguments, that was the full relief that they sought: “individualized bond hearings where they may attempt to prove that their release would not create a risk of flight or danger to the public.”  Motion for Class Certification in Preap v. Beers, No. 4:13–cv–5754 (ND Cal.), Doc. 8, p. 8; see Complaint for Injunctive and Declaratory Relief in Preap, supra, Doc. 1, p. 3 (seeking “immediate individualized bond hearings”); First Amended Class Action Complaint in Khoury v. Asher, No. 2:13–cv–1367 (WD Wash.), Doc. 19, p. 13 (requesting relief of “individualized bond hearings to all Plaintiffs”).  The Court concludes that some of the named plaintiffs still faced the threat of rearrest and mandatory detention at the time of class certification because the bond hearings that they received were pro- vided as part of a preliminary injunction in a separate case that was later dissolved.  But whether the plaintiffs actually faced that threat has not been addressed by the parties, and I question whether this future contingency was sufficiently imminent to support Article III jurisdiction.
+
+															If the threat of rearrest and mandatory detention was too speculative to support jurisdiction, I disagree with the Court that our jurisdiction would be saved by our precedent on transitory claims.  Ante, at 9–10.  We have held that a court has Article III jurisdiction to certify a class action when the named plaintiffs’ claims have become moot if the claim is “so inherently transitory that the trial court will not have even enough time to rule on a motion for class certification before the proposed representative’s individual interest expires.”  United States Parole Comm’n v. Geraghty,
+
+445 U.S. 388, 399 (1980).  The “inherently transitory” exception is measured from the time that the complaint is filed to the court’s ruling on the motion for class certification.  See Genesis HealthCare Corp. v. Symczyk,
+
+569 U.S. 66, 75–77 (2013).  In other words, the named plaintiff’s standing in a class action need not exist throughout the lifecycle of the entire lawsuit.  Here, Members of the Court have recognized that aliens are held, on average, for one year, and sometimes longer.  See Jennings, 583 U. S., at ___ (Breyer, J., dissenting) (slip op., at 3) (noting that detention for aliens is “often lengthy,” sometimes lasting years).  I am not persuaded that the plaintiffs’ claims are so “inherently transitory” as to preclude a ruling on class certification, especially since both District Courts certified the classes here within a year of the filing of the complaints.  Cf. County of Riverside v. McLaughlin,
+
+500 U.S. 44, 47, 52 (1991) (finding jurisdiction over a class action that challenged a county’s failure to provide “prompt” probable-cause hearings within the 48-hour window for arraignments, as required by state law).
+
+															*  *  *
+
+															Because three statutes deprive courts of jurisdiction over respondents’ claims, I would have vacated the judgments below and remanded with instructions to dismiss the cases for lack of jurisdiction.  But because the Court has held otherwise and I agree with the Court’s disposition of the merits, I concur in all but Parts II and III–B–2 of its opinion.
+													

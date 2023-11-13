@@ -1,0 +1,94 @@
+::SCDB_caseID:: 2003-058
+::decision_cite:: 541 U.S. 465 (2004)
+::decision_name::  Till v. SCS Credit Corp.
+::decision_year:: 2004
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+
+THOMAS, J., CONCURRING IN JUDGMENT
+TILL V. SCS CREDIT CORP.
+541 U. S. ____ (2004)
+SUPREME COURT OF THE UNITED STATES
+NO. 02-1016
+
+
+
+
+
+															LEE M. TILL, et ux., PETITIONERS v. SCS
+CREDIT CORPORATION
+
+															on writ of certiorari to the united states court of appeals for the seventh circuit
+
+															[May 17, 2004]
+
+
+
+															   Justice Thomas, concurring in the judgment.
+
+															
+   This case presents the issue of what the proper method is for discounting deferred payments to present value and what compensation the creditor is entitled to in calculating the appropriate discount rate of interest.  Both the plurality and the dissent agree that “[a] debtor’s promise of future payments is worth less than an immediate payment of the same total amount because the creditor cannot use the money right away, inflation may cause the value of the dollar to decline before the debtor pays, and there is always some risk of nonpayment.”  Ante, at 7; post, at 1.  Thus, the plurality and the dissent agree that the proper method for discounting deferred payments to present value should take into account each of these factors, but disagree over the proper starting point for calculating the risk of nonpayment.
+
+															   I agree that a “promise of future payments is worth less than an immediate payment” of the same amount, in part because of the risk of nonpayment.  But this fact is irrelevant.  The statute does not require that the value of the promise to distribute property under the plan be no less than the allowed amount of the secured creditor’s claim.  It requires only that “the value … of property to be distributed under the plan,” at the time of the effective date of the plan, be no less than the amount of the secured creditor’s claim.  11 U. S. C. §1325(a)(5)(B)(ii) (emphasis added).  Both the plurality and the dissent ignore the clear text of the statute in an apparent rush to ensure that secured creditors are not undercompensated in bankruptcy proceedings.  But the statute that Congress enacted does not require a debtor-specific risk adjustment that would put secured creditors in the same position as if they had made another loan.  It is for this reason that I write separately.  
+
+															I
+
+															   “It is well established that ‘when the statute’s language is plain, the sole function of the courts—at least where the disposition required by the text is not absurd—is to enforce it according to its terms.’ ”  Lamie v. United States Trustee, 540 U. S. ___, ___ (2004) (slip op., at 6–7) (quoting Hartford Underwriters Ins. Co. v. Union Planters Bank, N. A., 530 U. S. 1, 6 (2000)).  Section 1325(a)(5)(B) provides that “with respect to each allowed secured claim provided for by the plan,” “the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim [must] not [be] less than the allowed amount of such claim.”  Thus, the statute requires a bankruptcy court to make at least three separate determinations.  First, a court must determine the allowed amount of the claim.  Second, a court must determine what is the “property to be distributed under the plan.”  Third, a court must determine the “value, as of the effective date of the plan,” of the property to be distributed.
+
+															   The dispute in this case centers on the proper method to determine the “value, as of the effective date of the plan, of property to be distributed under the plan.”  The requirement that the “value” of the property to be distributed be determined “as of the effective date of the plan” incorporates the principle of the time value of money.  To put it simply, $4,000 today is worth more than $4,000 to be received 17 months from today because if received today, the $4,000 can be invested to start earning interest immediately.[Footnote 1]  See Encyclopedia of Banking & Finance 1015 (9th ed. 1991).  Thus, as we explained in Rake v. Wade, 508 U. S. 464 (1993), “[w]hen a claim is paid off pursuant to a stream of future payments, a creditor receives the ‘present value’ of its claim only if the total amount of the deferred payments includes the amount of the underlying claim plus an appropriate amount of interest to compensate the creditor for the decreased value of the claim caused by the delayed payments.”  Id., at 472, n. 8.
+
+															
+
+   Respondent argues, and the plurality and the dissent agree, that the proper interest rate must also reflect the risk of nonpayment.  But the statute contains no such requirement.  The statute only requires the valuation of the “property to be distributed,” not the valuation of the plan (i.e., the promise to make the payments itself).  Thus, in order for a plan to satisfy §1325(a)(5)(B)(ii), the plan need only propose an interest rate that will compensate a creditor for the fact that if he had received the property immediately rather than at a future date, he could have immediately made use of the property.  In most, if not all, cases, where the plan proposes simply a stream of cash payments, the appropriate risk-free rate should suffice.
+
+															
+
+   Respondent here would certainly be acutely aware of any risk of default inherent in a Chapter 13 plan, but it is nonsensical to speak of a debtor’s risk of default being inherent in the value of “property” unless that property is a promise or a debt.  Suppose, for instance, that it is currently time A, the property to be distributed is a house, and it will be distributed at time B.  Although market conditions might cause the value of the house to fluctuate between time A and time B, the fluctuating value of the house itself has nothing to do with the risk that the debtor will not deliver the house at time B.  The value of the house, then, can be and is determined entirely without any reference to any possibility that a promise to transfer the house would not be honored.  So too, then, with cash: the value of the cash can be and is determined without any inclusion of any risk that the debtor will fail to transfer the cash at the appropriate time.
+
+															
+
+   The dissent might be correct that the use of the prime rate,[Footnote 2] even with a small risk adjustment, “will systematically undercompensate secured creditors for the true risks of default.”  Post, at 1.[Footnote 3]  This systematic undercompensation might seem problematic as a matter of policy.  But, it raises no problem as a matter of statutory interpretation.  Thus, although there is always some risk of nonpayment when A promises to repay a debt to B through a stream of payments over time rather than through an immediate lump sum payment, §1325(a)(5)(B)(ii) does not take this risk into account.
+
+															
+
+   This is not to say that a debtor’s risk of nonpayment can never be a factor in determining the value of the property to be distributed.  Although “property” is not defined in the Bankruptcy Code, nothing in §1325 suggests that “property” is limited to cash.  Rather, “ ‘property’ can be cash, notes, stock, personal property or real property; in short, anything of value.”  7 Collier on Bankruptcy &para  ;1129.03[7][b][i], p. 1129–44 (15th ed. 2003) (discussing Chapter 11’s cram down provision).  And if the “property to be distributed” under a Chapter 13 plan is a note (i.e., a promise to pay), for instance, the value of that note necessarily includes the risk that the debtor will not make good on that promise.  Still, accounting for the risk of nonpayment in that case is not equivalent to reading a risk adjustment requirement into the statute, as in the case of a note, the risk of nonpayment is part of the value of the note itself.
+
+															
+
+   Respondent argues that “Congress crafted the requirements of section 1325(a)(5)(B)(ii) for the protection of creditors, not debtors,” and thus that the relevant interest rate must account for the true risks and costs associated with a Chapter 13 debtor’s promise of future payment.  Brief for Respondent 24 (citing Johnson v. Home State Bank, 501 U. S. 78, 87–88 (1991)).  In addition to ignoring the plain language of the statute, which requires no such risk adjustment, respondent overlooks the fact that secured creditors are already compensated in part for the risk of nonpayment through the valuation of the secured claim.  In Associates Commercial Corp. v. Rash, 520 U. S. 953 (1997), we utilized a secured-creditor-friendly replacement-value standard rather than the lower foreclosure-value standard for valuing secured claims when a debtor has exercised Chapter 13’s cram down option.  We did so because the statute at issue in that case reflected Congress’ recognition that “[i]f a debtor keeps the property and continues to use it, the creditor obtains at once neither the property nor its value and is exposed to double risks:  The debtor may again default and the property may deteriorate from extended use.”  Id., at 962.
+
+															
+
+   Further, the plain language of the statute is by no means specifically debtor protective.  As the Court pointed out in Johnson, supra, at 87–88, §1325 contains a number of provisions to protect creditors: A bankruptcy court can only authorize a plan that “has been proposed in good faith,” §1325(a)(3); secured creditors must accept the plan, obtain the property securing the claim, or “retain the[ir] lien[s]” and receive under the plan distributions of property which equal “not less than the allowed amount of such claim,” §1325(a)(5); and a bankruptcy court must ensure that “the debtor will be able to make all payments under the plan and to comply with the plan,” §1325(a)(6).  Given the presence of multiple creditor-specific protections, it is by no means irrational to assume that Congress opted not to provide further protection for creditors by requiring a debtor-specific risk adjustment under §1325(a)(5).  Although the dissent may feel that this is insufficient compensation for secured creditors, given the apparent rate at which debtors fail to complete their Chapter 13 plans, see post, at 2–3 and n. 1, this is a matter that should be brought to the attention of Congress rather than resolved by this Court.
+
+															II
+
+															
+   The allowed amount of the secured claim is $4,000.  App. 57.  The statute then requires a bankruptcy court to identify the “property to be distributed” under the plan.  Petitioners’ Amended Chapter 13 Plan (Plan) provided:
+
+															   “The future earnings of DEBTOR(S) are submitted to the supervision and control of this Court, and DEBTOR(S) shall pay to the TRUSTEE a sum of $740 per month in weekly installments by voluntary wage assignment by separate ORDER of the Court in an estimated amount of $170.77 and continuing for a total plan term of 36 months unless this Court approves an extension of the term not beyond 60 months from the date of filing the Petition herein.”  App. to Pet. for Cert. 77a.
+
+															
+From the payments received, the trustee would then make disbursements to petitioners’ creditors, pro rata among each class of creditors.  The Plan listed one priority claim and four secured claims.  For respondent’s secured claim, petitioner proposed an interest rate of 9.5%.  App. 57.  Thus, petitioners proposed to distribute to respondent a stream of cash payments equaling respondent’s pro rata share of $740 per month for a period of up to 36 months.  App. 12.
+
+															
+
+   Although the Plan does not specifically state that “the property to be distributed” under the Plan is cash payments, the cash payments are the only “property” specifically listed for distribution under the Plan.  Thus, although the plurality and the dissent imply that the “property to be distributed” under the Plan is the mere promise to make cash payments, the plain language of the Plan indicates that the “property to be distributed” to respondent is up to 36 monthly cash payments, consisting of a pro rata share of $740 per month.
+
+															
+
+   The final task, then, is to determine whether petitioners’ proposed 9.5% interest rate will sufficiently compensate respondent for the fact that instead of receiving $4,000 today, it will receive $4,000 plus 9.5% interest over a period of up to 36 months.  Because the 9.5% rate is higher than the risk-free rate, I conclude that it will.  I would therefore reverse the judgment of the Court of Appeals.
+
+Footnote 1
+															 For example, if the relevant interest rate is 10%, receiving $4,000 one year from now is the equivalent to receiving $3,636.36 today.  In other words, an investor would be indifferent to receiving $3,636.36 today and receiving $4,000 one year from now because each will equal $4,000 one year from now.
+
+Footnote 2
+															 The prime rate is “[t]he interest rate most closely approximating the riskless or pure rate for money.”  Encyclopedia of Banking & Finance 830 (9th ed. 1991).
+
+Footnote 3
+															 Of course, in an efficient market, this risk has been (or will be) built into the interest rate of the original loan.
+
+
+

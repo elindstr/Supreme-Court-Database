@@ -1,0 +1,377 @@
+::SCDB_caseID:: 2019-021
+::decision_cite:: 18-280
+::decision_name::  New York State Rifle & Pistol Association, Inc. v. City of New York
+::decision_year:: 2020
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–280
+
+															_________________
+
+															NEW YORK STATE RIFLE & PISTOL ASSOCIATION, INC., et al., PETITIONERS v. CITY OF NEW YORK, NEW YORK, et al.
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															[April 27, 2020]
+
+															
+
+															Justice Alito, with whom Justice Gorsuch joins, and with whom Justice Thomas joins except for Part IV–B, dissenting.
+
+															By incorrectly dismissing this case as moot, the Court permits our docket to be manipulated in a way that should not be countenanced.  Twelve years ago in District of Columbia v. Heller,
+
+554 U.S. 570 (2008), we held that the
+ 
+Second Amendment protects the right of ordinary Americans to keep and bear arms.  Two years later, our decision in McDonald v. Chicago,
+
+561 U.S. 742 (2010), established that this right is fully applicable to the States.  Since then, the lower courts have decided numerous cases involving
+ 
+Second Amendment challenges to a variety of federal, state, and local laws.  Most have failed.  We have been asked to review many of these decisions, but until this case, we denied all such requests.
+
+															On January 22, 2019, we granted review to consider the constitutionality of a New York City ordinance that burdened the right recognized in Heller.  Among other things, the ordinance prohibited law-abiding New Yorkers with a license to keep a handgun in the home (a “premises license”) from taking that weapon to a firing range outside the City.  Instead, premises licensees wishing to gain or maintain the ability to use their weapons safely were limited to the seven firing ranges in the City, all but one of which were largely restricted to members and their guests.
+
+															In the District Court and the Court of Appeals, the City vigorously and successfully defended the constitutionality of its ordinance, and the law was upheld based on what we are told is the framework for reviewing
+ 
+Second Amendment claims that has been uniformly adopted by the Courts of Appeals.[1]  One might have thought that the City, having convinced the lower courts that its law was consistent with Heller, would have been willing to defend its victory in this Court.  But once we granted certiorari, both the City and the State of New York sprang into action to prevent us from deciding this case.  Although the City had previously insisted that its ordinance served important public safety purposes, our grant of review apparently led to an epiphany of sorts, and the City quickly changed its ordinance.  And for good measure the State enacted a law making the old New York City ordinance illegal.
+
+															Thereafter, the City and amici supporting its position strove to have this case thrown out without briefing or argument.  The City moved for dismissal “as soon as is reasonably practicable” on the ground that it had “no legal reason to file a brief.”  Suggestion of Mootness 1.  When we refused to jettison the case at that early stage, the City submitted a brief but “stress[ed] that [its] true position [was] that it ha[d] no view at all regarding the constitutional questions presented” and that it was “offer[ing] a defense of the . . . former rul[e] in the spirit of something a Court-appointed amicus curiae might do.”  Brief for Respondents 2.
+
+															A prominent brief supporting the City went further.  Five United States Senators, four of whom are members of the bar of this Court, filed a brief insisting that the case be dismissed.  If the Court did not do so, they intimated, the public would realize that the Court is “motivated mainly by politics, rather than by adherence to the law,” and the Court would face the possibility of legislative reprisal.  Brief for Sen. Sheldon Whitehouse et al. as Amici Curiae 2–3, 18 (internal quotation marks omitted).
+
+															Regrettably, the Court now dismisses the case as moot.  If the Court were right on the law, I would of course approve that disposition.  Under the Constitution, our authority is limited to deciding actual cases or controversies, and if this were no longer a live controversy—that is, if it were now moot—we would be compelled to dismiss.  But if a case is on our docket and we have jurisdiction, we have an obligation to decide it.  As Chief Justice Marshall wrote for the Court in Cohens v. Virginia, 6 Wheat. 264, 404 (1821), “[w]e have no more right to decline the exercise of jurisdiction which is given, than to usurp that which is not given.”
+
+															Thus, in this case, we must apply the well-established standards for determining whether a case is moot, and under those standards, we still have a live case before us.  It is certainly true that the new City ordinance and the new State law give petitioners most of what they sought, but that is not the test for mootness.  Instead, “a case ‘becomes moot only when it is impossible for a court to grant any effectual relief whatever to the prevailing party.’ ”  Chafin v. Chafin,
+
+568 U.S. 165, 172 (2013) (emphasis added).  “ ‘As long as the parties have a concrete interest, however small, in the outcome of the litigation, the case is not moot.’ ”  Ibid. (emphasis added).
+
+															Respondents have failed to meet this “heavy burden.”  Adarand Constructors, Inc. v. Slater,
+
+528 U.S. 216, 222 (2000) (per curiam) (internal quotation marks omitted).  This is so for two reasons.  First, the changes in City and State law do not provide petitioners with all the injunctive relief they sought.  Second, if we reversed on the merits, the District Court on remand could award damages to remedy the constitutional violation that petitioners suffered.
+
+															I
+
+															A
+
+															1
+
+															New York State has strict laws governing the possession of firearms.  With only a few exceptions, possession without a license is punishable by imprisonment and a fine.  N. Y. Penal Law Ann. §§60.01(3), 70.15, 265.01–265.04, 265.20(a)(3) (West Cum. Supp. 2020).  Local authorities administer the licensing program, §400.00(3)(a), and in New York City, this is done by the New York City Police Department’s (NYPD’s) License Division.  See 38 N. Y. C. R. R. §5–01 et seq. (2020); N. Y. Penal Law Ann. §265.00(10); N. Y. C. Admin. Code §10–131 (2020).
+
+															New York State law contemplates two primary forms of handgun license—a premises license, which allows the licensee to keep the registered handgun at a home or business, and a carry license, which permits the licensee to carry a concealed handgun outside the home.  N. Y. Penal Law Ann. §§400.00(2)(a), (b), (f ).  In this case, only premises licenses are at issue.
+
+															State law imposes an exacting standard for obtaining a premises license, and the NYPD License Division subjects applicants to rigorous vetting.  Licenses may be issued only if, among other things, an applicant is “of good moral character” and “no good cause exists for the denial of the license.”  §§400.00(1)(b), (n); see also App. 95–109 (“Instructions to Handgun License Applicants”) (capitalization omitted).
+
+															New York City residents must submit their applications in-person at One Police Plaza in Manhattan.  An applicant must pay a fee of $431.50; must provide proof of age, citizenship, and residence; and must produce an original Social Security card.  Id., at 95–96, 98.  A completed application must specify the particular handgun that the applicant wishes to possess and the address for which the license is sought.  It must list all the applicant’s residences and places of employment for the past five years.  Id., at 99–100, 104–105.  An applicant must answer questions about past arrests, summonses, indictments, convictions, and civil orders, and must respond to probing questions about past drug use, subpoenas and testimony, unsuccessful applications for civil service positions, military service, mental illness, and physical conditions (such as “Epilepsy,” “Diabetes,” or “any Nervous Disorder”) that could, in the judgment of the License Division, interfere with the use of a handgun.  Id., at 96–97, 101–102.  The applicant must explain where and how he or she will safeguard the handgun when not in use, and furnish the name and address of a New York State resident who will take custody of the handgun in the event of the applicant’s death or disability.  Id., at 104.
+
+															And these application requirements are only the beginning.  The submission of an application triggers a “ ‘rigorous’ ” police investigation “into the applicant’s mental health history, criminal history, [and] moral character.”  Kachalsky v. County of Westchester, 701 F.3d 81, 87 (CA2 2012).  A licensing officer is required by law to review mental health records, investigate the truthfulness of the statements in the application, and forward the applicant’s fingerprints to the New York State Division of Criminal Justice Services and the Federal Bureau of Investigation to determine if the applicant has a criminal record.  N. Y. Penal Law Ann. §§400.00(1), (4).  Under City law, grounds for denial include, among other things, any arrest, indictment, or conviction for a crime or violation (with the exception of minor traffic violations) in any federal, state, or local jurisdiction; a dishonorable discharge from the military; alcoholism, drug use, or mental illness; “a poor driving history”; failure to pay debts, including child support and taxes; and untruthfulness in the application.  38 N. Y. C. R. R. §5–10.  The process also includes an in-person interview, during which the License Division may request additional paperwork.  App. 100.
+
+															It takes the License Division approximately six months to process applications, §5–07(a), and during this time, the applicant cannot lawfully possess a handgun in the home, §5–09.  When the license issues and the applicant wishes to obtain it, he or she must appear in person at police headquarters for at least the third time.  §5–07(b).  At present, we are told, approximately 40,000 City residents (representing about 1.29% of the households in the City)[2] have been issued handgun licenses.
+
+															The NYPD may revoke a premises license at any time, §5–07(d), including for such things as laminating the license, §5–22(a)(4).  And a license expires after three years, so a licensee who wants to continue to possess a gun in the home after that time must file a renewal application. §5–28(a).
+
+															2
+
+															The ordinance that petitioners challenged in this case was adopted in 2001.  Before then, the NYPD issued both premises licenses and so-called “target licenses,” which allowed licensees to transport their handguns to specified, preapproved ranges outside of the City.  See App. to Pet. for Cert. 90–92.  Target licenses were eliminated in 2001, and from that time until the City’s post-certiorari change of heart, premises licensees could practice with their guns only if: they traveled “directly to and from an authorized small arms range/shooting club”; their guns were unloaded and secured in a locked container; and any ammunition was “carried separately.”  §5–23(a)(3) (in effect prior to July 21, 2019) (emphasis added); id., at 88.  And—what is most important for present purposes—the only “authorized” ranges or clubs were ones “located in New York City.”  App. 50, 63.  At the relevant time, there were only seven such ranges in the entire City: two in Staten Island, two in Queens, one in Brooklyn, one in Manhattan, and one in the Bronx.  See id., at 92–93.  All but one generally admitted only members and their guests, and the only range open to the public was closed for a time during the pendency of the case below.
+
+															B
+
+															1
+
+															In 2013, three individuals and one organization representing New York gun owners brought suit under Rev. Stat. §1979,
+
+42 U. S. C. §1983, against the City and the NYPD License Division, contending that the restrictive premises license scheme, 38 N. Y. C. R. R. §5–23, violated their rights under the
+ 
+Second Amendment and other provisions of the Constitution.
+
+															One of the individual petitioners, Romolo Colantone, has held a New York City firearms license since 1979.  App. 28–29, 51.  Colantone currently has a premises license for his residence and wishes to take his handgun to ranges and competitions outside the City and to his second home in Hancock, New York.  He refrained from doing so because of the ordinance prohibiting such travel.  Id., at 32, 53–54.  For example, Colantone registered to participate in the 2012 World Class Steel Northeast Regional Championship in Old Bridge, New Jersey—about 20 miles from his home in the City.  Plaintiffs’ Memorandum in Support of Cross-Motion for Summary Judgt. in No. 13–cv–2115 (SDNY), Doc. No. 44 (Plaintiffs’ Memo).  But after the hosts of that competition alerted him that his premises license did not allow him to transport his handgun to New Jersey—and after Inspector Andrew Lunetta, the commanding officer of the NYPD License Division, confirmed this—Colantone pulled out of the competition.  App. 32, 49–50, 55.
+
+															Plaintiff Efrain Alvarez has had a firearms license for approximately 30 years, and plaintiff Jose Anthony Irizarry has been licensed for 15 years.  Both men would like to take their handguns to ranges and competitions outside the City, but they have not done so because of the same ordinance.  See id., at 29, 32–33.  After the hosts of the previously noted competition in New Jersey advised them that their New York City premises licenses barred them from taking their handguns outside the City, they both decided not to attend.  Id., at 32–33.  For the same reason, Alvarez also did not participate in the International Defensive Pistol Association Postal Matches in Simsbury, Connecticut.  Ibid.  All three individual petitioners aver that they regularly traveled outside the City to ranges and championships before learning of the restriction imposed by §5–23.  Id., at 32–33.
+
+															Petitioners’ amended complaint maintained that the
+ 
+Second Amendment requires “unrestricted access to gun ranges and shooting events in order to practice and perfect safe gun handling skills.”  Id., at 36 (emphasis added).  The complaint asserts that practice is necessary for “the safe and responsible use of firearms for . . . self-defense, and the defense of one’s home.”  Id., at 33.  And a New York City ordinance backs this up, providing that a licensee “should endeavor to engage in periodic handgun practice at an authorized small arms range/shooting club.”  §5–22(a)(14).  According to the complaint, the City, by limiting licensees like petitioners to the seven ranges in the City, imposed a serious burden on the exercise of their
+ 
+Second Amendment right.  App. 36.
+
+															The amended complaint’s prayer for relief sought  an injunction against enforcement of the travel restriction, as well as attorney’s fees, costs of suit, declaratory relief . . . and “[a]ny such further relief as the [c]ourt deems just and proper.”  Id., at 47–48 (emphasis added).
+
+															2
+
+															The City vigorously defended its law.  The ordinance did not impinge on petitioners’
+ 
+Second Amendment right, the City told the lower courts, and even if it did, the law survived heightened scrutiny.  That was so, the City maintained, because the travel restrictions were “necessary to protect the public safety insofar as the transport of firearms outside the home potentially endangers the public.”  City of New York’s Memorandum in Support of Cross-Motion for Summary Judgt. & Opposition to Plaintiffs’ Motion for Preliminary Injunction in No. 13–cv–2115, Doc. No. 36, p. 10.
+
+															To support this assertion, the City relied on the declaration of Inspector Lunetta, which attempted to explain why the restrictions were “necessary to address . . . public safety concerns.”  App. 76.  Lunetta justified the law in three ways.  First, he maintained that the restriction on out-of-city transport promoted public safety by causing “premises license holders [to] bring their firearms into the public domain less frequently.”  Id., at 78; see also id., at 77.
+
+															Second, he claimed that the transport restriction helped to prevent the gun violence that might occur if a licensee became involved in an altercation while on the way to an out-of-city range or competition.  Lunetta asserted that licensees are “as susceptible as anyone else” to “stress-inducing circumstances” that can lead to violence.  Ibid.
+
+															Finally, he claimed that the travel restriction made it simpler for a patrol officer to check whether the holder of a premises license who is found in possession of a gun outside the home is really headed for a range or is simply using that as a pretext for carrying a gun.  Id., at 78–79.  He declared that “there were several reported cases where [holders of premises or target licenses] were charged with criminal possession of a weapon when found with their firearms while not en route to a range.”  Id., at 89.  He cited five cases, id., at 88–89, but not one of the opinions indicates that the licensee claimed to be headed to a range or competition outside the City.[3]
+
+															The District Court denied petitioners’ motions for preliminary injunction and summary judgment and granted the City’s cross-motion for summary judgment.  86 F. Supp. 3d 249, 261–263 (2015).  The District Court deemed any burden on petitioners’
+ 
+Second Amendment right “minimal or, at most, modest.”  Id., at 260.  And the court credited the City’s public safety rationale, citing the Lunetta declaration approvingly and discussing the importance of the travel restrictions in limiting the movement of licensees with their handguns.  See id., at 262.
+
+															The Second Circuit affirmed.  The panel derided the ordinance’s burdens on petitioners’
+ 
+Second Amendment right as “trivial” and expressly credited Lunetta’s explanation of the public safety purposes served by the travel restriction.  883 F.3d 45, 63–64 (2018).
+
+															When petitioners filed a petition for certiorari, the City opposed review, contending, among other things, that the travel restriction promoted public safety, as demonstrated by Lunetta’s declaration (which the City cited six times).  Brief in Opposition 9, 21–23.  We nevertheless granted review on January 22, 2019, and this, as noted, apparently led the City to reconsider whether the travel restriction was actually needed for public safety purposes.
+
+															C
+
+															On April 12, the NYPD published a proposed amendment to the travel restriction that was admittedly spurred at least in part by our grant of review.  See Motion to Hold Briefing Schedule in Abeyance in No. 18–280, p. 3.  Under this amendment, holders of premises licenses would be allowed to take their guns to ranges, competitions, and second homes outside the City provided that the licensees traveled “directly” between their residences and the permitted destinations.  After a period of notice and comment, the proposed amendment was adopted on June 21 and took effect on July 21.  Suggestion of Mootness 5–6.
+
+															Our grant of certiorari also prompted action by New York State.  With the support of the City, Tr. of Oral Arg. 46, the Legislature enacted a new law abrogating any local law, rule, or regulation that prevented the holder of a premises license from transporting a licensed handgun “directly to or from” an authorized range, competition, or second home.  N. Y. Penal Law Ann. §400.00(6) (as in effect July 16, 2019).
+
+															Shortly after the new State law took effect, the City filed a Suggestion of Mootness, asking us to vacate the decision below and to remand with instructions to dismiss.  The City urged us to rule on this matter expeditiously so that it would not be required to file a brief defending its prior law. Suggestion of Mootness 1.  When we refused to vacate at that stage, the City protested that briefing the merits “require[d] the City to do what Article III’s case-or-controversy requirement is designed to avoid: engage in litigation regarding the constitutionality of a law that no longer exists” and that the City would not reenact.  Brief for Respondents 1.  When the case was argued, counsel for the City was asked whether the repeal of the travel restriction had made the City any less safe, and his unequivocal answer was no.  Tr. of Oral Arg. 52.
+
+															II
+
+															The Court vacates the judgment of the Court of Appeals, apparently on the ground that this case is now moot.  (Other than mootness, no other basis for vacating comes to mind, and therefore I proceed on that assumption.)  And if that is the reason for what the Court has done, the Court is wrong. This case is not moot.
+
+															Article III, §2 of the Constitution limits the jurisdiction of the federal courts to “Cases” and “Controversies,” and as a result, we may not “ ‘decide questions that cannot affect the rights of litigants in the case before [us].’ ”  Chafin, 568 U. S., at 172.  Nor may we advise “ ‘what the law would be upon a hypothetical state of facts.’ ”  Ibid.  This means that the dispute between the parties in a case must remain alive until its ultimate disposition.  If a live controversy ceases to exist—i.e., if a case becomes moot—then we have no jurisdiction to proceed.  But in order for this to happen, a case must really be dead, and as noted, that occurs only “ ‘when it is impossible for a court to grant any effectual relief whatever to the prevailing party.’ ”  Ibid. (quoting Knox v. Service Employees,
+
+567 U.S. 298, 307 (2012)).  “ ‘[A]s long as the parties have a concrete interest, however small, in the outcome of the litigation, the case is not moot.’ ”  Chafin, 568 U. S., at 172 (quoting Knox, 567 U. S., at 307–308).  Thus, to establish mootness, a “demanding standard” must be met.  Mission Product Holdings, Inc. v. Tempnology, LLC, 587 U. S. ___, ___ (2019) (slip op., at 6).
+
+															We have been particularly wary of attempts by parties to manufacture mootness in order to evade review.  See Knox, 567 U. S., at 307; accord, Northeastern Fla. Chapter, Associated Gen. Contractors of America v. Jacksonville,
+
+508 U.S. 656, 661 (1993).  And it is black-letter law that we have a “virtually unflagging” obligation to exercise our jurisdiction.  Colorado River Water Conservation Dist. v. United States,
+
+424 U.S. 800, 817 (1976).
+
+															In this case, the amended City ordinance and the new State law gave petitioners most of what they sought in their complaint, but the new laws did not give them complete relief.  It is entirely possible for them to obtain more relief, and therefore this case is not moot.  This is so for the following reasons.
+
+															A
+
+															First, this case is not moot because the amended City ordinance and new State law do not give petitioners all the prospective relief they seek.  Petitioners asserted in their complaint that the
+ 
+Second Amendment guarantees them, as holders of premises licenses, “unrestricted access” to ranges, competitions, and second homes outside of New York City, App. 36, and the new laws do not give them that.[4]
+
+															The new City ordinance has limitations that petitioners claim are unconstitutional, namely, that a trip outside the City must be “direc[t]” and travel within the City must be “continuous and uninterrupted.”  38 N. Y. C. R. R. §§5–23(a)(3), (a)(7).  Exactly what these restrictions mean is not clear from the face of the rule, and the City has done little to clarify their reach.  At argument, counsel told us that the new rule allows “bathroom breaks,” “coffee stops,” and any other “reasonably necessary stops in the course of travel.”  Tr. of Oral Arg. 36, 64.  But the meaning of a “reasonably necessary” stop is hardly clear.  What about a stop to buy groceries just before coming home?  Or a stop to pick up a friend who also wants to practice at a range outside the City?  Or a quick visit to a sick relative or friend who lives near a range?  The City does not know the answer to such questions.  See, e.g., id., at 65–66.
+
+															Based on all this, we are left with no clear idea where the City draws the line, and the situation is further complicated by the overlay of State law.  The new State law appears to prevent the City from penalizing any “direc[t]” trip to a range or competition outside the City, but the State law does not define that limitation.  The petitioners wanted to enter competitions in upstate New York more than a five hour drive from the City.  Could they stop along the way? And if so, for how long?  The State has not explained its understanding of this limitation, and in any event, prosecutorial decisions in New York are generally made by the State’s 67 elected district attorneys.  See Haggerty v. Himelein, 221 App. Div. 2d 138, 144–145, 644 N.Y.S.2d 934, 940 (1996).  The bottom line is that petitioners, who sought “unrestricted access” to out-of-city ranges and competitions, are still subject to restrictions of undetermined meaning.
+
+															These restrictions may not seem very important, but that is beside the point for purposes of mootness.  Nor does it matter whether, in the end, those restrictions would be found to violate the
+ 
+Second Amendment.  All that matters for present purposes is that the City still withholds from petitioners something that they have claimed from the beginning is their constitutional right.  It follows that the case is not moot.  It is as simple as that.
+
+															The situation here resembles that in Knox,
+
+567 U.S. 298.  The issue in that case was whether a public sector union had provided nonmembers the sort of notice that our case law required before they could be forced to pay a fee to subsidize certain union activities.  We granted certiorari to review the Ninth Circuit’s holding that the notice that the union had provided was sufficient, but before we could decide the case, the union sent out a new notice and moved to dismiss the case as moot.  The employees objected that the new notice was inadequate, and we refused to dismiss.  In so doing, we did not opine on the adequacy of the new notice but simply held that the case was not moot because “there [was] still a live controversy as to the adequacy” of the notice.  Id., at 307.  Although the new notice might have given the nonmembers most of what they sought, they still possessed “ ‘a concrete interest, however small, in the outcome of the litigation.’ ”  Id., at 307–308.  And that was enough.
+
+															The situation here is essentially the same.  Petitioners got most, but not all, of the prospective relief they wanted, and that means that the case is not dead.
+
+															B
+
+															The case is not moot for a separate and independent reason: If this Court were to hold, as petitioners request and as I believe we should, that 38 N. Y. C. R. R. §5–23 violated petitioners’
+ 
+Second Amendment right, the District Court on remand could (and probably should) award damages.  See Mission Product Holdings, 587 U. S., at ___.  Petitioners brought their claims under
+
+42 U. S. C. §1983, which permits the recovery of damages.  See Monell v. New York City Dept. of Social Servs.,
+
+436 U.S. 658, 695–701 (1978).  And while the amended complaint does not expressly seek damages, it is enough that it requests “[a]ny other such further relief as the [c]ourt deems just and proper.”  App. 48.  Under modern pleading standards, that suffices.
+
+															The Federal Rules of Civil Procedure provide that a “final judgment should grant the relief to which each party is entitled, even if the party has not demanded that relief in its pleadings.”  Rule 54(c) (emphasis added); see also 10 C. Wright, A. Miller, & M. Kane, Federal Practice & Procedure §§2662, 2664 (4th ed. 2014) (Wright & Miller).[5]  Courts have refused to award relief outside the pleadings only when that would somehow prejudice the defendant, such as when the defendant did not have an opportunity to contest the basis for that relief.  See Albemarle Paper Co. v. Moody,
+
+422 U.S. 405, 424 (1975); United States v. Marin, 651 F.2d 24, 30 (CA1 1981); 10 Wright & Miller §2664.  Otherwise, “a party should experience little difficulty in securing a remedy other than that demanded in the pleadings as long as the party shows a right to it.”  Id., §2662, p. 168.  Here, that could include damages.
+
+															1
+
+															At a minimum, if petitioners succeeded on their challenge to the travel restrictions, they would be eligible for nominal damages.  When a plaintiff ’s constitutional rights have been violated, nominal damages may be awarded without proof of any additional injury.  See Carey v. Piphus,
+
+435 U.S. 247 (1978); Memphis Community School Dist. v. Stachura,
+
+477 U.S. 299 (1986).  Nominal damages are “the appropriate means of vindicating rights whose deprivation has not caused actual, provable injury.”  Id., at 308, n. 11 (internal quotation marks omitted); see also Carey, 435 U. S., at 266.  And they are particularly important in vindicating constitutional interests.  See Riverside v. Rivera,
+
+477 U.S. 561, 574 (1986) (plurality opinion).  Consequently, courts routinely award nominal damages for constitutional violations.  See, e.g., Stoedter v. Gates, 704 Fed. Appx. 748, 762 (CA10 2017) (
+ 
+Fourth Amendment); Klein v. Laguna Beach, 810 F.3d 693, 697 (CA9 2016) (free speech); Project Vote/Voting for America, Inc. v. Dickerson, 444 Fed. Appx. 660, 661 (CA4 2011) (per curiam) (free speech); Price v. Charlotte, 93 F.3d 1241, 1257 (CA4 1996) (equal protection).  And it is widely recognized that a claim for nominal damages precludes mootness.  See 13C C. Wright, A. Miller, & E. Cooper, Federal Practice and Procedure §3533.3, n. 47 (3d ed. Supp. 2019) (collecting cases); see also, e.g., Central Radio Co. v. Norfolk, 811 F.3d 625, 631–632 (CA4 2016); Morgan v. Plano Independent School Dist., 589 F.3d 740, 748, n. 32 (CA5 2009); Bernhardt v. County of Los Angeles, 279 F.3d 862, 872 (CA9 2002); Amato v. Saratoga Springs, 170 F.3d 311, 317 (CA2 1999) (Sand, J., joined by Sotomayor, J.); Committee for
+ 
+First Amendment v. Campbell, 962 F.2d 1517, 1526–1527 (CA10 1992); Henson v. Honor Committee of U. Va., 719 F.2d 69, 72, n. 5 (CA4 1983).[6]
+
+															2
+
+															It is even possible that one or more of the petitioners may be eligible for compensatory damages.  To get such relief, they would of course be required to show that they suffered an “actual injury.”  See Carey, 435 U. S., at 266; D. Dobbs & C. Roberts, Law of Remedies §7.4(1), p. 660 (3d ed. 2018).  But petitioners may be able to make such a showing.  As discussed above, the failure to include in their complaint specific factual allegations of actual injury would not preclude such recovery.[7]  See Fed. Rule Civ. Proc. 54(c).  Nor were petitioners obligated to provide information supporting actual injury in opposing the City’s motion for summary judgment.
+
+															If we were to reverse the judgment below and hold the City’s old rule unconstitutional, it would be appropriate to remand the case for proceedings on the question of remedies.  We have frequently done this when we reverse a judgment that was entered against the plaintiff on liability grounds.  See, e.g., Mission Product Holdings, 587 U. S., at ___, ___ (deeming case live due to claim for damages, reversing judgment against petitioner, and remanding for further proceedings); Parents Involved in Community Schools v. Seattle School Dist. No. 1,
+
+551 U.S. 701, 720, 748 (2007) (holding case live due in part to damages claim in complaint, reversing judgment against petitioners, and remanding for further proceedings); Firefighters v. Stotts,
+
+467 U.S. 561, 583 (1984) (holding case live due to damages caused by lower court injunction and reversing); Powell v. McCormack,
+
+395 U.S. 486, 493, 550 (1969) (remanding for award of unpaid congressional salary); cf., e.g., Richmond v. J. A. Croson Co.,
+
+488 U.S. 469, 478, n. 1 (1989) (holding that expiration of challenged ordinance did not moot dispute over whether defendant’s action was “unlawful and thus entitle[d] appellee to damages”).
+
+															With this is mind, the possibility of actual damages cannot be ruled out.  One or more of the petitioners could seek compensation for out-of-pocket expenses, such as membership fees at in-city ranges.  The current record shows that at least one of the petitioners is a member of a range in the City.  App. 93–94.  In addition, a petitioner may be entitled to compensation for expenses incurred in registering for out-of-city competitions from which he was compelled to withdraw.  The record shows that one petitioner signed up for such a competition but had to pull out as a result of the City ordinance.  Id., at 32, 55.  Petitioners could also seek compensation for any intangible but nevertheless real and personal injuries that they suffered due to their inability to attend shooting competitions, to practice at out-of-city ranges, or to take their licensed handguns to second homes. Noneconomic damages such as loss of enjoyment are available in §1983 litigation.  See Stachura, 477 U. S., at 306–307; Carey, 435 U. S., at 260–264; Dobbs, Law of Remedies §7.4(1), at 660, §8.1(4), at 676; cf. 4 F. Harper, F. James, & O. Gray, Torts §25.10A (3d ed. 2007) (surveying loss of enjoyment awards).  Among other things, depriving a licensee of the opportunity to obtain the benefits of competing and perhaps obtaining recognition at a well-known competition may cause a real loss.  Lower courts have affirmed awards of compensatory damages for similar kinds of injuries resulting from constitutional violations.  See Dobbs, Law of Remedies, at 660.[8]  Petitioners could introduce evidence on remand to show such loss.
+
+															For purposes of determining whether this case is moot, the question is not whether petitioners would actually succeed in obtaining such damages or whether their loss was substantial.  If there is a possibility of obtaining damages in any amount, the case is not moot.
+
+															3
+
+															One final point about damages must be addressed.  We have warned in dicta that a claim of damages, “asserted solely to avoid otherwise certain mootness, [bears] close inspection.” Arizonans for Official English v. Arizona,
+
+520 U.S. 43, 71 (1997).  But if, after close inspection, we conclude that the stringent test for mootness is not met, we have no authority to dismiss on that ground.
+
+															Nothing in Arizonans for Official English suggests otherwise.  In that case, the plaintiff, who was an employee of the State of Arizona when she filed her complaint, sued the State under §1983, claiming that a state constitutional amendment declaring English the official language of the State unconstitutionally prevented her from using Spanish to perform her job.  Her requests for declaratory and injunctive relief became moot when she left state employment for the private sector, and we held that her request for nominal damages from the State did not save her case from mootness since a State may not be sued under §1983.  520 U. S., at 67–69, 71.  The situation here is different because nothing blocks an award of nominal damages from a city.[9]
+
+															C
+
+															Relief would be particularly appropriate here because the City’s litigation strategy caused petitioners to incur what are surely very substantial attorney’s fees in challenging the constitutionality of a City ordinance that the City went to great lengths to defend.[10]  Of course, a claim for attorney’s fees is not alone sufficient to preserve a live controversy. Lewis v. Continental Bank Corp.,
+
+494 U.S. 472, 480 (1990). But where a live controversy remains, a defendant who would otherwise be liable for attorney’s fees should not be able to wiggle out on the basis of a spurious claim of mootness.
+
+															If a §1983 plaintiff achieves any success on the merits, even an award of nominal damages, the plaintiff is a prevailing party and is eligible for attorney’s fees under
+
+42 U. S. C. §1988.  See Buckhannon Board & Care Home, Inc. v. West Virginia Dept. of Health and Human Resources,
+
+532 U.S. 598, 603 (2001).  For this reason, were the Court to exercise jurisdiction in this case and rule for petitioners, they would be eligible for attorney’s fees.  See Farrar v. Hobby,
+
+506 U.S. 103, 109 (1992).
+
+															On the other hand, dismissing the case as moot means that petitioners are stuck with the attorney’s fees they incurred in challenging a rule that the City ultimately abandoned—and which it now admits was not needed for public safety.  That is so because “[a] defendant’s voluntary change in conduct, although perhaps accomplishing what the plaintiff sought to achieve by the lawsuit, lacks the necessary judicial imprimatur on the change.”  Buckhannon, 532 U. S., at 605.
+
+															Section 1988 attorney’s fees are an important component of civil rights enforcement.  See id., at 635–638 (Ginsburg, J., dissenting).  The prospect of an award of attorney’s fees ensures that “private attorneys general” can enforce the civil rights laws through civil litigation, even if they “ ‘cannot afford legal counsel.’ ”  Id., at 635–636.
+
+															Here, the City fought petitioners tooth and nail in the District Court and the Court of Appeals, insisting that its old ordinance served important public safety purposes.  When petitioners sought review in this Court, the City opposed certiorari on the same ground.  But once we granted review, the City essentially attempted to impose a unilateral settlement that deprived petitioners of attorney’s fees. And those fees would likely be substantial.  They would reflect five years of intensive litigation—everything from the drafting of the complaint, through multiple rounds of District Court motion practice, to appellate review, and proceedings in this Court.
+
+															III
+
+															The per curiam provides no sound reason for holding that this case is moot.  The per curiam states that the City’s current rule gave petitioners “the precise relief [they] requested” in their prayer for relief, ante, at 1, but that is not so.  Petitioners’ prayer for relief asks the court to enjoin 38 N. Y. C. R. R. §5–23 insofar as it “prohibit[s]” travel outside the City to ranges, competitions, and second homes.  App. 48.  The new rule’s conditions unmistakably continue to prohibit some travel outside the City to those destinations.  For this reason, petitioners have not obtained the “unrestricted access” that, they have always maintained, the
+ 
+Second Amendment guarantees.  Id., at 36.  The per curiam implies that the current rule, as interpreted at oral argument by counsel for the City, gives petitioners everything that they now seek, ante, at 1, but that also is not true.  Petitioners still claim the right to “unrestricted access” and counsel’s off-the-cuff concessions do not give them that.[11]
+
+															The per curiam’s main argument appears to go as follows: Petitioners’ original claim was a challenge to New York’s old rule; this claim is now moot due to the repeal of that rule; and what the petitioners are now asserting is a new claim, namely, that New York’s current rule is also unconstitutional.
+
+															This argument also misrepresents the nature of the claim asserted in petitioners’ complaint.  What petitioners claimed in their complaint and still claim is that they are entitled to “unrestricted access” to out-of-city ranges and competitions.  App. 36.  The City’s replacement of one law denying unrestricted access with another that also denies that access did not change the nature of petitioners’ claim or render it moot.
+
+															Consider where acceptance of the argument adopted by the per curiam leads.  Suppose that a city council, seeking to suppress a local paper’s opposition to some of its programs, adopts an ordinance prohibiting the publication of any editorial without the approval of a city official.  Suppose that a newspaper challenges the constitutionality of this rule, arguing that the
+ 
+First Amendment confers the unrestricted right to editorialize without prior approval.  If the council then repeals its ordinance and replaces it with a new one requiring approval only if the editorial concerns one particular city program, would that render the pending lawsuit moot and require the paper to commence a new one?
+
+															Or take this example.  A State enacts a law providing that any woman wishing to obtain an abortion must submit certification from five doctors that the procedure is medically necessary.  After a woman sues, claiming that any requirement of physician certification is unconstitutional, the State replaces its old law with a new one requiring certification by three physicians.  Would the court be required to dismiss the woman’s suit?  Suppose the court, following the precedent set by today’s decision, holds that the case is moot, and suppose that the woman brings a second case challenging the new law on the same ground.  If the State repeals that law and replaces it with one requiring certification by two doctors, would the second suit be moot?  And what if the State responds to a third suit by enacting replacement legislation demanding certification by one doctor?
+
+															Mootness doctrine does not require such results.  A challenge to an allegedly unconstitutional law does not become moot with the enactment of new legislation that reduces but does not eliminate the injury originally alleged.  And that is the situation here.
+
+															The Court cites one case in support of its holding, Lewis v. Continental Bank Corp.,
+
+494 U.S. 472, 482–483 (1990), but that decision is wholly inapposite.  The situation in Lewis was complicated, but the critical point for present purposes is that, by the time the case reached this Court, the enactment of new legislation meant that the plaintiff no longer had Article III standing to assert its original claim.  Id., at 478–479.  But instead of simply ordering that the case be dismissed, the Court remanded to give the plaintiff the opportunity to assert a different claim and, if necessary, to amend the complaint or “develop the record” to show it had standing to pursue this new claim.  Id., at 482.
+
+															The situation here is entirely different.  It is not disputed that petitioners have standing to contest the City’s restrictions on trips to out-of-city ranges and competitions, and as a result of those restrictions, petitioners have suffered and will continue to suffer injury that is concrete, traceable to actions taken by the City, and remediable by a court.  See Spokeo, Inc. v. Robins, 578 U. S. ___ (2016).  They are not asserting a new claim.  Their original claim—that they have the right under the
+ 
+Second Amendment to unrestricted access to out-of-city ranges and competitions—is unchanged, and this claim does not require an amendment of the complaint or any supplementation of the record to support their allegations of injury.
+
+															For these reasons, there is no justification for holding that this case is moot.
+
+															IV
+
+															A
+
+															Having shown that this case is not moot, I proceed to the merits of plaintiffs’ claim that the City ordinance violated the
+ 
+Second Amendment.  This is not a close question.  The answer follows directly from Heller.
+
+															In Heller, we held that a District of Columbia rule that effectively prevented a law-abiding citizen from keeping a handgun in the home for purposes of self-defense constituted a core violation of the
+ 
+Second Amendment.  554 U. S., at 635.  We based this decision on the scope of the right to keep and bear arms as it was understood at the time of the adoption of the
+ 
+Second Amendment.  Id., at 577–605, 628–629.  We recognized that history supported the constitutionality of some laws limiting the right to possess a firearm, such as laws banning firearms from certain sensitive locations and prohibiting possession by felons and other dangerous individuals.  See id., at 626–627; see also McDonald, 561 U. S., at 787, 904.  But history provided no support for laws like the District’s.  See 554 U. S., at 629–634.
+
+															For a similar reason, 38 N. Y. C. R. R. §5–23 also violated the
+ 
+Second Amendment.  We deal here with the same core
+ 
+Second Amendment right, the right to keep a handgun in the home for self-defense.  As the Second Circuit “assume[d],” a necessary concomitant of this right is the right to take a gun outside the home for certain purposes.  883 F. 3d, at 58–59.  One of these is to take a gun for maintenance or repair, which City law allows.  See §5–22(a)(16).  Another is to take a gun outside the home in order to transfer ownership lawfully, which the City also allows.  §5–26(j).  And still another is to take a gun to a range in order to gain and maintain the skill necessary to use it responsibly.  As we said in Heller, “ ‘to bear arms implies something more than the mere keeping [of arms]; it implies the learning to handle and use them in a way that makes those who keep them ready for their efficient use.’ ”  554 U. S., at 617–618 (quoting T. Cooley, Constitutional Law 271 (1880)); see also Luis v. United States, 578 U. S. ___, ___ (2016) (Thomas, J., concurring in judgment) (slip op., at 3) (“The right to keep and bear arms . . . ‘implies a corresponding right . . . to acquire and maintain proficiency in their use’ ”); Ezell v. Chicago, 651 F.3d 684, 704 (CA7 2011) (“[T]he core right wouldn’t mean much without the training and practice that make it effective”).
+
+															It is true that a lawful gun owner can sometimes practice at a range using a gun that is owned by and rented at the range.  But the same model gun that the person owns may not be available at a range, and in any event each individual gun may have its own characteristics.  See Brief for Professors of
+ 
+Second Amendment Law et al. as Amici Curiae 10–12; see also App. 51, 56, 59 (referencing differences across ranges and shooting competitions).Once it is recognized that the right at issue is a concomitant of the same right recognized in Heller, it became incumbent on the City to justify the restrictions its rule imposes, but the City has not done so.  It points to no evidence of laws in force around the time of the adoption of the
+ 
+Second Amendment that prevented gun owners from practicing outside city limits.  The City argues that municipalities restricted the places within their jurisdiction where a gun could be fired, Brief for Respondents 18, and it observes that the
+ 
+Second Amendment surely does not mean that a New York City resident with a premises license can practice in Central Park or Times Square, id., at 21.  That is certainly true, but that is not the question.  Petitioners do not claim the right to fire weapons in public places within the City.  Instead, they claim they have a right to practice at ranges and competitions outside the City, and neither the City, the courts below, nor any of the many amici supporting the City have shown that municipalities during the founding era prevented gun owners from taking their guns outside city limits for practice.
+
+															B
+
+															If history is not sufficient to show that the New York City ordinance is unconstitutional, any doubt is dispelled by the weakness of the City’s showing that its travel restriction significantly promoted public safety.  Although the courts below claimed to apply heightened scrutiny, there was nothing heightened about what they did.
+
+															As noted, the City relied entirely on the declaration of Inspector Lunetta, but this declaration provides little support.  See supra, at 9–10.  Some of what Inspector Lunetta asserted was simply not relevant to the justification for drawing a distinction between trips to a range in the City and trips to a range in a neighboring jurisdiction.  For example, he stated that persons holding premises licenses “do not always transport their firearms in a locked box carrying ammunition separately, as required by NYPD rules,” but the issue in this case does not concern the storage of a gun on the way to a range.  App. 77–78.  Similarly, he declared that “[p]remises license holders have not demonstrated proper cause to carry a concealed firearm in public,” id., at 78, but the question before us is not whether petitioners have the right to do what they could if they had carry licenses.
+
+															Other statements actually undermine the City’s public safety rationale.  Thus, the fact that prosecutors typically do not bring even misdemeanor charges against licensees who carry a weapon in violation of the limitations of their licenses, ibid., does not suggest that the City regards violations as presenting a particularly significant threat to public safety.
+
+															When all that is irrelevant is brushed aside, what remains are the three arguments noted earlier.  First, Inspector Lunetta asserted that the travel restrictions discouraged licensees from taking their guns outside the home, but this is a strange argument for several reasons.  It would make sense only if it is less convenient or more expensive to practice at a range in the City, but that contradicts the City’s argument that the seven ranges in the City provide ample opportunity for practice.  And discouraging trips to a range contradicts the City’s own rule recommending that licensees practice.  Once it is recognized that a reasonable opportunity to practice is part of the very right recognized in Heller, what this justification amounts to is a repudiation of part of what we held in that decision.
+
+															Second, Inspector Lunetta claimed that prohibiting trips to out-of-city ranges helps prevent a person who is taking a gun to a range from using it in a fit of rage after an auto accident or some other altercation that occurs along the way.  And to bolster this argument, Inspector Lunetta asserted that persons who have met the City’s demanding requirements for obtaining a premises license are just as likely as anyone else to use their guns in a fit of rage.  App. 77.  If that is so, it does not reflect well on the City’s intensive vetting scheme, see supra, at 4–6, and in any event, the assertion is dubious on its face.
+
+															More to the point, this argument does not explain why a person headed for a range outside the City is any more likely to engage in such conduct than a person whose destination is a range in the City.  There might be something to the argument if ranges in the City were closer than those just outside its borders, but the City never attempted to show that.  The courts below were incurious about the validity of Inspector Lunetta’s assertion, and given the location of the City’s seven ranges, the assertion is more than dubious.[12]
+
+															Inspector Lunetta’s final justification for the travel restrictions was only marginally stronger.  It goes like this. Suppose that a patrol officer stops a premises licensee and finds that this individual is carrying a gun, and suppose that that the licensee says he is taking the gun to a range to practice or is returning from a range.  If the range in question is one in the City, the officer will be better able to check the story than if the range is outside the officer’s jurisdiction.  App. 79–80.
+
+															How strong is this argument?  The City presumably has access to records of cases in which licensees were cited for unauthorized possession of guns outside the home, and it failed to provide any evidence that holders of target licenses had used their right to practice at out-of-city ranges as a pretext.  And it is dubious that it would be much harder for an officer to check whether a licensee was really headed for an out-of-city range as opposed to one in the City.  If a licensee claims to be headed for a range in the City, the officer can check whether the range is open and whether the individual appears to be on a route that plausibly leads to that range.  But how much more difficult would it be to do the same thing if the range is in one of the counties that border New York City or across the Hudson River in New Jersey?  A phone call would be enough to determine the range’s operating hours, and the route would still be easy to determine: There are only a few bridges and tunnels to New Jersey and just a few main thoroughfares to the neighboring New York counties.  A court conducting any form of serious scrutiny would have demanded that the City provide some substantiation for this claim, but nothing like that was provided or demanded.
+
+															Would the situation be much different if the individual claimed to be headed home from a range?  Once again, it would not be difficult for the officer to check whether the range was or recently had been open.  And it is not at all apparent that determining whether a licensee was on a route to his or her residence would be any harder if the range at which the licensee claimed to have practiced was outside the City.
+
+															Inspector Lunetta’s declaration stated that ranges in the City are required to keep a record of everyone who practices there, and therefore if a person claims to be coming from a city range, the officer could easily check that story.  But the declaration does not state that ranges in nearby jurisdictions do not keep similar records.[13]  It should have been easy enough for the City to check, and a court engaged in any serious form of scrutiny would have questioned the absence of evidence, but no substantiation was provided or demanded below.
+
+															In sum, the City’s travel restriction burdened the very right recognized in Heller.  History provides no support for a restriction of this type.  The City’s public safety arguments were weak on their face, were not substantiated in any way, and were accepted below with no serious probing. And once we granted review in this case, the City’s public safety concerns evaporated.
+
+															We are told that the mode of review in this case is representative of the way Heller has been treated in the lower courts.  If that is true, there is cause for concern.
+
+															*  *  *
+
+															This case is not moot.  The City violated petitioners’
+ 
+Second Amendment right, and we should so hold.  I would reverse the judgment of the Court of Appeals and remand the case to the District Court to provide appropriate relief.  I therefore respectfully dissent.
+Notes
+1
+ See Brief for
+ 
+Second Amendment Law Professors et al. as Amici Curiae 8–9. 
+
+2
+ The last census found that there were 3,109,784 households in the City.  D. Gaquin & M. Ryan, County and City Extra: Special Decennial Census Edition 607 (2012). 
+
+3
+ In one case, the violation charged was transporting a loaded gun.  People v. Schumann, 133 Misc. 2d 499, 507 N.Y.S.2d 349 (Crim. Ct. 1986).  In another case, the gun was not in a locked container.  People v. Thompson, 92 N.Y.2d 957, 705 N.E.2d 1200 (1998); see also People v. Lap, 150 Misc. 2d 724, 570 N.Y.S.2d 258 (Crim. Ct. 1991) (loaded and unlocked).  In the other two, there is no mention of an out-of-city range.  Lugo v. Safir, 272 App. Div. 2d 216, 708 N.Y.S.2d 618 (2000); People v. Ocasio, 108 Misc. 2d 211, 441 N.Y.S.2d 148 (1981). 
+
+4
+ Contrary to the City’s suggestion, see Reply to Suggestion of Mootness 5, petitioners have not softened their stance over the course of this litigation.  At summary judgment, petitioners asked that the District Court declare 38 N. Y. C. R. R. §5–23 unconstitutional and enjoin its enforcement “in any manner that prohibits or precludes [petitioners] from traveling” with their handguns to a range, competition, or second home outside the borders of New York City.  Notice of Cross-Motion for Summary Judgt. in 13–cv–2115, Doc. No. 43, p. 1; Plaintiffs’ Memo, at 32; and Plaintiffs’ Reply Memorandum, Doc. No. 53, p. 9 (emphasis added); see also Motion for Preliminary Injunction, Doc. No. 9, p. 1. 
+
+5
+ Lower courts have affirmed that Fed. Rule Civ. Proc. 54(c) means what it says: “[R]elief in damages is not foreclosed by plaintiff ’s failure to ask for damages in prayer.”  Jet Inv., Inc. v. Department of Army, 84 F.3d 1137, 1143 (CA9 1996); Illinois Physicians Union v. Miller, 675 F.2d 151, 158 (CA7 1982) (“It is well-settled that the district court may grant monetary relief . . . , even without a specific request”); United States v. Marin, 651 F.2d 24, 30 (CA1 1981) (affirming award of damages although not expressly requested in complaint); Sapp v. Renfroe, 511 F.2d 172, 176, n. 3 (CA5 1975) (allowing claim for damages raised for first time on appeal in light of Rule 54(c) and the catchall prayer for relief in plaintiff ’s complaint); accord, 10 Wright & Miller §2664. 
+
+6
+ A single Circuit has held that a claim for nominal damages alone does not maintain a live dispute.  See Flanigan’s Enterprises, Inc. of Ga. v. Sandy Springs, 868 F.3d 1248 (CA11 2017).  But that holding is difficult to reconcile with Carey and Stachura’s endorsement of nominal damages as an appropriate constitutional remedy. 
+
+7
+ Even if specific allegations in the complaint were necessary, the District Court could allow amendment.  See Zenith Radio Corp. v. Hazeltine Research, Inc.,
+
+401 U.S. 321, 331 (1971); 6 Wright & Miller §1474 (3d ed. 2010). 
+
+8
+ For example, in Brooks v. Andolina, 826 F.2d 1266 (1987), the Third Circuit held that a prisoner could seek damages for various deprivations suffered during punitive segregation imposed in retaliation for the exercise of his free speech rights.  Id., at 1270.  These injuries included loss of visiting and phone privileges, recreation rights, and access to the law library. In Young v. Little Rock, 249 F.3d 730 (2001), the Eighth Circuit affirmed a jury award of compensatory damages for wrongful detention that caused psychological harm.  Id., at 736. In Drake v. Lawrence, 524 N.E.2d 337 (1988), the Indiana Court of Appeals affirmed a compensatory damages award for, among other things, the embarrassment of a false arrest in front of an employee and customer and the anxiety associated with pending charges.  Id., at 342. In Watseka v. Illinois Public Action Council, 796 F.2d 1547 (1986), aff ’d,
+
+479 U.S. 1048 (1987), the Seventh Circuit affirmed an award of damages for “specific compensable, non-abstract harm” resulting from an unconstitutional ordinance restricting door-to-door solicitation.  That harm included the organization’s inability to recruit new members, disseminate its views, and encourage others to support its positions.  796 F. 2d, at 1558–1559; see also, e.g., King v. Zamiara, 788 F.3d 207, 213–214 (CA6 2015) (affirming compensatory damages award for injury caused by transfer of inmate in retaliation for filing lawsuit, when transfer impeded his ability to participate in litigation). 
+
+9
+ The per curiam refuses to decide whether petitioners have a live claim for damages, claiming that the lower courts should determine in the first instance whether any effort to recover damages has come “too late.”  Ante, at 2.  But as previously discussed, see supra, at 15–16, prejudice is the critical factor in determining whether to permit a late request for a form of relief not expressly demanded in a complaint, and the per curiam does not identify any reason why allowing petitioners’ request for damages at this juncture would prejudice the City.  Under the Court’s decision, allowing damages will not prolong this litigation, because the case is being remanded anyway, and there is no suggestion that the City would have litigated the case any differently if it had been on express notice that petitioners were seeking the sort of modest damages discussed in this opinion. 
+
+10
+ Attorney’s fees are specifically requested in the amended complaint.  App. 48. 
+
+11
+ The City’s enforcement position as to “coffee, gas, food, or restroom breaks” by no means resolves the meaning of §5–23.  The City’s counsel informed the Court that those stops are permissible because they are “reasonably necessary” under the new rule.  Tr. of Oral Arg. 64–65.  But what that means is far from clear, and, at any rate, coffee breaks and the like are just illustrative examples of potential ways in which the new rule affords something less than unfettered access to gun ranges, competitions, and second homes outside the City.  See supra, at 13. 
+
+12
+ Two of the seven City ranges (28%) were located in Staten Island (home to under 6% of the City’s residents), and the trip there from the other boroughs is not quick.  Another range (the only one open to the public) was located in the north Bronx.  See Brief for Appellants in No. 15–638, p. 32 (CA2) (explaining that, for plaintiff Colantone, “traveling from his home in Staten Island to the authorized range Olinville Arms in the Bronx[ involves] a far longer drive” than to a shooting club in New Jersey). 
+
+13
+ Inspector Lunetta also expressed concern that officers in other jurisdictions might detect and report fewer license violations.  App. 80.  But Inspector Lunetta did not support this prediction, and his declaration gives reason to doubt whether a decrease in referrals will actually occur.  Lunetta explains that the NYPD License Division already receives “reports from [the New York State Division of Criminal Justice System] regarding all arrests made within the State of New York for which an arrestee is fingerprinted.”  Id., at 86.  But “[n]o formal report is forwarded to the License Division for summonses and other arrests and incidents for which a detainee is not fingerprinted.”  Ibid.  “[T]he License Division may be, but is not always, notified of an arrest” made by the Federal Government or authorities in another State.  Ibid.  By Lunetta’s own account, the NYPD already appears reliant on the State fingerprinting database to detect violations in other jurisdictions.  There is no reason to expect that database to be any less effective today in alerting the License Division to potential violations than it was under the old ordinance. 
+
+

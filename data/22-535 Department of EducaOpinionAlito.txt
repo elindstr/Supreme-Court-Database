@@ -1,0 +1,593 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-535
+::decision_name::  Department of Education v. Brown
+::decision_year:: 2023
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–535
+
+															_________________
+
+															Department of Education, et al.,
+PETITIONERS v. Myra Brown, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[June 30, 2023]
+
+															
+
+															Justice Alito delivered the opinion of the
+Court.
+
+															In August 2022, the Secretary of Education
+announced a large-scale student-loan forgiveness program. He
+pledged to discharge hundreds of billions of dollars in
+student-loan debt owed by millions of borrowers. According to the
+Secretary, the discharge was necessary to alleviate hardship caused
+by the impending resumption of loan repayments, which had been
+suspended during the multi-year coronavirus pandemic, and he
+therefore invoked authority that he claimed he enjoyed under the
+Higher Education Relief Opportunities for Students Act of 2003
+(HEROES Act). 117Stat. 904, codified at 20 U. S. C.
+§1070 et seq. The following month, the Secretary
+directed that specific actions be taken to implement the
+loan-forgiveness plan (Plan). The amount of relief available to a
+borrower under the Plan depends on various criteria, including the
+borrower’s income and the type of loan the borrower
+holds.
+
+															Before the Plan took effect, however, various
+plaintiffs—including respondents here—sued to enjoin
+it. Respondents are two individual borrowers who, for different
+reasons, do not qualify for the maximum relief available under the
+Plan. They argue that the Department of Education promulgated the
+Plan without following mandatory procedures known as (1) negotiated
+rulemaking and (2) notice and comment. The District Court held in
+favor of respondents, and we granted certiorari before judgment to
+consider this case alongside Biden v. Nebraska,
+No. 22–506, which presents a similar challenge to the
+Plan.
+
+															Ultimately, however, we do not resolve
+respondents’ procedural claim because we conclude that they
+lack standing to bring it. Accordingly, we vacate the judgment of
+the United States District Court for the Northern District of Texas
+and remand with instructions to dismiss. We simultaneously deny as
+moot the Department’s application for a stay pending
+appeal.
+
+															I
+
+															A
+
+															The Court’s opinion in Biden v.
+Nebraska, ___ U. S. ___ (2023), recounts the relevant
+background of the HEROES Act, so only a brief summary is provided
+here. The Act authorizes the Secretary of Education “to waive
+or modify any provision” applicable to federal “student
+financial assistance” programs “as may be necessary to
+ensure that . . . recipients of student financial
+assistance” who live or work in a declared disaster area, or
+suffer direct economic hardship as a result of a national
+emergency, “are not placed in a worse position financially in
+relation to that financial assistance because” of the
+disaster or emergency. 20 U. S. C.
+§§1098bb(a)(1), (a)(2)(A), 1098ee(2)(C)–(D).
+
+															In addition to this substantive grant of
+authority, the HEROES Act dispenses with certain procedural rules
+for actions taken pursuant to it.
+
+															First, the HEROES Act permits the Secretary to
+implement any “waivers and modifications authorized or
+required” by the Act without engaging in the
+“negotiated rulemaking” that is typically required
+before proposing regulations relating to student financial
+assistance. §1098bb(d). Negotiated rulemaking is a lengthy
+deliberative process involving many stakeholders. Pursuant to this
+process, the Secretary must first obtain “advice of and
+recommendations” from a long list of sources, including
+“individuals and representatives” of groups “such
+as students, legal assistance organizations that represent
+students, institutions of higher education, State student grant
+agencies, guaranty agencies, lenders, secondary markets, loan
+servicers, guaranty agency servicers, and collection
+agencies.” §1098a(a)(1). Then, informed by this
+consultation, the Secretary must submit draft regulations for
+consideration in a negotiation process involving participants who
+are “chosen by the Secretary from individuals nominated
+by” such groups. §1098a(b)(1). Only after taking these
+steps may the Secretary “publis[h] proposed regulations in
+the Federal Register,” ibid., accompanied by a summary
+of the information the Secretary received throughout the process,
+§1098a(a)(2). The HEROES Act, however, permits the Secretary
+to bypass this onerous process. §1098bb(d).
+
+															The HEROES Act also authorizes the Secretary to
+bypass notice-and-comment procedures that the Administrative
+Procedure Act (APA) would otherwise demand. The APA typically
+requires agencies to give the public “[g]eneral notice of [a]
+proposed rule making” by publication in the Federal Register,
+and then to provide “interested persons an opportunity to
+participate in the rule making through submission of written data,
+views, or arguments” regarding the proposed rule. 5
+U. S. C. §§553(b), (c). The agency may
+promulgate a final rule only after providing notice and opportunity
+for comment. §553(c). But the HEROES Act instead permits the
+Secretary to implement the waivers and modifications he
+“deems necessary to achieve the purposes of ” the
+Act merely by “publish[ing]” “notice in the
+Federal Register.” 20 U. S. C.
+§1098bb(b)(1).
+
+															B
+
+															On September 27, 2022, Secretary of Education
+Miguel Cardona, invoking authority under the HEROES Act, directed
+the issuance of waivers and modifications that would bring about
+the forgiveness of a substantial amount of student-loan debt. In
+particular, he purported to effect the discharge of (1) $10,000 of
+eligible, federally held student-loan debt for any individual
+borrower with 2020 or 2021 income under $125,000 (or household
+income under $250,000), and (2) an additional $10,000 (making a
+total of $20,000) for any such borrower who had ever received a
+Pell Grant. Pell Grants are Government-funded grants to help defray
+the cost of postsecondary education; eligibility for these grants
+turns principally on the income of a student’s family when
+the student applies to and is enrolled in the relevant educational
+program (almost always undergraduate study). See
+§§1070a(b)(2), 1087mm(a), 1091; see also 34 CFR
+§690.6(c) (2022) (limited eligibility for students in a
+qualifying “postbaccalaureate program”). Secretary
+Cardona directed that these actions be taken via a publication in
+the Federal Register, see App. 262; all agree that he did not
+observe the generally applicable negotiated-rulemaking or
+notice-and-comment processes in devising and announcing the
+Plan.
+
+															Notwithstanding the Plan’s scope and
+expense, not all student-loan borrowers were pleased with it. Myra
+Brown and Alexander Taylor, plaintiffs in this case, are two such
+dissatisfied borrowers, albeit for different reasons. Brown’s
+loans are “commercially held,” id., at 171,
+Complaint ¶10, meaning that her creditor is an entity other
+than the Federal Government. The Plan, however, applies only to
+borrowers whose loans fall into one or more categories of loans
+“held by the Department.” 87 Fed. Reg. 61513 (2022).
+Consequently, Brown is not entitled to any loan forgiveness under
+the Plan.
+
+															Taylor, on the other hand, is eligible for loan
+forgiveness—but only $10,000, rather than the maximum
+$20,000. That is because, despite now having an annual income of
+less than $25,000, he never received a Pell Grant. See App. 183,
+Complaint ¶61. Thus, individuals with annual income up to five
+times greater than his are eligible for twice as much loan
+forgiveness as he is if they ever received a Pell Grant.
+
+															Accordingly, both Brown and Taylor object to
+certain elements of the Plan—Brown to its limitation to
+federally held loans, and Taylor to the additional relief it doles
+out based on prior Pell Grants, with no regard for current income.
+Because the Department did not engage in negotiated rulemaking or
+notice and comment, however, Brown and Taylor had no formal
+opportunity to voice their views on the Plan prior to its
+adoption.
+
+															Alleging that the law entitles them to such an
+opportunity, Brown and Taylor brought this action in the U. S.
+District Court for the Northern District of Texas. Their one-count
+complaint claims that the Plan is unlawful because the Department
+promulgated it without observing the requirements of negotiated
+rulemaking and notice and comment. As a result, they claim, we
+should “[v]acate and set aside the” Plan under 5
+U. S. C. §706(2)(D). App. 186.
+
+															Brown and Taylor recognize that the HEROES Act
+supplies exemptions from these procedural requirements. They argue,
+however, that an action of the Secretary falls within these
+exemptions only if it is substantively authorized by the Act; the
+Secretary, in their view, cannot merely invoke the “HEROES
+Act” to bypass negotiated rulemaking and notice and comment.
+According to Brown and Taylor, the Act does not substantively
+authorize the Plan, and so the Secretary was required to follow
+these procedures.
+
+															The District Court agreed with Brown and
+Taylor—in part. It rebuffed their central argument that the
+HEROES Act exempts from procedural requirements only those actions
+that the Act substantively authorizes. But the District Court
+nonetheless held that the Plan exceeds the Secretary’s
+authority under the HEROES Act and therefore entered judgment
+vacating it. ___ F. Supp. 3d ___, ___, 2022 WL 16858525, *15
+(ND Tex., Nov. 10, 2022).
+
+															After the Fifth Circuit denied the
+Department’s motion for a stay pending appeal, the Department
+applied to this Court for such a stay. The Department advised in
+the alternative that we could treat its application as a petition
+for certiorari before judgment. We did just that, granting the
+Department’s petition for certiorari before judgment and
+deferring consideration of its application for a stay. 598
+U. S. ___ (2022). We now review the judgment in No.
+22–535 and dispose of the pending application in No.
+22A489.
+
+															II
+
+															We ultimately do not address Brown and
+Taylor’s argument that the Department failed to observe
+proper procedures in promulgating the Plan. “We have
+‘an obligation to assure ourselves’ of litigants’
+standing under Article III” before proceeding to the merits
+of a case. DaimlerChrysler Corp. v. Cuno, 547 U.S.
+332, 340 (2006) (quoting Friends of the Earth, Inc. v.
+Laidlaw Environmental Services (TOC), Inc., 528 U.S.
+167, 180 (2000)). And because we conclude that Brown and Taylor
+lack standing, “[t]his case begins and ends with
+standing.” Carney v. Adams, 592 U. S. ___,
+___ (2020) (slip op., at 4). In particular, we hold that Brown and
+Taylor fail to establish that any injury they suffer from not
+having their loans forgiven is fairly traceable to the Plan.
+
+															A
+
+															Our authority under the Constitution is
+limited to resolving “Cases” or
+“Controversies.” Art. III, §2. “The
+doctrine of standing,” among others, “implements
+this” limit on our authority. Carney, 592 U. S.,
+at ___ (slip op., at 4). Our jurisprudence has “established
+that the irreducible constitutional minimum of standing contains
+three elements” that a plaintiff must plead
+and—ultimately—prove. Lujan v. Defenders of
+Wildlife, 504 U.S.
+555, 560 (1992). “First, the plaintiff must have suffered
+an ‘injury in fact’ ” that is both
+“concrete and particularized” and “actual or
+imminent, not conjectural or hypothetical.” Ibid.
+(some internal quotation marks omitted). Second, the
+plaintiff ’s injury must be “fairly traceable to
+the challenged action of the defendant,” meaning that
+“there must be a causal connection between the injury and the
+conduct complained of.” Ibid. (internal quotation
+marks and alterations omitted). “Third, it must be
+‘likely,’ as opposed to merely
+‘speculative,’ that the injury will be redressed by a
+favorable decision.” Id., at 561 (some internal
+quotation marks omitted).
+
+															We have found, however, that when a statute
+affords a litigant “a procedural right to protect his
+concrete interests,” the litigant may establish Article III
+jurisdiction without meeting the usual “standards for
+redressability and immediacy.” Id., at 572, n. 7.
+For example, we hypothesized a person “living adjacent to the
+site for proposed construction of a federally licensed dam”
+and explained that this person “has standing to challenge the
+licensing agency’s failure to prepare an environmental impact
+statement, even though he cannot establish with any certainty that
+the statement will cause the license to be withheld or
+altered.” Ibid. In this context, the fact that the
+defendant might well come to the same decision after abiding by the
+contested procedural requirement does not deprive a plaintiff of
+standing.
+
+															Regardless of the redressability showing we have
+tolerated in the procedural-rights context, we have never held a
+litigant who asserts such a right is excused from demonstrating
+that it has a “concrete interest that is affected by the
+deprivation” of the claimed right. Summers v. Earth
+Island Institute, 555 U.S.
+488, 496–497 (2009).
+
+															We emphasized this requirement in
+Summers, where we were asked to review U. S. Forest
+Service regulations exempting certain minor land-management
+decisions from the typical notice-and-comment process. Id.,
+at 490–491. The plaintiffs in that case did not have any
+“concrete plans to observe nature in [a] specific area”
+affected by actions the Service took pursuant to this exemption,
+id., at 497, and we therefore held that they lacked
+standing, id., at 494–497. As we put it, the
+“deprivation of a procedural right without some concrete
+interest that is affected by the deprivation—a procedural
+right in vacuo—is insufficient to create Article III
+standing.” Id., at 496.
+
+															B
+
+															Before applying this framework, we pause to
+explain both respondents’ theory of standing and the
+substance of their claim, which have not always been readily
+ascertainable—or consistently described—during this
+litigation.
+
+															Upon initial inspection, respondents’
+merits theory appears to be in tension with the possibility that
+the Department could redress their injury. Respondents argue
+simultaneously (1) that the Department might have treated them more
+generously if it had solicited their input in developing the Plan
+and (2) that the Department lacks substantive authority to
+promulgate broad-based loan forgiveness under the HEROES Act. It
+would be quite odd for Brown and Taylor to complain about being
+unable to seek an increase in the scope of an administrative action
+that they think the Department cannot lawfully take.
+
+															Respondents belatedly attempted to address this
+strange feature of their argument. Their complaint does not say a
+word about standing. But in their reply supporting their motion in
+the District Court for an injunction against the Plan, they
+ventured a brief attempt to explain their position on this
+threshold issue. They insisted that the Department cannot adopt the
+Plan under the HEROES Act regardless of the procedures it follows.
+Reply in No. 4:22–cv–908 (ND Tex., Oct. 20, 2022),
+ECF Doc. 26, pp. 3–4. But they observed that the
+Department has claimed it also has authority to forgive loans under
+a different statute, the Higher Education Act of 1965 (HEA), which
+authorizes the Secretary to “compromise, waive, or release
+any right, title, claim, lien, or demand.” 20
+U. S. C. §1082(a)(6). Thus, respondents argued,
+there is a chance that vacating the Plan would prompt the
+Department to pursue loan relief under the HEA instead. In this
+Court, Brown and Taylor discuss the HEA at length for the first
+time in this litigation. See Brief for Respondents 28–32.
+
+															Having recounted this history, we now understand
+respondents’ claim and theory of standing as follows. First,
+because the HEROES Act does not substantively authorize the Plan,
+the Department was obligated to follow the typical
+negotiated-rulemaking and notice-and-comment requirements. Second,
+if the Department had observed those procedures, respondents might
+have used those opportunities to convince the Department
+(1) that proceeding under the HEROES Act is unlawful or
+otherwise undesirable, and (2) that it should adopt a
+different loan-forgiveness plan under the HEA instead, one that is
+more generous to them than the HEROES Act plan that they allege is
+unlawful. They assert there is at least a chance that this series
+of events will come to pass now if we vacate the Plan.
+Id., at 19.
+
+															C
+
+															Describing respondents’ claim illustrates
+how unusual it is. They claim they are injured because the
+Government has not adopted a lawful benefits program under which
+they would qualify for assistance. But the same could be said of
+anyone who might benefit from a benefits program that the
+Government has not chosen to adopt. It is difficult to see how such
+an injury could be particular (since all people suffer it) or
+concrete (since an as-yet-uncreated benefits plan is necessarily
+“ ‘abstract’ ” and not
+“ ‘real’ ”).[1] Spokeo, Inc. v. Robins, 578 U.S.
+330, 340 (2016); see also Allen v. Wright, 468 U.S.
+737, 755–756 (1984) (rejecting a theory that would
+“extend [standing] nationwide”). Nor have we ever
+accepted that an injury is redressable when the prospect of redress
+turns on the Government’s wholly discretionary decision to
+create a new regulatory or benefits program.
+
+															Nonetheless, we think the deficiencies of
+respondents’ claim are clearest with respect to traceability.
+They cannot show that their purported injury of not receiving loan
+relief under the HEA is fairly traceable to the Department’s
+(allegedly unlawful) decision to grant loan relief under the HEROES
+Act.
+
+															1
+
+															At the outset, we reiterate what
+respondents’ claim is not. Respondents are not claiming that
+they are injured by not being included in the Plan (or, in
+Taylor’s case, by being remunerated by the Plan less
+generously than he thinks himself entitled to). After all, they
+think the Plan is substantively unlawful, a merits contention that
+“we accept as valid” for purposes of analyzing
+standing. Federal Election Comm’n v. Ted
+Cruz for Senate, 596 U. S. ___, ___ (2022) (slip op.,
+at 6). It would be quite strange to think that a party experiences
+an Article III injury by not being affected by an unlawful
+action (in Brown’s case) or not being more affected by
+such action (in Taylor’s).
+
+															Instead, respondents seek relief under a
+separate statutory source. They name the HEA as that potential
+source, but presumably they would be pleased for the Department to
+invoke any other lawful source (if one exists) as grounds for
+granting them loan relief. Their interest is in obtaining loan
+forgiveness in general.
+
+															The Plan, however, is independent of any
+student-loan relief the Department might craft under the HEA (or
+any other statute). A decision by this Court that the Plan is
+lawful would have no effect on the Department’s ability to
+forgive respondents’ loans under the HEA.[2] Thus, the Plan poses no legal obstacle to the
+Department’s choosing to find other ways to remedy the harm
+respondents experience from not having their loans forgiven.
+
+															Put differently, the Department’s decision
+to give other people relief under a different
+statutory scheme did not cause respondents not to obtain the
+benefits they want. The cause of their supposed injury is far more
+pedestrian than that: The Department has simply chosen not
+to give them the relief they want. Ordinarily, a party’s
+recourse to induce an agency to take a desired action is to file
+not a lawsuit, but a “petition for the issuance, amendment,
+or repeal of a rule.” 5 U. S. C. §553(e). The
+denial of such a petition “must be justified by a statement
+of reasons,” which in turn “can be appealed to the
+courts” if the litigant has standing to maintain such a suit.
+Auer v. Robbins, 519 U.S.
+452, 459 (1997). Contesting a separate benefits program based
+on a theory that it crowds out the desired one, however, is an
+approach for which we have been unable to find any precedent.
+
+															It is true that in procedural-standing cases, we
+tolerate uncertainty over whether observing certain procedures
+would have led to (caused) a different substantive outcome, as with
+Lujan’s example of the dam and the bypassed
+environmental impact statement. See 504 U. S., at 572,
+n. 7. In this case, however, the causal uncertainty is not
+merely over whether observing certain procedures would have led to
+a different substantive outcome. Instead, the uncertainty concerns
+whether the substantive decisions the Department has made
+regarding the Plan under the HEROES Act have a causal relationship
+with other substantive decisions respondents want the
+Department to make under the HEA. There is no precedent for
+tolerating this sort of causal uncertainty.
+
+															Our other procedural-standing cases demonstrate
+the point. In the example posited in Lujan, proceeding with
+building the dam as planned and simultaneously sparing the adjacent
+landowner from the negative effects of the dam are mutually
+exclusive options. See ibid. While it might be uncertain
+whether undertaking an environmental impact statement would prevent
+the dam from being built, it is clear that building the dam would
+directly injure the landowner.
+
+															Similarly, in a case like Summers, it
+might be uncertain whether public comment would alter any
+particular land-management decision the Forest Service makes. There
+would be no uncertainty, however, that a plaintiff with concrete
+plans to observe nature in a particular area “would be harmed
+if the [land-management project] went forward without incorporation
+of the ideas he would have suggested” in his comments. 555
+U. S., at 494.[3]
+
+															Accordingly, Brown and Taylor need not allege
+that observing negotiated rulemaking and notice and comment would
+“ ‘force’ ” the Department to
+reach substantive results more favorable to them than those
+embodied in the Plan. Lemon v. Geren, 514 F.3d 1312,
+1314–1315 (CADC 2008). But they must still
+show—pursuant to our customary traceability
+standards—that the Plan’s substance causes their injury
+by impairing loan relief under the HEA.
+
+															Brown and Taylor cannot meet this standard.
+“It is purely speculative whether the denia[l]” of HEA
+loan relief—their ostensible injury—“fairly can
+be traced to” the Department’s decision to grant loan
+relief in the Plan. Simon v. Eastern Ky. Welfare Rights
+Organization, 426 U.S.
+26, 42–43 (1976); see also Warth v. Seldin,
+422 U.S.
+490, 503–504 (1975).
+
+															As noted above, HEROES Act loan relief and HEA
+loan relief function independently of each other. If the Department
+may lawfully grant loan relief under both the HEROES Act and the
+HEA, it is entitled to choose to do both, neither, or only one
+(provided that it sufficiently explains its reasoning, see 5
+U. S. C. §706(2)(A)). There is little reason to
+think that its discretionary decision to pursue one mechanism of
+loan relief has anything to do with its discretionary decision to
+pursue (or not pursue) another. “The line of causation
+between” the Department’s promulgation of the Plan and
+respondents’ lack of benefits under the HEA “is
+attenuated at best,” Allen, 468 U. S., at 757,
+and all too dependent on
+“ ‘conjecture,’ ” Summers,
+555 U. S., at 496.
+
+															2
+
+															Respondents’ attempts to tie the Plan to
+potential HEA relief are unavailing. They point to a handful of
+documents related to the Plan that say that the Department is
+providing “one-time” student-loan relief. See,
+e.g., App. 215, 221, 225. Such statements, Brown and Taylor
+argue, show that the decision to grant loan relief under the HEROES
+Act foreclosed HEA relief.
+
+															This is insufficient. The Plan itself—the
+action under review here—contains no reference to
+“one-time” relief. See 87 Fed. Reg. 61512–61514.
+And to the extent that the Department’s decision to adopt the
+Plan under the HEROES Act might have some incidental effect on the
+likelihood that the Department will undertake a separate
+loan-forgiveness program under a different statute, the
+relationship is not sufficiently close to persuade us that the
+latter is fairly traceable to the former. See, e.g.,
+Simon, 426 U. S., at 42–43 (accepting that
+certain tax rules might
+“ ‘encourag[e]’ ” or
+“ ‘discourage’ ” particular
+behavior, but nonetheless holding that connection to be
+insufficient to establish standing where it was “just as
+plausible” that actors would “forgo favorable tax
+treatment”). Moreover, no one argues that the existing
+references to one-time relief are legally binding. To whatever
+extent the Department has determined that the Plan crowds out other
+efforts to forgive student loans, that, too, is a discretionary and
+independent decision that respondents may ask it to reconsider with
+a §553(e) petition.
+
+															Finally, Brown and Taylor also argue that they
+have demonstrated causation because the Secretary’s failure
+to observe the requisite procedural rules cost them a
+“ ‘chance’ ” to “obtain
+debt forgiveness.” Brief for Respondents 28. But referring in
+the abstract to a “chance” of obtaining “debt
+forgiveness” does not solve their problem. They do not want
+debt forgiveness under the HEROES Act, which they claim is
+unlawful. They want debt forgiveness under the HEA. Nothing the
+Secretary has done deprives them of a “chance” to seek
+that result.
+
+															Because respondents cannot meaningfully connect
+the absence of loan relief under the HEA to the adoption of the
+Plan, they have failed to show that their injury is fairly
+traceable to the Plan.
+
+															*  *  *
+
+															For these reasons, respondents lack standing,
+and we therefore vacate the judgment of the District Court and
+remand the case with instructions to dismiss. By vacating the
+District Court’s judgment, we obviate the need to grant the
+interim relief the Department requests in its application in No.
+22A489. We therefore deny the application as moot.
+
+															It is so ordered.
+
+Notes
+1
+ In contrast, a claim of
+unlawful exclusion from an existing benefits program can be fit for
+judicial resolution. See, e.g., Trinity Lutheran Church
+of Columbia, Inc. v. Comer, 582 U.S. 449, 462
+(2017).
+2
+ We do not opine on the
+substantive lawfulness of any action the Department might take
+under the HEA or add anything to our construction of the HEROES Act
+as set forth in today’s opinion in
+Nebraska.
+3
+ Although no plaintiff in
+Summers had standing because none had alleged specific plans
+to observe nature in one of the areas at issue in the case, see 555
+U. S., at 500, the point remains that, in an equivalent case
+featuring those specific plans, environmental damage to such a
+plaintiff ’s esthetic interests could fairly be traced
+to the Service’s land-management choices.
+
+

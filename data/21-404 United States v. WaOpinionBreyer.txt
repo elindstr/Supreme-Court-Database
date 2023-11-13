@@ -1,0 +1,129 @@
+::SCDB_caseID:: 2021-060
+::decision_cite:: 21-404
+::decision_name::  United States v. Washington
+::decision_year:: 2022
+::opinion_author:: Breyer
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–404
+
+															_________________
+
+															UNITED STATES, PETITIONER v. WASHINGTON, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 21, 2022]
+
+															
+
+															Justice Breyer delivered the opinion of the Court.
+
+															The Constitution’s Supremacy Clause generally immunizes the Federal Government from state laws that directly regulate or discriminate against it.  See South Carolina v. Baker,
+
+485 U.S. 505, 523 (1988).  Congress, however, can authorize such laws by waiving this constitutional immunity.  See Goodyear Atomic Corp. v. Miller,
+
+486 U.S. 174, 180 (1988).
+
+															This case concerns state workers’ compensation laws.  Congress has enacted a statute that waives the Federal Government’s constitutional immunity insofar as a “state authority charged with enforcing . . . the state workers’ compensation laws . . . appl[ies] the laws” to land or projects “belonging to the [Federal] Government, in the same way and to the same extent as if the premises were under the exclusive jurisdiction of the State.”
+
+40 U. S. C. §3172(a).
+
+															The question before us is whether a Washington State workers’ compensation law falls within the scope of this congressional waiver.  The state law, by its terms, applies only to federal workers who work at one federal facility in Washington.  The law makes it easier for these workers to obtain workers’ compensation, thus raising workers’ compensation costs for the Federal Government.  We conclude that the state law discriminates against the Federal Government and falls outside the scope of Congress’ waiver.  We therefore hold that the law is unconstitutional under the Supremacy Clause.
+
+															I
+
+															During World War II, the Federal Government acquired a large tract of land in Washington State known as the Hanford site.  The Government used the site to develop and produce nuclear weapons, generating a massive amount of chemical and radioactive waste.  After the Cold War, the Federal Government began the process of decommissioning and cleaning up the nuclear site.  The process has proved to be enormously complex.  It is expected to require decades of time and billions of dollars.  Most of the workers involved in the cleanup process are federal contract workers—people employed by private companies under contract with the Federal Government.  A smaller number of workers involved in the cleanup project include federal employees who work directly for the Federal Government, state employees who work for the State of Washington, and private employees who work for private companies not under contract with the Federal Government.
+
+															In 2018, Washington enacted a workers’ compensation law that, by its terms, applied only to Hanford site workers “engaged in the performance of work, either directly or indirectly, for the United States.”  Wash. Rev. Code §51.32.187(1)(b).  Despite the literal language of this statute, another provision of Washington law makes clear—and all parties here agree—that the statute applies only to federal contract workers and not to federal employees.  See §51.12.060; Brief for United States 8, n. 4; Brief for Respondents 13.  This is because Congress’ waiver of immunity does not extend to those whom the Federal Government employs directly.  See
+
+40 U. S. C. §3172(c).
+
+															As compared to the general state workers’ compensation regime, Washington’s law makes it easier for federal contract workers at Hanford to establish their entitlement to workers’ compensation.  In particular, the statute creates a causal presumption that certain diseases and illnesses are caused by the cleanup work at Hanford.  See Wash. Rev. Code §§51.32.187(2), (3), (4).  The presumption is rebuttable only by clear and convincing evidence.  §51.32.187(2)(b).  And the presumption lasts for a worker’s entire life, even after the worker’s time at Hanford ends.  §51.32.187(5)(a).  Because the Federal Government pays workers’ compensation claims for federal contractors at Hanford, see App. 48–50, Washington’s law increases workers’ compensation costs for the Federal Government.
+
+															The United States brought suit against Washington, arguing that its law violated the Supremacy Clause by discriminating against the Federal Government.  The District Court concluded that the state law fell within the scope of the federal waiver of immunity contained in
+
+40 U. S. C. §3172 and was therefore constitutional.  The Ninth Circuit affirmed.  See 994 F.3d 994, 1012 (2020).  We granted certiorari to determine the constitutionality of Washington’s law.
+
+															II
+
+															Washington first claims that this case is moot.  After we granted certiorari, Washington enacted a new statute, see S. 5890, 67th Leg., Reg. Sess. (2022), which changed the scope of the original law.  The law’s causal presumption no longer applies exclusively to Hanford site workers who “work, either directly or indirectly, for the United States.”  §51.32.187(1)(b).  Instead, under the new law, the presumption applies more broadly to any “worker working at a radiological hazardous waste facility.”  2022 Wash. Sess. Laws p. 437.  This new law, Washington argues, does not discriminate against the Federal Government, and its enactment thus moots the present dispute.
+
+															A case is not moot, however, unless “ ‘it is impossible for [us] to grant any effectual relief.’ ”  Mission Product Holdings, Inc. v. Tempnology, LLC, 587 U. S. ___, ___ (2019) (slip op., at 6) (quoting Chafin v. Chafin,
+
+568 U.S. 165, 172 (2013)).  If there is money at stake, the case is not moot.  See 587 U. S., at ___ (slip op., at 6). The United States asserts that, if we rule in its favor, it will either recoup or avoid paying between $17 million and $37 million in workers’ compensation claims that lower courts have awarded under the earlier law.  See Response in Opposition to Suggestion of Mootness 11–12.  Some of these claims are not yet final because they are still on appeal.  See Reply in Support of Suggestion of Mootness 12.  Washington argues that, even if the United States wins, the Government will not recover or avoid any payments because the new statute applies retroactively and is broad enough to encompass any claim filed under the earlier law.  But it is not our practice to interpret statutes in the first instance, Zivotofsky v. Clinton,
+
+566 U.S. 189, 201 (2012), and we decline to do so here by deciding the retroactivity or breadth of Washington’s new law.  Nor do we know how Washington’s state courts will resolve these questions.  It is thus not “impossible” that the United States will recover money if we rule in its favor, and this case is not moot.
+
+															III
+
+															A
+
+															In McCulloch v. Maryland, 4 Wheat. 316 (1819), this Court held unconstitutional Maryland’s effort to tax the Bank of the United States when Maryland imposed no comparable tax on any other bank within the State.  Id., at 425–437.  Chief Justice John Marshall explained that, under the Supremacy Clause, “the States have no power, by taxation or otherwise, to retard, impede, burden, or in any manner control, the operations of the constitutional laws enacted by Congress to carry into execution the powers vested in the general government.”  Id., at 436.  The Court thus interpreted the Constitution as prohibiting States from interfering with or controlling the operations of the Federal Government.
+
+															Over time this constitutional doctrine, often called the intergovernmental immunity doctrine, evolved.  Originally we understood it as barring any state law whose “effect . . . was or might be to increase the cost to the Federal Government of performing its functions,” including laws that imposed costs on federal contractors.  United States v. County of Fresno,
+
+429 U.S. 452, 460 (1977).  We later came to understand the doctrine, however, as prohibiting state laws that either “regulat[e] the United States directly or discriminat[e] against the Federal Government or those with whom it deals” (e.g., contractors).  North Dakota v. United States,
+
+495 U.S. 423, 435 (1990) (plurality opinion) (emphasis added); id., at 444 (Scalia, J., concurring in judgment) (noting that “[a]ll agree” with this aspect of the plurality opinion); see also Baker, 485 U. S., at 523; County of Fresno, 429 U. S., at 462–463.  As to the latter, discrimination-related prohibition, a state law is thus no longer unconstitutional just because it indirectly increases costs for the Federal Government, so long as the law imposes those costs in a neutral, nondiscriminatory way.
+
+															We have said that a state law discriminates against the Federal Government or its contractors if it “single[s them] out” for less favorable “treatment,” Washington v. United States,
+
+460 U.S. 536, 546 (1983), or if it regulates them unfavorably on some basis related to their governmental “status,” North Dakota, 495 U. S., at 438 (plurality opinion).
+
+															Washington’s law violates these principles by singling out the Federal Government for unfavorable treatment.  On its face, the law applies only to a “person, including a contractor or subcontractor, who was engaged in the performance of work, either directly or indirectly, for the United States.”  §51.32.187(1)(b).  The law thereby explicitly treats federal workers differently than state or private workers.  Cf. Dawson v. Steager, 586 U. S. ___, ___ (2019) (slip op., at 6) (“Whether a State treats similarly situated state and federal employees differently depends on how the State has defined the favored class”).  And, in doing so, the law imposes upon the Federal Government costs that state or private entities do not bear.  The law consequently violates the Supremacy Clause unless Congress has consented to such regulation through waiver.
+
+															B
+
+															We will find that Congress has authorized regulation that would otherwise violate the Federal Government’s intergovernmental immunity “only when and to the extent there is a clear congressional mandate.”  Hancock v. Train,
+
+426 U.S. 167, 179 (1976) (internal quotation marks omitted).  In other words, Congress must “provid[e] ‘clear and unambiguous’ authorization for” this kind of state regulation.  Goodyear Atomic, 486 U. S., at 180 (quoting EPA v. California ex rel. State Water Resources Control Bd.,
+
+426 U.S. 200, 211 (1976)).
+
+															Washington argues that Congress has provided such authorization by waiving federal immunity from state workers’ compensation laws on federal lands and projects.  The statutory waiver Washington relies upon,
+
+40 U. S. C. §3172(a), says that “[t]he state authority charged with enforcing and requiring compliance with the state workers’ compensation laws . . . may apply [those] laws to all land and premises in the State which the Federal Government owns,” as well as “to all projects, buildings, constructions, improvements, and property in the State and belonging to the Government, in the same way and to the same extent as if the premises were under the exclusive jurisdiction of the State.”  Washington reads the statute’s language broadly to “effectuat[e] a complete waiver of intergovernmental immunity as to workers’ compensation on federal lands or projects.”  Brief for Respondents 34 (emphasis added).  And Washington asserts that it has acted within the scope of this waiver by “apply[ing]” a “state workers’ compensation law” to federal “lands” and “projects” at the Hanford site just “as if the premises were under the exclusive jurisdiction of the State.”
+
+															In our view, however, §3172’s waiver does not “clearly and unambiguously” authorize a State to enact a discriminatory law that facially singles out the Federal Government for unfavorable treatment.  One can reasonably read the statute as containing a narrower waiver of immunity, namely, as only authorizing a State to extend its generally applicable state workers’ compensation laws to federal lands and projects within the State.
+
+															For one thing, the statute requires state enforcement authorities to apply state laws to federal premises “in the same way and to the same extent as if the premises were under the exclusive jurisdiction of the State.”  §3172(a).  The “in the same way and to the same extent” language suggests that the statute contemplates laws that could apply to state, as well as to federal, premises and employees.
+
+															The statute also gives to “[t]he state authority charged with enforcing . . . the state workers’ compensation laws” the power to “apply the laws to” federal lands and projects.  Ibid. (emphasis added).  This language seems to contemplate application of state provisions that apply at least in part to nonfederal (i.e., state and private) workers.  After all, those are the laws that state enforcement authorities ordinarily enforce.
+
+															Further, the title of the statutory waiver provision refers to the “Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government.”  §3172 (emphasis added; boldface deleted).  The word “extension” suggests application to federal premises of a State’s generally applicable workers’ compensation laws—laws that have some independent significance beyond the federal context.
+
+															Finally, preventing discrimination against the Federal Government lies at the heart of the Constitution’s intergovernmental immunity doctrine.  See County of Fresno, 429 U. S., at 462–464; Washington, 460 U. S., at 545–546.  Without the prohibition on discrimination, what prevents a State from imposing unduly high costs on the Federal Government for the benefit of the State’s own citizens?  To put the point more specifically, if discrimination is permissible here, what prevents Washington from bestowing a windfall upon its residents through an especially generous workers’ compensation scheme financed exclusively by the Federal Government?  Washington’s voters would not mind; they would not pay for the costs of the scheme.  And some Washington residents—those working for the Federal Government—would benefit from it.  The nondiscrimination principle provides a political check on the State’s ability to impose such laws by ensuring that the State’s own citizens shoulder at least some of the costs.  See McCulloch, 4 Wheat., at 428, 435–436.  Discriminatory provisions like the one before us contain no such ballot-box safeguard.
+
+															That fact reinforces the need to read waivers of intergovernmental immunity narrowly, at least where a State claims that Congress has waived immunity from discriminatory state laws.  In our view, for the reasons we have stated, the statutory language of §3172’s waiver permits a reading that does not allow discrimination against the Federal Government.  The waiver thus does not “ ‘clear[ly] and unambiguous[ly]’ ” authorize Washington’s discriminatory law.  Goodyear Atomic, 486 U. S., at 180; cf. FAA v. Cooper,
+
+566 U.S. 284, 299 (2012) (noting that a statute does not “unequivocally” waive Federal Government’s sovereign immunity if “it is plausible to read the statute” differently).
+
+															C
+
+															We find Washington’s other arguments unconvincing.  Washington emphasizes one phrase in the waiver statute, namely, the phrase that allows a State to apply its workers’ compensation laws to federal premises “as if the premises were under the exclusive jurisdiction of the State.”  §3172(a).  This phrase, however, appears immediately after the “in the same way and to the same extent” language.  Ibid.  And, as we explained above, reading the two clauses together, the statute could plausibly be interpreted to allow only the extension of generally applicable workers’ compensation laws to federal premises.  It thus does not clearly and unambiguously permit the kind of discrimination that Washington’s “federal workers only” law contains.
+
+															Washington also points to other congressional waivers of intergovernmental immunity that explicitly maintain the constitutional prohibition against discriminatory state laws.  Congress, for example, has waived immunity from state taxation of a federal officer, but only “if the taxation does not discriminate against the officer . . . because of the source of the pay or compensation.”
+
+4 U. S. C. §111(a).  Congress has also waived immunity from the application of certain state environmental laws to federal facilities, but only if the law does not “apply any standard or requirement to such facilities which is more stringent than” the standards applicable to nonfederal facilities.
+
+42 U. S. C. §9620(a)(4).  The waiver statute here, Washington points out, does not contain any similarly explicit antidiscrimination language.
+
+															This fact, however, does not tip the balance sufficiently in Washington’s favor.  As we have explained, preventing discrimination against the Federal Government is a core aspect of the intergovernmental immunity doctrine.  This immunity prohibits States from enacting discriminatory laws unless Congress clearly and unambiguously waives it.  See Goodyear Atomic, 486 U. S., at 180.  The fact that Congress more explicitly preserved the immunity in other contexts does not mean that Congress clearly waived it here.  Nor does the lack of an explicit antidiscrimination reference convert an ambiguous statutory waiver into one that unambiguously authorizes discrimination.  Indeed, Washington points to no waiver statute that courts have interpreted as permitting the kind of explicit discrimination that Washington’s law contains.  Given that broader context, Congress’ explicit antidiscrimination language in the tax and environmental waivers as much suggests Congress’ general hesitation to allow discrimination as it suggests that Congress authorized it here.
+
+															Finally, Washington seeks support from our decision in Goodyear Atomic.  The issue in that case, however, concerned the scope of the phrase “ ‘workmen’s compensation laws’ ” in §3172’s substantively-identical predecessor statute.  See 486 U. S., at 183.  Specifically, the question was whether that phrase encompassed state laws that permitted “supplemental” workers’ compensation awards or only state laws that permitted “standard” awards.  Ibid.  We held that the phrase encompassed laws permitting supplemental awards.  See ibid. (stating that the statute “places no express limitation on the type of workers’ compensation scheme that is authorized”).  But in doing so, we said nothing about laws that explicitly discriminate against the Federal Government.  Rather, we wrote that, “[o]n its face,” the waiver statute “compels the same workers’ compensation award for an employee injured at a federally owned facility as the employee would receive if working for a wholly private facility.”  Id., at 183–184.  We added that it was “clear” from the statute’s text “that Congress intended” state workers’ compensation laws “to apply to federal facilities ‘to the same extent’ that they apply to private facilities within the State.”  Id., at 185.  These statements from Goodyear Atomic tend to support, not undermine, our conclusion today.
+
+															*  *  *
+
+															Washington’s law facially discriminates against the Federal Government and its contractors.  Because §3172 does not clearly and unambiguously waive the Government’s immunity from discriminatory state laws, Washington’s law is unconstitutional under the Supremacy Clause.  The Ninth Circuit’s conclusion to the contrary is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															It is so ordered.
+													

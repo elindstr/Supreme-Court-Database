@@ -1,0 +1,499 @@
+::SCDB_caseID:: 2018-028
+::decision_cite:: 17-646
+::decision_name::  Gamble v. United States
+::decision_year:: 2019
+::opinion_author:: Gorsuch
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–646
+
+															_________________
+
+															TERANCE MARTEZ GAMBLE, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 17, 2019]
+
+															
+
+															Justice Gorsuch, dissenting.
+
+															A free society does not allow its government to try the same individual for the same crime until it’s happy with the result.  Unfortunately, the Court today endorses a colossal exception to this ancient rule against double jeopardy.  My colleagues say that the federal government and each State are “separate sovereigns” entitled to try the same person for the same crime.  So if all the might of one “sovereign” cannot succeed against the presumptively free individual, another may insist on the chance to try again.  And if both manage to succeed, so much the better; they can add one punishment on top of the other.  But this “separate sovereigns exception” to the bar against double jeopardy finds no meaningful support in the text of the Constitution, its original public meaning, structure, or history.  Instead, the Constitution promises all Americans that they will never suffer double jeopardy.  I would enforce that guarantee. 
+
+															I
+
+															“Fear and abhorrence of governmental power to try people twice for the same conduct is one of the oldest ideas found in western civilization.”[1]  Throughout history, people have worried about the vast disparity of power between governments and individuals, the capacity of the state to bring charges repeatedly until it wins the result it wants, and what little would be left of human liberty if that power remained unchecked.  To address the problem, the law in ancient Athens held that “[a] man could not be tried twice for the same offense.”[2]  The Roman Republic and Empire incorporated a form of double jeopardy protection in their laws.[3]  The Old Testament and later church teachings endorsed the bar against double jeopardy too.[4]  And from the earliest days of the common law, courts recognized that to “punish a man twice over for one offence” would be deeply unjust.[5]
+
+															The rule against double jeopardy was firmly entrenched in both the American colonies and England at the time of our Revolution.[6]  And the
+ 
+Fifth Amendment, which prohibits placing a defendant “twice . . . in jeopardy of life or limb” for “the same offence” sought to carry the traditional common law rule into our Constitution.[7]  As Joseph Story put it, the Constitution’s prohibition against double jeopardy grew from a “great privilege secured by the common law” and meant “that a party shall not be tried a second time for the same offence, after he has once been convicted, or acquitted of the offence charged, by the verdict of a jury, and judgment has passed thereon for or against him.”[8]
+
+															Given all this, it might seem that Mr. Gamble should win this case handily.  Alabama prosecuted him for violating a state law that “prohibits a convicted felon from possessing a pistol” and sentenced him to a year in prison.[9]  But then the federal government, apparently displeased with the sentence, charged Mr. Gamble under
+
+18 U. S. C. §922(g)(1) with being a felon in possession of a firearm based on the same facts that gave rise to the state prosecution.  Ultimately, a federal court sentenced him to 46 months in prison and three years of supervised release.  Most any ordinary speaker of English would say that Mr. Gamble was tried twice for “the same offence,” precisely what the
+ 
+Fifth Amendment prohibits.  Tellingly, no one before us doubts that if either the federal government or Alabama had prosecuted Mr. Gamble twice on these facts and in this manner, it surely would have violated the Constitution.
+
+															So how does the government manage to evade the
+ 
+Fifth Amendment’s seemingly plain command?  On the government’s account, the fact that federal and state authorities split up the prosecutions makes all the difference.  Though the Double Jeopardy Clause doesn’t say anything about allowing “separate sovereigns” to do sequentially what neither may do separately, the government assures us the
+ 
+Fifth Amendment’s phrase “same offence” does this work.  Adopting the government’s argument, the Court supplies the following syllogism: “[A]n ‘offence’ is defined by a law, and each law is defined by a sovereign.  So where there are two sovereigns, there are two laws, and two ‘offences.’ ”  Ante, at 3–4.
+
+															But the major premise of this argument—that “where there are two laws there are ‘two offenses’ ”—is mistaken.  We know that the Constitution is not so easily evaded and that two statutes can punish the same offense.[10]  The framers understood the term “offence” to mean a “transgression.”[11]  And they understood that the same transgression might be punished by two pieces of positive law: After all, constitutional protections were not meant to be flimsy things but to embody “principles that are permanent, uniform, and universal.”[12]  As this Court explained long ago in Blockburger v. United States, “where the same act or transaction constitutes a violation of two distinct statutory provisions, the test to be applied to determine whether there are two offenses or only one, is whether each provision requires proof of a fact which the other does not.”[13]  So if two laws demand proof of the same facts to secure a conviction, they constitute a single offense under our Constitution and a second trial is forbidden.  And by everyone’s admission, that is exactly what we have here: The statute under which the federal government pro- ceeded required it to prove no facts beyond those Alabama needed to prove under state law to win its conviction; the two prosecutions were for the same offense.
+
+															That leaves the government and the Court to rest on the fact that distinct governmental entities, federal and state, enacted these identical laws.  This, we are told, is enough to transform what everyone agrees would otherwise be the same offense into two different offenses.  But where is that distinction to be found in the Constitution’s text or original public understanding?  We know that the framers didn’t conceive of the term “same offence” in some technical way as referring only to the same statute.  And if double jeopardy prevents one government from prosecuting a defendant multiple times for the same offense under the banner of separate statutory labels, on what account can it make a difference when many governments collectively seek to do the same thing?
+
+															The government identifies no evidence suggesting that the framers understood the term “same offence” to bear such a lawyerly sovereign-specific meaning.  Meanwhile, Blackstone’s Commentaries explained how “Roman law,” “Athens,” “the Jewish republic,” and “English Law” addressed the singular “offence of homicide,” and how the Roman, Gothic, and ancient Saxon law approached the singular “offence of arson.”[14]  Other treatises of the period contain similar taxonomies of “offences” that are not sovereign-specific.[15]  Members of the Continental Congress, too, used the word “offence” in this same way.  In 1786, a congressional committee endorsed federal control over import duties because otherwise “thirteen separate authorities” might “ordain various penalties for the same offence.”[16]  In 1778, the Continental Congress passed a resolution declaring that a person should not be tried in state court “for the same offense, for which he had previous thereto been tried by a Court Martial.”[17]  And in 1785, the Continental Congress considered an ordinance declaring that a defendant could “plead a formal Acquital on a Trial” in a maritime court “for the same supposed Offences, in a similar Court in one of the other United States.”[18]  In all of these examples, early legislators—including many of the same people who would vote to add the
+ 
+Fifth Amendment to the Bill of Rights just a few years later—recognized that transgressions of state and federal law could constitute the “same offence.”
+
+															The history of the Double Jeopardy Clause itself supplies more evidence yet.  The original draft prohibited “more than one trial or one punishment for the same offence.”[19]  One representative then proposed adding the words “by any law of the United States” after “same offence.”[20]  That proposal clearly would have codified the government’s sovereign-specific view of the Clause’s operation.  Yet, Congress proceeded to reject it.
+
+															Viewed from the perspective of an ordinary reader of the
+ 
+Fifth Amendment, whether at the time of its adoption or in our own time, none of this can come as a surprise.  Imagine trying to explain the Court’s separate sovereigns rule to a criminal defendant, then or now.  Yes, you were sentenced to state prison for being a felon in possession of a firearm.  And don’t worry—the State can’t prosecute you again.  But a federal prosecutor can send you to prison again for exactly the same thing.  What’s more, that federal prosecutor may work hand-in-hand with the same state prosecutor who already went after you.  They can share evidence and discuss what worked and what didn’t the first time around.  And the federal prosecutor can pursue you even if you were acquitted in the state case.  None of that offends the Constitution’s plain words protecting a person from being placed “twice . . . in jeopardy of life or limb” for “the same offence.”  Really?
+
+															II
+
+															Without meaningful support in the text of the Double Jeopardy Clause, the government insists that the separate sovereigns exception is at least compelled by the structure of our Constitution.  On its view, adopted by the Court today, allowing the federal and state governments to punish the same defendant for the same conduct “honors the substantive differences between the interests that two sovereigns can have” in our federal system.  Ante, at 5.
+
+															But this argument errs from the outset.  The Court seems to assume that sovereignty in this country belongs to the state and federal governments, much as it once belonged to the King of England.  But as Chief Justice Marshall explained, “[t]he government of the Union . . . is emphatically, and truly, a government of the people,” and all sovereignty “emanates from them.”[21]  Alexander Hamilton put the point this way: “[T]he national and State systems are to be regarded” not as different sovereigns foreign to one another but “as ONE WHOLE.”[22]  Under our Constitution, the federal and state governments are but two expressions of a single and sovereign people.
+
+															This principle resonates throughout our history and law.  State courts that refused to entertain federal causes of action found little sympathy when attempting the very separate sovereigns theory underlying today’s decision.[23]  In time, too, it became clear that federal courts may decide state-law issues, and state courts may decide federal questions.[24]  Even in the criminal context, this Court has upheld removal of some state criminal actions to federal court.[25]  And any remaining doubt about whether the States and the federal government are truly separate sovereigns was ultimately “resolved by war.”[26]
+
+															From its mistaken premise, the Court continues to the flawed conclusion that the federal and state governments can successively prosecute the same person for the same offense.  This turns the point of our federal experiment on its head.  When the “ONE WHOLE” people of the United States assigned different aspects of their sovereign power to the federal and state governments, they sought not to multiply governmental power but to limit it.  As this Court has explained, “[b]y denying any one government complete jurisdiction over all the concerns of public life, federalism protects the liberty of the individual from arbitrary power.”[27]  Yet today’s Court invokes federalism not to protect individual liberty but to threaten it, allowing two governments to achieve together an objective denied to each.  The Court brushes this concern aside because “the powers of the Federal Government and the States often overlap,” which “often results in two layers of regulation.”  Ante, at 10.  But the Court’s examples—taxation, alcohol, and mari- juana—involve areas that the federal and state governments each may regulate separately under the Constitution as interpreted by this Court.  That is miles away from the separate sovereigns exception, which allows the federal and state governments to accomplish together what neither may do separately consistent with the Constitution’s commands.  As Justice Black understood, the Court’s view today “misuse[s] and desecrat[es] . . . the concept” of federalism.[28]  For “it is just as much an affront to . . . human freedom for a man to be punished twice for the same offense” by two parts of the people’s government “as it would be for one . . . to throw him in prison twice for the offense.”[29]
+
+															III
+
+															A
+
+															If the Constitution’s text and structure do not supply persuasive support for the government’s position, what about a more thorough exploration of the common law from which the
+ 
+Fifth Amendment was drawn?
+
+															By 1791 when the
+ 
+Fifth Amendment was adopted, an array of common law authorities suggested that a prosecution in any court, so long as the court had jurisdiction over the offense, was enough to bar future reprosecution in another court.  Blackstone, for example, reported that an acquittal “before any court having competent jurisdiction of the offence” could be pleaded “in bar of any subsequent accusation for the same crime.”[30]  For support, Blackstone pointed to Beak v. Tyrhwhit,[31] a 1688 case in which the reporter described an acquittal in a foreign country followed by an attempted second prosecution in England that the court held impermissible.  Another treatise by William Hawkins likewise considered it “settled” as early as 1716 “[t]hat an Acquittal in any Court whatsoever, which has a Jurisdiction of the Cause, is as good a Bar of any subsequent Prosecution for the same Crime.”[32]
+
+															What these authorities suggest many more confirm.  Henry Bathurst’s 1761 treatise on evidence taught that “a final Determination in a Court having competent Jurisdiction is conclusive in all Courts of concurrent Jurisdiction.”[33]  Nor was this merely a rule about the competency of evidence, as the next sentence reveals: “If A. having killed a Person in Spain was there prosecuted, tried, and acquitted, and afterwards was indicted here [in England], he might plead the Acquittal in Spain in Bar.”[34]  Francis Buller’s 1772 treatise repeated the same rule, articulating it the same way.[35]  And to illustrate their point, both treatises cited the 1678 English case of King v. Hutchinson.  Although no surviving written report of Hutchinson remains, several early common law cases—including Beak v. Thyrwhit,[36] Burrows v. Jemino,[37] and King v. Roche[38]—described its holding in exactly the same way the treatise writers did: All agreed that it barred the retrial in England of a defendant previously tried for murder in Spain or Portugal.
+
+															When they envisioned the relationship between the national government and the States under the new Constitution, the framers sometimes referenced by way of comparison the relationship between Wales, Scotland, and England.[39]  And prosecutions in one of these places pretty plainly barred subsequent prosecutions for the same offense in the others.  So, for example, treatises explained that “an Acquittal of Murder at a Grand Sessions in Wales, may be pleaded to an Indictment for the same Murder in England.  For the Rule is, That a Man’s Life shall not be brought into Danger for the same Offence more than once.”[40]  Indeed, when an English county indicted a defendant “for a murder committed . . . in Wales,” it was barred from proceeding when the court learned that the defendant had already been tried and acquitted “of the same offence” in Wales.[41]
+
+															Against this uniform body of common law weighs Gage v. Bulkeley—a civil, not criminal, case from 1744 that suggested Hutchinson had held only that the English courts lacked jurisdiction to try a defendant for an offense committed in Portugal.  Because “the murder was committed in Portugal,” Gage argued, “the Court of King’s Bench could not indict him, and there was no method of trying him but upon a special commission.”[42]  But no one else—not the treatise writers or the other English cases that favorably cited Hutchinson—adopted Gage’s restrictive reading of that precedent.
+
+															In the end, then, it’s hard to see how anyone consulting the common law in 1791 could have avoided this conclusion: While the issue may not have arisen often, the great weight of authority indicated that successive prosecutions by different sovereigns—even sovereigns as foreign to each other as England and Portugal—were out of bounds.  And anyone familiar with the American federal system likely would have thought the rule applied with even greater force to successive prosecutions by the United States and a constituent State, given that both governments derive their sovereignty from the American people.
+
+															Unable to summon any useful preratification common law sources of its own, the government is left to nitpick those that undermine its position.  For example, the Court dismisses Beak because “Hutchinson is discussed only in the defendant’s argument in that case, not the court’s response.”  Ante, at 16.  But the Beak court did not reject the Hutchinson argument, and counsel’s use of the case sheds light on how 17th- and 18th-century lawyers understood the double jeopardy bar.  The Court likewise derides King v. Thomas as “totally irrelevant” because in the 17th century, Wales and England shared the same laws.  But our federal and state governments share the same fundamental law and source of authority, and the Wales example is at least somewhat analogous to our federal system.[43]  Finally, the Court complains that Roche’s footnote citing Hutchinson was added only in 1800, after the
+ 
+Fifth Amendment’s ratification.  Ante, at 16.  But that is hardly a point for the government, because even so it provides an example of a later reporter attempting to describe the pre-existing state of the law; nor, as it turns out, was the footnote even essential to the Roche court’s original analysis and conclusion reached in 1775, well before the
+ 
+Fifth Amendment’s ratification.[44]  And among all these complaints, we should not lose the forest for the trees.  The Court’s attempts to explain away so many uncomfortable authorities are lengthy, detailed, even herculean.  But in the end, neither it nor the government has mustered a single preratification common law authority approving a case of successive prosecutions by separate sovereigns for the same offense.
+
+															B
+
+															What we know about the common law before the
+ 
+Fifth Amendment’s ratification in 1791 finds further confirmation in how later legal thinkers in both England and America described the rule they had inherited.
+
+															Start with England.  As it turns out, “it would have been difficult to have made more than the most cursory examination of nineteenth century or later English treatises or digests without encountering” the Hutchinson rule.[45]  In 1802, a British treatise explained that “an acquittal on a criminal charge in a foreign country may be pleaded in bar of an indictment for the same offence in England.”[46]  Three decades later, another treatise observed (citing Hutchinson) that “[a]n acquittal by a competent jurisdiction abroad is a bar to an indictment for the same offence before any other tribunal.”[47]  In 1846, the Scottish High Court of Justiciary declared that “[i]f a man has been tried for theft in England, we would not try him again here.”[48]  Twentieth century treatises recited the same rule.[49]  In 1931, the American Law Institute stated that “[i]f a person has been acquitted in a court of competent jurisdiction for an offense in another country he may not be tried for the same offense again in an English Court.”[50]  And in 1971, an English judge explained that the bar on “double jeopardy . . . has always applied whether the previous conviction or acquittal based on the same facts was by an English court or by a foreign court.”[51]  The Court today asks us to assume that all these legal authorities misunderstood the common law’s ancient rule.  I would not.
+
+															Even more pertinently, consider how 18th-century Americans understood the double jeopardy provision they had adopted.  The legal treatises an American lawyer practicing between the founding and the Civil War might have consulted uniformly recited the Hutchinson rule as black letter law.  Chancellor Kent wrote that “the plea of autrefois acquit, resting on a prosecution [in] any civilized state, would be a good plea in any other civilized state.”[52]  Thomas Sergeant explained that “[w]here the jurisdiction of the United States court and of a state Court is concurrent, the sentence of either court, whether of conviction or acquittal, may be pleaded in bar to a prosecution in the other.”[53]  William Rawle echoed that conclusion in virtually identical words.[54]  Indeed, one early commentator wrote that a “principal reason” for the Double Jeopardy Clause was to prevent successive state and federal prosecutions, which he considered to be against “[n]atural justice.”[55]  Nor did these treatises purport to invent a new rule; they claimed only to recite the traditional one.
+
+															This Court’s early decisions reflected the same principle.  In Houston v. Moore, a Pennsylvania court-martial tried a member of the state militia for desertion under an “act of the legislature of Pennsylvania.”[56]  The defendant objected that the state court-martial lacked jurisdiction because federal law criminalized the same conduct and prosecuting him in the state court could thus expose him to double jeopardy.  In an opinion by Justice Washington, the Court disagreed and allowed the prosecution, but reassured the defendant that “if the jurisdiction of the two Courts be concurrent, the sentence of either Court, either of conviction or acquittal, might be [later] pleaded in bar of the prosecution before the other.”[57]  In dissent, Justice Story thought the state court lacked jurisdiction because otherwise the defendant would be “liable to be twice tried and punished for the same offence, against the manifest intent of the act of Congress, the principles of the common law, and the genius of our free government.”[58]  But notice the point of agreement between majority and dissent: Both acknowledged that a second prosecution for the same underlying offense would be prohibited even if brought by a separate government.[59]
+
+															Another case decided the same year also reflected the Hutchinson rule.  In United States v. Furlong, one British subject killed another on the high seas, and the killer was indicted in an American federal court for robbery and murder.  This Court unanimously held that “[r]obbery on the seas is considered as an offence within the criminal jurisdiction of all nations” that can therefore be “punished by all,” and there can be “no doubt that the plea of autre fois acquit [double jeopardy] would be good in any civilized State, though resting on a prosecution instituted in the Courts of any other civilized State.”[60]
+
+															A number of early state cases followed the same rule.  Indeed, the Court today acknowledges that Massachusetts, Michigan, and Vermont all followed Hutchinson.  Ante, at 22.[61]  The Court agrees that South Carolina did too,[62] but it believes that a later South Carolina case might have deviated from the Hutchinson rule.  That decision, however, contains at best only “an inconclusive discussion coming from a State whose highest court had previously stated unequivocally that a bar against double prosecutions would exist.”[63]
+
+															In the face of so much contrary authority, the Court winds up leaning heavily on a single 1794 North Carolina Superior Court decision, State v. Brown.  But the Court’s choice here is revealing.  True, Brown said that a verdict in North Carolina would not be “pleadable in bar to an indictment preferred against [the defendant] in the Territory South of the Ohio.”[64]  But the Court leaves out what happened next.  Brown went on to reject concurrent jurisdiction because trying the defendant “according to the several laws of each State” could result in him being “cropped in one, branded and whipped in another, imprisoned in a third, and hanged in a fourth; and all for one and the same offence.”[65]  The North Carolina court viewed that result as “against natural justice” and “therefore [could] not believe it to be law.”[66]  So it is that the principal support the Court cites for its position is a state case that both (1) regarded transgressions of the laws of a State and a U. S. territory as the “same offence,” and (2) expressed aversion at the thought of both jurisdictions punishing the defendant for that singular offense.[67]
+
+															IV
+
+															With the text, principles of federalism, and history now arrayed against it, the government is left to suggest that we should retain the separate sovereigns exception under the doctrine of stare decisis.  But if that’s the real basis for today’s result, let’s at least acknowledge this: By all appearances, the Constitution as originally adopted and understood did not allow successive state and federal prosecutions for the same offense, yet the government wants this Court to tolerate the practice anyway.
+
+															Stare decisis has many virtues, but when it comes to enforcing the Constitution this Court must take (and always has taken) special care in the doctrine’s application.  After all, judges swear to protect and defend the Constitution, not to protect what it prohibits.  And while we rightly pay heed to the considered views of those who have come before us, especially in close cases, stare decisis isn’t supposed to be “the art of being methodically ignorant of what everyone knows.”[68]  Indeed, blind obedience to stare decisis would leave this Court still abiding grotesque errors like Dred Scott v. Sandford,[69] Plessy v. Ferguson,[70] and Korematsu v. United States.[71]  As Justice Brandeis explained, “in cases involving the Federal Constitution, where correction through legislative action is practically impossible, this Court has often overruled its earlier decisions.  The Court bows to the lessons of experience and the force of better reasoning, recognizing that the process of trial and error, so fruitful in the physical sciences, is appropriate also in the judicial function.”[72]
+
+															For all these reasons, while stare decisis warrants respect, it has never been “ ‘an inexorable command,’ ”[73] and it is “at its weakest when we interpret the Constitution.”[74]  In deciding whether one of our cases should be retained or overruled, this Court has traditionally considered “the quality of the decision’s reasoning; its consistency with related decisions; legal developments since the decision; and reliance on the decision.”[75]  Each of these factors, I believe, suggests we should reject the separate sovereigns exception.
+
+															Take the “quality of [the] reasoning.”[76]  The first cases to suggest that successive prosecutions by state and federal authorities might be permissible did not seek to address the original meaning of the word “offence,” the troubling federalism implications of the exception, or the relevant historical sources.  Between 1847 and 1850, the Court decided a pair of cases, United States v. Marigold[77] and Fox v. Ohio.[78]  While addressing other matters in those decisions, the Court offered passing approval to the possibility of successive state and federal prosecutions, but did so without analysis and without actually upholding a successive conviction.  Indeed, in place of a careful constitutional analysis, the Fox Court merely offered its judgment that “the benignant spirit” of prosecutors could be relied on to protect individuals from too many repetitive prosecutions.[79]  We do not normally give precedential effect to such stray commentary.
+
+															Perhaps the first real roots of the separate sovereigns exception can be traced to this Court’s 1852 decision in Moore v. Illinois.[80]  As it did five years later and more notoriously in Dred Scott,[81] the Court in Moore did violence to the Constitution in the name of protecting slavery and slaveowners.  In Dred Scott the Court held that the Due Process Clause prevented Congress from prohibiting slavery in the territories, though of course the Clause did nothing of the sort.[82]  And in Moore the Court upheld a state fugitive slave law that it judged important because the States supposedly needed “to protect themselves against the influx either of liberated or fugitive slaves, and to repel from their soil a population likely to become burdensome and injurious, either as paupers or criminals.”[83]  The defendant, who had harbored a fugitive slave, objected that upholding the state law could potentially expose him to double prosecutions by the state and federal governments.  The Court rejected that argument, reasoning simply that such double punishment could be consistent with the Constitution if the defendant had violated both state and federal law.[84]  Yet notably, even here, the Court did not actually approve a successive prosecution.
+
+															Nor did the trajectory of the separate sovereigns exception improve much from there.  The first time the Court actually approved an “instance of double prosecution [and] failed to find some remedy . . . to avoid it” didn’t arrive until 1922.[85]  In that case, United States v. Lanza,[86] the federal government prosecuted the defendants for manufacturing, transporting, and possessing alcohol in violation of the National Prohibition Act.  The defendants argued that they had already been prosecuted by the State of Washington for the same offense.  But, notably, the defendants did not directly question the permissibility of successive prosecutions for the same offense under state and federal law.  Instead, the defendants argued that both of the laws under which they were punished really derived from the “same sovereign:” the national government, by way of the
+ 
+Eighteenth Amendment that authorized Prohibition.  After rejecting that argument as an “erroneous view of the matter,” the Court proceeded on, perhaps unnecessarily, to offer its view that “an act denounced as a crime by both national and state sovereignties is an offense against the peace and dignity of both and may be punished by each.”[87]  Given that the Court was not asked directly to consider the propriety of successive prosecutions under separate state and federal laws for the same offense, it is perhaps unsurprising the Court did not consult the original meaning of the Double Jeopardy Clause or consult virtually any of the relevant historical sources before offering its dictum.
+
+															It matters, too, that these cases “were decided by the narrowest of margins, over spirited dissents challenging the basic underpinnings of those decisions.”[88]  In Moore, Justice McLean wrote that although “the Federal and State Governments emanate from different sovereignties,” they “operate upon the same people, and should have the same end in view.”[89]  He “deeply regret[ted] that our government should be an exception to a great principle of action, sanctioned by humanity and justice.”[90]  Bartkus and Abbate, cases decided in the 1950s that more clearly approved the separate sovereigns exception, were decided only by 5-to-4 and 6-to-3 margins, and Justice Black’s eloquent dissents in those cases have triggered an avalanche of persuasive academic support.[91]
+
+															What is more, the “underpinnings” of the separate sovereigns exception have been “erode[d] by subsequent decisions of this Court.”[92]  When this Court decided Moore, Lanza, Bartkus, and Abbate, the Double Jeopardy Clause applied only to the federal government under this Court’s decision in Palko v. Connecticut.[93]  In those days, one might have thought, the separate sovereigns exception at least served to level the playing field between the federal government and the States: If a State could retry a defendant after a federal trial, then the federal government ought to be able to retry a defendant after a state trial.  But in time the Court overruled Palko and held that the Double Jeopardy Clause does apply to the States—and, with that, a premise once thought important to the exception fell away.[94]
+
+															Nor has only the law changed; the world has too.  And when “far-reaching systemic and structural changes” make an “earlier error all the more egregious and harmful,” stare decisis can lose its force.[95]  In the era when the separate sovereigns exception first emerged, the federal criminal code was new, thin, modest, and restrained.  Today, it can make none of those of boasts.  Some suggest that “the federal government has [now] duplicated vir-tually every major state crime.”[96]  Others estimate that the U. S. Code contains more than 4,500 criminal statutes, not even counting the hundreds of thousands of federal regulations that can trigger criminal penalties.[97]  Still others suggest that “ ‘[t]here is no one in the United States over the age of 18 who cannot be indicted for some federal crime.’ ”[98]  If long ago the Court could have thought “the benignant spirit” of prosecutors rather than unwavering enforcement of the Constitution sufficient protection against the threat of double prosecutions, it’s unclear how we still might.
+
+															That leaves reliance.  But the only people who have relied on the separate sovereigns exception are prosecutors who have sought to double-prosecute and double-punish.  And this Court has long rejected the idea that “law enforcement reliance interests outweig[h] the interest in protecting individual constitutional rights so as to warrant fidelity to an unjustifiable rule.”[99]  Instead, “[i]f it is clear that a practice is unlawful, individuals’ interest in its discontinuance clearly outweighs any law enforcement ‘entitlement’ to its persistence.”[100]  That is the case here.
+
+															The Court today disregards these lessons.  It worries that overturning the separate sovereigns rule could undermine the reliance interests of prosecutors in transnational cases who might be prohibited from trying individuals already acquitted by a foreign court.  Ante, at 7.  Yet even on its own terms, this argument is unpersuasive.  The government has not even attempted to quantify the scope of the alleged “problem,” and perhaps for good reason. Domestic prosecutors regularly coordinate with their foreign counterparts when pursuing transnational criminals, so they can often choose the most favorable forum for their mutual efforts.  And because Blockburger requires an identity of elements before the double jeopardy bar can take hold, domestic prosecutors, armed with their own abundant criminal codes, will often be able to find new offenses to charge if they are unsatisfied with outcomes elsewhere.
+
+															*  *  *
+
+															Enforcing the Constitution always bears its costs.  But when the people adopted the Constitution and its Bill of Rights, they thought the liberties promised there worth the costs.  It is not for this Court to reassess this judgment to make the prosecutor’s job easier.  Nor is there any doubt that the benefits the framers saw in prohibiting double prosecutions remain real, and maybe more vital than ever, today.  When governments may unleash all their might in multiple prosecutions against an individual, exhausting themselves only when those who hold the reins of power are content with the result, it is “the poor and the weak,”[101] and the unpopular and controversial, who suffer first—and there is nothing to stop them from being the last.  The separate sovereigns exception was wrong when it was invented, and it remains wrong today.
+
+															I respectfully dissent.
+Notes
+1
+ Bartkus v. Illinois,
+
+359 U.S. 121, 151 (1959) (Black, J., dissenting). 
+
+2
+ R. Bonner, Lawyers and Litigants in Ancient Athens 195 (1927). 
+
+3
+ J. Sigler, Double Jeopardy: The Development of a Legal and Social Policy 2–3 (1969); Digest of Justinian: Digest 48.2.7.2, translated in 11 S. Scott, The Civil Law 17 (1932). 
+
+4
+ See Bartkus, 359 U. S., at 152, n. 4 (Black, J., dissenting); Z. Brooke, The English Church and the Papacy 204–205, n. 1 (1931). 
+
+5
+ 1 F. Pollock & F. Maitland, The History of English Law 448 (2d ed. 1898). 
+
+6
+ See, e.g., The Massachusetts Body of Liberties of 1641, cl. 42, in The Colonial Laws of Massachusetts 42–43 (W. Whitmore ed. 1889); 4 W. Blackstone, Commentaries on the Laws of England 335–336 (5th ed. 1773) (Blackstone, Commentaries); 2 W. Hawkins, Pleas of the Crown 368 (1762) (Hawkins). 
+
+7
+ Ex parte Lange, 18 Wall. 163, 170 (1874).  See also Benton v. Maryland,
+
+395 U.S. 784, 795–796 (1969); F. Wharton, Criminal Law of the United States 147 (1846). 
+
+8
+ 3 J. Story, Commentaries on the Constitution of the United States §1781, p. 659 (1833). 
+
+9
+ Ex parte Taylor, 636 So. 2d 1246 (Ala. 1993); see Ala. Code §§13A–11–70(2), 13A–11–72(a) (2015). 
+
+10
+ Whalen v. United States,
+
+445 U.S. 684, 691–692 (1980). 
+
+11
+ Dictionarium Britannicum (N. Bailey ed. 1730); see also N. Webster, An American Dictionary of the English Language (1828) (defining an “offense” as including “[a]ny transgression of law, divine or human”). 
+
+12
+ 4 Blackstone, Commentaries 3. 
+
+13
+ 
+
+284 U.S. 299, 304 (1932). 
+
+14
+ 4 Blackstone, Commentaries 176–187, 222. 
+
+15
+ See, e.g., 2 J. Bishop, Commentaries on the Criminal Law §§90–120 (5th ed. 1872) (discussing the singular offense of “burglary” by reference to the “common law,” English law, and the laws of multiple States). 
+
+16
+ 30 Journals of the Continental Congress 440 (J. Fitzpatrick ed. 1934). 
+
+17
+ 10 id., at 72 (W. Ford ed. 1908). 
+
+18
+ 29 id., at 803 (J. Fitzpatrick ed. 1933). 
+
+19
+ 1 Annals of Cong. 753 (1789). 
+
+20
+ Ibid. 
+
+21
+ McCulloch v. Maryland, 4 Wheat. 316, 404–405 (1819). 
+
+22
+ The Federalist No. 82, p. 494 (C. Rossiter ed. 1961). 
+
+23
+ See Testa v. Katt,
+
+330 U.S. 386 (1947). 
+
+24
+ Claflin v. Houseman,
+
+93 U.S. 130 (1876). 
+
+25
+ See Tennessee v. Davis,
+
+100 U.S. 257 (1880). 
+
+26
+ Testa, 330 U. S., at 390.  The Court tries to make the most of McCulloch, pointing out that Chief Justice Marshall distinguished between “ ‘the people of a State’ ” and “ ‘the people of all the States.’ ”  Ante, at 9.  But of course our federal republic is composed of separate governments.  My point is that the federal and state governments ultimately derive their sovereignty from one and the same source; they are not truly “separate” in the manner of, say, the governments of England and Portugal.  The American people “ ‘split the atom of sovereignty,’ ” ante, at 9, to set two levels of government against each other, not to set both against the people.  McCulloch is consistent with that understanding.  In holding that the States could not tax the national bank, McCulloch sought to ensure that the national and state governments remained each in its proper sphere; it did not hold that the two governments could work in concert to abridge the people’s liberty in a way that neither could on its own. 
+
+27
+ Bond v. United States,
+
+564 U.S. 211, 222 (2011); see also New York v. United States,
+
+505 U.S. 144, 181 (1992); Alden v. Maine,
+
+527 U.S. 706, 758 (1999); The Federalist No. 51. 
+
+28
+ Bartkus, 359 U. S., at 155 (dissenting opinion). 
+
+29
+ Abbate v. United States,
+
+359 U.S. 187, 203 (1959) (same). 
+
+30
+ 4 Blackstone, Commentaries 335, and n. j. 
+
+31
+ 3 Mod. 194, 87 Eng. Rep. 124 (K. B.). 
+
+32
+ 2 Hawkins §10, at 372 (emphasis added). 
+
+33
+ H. Bathurst, Theory of Evidence 39. 
+
+34
+ Ibid. 
+
+35
+ F. Buller, An Introduction to the Law Relative to Trials at Nisi Prius 241. 
+
+36
+ 3 Mod. 194, 87 Eng. Rep. 124, sub nom. Beake v. Tyrrell, 1 Show. K. B. 6, 89 Eng. Rep. 411, sub nom. Beake v. Tirrell, Comb. 120, 90 Eng. Rep. 379. 
+
+37
+ 2 Str. 733, 93 Eng. Rep. 815 (K. B. 1726) 
+
+38
+ 1 Leach 134, 168 Eng. Rep. 169 (K. B. 1775). 
+
+39
+ See, e.g., A. Amar, America’s Constitution: A Biography 45 (2005); The Federalist No. 5, pp. 50–51; The Federalist No. 17; Jay, An Address to the People of the State of New York, in Pamphlets on the Constitution of the United States 84 (P. Ford ed. 1788). 
+
+40
+ 2 Hawkins §10, at 372. 
+
+41
+ King v. Thomas, 1 Lev. 118, 83 Eng. Rep. 326 (K. B. 1664). 
+
+42
+ Gage v. Bulkeley, Ridg. t. H. 263, 270–271, 27 Eng. Rep. 824, 827.  (1794). 
+
+43
+ Indeed, though England ruled Wales at the time, a contemporaneous lawyer might have thought that Wales’ authority to prosecute a defendant derived at least in part from its earlier status as “an absolute and undependent Kingdom” rather than purely from authority delegated by England.  1 Keb. 663, 83 Eng. Rep. 1172 (K. B. 1663); see UnitedStates v. Lara,
+
+541 U.S. 193, 210 (2004). 
+
+44
+ Indeed, everything that matters was contained in the 1775 version of the Roche case report.  Roche was indicted in England for a murder committed in South Africa.  “To this indictment Captain Roche pleaded Autrefois acquit.”  Roche, 1 Leach 134, 168 Eng. Rep. 169.  In response, the prosecution asked the court to charge the jury both with “this issue [the plea of autrefois acquit], and that of Not guilty.”  Ibid.  The court rejected that proposal, reasoning that “if the first finding was for the prisoner, they could not go to the second, because that finding would be a bar.”  Ibid.  Far from saying “absolutely nothing” about double jeopardy, ante, at 16, Roche is a serious problem for the government because it explicitly recognizes that a successful plea of autrefois acquit, even one based on a foreign conviction, would bar a prosecution in England.  But the Court ignores this, focusing instead on the missing explanatory citation to Hutchinson that was, in any event, added shortly thereafter. 
+
+45
+ Grant, Successive Prosecutions by State and Nation: Common Law and British Empire Comparisons, 4 UCLA L. Rev. 1, 9–11 (1956) (footnotes omitted). 
+
+46
+ 2 L. MacNally, Rules of Evidence on Pleas of the Crown 428 (1802); see also 1 T. Starkie, Criminal Pleading 300–301, n. h (1814); 1 J. Chitty, Criminal Law 458 (2d ed. 1816). 
+
+47
+ J. Archbold, Pleading and Evidence in Criminal Cases 89 (5th ed. 1834).  Many more authorities are to the same effect.  See, e.g., 1 Encyc. of the Laws of England, Autrefois aquit, 424–425 (A. Renton ed. 1897); 2 J. Gabbett, Criminal Law 334 (1843); 2 E. Deacon, Digest of the Criminal Law of England 931 (1831); R. Matthews, Digest of Criminal Law 26 (1833); H. Nelson, Private International Law 368, n. y (1889); 1 W. Russell, Crimes and Indictable Misdemeanors 471–472 (2d ed. 1826); H. Woolrych, Criminal Law 129 (1862); 2 M. Hale, Pleas of the Crown 255 (1st Am. ed., S. Emlyn ed. 1847); H. Smith, Roscoe on the Law of Evidence 199 (8th ed. 1874). 
+
+48
+ Her Majesty’s Advocate v. MacGregor, (1846) Ark. 49, 60. 
+
+49
+ A. Gibb, International Law of Jurisdiction in England and Scotland 285–286 (1926); A. Gibson & A. Weldon, Criminal and Magisterial Law 225 (7th ed. 1919); S. Harris, Criminal Law 377 (9th ed. 1901); C. Kenny, Outlines of Criminal Law 469 (10th ed. 1920); H. Cohen, Roscoe on the Law of Evidence 172 (13th ed. 1908). 
+
+50
+ ALI, Administration of Criminal Law §16, p. 129 (Proposed Final Draft, Mar. 18, 1935). 
+
+51
+ Regina v. Treacy, [1971] A. C. 537, 562, 2 W. L. R. 112, 125 (opinion of Diplock, L. J.) (citing Roche, 1 Leach 134, 168 Eng. Rep. 169). 
+
+52
+ 1 Commentaries on American Law 176 (1826). 
+
+53
+ Constitutional Law 278 (1830). 
+
+54
+ View of the Constitution 191 (1825). 
+
+55
+ J. Bayard, Brief Exposition of the Constitution of the United States 150–151 (1845). 
+
+56
+ 5 Wheat. 1, 12 (1820). 
+
+57
+ Id., at 31. 
+
+58
+ Id., at 72. 
+
+59
+ The Court insists that Houston involved an unusual state statute that “imposed state sanctions for violation of a federal criminal law.”  Ante, at 23.  But so what?  Everyone involved in Houston agreed that the defendant had been tried by a Pennsylvania court, under a Pennsylvania statute, passed by the Pennsylvania Legislature.  And though there were separate sovereigns with separate laws, everyone agreed there was only one offense. 
+
+60
+ 5 Wheat. 184, 197 (1820).  To be sure, Furlong proceeded to indicate that an acquittal for murder in an American court would not have prohibited a later prosecution in a British court in this case.  But that was only because the British courts would not have recognized the jurisdiction of an American court to try a murder committed by a British subject on the high seas.  Furlong’s discussion is therefore perfectly consistent with the Hutchinson principle—a rule that applied only when both courts had “competent jurisdiction of the offence” and could actually place the defendant in jeopardy.  See 4 Blackstone, Commentaries 365. 
+
+61
+ Citing Commonwealth v. Fuller, 49 Mass. 313, 318 (1844); Harlan v. People, 1 Doug. 207, 212 (Mich. 1843); State v. Randall, 2 Aik. 89 (Vt. 1827). 
+
+62
+ State v. Antonio, 7 S. C. L. 776 (1816). 
+
+63
+ Bartkus, 359 U. S., at 158–159 (Black, J., dissenting). 
+
+64
+ 2 N. C. 100, 101. 
+
+65
+ Ibid. (emphasis added). 
+
+66
+ Ibid. 
+
+67
+ Perhaps the only early state-law discussion that truly supports the Court’s position is dicta in an 1834 Virginia decision.  Hendrick v. Commonwealth, 32 Va. 707.  Yet even that support proves threadbare in the end, given that “the highest court of the same State later expressed the view that such double trials would virtually never occur in our country.”  Bartkus, 359 U. S., at 159 (Black, J., dissenting) (citing Jett v. Commonwealth, 59 Va. 933, 947, 959 (1867)). 
+
+68
+ R. Cross & J. Harris, Precedent in English Law, intro. comment (4th ed. 1991) (attributing the aphorism to Jeremy Bentham). 
+
+69
+ 19 How. 393 (1857). 
+
+70
+ 
+
+163 U.S. 537 (1896). 
+
+71
+ 
+
+323 U.S. 214 (1944). 
+
+72
+ Burnet v. Coronado Oil & Gas Co.,
+
+285 U.S. 393, 406–408 (1932) (dissenting opinion) (footnotes omitted). 
+
+73
+ Pearson v. Callahan,
+
+555 U.S. 223, 233 (2009). 
+
+74
+ Agostini v. Felton,
+
+521 U.S. 203, 235 (1997). 
+
+75
+ Franchise Tax Bd. of Cal. v. Hyatt, ante, at ___ (slip op., at 17). 
+
+76
+ Janus v. State, County, and Municipal Employees, 585 U. S. ___, ___ (2018) (slip op., at 35). 
+
+77
+ 9 How. 560 (1850). 
+
+78
+ 5 How. 410 (1847). 
+
+79
+ Id., at 435. 
+
+80
+ 14 How. 13. 
+
+81
+ 19 How. 393. 
+
+82
+ Id., at 450. 
+
+83
+ Moore, 14 How., at 18. 
+
+84
+ Id., at 16. 
+
+85
+ Grant, The Lanza Rule of Successive Prosecutions, 32 Colum. L. Rev. 1309, 1311 (1932). 
+
+86
+ 
+
+260 U.S. 377 (1922). 
+
+87
+ Id., at 381, 382. 
+
+88
+ Payne v. Tennessee,
+
+501 U.S. 808, 828–829 (1991). 
+
+89
+ 14 How., at 22 (dissenting opinion). 
+
+90
+ Ibid. 
+
+91
+ See, e.g., Cassell, The Rodney King Trials and the Double Jeopardy Clause: Some Observations on Original Meaning and the ACLU’s Schizophrenic Views of the Dual Sovereign Doctrine, 41 UCLA L. Rev. 693, 708–720 (1994); Braun, Praying to False Sovereigns: The Rule Permitting Successive Prosecutions in the Age of Cooperative Federalism, 20 Am. J. Crim. L. 1 (1992); Amar & Marcus, Double Jeopardy Law After Rodney King, 95 Colum. L. Rev. 1, 6–15 (1995); King, The Problem of Double Jeopardy in Successive Federal-State Prosecutions: A
+ 
+Fifth Amendment Solution, 31 Stan. L. Rev. 477 (1979). 
+
+92
+ United States v. Gaudin,
+
+515 U.S. 506, 521 (1995). 
+
+93
+ 
+
+302 U.S. 319, 328–329 (1937). 
+
+94
+ Benton, 395 U. S., at 794. 
+
+95
+ South Dakota v. Wayfair, Inc., 585 U. S. ___, ___ (2018) (slip op., at 18) (internal quotation marks omitted). 
+
+96
+ E. Meese, Big Brother on the Beat: The Expanding Federalization of Crime, 1 Texas L. Rev. L. & Pol’y 1, 22 (1997). 
+
+97
+ See Wilson, That Justice Shall Be Done, 36 No. Ill. L. Rev. 111, 121 (2015). 
+
+98
+ Clark & Joukov, Criminalization of America, 76 Ala. L. 225 (2015).  See also Larkin, Public Choice Theory and Overcriminalization, 36 Harv. J. L. Pub. Pol’y 715, 726 (2013) (“There are so many federal criminal laws that no one, including the Justice Department, the principal federal law enforcement agency, knows the actual number of crimes”). 
+
+99
+ Arizona v. Gant,
+
+556 U.S. 332, 350 (2009). 
+
+100
+ Id., at 349. 
+
+101
+ Bartkus, 359 U. S., at 163 (Black, J., dissenting). 
+
+

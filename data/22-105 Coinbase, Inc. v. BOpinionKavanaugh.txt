@@ -1,0 +1,452 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-105
+::decision_name::  Coinbase, Inc. v. Bielski
+::decision_year:: 2023
+::opinion_author:: Kavanaugh
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE:  This opinion is subject
+to formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–105
+
+															_________________
+
+															COINBASE, INC., PETITIONER v. ABRAHAM
+BIELSKI
+
+															on writ of certiorari to the united states
+court of appeals for the ninth circuit
+
+															[June 23, 2023]
+
+															
+
+															Justice Kavanaugh delivered the opinion of the
+Court.
+
+															When a federal district court denies a motion to
+compel arbitration, the losing party has a statutory right to an
+interlocutory appeal. See 9 U. S. C. §16(a). The
+sole question here is whether the district court must stay its
+pre-trial and trial proceedings while the interlocutory appeal is
+ongoing. The answer is yes: The district court must stay its
+proceedings.
+
+															I
+
+															Coinbase operates an online platform on which
+users can buy and sell cryptocurrencies and government-issued
+currencies. When creating a Coinbase account, individuals agree to
+the terms in Coinbase’s User Agreement. As relevant here, the
+User Agreement contains an arbitration provision, which directs
+that disputes arising under the agreement be resolved through
+binding arbitration.
+
+															This case concerns a putative class action filed
+against Coinbase in the U. S. District Court for the Northern
+District of California. Abraham Bielski sued on behalf of Coinbase
+users who allege that Coinbase failed to replace funds fraudulently
+taken from the users’ accounts.
+
+															The District Court denied Coinbase’s
+motion to compel arbitration. Coinbase then filed an interlocutory
+appeal to the U. S. Court of Appeals for the Ninth Circuit
+under 9 U. S. C. §16(a).[1] Section 16(a) authorizes an interlocutory appeal from
+the denial of a motion to compel arbitration.
+
+															Coinbase also moved to stay District Court
+proceedings pending resolution of the arbitrability issue on
+appeal. The District Court declined to stay its proceedings. After
+receiving Coinbase’s motion for a stay, the Ninth Circuit
+likewise declined to stay the District Court’s proceedings.
+The Ninth Circuit followed its precedent, under which an appeal
+from the denial of a motion to compel arbitration does not
+automatically stay district court proceedings. See Britton
+v. Co-op Banking Group, 916 F.2d 1405, 1412 (1990). By
+contrast, however, most other Courts of Appeals to address the
+question have held that a district court must stay its proceedings
+while the interlocutory appeal on the question of arbitrability is
+ongoing. E.g., Bradford-Scott Data Corp. v.
+Physician Computer Network, Inc., 
+128
+F.3d 504, 506 (CA7 1997).
+
+															To resolve that disagreement among the Courts of
+Appeals, we granted certiorari. 598 U. S. ___ (2022).
+
+															II
+
+															The Federal Arbitration Act governs
+arbitration agreements. In 1988, Congress passed and President
+Reagan signed an amendment to the Act; the amendment is codified at
+9 U. S. C. §16(a). Under §16(a), when a
+district court denies a party’s motion to compel arbitration,
+that party may take an interlocutory appeal. Section 16(a) creates
+a rare statutory exception to the usual rule that parties may not
+appeal before final judgment. See Mohawk Industries, Inc. v.
+Carpenter, 558 U.S.
+100, 108–109 (2009). Notably, Congress provided for
+immediate interlocutory appeals of orders denying—but
+not of orders granting—motions to compel
+arbitration.
+
+															The sole question before this Court is whether a
+district court must stay its proceedings while the interlocutory
+appeal on arbitrability is ongoing. The answer is yes.
+
+															Section 16(a) does not say whether the district
+court proceedings must be stayed. But Congress enacted §16(a)
+against a clear background principle prescribed by this
+Court’s precedents: An appeal, including an interlocutory
+appeal, “divests the district court of its control over those
+aspects of the case involved in the appeal.” Griggs v.
+Provident Consumer Discount Co., 459 U.S.
+56, 58 (1982). That Griggs principle reflects a
+longstanding tenet of American procedure. See Hovey v.
+McDonald, 109 U.S.
+150, 157 (1883); see also Price v. Dunn, 587
+U. S. ___, ___ (2019) (Thomas, J., joined by Alito and
+Gorsuch, JJ., concurring in denial of certiorari) (slip op., at 7)
+(describing Griggs principle as “well settled”);
+Marrese v. American Academy of Orthopaedic Surgeons,
+470 U.S.
+373, 379 (1985) (“In general, filing of a notice of
+appeal confers jurisdiction on the court of appeals and divests the
+district court of control over those aspects of the case involved
+in the appeal”).
+
+															The Griggs principle resolves this case.
+Because the question on appeal is whether the case belongs in
+arbitration or instead in the district court, the entire case is
+essentially “involved in the appeal.” 459 U. S.,
+at 58. As Judge Easterbrook cogently explained, when a party
+appeals the denial of a motion to compel arbitration, whether
+“the litigation may go forward in the district court is
+precisely what the court of appeals must decide.”
+Bradford-Scott Data Corp. v. Physician Computer Network,
+Inc., 
+128
+F.3d 504, 506 (CA7 1997). Stated otherwise, the question of
+whether “the case should be litigated in the district court
+. . . is the mirror image of the question presented on
+appeal.” Id., at 505. Here, as elsewhere, it
+“makes no sense for trial to go forward while the court of
+appeals cogitates on whether there should be one.”
+Apostol v. Gallion, 870 F.2d 1335, 1338 (CA7 1989).
+In short, Griggs dictates that the district court must stay
+its proceedings while the interlocutory appeal on arbitrability is
+ongoing.[2]
+
+															Most courts of appeals to address the question
+in the §16(a) context have reached that same conclusion.
+E.g., Blinco v. Green Tree Servicing, LLC,
+
+366 F.3d 1249, 
+1253 (CA11 2004) (“[I]t makes little sense for the
+litigation to continue in the district court while the appeal is
+pending”).[3] Leading
+treatises agree that a district court should stay its proceedings
+while the interlocutory appeal on arbitrability is ongoing. For
+example, Moore’s treatise states that a “stay in these
+circumstances” is “the sounder approach” and
+“is consistent with the general [Griggs] principle
+that a district court should not exercise jurisdiction over those
+aspects of the case that are involved in the appeal.” 19 J.
+Moore, D. Coquillette, G. Joseph, G. Vairo, & C. Varner,
+Moore’s Federal Practice §203.12[3][a] (3d ed. 2022).
+Similarly, the Wright and Miller treatise endorses the automatic
+stay requirement in arbitration cases. The treatise explains that a
+“complete stay of district-court proceedings pending appeal
+from a refusal to order arbitration is desirable” because
+“[c]ontinued trial-court proceedings pending appeal could
+lead to an entirely wasted trial if arbitration is ordered on
+appeal.” 15B C. Wright, A. Miller, & E. Cooper, Federal
+Practice and Procedure §3914.17, p. 7 (2d ed., Supp. 2022). In
+the Circuits that have considered the issue in the analogous
+contexts of qualified immunity and double jeopardy, moreover,
+district courts likewise must automatically stay their proceedings
+while the interlocutory appeal is ongoing.[4] Similarly, as Bielski acknowledges, courts have held
+that the Griggs principle applies to those aspects of the
+case involved in a certified interlocutory appeal under 28
+U. S. C. §1292(b).[5]
+
+															The common practice in §16(a) cases,
+therefore, is for a district court to stay its proceedings while
+the interlocutory appeal on arbitrability is ongoing. That common
+practice reflects common sense. Absent an automatic stay of
+district court proceedings, Congress’s decision in
+§16(a) to afford a right to an interlocutory appeal would be
+largely nullified. If the district court could move forward with
+pre-trial and trial proceedings while the appeal on arbitrability
+was ongoing, then many of the asserted benefits of arbitration
+(efficiency, less expense, less intrusive discovery, and the like)
+would be irretrievably lost—even if the court of appeals
+later concluded that the case actually had belonged in arbitration
+all along. Absent a stay, parties also could be forced to settle to
+avoid the district court proceedings (including discovery and
+trial) that they contracted to avoid through arbitration. That
+potential for coercion is especially pronounced in class actions,
+where the possibility of colossal liability can lead to what Judge
+Friendly called “blackmail settlements.” H. Friendly,
+Federal Jurisdiction: A General View 120 (1973).
+
+															As Judge Easterbrook stated, continuation of
+proceedings in the district court “largely defeats the point
+of the appeal.” Bradford-Scott, 128 F. 3d, at
+505. A right to interlocutory appeal of the arbitrability issue
+without an automatic stay of the district court proceedings is
+therefore like a lock without a key, a bat without a ball, a
+computer without a keyboard—in other words, not especially
+sensible.
+
+															From the Judiciary’s institutional
+perspective, moreover, allowing a case to proceed simultaneously in
+the district court and the court of appeals creates the possibility
+that the district court will waste scarce judicial
+resources—which could be devoted to other pressing criminal
+or civil matters—on a dispute that will ultimately head to
+arbitration in any event. That scenario represents the “worst
+possible outcome” for parties and the courts: litigating a
+dispute in the district court only for the court of appeals to
+“reverse and order the dispute arbitrated.” Id.,
+at 506. The Griggs rule avoids that detrimental result.
+
+															Importantly, Congress’s longstanding
+practice both reflects and reinforces the Griggs rule. When
+Congress wants to authorize an interlocutory appeal and to
+automatically stay the district court proceedings during that
+appeal, Congress need not say anything about a stay. At least
+absent contrary indications, the background Griggs principle
+already requires an automatic stay of district court proceedings
+that relate to any aspect of the case involved in the appeal. By
+contrast, when Congress wants to authorize an interlocutory appeal,
+but not to automatically stay district court proceedings
+pending that appeal, Congress typically says so. Since the creation
+of the modern courts of appeals system in 1891, Congress has
+enacted multiple statutory “non-stay”
+provisions.[6] Indeed, Congress
+enacted a “non-stay” provision the day before enacting
+§16(a) in 1988. See 102Stat. 4120 (“Neither the
+application for, nor the granting of, an appeal . . .
+shall stay proceedings in the Court of Veterans
+Appeals”).
+
+															In short, the Griggs rule requires that a
+district court stay its proceedings while the interlocutory appeal
+on the question of arbitrability is ongoing.
+
+															III
+
+															To overcome the Griggs principle,
+Bielski advances five main arguments. None is persuasive.
+
+															First, Bielski contends that an automatic
+stay would encourage frivolous appeals that would improperly delay
+district court proceedings. To begin with, Bielski has not
+established that frivolous appeals frequently occur in the Circuits
+that have long applied the Griggs principle in arbitration
+cases. Cf. Henry Schein, Inc. v. Archer & White
+Sales, Inc., 586 U. S. ___, ___ (2019) (slip op., at 8).
+Nor does Bielski argue that Coinbase’s appeal in this case is
+frivolous. Importantly, moreover, the courts of appeals possess
+robust tools to prevent unwarranted delay and deter frivolous
+interlocutory appeals. For example, a party can ask the court of
+appeals to summarily affirm, to expedite an interlocutory appeal,
+or to dismiss the interlocutory appeal as frivolous. In addition,
+nearly every circuit has developed a process by which a district
+court itself may certify that an interlocutory appeal is frivolous.
+Brief for Petitioner 51; see also Arthur Andersen LLP v.
+Carlisle, 556 U.S.
+624, 629 (2009) (“Appellate courts can streamline the
+disposition of meritless claims and even authorize the district
+court’s retention of ” a case “when an
+appeal is certified as frivolous”). Finally, a court of
+appeals may impose sanctions where appropriate; the possibility of
+sanctions also helps deter frivolous appeals. See Fed. Rule App.
+Proc. 38; Arthur Andersen, 556 U. S., at 629.
+
+															Second, Bielski contrasts §16(a)
+with two other statutory provisions that contain an explicit stay
+requirement—§3 of the Federal Arbitration Act and
+§1292(d)(4) of Title 28. Bielski suggests that Congress would
+not have included those explicit stay requirements in §3 and
+§1292(d)(4) unless Congress thought that an interlocutory
+appeal did not ordinarily stay district court proceedings. Bielski
+is wrong.
+
+															Section 3 of the Act provides for a stay of
+court proceedings pending arbitration, not pending an
+appeal. That situation does not fall within the Griggs rule.
+No background principle requires automatic stays of district court
+proceedings pending arbitration. In order to
+automatically stay court proceedings pending arbitration in those
+cases, Congress therefore affirmatively codified a stay
+requirement.
+
+															As to §1292(d)(4): When Congress added
+§1292(d)(4)’s stay requirement in 1988, the relevant
+subsection already contained a provision, §1292(d)(3), that
+expressly made stays of proceedings in certain courts discretionary
+rather than mandatory. To avoid any misinterpretation of
+§1292(d)(4) because of that preexisting language in
+§1292(d)(3), Congress specified the right to an automatic stay
+pending appeal in §1292(d)(4). That unusual circumstance does
+not diminish the operation of the Griggs rule in the context
+of arbitrability appeals.
+
+															Third, Bielski contends that requiring an
+automatic stay would create a special, arbitration-preferring
+procedural rule. That is incorrect. In fact, Bielski’s
+proposed approach would disfavor arbitration. Applying the
+Griggs rule here simply subjects arbitrability appeals to
+the same stay principles that courts apply in other analogous
+contexts where an interlocutory appeal is authorized, including
+qualified immunity and double jeopardy. Bielski further points to
+forum selection clauses as an analogy. But unlike §16(a)
+arbitrability appeals, Congress has not created a right to an
+interlocutory appeal for cases involving forum selection clauses.
+So a stay in the forum selection context could be required only in
+those cases where there is a certified §1292(b) interlocutory
+appeal of the forum selection issue.
+
+															Fourth, Bielski suggests that there is no
+need for an automatic stay because the ordinary discretionary stay
+factors would adequately protect parties’ rights to an
+interlocutory appellate determination of arbitrability. To begin
+with, experience shows that Bielski is incorrect. District courts
+and courts of appeals applying the usual four-factor standard for a
+discretionary stay often deny stays in §16(a) appeals because
+courts applying that test often do not consider litigation-related
+burdens (here, from the continued District Court proceedings) to
+constitute irreparable harm. See Nken v. Holder,
+556 U.S.
+418, 434–435 (2009); FTC v. Standard Oil Co. of
+Cal., 449 U.S.
+232, 244 (1980) (“Mere litigation expense, even
+substantial and unrecoupable cost, does not constitute irreparable
+injury” (internal quotation marks omitted)); App. to Pet. for
+Cert. 43a (District Court in Bielski stating that
+“[m]ere litigation expenses do not generally constitute
+irreparable injury” for purposes of stay pending appeal). In
+any event, the background Griggs rule applies regardless of
+how often courts might otherwise grant stays under the ordinary
+discretionary stay factors.
+
+															Fifth, Bielski relies on this
+Court’s statement that questions of arbitrability are
+“severable from the merits of the underlying disputes.”
+Moses H. Cone Memorial Hospital v. Mercury Constr.
+Corp., 460 U.S.
+1, 21 (1983). But the sole issue here is whether the district
+court’s authority to consider a case is “involved in
+the appeal” when an appellate court considers the threshold
+question of arbitrability. Griggs, 459 U. S., at 58.
+The answer is yes, and Moses H. Cone says nothing to the
+contrary.
+
+															*  *  *
+
+															We conclude that, after Coinbase appealed from
+the denial of its motion to compel arbitration, the District Court
+was required to stay its proceedings. On remand, we anticipate that
+the Ninth Circuit here, as we anticipate in §16(a) appeals
+more generally, will proceed with appropriate expedition when
+considering Coinbase’s interlocutory appeal from the denial
+of the motion to compel arbitration. We reverse the judgment of the
+Court of Appeals and remand the case for further proceedings
+consistent with this opinion.[7]
+
+															
+
+															It is so ordered.
+
+Notes
+1
+ As relevant, the text of
+§16(a) provides: “An appeal may be taken from . . .
+an order . . . “(A) refusing a stay of any action
+under section 3 of this title, “(B) denying a petition under
+section 4 of this title to order arbitration to proceed, “(C)
+denying an application under section 206 of this title to compel
+arbitration, “(D) confirming or denying confirmation of an
+award or partial award, or “(E) modifying, correcting, or
+vacating an award.”
+2
+ Coinbase concedes that
+the district court may still proceed with matters that are not
+involved in the appeal, such as the awarding of costs and
+attorney’s fees. Brief for Petitioner 21; see also 16A C.
+Wright, A. Miller, E. Cooper, & C. Struve, Federal Practice and
+Procedure §3949.1, pp. 68–69 (5th ed.
+2019).
+3
+ See also Levin v.
+Alms & Assoc., Inc., 634 F.3d 260, 266 (CA4 2011);
+Ehleiter v. Grapetree Shores, Inc., 482 F.3d 207,
+215, n. 6 (CA3 2007); McCauley v. Halliburton Energy
+Servs., Inc., 
+413 F.3d 1158, 1162–1163 (CA10 2005); Bombardier
+Corp. v. National R. Passenger Corporation, 
+333 F.3d 250, 252 (CADC 2003); Bradford-Scott Data Corp.
+v. Physician Computer Network, Inc., 
+128 F.3d 504, 505–507 (CA7 1997); but see, e.g.,
+Weingarten Realty Investors v. Miller, 661 F.3d 904,
+907–910 (CA5 2011).
+4
+ E.g., United
+States v. Montgomery, 
+262 F.3d 233, 239–240 (CA4 2001) (double jeopardy);
+United States v. LaMere, 951 F.2d 1106, 1108 (CA9
+1991) (same); United States v. Grabinski, 674 F.2d
+677, 679 (CA8 1982) (same); United States v. Dunbar,
+611 F.2d 985, 988–989 (CA5 1980) (en banc) (same);
+Chuman v. Wright, 960 F.2d 104, 105 (CA9 1992)
+(qualified immunity); Yates v. Cleveland, 941 F.2d
+444, 448–449 (CA6 1991) (same); Apostol v.
+Gallion, 870 F.2d 1335, 1338 (CA7 1989) (same);
+Stewart v. Donges, 915 F.2d 572, 575–576 (CA10
+1990) (both).
+5
+ See Tr. of Oral Arg.
+60–61; see also Green Leaf Nursery v. E. I. DuPont
+De Nemours and Co., 
+341 F.3d 1292, 1309 (CA11 2003); Los Angeles v. Santa
+Monica Baykeeper, 
+254 F.3d 882, 885–886 (CA9 2001); Dayton Independent
+School Dist. v. U. S. Mineral Prods. Co., 906 F.2d
+1059, 1063–1064 (CA5 1990).
+6
+ Act of Apr. 3, 1926, ch.
+102, 44Stat. 233–234; Act of Feb. 28, 1927, ch. 228,
+id., at 1261; Act of Sept. 2, 1958, Pub. L. 85–919,
+72Stat. 1770; Federal Courts Improvement Act of 1982, §125,
+96Stat. 37, 28 U. S. C. §1292(d)(3); Tax Reform Act
+of 1986, §1558, 100Stat. 2757–2758, 26
+U. S. C. §7482(a)(2)(A); Veterans’ Judicial
+Review Act, 102Stat. 4120, as amended, 38 U. S. C.
+§7292(b)(1); Bankruptcy Abuse Prevention and Consumer
+Protection Act of 2005, 119Stat. 203, 28 U. S. C.
+§158(d)(2)(D); Puerto Rico Oversight, Management, and Economic
+Stability Act, §306, 130Stat. 582, 48 U. S. C.
+§2166(e)(6); see also Judiciary Act of 1891, §7, 26Stat.
+828; Act of June 6, 1900, ch. 803, 31Stat. 660–661; Fed. Rule
+Civ. Proc. 23(f ).
+7
+ The Court’s
+judgment today pertains to respondent Abraham Bielski. The writ of
+certiorari as to respondents David Suski et al. is dismissed
+as improvidently granted.
+
+

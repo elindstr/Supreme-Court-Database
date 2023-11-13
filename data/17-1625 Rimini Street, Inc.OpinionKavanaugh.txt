@@ -1,0 +1,171 @@
+::SCDB_caseID:: 2018-043
+::decision_cite:: 17-1625
+::decision_name::  Rimini Street, Inc. v. Oracle USA, Inc.
+::decision_year:: 2019
+::opinion_author:: Kavanaugh
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1625
+
+															_________________
+
+															RIMINI STREET, INC., et al., PETITIONERS v. ORACLE USA, INC., et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[March 4, 2019]
+
+															
+
+															Justice Kavanaugh delivered the opinion of the Court.
+
+															The Copyright Act gives federal district courts discretion to award “full costs” to a party in copyright litigation.
+
+17 U. S. C. §505.  In the general statute governing awards of costs, Congress has specified six categories of litigation expenses that qualify as “costs.”  See 28 U. S. C. §§1821, 1920.  The question presented in this case is whether the Copyright Act’s reference to “full costs” authorizes a court to award litigation expenses beyond the six categories of “costs” specified by Congress in the general costs statute.  The statutory text and our precedents establish that the answer is no.  The term “full” is a term of quantity or amount; it does not expand the categories or kinds of expenses that may be awarded as “costs” under the general costs statute.  In copyright cases, §505’s authorization for the award of “full costs” therefore covers only the six categories specified in the general costs statute, codified at §§1821 and 1920.  We reverse in relevant part the judgment of the U. S. Court of Appeals for the Ninth Circuit, and we remand the case for further proceedings consistent with this opinion.
+
+															I
+
+															Oracle develops and licenses software programs that manage data and operations for businesses and non-profit organizations.  Oracle also offers its customers software maintenance services.
+
+															Rimini Street sells third-party software maintenance services to Oracle customers.  In doing so, Rimini competes with Oracle’s software maintenance services.
+
+															Oracle sued Rimini and its CEO in Federal District Court in Nevada, asserting claims under the Copyright Act and various other federal and state laws.  Oracle alleged that Rimini, in the course of providing software support services to Oracle customers, copied Oracle’s software without licensing it.
+
+															A jury found that Rimini had infringed various Oracle copyrights and that both Rimini and its CEO had violated California and Nevada computer access statutes.  The jury awarded Oracle $35.6 million in damages for copyright infringement and $14.4 million in damages for violations of the state computer access statutes.  After judgment, the District Court ordered the defendants to pay Oracle an additional $28.5 million in attorney’s fees and $4.95 million in costs; the Court of Appeals reduced the latter award to $3.4 million.  The District Court also ordered the defendants to pay Oracle $12.8 million for litigation expenses such as expert witnesses, e-discovery, and jury consulting.
+
+															That $12.8 million award is the subject of the dispute in this case.  As relevant here, the U. S. Court of Appeals for the Ninth Circuit affirmed the District Court’s $12.8 million award.  The Court of Appeals recognized that the general federal statute authorizing district courts to award costs, 28 U. S. C. §§1821 and 1920, lists only six categories of costs that may be awarded against the losing party.  And the Court of Appeals acknowledged that the $12.8 million award covered expenses not included within those six categories.  But the Court of Appeals, relying on Circuit precedent, held that the District Court’s $12.8 million award for additional expenses was still appropriate because §505 permits the award of “full costs,” a term that the Ninth Circuit said was not confined to the six categories identified in §§1821 and 1920.  879 F.3d 948, 965−966 (2018).
+
+															We granted certiorari to resolve disagreement in the Courts of Appeals over whether the term “full costs” in §505 authorizes awards of expenses other than those costs identified in §§1821 and 1920.  585 U. S. ___ (2018).  Compare 879 F. 3d, at 965–966; Twentieth Century Fox Film Corp. v. Entertainment Distributing, 429 F.3d 869 (CA9 2005), with Artisan Contractors Assn. of Am., Inc. v. Frontier Ins. Co., 275 F.3d 1038 (CA11 2001); Pinkham v. Camex, Inc., 84 F.3d 292 (CA8 1996).
+
+															II
+
+															A
+
+															Congress has enacted more than 200 subject-specific federal statutes that explicitly authorize the award of costs to prevailing parties in litigation.  The Copyright Act is one of those statutes.  That Act provides that a district court in a copyright case “in its discretion may allow the recovery of full costs by or against any party other than the United States or an officer thereof.”
+
+17 U. S. C. §505.
+
+															In the general “costs” statute, codified at §§1821 and 1920 of Title 28, Congress has specified six categories of litigation expenses that a federal court may award as “costs,”[1] and Congress has detailed how to calculate the amount of certain costs.  Sections 1821 and 1920 in essence define what the term “costs” encompasses in the subject-specific federal statutes that provide for an award of costs.
+
+															Sections 1821 and 1920 create a default rule and establish a clear baseline against which Congress may legislate.  Consistent with that default rule, some federal statutes simply refer to “costs.”  In those cases, federal courts are limited to awarding the costs specified in §§1821 and 1920.  If, for particular kinds of cases, Congress wants to authorize awards of expenses beyond the six categories specified in the general costs statute, Congress may do so.  For example, some federal statutes go beyond §§1821 and 1920 to expressly provide for the award of expert witness fees or attorney’s fees.  See West Virginia Univ. Hospitals, Inc. v. Casey,
+
+499 U.S. 83, 89, n. 4 (1991).  Indeed, the Copyright Act expressly provides for awards of attorney’s fees as well as costs.
+
+17 U. S. C. §505.  And the same Congress that enacted amendments to the Copyright Act in 1976 enacted several other statutes that expressly authorized awards of expert witness fees.  See Casey, 499 U. S., at 88. But absent such express authority, courts may not award litigation expenses that are not specified in §§1821 and 1920.
+
+															Our precedents have consistently adhered to that approach.  Three cases illustrate the point.
+
+															In Crawford Fitting Co. v. J. T. Gibbons, Inc., the question was whether courts could award expert witness fees under Rule 54(d) of the Federal Rules of Civil Procedure.  Rule 54(d) authorizes an award of “costs” but does not expressly refer to expert witness fees.
+
+482 U.S. 437, 441 (1987).  In defining what expenses qualify as “costs,” §§1821 and 1920 likewise do not include expert witness fees.  We therefore held that the prevailing party could not obtain expert witness fees: When “a prevailing party seeks reimbursement for fees paid to its own expert witnesses, a federal court is bound by the limit of §1821(b), absent contract or explicit statutory authority to the contrary.”  Id., at 439.
+
+															In Casey, we interpreted
+
+42 U. S. C. §1988, the federal statute authorizing an award of “costs” in civil rights litigation.  We described Crawford Fitting as holding that §§1821 and 1920 “define the full extent of a federal court’s power to shift litigation costs absent express statutory authority to go further.”  499 U. S., at 86.  In accord with Crawford Fitting, we concluded that §1988 does not authorize awards of expert witness fees because §1988 supplies no “ ‘explicit statutory authority’ ” to award expert witness fees.  499 U. S., at 87 (quoting Crawford Fitting, 482 U. S., at 439).
+
+															In Arlington Central School Dist. Bd. of Ed. v. Murphy, we considered the Individuals with Disabilities Education Act, which authorized an award of costs.  The question was whether that Act’s reference to “costs” encompassed expert witness fees.  We again explained that “costs” is “ ‘a term of art that generally does not include expert fees.’ ”
+
+548 U.S. 291, 297 (2006); see also Taniguchi v. Kan Pa- cific Saipan, Ltd.,
+
+566 U.S. 560, 573 (2012).  We stated: “[N]o statute will be construed as authorizing the taxation of witness fees as costs unless the statute ‘refer[s] explic- itly to witness fees.’ ”  Murphy, 548 U. S., at 301 (quoting Crawford Fitting, 482 U. S., at 445).
+
+															Our cases, in sum, establish a clear rule: A statute awarding “costs” will not be construed as authorizing an award of litigation expenses beyond the six categories listed in §§1821 and 1920, absent an explicit statutory instruction to that effect.  See Murphy, 548 U. S., at 301 (requiring “ ‘explici[t]’ ” authority); Casey, 499 U. S., at 86 (requiring “ ‘explicit’ ” authority); Crawford Fitting, 482 U. S., at 439 (requiring “explicit statutory authority”).
+
+															Here, the Copyright Act does not explicitly authorize the award of litigation expenses beyond the six categories specified in §§1821 and 1920.  And §§1821 and 1920 in turn do not authorize an award for expenses such as expert witness fees, e-discovery expenses, and jury consultant fees, which were expenses encompassed by the District Court’s $12.8 million award to Oracle here.  Rimini argues that the $12.8 million award therefore cannot stand.
+
+															B
+
+															To sustain its $12.8 million award, Oracle advances three substantial arguments.  But we ultimately do not find those arguments persuasive.
+
+															First, although Oracle concedes that it would lose this case if the Copyright Act referred only to “costs,” Oracle stresses that the Copyright Act uses the word “full” before “costs.”  Oracle argues that the word “full” authorizes courts to award expenses beyond the costs specified in §§1821 and 1920.  We disagree.  “Full” is a term of quantity or amount.  It is an adjective that means the complete measure of the noun it modifies.  See American Heritage Dictionary 709 (5th ed. 2011); Oxford English Dictionary 247 (2d ed. 1989).  As we said earlier this Term: “Adjectives modify nouns—they pick out a subset of a category that possesses a certain quality.”  Weyerhaeuser Co. v. United States Fish and Wildlife Serv., 586 U. S. ___, ___ (2018) (slip op., at 8).
+
+															The adjective “full” in §505 therefore does not alter the meaning of the word “costs.”  Rather, “full costs” are all the “costs” otherwise available under law.  The word “full” operates in the phrase “full costs” just as it operates in other common phrases: A “full moon” means the moon, not Mars.  A “full breakfast” means breakfast, not lunch.  A “full season ticket plan” means tickets, not hot dogs.  So too, the term “full costs” means costs, not other expenses.
+
+															The dispute here, therefore, turns on the meaning of the word “costs.”  And as we have explained, the term “costs” refers to the costs generally available under the federal costs statute—§§1821 and 1920.  “Full costs” are all the costs generally available under that statute.
+
+															Second, Oracle maintains that the term “full costs” in the Copyright Act is a historical term of art that encompasses more than the “costs” listed in the relevant costs statute—here, §§1821 and 1920.  We again disagree.
+
+															Some general background: From 1789 to 1853, federal courts awarded costs and fees according to the relevant state law of the forum State.  See Crawford Fitting, 482 U. S., at 439−440; Alyeska Pipeline Service Co. v. Wilderness Society,
+
+421 U.S. 240, 247−250 (1975).  In 1853, Congress departed from that state-focused approach.  That year, Congress passed and President Fillmore signed a comprehensive federal statute establishing a federal schedule for the award of costs in federal court.  Crawford Fitting, 482 U. S., at 440;
+
+10Stat.
+161.  Known as the Fee Act of 1853, that 1853 statute has “carried forward to today” in §§1821 and 1920 “ ‘without any apparent intent to change the controlling rules.’ ”  Crawford Fitting, 482 U. S., at 440.  As we have said, §§1821 and 1920 provide a comprehensive schedule of costs for proceedings in federal court.
+
+															Now some copyright law background: The term “full [c]osts” appeared in the first copyright statute in England, the Statute of Anne.  8 Anne c.19, §8 (1710).  In the United States, the Federal Copyright Act of 1831 borrowed the phrasing of English copyright law and used the same term, “full costs.”  Act of Feb. 3, 1831, §12,
+
+4Stat.
+438–439.  That term has appeared in subsequent revisions of the Copyright Act, through the Act’s most recent substantive alterations in 1976.  See Act of July 8, 1870, §108,
+
+16Stat.
+215; Copyright Act of 1909, §40,
+
+35Stat.
+1084; Copyright Act of 1976, §505,
+
+90Stat.
+2586.
+
+															Oracle argues that English copyright statutes awarding “full costs” allowed the transfer of all expenses of litigation, beyond what was specified in any costs schedule.  According to Oracle, Congress necessarily imported that meaning of the term “full costs” into the Copyright Act in 1831.  And according to Oracle, that 1831 meaning overrides anything that Congress enacted in any costs statute in 1853 or later.
+
+															To begin with, our decision in Crawford Fitting explained that courts should not undertake extensive historical excavation to determine the meaning of costs statutes.  We said that §§1821 and 1920 apply regardless of when individual subject-specific costs statutes were enacted.  482 U. S., at 445.  The Crawford Fitting principle eliminates the need for that kind of historical analysis and confirms that the Copyright Act’s reference to “full costs” must be interpreted by reference to §§1821 and 1920.
+
+															In any event, Oracle’s historical argument fails even on its own terms.  Oracle has not persuasively demonstrated that as of 1831, the phrase “full costs” had an established meaning in English or American law that covered more than the full amount of the costs listed in the applicable costs schedule.  On the contrary, the federal courts as of 1831 awarded costs in accord with the costs schedule of the relevant state law.  See id., at 439−440; Alyeska Pipeline, 421 U. S., at 250.  And state laws at the time tended to use the term “full costs” to refer to, among other things, full cost awards as distinguished from the half, double, or treble cost awards that were also commonly available under state law at the time.[2]  That usage accorded with the ordinary meaning of the term.  At the time, the word “full” conveyed the same meaning that it does today: “Complete; entire; not defective or partial.”  1 N. Webster, An American Dictionary of the English Language 89 (1828); see also 1 S. Johnson, A Dictionary of the English Language 817 (1773) (“Complete, such as that nothing further is desired or wanted; Complete without abatement; at the utmost degree”).  Full costs did not encompass expenses beyond those costs that otherwise could be awarded under the applicable state law.
+
+															The case law since 1831 also refutes Oracle’s historical argument.  If Oracle’s account of the history were correct, federal courts starting in 1831 presumably would have interpreted the term “full costs” in the Copyright Act to allow awards of litigation expenses that were not ordinarily available as costs under the applicable costs schedule.  But Rimini points out that none of the more than 800 available copyright decisions awarding costs from 1831 to 1976—that is, from the year the term “full costs” first appeared in the Copyright Act until the year that the Act was last significantly amended—awarded expenses other than those specified by the applicable state or federal law.  Tr. of Oral Arg. 7.  Oracle has not refuted Rimini’s argument on that point.  Oracle cites no §505 cases where federal courts awarded expert witness fees or other litigation expenses of the kind at issue here until the Ninth Circuit’s 2005 decision adopting the interpretation of §505 that the Ninth Circuit followed in this case.  See Twentieth Century Fox, 429 F.3d 869.
+
+															In light of the commonly understood meaning of the term “full costs” as of 1831 and the case law since 1831, Oracle’s historical argument falls short.  The best interpretation is that the term “full costs” meant in 1831 what it means now: the full amount of the costs specified by the applicable costs schedule.
+
+															Third, Oracle advances a variety of surplusage arguments.  Oracle contends, for example, that the word “full” would be unnecessary surplusage if Rimini’s argument were correct.  We disagree.  The award of costs in copyright cases was mandatory from 1831 to 1976.  See §40,
+
+35Stat.
+1084; §12,
+
+4Stat.
+438–439.  During that period, the term “full” fixed both a floor and a ceiling for the amount of “costs” that could be awarded.  In other words, the term “full costs” required an award of 100 percent of the costs available under the applicable costs schedule.
+
+															Oracle says that even if that interpretation of “full costs” made sense before 1976, the meaning of the term “full costs” changed in 1976.  That year, Congress amended the Copyright Act to make the award of costs discretionary rather than mandatory.  See §505,
+
+90Stat.
+2586.  According to Oracle, after Congress made the costs award discretionary, district courts could award any amount of costs up to 100 percent and so Rimini’s reading of the word “full” now adds nothing to “costs.”  If we assume that Congress in 1976 did not intend “full” to be surplusage, Oracle argues that Congress must have employed the term “full” to mean expenses beyond the costs specified in §§1821 and 1920.
+
+															For several reasons, that argument does not persuade us.
+
+															To begin with, even if the term “full” lacked any continuing significance after 1976, the meaning of “costs” did not change.  The term “costs” still means those costs specified in §§1821 and 1920.  It makes little sense to think that Congress in 1976, when it made the award of full costs discretionary rather than mandatory, silently expanded the kinds of expenses that a court may otherwise award as costs in copyright suits.[3]
+
+															Moreover, Oracle’s interpretation would create its own redundancy problem by rendering the second sentence of §505 largely redundant.  That second sentence provides: “Except as otherwise provided by this title, the court may also award a reasonable attorney’s fee to the prevailing party as part of the costs.”
+
+17 U. S. C. §505.  If Oracle were right that “full costs” covers all of a party’s litigation expenditures, then the first sentence of §505 would presumably already cover attorney’s fees and the second sentence would be largely unnecessary.  In order to avoid some redundancy, Oracle’s interpretation would create other redundancy.
+
+															Finally, even if Oracle is correct that the term “full” has become unnecessary or redundant as a result of the 1976 amendment, Oracle overstates the significance of statutory surplusage or redundancy.  Redundancy is not a silver bullet.  We have recognized that some “redundancy is ‘hardly unusual’ in statutes addressing costs.”  Marx v. General Revenue Corp.,
+
+568 U.S. 371, 385 (2013).  If one possible interpretation of a statute would cause some redundancy and another interpretation would avoid redundancy, that difference in the two interpretations can supply a clue as to the better interpretation of a statute.  But only a clue.  Sometimes the better overall reading of the statute contains some redundancy.
+
+															*  *  *
+
+															The Copyright Act authorizes federal district courts to award “full costs” to a party in copyright litigation.  That term means the costs specified in the general costs statute, §§1821 and 1920.  We reverse in relevant part the judgment of the Court of Appeals, and we remand the case for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ The six categories that a federal court may award as costs are: “(1) Fees of the clerk and marshal; “(2) Fees for printed or electronically recorded transcripts necessarily obtained for use in the case; “(3) Fees and disbursements for printing and witnesses; “(4) Fees for exemplification and the costs of making copies of any materials where the copies are necessarily obtained for use in the case; “(5) Docket fees under section 1923 of this title; “(6) Compensation of court appointed experts, compensation of interpreters, and salaries, fees, expenses, and costs of special interpretation services under section 1828 of this title.”
+
+28 U. S. C. §1920. In addition, §1821 provides particular reimbursement rates for witnesses’ “[p]er diem and mileage” expenses. 
+
+2
+ See, e.g., 1 Laws of Pa., ch. DCXLV, pp. 371, 373 (1810) (“full costs” and “double costs”); 2 Rev. Stat. N. Y., pt. III, ch. X, Tit. 1, §§16, 25 (1836) (“full,” “double,” and “treble” costs); Rev. Stat. Mass., pt. III, Tit. VI, ch. 121, §§4, 7, 8, 11, 18 (1836) (“one quarter,” “full,” “double,” and “treble” costs). 
+
+3
+ Rimini further suggests that “full” still has meaning after 1976 because the statute gives the district court discretion to award either full costs or no costs, unlike statutes that refer only to “costs,” which allow courts to award any amount of costs up to full costs.  In light of our disposition of the case, we need not and do not consider that argument. 
+
+

@@ -1,0 +1,131 @@
+::SCDB_caseID:: 2021-026
+::decision_cite:: 20-1263
+::decision_name::  Gallardo v. Marstiller
+::decision_year:: 2022
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–1263
+
+															_________________
+
+															GIANINNA GALLARDO, an incapacitated person, by and through her parents and co-guardians PILAR VASSALLO AND WALTER GALLARDO, PETITIONER v. SIMONE MARSTILLER, in her official capacity as SECRETARY OF THE FLORIDA AGENCY FOR HEALTH CARE ADMINISTRATION
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 6, 2022]
+
+															Justice Thomas delivered the opinion of the Court.
+
+															Medicaid requires participating States to pay for certain needy individuals’ medical costs and then to make reasonable efforts to recoup those costs from liable third parties.  Consequently, a State must require Medicaid beneficiaries to assign the State “any rights . . . to payment for medical care from any third party.”
+
+42 U. S. C. §1396k(a)(1)(A).  That assignment permits a State to seek reimbursement from the portion of a beneficiary’s private tort settlement that represents “payment for medical care,” ibid., despite the Medicaid Act’s general prohibition against seeking reimbursement from a beneficiary’s “property,” §1396p(a)(1).  The question presented is whether §1396k(a)(1)(A) permits a State to seek reimbursement from settlement payments allocated for future medical care.  We conclude that it does.
+
+															I
+
+															A
+
+															States participating in Medicaid “must comply with [the Medicaid Act’s] requirements” or risk losing Medicaid funding.  Harris v. McRae,
+
+448 U.S. 297, 301 (1980); see
+
+42 U. S. C. §1396c.  Most relevant here, the Medicaid Act requires a State to condition Medicaid eligibility on a beneficiary’s assignment to the State of “any rights . . . to support . . . for the purpose of medical care” and to “payment for medical care from any third party.”  §1396k(a)(1)(A); see also §1396a(a)(45) (mandating States’ compliance with §1396k).  The State must also enact laws by which it automatically acquires a right to certain third-party payments “for health care items or services furnished” to a beneficiary.  §1396a(a)(25)(H).  And the State must use these (and other) tools to “seek reimbursement” from third parties “to the extent of [their] legal liability” for a beneficiary’s “care and services available under the plan.”  §§1396a(a)(25)(A)–(B).
+
+															The Medicaid Act also sets a limit on States’ efforts to recover their expenses.  The Act’s “anti-lien provision” prohibits States from recovering medical payments from a beneficiary’s “property.”  §1396p(a)(1); see also §1396a(a)(18) (requiring state Medicaid plans to comply with §1396p).  Because a “beneficiary has a property right in the proceeds of [any] settlement,” the anti-lien provision protects settlements from States’ reimbursement efforts absent some statutory exception.  Wos v. E. M. A.,
+
+568 U.S. 627, 633 (2013).  State laws “requir[ing] an assignment of the right . . . to receive payments [from third parties] for medical care,” as “expressly authorized by the terms of §§1396a(a)(25) and 1396k(a),” are one such exception.  Arkansas Dept. of Health and Human Servs. v. Ahlborn,
+
+547 U.S. 268, 284 (2006).  Accordingly, a State may seek reimbursement from the portion of a settlement designated for the “medical care” described in those provisions; otherwise, the anti-lien provision prohibits reimbursement.  Id., at 285.
+
+															B
+
+															To satisfy its Medicaid obligations, Florida has enacted its Medicaid Third-Party Liability Act, which directs the State’s Medicaid agency to “seek reimbursement from third-party benefits to the limit of legal liability and for the full amount of third-party benefits, but not in excess of the amount of medical assistance paid by Medicaid.”  Fla. Stat. §409.910(4) (2017).[1]  To this end, the statute provides that when a beneficiary “accept[s] medical assistance” from Medicaid, the beneficiary “automatically assigns to the [state] agency any right” to third-party payments for medical care.  §409.910(6)(b).  A lien “for the full amount of medical assistance provided” then “attaches automatically” to any settlements related to an injury “that necessitated that Medicaid provide medical assistance.”  §§409.910(6)(c), (6)(c)(1), 409.901(7)(a).
+
+															Rather than permit the State to recover from a beneficiary’s entire settlement, the statute entitles Florida to half a beneficiary’s total recovery, after deducting 25% for attorney’s fees and costs (i.e., 37.5% of the total).  See §409.910(11)(f )(1).  This amount presumptively represents the portion of the tort recovery that is for “past and future medical expenses.”  §409.910(17)(b).  Beneficiaries can rebut that presumption by proving with clear and convincing evidence “that the portion of the total recovery which should be allocated as past and future medical expenses is less than the amount calculated by [Florida’s] formula.”  Ibid.
+
+															C
+
+															In 2008, a truck struck then-13-year-old petitioner Gianinna Gallardo after she stepped off her school bus.  Gallardo suffered catastrophic injuries and remains in a persistent vegetative state.  Florida’s Medicaid agency paid $862,688.77 to cover her initial medical expenses, after WellCare of Florida, a private insurer, paid $21,499.30.  As a condition of receiving Medicaid assistance, Gallardo had assigned Florida her right to recover from third parties.  Because Gallardo is permanently disabled, Medicaid continues to pay her medical expenses.
+
+															Gallardo, through her parents, sued the truck’s owner and driver, as well as the Lee County School Board, seeking compensation for past medical expenses, future medical expenses, lost earnings, and other damages.  Although Gallardo sought over $20 million in damages, the litigation ultimately settled for $800,000—a 4% recovery.  The settlement expressly designated $35,367.52 of that amount as compensation for past medical expenses—4% of the $884,188.07 paid by Medicaid and WellCare.  The settlement also recognized that “some portion of th[e] settlement may represent compensation for future medical expenses,” App. 29, but did not specifically allocate any amount for future medical expenses.
+
+															Under Florida’s statutory formula, the State was presumptively entitled to $300,000 of Gallardo’s settlement (37.5% of $800,000).  Gallardo, citing the settlement’s explicit allocation of only $35,367.52 as compensation for past medical expenses, asked Florida what amount it would accept to satisfy its Medicaid lien.  When Florida did not respond, Gallardo put $300,000 in escrow and challenged the presumptive allocation in an administrative proceeding.  There, Florida defended the presumptive allocation because, in its view, it could seek reimbursement from settlement payments for past and future medical expenses, and so was not limited to recovering the portion Gallardo had allocated for past expenses.
+
+															While the administrative proceeding was ongoing, Gallardo brought this lawsuit seeking a declaration that Florida was violating the Medicaid Act by trying to recover from portions of the settlement compensating for future medical expenses.  The U. S. District Court for the Northern District of Florida granted Gallardo summary judgment.  See Gallardo v. Dudeck, 263 F. Supp. 3d 1247, 1260 (2017).  The Eleventh Circuit reversed, concluding that “the text and structure of the federal Medicaid statutes do not conflict with Florida law” because they “only prohibit a State from asserting a lien against any part of a settlement not ‘designated as payments for medical care.’ ”  Gallardo v. Dudeck, 963 F.3d 1167, 1176 (2020) (quoting Ahlborn, 547 U. S., at 284).  The Eleventh Circuit explained that the relevant Medicaid Act provisions “d[o] not in any way prohibit [a State] from seeking reimbursement from settlement monies for medical care allocated to future care.”  963 F. 3d, at 1178 (emphasis deleted).  Judge Wilson dissented, contending that the Medicaid Act “limit[s] the state to the part of the recovery that represents payment for past medical care.”  Id., at 1184.
+
+															Because the Supreme Court of Florida came to the opposite conclusion of the Eleventh Circuit, see Giraldo v. Agency for Health Care Admin., 248 So. 3d 53, 56 (2018), we granted certiorari, 594 U. S. ___ (2021).
+
+															II
+
+															Gallardo argues that the Eleventh Circuit erred by permitting Florida to seek reimbursement for medical expenses from settlement amounts representing payment for future medical care.  According to Gallardo, the Medicaid Act’s anti-lien provision in §1396p forecloses recovery from settlement amounts other than those allocated for past medical care paid for by Medicaid.  Thus, Gallardo concludes, the anti-lien provision preempts any state law that permits additional recovery.
+
+															We disagree.  Under §1396k(a)(1)(A), Florida may seek reimbursement from settlement amounts representing “payment for medical care,” past or future.  Thus, because Florida’s assignment statute “is expressly authorized by the terms of . . . [§]1396k(a),” it falls squarely within the “exception to the anti-lien provision” that this Court has recognized.  Ahlborn, 547 U. S., at 284.
+
+															A
+
+															The plain text of §1396k(a)(1)(A) decides this case.  This provision requires the State to acquire from each Medicaid beneficiary an assignment of “any rights . . . of the individual . . . to support . . . for the purpose of medical care . . . and to payment for medical care from any third party.”  §1396k(a)(1)(A).  Nothing in this provision purports to limit a beneficiary’s assignment to “payment for” past “medical care” already paid for by Medicaid.  To the contrary, the grant of “any rights . . . to payment for medical care” most naturally covers not only rights to payment for past medical expenses, but also rights to payment for future medical expenses.  Ibid. (emphasis added); see United States v. Gonzales,
+
+520 U.S. 1, 5 (1997) (“[T]he word ‘any’ has an expansive meaning”).  The relevant distinction is thus “between medical and nonmedical expenses,” Wos, 568 U. S., at 641, not between past expenses Medicaid has paid and future expenses it has not.
+
+															Statutory context reinforces that §1396k(a)(1)(A)’s reference to “payment for medical care” is not limited as Gallardo suggests.  First, when §1396k(a)(1)(A) limits the kind of “support” (e.g., child support) covered by a beneficiary’s assignment, the statute does not single out support allocated for past expenses that a State has already paid.  Instead, it requires only that support payments be “specified as support for the purpose of medical care” generally.  §1396k(a)(1)(A) (emphasis added).  Second, when the Medicaid Act separately requires state plans to comply with §1396k, it describes that provision as imposing a “mandatory assignment of rights of payment for medical support and other medical care owed to recipients.”  §1396a(a)(45) (emphasis added).  In short, §1396k(a)(1)(A) and §1396a(a)(45) distinguish only between medical and nonmedical care, not between past (paid) medical care payments and future (unpaid) medical care payments.  If Congress had intended to draw such a distinction, “it easily could have drafted language to that effect.”  Mississippi ex rel. Hood v. AU Optronics Corp.,
+
+571 U.S. 161, 169 (2014).
+
+															In fact, Congress did include such limiting language elsewhere in the Medicaid Act.  Section 1396a(a)(25)(H), which requires States to enact laws granting themselves automatic rights to certain third-party payments, contains precisely the limitation that Gallardo would read into the assignment provision.  That provision applies only when “payment has been made under the State plan for medical assistance for health care items or services furnished to an individual,” and covers only third-party payments “for such health care items or services.”  §1396a(a)(25)(H) (emphasis added).  Thus, if §1396k(a)(1)(A)’s broad language alone were not dispositive, its contrast with the limiting language in §1396a(a)(25)(H) would be.  “Had Congress intended to restrict” §1396k(a)(1)(A) to past expenses Medicaid has paid, it “would have done so expressly as it did in” §1396a(a)(25)(H).  Russello v. United States,
+
+464 U.S. 16, 23 (1983).
+
+															In sum, because the plain meaning of §1396k(a)(1)(A), informed by statutory context, allows Florida to seek reimbursement from settlement amounts representing past or future “payments for medical care,” Florida’s assignment provision falls within the “exception to the anti-lien provision.”  Ahlborn, 547 U. S., at 284.[2]
+
+															B
+
+															Gallardo nevertheless argues that §1396k(a)(1)(A) has a different meaning, largely by discounting the text of §1396k(a)(1)(A) and then relying on other differently worded provisions or on policy arguments, none of which we find convincing.
+
+															Insofar as she confronts §1396k(a)(1)(A) itself, Gallardo largely focuses on its prefatory clause, which provides that the “purpose” of the assignment provision is to “assis[t] in the collection of medical support payments and other payments for medical care owed to recipients of medical assistance under the State plan.”  §1396k(a).  Gallardo construes this language to limit the assignment provision to payments that are already “owed” for “past medical care provided under the [state] plan.”  Brief for Petitioner 30.
+
+															Gallardo’s argument misreads the statutory text.  The prefatory clause does not refer to payments “owed” “under the State plan,” but rather to “payments owed to recipients of medical assistance under the State plan.”  §1396k(a) (emphasis added).  In other words, the prefatory language Gallardo invokes defines to whom the third-party payments are “owed”—“recipients of medical assistance under the State plan.”  It does not specify the purpose for which those payments must be made.  On that score, the prefatory clause refers to “medical support” and “medical care” payments, consistent with the adjacent language in §1396k(a)(1)(A).
+
+															With little support in the text of §1396k(a)(1)(A), Gallardo proposes that we read the assignment provision to incorporate §1396a(a)(25)(H)’s more limited language.  But as explained above, see supra, at 7, we must give effect to, not nullify, Congress’ choice to include limiting language in some provisions but not others, see Russello, 464 U. S., at 23.  Gallardo responds that our decision in Ahlborn eliminated any daylight between §1396a(a)(25)(H) and §1396k(a)(1)(A), because we said there that these provisions “reiterat[e],” “reinforc[e],” and “ech[o]” each other.  547 U. S., at 276, 280, 281.  But Ahlborn was clear that these two provisions “ech[o]” or “reinforc[e]” each other insofar as they both involve “recovery of payments for medical care,” id., at 282, and not “payment for, for example, lost wages,” id., at 280.  Ahlborn did not suggest that we must otherwise interpret these provisions in lockstep.
+
+															Conceding the provisions’ scope could differ, Gallardo argues that the later enacted §1396a(a)(25)(H) should “prevai[l]” over the earlier enacted §1396k(a)(1)(A).  Brief for Petitioner 34.  But Gallardo does not identify any conflict requiring one of the provisions to prevail.  Both provisions require the State to obtain rights—either by assignment or by statute—to certain third-party payments.  Because they concern different requirements, they do not conflict just because one is broader in scope than the other.  In fact, the provisions complement each other.  Section 1396k(a)(1)(A) provides a broad, but not foolproof, contractual right to third-party payments for medical care.  See Brief for Respondent 33–34 (explaining circumstances when an assignment under §1396k(a)(1)(A) might be ineffective).  By contrast, §1396a(a)(25)(H) provides a more targeted statutory right for when the assignment might fail.  See Brief for United States as Amicus Curiae 28–29 (explaining that, prior to §1396a(a)(25)(H)’s enactment, insurers were “thwarting [§1396k(a)(1)(A)] by refusing to recognize assignments and arguing that their insurance contracts forbade assignments” (internal quotation marks omitted)).[3]  Thus, the idea that one of these two complementary provisions must “prevail” over the other is mistaken.
+
+															Gallardo and the United States also invoke §§1396a(a)(25)(A) and (B), which require States to “take all reasonable measures to ascertain the legal liability of third parties . . . to pay for care and services available under the [Medicaid] plan” and to “seek reimbursement . . . to the extent of such legal liability.”  They argue that these provisions are the Medicaid Act’s “main” or “anchor” third-party liability provisions and limit the State’s recovery under any other provision “to the extent of ” a third party’s payments “for care and services available under the plan,” §§1396a(a)(25)(A)–(B), which they interpret to include only payments for medical care that Medicaid has already covered.  Reply Brief 6 (internal quotation marks omitted); see Brief for United States as Amicus Curiae 18.
+
+															This argument suffers from several problems.  To begin,   
+
+															it is far from clear that §§1396a(a)(25)(A) and (B) refer only to past expenses the State has already paid.  The relevant language—“pay[ment] for care and services available under the plan”—could just as readily refer to payment for medical care “available” in the future.  Regardless, even if this language means what Gallardo says it does, Congress did not use this language to define the scope of an assignment under §1396k(a)(1)(A), implying again that the provisions should not be interpreted the same way.  See supra, at 7.  This implication is strengthened by the fact that §1396k(a)(1)(A) was enacted after §§1396a(a)(25)(A) and (B).  It would have been easy for Congress to use the existing language in §§1396a(a)(25)(A) and (B) to define the scope of the mandatory assignment.  But it did not.[4]
+
+															Finally, Gallardo relies on two policy arguments for her preferred interpretation.  First, citing a footnote from Ahlborn, she contends that it would be “ ‘absurd and fundamentally unjust’ ” for a State to “ ‘share in damages for which it has provided no compensation.’ ”  547 U. S., at 288, n. 19 (quoting Flanigan v. Department of Labor and Industry, 123 Wash. 2d 418, 426, 869 P.2d 14, 17 (1994)).  Although Ahlborn noted possible unfairness if States were given “absolute priority” to collect from the entirety of a tort settlement, 547 U. S., at 288, our holding there was dictated by the Medicaid Act’s “text,” not by our sense of fairness, id., at 280. Had the text of the Medicaid Act authorized “absolute priority,” Ahlborn would have been decided differently.
+
+															Second, Gallardo speculates that our reading of §1396k(a)(1)(A) would authorize a “lifetime assignment” covering not only the rights an individual has while he is a Medicaid beneficiary but also any rights he acquires in the future when he is no longer a Medicaid beneficiary.  Brief for Petitioner 32.  Not so.  Section 1396k(a)(1)(A) only assigns “any rights . . . of the individual” (emphasis added), which is most naturally read as covering those rights “the individual” possesses while on Medicaid.  We must also read §1396k(a)(1)(A)’s text in light of background legal principles, and it is blackletter law that assignments typically cover “only [those] rights possessed by the assignors at the time of the assignments,” United States v. Central Gulf Lines, Inc., 974 F.2d 621, 629 (CA5 1992); see also 6A C. J. S., Assignments §88 (2022), or those rights “expected to arise out of an existing . . . relationship,” see Restatement (Second) of Contracts §321(1) (1981); see also 9 A. Corbin, Contracts §50.1 (2022).  Given that legal backdrop, §1396k(a)(1)(A) cannot cover the sort of “lifetime assignment” Gallardo invokes.[5]
+
+															*  *  *
+
+															For these reasons, we affirm the judgment of the Court of Appeals.
+
+															It is so ordered.
+Notes
+1
+ For the sake of simplicity, we refer to the State, its Medicaid agency, or simply Medicaid interchangeably. 
+
+2
+ According to the dissent, our conclusion conflicts with the “background principl[e] of insurance law” that an insurer’s third-party recovery is limited “ ‘to the same elements as those for which [the insurer] has made payment.’ ”  Post, at 9 (opinion of Sotomayor, J.) (quoting 16 S. Plitt, D. Maldonado, J. Rogers, & J. Plitt, Couch on Insurance §226:36 (3d ed. 2021)).  But even assuming this principle is relevant as the dissent supposes, the dissent concedes that it gives way if a “contractual ter[m]”—an assignment provision, for example—permits a broader recovery.  Post, at 9; see also, e.g., 16 Couch on Insurance §222:63 (citing examples).  Here, §1396k(a)(1)(A) mandates an assignment provision that does just that. 
+
+3
+ The United States makes a similar argument when it relies on §1396a(a)(25)(I)(ii), under which States must enact laws requiring health insurers to “accept the State’s right of recovery and the assignment to the State of any right of an individual or other entity to payment from the party for an item or service for which payment has been made under the State plan.”  We disagree that this provision “suggests that Congress understood the assignment of rights under Section 1396k to be limited to third-party payments for services covered by Medicaid.”  Brief for United States as Amicus Curiae 19.  Like §1396a(a)(25)(H), this provision targets specific attempts by health insurers to avoid making payments to state Medicaid programs.  Its narrower focus on health insurers, who typically pay only once medical services are rendered, explains its application to a narrower category of third-party payments, and says little to nothing about the meaning of §1396k(a)(1)(A)’s broader scope. 
+
+4
+ That Congress required States’ compliance with §1396k(a)(1)(A) via a separate paragraph—§1396a(a)(45)—rather than subordinating it under §1396a(a)(25), supports our conclusion that they need not be interpreted in lockstep. 
+
+5
+ Florida also suggested at argument that §1396k(a)(1)(A) includes a germaneness requirement such that the assignment extends only to payments for medical care germane—i.e., related—to an injury or illness for which Medicaid covered treatment.  See Tr. of Oral Arg. 69.  However, we have no adversary briefing on this issue and no cause to resolve it.  It is undisputed that the settlement from which Florida seeks recovery is germane to the injury for which Florida paid out Medicaid funds, and Florida law requires as much.  See Fla. Stat. §409.910(6)(c). 
+
+

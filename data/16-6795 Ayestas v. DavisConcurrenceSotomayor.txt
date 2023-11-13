@@ -1,0 +1,136 @@
+::SCDB_caseID:: 2017-011
+::decision_cite:: 16-6795
+::decision_name::  Ayestas v. Davis
+::decision_year:: 2018
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 16–6795
+
+															_________________
+
+															CARLOS MANUEL AYESTAS, aka DENNIS ZELAYA COREA, PETITIONER v. LORIE DAVIS, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[March 21, 2018]
+
+															
+
+															Justice Sotomayor, with whom Justice Ginsburg joins, concurring.
+
+															The Court correctly concludes that the Fifth Circuit applied the wrong legal standard in evaluating a request for funding for investigative services under
+
+18 U. S. C. §3599(f).  That should come as no surprise, as the Fifth Circuit required capital habeas petitioners to show a “ ‘substantial need’ ” for services, when the statute requires only a showing that the services are “ ‘reasonably necessary.’ ”  Ante, at 16.  “Substantial,” of course, imposes a higher burden than “reasonable.”  Ante, at 16.  The Fifth Circuit “exacerbated the problem” by requiring a showing of “a viable constitutional claim that is not procedurally barred,” which ignores “that investigation might enable a petitioner . . . to overcome the obstacle of procedural default.”  Ante, at 16–17 (internal quotation marks omitted).  I therefore join the opinion of the Court in full holding that to satisfy §3599(f), a petitioner need only show that “a reasonable attorney would regard the services as sufficiently important.”  Ante, at 16.
+
+															Having answered the question presented of what is the appropriate §3599(f) standard, the Court remands Ayestas’ case for the lower courts to consider the application of the standard in the first instance.  Ante, at 19.[1]  I write separately to explain why, on the record before this Court, there should be little doubt that Ayestas has satisfied §3599(f).
+
+															I
+
+															At the center of the §3599(f) funding request in this case is Ayestas’ claim that his trial counsel was ineffective for failing to investigate mitigation.  Specifically, Ayestas claims that his trial counsel was deficient in failing to conduct an investigation of his mental health and substance abuse, which could have been presented at the penalty phase of the trial to convince the jury to spare his life.  As the Court notes, however, Ayestas faces a hurdle in presenting this ineffective-assistance-of-trial-counsel claim in his federal habeas petition, as his state postconviction counsel never presented that claim in the Texas collateral proceedings.  See ante, at 5.
+
+															To overcome that procedural default, Ayestas relies on Martinez v. Ryan,
+
+566 U. S. 1 (2012)
+, and Trevino v. Thaler,
+
+569 U. S. 413 (2013)
+.  In those cases, this Court recognized a “particular concern” in the application of a procedural default rule that would prevent a petitioner from “present[ing] a claim of trial error,” especially “when the claim is one of ineffective assistance of counsel.”  Martinez, 566 U. S., at 12.  “The right to the effective assistance of counsel,” the Court reasoned, “is a bedrock principle in our justice system.”  Ibid.  The Court thus held that where the “state procedural framework, by reason of its design and operation, makes it highly unlikely in a typical case that a defendant will have a meaningful opportunity to raise a claim of ineffective assistance of trial counsel on direct appeal,” then “ ‘a procedural default will not bar a federal habeas court from hearing a substantial claim of ineffective assistance at trial if, in the initial-review collateral proceeding, there was no counsel or counsel . . . was ineffective.’ ”  Trevino, 569 U. S., at 429 (quoting Martinez, 566 U. S., at 17; alteration omitted).[2]
+
+															Therefore, the fact that Ayestas’ postconviction counsel failed to raise his ineffective-assistance-of-trial-counsel claim in state court does not bar federal review of that claim if Ayestas can show that the “attorney in his first collateral proceeding was ineffective” and that “his claim of ineffective assistance of trial counsel is substantial.”  Id., at 18.  The substantiality of the ineffective-assistance-of-trial-counsel claim and the ineffectiveness of postconviction counsel are both analyzed under the familiar framework set out in Strickland v. Washington,
+
+466 U. S. 668 (1984)
+.  “Ineffective assistance under Strickland is deficient performance by counsel resulting in prejudice, with performance being measured against an objective standard of reasonableness.”  Rompilla v. Beard,
+
+545 U. S. 374,
+380 (2005)
+ (citation and internal quotation marks omitted).
+
+															Remember, however, the specific context in which ineffective assistance is being considered in Ayestas’ case: a request under §3599(f) for investigative services, which requires a showing only that “a reasonable attorney would regard the services as sufficiently important.”  Ante, at 16.  Ayestas is not “expected to prove that he will be able to win relief if given the services he seeks.”  Ante, at 18 (emphasis in original).  A court simply must consider at this stage “the potential merit of the claims that the applicant wants to pursue, the likelihood that the services will generate useful and admissible evidence, and the prospect that the applicant will be able to clear any procedural hurdles standing in the way.”  Ante, at 17–18.  Thus, the inquiry is not whether Ayestas can prove that his trial counsel was ineffective under Strickland or whether he will succeed in overcoming the procedural default under Martinez and Trevino.  Rather, at this §3599(f) request stage, the focus is on the potential merit of these claims.
+
+															II
+
+															A
+
+															With this framework in mind, the focus first is on the evidence of the deficient performance of Ayestas’ state-appointed counsel.[3]  Trial counsel secured the appointment of an investigator, who met with Ayestas shortly after the appointment.  For nearly 15 months, however, there was apparently no investigation into Ayestas’ history in preparation for trial.  Counsel instructed the investi- gator “to resume investigation” only about a month before jury selection.  Record 878.  The investigator then subpoenaed psychological and disciplinary prison records and had Ayestas fill out a questionnaire, in response to which Ayestas revealed that he had experienced multiple head traumas and had a history of substance abuse.  Jail records also noted a rules infraction for possession of home-made intoxicants.  Trial counsel never followed up on any of this information, sought further related records, or had Ayestas evaluated by a mental health professional.
+
+															About two weeks before jury selection, trial counsel for the first time reached out to Ayestas’ family in Honduras.  Shortly thereafter, five days before trial, counsel wrote Ayestas’ family stating that she needed them to come testify.  Ayestas’ family agreed, but they indicated that they could not obtain visas because a letter that trial counsel was supposed to have sent to the U. S. Embassy to facilitate their travel never arrived, and ultimately no family members appeared at Ayestas’ trial.
+
+															The guilt phase lasted two days, and trial counsel presented no witnesses.  The penalty phase lasted less than a day, and trial counsel presented two minutes of mitigation evidence consisting of three letters from an instructor who taught English classes to Ayestas in prison, attesting that he was “a serious and attentive student.”  App. 41–43.[4]
+
+															On this record, Ayestas has made a strong showing that trial counsel was deficient.  “It is unquestioned that under the prevailing professional norms at the time of [Ayestas’] trial, counsel had an obligation to conduct a thorough investigation of [his] background.”  Porter v. McCollum,
+
+558 U. S. 30,
+39 (2009)
+ (per curiam) (internal quotation marks omitted).  Here, Ayestas’ trial counsel “clearly did not satisfy those norms.”  Ibid.  With a client facing a possible death sentence, counsel and her investigator did not start looking into Ayestas’ personal history until the eve of trial.  The little the investigator uncovered—head trauma and a history of substance abuse—should have prompted further inquiry.  Yet trial counsel did nothing.  Even if Ayestas prohibited counsel from contacting his family in Honduras until the start of trial was imminent, see ante, at 3,[5] that still would not explain why counsel failed to perform any other mitigation investigation, see Porter, 558 U. S., at 40 (noting that even if the defendant is “uncooperative, . . . that does not obviate the need for defense counsel to conduct some sort of mitigation investigation (emphasis in original)).  In the end, the decision to sentence Ayestas to death was made in less than one day, and his counsel spent less than two minutes presenting mitigation to the jury.  Two minutes.
+
+															This Court has recognized that the decision not to present mitigation may be supported in certain cases by “strategic judgments,” provided the reviewing court is satisfied with “the adequacy of the investigations supporting those judgments.”  Wiggins v. Smith,
+
+539 U. S. 510,
+521 (2003)
+.  But this does not appear to be one of those cases.  There is nothing in the record that would support the conclusion that counsel chose the two-minutes-of-mitigation strategy after careful investigation and consideration of Ayestas’ case.  Instead, counsel for the most part “did not even take the first step of interviewing witnesses or requesting records” and “ignored pertinent avenues for investigation of which [they] should have been aware.”  Porter, 558 U. S., at 39–40.
+
+															In evaluating the potential merit of Ayestas’ claim, the Fifth Circuit misapplied Strickland and the §3599(f) standard.  It reasoned that Ayestas had not presented a viable claim that trial counsel was deficient in failing to investigate Ayestas’ mental illness because, as he was not diagnosed with schizophrenia until his time in prison, there was nothing that flagged mental illness issues prior to trial.[6]  See Ayestas v. Stephens, 817 F. 3d 888, 895–897 (2016) (per curiam).  The absence of a documented diagnosis, however, did not excuse trial counsel from their “obligation to conduct a thorough investigation of [Ayestas’] background.”  Porter, 558 U. S., at 39 (internal quotation marks omitted).  In fact, the obligation to investigate exists in part precisely because it is all too common for individuals to go years battling an undiagnosed and untreated mental illness.
+
+															In any event, the Fifth Circuit failed to consider that one of the purposes of the §3599(f) investigation was to look at Ayestas’ life around the time of the crime and trial to determine if there were mitigating circumstances that trial counsel could have discovered, such as whether symptoms of his schizophrenia had begun to manifest even before his diagnosis.  The Court makes clear today that in evaluating §3599(f) funding requests, courts must consider “the likelihood that the services will generate useful and admissible evidence.”  Ante, at 17.  It was error, therefore, for the Fifth Circuit to evaluate the merit of the ineffective-assistance-of-trial-counsel claim and to deny §3599(f) funding based solely on an evaluation of the evidence in the record at the time of the request, without evaluating the potential evidence that Ayestas sought.  Ante, at 17–18.
+
+															B
+
+															The evidence concerning the deficiency of Ayestas’ state postconviction counsel is similarly strong.  State postconviction counsel retained the services of a mitigation specialist, who prepared an investigation plan noting that it was “obvious no social history investigation was conducted” and that the jury had “heard nothing about [Ayestas’] . . . mental health, possible mental illness, [or] substance abuse history.”  App. 81, 266.  The plan also noted that it was “clear that [Ayestas] had a history of substance abuse.”  Record 721; see also App. 267.  The specialist recommended a comprehensive investigation into Ayestas’ biological, psychological, and social history to explore, inter alia, issues related to addiction and mental health.
+
+															State postconviction counsel failed to follow these recommendations.  He did nothing to investigate issues related to Ayestas’ mental health or substance abuse.  Notably, Ayestas suffered a psychotic episode and was diagnosed with schizophrenia while his state postconviction application was pending.  Moreover, in 2003, a counsel-arranged evaluation pursuant Atkins v. Virginia,
+
+536 U. S. 304 (2002)
+, noted concerns about Ayestas’ “delusional thinking.”  App. 139–140.  These events still did not prompt counsel to investigate Ayestas’ mental health history.
+
+															Instead, state postconviction counsel explored the circumstances of Ayestas’ arrest, conducted some juror interviews, and interviewed Ayestas’ mother and sisters, obtaining affidavits regarding Ayestas’ upbringing in Honduras and their interactions with trial counsel.  Postconviction counsel eventually filed an application that contained a narrow claim of ineffective assistance of trial counsel with respect to mitigation regarding the attorneys’ failure to secure the attendance of Ayestas’ family members at trial.  The Texas Court of Criminal Appeals denied the application, relying on the affidavit submitted by trial counsel, see n. 4, supra, to find no ineffectiveness in failing to get Ayestas’ family to attend trial.
+
+															The Fifth Circuit concluded that Ayestas’ state postconviction counsel was not ineffective because, in its view, Ayestas had not established any deficiency at trial in the failure to investigate mental health and substance abuse mitigation.  See 817 F. 3d, at 898.  That conclusion, as noted in Part II–A, supra, was based on a misapplication of Strickland and the §3599(f) standard, and thus cannot support a finding that the failure to present the claim in postconviction proceedings was “strategic.”  817 F. 3d, at 898.  Nor is there anything else in the record that would excuse that deficiency.  State postconviction counsel ignored his own mitigation specialist, who alerted him to a serious failing in the trial because the jury heard virtually no mitigation and to the serious failings of trial counsel because of the failure to conduct a social history investigation of Ayestas.  Even after Ayestas’ psychotic episode, schizophrenia diagnosis, and documented tendencies of “delusional thinking” during the course of the representation, state postconviction counsel did nothing.  As with trial counsel, the record provides no support for any “strategic justification” to disregard completely a mitigation investigation of Ayestas’ mental health and substance abuse.
+
+															III
+
+															Strickland next requires consideration of prejudice.  To establish prejudice, this Court has held that a “defendant must show that there is a reasonable probability that, but for counsel’s unprofessional errors, the result of the proceeding would have been different,” meaning “a probability sufficient to undermine confidence in the outcome.”  466 U. S., at 694.  In cases alleging a failure to investigate mitigation, as here, the Court must “reweigh the evidence in aggravation against the totality of available mitigating evidence.”  Wiggins, 539 U. S., at 534.
+
+															Even with the scant evidence in the record at this time as to what Ayestas could have presented to the jury in the form of mitigation, Ayestas has made a strong showing that his claim has potential merit.  That trial counsel presented only two minutes of mitigation already goes a long way to establishing prejudice.  In fact, the State emphasized to the jury at sentencing:
+
+															“Does he have anything there that would lead you to conclude there is some type of mitigation, anything at all?  There is no drug problem . . . no health problem . . . no alcohol problem. . . . [O]nly . . . these three pieces of paper . . . .  Making steps to learn a second language does not lessen his moral blameworthiness . . . .”  Record 4747.
+
+															The State, in contrast, presented evidence of Ayestas’ criminal history as well as victim impact testimony.  After deliberating for only 25 minutes, the jury assessed a punishment of death against Ayestas, finding that he was a future danger, that he intended to cause death or anticipated the loss of life, and that there were no mitigating circumstances that warranted imposition of a life sentence over a death sentence.  Had just one juror dissented on a single one of these findings, no death sentence could have been imposed.  See Tex. Code Crim. Proc. Ann., Art. 37.071, §2(g) (Vernon Cum. Supp. 2017); see also ante, at 2.  With even minimal investigation by trial counsel, at least one may well have, as this Court has held that evidence of mental illness and substance abuse is relevant to assessing moral culpability.  See Rompilla, 545 U. S., at 393; Porter, 558 U. S., at 43–44.  Instead, the jury “heard almost nothing that would humanize [him] or allow them to accurately gauge his moral culpability.”  Id., at 41.  There is thus good reason to believe that, were Ayestas’ §3599(f) motion granted, he could establish prejudice under Strickland.
+
+															The Fifth Circuit held otherwise based on its belief that no amount of mitigation would have changed the outcome of the sentencing given the “brutality of the crime.”  817 F. 3d, at 898.  That “brutality of the crime” rationale is simply contrary to our directive in case after case that, in assessing prejudice, a court must “consider the totality of the available mitigation evidence . . . and reweigh it against the evidence in aggravation.”  Porter, 558 U. S., at 41 (internal quotation marks and alterations omitted); see also Williams v. Taylor,
+
+529 U. S. 362
+–398 (2000); Wiggins, 539 U. S., at 534.  By considering aggravation in isolation, the Fifth Circuit directly contravened this fundamental principle.[7]
+
+															IV
+
+															In sum, Ayestas has made a strong showing that he is entitled to §3599(f) funding.  As the Court notes, the statute affords district courts some discretion in these funding determinations, even where a petitioner shows the services are “ ‘reasonably necessary.’ ”  Ante, at 17–18.  Exercise of that discretion may be appropriate if there is a showing of gamesmanship or where the State has provided funding for the same investigation services, as Ayestas conceded at argument.  See Tr. of Oral Arg. 13.  Nonetheless, the troubling failures of counsel at both the trial and state postconviction stages of Ayestas’ case are exactly the types of facts that should prompt courts to afford investigatory services to ensure that trial errors that go to a “bedrock principle in our justice system” do not go unaddressed.  Martinez, 566 U. S., at 12.
+Notes
+1
+ The Court also declines to consider arguments that respondent advanced that were neither presented nor passed on below.  Ante, at 19. 
+
+2
+ The reason for this exception is evident.  Excusing the procedural default “acknowledges, as an equitable matter, that the initial-review collateral proceeding, if undertaken without counsel or with ineffective counsel, may not have been sufficient.”  Martinez, 566 U. S., at 14.  “Claims of ineffective assistance at trial often require investigative work and an understanding of trial strategy,” and “the prisoner is in no position to develop the evidentiary basis for a claim of ineffective assistance, which often turns on evidence outside the trial record.”  Id., at 11–12; see also Trevino, 569 U. S., at 423–424, 428. 
+
+3
+ The State appointed two attorneys to represent Ayestas at trial.  I refer to them together as “trial counsel.” 
+
+4
+ Trial counsel also attempted to introduce evidence that Ayestas had no criminal history in Honduras, but failed to link Ayestas to the records, which were under his given name, “Dennis Zelaya Corea.”  See Ayestas v. Stephens, 817 F. 3d 888, 892, n. 1 (CA5 2016) (per curiam). 
+
+5
+ During postconviction proceedings, trial counsel filed an affidavit asserting that Ayestas did not allow contact with his family in Honduras until after jury selection had commenced.  When the record evidence contradicted that assertion, counsel submitted another affidavit with a revised timeline.  Ayestas disputes having instructed trial counsel not to contact his family in Honduras. 
+
+6
+ It is unclear whether the Fifth Circuit ultimately relied on its determination that trial counsel was not deficient in rejecting Ayestas’ claims.  In its panel opinion, it incorrectly stated that trial counsel had conducted a psychological evaluation of Ayestas.  817 F. 3d, at 897.  After Ayestas corrected the record in his petition for rehearing, the panel issued an order reaffirming its holding, relying on its finding of no prejudice.  See Ayestas v. Stephens, 826 F. 3d 214, 215 (2016) ( per curiam).  Still, the Fifth Circuit never disavowed its conclusion regarding trial-counsel deficiency.  Ibid. 
+
+7
+ Notably, application of this “brutality of the crime” rule is particularly irrational in the §3599(f) context, where the court is unaware of what the undiscovered evidence of mitigation looks like. 
+
+

@@ -1,0 +1,372 @@
+::SCDB_caseID:: 2017-021
+::decision_cite:: 16-402
+::decision_name::  Carpenter v. United States
+::decision_year:: 2018
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 16–402
+
+															_________________
+
+															TIMOTHY IVORY CARPENTER, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[June 22, 2018]
+
+															
+
+															Justice Thomas, dissenting.
+
+															This case should not turn on “whether” a search occurred.  Ante, at 1.  It should turn, instead, on whose property was searched.  The
+ 
+Fourth Amendment guarantees individuals the right to be secure from unreasonable searches of “their persons, houses, papers, and effects.”  (Emphasis added.)  In other words, “each person has the right to be secure against unreasonable searches . . . in his own person, house, papers, and effects.”  Minnesota v. Carter,
+
+525 U. S. 83, 92 (1998) (Scalia, J., concurring).  By obtaining the cell-site records of MetroPCS and Sprint, the Government did not search Carpenter’s property.  He did not create the records, he does not maintain them, he cannot control them, and he cannot destroy them.  Neither the terms of his contracts nor any provision of law makes the records his.  The records belong to MetroPCS and Sprint.
+
+															The Court concludes that, although the records are not Carpenter’s, the Government must get a warrant because Carpenter had a reasonable “expectation of privacy” in the location information that they reveal.  Ante, at 11.  I agree with Justice Kennedy, Justice Alito, Justice Gorsuch, and every Court of Appeals to consider the question that this is not the best reading of our  precedents.
+
+															The more fundamental problem with the Court’s opinion, however, is its use of the “reasonable expectation of privacy” test, which was first articulated by Justice Harlan in Katz v. United States,
+
+389 U. S. 347, 360–361 (1967) (concurring opinion).  The Katz test has no basis in the text or history of the
+ 
+Fourth Amendment.  And, it invites courts to make judgments about policy, not law.  Until we confront the problems with this test, Katz will continue to distort
+ 
+Fourth Amendment jurisprudence.  I respectfully dissent.
+
+															I
+
+															Katz was the culmination of a series of decisions applying the
+ 
+Fourth Amendment to electronic eavesdropping.  The first such decision was Olmstead v. United States,
+
+277 U. S. 438 (1928), where federal officers had intercepted the defendants’ conversations by tapping telephone lines near their homes.  Id., at 456–457.  In an opinion by Chief Justice Taft, the Court concluded that this wiretap did not violate the
+ 
+Fourth Amendment.  No “search” occurred, according to the Court, because the officers did not physically enter the defendants’ homes.  Id., at 464–466.  And neither the telephone lines nor the defendants’ intangible conversations qualified as “persons, houses, papers, [or] effects” within the meaning of the
+ 
+Fourth Amendment.  Ibid.[1]  In the ensuing decades, this Court adhered to   
+
+															Olmstead and rejected
+ 
+Fourth Amendment challenges to various methods of electronic surveillance.  See On Lee v. United States,
+
+343 U. S. 747, 749–753 (1952) (use of microphone to overhear conversations with confidential informant); Goldman v. United States,
+
+316 U. S. 129, 131–132, 135–136 (1942) (use of detectaphone to hear conversations in office next door).
+
+															In the 1960’s, however, the Court began to retreat from Olmstead.  In Silverman v. United States,
+
+365 U. S. 505 (1961), for example, federal officers had eavesdropped on the defendants by driving a “spike mike” several inches into the house they were occupying.  Id., at 506–507.  This was a “search,” the Court held, because the “unauthorized physical penetration into the premises” was an “actual intrusion into a constitutionally protected area.”  Id., at 509, 512.  The Court did not mention Olmstead’s other holding that intangible conversations are not “persons, houses, papers, [or] effects.”  That omission was significant.  The Court confirmed two years later that “[i]t follows from [Silverman] that the
+ 
+Fourth Amendment may protect against the overhearing of verbal statements as well as against the more traditional seizure of ‘papers and effects.’ ”  Wong Sun v. United States,
+
+371 U. S. 471, 485 (1963); accord, Berger v. New York,
+
+388 U. S. 41, 51 (1967).
+
+															In Katz, the Court rejected Olmstead’s remaining holding—that eavesdropping is not a search absent a physical intrusion into a constitutionally protected area.  The federal officers in Katz had intercepted the defendant’s conversations by attaching an electronic device to the outside of a public telephone booth.  389 U. S., at 348.  The Court concluded that this was a “search” because the officers “violated the privacy upon which [the defendant] justifiably relied while using the telephone booth.”  Id., at 353.  Although the device did not physically penetrate the booth, the Court overruled Olmstead and held that “the reach of [the Fourth] Amendment cannot turn upon the presence or absence of a physical intrusion.”  389 U. S., at 353.  The Court did not explain what should replace Olmstead’s physical-intrusion requirement.  It simply asserted that “the
+ 
+Fourth Amendment protects people, not places” and “what [a person] seeks to preserve as private . . . may be constitutionally protected.”  389 U. S., at 351.
+
+															Justice Harlan’s concurrence in Katz attempted to articulate the standard that was missing from the majority opinion.  While Justice Harlan agreed that “ ‘the
+ 
+Fourth Amendment protects people, not places,’ ” he stressed that “[t]he question . . . is what protection it affords to those people,” and “the answer . . . requires reference to a ‘place.’ ”  Id., at 361.  Justice Harlan identified a “twofold requirement” to determine when the protections of the
+ 
+Fourth Amendment apply: “first that a person have exhibited an actual (subjective) expectation of privacy and, second, that the expectation be one that society is prepared to recognize as ‘reasonable.’ ”  Ibid.
+
+															Justice Harlan did not cite anything for this “expectation of privacy” test, and the parties did not discuss it in their briefs.  The test appears to have been presented for the first time at oral argument by one of the defendant’s lawyers.  See Winn, Katz and the Origins of the “Reason- able Expectation of Privacy” Test, 40 McGeorge L. Rev. 1, 9–10 (2009).  The lawyer, a recent law-school graduate, apparently had an “[e]piphany” while preparing for oral argument.  Schneider, Katz v. United States: The Untold Story, 40 McGeorge L. Rev. 13, 18 (2009).  He conjectured that, like the “reasonable person” test from his Torts class, the
+ 
+Fourth Amendment should turn on “whether a reasonable person . . . could have expected his communication to be private.”  Id., at 19.  The lawyer presented his new theory to the Court at oral argument.  See, e.g., Tr. of Oral Arg. in Katz v. United States, O. T. 1967, No. 35, p. 5 (proposing a test of “whether or not, objectively speaking, the communication was intended to be private”); id., at 11 (“We propose a test using a way that’s not too dissimilar from the tort ‘reasonable man’ test”).  After some questioning from the Justices, the lawyer conceded that his test should also require individuals to subjectively expect privacy.  See id., at 12.  With that modification, Justice Harlan seemed to accept the lawyer’s test almost verbatim in his concurrence.
+
+															Although the majority opinion in Katz had little practical significance after Congress enacted the Omnibus Crime Control and Safe Streets Act of 1968, Justice Harlan’s concurrence profoundly changed our
+ 
+Fourth Amendment jurisprudence.  It took only one year for the full Court to adopt his two-pronged test.  See Terry v. Ohio,
+
+392 U. S. 1, 10 (1968).  And by 1979, the Court was describing Justice Harlan’s test as the “lodestar” for determining whether a “search” had occurred.  Smith v. Maryland,
+
+442 U. S. 735, 739 (1979).  Over time, the Court minimized the subjective prong of Justice Harlan’s test.  See Kerr, Katz Has Only One Step: The Irrelevance of Subjective Expectations, 82 U. Chi. L. Rev. 113 (2015).  That left the objective prong—the “reasonable expectation of privacy” test that the Court still applies today.  See ante, at 5; United States v. Jones,
+
+565 U. S. 400, 406 (2012).
+
+															II
+
+															Under the Katz test, a “search” occurs whenever “government officers violate a person’s ‘reasonable expectation of privacy.’ ”  Jones, supra, at 406.  The most glaring problem with this test is that it has “no plausible foundation in the text of the
+ 
+Fourth Amendment.”  Carter, 525 U. S., at 97 (opinion of Scalia, J.).  The
+ 
+Fourth Amendment, as relevant here, protects “[t]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches.”  By defining “search” to mean “any violation of a reasonable expectation of pri- vacy,” the Katz test misconstrues virtually every one of these words.
+
+															A
+
+															The Katz test distorts the original meaning of “searc[h]”—the word in the
+ 
+Fourth Amendment that it purports to define, see ante, at 5; Smith, supra.  Under the Katz test, the government conducts a search anytime it violates someone’s “reasonable expectation of privacy.”  That is not a normal definition of the word “search.”
+
+															At the founding, “search” did not mean a violation of someone’s reasonable expectation of privacy.  The word was probably not a term of art, as it does not appear in legal dictionaries from the era.  And its ordinary meaning was the same as it is today: “ ‘[t]o look over or through for the purpose of finding something; to explore; to examine by inspection; as, to search the house for a book; to search the wood for a thief.’ ”  Kyllo v. United States,
+
+533 U. S. 27, 32, n. 1 (2001) (quoting N. Webster, An American Dictionary of the English Language 66 (1828) (reprint 6th ed. 1989)); accord, 2 S. Johnson, A Dictionary of the English Language (5th ed. 1773) (“Inquiry by looking into every suspected place”); N. Bailey, An Universal Etymological English Dictionary (22d ed. 1770) (“a seeking after, a looking for, &c.”); 2 J. Ash, The New and Complete Dictionary of the English Language (2d ed. 1795) (“An enquiry, an examination, the act of seeking, an enquiry by looking into every suspected place; a quest; a pursuit”); T. Sheridan, A Complete Dictionary of the English Language (6th ed. 1796) (similar).  The word “search” was not associated with “reasonable expectation of privacy” until Justice Harlan coined that phrase in 1967.  The phrase “expectation(s) of privacy” does not appear in the pre-Katz federal or state case reporters, the papers of prominent Founders,[2] early congressional documents and debates,[3] collections of early American English texts,[4] or early American newspapers.[5]
+
+															B
+
+															The Katz test strays even further from the text by focusing on the concept of “privacy.”  The word “privacy” does not appear in the
+ 
+Fourth Amendment (or anywhere else in the Constitution for that matter).  Instead, the
+ 
+Fourth Amendment references “[t]he right of the people to be secure.”  It then qualifies that right by limiting it to “persons” and three specific types of property: “houses, papers, and effects.”  By connecting the right to be secure to these four specific objects, “[t]he text of the
+ 
+Fourth Amendment reflects its close connection to property.”  Jones, supra, at 405.  “[P]rivacy,” by contrast, “was not part of the political vocabulary of the [founding].  Instead, liberty and privacy rights were understood largely in terms of property rights.”  Cloud, Property Is Privacy: Locke and Brandeis in the Twenty-First Century, 55 Am. Crim. L. Rev. 37, 42 (2018).
+
+															Those who ratified the
+ 
+Fourth Amendment were quite familiar with the notion of security in property.  Security in property was a prominent concept in English law.  See, e.g., 3 W. Blackstone, Commentaries on the Laws of Eng-  
+
+															land 288 (1768) (“[E]very man’s house is looked upon by the law to be his castle”); 3 E. Coke, Institutes of Laws of England 162 (6th ed. 1680) (“[F]or a man[’]s house is his Castle, & domus sua cuique est tutissimum refugium [each man’s home is his safest refuge]”).  The political philosophy of John Locke, moreover, “permeated the 18th-century political scene in America.”  Obergefell v. Hodges, 576 U. S. ___, ___ (2015) (Thomas, J., dissenting) (slip op., at 8).  For Locke, every individual had a property right “in his own person” and in anything he “removed from the common state [of] Nature” and “mixed his labour with.”  Second Treatise of Civil Government §27 (1690).  Because property is “very unsecure” in the state of nature, §123, individuals form governments to obtain “a secure enjoyment of their properties.”  §95.  Once a government is formed, however, it cannot be given “a power to destroy that which every one designs to secure”; it cannot legitimately “endeavour to take away, and destroy the property of the people,” or exercise “an absolute power over [their] lives, liberties, and estates.”  §222.
+
+															The concept of security in property recognized by Locke and the English legal tradition appeared throughout the materials that inspired the
+ 
+Fourth Amendment.  In Entick v. Carrington, 19 How. St. Tr. 1029 (C. P. 1765)—a heralded decision that the founding generation considered “the true and ultimate expression of constitutional law,” Boyd v. United States,
+
+116 U. S. 616, 626 (1886)—Lord Camden explained that “[t]he great end, for which men entered into society, was to secure their property.”  19 How. St. Tr., at 1066.  The American colonists echoed this reasoning in their “widespread hostility” to the Crown’s writs of assistance[6]—a practice that inspired the Revolution and became “[t]he driving force behind the adoption of the [Fourth] Amendment.”  United States v. Verdugo-Urquidez,
+
+494 U. S. 259, 266 (1990).  Prominent colonists decried the writs as destroying “ ‘domestic security’ ” by permitting broad searches of homes.  M. Smith, The Writs of Assistance Case 475 (1978) (quoting a 1772 Boston town meeting); see also id., at 562 (complaining that “ ‘every householder in this province, will necessarily become less secure than he was before this writ’ ” (quoting a 1762 article in the Boston Gazette)); id., at 493 (complaining that the writs were “ ‘expressly contrary to the common law, which ever regarded a man’s house as his castle, or a place of perfect security’ ” (quoting a 1768 letter from John Dickinson)).  John Otis, who argued the famous Writs of Assistance case, contended that the writs violated “ ‘the fundamental Principl[e] of Law’ ” that “ ‘[a] Man who is quiet, is as secure in his House, as a Prince in his Castle.’ ”  Id., at 339 (quoting John Adam’s notes).  John Adams attended Otis’ argument and later drafted Article XIV of the Massachusetts Constitution,[7] which served as a model for the
+ 
+Fourth Amendment.  See Clancy, The Framers’ Intent: John Adams, His Era, and the
+ 
+Fourth Amendment, 86 Ind. L. J. 979, 982 (2011); Donahue, The Original
+ 
+Fourth Amendment, 83 U. Chi. L. Rev. 1181, 1269 (2016)   
+
+															(Donahue).  Adams agreed that “[p]roperty must be secured, or liberty cannot exist.”  Discourse on Davila, in 6 The Works of John Adams 280 (C. Adams ed. 1851).
+
+															Of course, the founding generation understood that, by securing their property, the
+ 
+Fourth Amendment would often protect their privacy as well.  See, e.g., Boyd, supra, at 630 (explaining that searches of houses invade “the privacies of life”); Wilkes v. Wood, 19 How. St. Tr. 1153, 1154 (C. P. 1763) (argument of counsel contending that seizures of papers implicate “our most private concerns”).  But the
+ 
+Fourth Amendment’s attendant protection of privacy does not justify Katz’s elevation of privacy as the sine qua non of the Amendment.  See T. Clancy, The
+ 
+Fourth Amendment: Its History and Interpretation §3.4.4, p. 78 (2008) (“[The Katz test] confuse[s] the reasons for exercising the protected right with the right itself.  A purpose of exercising one’s
+ 
+Fourth Amendment rights might be the desire for privacy, but the individual’s motivation is not the right protected”); cf. United States v. Gonzalez- Lopez,
+
+548 U. S. 140, 145 (2006) (rejecting “a line of  reasoning that ‘abstracts from the right to its purposes, and then eliminates the right’ ”).  As the majority opinion in Katz recognized, the
+ 
+Fourth Amendment “cannot be translated into a general constitutional ‘right to privacy,’ ” as its protections “often have nothing to do with privacy at all.”  389 U. S., at 350.  Justice Harlan’s focus on privacy in his concurrence—an opinion that was issued between Griswold v. Connecticut,
+
+381 U. S. 479 (1965), and Roe v. Wade,
+
+410 U. S. 113 (1973)—reflects privacy’s status as the organizing constitutional idea of the 1960’s and 1970’s.  The organizing constitutional idea of the founding era, by contrast, was property.
+
+															C
+
+															In shifting the focus of the
+ 
+Fourth Amendment from property to privacy, the Katz test also reads the words “persons, houses, papers, and effects” out of the text.  At its broadest formulation, the Katz test would find a search “wherever an individual may harbor a reasonable ‘expectation of privacy.’ ”  Terry, 392 U. S., at 9 (emphasis added).  The Court today, for example, does not ask whether cell-site location records are “persons, houses, papers, [or] effects” within the meaning of the
+ 
+Fourth Amendment.[8]  Yet “persons, houses, papers, and effects” cannot mean “anywhere” or “anything.”  Katz’s catchphrase that “the
+ 
+Fourth Amendment protects people, not places,” is not a serious attempt to reconcile the constitutional text.  See Carter, 525 U. S., at 98, n. 3 (opinion of Scalia, J.).  The
+ 
+Fourth Amendment obviously protects people; “[t]he question . . . is what protection it affords to those people.”  Katz, 389 U. S., at 361 (Harlan, J., concurring).  The Founders decided to protect the people from unreasonable searches and seizures of four specific things—persons, houses, papers, and effects.  They identified those four categories as “the objects of privacy protection to which the Constitution would extend, leaving further expansion to the good judgment . . . of the people through their representatives in the legislature.”  Carter, supra, at 97–98 (opinion of Scalia, J.).
+
+															This limiting language was important to the founders.  Madison’s first draft of the
+ 
+Fourth Amendment used a different phrase: “their persons, their houses, their papers, and their other property.”  1 Annals of Cong. 452 (1789)   
+
+															(emphasis added).  In one of the few changes made to Madison’s draft, the House Committee of Eleven changed “other property” to “effects.”  See House Committee of Eleven Report (July 28, 1789), in N. Cogan, The Complete Bill of Rights 334 (2d ed. 2015).  This change might have narrowed the
+ 
+Fourth Amendment by clarifying that it does not protect real property (other than houses).  See Oliver v. United States,
+
+466 U. S. 170, 177, and n. 7 (1984); Davies, Recovering the Original
+ 
+Fourth Amendment, 98 Mich. L. Rev. 547, 709–714 (1999) (Davies).  Or the change might have broadened the
+ 
+Fourth Amendment by clarifying that it protects commercial goods, not just personal possessions.  See Donahue 1301.  Or it might have done both.  Whatever its ultimate effect, the change reveals that the Founders understood the phrase “persons, houses, papers, and effects” to be an important measure of the
+ 
+Fourth Amendment’s overall scope.  See Davies 710.  The Katz test, however, displaces and renders that phrase entirely “superfluous.”  Jones, 565 U. S., at 405.
+
+															D
+
+															“[P]ersons, houses, papers, and effects” are not the only words that the Katz test reads out of the
+ 
+Fourth Amendment.  The
+ 
+Fourth Amendment specifies that the people have a right to be secure from unreasonable searches of “their” persons, houses, papers, and effects.  Although phrased in the plural, “[t]he obvious meaning of [‘their’] is that each person has the right to be secure against unreasonable searches and seizures in his own person, house, papers, and effects.”  Carter, supra, at 92 (opinion of Sca- lia, J.); see also District of Columbia v. Heller,
+
+554 U. S. 570, 579 (2008) (explaining that the Constitution uses the plural phrase “the people” to “refer to individual rights, not ‘collective’ rights”).  Stated differently, the word “their” means, at the very least, that individuals do not have
+ 
+Fourth Amendment rights in someone else’s property.  See Carter, supra, at 92–94 (opinion of Scalia, J.).  Yet, under the Katz test, individuals can have a reasonable expectation of privacy in another person’s property.  See, e.g., Carter, 525 U. S., at 89 (majority opinion) (“[A] person may have a legitimate expectation of privacy in the house of someone else”).  Until today, our precedents have not acknowledged that individuals can claim a reasonable expectation of privacy in someone else’s business records.  See ante, at 2 (Kennedy, J., dissenting).  But the Court erases that line in this case, at least for cell-site location records.  In doing so, it confirms that the Katz test does not necessarily require an individual to prove that the government searched his person, house, paper, or effect.
+
+															Carpenter attempts to argue that the cell-site records are, in fact, his “papers,” see Brief for Petitioner 32–35; Reply Brief 14–15, but his arguments are unpersuasive, see ante, at 12–13 (opinion of Kennedy, J.); post, at 20–23 (Alito, J., dissenting).  Carpenter stipulated below that the cell-site records are the business records of Sprint and MetroPCS.  See App. 51.  He cites no property law in his briefs to this Court, and he does not explain how he has a property right in the companies’ records under the law of any jurisdiction at any point in American history.  If someone stole these records from Sprint or MetroPCS, Carpenter does not argue that he could recover in a traditional tort action.  Nor do his contracts with Sprint and MetroPCS make the records his, even though such provisions could exist in the marketplace.  Cf., e.g., Google Terms of Service, https://policies.google.com/terms (“Some of our Services allow you to upload, submit, store, send or receive content.  You retain ownership of any intellectual property rights that you hold in that content.  In short, what belongs to you stays yours”).
+
+															Instead of property, tort, or contract law, Carpenter relies on the federal Telecommunications Act of 1996 to demonstrate that the cell site records are his papers.  The Telecommunications Act generally bars cell-phone companies from disclosing customers’ cell site location information to the public.  See
+
+47 U. S. C. §222(c).  This is sufficient to make the records his, Carpenter argues, because the
+ 
+Fourth Amendment merely requires him to identify a source of “positive law” that “protects against access by the public without consent.”  Brief for Petitioner 32–33 (citing Baude & Stern, The Positive Law Model of the
+ 
+Fourth Amendment, 129 Harv. L. Rev. 1821, 1825–1826 (2016); emphasis deleted).
+
+															Carpenter is mistaken.  To come within the text of the
+ 
+Fourth Amendment, Carpenter must prove that the cell-site records are his; positive law is potentially relevant only insofar as it answers that question.  The text of the
+ 
+Fourth Amendment cannot plausibly be read to mean “any violation of positive law” any more than it can plausibly be read to mean “any violation of a reasonable expectation of privacy.”
+
+															Thus, the Telecommunications Act is insufficient because it does not give Carpenter a property right in the cell-site records.  Section 222, titled “Privacy of customer information,” protects customers’ privacy by preventing cell-phone companies from disclosing sensitive information about them.  The statute creates a “duty to protect the confidentiality” of information relating to customers, §222(a), and creates “[p]rivacy requirements” that limit the disclosure of that information, §222(c)(1).  Nothing in the text pre-empts state property law or gives customers a property interest in the companies’ business records (assuming Congress even has that authority).[9]  Although §222 “protects the interests of individuals against wrongful uses or disclosures of personal data, the rationale for these legal protections has not historically been grounded on a perception that people have property rights in personal data as such.”  Samuelson, Privacy as Intellectual Property? 52 Stan. L. Rev. 1125, 1130–1131 (2000) (footnote omitted).  Any property rights remain with the  companies.
+
+															E
+
+															The Katz test comes closer to the text of the
+ 
+Fourth Amendment when it asks whether an expectation of pri- vacy is “reasonable,” but it ultimately distorts that term as well.  The
+ 
+Fourth Amendment forbids “unreasonable searches.”  In other words, reasonableness determines the legality of a search, not “whether a search . . . within the meaning of the Constitution has occurred.”  Carter, 525 U. S., at 97 (opinion of Scalia, J.) (internal quotation marks omitted).
+
+															Moreover, the Katz test invokes the concept of reason- ableness in a way that would be foreign to the ratifiers of the
+ 
+Fourth Amendment.  Originally, the word “unreason- able” in the
+ 
+Fourth Amendment likely meant “against reason”—as in “against the reason of the common law.”  See Donahue 1270–1275; Davies 686–693; California v. Acevedo,
+
+500 U. S. 565, 583 (1991) (Scalia, J., concurring in judgment).  At the founding, searches and seizures were   
+
+															regulated by a robust body of common-law rules.  See generally W. Cuddihy, The
+ 
+Fourth Amendment: Origins and Original Meaning 602–1791 (2009); e.g., Wilson v. Arkansas,
+
+514 U. S. 927, 931–936 (1995) (discussing the common-law knock-and-announce rule).  The search-and-seizure practices that the Founders feared most—such as general warrants—were already illegal under the common law, and jurists such as Lord Coke described violations of the common law as “against reason.”  See Donahue 1270–1271, and n. 513.  Locke, Blackstone, Adams, and other influential figures shortened the phrase “against reason” to “unreasonable.”  See id., at 1270–1275.  Thus, by prohibiting “unreasonable” searches and seizures in the
+ 
+Fourth Amendment, the Founders ensured that the newly created Congress could not use legislation to abolish the established common-law rules of search and seizure.  See T. Cooley, Constitutional Limitations *303 (2d ed. 1871); 3 J. Story, Commentaries on the Constitution of the United States §1895, p. 748 (1833).
+
+															Although the Court today maintains that its decision is based on “Founding-era understandings,” ante, at 6, the Founders would be puzzled by the Court’s conclusion as well as its reasoning.  The Court holds that the Government unreasonably searched Carpenter by subpoenaing the cell-site records of Sprint and MetroPCS without a warrant.  But the Founders would not recognize the Court’s “warrant requirement.”  Ante, at 21.  The common law required warrants for some types of searches and seizures, but not for many others.  The relevant rule depended on context.  See Acevedo, supra, at 583–584 (opinion of Scalia, J.); Amar,
+ 
+Fourth Amendment First Principles, 107 Harv. L. Rev. 757, 763–770 (1994); Davies 738–739.  In cases like this one, a subpoena for third-party documents was not a “search” to begin with, and the common law did not limit the government’s authority to subpoena third parties.  See post, at 2–12 (Alito, J., dissenting).  Suffice it to say, the Founders would be confused by this Court’s transformation of their common-law protection of property into a “warrant requirement” and a vague inquiry into “reasonable expectations of privacy.”
+
+															III
+
+															That the Katz test departs so far from the text of the
+ 
+Fourth Amendment is reason enough to reject it.  But the Katz test also has proved unworkable in practice.  Jurists and commentators tasked with deciphering our jurisprudence have described the Katz regime as “an unpredictable jumble,” “a mass of contradictions and obscurities,” “all over the map,” “riddled with inconsistency and incoherence,” “a series of inconsistent and bizarre results that [the Court] has left entirely undefended,” “unstable,” “chameleon-like,” “ ‘notoriously unhelpful,’ ” “a conclusion rather than a starting point for analysis,” “distressingly unmanageable,” “a dismal failure,” “flawed to the core,” “unadorned fiat,” and “inspired by the kind of logic that produced Rube Goldberg’s bizarre contraptions.”[10]  Even Justice Harlan, four years after penning his concurrence in Katz, confessed that the test encouraged “the substitution of words for analysis.”  United States v. White,
+
+401 U. S. 745, 786 (1971) (dissenting opinion).
+
+															After 50 years, it is still unclear what question the Katz test is even asking.  This Court has steadfastly declined to elaborate the relevant considerations or identify any meaningful constraints.  See, e.g., ante, at 5 (“[N]o single rubric definitively resolves which expectations of privacy are entitled to protection”); O’Connor v. Ortega,
+
+480 U. S. 709, 715 (1987) (plurality opinion) (“We have no talisman that determines in all cases those privacy expectations that society is prepared to accept as reasonable”); Oliver, 466 U. S., at 177 (“No single factor determines whether an individual legitimately may claim under the
+ 
+Fourth Amendment that a place should be free of government intrusion”).
+
+															Justice Harlan’s original formulation of the Katz test appears to ask a descriptive question: Whether a given expectation of privacy is “one that society is prepared to recognize as ‘reasonable.’ ”  389 U. S., at 361.  As written, the Katz test turns on society’s actual, current views about the reasonableness of various expectations of privacy.
+
+															But this descriptive understanding presents several problems.  For starters, it is easily circumvented.  If, for example, “the Government were suddenly to announce on nationwide television that all homes henceforth would be subject to warrantless entry,” individuals could not realistically expect privacy in their homes.  Smith, 442 U. S., at 740, n. 5; see also Chemerinsky, Rediscovering Brandeis’s   
+
+															Right to Privacy, 45 Brandeis L. J. 643, 650 (2007) (“[Under Katz, t]he government seemingly can deny privacy just by letting people know in advance not to expect any”).  A purely descriptive understanding of the Katz test also risks “circular[ity].”  Kyllo, 533 U. S., at 34.  While this Court is supposed to base its decisions on society’s expectations of privacy, society’s expectations of privacy are, in turn, shaped by this Court’s decisions.  See Posner, The Uncertain Protection of Privacy by the Supreme Court, 1979 S. Ct. Rev. 173, 188 (“[W]hether [a person] will or will not have [a reasonable] expectation [of privacy] will depend on what the legal rule is”).
+
+															To address this circularity problem, the Court has insisted that expectations of privacy must come from outside its
+ 
+Fourth Amendment precedents, “either by reference to concepts of real or personal property law or to understandings that are recognized and permitted by society.”  Rakas v. Illinois,
+
+439 U. S. 128, 144, n. 12 (1978).  But the Court’s supposed reliance on “real or personal property law” rings hollow.  The whole point of Katz was to “ ‘discredi[t]’ ” the relationship between the
+ 
+Fourth Amendment and property law, 389 U. S., at 353, and this Court has repeatedly downplayed the importance of property law under the Katz test, see, e.g., United States v. Salvucci,
+
+448 U. S. 83, 91 (1980) (“[P]roperty rights are neither the beginning nor the end of this Court’s inquiry [under Katz]”); Rawlings v. Kentucky,
+
+448 U. S. 98, 105 (1980) (“[This Court has] emphatically rejected the notion that ‘arcane’ concepts of property law ought to control the ability to claim the protections of the
+ 
+Fourth Amendment”).  Today, for example, the Court makes no mention of property law, except to reject its relevance.  See ante, at 5, and n. 1.
+
+															As for “understandings that are recognized or permitted in society,” this Court has never answered even the most basic questions about what this means.  See Kerr, Four Models of
+ 
+Fourth Amendment Protection, 60 Stan. L. Rev. 503, 504–505 (2007).  For example, our precedents do not explain who is included in “society,” how we know what they “recogniz[e] or permi[t],” and how much of society must  agree before something constitutes an “understanding.”
+
+															Here, for example, society might prefer a balanced regime that prohibits the Government from obtaining cell-site location information unless it can persuade a neutral magistrate that the information bears on an ongoing criminal investigation.  That is precisely the regime Congress created under the Stored Communications Act and Telecommunications Act.  See
+
+47 U. S. C. §222(c)(1); 18 U. S. C. §§2703(c)(1)(B), (d).  With no sense of irony, the Court invalidates this regime today—the one that society actually created “in the form of its elected representatives in Congress.”  819 F. 3d 880, 890 (2016).
+
+															Truth be told, this Court does not treat the Katz test as a descriptive inquiry.  Although the Katz test is phrased in descriptive terms about society’s views, this Court treats it like a normative question—whether a particular practice should be considered a search under the
+ 
+Fourth Amendment.  Justice Harlan thought this was the best way to understand his test.  See White, 401 U. S., at 786 (dissenting opinion) (explaining that courts must assess the “desirability” of privacy expectations and ask whether courts “should” recognize them by “balanc[ing]” the “impact on the individual’s sense of security . . . against the utility of the conduct as a technique of law enforcement”).  And a normative understanding is the only way to make sense of this Court’s precedents, which bear the hallmarks of subjective policymaking instead of neutral legal decisionmaking.  “[T]he only thing the past three decades have established about the Katz test” is that society’s expectations of privacy “bear an uncanny resemblance to those expectations of privacy that this Court considers reasonable.”    
+
+															Carter, 525 U. S., at 97 (opinion of Scalia, J.).  Yet, “[t]hough we know ourselves to be eminently reasonable, self-awareness of eminent reasonableness is not really a substitute for democratic election.”  Sosa v. Alvarez-Machain,
+
+542 U. S. 692, 750 (2004) (Scalia, J., concurring in part and concurring in judgment).
+
+															*  *  *
+
+															In several recent decisions, this Court has declined to apply the Katz test because it threatened to narrow the original scope of the
+ 
+Fourth Amendment.  See Grady v. North Carolina, 575 U. S. ___, ___ (2015) (per curiam) (slip op., at 3); Florida v. Jardines,
+
+569 U. S. 1, 5 (2013); Jones, 565 U. S., at 406–407.  But as today’s decision demonstrates, Katz can also be invoked to expand the
+ 
+Fourth Amendment beyond its original scope.  This Court should not tolerate errors in either direction.  “The People, through ratification, have already weighed the policy tradeoffs that constitutional rights entail.”  Luis v. United States, 578 U. S. ___, ___ (2016) (Thomas, J., concurring in judgment) (slip op., at 10).  Whether the rights they ratified are too broad or too narrow by modern lights, this Court has no authority to unilaterally alter the document they approved.
+
+															Because the Katz test is a failed experiment, this Court is dutybound to reconsider it.  Until it does, I agree with my dissenting colleagues’ reading of our precedents.  Accordingly, I respectfully dissent.
+Notes
+1
+ Justice Brandeis authored the principal dissent in Olmstead.  He consulted the “underlying purpose,” rather than “the words of the [Fourth] Amendment,” to conclude that the wiretap was a search.  277 U. S., at 476.  In Justice Brandeis’ view, the Framers “recognized the significance of man’s spiritual nature, of his feelings and of his intellect” and “sought to protect Americans in their beliefs, their thoughts, their emotions and their sensations.”  Id., at 478.  Thus, “every unjustifiable intrusion by the Government upon the privacy of the individual, whatever the means employed,” should constitute an unreasonable search under the
+ 
+Fourth Amendment.  Ibid. 
+
+2
+ National Archives, Library of Congress, Founders Online, https://founders.archives.gov (all Internet materials as last visited June 18, 2018). 
+
+3
+ A Century of Lawmaking For A New Nation, U. S. Congressional Documents and Debates, 1774–1875 (May 1, 2003), https://memory.loc.gov/ammem/amlaw/lawhome.html. 
+
+4
+ Corpus of Historical American English, https://corpus.byu.edu/coha; Google Books (American), https://googlebooks.byu.edu/x.asp; Corpus of Founding Era American English, https://lawncl.byu.edu/cofea. 
+
+5
+ Readex, America’s Historical Newspapers (2018), https://www.readex.com/content/americas-historical-newspapers. 
+
+6
+ Writs of assistance were “general warrants” that gave “customs officials blanket authority to search where they pleased for goods imported in violation of the British tax laws.”  Stanford v. Texas,
+
+379 U. S. 476, 481 (1965). 
+
+7
+ “Every subject has a right to be secure from all unreasonable searches and seizures of his person, his house, his papers, and all his possessions.  All warrants, therefore, are contrary to right, if the cause or foundation of them be not previously supported by oath or affirmation, and if the order in the warrant to a civil officer, to make search in suspected places, or to arrest one or more suspected persons, or to seize their property, be not accompanied with a special designation of the person or objects of search, arrest, or seizure; and no warrant ought to be issued but in cases, and with the formalities prescribed by the laws.”  Mass. Const., pt. I, Art. XIV (1780). 
+
+8
+ The answer to that question is not obvious.  Cell-site location records are business records that mechanically collect the interactions between a person’s cell phone and the company’s towers; they are not private papers and do not reveal the contents of any communications.  Cf. Schnapper, Unreasonable Searches and Seizures of Papers, 71 Va. L. Rev. 869, 923–924 (1985) (explaining that business records that do not reveal “personal or speech-related confidences” might not satisfy the original meaning of “papers”). 
+
+9
+ Carpenter relies on an order from the Federal Communications Commission (FCC), which weakly states that “ ‘[t]o the extent [a customer’s location information] is property, . . . it is better understood as belonging to the customer, not the carrier.’ ”  Brief for Petitioner 34, and n. 23 (quoting 13 FCC Rcd. 8061, 8093 ¶43 (1998); emphasis added).   But this order was vacated by the Court of Appeals for the Tenth Circuit.  U. S. West, Inc. v. FCC, 182 F. 3d 1224, 1240 (1999).  Notably, the carrier in that case argued that the FCC’s regulation of customer information was a taking of its property.  See id., at 1230.  Although the panel majority had no occasion to address this argument, see id., at 1239, n. 14, the dissent concluded that the carrier had failed to prove the information was “property” at all, see id., at 1247–1248 (opinion of Briscoe, J.). 
+
+10
+ Kugler & Strahilevitz, Actual Expectations of Privacy,
+ 
+Fourth Amendment Doctrine, and the Mosaic Theory, 2015 S. Ct. Rev. 205, 261; Bradley, Two Models of the
+ 
+Fourth Amendment, 83 Mich. L. Rev. 1468 (1985); Kerr, Four Models of
+ 
+Fourth Amendment Protection, 60 Stan. L. Rev. 503, 505 (2007); Solove,
+ 
+Fourth Amendment Pragmatism, 51 Boston College L. Rev. 1511 (2010); Wasserstom & Seidman, The
+ 
+Fourth Amendment as Constitutional Theory, 77 Geo. L. J. 19, 29 (1988); Colb, What Is a Search? Two Conceptual Flaws in
+ 
+Fourth Amendment Doctrine and Some Hints of a Remedy, 55 Stan. L. Rev. 119, 122 (2002); Clancy, The
+ 
+Fourth Amendment: Its History and Interpretation §3.3.4, p. 65 (2008); Minnesota v. Carter,
+
+525 U. S. 83, 97 (1998) (Scalia, J., dissenting); State v. Campbell, 306 Ore. 157, 164, 759 P.2d 1040, 1044 (1988); Wilkins, Defining the “Reasonable Expectation of Privacy”: an Emerging Tripartite Analysis, 40 Vand. L. Rev. 1077, 1107 (1987); Yeager, Search, Seizure and the Positive Law: Expectations of Privacy Outside the
+ 
+Fourth Amendment, 84 J. Crim. L. & C. 249, 251 (1993); Thomas, Time Travel, Hovercrafts, and the Framers:  James Madison Sees the Future and Rewrites the
+ 
+Fourth Amendment, 80 Notre Dame L. Rev. 1451, 1500 (2005); Rakas v. Illinois,
+
+439 U. S. 128, 165 (1978) (White, J., dissenting); Cloud, Rube Goldberg Meets the Constitution: The Supreme Court, Technology, and the
+ 
+Fourth Amendment, 72 Miss. L. J. 5, 7 (2002). 
+
+

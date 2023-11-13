@@ -1,0 +1,76 @@
+::SCDB_caseID:: 2015-009
+::decision_cite:: 14-857
+::decision_name::  Campbell-Ewald v. Gomez
+::decision_year:: 2016
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 14–857
+
+															_________________
+
+															CAMPBELL-EWALD COMPANY, PETITIONERv. JOSE GOMEZ
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[January 20, 2016]
+
+															
+
+															Justice Alito, dissenting.
+
+															I join The Chief Justice’s dissent.  I agree that a defendant may extinguish a plaintiff’s personal stake in pursuing a claim by offering complete relief on the claim, even if the plaintiff spurns the offer.  Our Article III precedents make clear that, for mootness purposes, there is nothing talismanic about the plaintiff’s acceptance.  E.g., Already, LLC v. Nike, Inc., 568 U. S. ___ (2013) (holding that Nike’s unilateral covenant not to sue mooted Already’s trademark invalidity claim).  I write separately to emphasize what I see as the linchpin for finding mootness in this case: There is no real dispute that Campbell would “make good on [its] promise” to pay Gomez the money it offered him if the case were dismissed.  Ante, at 5 (opinion of Roberts, C. J.).  Absent this fact, I would be compelled to find that the case is not moot.
+
+															Our “voluntary cessation” cases provide useful guidance.  Those cases hold that, when a plaintiff seeks to enjoin a defendant’s conduct, a defendant’s “voluntary cessation of challenged conduct does not ordinarily render a case moot because a dismissal for mootness would permit a resumption of the challenged conduct as soon as the case is dismissed.”  Knox v. Service Employees, 567 U. S. ___, ___–___ (2012) (slip op., at 6–7).  To obtain dismissal in such circumstances, the defendant must “ ‘bea[r] the formidable burden of showing that it is absolutely clear the allegedly wrongful behavior could not reasonably be expected to recur.’ ”  Already, supra, at ___ (slip op., at 4) (quoting Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.,
+
+528 U. S. 167,
+190 (2000)
+).  We have typically applied that rule in cases involving claims for prospective relief, see Knox, supra, at ___ (slip op., at 7), but the basic principle easily translates to cases, like this one, involving claims for damages: When a defendant offers a plaintiff complete relief on a damages claim, the case will be dismissed as moot if—but only if—it is “absolutely clear” that the plaintiff will be able to receive the offered relief.  Already, supra, at ___ (slip op., at 8).[1]
+
+															Consider an offer of complete relief from a defendant that has no intention of actually paying the promised sums, or from a defendant whose finances are so shaky that it cannot produce the necessary funds.  In both instances, there is a question whether the defendant will back up its offer to pay with an actual payment.  If those cases were dismissed as moot, the defendant’s failure to follow through on its promise to pay would leave the plaintiff forever emptyhanded.  In the language of our mootness cases, those cases would not be moot because a court could still grant the plaintiff “effectual relief,” Knox, supra, at ___ (slip op., at 7) (internal quotation marks omitted)—namely, the relief sought in the first place.  The plaintiff retains a “personal stake” in continuing the litigation.  Genesis HealthCare Corp. v. Symczyk, 569 U. S. ___, ___ (2013) (slip op., at 4) (internal quotation marks omitted).  An offer of complete relief thus will not always warrant dismissal.
+
+															Campbell urges that a plaintiff could simply move to reopen a dismissed case if a defendant fails to make good on its offer.  Reply Brief 10.  I assume that is true.  But the prospect of having to reopen litigation is precisely why our voluntary cessation cases require defendants to prove, before dismissal, that the plaintiff’s injury cannot reasonably be expected to recur.  I see no reason not to impose a similar burden when a defendant asserts that it has rendered a damages claim moot.
+
+															How, then, can a defendant make “absolutely clear” that it will pay the relief it has offered?  The most straightforward way is simply to pay over the money.  The defendant might hand the plaintiff a certified check or deposit the requisite funds in a bank account in the plaintiff’s name.  See California v. San Pablo & Tulare R. Co.,
+
+149 U. S. 308
+–314 (1893).  Alternatively, a defendant might deposit the money with the district court (or another trusted intermediary) on the condition that the money be released to the plaintiff when the court dismisses the case as moot.  See Fed. Rule Civ. Proc. 67; 28 U. S. C. §§2041, 2042.  In these situations, there will rarely be any serious doubt that the plaintiff can obtain the offered money.[2]
+
+															While outright payment is the surest way for a defendant to make the requisite mootness showing, I would not foreclose other means of doing so.  The question is whether it is certain the defendant will pay, not whether the defendant has already paid.  I believe Campbell clears the mark in this case.  As The Chief Justice observes, there is no dispute Campbell has the means to pay the few thousand dollars it offered Gomez, and there is no basis “to argue that Campbell might not make good on that promise” if the case were dismissed.  Ante, at 5.  Thus, in the circumstances of this case, Campbell’s offer of complete relief should have rendered Gomez’s damages claim moot.  But the same would not necessarily be true for other defendants, particularly those that face more substantial claims, possess less secure finances, or extend offers of questionable sincerity.  Cf. Already, 568 U. S., at ___–___ (Kennedy, J., concurring) (slip op., at 3–4) (emphasizing the “formidable burden on the party asserting mootness” and noting possible “doubts that Nike’s showing [of mootness] would suffice in other circumstances”).
+
+															The Court does not dispute Campbell’s ability or willingness to pay, but nonetheless concludes that its unaccepted offer did not moot Gomez’s claim.  While I disagree with that result on these facts, I am heartened that the Court appears to endorse the proposition that a plaintiff’s claim is moot once he has “received full redress” from the defendant for the injuries he has asserted.  Ante, at 10, n. 5 (discussing Already, supra, and Alvarez v. Smith,
+
+558 U. S. 87 (2009)
+).  Today’s decision thus does not prevent a defendant who actually pays complete relief—either directly to the plaintiff or to a trusted intermediary—from seeking dismissal on mootness grounds.[3]
+
+															
+
+															Notes
+
+1
+
+
+		 I say it must be clear that the plaintiff “will be able to receive” the relief, rather than that the plaintiff “will receive” the relief, to account for the possibility of an obstinate plaintiff who refuses to take any relief even if the case is dismissed.  A plaintiff cannot thwart mootness by refusing complete relief presented on a silver platter.
+	
+
+
+2
+
+
+		 Depositing funds with the district court or another intermediary may be particularly attractive to defendants because it would ensure that the plaintiff can obtain the money, yet allow the defendant to reclaim the funds if the court refuses to dismiss the case (for example, because it determines the offer is for less than full relief ).  Contrary to the views of Gomez’s amicus, there is no reason to force a defendant to effect an “ ‘irrevocable transfer of title’ ” to the funds without regard to whether doing so succeeds in mooting the case.  Brief for American Federation of Labor and Congress of Industrial Organizations 10.  Likewise, because I believe our precedents “provide sufficiently specific principles to resolve this case,” I would not apply the “rigid formalities” of common-law tender in this context.  Ante, at 1, 2 (Thomas, J., concurring in judgment).  Article III demands that a plaintiff always have a personal stake in continuing the litigation, and that stake is extinguished if the plaintiff is freely able to obtain full relief in the event the case is dismissed as moot.
+	
+
+
+3
+
+
+		 Although it does not resolve the issue, the majority raises the possibility that a defendant must both pay the requisite funds and have “the court . . . ente[r] judgment for the plaintiff in that amount.”  Ante, at 11.  I do not see how that can be reconciled with Already, which affirmed an order of dismissal—not judgment for the plaintiff—where the plaintiff had received full relief from the defendant.  Already, LLC v. Nike, Inc., 568 U. S. ___, ___–___, ___ (2013) (slip op., at 2–3, 15).
+	
+
+

@@ -1,0 +1,39 @@
+::SCDB_caseID:: 2018-044
+::decision_cite:: 17-1657
+::decision_name::  Mission Product Holdings, Inc. v. Tempnology, LLC
+::decision_year:: 2019
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1657
+
+															_________________
+
+															MISSION PRODUCT HOLDINGS, INC., PETITIONER v. TEMPNOLOGY, LLC, nka OLD COLD LLC
+
+															on writ of certiorari to the united states court of appeals for the first circuit
+
+															[May 20, 2019]
+
+															
+
+															Justice Sotomayor, concurring.
+
+															I agree with the Court that a debtor’s choice to reject an executory contact under
+
+11 U. S. C. §365(a) functions as a breach of the contract rather than unwinding the rejected contract as if it never existed.  Ante, at 8–10.  This result follows from traditional bankruptcy principles and from the general rule set out in §365(g) of the Bankruptcy Code.  I also agree that no specific aspects of trademark law compel a contrary rule that equates rejection with rescission.  I therefore join the Court’s opinion in full.  I write separately to highlight two potentially significant features of today’s holding.
+
+															First, the Court does not decide that every trademark licensee has the unfettered right to continue using licensed marks postrejection.  The Court granted certiorari to decide whether rejection “terminates rights of the licensee that would survive the licensor’s breach under applicable nonbankruptcy law.”  Pet. for Cert. i.  The answer is no, for the reasons the Court explains.  But the baseline inquiry remains whether the licensee’s rights would survive a breach under applicable nonbankruptcy law.  Special terms in a licensing contract or state law could bear on that question in individual cases.  See ante, at 9–10; Brief for American Intellectual Property Law Association as Amicus Curiae 20–25 (discussing examples of contract terms that could potentially lead a bankruptcy court to limit licensee rights postrejection).
+
+															Second, the Court’s holding confirms that trademark licensees’ postrejection rights and remedies are more expansive in some respects than those possessed by licensees of other types of intellectual property.  Those variances stem from §365(n), one of several subject-specific provisions in the Bankruptcy Code that “embellis[h] on or twea[k]” the general rejection rule.  Ante, at 13, n. 2.  Section 365(n)—which  applies to patents, copyrights, and four other types of intellectual property, but not to trademarks, §101(35A)—alters the general rejection rule in several respects.  For example, a covered licensee that chooses to retain its rights postrejection must make all of its royalty payments; the licensee has no right to deduct damages from its payments even if it otherwise could have done so under nonbankruptcy law.  §365(n)(2)(C)(i).  This provision and others in §365(n) mean that the covered intellectual property types are governed by different rules than trademark licenses.
+
+															Although these differences may prove significant for individual licensors and licensees, they do not alter the outcome here.  The Court rightly rejects Tempnology’s argument that the presence of §365(n) changes what §365(g) says.  As the Senate Report accompanying §365(n) explained, the bill did not “address or intend any inference to be drawn concerning the treatment of executory contracts” under §365’s general rule.  S. Rep. No. 100–505, p. 5 (1988); see ante, at 14.  To the extent trademark licensees are treated differently from licensees of other forms of intellectual property, that outcome leaves Congress with the option to tailor a provision for trademark licenses, as it has repeatedly in other contexts.  See ante, at 13–14.
+
+															With these observations, I join the Court’s opinion.
+													

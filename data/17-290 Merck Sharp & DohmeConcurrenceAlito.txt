@@ -1,0 +1,72 @@
+::SCDB_caseID:: 2018-024
+::decision_cite:: 17-290
+::decision_name::  Merck Sharp & Dohme Corp. v. Albrecht
+::decision_year:: 2019
+::opinion_author:: Alito
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–290
+
+															_________________
+
+															MERCK SHARP & DOHME CORP., PETITIONER v. DORIS ALBRECHT, et al.
+
+															on writ of certiorari to the united states court of appeals for the third circuit
+
+															[May 20, 2019]
+
+															
+
+															Justice Alito, with whom The Chief Justice and Justice Kavanaugh join, concurring in the judgment.
+
+															I concur in the judgment because I agree with the Court’s decision on the only question that it actually decides, namely, that whether federal law allowed Merck to include in the Fosamax label the warning alleged to be required by state law is a question of law to be decided by the courts, not a question of fact.  I do not, however, join the opinion of the Court because I am concerned that its discussion of the law and the facts may be misleading on remand.
+
+															I
+
+															I begin with the law.  The Court correctly notes that a drug manufacturer may prove impossibility pre-emption by showing that “federal law (including appropriate [Food and Drug Administration (FDA)] actions) prohibited the drug manufacturer from adding any and all warnings to the drug label that would satisfy state law.”  Ante, at 13.  But in expounding further on the pre-emption analysis, the Court provides a skewed summary.  While dwelling on our decision in Wyeth v. Levine,
+
+555 U.S. 555 (2009), see ante, at 9–14, the Court barely notes a statutory provision enacted after the underlying events in that case that may have an important bearing on the ultimate pre-emption analysis in this case.
+
+															Under
+
+21 U. S. C. §355(o)(4)(A), which was enacted in 2007, Congress has imposed on the FDA a duty to initiate a label change “[i]f the Secretary becomes aware of new information, including any new safety information . . . that the Secretary determines should be included in the labeling of the drug.”[1]  This provision does not relieve drug manufacturers of their own responsibility to maintain their drug labels, see §355(o)(4)(I), but the FDA’s “actions,” ante, at 13, taken pursuant to this duty arguably affect the pre-emption analysis.  This is so because, if the FDA declines to require a label change despite having received and considered information regarding a new risk, the logical conclusion is that the FDA determined that a label change was unjustified.  See United States v. Chemical Foundation, Inc.,
+
+272 U.S. 1, 14–15 (1926) (“The presumption of regularity supports the official acts of public officers and, in the absence of clear evidence to the con- trary, courts presume that they have properly discharged their official duties”).  The FDA’s duty does not depend on whether the relevant drug manufacturer, as opposed to some other entity or individual, brought the new information to the FDA’s attention.  Cf. ante, at 13 (“the drug manufacturer [must] show that it fully informed the FDA of the justifications for the warning required by state law”).  Nor does §355(o)(4)(A) require the FDA to communicate to the relevant drug manufacturer that a label change is unwarranted; instead, the FDA could simply consider the new information and decide not to act.  Cf. ante, at 13 (“[T]he FDA, in turn, [must have] informed the drug manufacturer that the FDA would not approve changing the drug’s label to include that warning”).
+
+															Section 355(o)(4)(A) is thus highly relevant to the pre-emption analysis, which turns on whether “federal law (including appropriate FDA actions) prohibited the drug manufacturer from adding any and all warnings to the drug label that would satisfy state law.”  Ante, at 13 (emphasis added).  On remand, I assume that the Court of Appeals will consider the effect of §355(o)(4)(A) on the pre-emption issue in this case.
+
+															Two other aspects of the Court’s discussion of the legal background must also be mentioned.  First, although the Court’s discussion of the point is a bit opaque, the Court holds—correctly, in my view—that Wyeth’s use of the phrase “clear evidence” was merely a rhetorical flourish.  As the Court explains, a judge, in determining whether federal law would permit a label change allegedly required by state law, “must simply ask himself or herself whether the relevant federal and state laws ‘irreconcilably conflic[t].’ ”  Ante, at 14 (quoting Rice v. Norman Williams Co.,
+
+458 U.S. 654, 659 (1982)).  Standards of proof, such as preponderance of the evidence and clear and convincing evidence, have no place in the resolution of this question  of law.
+
+															Second, for reasons that entirely escape me, the Court refuses to acknowledge that there are two ways in which a drug manufacturer may attempt to alter a drug’s label.  The Court notes that a manufacturer may proceed under the FDA’s “ ‘changes being effected’ ” or “ ‘CBE’ ” regulation, which permits a manufacturer to change a label without prior FDA approval under some circumstances.  See ante, at 3–4, 14.  But the Court refuses to note that a manufacturer may (and, in many circumstances, must) submit a Prior Approval Supplement (PAS).  21 CFR §314.70(b) (2018).  As the name suggests, changes proposed in a  PAS must receive FDA approval before drug manufac- turers may make the changes.  §314.70(b)(3).  And “[h]istorically,” the FDA has “accepted PAS applications instead of CBE supplements, as occurred in this case, particularly where significant questions exist on whether to revise or how to modify existing drug labeling.”  Brief for United States as Amicus Curiae 5.
+
+															II
+
+															I now turn to the facts.  Resolution of the legal question that the Court decides does not require much discussion of the facts, but if the Court wishes to include such a summary, its presentation should be balanced.  Instead, the Court provides a one-sided account.  For example, it highlights historical accounts dating back to the 1990s that purportedly linked atypical femoral fractures with Fosamax use, see ante, at 5, 7, but it omits any mention of the extensive communication between Merck and the FDA during the relevant period.
+
+															A reader of the Court’s opinion will inevitably be left with the impression that, once the FDA rejected Merck’s proposed warning in 2009, neither the FDA nor Merck took any other actions related to atypical femoral fractures “until 2011,” ante, at 6.  But that is simply not true.
+
+															While Merck’s 2008 proposal was pending, the FDA remained in contact with Merck about the issue of atypical femoral fractures, which Merck, at the time, labeled as a type of stress fracture.  See, e.g., App. 707, 746–748.  An internal Merck memorandum describes a phone call in which an FDA official allegedly told Merck that “[t]he conflicting nature of the literature does not provide a clear path forward, and more time will be need[ed] for FDA to formulate a formal opinion on the issue of a precaution around these data.”  Id., at 767.  In an e-mail about a week later, another FDA official told Merck that the FDA would “close out” Merck’s applications if Merck “agree[d] to hold off on the [Precautions] language at this time.”  Id., at 508.  The official went on to say that the FDA “would then work with . . . Merck to decide on language for a [Precautions] atypical fracture language, if it is warranted.”  Ibid.
+
+															Then, months after the FDA rejected Merck’s proposed warning, the FDA issued a Safety Announcement regarding its “[o]ngoing safety review of oral bisphosphonates and atypical subtrochanteric femur fractures.”  Id., at 519.  The Safety Announcement stated that, “[a]t this point, the data that FDA has reviewed have not shown a clear connection between bisphosphonate use and a risk of atypical subtrochanteric femur fractures.”  Ibid.  Nonetheless, the Safety Announcement announced the FDA’s intent to further study the issue alongside a task force formed to address the atypical fractures.  Id., at 519–520.  And the Safety Announcement concluded by admonishing healthcare professionals to “continue to follow the recommendations in the drug label when prescribing oral bisphosphonates” and patients to “not stop taking their medication unless told to do so by their healthcare professional.”  Id., at 520–521.
+
+															In September 2010, the task force published its report, which concluded that, although there was no established “causal association” between bisphosphonates and atypical femoral fractures, “recent observations suggest that the risk rises with increasing duration of exposure, and there is concern that lack of awareness and underreporting may mask the true incidence of the problem.”  Id., at 284.  The same day, the FDA issued a statement acknowledging the task force report and committing to “considering label revisions.”  Id., at 523–525.  And in October 2010, the FDA issued another Safety Announcement in which the FDA stated that it would initiate changes in the Precautions section of bisphosphonate drug labels to warn of atypical femoral fractures.  Id., at 246–249.  It was not until then that, pursuant to its §355(o)(4)(A) obligations, the FDA instructed Merck to include a warning about such fractures in its Fosamax drug labels.  Id., at 526–534.
+
+															Thus, for years the FDA was: aware of this issue, communicating with drug manufacturers, studying all relevant information, and instructing healthcare professionals and patients alike to continue to use Fosamax as directed.  For this reason, the FDA itself, speaking through the Solicitor General, takes the position that the FDA’s decision not to require a label change prior to October 2010 reflected the FDA’s “determin[ation]” that a new warning “should [not] be included in the labeling of the drug,” §355(o)(4)(A).  See Brief for United States as Amicus Curiae 30, 33–34.
+
+															For these reasons, I concur in the judgment only.
+Notes
+1
+Prior to October 2018, §355(o)(4)(A)’s language contained slight differences not relevant here.  See Substance Use–Disorder Prevention That Promotes Opioid Recovery and Treatment for Patients and Communities Act, Pub. L. 115–271, §3041(b),
+
+132Stat.
+3942–3943, effective Oct. 24, 2018. 
+
+

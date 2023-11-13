@@ -4,12 +4,14 @@ A script to download all decisions by the United States Supreme Court.
 
 ## Code Description
 
-"scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports). Decisions are scraped from public domain content on [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/). (See copyright note section [below](#copyright-information).)
+"scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports) from public domain content on [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/). (See copyright section [below](#copyright-information).)
 
 Statistics:
-* output files: 33,627
+* output files: 33,683
 * output file size: ~835 MB
 * runtime: ~4.5 hours
+
+"related_to_wul.py" locates the downloaded decision files in the Washington University Law's Supreme Court Database ([SCDB](http://scdb.wustl.edu/)) and pre-pends the SCDB case id to a header in each decision file.
 
 ## Database Information
  
@@ -41,6 +43,8 @@ I have documented a few issues with the Justia database:
 2. There is one Justia case page with no opinion content (https://supreme.justia.com/cases/federal/us/585/141-orig/), although this decision is an unusual report by a special master. 
 
 3. At least one Justia case has no U.S Reports metadata: Republican National Committee v. Democratic National Committee (2020): https://supreme.justia.com/cases/federal/us/589/19a1016/. 
+
+Washington University Law's Supreme Court Database ([SCDB](http://scdb.wustl.edu/)) contains metadata for each supreme court decision. "relate_to_wul.py" looks up each decision file in the SCDB, and if the decision can be located, prepends the SCDB case id to a header in the decision file. Note that SCDB does not contain entries for special cases, like denials of petitions for certiorari or applications for stay or injunctions. And of course, the U.S. Reports contains some decisions from other courts. When "relate_to_wul.py" is unable to locate an entry in the SCDB, it codes a "0" as the SCDB case id.
 
 <a name="note_1"></a><sup><sup>1</sup> Richard J. Lazarus, "[The (Non)Finality of Supreme Court Opinions](https://harvardlawreview.org/print/vol-128/the-nonfinality-of-supreme-court-opinions/)," 128 Harv. L. Rev. 540 (2014).</sup>
 

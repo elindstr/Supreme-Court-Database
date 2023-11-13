@@ -1,0 +1,151 @@
+::SCDB_caseID:: 2018-023
+::decision_cite:: 17-204
+::decision_name::  Apple, Inc. v. Pepper
+::decision_year:: 2019
+::opinion_author:: Kavanaugh
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															   NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–204
+
+															_________________
+
+															APPLE INC., PETITIONER v. ROBERT PEPPER, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[May 13, 2019]
+
+															
+
+															Justice Kavanaugh delivered the opinion of the Court.
+
+															In 2007, Apple started selling iPhones.  The next year, Apple launched the retail App Store, an electronic store where iPhone owners can purchase iPhone applications from Apple.  Those “apps” enable iPhone owners to send messages, take photos, watch videos, buy clothes, order food, arrange transportation, purchase concert tickets, donate to charities, and the list goes on.  “There’s an app for that” has become part of the 21st-century American lexicon.
+
+															In this case, however, several consumers contend that Apple charges too much for apps.  The consumers argue, in particular, that Apple has monopolized the retail market for the sale of apps and has unlawfully used its monopolistic power to charge consumers higher-than-competitive prices.
+
+															A claim that a monopolistic retailer (here, Apple) has used its monopoly to overcharge consumers is a classic antitrust claim.  But Apple asserts that the consumer-plaintiffs in this case may not sue Apple because they supposedly were not “direct purchasers” from Apple under our decision in Illinois Brick Co. v. Illinois,
+
+431 U.S. 720, 745–746 (1977).  We disagree.  The plaintiffs purchased apps directly from Apple and therefore are direct purchasers under Illinois Brick.  At this early pleadings stage of the litigation, we do not assess the merits of the plaintiffs’ antitrust claims against Apple, nor do we consider any other defenses Apple might have.  We merely hold that the Illinois Brick direct-purchaser rule does not bar these plaintiffs from suing Apple under the antitrust laws.  We affirm the judgment of the U. S. Court of Appeals for the Ninth Circuit.
+
+															I
+
+															In 2007, Apple began selling iPhones.  In July 2008, Apple started the App Store.  The App Store now contains about 2 million apps that iPhone owners can download.  By contract and through technological limitations, the App Store is the only place where iPhone owners may lawfully buy apps.
+
+															For the most part, Apple does not itself create apps.  Rather, independent app developers create apps.  Those independent app developers then contract with Apple to make the apps available to iPhone owners in the App Store.
+
+															Through the App Store, Apple sells the apps directly to iPhone owners.  To sell an app in the App Store, app developers must pay Apple a $99 annual membership fee.  Apple requires that the retail sales price end in $0.99, but otherwise allows the app developers to set the retail price.  Apple keeps 30 percent of the sales price, no matter what the sales price might be.  In other words, Apple pockets a 30 percent commission on every app sale.
+
+															In 2011, four iPhone owners sued Apple.  They allege that Apple has unlawfully monopolized “the iPhone apps aftermarket.”  App. to Pet. for Cert. 53a.  The plaintiffs allege that, via the App Store, Apple locks iPhone owners “into buying apps only from Apple and paying Apple’s 30% fee, even if” the iPhone owners wish “to buy apps elsewhere or pay less.”  Id., at 45a.  According to the complaint, that 30 percent commission is “pure profit” for Apple and, in a competitive environment with other retailers, “Apple would be under considerable pressure to substantially lower its 30% profit margin.”  Id., at 54a–55a.  The plaintiffs allege that in a competitive market, they would be able to “choose between Apple’s high-priced App Store and less costly alternatives.”  Id., at 55a.  And they allege that they have “paid more for their iPhone apps than they would have paid in a competitive market.”  Id., at 53a.
+
+															Apple moved to dismiss the complaint, arguing that the iPhone owners were not direct purchasers from Apple and therefore may not sue.  In Illinois Brick, this Court held that direct purchasers may sue antitrust violators, but also ruled that indirect purchasers may not sue. The District Court agreed with Apple and dismissed the complaint.  According to the District Court, the iPhone owners were not direct purchasers from Apple because the app developers, not Apple, set the consumers’ purchase price.
+
+															The Ninth Circuit reversed.  The Ninth Circuit concluded that the iPhone owners were direct purchasers under Illinois Brick because the iPhone owners purchased apps directly from Apple.  According to the Ninth Circuit, Illinois Brick means that a consumer may not sue an alleged monopolist who is two or more steps removed from the consumer in a vertical distribution chain.  See In re Apple iPhone Antitrust Litig., 846 F.3d 313, 323 (2017).  Here, however, the consumers purchased directly from Apple, the alleged monopolist.  Therefore, the Ninth Circuit held that the iPhone owners could sue Apple for allegedly monopolizing the sale of iPhone apps and charging higher-than-competitive prices.  Id., at 324.  We granted certiorari.  585 U. S. ___ (2018).
+
+															II
+
+															A
+
+															The plaintiffs’ allegations boil down to one straightforward claim: that Apple exercises monopoly power in the retail market for the sale of apps and has unlawfully used its monopoly power to force iPhone owners to pay Apple higher-than-competitive prices for apps.  According to the plaintiffs, when iPhone owners want to purchase an app, they have only two options: (1) buy the app from Apple’s App Store at a higher-than-competitive price or (2) do not buy the app at all.  Any iPhone owners who are dissatisfied with the selection of apps available in the App Store or with the price of the apps available in the App Store are out of luck, or so the plaintiffs allege.
+
+															The sole question presented at this early stage of the case is whether these consumers are proper plaintiffs for this kind of antitrust suit—in particular, our precedents ask, whether the consumers were “direct purchasers” from Apple.  Illinois Brick, 431 U. S., at 745–746.  It is undisputed that the iPhone owners bought the apps directly from Apple.  Therefore, under Illinois Brick, the iPhone owners were direct purchasers who may sue Apple for alleged monopolization.
+
+															That straightforward conclusion follows from the text of the antitrust laws and from our precedents.
+
+															First is text: Section 2 of the Sherman Act makes it unlawful for any person to “monopolize, or attempt to monopolize, or combine or conspire with any other person or persons, to monopolize any part of the trade or commerce among the several States, or with foreign nations.”
+
+26Stat.
+209,
+
+15 U. S. C. §2.  Section 4 of the Clayton Act in turn provides that “any person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue . . . the defendant . . . and shall recover threefold the damages by him sustained, and the cost of suit, including a reasonable attorney’s fee.”  38 Stat. 731,
+
+15 U. S. C. §15(a) (emphasis added).  The broad text of §4—“any person” who has been “injured” by an antitrust violator may sue—readily covers consumers who purchase goods or services at higher-than-competitive prices from an allegedly monopolistic retailer.
+
+															Second is precedent: Applying §4, we have consistently stated that “the immediate buyers from the alleged antitrust violators” may maintain a suit against the antitrust violators.  Kansas v. UtiliCorp United Inc.,
+
+497 U.S. 199, 207 (1990); see also Illinois Brick, 431 U. S., at 745–746.  At the same time, incorporating principles of proximate cause into §4, we have ruled that indirect purchasers who are two or more steps removed from the violator in a distribution chain may not sue.  Our decision in Illinois Brick established a bright-line rule that authorizes suits by direct purchasers but bars suits by indirect purchasers.  Id., at 746.[1]
+
+															The facts of Illinois Brick illustrate the rule.  Illinois Brick Company manufactured and distributed concrete blocks.  Illinois Brick sold the blocks primarily to masonry contractors, and those contractors in turn sold masonry structures to general contractors.  Those general contractors in turn sold their services for larger construction projects to the State of Illinois, the ultimate consumer of the blocks.
+
+															The consumer State of Illinois sued the manufacturer Illinois Brick.  The State alleged that Illinois Brick had engaged in a conspiracy to fix the price of concrete blocks.  According to the complaint, the State paid more for the concrete blocks than it would have paid absent the price-fixing conspiracy.  The monopoly overcharge allegedly flowed all the way down the distribution chain to the ultimate consumer, who was the State of Illinois.
+
+															This Court ruled that the State could not bring an antitrust action against Illinois Brick, the alleged violator, because the State had not purchased concrete blocks directly from Illinois Brick.  The proper plaintiff to bring that claim against Illinois Brick, the Court stated, would be an entity that had purchased directly from Illinois Brick.  Ibid.
+
+															The bright-line rule of Illinois Brick, as articulated in that case and as we reiterated in UtiliCorp, means that indirect purchasers who are two or more steps removed from the antitrust violator in a distribution chain may not sue.  By contrast, direct purchasers—that is, those who are “the immediate buyers from the alleged antitrust violators”—may sue.  UtiliCorp, 497 U. S., at 207.
+
+															For example, if manufacturer A sells to retailer B, and retailer B sells to consumer C, then C may not sue A.  But B may sue A if A is an antitrust violator.  And C may sue B if B is an antitrust violator.  That is the straightforward rule of Illinois Brick.  See Loeb Industries, Inc. v. Sumi- tomo Corp., 306 F.3d 469, 481–482 (CA7 2002) (Wood, J.).[2]
+
+															In this case, unlike in Illinois Brick, the iPhone owners are not consumers at the bottom of a vertical distribution chain who are attempting to sue manufacturers at the top of the chain.  There is no intermediary in the distribution chain between Apple and the consumer.  The iPhone owners purchase apps directly from the retailer Apple, who is the alleged antitrust violator.  The iPhone owners pay the alleged overcharge directly to Apple.  The absence of an intermediary is dispositive.  Under Illinois Brick, the iPhone owners are direct purchasers from Apple and are proper plaintiffs to maintain this antitrust suit.
+
+															B
+
+															All of that seems simple enough.  But Apple argues strenuously against that seemingly simple conclusion, and we address its arguments carefully.  For this kind of retailer case, Apple’s theory is that Illinois Brick allows consumers to sue only the party who sets the retail price, whether or not that party sells the good or service directly to the complaining party.  Apple says that its theory accords with the economics of the transaction.  Here, Apple argues that the app developers, not Apple, set the retail price charged to consumers, which according to Apple means that the consumers may not sue Apple.
+
+															We see three main problems with Apple’s “who sets the price” theory.
+
+															First, Apple’s theory contradicts statutory text and precedent.  As we explained above, the text of §4 broadly affords injured parties a right to sue under the antitrust laws.  And our precedent in Illinois Brick established a bright-line rule where direct purchasers such as the consumers here may sue antitrust violators from whom they purchased a good or service.  Illinois Brick, as we read the opinion, was not based on an economic theory about who set the price.  Rather, Illinois Brick sought to ensure an effective and efficient litigation scheme in antitrust cases.  To do so, the Court drew a bright line that allowed direct purchasers to sue but barred indirect purchasers from suing.  When there is no intermediary between the purchaser and the antitrust violator, the purchaser may sue.  The Illinois Brick bright-line rule is grounded on the “belief that simplified administration improves antitrust enforcement.”  2A P. Areeda, H. Hovenkamp, R. Blair, & C. Durrance, Antitrust Law ¶346e, p. 194 (4th ed. 2014) (Areeda & Hovenkamp).  Apple’s theory would require us to rewrite the rationale of Illinois Brick and to gut the longstanding bright-line rule.
+
+															To the extent that Illinois Brick leaves any ambiguity about whether a direct purchaser may sue an antitrust violator, we should resolve that ambiguity in the direction of the statutory text.  And under the text, direct purchasers from monopolistic retailers are proper plaintiffs to sue those retailers.
+
+															Second, in addition to deviating from statutory text and precedent, Apple’s proposed rule is not persuasive economically or legally.  Apple’s effort to transform Illinois Brick from a direct-purchaser rule to a “who sets the price” rule would draw an arbitrary and unprincipled line among retailers based on retailers’ financial arrangements with their manufacturers or suppliers.
+
+															In the retail context, the price charged by a retailer to a consumer is often a result (at least in part) of the price charged by the manufacturer or supplier to the retailer, or of negotiations between the manufacturer or supplier and the retailer.  Those agreements between manufacturer or supplier and retailer may take myriad forms, including for example a markup pricing model or a commission pricing model.  In a traditional markup pricing model, a hypothetical monopolistic retailer might pay $6 to the manufacturer and then sell the product for $10, keeping $4 for itself.  In a commission pricing model, the retailer might pay nothing to the manufacturer; agree with the manufacturer that the retailer will sell the product for $10 and keep 40 percent of the sales price; and then sell the product for $10, send $6 back to the manufacturer, and keep $4.  In those two different pricing scenarios, everything turns out to be economically the same for the manufacturer, retailer, and consumer.
+
+															Yet Apple’s proposed rule would allow a consumer to sue the monopolistic retailer in the former situation but not the latter.  In other words, under Apple’s rule a consumer could sue a monopolistic retailer when the retailer set the retail price by marking up the price it had paid the manufacturer or supplier for the good or service.  But a consumer could not sue a monopolistic retailer when the manufacturer or supplier set the retail price and the retailer took a commission on each sale.
+
+															Apple’s line-drawing does not make a lot of sense, other than as a way to gerrymander Apple out of this and similar lawsuits.  In particular, we fail to see why the form of the upstream arrangement between the manufacturer or supplier and the retailer should determine whether a monopolistic retailer can be sued by a downstream consumer who has purchased a good or service directly from the retailer and has paid a higher-than-competitive price because of the retailer’s unlawful monopolistic conduct.  As the Court of Appeals aptly stated, “the distinction between a markup and a commission is immaterial.”  846 F. 3d, at 324. A leading antitrust treatise likewise states: “Denying standing because ‘title’ never passes to a broker is an overly lawyered approach that ignores the reality that a distribution system that relies on brokerage is economically indistinguishable from one that relies on purchaser-resellers.”  2A Areeda & Hovenkamp ¶345, at 183.  If a retailer has engaged in unlawful monopolistic conduct that has caused consumers to pay higher-than-competitive prices, it does not matter how the retailer structured its relationship with an upstream manufacturer or supplier—whether, for example, the retailer employed a markup or kept a commission.
+
+															To be sure, if the monopolistic retailer’s conduct has not caused the consumer to pay a higher-than-competitive price, then the plaintiff’s damages will be zero.  Here, for example, if the competitive commission rate were 10 percent rather than 30 percent but Apple could prove that app developers in a 10 percent commission system would always set a higher price such that consumers would pay the same retail price regardless of whether Apple’s commission was 10 percent or 30 percent, then the consumers’ damages would presumably be zero.  But we cannot assume in all cases—as Apple would necessarily have us do—that a monopolistic retailer who keeps a commission does not ever cause the consumer to pay a higher-than-competitive price.  We find no persuasive legal or economic basis for such a blanket assertion.
+
+															In short, we do not understand the relevance of the upstream market structure in deciding whether a downstream consumer may sue a monopolistic retailer.  Apple’s rule would elevate form (what is the precise arrangement between manufacturers or suppliers and retailers?) over substance (is the consumer paying a higher price because of the monopolistic retailer’s actions?).  If the retailer’s unlawful monopolistic conduct caused a consumer to pay the retailer a higher-than-competitive price, the consumer is entitled to sue the retailer under the antitrust laws.
+
+															Third, if accepted, Apple’s theory would provide a roadmap for monopolistic retailers to structure transactions with manufacturers or suppliers so as to evade antitrust claims by consumers and thereby thwart effective antitrust enforcement.
+
+															Consider a traditional supplier-retailer relationship, in which the retailer purchases a product from the supplier and sells the product with a markup to consumers.  Under Apple’s proposed rule, a retailer, instead of buying the product from the supplier, could arrange to sell the product for the supplier without purchasing it from the sup- plier.  In other words, rather than paying the supplier a certain price for the product and then marking up the price to sell the product to consumers, the retailer could collect the price of the product from consumers and remit only a fraction of that price to the supplier.
+
+															That restructuring would allow a monopolistic retailer to insulate itself from antitrust suits by consumers, even in situations where a monopolistic retailer is using its monopoly to charge higher-than-competitive prices to consumers.  We decline to green-light monopolistic retailers to exploit their market position in that way.  We refuse to rubber-stamp such a blatant evasion of statutory text and judicial precedent.
+
+															In sum, Apple’s theory would disregard statutory text and precedent, create an unprincipled and economically senseless distinction among monopolistic retailers, and furnish monopolistic retailers with a how-to guide for evasion of the antitrust laws.
+
+															C
+
+															In arguing that the Court should transform the direct-purchaser rule into a “who sets the price” rule, Apple insists that the three reasons that the Court identified in Illinois Brick for adopting the direct-purchaser rule apply to this case—even though the consumers here (unlike in Illinois Brick) were direct purchasers from the alleged monopolist.  The Illinois Brick Court listed three reasons for barring indirect-purchaser suits: (1) facilitating more effective enforcement of antitrust laws; (2) avoiding complicated damages calculations; and (3) eliminating duplicative damages against antitrust defendants.
+
+															As we said in UtiliCorp, however, the bright-line rule of Illinois Brick means that there is no reason to ask whether the rationales of Illinois Brick “apply with equal force” in every individual case.  497 U. S., at 216. We should not engage in “an unwarranted and counterproductive exercise to litigate a series of exceptions.” Id., at 217.
+
+															But even if we engage with this argument, we conclude that the three Illinois Brick rationales—whether considered individually or together—cut strongly in the plaintiffs’ favor here, not Apple’s.
+
+															First, Apple argues that barring the iPhone owners from suing Apple will better promote effective enforcement of the antitrust laws.  Apple posits that allowing only the upstream app developers—and not the downstream consumers—to sue Apple would mean more effective enforcement of the antitrust laws.  We do not agree.  Leaving consumers at the mercy of monopolistic retailers simply because upstream suppliers could also sue the retailers makes little sense and would directly contradict the longstanding goal of effective private enforcement and consumer protection in antitrust cases.
+
+															Second, Apple warns that calculating the damages in successful consumer antitrust suits against monopolistic retailers might be complicated.  It is true that it may be hard to determine what the retailer would have charged in a competitive market.  Expert testimony will often be necessary.  But that is hardly unusual in antitrust cases.  Illinois Brick is not a get-out-of-court-free card for monopolistic retailers to play any time that a damages calculation might be complicated.  Illinois Brick surely did not wipe out consumer antitrust suits against monopolistic retailers from whom the consumers purchased goods or services at higher-than-competitive prices.  Moreover, the damages calculation may be just as complicated in a retailer markup case as it is in a retailer commission case.  Yet Apple apparently accepts consumers suing monopolistic retailers in a retailer markup case.  If Apple accepts that kind of suit, then Apple should also accept consumers suing monopolistic retailers in a retailer commission case.
+
+															Third, Apple claims that allowing consumers to sue will result in “conflicting claims to a common fund—the amount of the alleged overcharge.”  Illinois Brick, 431 U. S., at 737.  Apple is incorrect.  This is not a case where multiple parties at different levels of a distribution chain are trying to all recover the same passed-through overcharge initially levied by the manufacturer at the top of the chain.  Cf. id., at 726–727; Hanover Shoe, Inc. v. United Shoe Machinery Corp.,
+
+392 U.S. 481, 483–484 (1968). If the iPhone owners prevail, they will be entitled to the full amount of the unlawful overcharge that they paid to Apple.  The overcharge has not been passed on by anyone to anyone.  Unlike in Illinois Brick, there will be no need to “trace the effect of the overcharge through each step in the distribution chain.”  431 U. S., at 741.
+
+															It is true that Apple’s alleged anticompetitive conduct may leave Apple subject to multiple suits by different plaintiffs.  But Illinois Brick did not purport to bar multiple liability that is unrelated to passing an overcharge down a chain of distribution. Basic antitrust law tells us that the “mere fact that an antitrust violation produces two different classes of victims hardly entails that their injuries are duplicative of one another.”  2A Areeda & Hovenkamp ¶339d, at 136.  Multiple suits are not atypical when the intermediary in a distribution chain is a bottleneck monopolist or monopsonist (or both) between the manufacturer on the one end and the consumer on the other end.  A retailer who is both a monopolist and a monopsonist may be liable to different classes of plaintiffs—both to downstream consumers and to upstream suppliers—when the retailer’s unlawful conduct affects both the downstream and upstream markets.
+
+															Here, some downstream iPhone consumers have sued Apple on a monopoly theory.  And it could be that some upstream app developers will also sue Apple on a monopsony theory.  In this instance, the two suits would rely on fundamentally different theories of harm and would not assert dueling claims to a “common fund,” as that term was used in Illinois Brick.  The consumers seek damages based on the difference between the price they paid and the competitive price.  The app developers would seek lost profits that they could have earned in a competitive retail market.  Illinois Brick does not bar either category of suit.
+
+															In short, the three Illinois Brick rationales do not persuade us to remake Illinois Brick and to bar direct-purchaser suits against monopolistic retailers who employ commissions rather than markups.  The plaintiffs seek to hold retailers to account if the retailers engage in unlawful anticompetitive conduct that harms consumers who purchase from those retailers.  That is why we have antitrust law.
+
+															*  *  *
+
+															Ever since Congress overwhelmingly passed and President Benjamin Harrison signed the Sherman Act in 1890, “protecting consumers from monopoly prices” has been “the central concern of antitrust.”  2A Areeda & Hovenkamp ¶345, at 179.  The consumers here purchased apps directly from Apple, and they allege that Apple used its monopoly power over the retail apps market to charge higher-than-competitive prices.  Our decision in Illinois Brick does not bar the consumers from suing Apple for Apple’s allegedly monopolistic conduct.  We affirm the judgment of the U. S. Court of Appeals for the Ninth Circuit.
+
+															It is so ordered.
+Notes
+1
+ Illinois Brick held that the direct-purchaser requirement applies to claims for damages.  Illinois Brick did not address injunctive relief, and we likewise do not address injunctive relief in this case. 
+
+2
+ Thirty States and the District of Columbia filed an amicus brief supporting the plaintiffs, and they argue that C should be able to sue A in that hypothetical.  They ask us to overrule Illinois Brick to allow such suits.  In light of our ruling in favor of the plaintiffs in this case, we have no occasion to consider that argument for overruling Illinois Brick. 
+
+

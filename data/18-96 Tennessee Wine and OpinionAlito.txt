@@ -1,0 +1,474 @@
+::SCDB_caseID:: 2018-052
+::decision_cite:: 18-96
+::decision_name::  Tennessee Wine and Spirits Retailers Association v. Thomas
+::decision_year:: 2019
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–96
+
+															_________________
+
+															TENNESSEE WINE AND SPIRITS RETAILERS ASSOCIATION, PETITIONER v. RUSSELL F. THOMAS, EXECUTIVE DIRECTOR OF THE TENNESSEE ALCOHOLIC BEVERAGE COMMISSION, et al.
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[June 26, 2019]
+
+															
+
+															Justice Alito delivered the opinion of the Court.
+
+															The State of Tennessee imposes demanding durational-residency requirements on all individuals and businesses seeking to obtain or renew a license to operate a liquor store.  One provision precludes the renewal of a license unless the applicant has resided in the State for 10 consecutive years.  Another provides that a corporation cannot obtain a license unless all of its stockholders are residents.  The Court of Appeals for the Sixth Circuit struck down these provisions as blatant violations of the Commerce Clause, and neither petitioner—an association of Tennessee liquor retailers—nor the State itself defends them in this Court.
+
+															The Sixth Circuit also invalidated a provision requiring applicants for an initial license to have resided in the State for the prior two years, and petitioner does challenge that decision.  But while this requirement is less extreme than the others that the Sixth Circuit found to be unconstitutional, we now hold that it also violates the Commerce Clause and is not shielded by §2 of the Twenty-first Amendment.  Section 2 was adopted as part of the scheme that ended prohibition on the national level.  It gives each State leeway in choosing the alcohol-related public health and safety measures that its citizens find desirable.  But §2 is not a license to impose all manner of protectionist restrictions on commerce in alcoholic beverages.  Because Tennessee’s 2-year residency requirement for retail license applicants blatantly favors the State’s residents and has little relationship to public health and safety, it is unconstitutional.
+
+															I
+
+															A
+
+															Tennessee, like many other States, requires alcoholic beverages distributed in the State to pass through a specified three-tiered system.[1]  Acting through the Tennessee Alcoholic Beverage Commission (TABC), the State issues different types of licenses to producers, wholesalers, and retailers of alcoholic beverages.  See Tenn. Code Ann. §57–3–201 (2018).  Producers may sell only to licensed wholesalers; wholesalers may sell only to licensed retailers or other wholesalers; and only licensed retailers may sell to consumers.  §57–3–404.  No person may lawfully participate in the sale of alcohol without the appropriate license.  See, e.g., §57–3–406.
+
+															Included in the Tennessee scheme are onerous durational-residency requirements for all persons and compa- nies wishing to operate “retail package stores” that sell alcoholic beverages for off-premises consumption (hereinafter liquor stores).  See §57–3–204(a).  To obtain an initial retail license, an individual must demonstrate that he or she has “been a bona fide resident” of the State for the previous two years.  §57–3–204(b)(2)(A).  And to renew such a license—which Tennessee law requires after only one year of operation—an individual must show continuous residency in the State for a period of 10 consecutive years.  Ibid.
+
+															The rule for corporations is also extraordinarily restrictive.  A corporation cannot get a retail license unless all of its officers, directors, and owners of capital stock satisfy the durational-residency requirements applicable to individuals.  §57–3–204(b)(3).  In practice, this means that no corporation whose stock is publicly traded may operate a liquor store in the State.
+
+															In 2012, the Tennessee attorney general was asked whether the State’s durational-residency requirements violate the Commerce Clause, and his answer was that the requirements constituted “trade restraints and barriers that impermissibly discriminate against interstate commerce.”  App. to Brief in Opposition 11a; see also id., at 12a (citing Jelovsek v. Bredesen, 545 F.3d 431, 435 (CA6 2008)).  In light of that opinion, the TABC stopped enforcing the requirements against new applicants.  See App. 51, ¶9; id., at 76, ¶10.
+
+															The Tennessee General Assembly responded by amending the relevant laws to include a statement of legislative intent.  Citing the alcohol content of the beverages sold in liquor stores, the Assembly found that protection of “the health, safety and welfare” of Tennesseans called for “a higher degree of oversight, control and accountability for individuals involved in the ownership, management and control” of such outlets.  §57–3–204(b)(4).
+
+															After the amendments became law, the attorney gen- eral was again asked about the constitutionality of the durational-residency requirements, but his answer was the same as before.  See App. to Brief in Opposition 13a.  Consequently, the TABC continued its practice of nonenforcement.
+
+															B
+
+															In 2016, respondents Tennessee Fine Wines and Spirits, LLC dba Total Wine Spirits Beer & More (Total Wine) and Affluere Investments, Inc. dba Kimbrough Fine Wine & Spirits (Affluere) applied for licenses to own and operate liquor stores in Tennessee.  At the time, neither Total Wine nor Affluere satisfied the durational-residency requirements.  Total Wine was formed as a Tennessee limited liability company but is owned by residents of Maryland, Brief for Respondent Total Wine 10; App. 51, ¶4–5, and Affluere was owned and controlled by two individuals who, by the time their application was considered, had only recently moved to the State, see App. 11–12, 20, 22.
+
+															TABC staff recommended approval of the applications, but petitioner Tennessee Wine and Spirits Retailers Association (the Association)—a trade association of in-state liquor stores—threatened to sue the TABC if it granted them.  Id., at 15, ¶17.  The TABC’s executive director (a respondent here) filed a declaratory judgment action in state court to settle the question of the residency requirements’ constitutionality.  Id., at 17.
+
+															The case was removed to the United States District Court for the Middle District of Tennessee, and that court, relying on our decision in Granholm v. Heald,
+
+544 U.S. 460 (2005), concluded that the requirements are unconstitutional.  Byrd v. Tennessee Wine and Spirits Retailers Assn., 259 F. Supp. 3d 785, 797 (2017).  The State de- clined to appeal, and Total Wine and Affluere were issued licenses.
+
+															The Association, however, took the case to the Court of Appeals for the Sixth Circuit, where a divided panel affirmed.  See Byrd v. Tennessee Wine and Spirits Retailers Assn., 883 F.3d 608 (2018).  All three judges acknowledged that the Tennessee residency requirements facially discriminate against out-of-state economic interests.  See id., at 624; id., at 634 (Sutton, J., concurring in part and dissenting in part).  And all three also agreed that neither the 10-year residency requirement for license renewals nor the 100-percent-resident shareholder requirement is constitutional under this Court’s Twenty-first Amendment and dormant Commerce Clause precedents.  See id., at 625–626; id., at 635 (opinion of Sutton, J.).
+
+															The panel divided, however, over the constitutionality of the 2-year residency requirement for individuals seeking initial retail licenses, as well as the provision applying those requirements to officers and directors of corporate applicants.  Applying standard dormant Commerce Clause scrutiny, the majority struck down the challenged restrictions, reasoning that they facially discriminate against interstate commerce and that the interests they are claimed to further can be adequately served through reasonable, nondiscriminatory alternatives.  Id., at 623–626.  The dissent disagreed, reading §2 of the Twenty-first Amendment to grant States “ ‘virtually’ limitless” authority to regulate the in-state distribution of alcohol, the only exception being for laws that “serve no purpose besides ‘economic protectionism.’ ”  Id., at 633 (quoting Bacchus Imports, Ltd. v. Dias,
+
+468 U.S. 263, 276 (1984)).  Applying that highly deferential standard, the dissent would have upheld the 2-year residency requirement, as well as the provision applying that requirement to all officers and directors of corporate applicants.  The dissent argued that these provisions help to promote the State’s interests in “responsible consumption” of alcohol and “orderly liquor markets.”  883 F. 3d, at 633.
+
+															The Association filed a petition for a writ of certiorari challenging the decision on the 2-year residency requirement for initial licenses.  Tennessee declined to seek certiorari but filed a letter with the Court expressing agreement with the Association’s position.[2]  We granted certiorari, 585 U. S. ___ (2018), in light of the disagreement among the Courts of Appeals about how to reconcile our modern Twenty-first Amendment and dormant Commerce Clause precedents.  See 883 F. 3d, at 616 (collecting cases).
+
+															II
+
+															A
+
+															The Court of Appeals held that Tennessee’s 2-year residency requirement violates the Commerce Clause, which provides that “[t]he Congress shall have Power . . . [t]o regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes.”  Art. I, §8, cl. 3.  “Although the Clause is framed as a positive grant of power to Congress,” Comptroller of Treasury of Md. v. Wynne, 575 U. S. ___, ___ (2015) (slip op., at 5), we have long held that this Clause also prohibits state laws that unduly restrict interstate commerce.  See, e.g., ibid.; Philadelphia v. New Jersey,
+
+437 U.S. 617, 623–624 (1978); Cooley v. Board of Wardens of Port of Philadelphia ex rel. Soc. for Relief of Distressed Pilots, 12 How. 299, 318–319 (1852); Willson v. Black Bird Creek Marsh Co., 2 Pet. 245, 252 (1829).  “This ‘negative’ aspect of the Commerce Clause” prevents the States from adopting protectionist measures and thus preserves a national market for goods and services.  New Energy Co. of Ind. v. Limbach,
+
+486 U.S. 269, 273 (1988).
+
+															This interpretation, generally known as “the dormant Commerce Clause,” has a long and complicated history.  Its roots go back as far as Gibbons v. Ogden, 9 Wheat. 1 (1824), where Chief Justice Marshall found that a version of the dormant Commerce Clause argument had “great force.”  Id., at 209.  His successor disagreed, see License Cases, 5 How. 504, 578–579 (1847) (Taney, C. J.), but by the latter half of the 19th century the dormant Commerce Clause was firmly established, see, e.g., Case of the State Freight Tax, 15 Wall. 232, 279–280 (1873), and it played an important role in the economic history of our Nation.  See Cushman, Formalism and Realism in Commerce Clause Jurisprudence, 67 U. Chi. L. Rev. 1089, 1107 (2000).
+
+															In recent years, some Members of the Court have authored vigorous and thoughtful critiques of this interpretation.  See, e.g., Camps Newfound/Owatonna, Inc. v. Town of Harrison,
+
+520 U.S. 564, 609–620 (1997) (Thomas, J., dissenting); Tyler Pipe Industries, Inc. v. Washington State Dept. of Revenue,
+
+483 U.S. 232, 259–265 (1987) (Scalia, J., concurring in part and dissenting in part); cf. post, at 2–3 (Gorsuch, J., dissenting) (deeming doctrine “peculiar”).  But the proposition that the Commerce Clause by its own force restricts state protectionism is deeply rooted in our case law.  And without the dormant Commerce Clause, we would be left with a constitutional scheme that those who framed and ratified the Constitution would surely find surprising.
+
+															That is so because removing state trade barriers was a principal reason for the adoption of the Constitution.  Under the Articles of Confederation, States notoriously obstructed the interstate shipment of goods.  “Interference with the arteries of commerce was cutting off the very life-blood of the nation.”  M. Farrand, The Framing of the Constitution of the United States 7 (1913).  The Annapolis Convention of 1786 was convened to address this critical problem, and it culminated in a call for the Philadelphia Convention that framed the Constitution in the summer of 1787.[3]  At that Convention, discussion of the power to regulate interstate commerce was almost uniformly linked to the removal of state trade barriers, see Abel, The Commerce Clause in the Constitutional Convention and in Contemporary Comment, 25 Minn. L. Rev. 432, 470–471 (1941), and when the Constitution was sent to the state conventions, fostering free trade among the States was prominently cited as a reason for ratification.  In The Federalist No. 7, Hamilton argued that state protectionism could lead to conflict among the States, see The Federalist No. 7, pp. 62–63 (C. Rossiter ed. 1961), and in No. 11, he touted the benefits of a free national market, id., at 88–89.  In The Federalist No. 42, Madison sounded a similar theme.  Id., at 267–268.
+
+															In light of this background, it would be strange if the Constitution contained no provision curbing state protectionism, and at this point in the Court’s history, no provision other than the Commerce Clause could easily do the job.  The only other provisions that the Framers might have thought would fill that role, at least in part, are the Import-Export Clause, Art. I, §10, cl. 2, which generally prohibits a State from “lay[ing] any Imposts or Duties on Imports or Exports,” and the Privileges and Immunities Clause, Art. IV, §2, which provides that “[t]he Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.”  But the Import-Export Clause was long ago held to refer only to international trade.  See Woodruff v. Parham, 8 Wall. 123, 136–137 (1869).  And the Privileges and Immunities Clause has been interpreted not to protect corporations, Western & Southern Life Ins. Co. v. State Bd. of Equalization of Cal.,
+
+451 U.S. 648, 656 (1981) (citing Hemphill v. Orloff,
+
+277 U.S. 537, 548–550 (1928)), and may not guard against certain discrimination scrutinized under the dormant Commerce Clause, see Denning, Why the Privileges and Immunities Clause of Article IV Cannot Replace the Dormant Commerce Clause Doctrine, 88 Minn. L. Rev. 384, 393–397 (2003).  So if we accept the Court’s established interpretation of those provisions, that leaves the Commerce Clause as the primary safeguard against state protectionism.[4]
+
+															It is not surprising, then, that our cases have long emphasized the connection between the trade barriers that prompted the call for a new Constitution and our dormant Commerce Clause jurisprudence.  In Guy v. Baltimore,
+
+100 U.S. 434, 440 (1880), for example, the Court wrote that state protectionist measures, “if maintained by this court, would ultimately bring our commerce to that ‘oppressed and degraded state,’ existing at the adoption of the present Constitution, when the helpless, inadequate Confederation was abandoned and the national government instituted.”  More recently, we observed that our dormant Commerce Clause cases reflect a “ ‘central concern of the Framers that was an immediate reason for calling the Constitutional Convention: the conviction that in order to succeed, the new Union would have to avoid the tendencies toward economic Balkanization that had plagued relations among the Colonies and later among the States under the Articles of Confederation.’ ”  Granholm, 544 U. S., at 472 (quoting Hughes v. Oklahoma,
+
+441 U.S. 322, 325–326 (1979)).
+
+															In light of this history and our established case law, we reiterate that the Commerce Clause by its own force restricts state protectionism.
+
+															B
+
+															Under our dormant Commerce Clause cases, if a state law discriminates against out-of-state goods or nonresident economic actors, the law can be sustained only on a showing that it is narrowly tailored to “ ‘advanc[e] a legitimate local purpose.’ ”  Department of Revenue of Ky. v. Davis,
+
+553 U.S. 328, 338 (2008).  See also, e.g., Oregon Waste Systems, Inc. v. Department of Environmental Quality of Ore.,
+
+511 U.S. 93, 100–101 (1994); Maine v. Taylor,
+
+477 U.S. 131, 138 (1986).
+
+															Tennessee’s 2-year durational-residency requirement plainly favors Tennesseans over nonresidents, and neither the Association nor the dissent below defends that requirement under the standard that would be triggered if the requirement applied to a person wishing to operate a retail store that sells a commodity other than alcohol.  See 883 F. 3d, at 626. Instead, their arguments are based on §2 of the Twenty-first Amendment, to which we will now turn.
+
+															III
+
+															A
+
+															Section 2 of the Twenty-first Amendment provides as follows: 
+
+															“The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.”
+
+															Although the interpretation of any provision of the Constitution must begin with a consideration of the literal meaning of that particular provision, reading §2 to prohibit the transportation or importation of alcoholic beverages in violation of any state law[5] would lead to absurd results that the provision cannot have been meant to produce.  Under the established rule that a later adopted provision takes precedence over an earlier, conflicting provision of equal stature, see, e.g., United States v. Tynen, 11 Wall. 88, 92 (1871); Posadas v. National City Bank,
+
+296 U.S. 497, 503 (1936); A. Scalia & B. Garner, Reading Law 327–328 (2012); 1A N. Singer & J. Singer, Sutherland on Statutory Construction §23:9 (7th ed. 2009), such a reading of §2 would mean that the provision would trump any irreconcilable provision of the original Constitution, the Bill of Rights, the
+ 
+Fourteenth Amendment, and every other constitutional provision predating ratification of the Twenty-first Amendment in 1933.  This would mean, among other things, that a state law prohibiting the importation of alcohol for sale to persons of a particular race, religion, or sex would be immunized from challenge under the Equal Protection Clause.  Similarly, if a state law prohibited the importation of alcohol for sale by proprietors who had expressed an unpopular point of view on an important public issue, the
+ 
+First Amendment would provide no protection.  If a State imposed a duty on the importation of foreign wine or spirits, the Import-Export Clause would have to give way.  If a state law retroactively made it a crime to have bought or sold imported alcohol under specified conditions, the Ex Post Facto Clause would provide no barrier to conviction.  The list goes on.
+
+															Despite the ostensibly broad text of §2, no one now contends that the provision must be interpreted in this way.  Instead, we have held that §2 must be viewed as one part of a unified constitutional scheme.  See California Retail Liquor Dealers Assn. v. Midcal Aluminum, Inc.,
+
+445 U.S. 97, 109 (1980); Hostetter v. Idlewild Bon Voyage Liquor Corp.,
+
+377 U.S. 324, 331–332 (1964); cf. Scalia & Garner, supra, at 167–169, 180–182.  In attempting to understand how §2 and other constitutional provisions work together, we have looked to history for guidance, and history has taught us that the thrust of §2 is to “constitutionaliz[e]” the basic structure of federal-state alcohol regulatory authority that prevailed prior to the adoption of the
+ 
+Eighteenth Amendment.  Craig v. Boren,
+
+429 U.S. 190, 206 (1976).  We therefore examine that history.
+
+															B
+
+															Throughout the 19th century, social problems attributed to alcohol use prompted waves of state regulation, and these measures were often challenged as violations of various provisions of the Federal Constitution.
+
+															One wave of state regulation occurred during the first half of the century.  The country’s early years were a time of notoriously hard drinking, see D. Okrent, Last Call: The Rise and Fall of Prohibition 7 (2010),[6]  and the problems that this engendered prompted States to enact a variety of regulations, including licensing requirements, age restrictions, and Sunday-closing laws.  See Byse, Alcoholic Beverage Control Before Repeal, 7 Law & Contemp. Prob. 544, 546–551 (1940).
+
+															Three States’ alcohol licensing laws came before this Court in 1847 in the License Cases, 5 How. 504.  The principal claim in those cases was similar to the one now before us; licensing laws enacted in three States were challenged under the Commerce Clause.  The Court unanimously rejected those claims, but six Justices authored opinions; no opinion commanded a majority; and the general status of dormant Commerce Clause claims was left uncertain.  See 5 C. Swisher, The Taney Period, 1836–64, History of the Supreme Court of the United States 373–374 (1974).
+
+															Following the Civil War, the Court considered a steady stream of alcohol-regulation cases.  The postwar period saw a great proliferation of saloons,[7] and myriad social problems were attributed to this development.  In response, many States passed laws restricting the sale of alcohol.  By 1891, six States had banned alcohol production and sale completely.  R. Hamm, Shaping the
+ 
+Eighteenth Amendment 25 (1995) (Hamm).
+
+															During this period, state laws regulating the alcohol trade were unsuccessfully challenged in this Court on a variety of constitutional grounds.  See, e.g., Mugler v. Kansas,
+
+123 U.S. 623 (1887) (Privileges or Immunities and Due Process Clauses of
+ 
+Fourteenth Amendment); Beer Co. v. Massachusetts,
+
+97 U.S. 25 (1878) (Contracts Clause); Bartemeyer v. Iowa, 18 Wall. 129 (1874) (Privileges or Immunities and Due Process Clauses of
+ 
+Fourteenth Amendment).  In those decisions, the Court staunchly affirmed the “right of the States,” in exercising their “police power,” to “protect the health, morals, and safety of their people,” but the Court also cautioned that this objective could be pursued only “by regulations that do not interfere with the execution of the powers of the general government, or violate rights secured by the Constitution of the United States.”  Mugler, 123 U. S., at 659.  For that reason, the Court continued, “mere pretences” could not sustain a law regulating alcohol; rather, if “a statute purporting to have been enacted to protect the public health, the public morals, or the public safety, has no real or substantial relation to those objects, or is a palpable invasion of rights secured by the fundamental law, it is the duty of the courts to so adjudge, and thereby give effect to the Constitution.”  Id., at 661.
+
+															Dormant Commerce Clause challenges also reached the Court.  States that banned the production and sale of alcohol within their borders found that these laws did not stop residents from consuming alcohol shipped in from other States.  To curb that traffic, States passed laws regulating or prohibiting the importation of alcohol, and these enactments were quickly challenged.
+
+															By the late 19th century, the Court was firmly of the view that the Commerce Clause by its own force restricts state regulation of interstate commerce.  See Bowman v. Chicago & Northwestern R. Co.,
+
+125 U.S. 465 (1888); Leisy v. Hardin,
+
+135 U.S. 100 (1890).  Dormant Commerce Clause cases from that era “advanced two distinct principles,” an understanding of which is critical to gauging the States’ pre-Prohibition power to regulate alcohol.  Granholm, 544 U. S., at 476.
+
+															First, the Court held that the Commerce Clause prevented States from discriminating “against the citizens and products of other States,” Walling v. Michigan,
+
+116 U.S. 446, 460 (1886).  See also Scott v. Donald,
+
+165 U.S. 58 (1897); Tiernan v. Rinker,
+
+102 U.S. 123 (1880).  Applying that rule, the Walling Court struck down a discriminatory state fee that applied only to those in the business of selling imported alcohol.  116 U. S., at 454, 458.  Similarly, in Scott, the Court invalidated a law that gave an “unjust preference [to] the products of the enacting State as against similar products of the other States.”  165 U. S., at 101.  The Court did not question the States’ use of the police power to regulate the alcohol trade but stressed that such regulation must have a “bona fide” relation to protecting “ ‘the public health, the public morals or the public safety,’ ” id., at 91 (quoting Mugler, supra, at 661), and could not encroach upon Congress’s “power to regulate commerce among the several States,” Walling, supra, at 458.
+
+															Second, the Court “held that the Commerce Clause prevented States from passing facially neutral laws that placed an impermissible burden on interstate commerce.”  Granholm, 544 U. S., at 477.  At the time of these decisions, the “original-package doctrine” defined the outer limits of Congress’s authority to regulate interstate commerce.  Ibid. See Brown v. Maryland, 12 Wheat. 419 (1827).  Under that doctrine, “goods shipped in interstate commerce were immune from state regulation while in their original package,” because at that point they had not yet been comingled with the mass of domestic property subject to state jurisdiction.  Granholm, 544 U. S., at 477; see id., at 477–478 (citing Vance v. W. A. Vandercook Co.,
+
+170 U.S. 438, 444–445 (1898)).  Applying this doctrine to state alcohol laws, the Court struck down an Iowa statute that required importers to obtain special certificates, Bowman, supra, as well as another Iowa law that, with limited exceptions, banned the importation of liquor, Leisy, supra.
+
+															These decisions left dry States “in a bind.”  Granholm, supra, at 478.  See Rogers, Interstate Commerce in Intoxicating Liquors Before the Webb-Kenyon Act, 4 Va. L. Rev. 174 (1916), 288 (1917) (noting “practical nullification of state laws” by original-package decisions).  States could ban the production and sale of alcohol within their borders, but those bans “were ineffective because out-of-state liquor was immune from any state regulation as long as it remained in its original package.”  Granholm, supra, at 478.  In effect, the Court’s interpretation of the dormant Commerce Clause conferred favored status on out-of-state alcohol, and that hamstrung the dry States’ efforts to enforce local prohibition laws.  Representatives of those States and temperance advocates thus turned to Congress, which passed two laws to solve the problem.
+
+															The first of these was the Wilson Act, enacted in 1890.  Ch. 728,
+
+26Stat.
+313,
+
+27 U. S. C. §121.  Named for Senator James F. Wilson of Iowa, whose home State’s laws had fallen in Bowman and Leisy, the Wilson Act aimed to obviate the problem presented by the “original-package” rule.  Dormant Commerce Clause restrictions apply only when Congress has not exercised its Commerce Clause power to regulate the matter at issue, cf. Bowman, supra, at 485; Leisy, supra, at 123–124, and the strategy of those who favored the Wilson Act was for Congress to eliminate the problem that had surfaced in Bowman and Leisy by regulating the interstate shipment of alcohol, see Hamm 77–80; Rogers, supra, at 194–195.  During the late 19th century and early 20th century, Congress enacted laws that entirely prohibited the transportation of certain goods and persons across state lines, and some but not all of these measures were held to be valid exercises of the commerce power.  See Lottery Case,
+
+188 U.S. 321 (1903) (upholding law prohibiting interstate shipment of lottery tickets); Hoke v. United States,
+
+227 U.S. 308 (1913) (sustaining Mann Act prohibition on bringing women across state lines for prostitution); Hammer v. Dagenhart,
+
+247 U.S. 251 (1918) (striking down provision banning interstate shipment of goods produced by child labor).
+
+															Unlike these laws, the Wilson Act did not attempt to ban all interstate shipment of alcohol.  Its goal was more modest: to leave it up to each State to decide whether to admit alcohol.  Its critical provision specified that all alcoholic beverages “transported into any State or Terri- tory” were subject “upon arrival” to the same restrictions imposed by the State “in the exercise of its police powers” over alcohol produced in the State.[8]  Thus, the Wilson Act mandated equal treatment for alcohol produced within and outside a State, not favorable treatment for local products.  See Granholm, supra, at 479 (discussing Scott, 165 U. S., at 100–101).  And the only state laws that it attempted to shield were those enacted by a State “in the exercise of its police powers,” which, as we have seen, applied only to bona fide health and safety measures.  See, e.g., id., at 91 (citing Mugler, 123 U. S., at 661).
+
+															Despite Congress’s clear aim, the Wilson Act failed to relieve the dry States’ predicament.  In Rhodes v. Iowa,
+
+170 U.S. 412 (1898), and Vance v. W. A. Vandercook Co., supra, the Court read the Act’s reference to the “arrival” of alcohol in a State to mean delivery to the consignee, not arrival within the State’s borders.  Granholm, 544 U. S., at 480. The upshot was that residents of dry States could continue to order and receive imported alcohol.  Ibid.  See also Hamm 178.  In 1913, Congress tried to patch this hole by passing the Webb-Kenyon Act, ch. 90,
+
+37Stat.
+699,
+
+27 U. S. C. §122.
+
+															The aim of the Webb-Kenyon Act was to give each State a measure of regulatory authority over the importation of alcohol, but this created a drafting problem.  There were those who thought that a federal law giving the States this authority would amount to an unconstitutional delegation of Congress’s legislative power over interstate commerce.[9]  So the Act was framed not as a measure conferring power on the States but as one prohibiting conduct that violated state law.  The Act provided that the shipment of alcohol into a State for use in any manner, “either in the original package or otherwise,” “in violation of any law of such State,” was prohibited.[10]  This formulation is significant for present purposes because it would provide a model for §2 of the Twenty-first Amendment.
+
+															The Webb-Kenyon Act attempted to fix the hole in the Wilson Act and thus to “eliminate the regulatory advantage . . . afforded imported liquor,” Granholm, supra, at 482; see also Clark Distilling Co. v. Western Maryland R. Co.,
+
+242 U.S. 311, 324 (1917), but its wording, unlike the Wilson Act’s, did not explicitly mandate equal treatment for imported and domestically produced alcohol.  And it referred to “any law of such State,”
+
+37Stat.
+700 (emphasis added), whereas the Wilson Act referred to “the laws of such State or Territory enacted in the exercise of its police powers.”
+
+26Stat.
+313 (emphasis added).  But despite these differences, Granholm held, over a strenuous dissent, 544 U. S., at 505–514 (opinion of Thomas, J.), that the Webb-Kenyon Act did not purport to authorize States to enact protectionist measures.
+
+															There is good reason for this holding.  As we have noted, the Court’s pre-Webb-Kenyon Act decisions upholding state liquor laws against challenges based on constitutional provisions other than the Commerce Clause had cau- tioned that protectionist laws disguised as exercises of the police power would not escape scrutiny.  See supra, at 14–15.[11]  The Webb-Kenyon Act, by regulating commerce, could obviate dormant Commerce Clause problems, but it could not override the limitations imposed by these other constitutional provisions and the traditional understanding regarding the bounds of the States’ inherent police powers.  Therefore the Wilson Act’s reference to laws “enacted in the exercise of [a State’s] police powers,”
+
+26Stat.
+313, merely restated what this Court had already found to be a constitutional necessity, and consequently, there was no need to include such language in the Webb-Kenyon Act.  Even without limiting language like that in the Wilson Act, the shelter given by the Webb-Kenyon Act applied only where “the States treated in-state and out-of-state liquor on the same terms.”  Granholm, supra, at 481.[12]
+
+															Following passage of the Webb-Kenyon Act, temperance advocates began the final push for nationwide Prohibition, and with the ratification of the
+ 
+Eighteenth Amendment in 1919, their goal was achieved.  The manufacture, sale, transportation, and importation of alcoholic beverages anywhere in the country were prohibited.
+
+															IV
+
+															A
+
+															By 1933, support for Prohibition had substantially diminished but not vanished completely.  Thirty-eight state conventions eventually ratified the Twenty-first Amendment, but 10 States either rejected or took no action on the Amendment.  Section 1 of the Twenty-first Amendment repealed the
+ 
+Eighteenth Amendment and thus ended nationwide Prohibition, but §2, the provision at issue here, gave each State the option of banning alcohol if its citizens so chose.
+
+															As we have previously noted, the text of §2 “closely follow[ed]” the operative language of the Webb-Kenyon Act, and this naturally suggests that §2 was meant to have a similar meaning.  Craig, 429 U. S., at 205–206.  The decision to follow that unusual formulation is especially revealing since the drafters of §2, unlike those who framed the Webb-Kenyon Act, had no need to worry that a more straightforward wording might trigger a constitutional challenge.  Accordingly, we have inferred that §2 was meant to “constitutionaliz[e]” the basic understanding of the extent of the States’ power to regulate alcohol that prevailed before Prohibition.  Id., at 206. See also Granholm, supra, at 484.  And as recognized during that period, the Commerce Clause did not permit the States to impose protectionist measures clothed as police-power regulations.  See supra, at 14–15.  See also, e.g., Railroad Co. v. Husen,
+
+95 U.S. 465, 472 (1878) (a State “may not, under the cover of exerting its police powers, substantially prohibit or burden either foreign or inter-state commerce”).
+
+															This understanding is supported by the debates on the Amendment in Congress[13] and the state ratifying conventions.  The records of the state conventions provide no evidence that §2 was understood to give States the power to enact protectionist laws,[14] “a privilege [the States] had not enjoyed at any earlier time.”  Granholm, supra, at 485.
+
+															B
+
+															Although our later cases have recognized that §2 cannot be given an interpretation that overrides all previously adopted constitutional provisions, the Court’s earliest cases interpreting §2 seemed to feint in that direction.  In 1936, the Court found that §2’s text was “clear” and saw no need to consider whether history supported a more modest interpretation, State Bd. of Equalization of Cal. v. Young’s Market Co.,
+
+299 U.S. 59, 63–64 (1936)—an approach even the dissent rejects, see infra, at 24, n. 16; post, at 2.[15]  The Court read §2 as granting each State plenary “power to forbid all importations which do not comply with the conditions which it prescribes,” Young’s Market, supra, at 62; see also Ziffrin, Inc. v. Reeves,
+
+308 U.S. 132, 138–139 (1939), including laws that discriminated against out-of-state products.  See, e.g., Young’s Market, supra, at 62; Mahoney v. Joseph Triner Corp.,
+
+304 U.S. 401, 403 (1938); Indianapolis Brewing Co. v. Liquor Control Comm’n,
+
+305 U.S. 391, 394 (1939).  The Court went so far as to assume that the
+ 
+Fourteenth Amendment imposed no barrier to state legislation in the field of alcohol regulation.  See Young’s Market, supra, at 64 (“A classification recognized by the Twenty-first Amendment cannot be deemed forbidden by the Fourteenth”).
+
+															With subsequent cases, however, the Court saw that §2 cannot be read that way, and it therefore scrutinized state alcohol laws for compliance with many constitutional provisions.  See, e.g., 44 Liquormart, Inc. v. Rhode Island,
+
+517 U.S. 484 (1996) (Free Speech Clause); Larkin v. Grendel’s Den, Inc.,
+
+459 U.S. 116 (1982) (Establishment Clause); Craig v. Boren, supra (Equal Protection Clause); Wisconsin v. Constantineau,
+
+400 U.S. 433 (1971) (Due Process Clause); Department of Revenue v. James B. Beam Distilling Co.,
+
+377 U.S. 341 (1964) (Import-Export Clause).
+
+															The Court also held that §2 does not entirely supersede Congress’s power to regulate commerce.  Instead, after evaluating competing federal and state interests, the Court has ruled against state alcohol laws that conflicted with federal regulation of the export of alcohol, Hostetter, 377 U. S., at 333–334, federal antitrust law, Midcal Aluminum, 445 U. S., at 110–111, 113–114; 324 Liquor Corp. v. Duffy, 
+479 U.S. 335, 346–347, 350–351 (1987), and federal regulation of the airwaves, Capital Cities Cable, Inc. v. Crisp, 
+467 U.S. 691, 713, 716 (1984).
+
+															As for the dormant Commerce Clause, the developments leading to the adoption of the Twenty-first Amendment have convinced us that the aim of §2 was not to give States a free hand to restrict the importation of alcohol for purely protectionist purposes.  See Granholm, supra, at 486–487; Bacchus, 468 U. S., at 276.
+
+															C
+
+															Although some Justices have argued that §2 shields all state alcohol regulation—including discriminatory laws—from any application of dormant Commerce Clause doctrine,[16] the Court’s modern §2 precedents have repeatedly rejected that view.  We have examined whether state alcohol laws that burden interstate commerce serve a State’s legitimate §2 interests.  And protectionism, we have stressed, is not such an interest.  Ibid.
+
+															Applying that principle, we have invalidated state alcohol laws aimed at giving a competitive advantage to in-state businesses.  The Court’s decision in Bacchus “provides a particularly telling example.”  Granholm, supra, at 487.  There, the Court was confronted with a tax exemption that favored certain in-state alcohol producers.  In defending the law, the State argued that even if the discriminatory exemption violated “ordinary Commerce Clause principles, it [was] saved by the Twenty-first Amendment.”  Bacchus, 468 U. S., at 274. We rejected that argument and held instead that the relevant question was “whether the principles underlying the Twenty-first Amendment are sufficiently implicated by the [discriminatory] exemption . . . to outweigh the Commerce Clause principles that would otherwise be offended.”  Id., at 275.  Ultimately, we held that §2 did not save the disputed tax because it clearly aimed “ ‘to promote a local industry’ ” rather than “to promote temperance or to carry out any other purpose of the Twenty-first Amendment.”  Id., at 276.
+
+															The same went for the state law in Healy v. Beer Institute,
+
+491 U.S. 324 (1989), which required out-of-state shippers of beer to affirm that their wholesale price for products sold in Connecticut was no higher than the prices they charged to wholesalers in bordering States.  Connecticut argued that the “Twenty-first Amendment sanction[ed]” this law “regardless of its effect on interstate commerce,” id., at 341, but we held that the law violated the Commerce Clause, noting that it “discriminate[d] against brewers and shippers of beer engaged in interstate commerce” without justification “by a valid factor unrelated to economic protectionism,” id., at 340–341.[17]
+
+															Most recently, in Granholm, we struck down a set of discriminatory direct-shipment laws that favored in-state wineries over out-of-state competitors.  After surveying the history of §2, we affirmed that “the Twenty-first Amendment does not immunize all laws from Commerce Clause challenge.”  544 U. S., at 488.  We therefore examined whether the challenged laws were reasonably necessary to protect the States’ asserted interests in policing underage drinking and facilitating tax collection.  Id., at 489–493.  Concluding that the answer to that question was no, we invalidated the laws as inconsistent with the dormant Commerce Clause’s nondiscrimination principle.  Id., at 492–493.
+
+															To summarize, the Court has acknowledged that §2 grants States latitude with respect to the regulation of alcohol, but the Court has repeatedly declined to read §2 as allowing the States to violate the “nondiscrimination principle” that was a central feature of the regulatory regime that the provision was meant to constitutionalize.  Id., at 487.
+
+															D
+
+															The Association resists this reading.  Although it concedes (as it must under Granholm) that §2 does not give the States the power to discriminate against out-of-state alcohol products and producers, the Association presses the argument, echoed by the dissent, that a different rule applies to state laws that regulate in-state alcohol distribution.  There is no sound basis for this distinction.[18]
+
+															1
+
+															The Association’s argument encounters a problem at the outset.  The argument concedes that §2 does not shield state laws that discriminate against interstate commerce with respect to the very activity that the provision explicitly addresses—the importation of alcohol.  But at the same time, the Association claims that §2 protects something that §2’s text, if read literally, does not cover—laws restricting the licensing of domestic retail alcohol stores.  That reading is implausible.  Surely if §2 granted States the power to discriminate in the field of alcohol regulation, that power would be at its apex when it comes to regulating the activity to which the provision expressly refers.
+
+															The Association and the dissent point out that Granholm repeatedly spoke of discrimination against out-of-state products and producers, but there is an obvious explanation: The state laws at issue in Granholm discriminated against out-of-state producers.  See 883 F. 3d, at 621.  And Granholm never said that its reading of history or its Commerce Clause analysis was limited to discrimination against products or producers.  On the contrary, the Court stated that the Clause prohibits state discrimination against all “ ‘out-of-state economic interests,’ ” Granholm, 544 U. S., at 472 (emphasis added), and noted that the direct-shipment laws in question “contradict[ed]” dormant Commerce Clause principles because they “deprive[d] citizens of their right to have access to the markets of other States on equal terms.”  Id., at 473 (emphasis added).  Granholm also described its analysis as consistent with the rule set forth in Bacchus, Brown-Forman Distillers Corp. v. New York State Liquor Authority,
+
+476 U.S. 573 (1986), and Healy that “ ‘[w]hen a state statute directly regulates or discriminates against interstate commerce, or when its effect is to favor in-state economic interests over out-of-state interests, we have generally struck down the statute without further inquiry.’ ”  Granholm, supra, at 487 (quoting Brown-Forman, supra, at 579; emphasis added).
+
+															The Association counters that even if the Granholm Court did not explicitly limit its holding to products and producers, the Court implicitly did so when it rejected the argument that its analysis would call into question the constitutionality of state laws setting up three-tiered alcohol distribution systems.  See Granholm, supra, at 488–489.  This argument, which the dissent also advances, see post, at 12–13, reads far too much into Granholm’s discussion of the three-tiered model.  Although Granholm spoke approvingly of that basic model, it did not suggest that §2 sanctions every discriminatory feature that a State may incorporate into its three-tiered scheme.  At issue in the present case is not the basic three-tiered model of separating producers, wholesalers, and retailers, but the durational-residency requirement that Tennessee has chosen to impose on new applicants for liquor store licenses.  Such a requirement is not an essential feature of a three-tiered scheme.  Many such schemes do not impose durational-residency requirements—or indeed any residency requirements—on individual or corporate liquor store owners.  See, e.g., Brief for State of Illinois et al. as Amici Curiae 24–25, 27 (identifying States that have either “dispos[ed] with the durational aspect of the [residency] requirement” or “d[o] not regulate the residency of the applicant corporation or partnership”). Other three-tiered schemes differ in other ways.  See, e.g., id., at 24–28 (noting variations); FTC, Possible Anticompetitive Barriers to E-Commerce: Wine 7–9 (July 2003), https:// www .ftc . gov / sites /default/files/documents/reports/possible-anticompetitive-barriers-e-commerce-wine/winereport2_0. pdf (as last visited June 24, 2019) (same).  Because we agree with the dissent that, under §2, States “remai[n] free to pursue” their legitimate interests in regulating the health and safety risks posed by the alcohol trade, post, at 12, each variation must be judged based on its own features.
+
+															2
+
+															In support of the argument that the Tennessee scheme is constitutional, the Association and its amici claim that discriminatory distribution laws, including in-state presence and residency requirements, long predate Prohibition and were adopted by many States following ratification of the Twenty-first Amendment.[19]  Indeed, the Association notes that the 2-year durational-residency requirement now before us dates back to 1939 and is consistent with durational-residency regimes adopted by several other States around the same time.[20]  According to the Association, that history confirms that §2 was intended to broadly exempt all in-state distribution laws from dormant Commerce Clause scrutiny.  The dissent relies heavily on this same argument.
+
+															This argument fails for several reasons.  Insofar as it relies on state laws enacted shortly after the ratification of the Twenty-first Amendment and this Court’s early decisions interpreting it, the Association and the dissent’s argument does not take into account the overly expansive interpretation of §2 that took hold for a time in the immediate aftermath of its adoption.  See supra, at 22–23.  Thus, some state laws adopted soon after the ratification of the Twenty-first Amendment may have been based on an understanding of §2 that can no longer be defended.  It is telling that an argument similar to the one now made by the Association would have dictated a contrary result in Granholm, since state laws disfavoring imported products were passed during this same period.  See, e.g., Young’s Market Co., 299 U. S., at 62 (discriminatory license fee on imported beer); Mahoney, 304 U. S., at 403 (prohibition on import of certain liquors); Indianapolis Brewing Co., 305 U. S., at 394 (same).  But our later cases have rejected this interpretation of §2.  See Granholm, supra, at 487.
+
+															Insofar as the Association’s argument is based on state laws adopted prior to Prohibition, it infers too much from the existence of laws that were never tested in this Court.  Had they been tested here, there is no reason to conclude that they would have been sustained.  During that time, the Court repeatedly invalidated, on dormant Commerce Clause grounds, a variety of state and local efforts to license those engaged in interstate business,[21] and as noted, pre-Prohibition decisions of this Court and the lower courts held that state alcohol laws that discriminated against interstate commerce were unconstitutional, see supra, at 15. 
+
+															Contrary to the Association’s contention, not all of these decisions involved discrimination against alcohol produced out of State or alcohol importers.  The tax in Walling, for example, applied to those engaged in the business of selling imported alcohol within the State.
+
+116 U.S. 446.  And in concluding that the law violated the Commerce Clause, the Court affirmed that, without the dormant Commerce Clause, there would “be no security against conflicting regulations of different states, each discriminating in favor of its own products and citizens, and against the products and citizens of other states.”  Id., at 456–457 (emphasis added).  So too, the dispensary law in Scott was challenged on the ground that it discriminated “against products of other States and against citizens of other States.”  165 U. S., at 62 (emphasis added); see also id., at 94.
+
+															Nor have States historically enjoyed absolute authority to police alcohol within their borders.  As discussed earlier, far from granting the States plenary authority to adopt domestic regulations, the Court’s police-power precedents required an examination of the actual purpose and effect of a challenged law.  See, e.g., Mugler, 123 U. S., at 661 (“It does not at all follow that every statute enacted ostensibly for the promotion” of “the public health, the public morals, or the public safety” is “to be accepted as a legitimate exertion of the police powers of the State”); see also Husen, 95 U. S., at 472; Welton v. Missouri,
+
+91 U.S. 275, 278 (1876).  Cf. H. Black, Intoxicating Liquors §30, p. 40 (1892) (stating that certain 19th-century licensing and residency requirements were valid because their “purpose and effect” was to prevent “the unlawful selling of liquors, and not to discriminate against citizens of other states” (emphasis added)).
+
+															For these reasons, we reject the Association’s overly broad understanding of §2.  That provision allows each State leeway to enact the measures that its citizens believe are appropriate to address the public health and safety effects of alcohol use and to serve other legitimate interests, but it does not license the States to adopt protectionist measures with no demonstrable connection to those interests.
+
+															V
+
+															Having concluded that §2 does not confer limitless authority to regulate the alcohol trade, we now apply the §2 analysis dictated by the provision’s history and our precedents.
+
+															If we viewed Tennessee’s durational-residency requirements as a package, it would be hard to avoid the conclusion that their overall purpose and effect is protectionist.  Indeed, two of those requirements—the 10-year residency requirement for license renewal and the provision that shuts out all publicly traded corporations—are so plainly based on unalloyed protectionism that neither the Association nor the State is willing to come to their defense.  The provision that the Association and the State seek to preserve—the 2-year residency requirement for initial license applicants—forms part of that scheme.  But we assume that it can be severed from its companion provisions, see 883 F. 3d, at 626–628, and we therefore analyze that provision on its own.
+
+															Since the 2-year residency requirement discriminates on its face against nonresidents, it could not be sustained if it applied across the board to all those seeking to operate any retail business in the State.  Cf. C & A Carbone, Inc. v. Clarkstown,
+
+511 U.S. 383, 391–392 (1994); Lewis v. BT Investment Managers, Inc.,
+
+447 U.S. 27, 39 (1980).  But because of §2, we engage in a different inquiry.  Recognizing that §2 was adopted to give each State the authority to address alcohol-related public health and safety issues in accordance with the preferences of its citizens, we ask whether the challenged requirement can be justified as a public health or safety measure or on some other legitimate nonprotectionist ground.  Section 2 gives the States regulatory authority that they would not otherwise enjoy, but as we pointed out in Granholm, “mere speculation” or “unsupported assertions” are insufficient to sustain a law that would otherwise violate the Commerce Clause.  544 U. S., at 490, 492.  Where the predominant effect of a law is protectionism, not the protection of public health or safety, it is not shielded by §2.
+
+															The provision at issue here expressly discriminates against nonresidents and has at best a highly attenuated relationship to public health or safety.  During the course of this litigation, the Association relied almost entirely on the argument that Tennessee’s residency requirements are simply “not subject to Commerce Clause challenge,” 259 F. Supp. 3d, at 796, and the State itself mounted no independent defense.  As a result, the record is devoid of any “concrete evidence” showing that the 2-year residency requirement actually promotes public health or safety; nor is there evidence that nondiscriminatory alternatives would be insufficient to further those interests.  Granholm, supra, at 490; see 883 F. 3d, at 625–626.
+
+															In this Court, the Association has attempted to defend the 2-year residency requirement on public health and safety grounds, but this argument is implausible on its face.  The Association claims that the requirement ensures that retailers are “amenable to the direct process of state courts,” Brief for Petitioner 48 (internal quotation marks omitted), but the Association does not explain why this objective could not easily be achieved by ready alternatives, such as requiring a nonresident to designate an agent to receive process or to consent to suit in the Tennessee courts.  See Cooper v. McBeath, 11 F.3d 547, 554 (CA5 1994).
+
+															Similarly unpersuasive is the Association’s claim that the 2-year requirement gives the State a better opportu- nity to determine an applicant’s fitness to sell alcohol and guards against “undesirable nonresidents” moving into the State for the purpose of operating a liquor store.  Brief for Petitioner 10 (internal quotation marks omitted).  The State can thoroughly investigate applicants without requiring them to reside in the State for two years before obtaining a license.  Tennessee law already calls for criminal background checks on all applicants, see Tenn. Code Ann. §57–3–208, and more searching checks could be demanded if necessary.  As the Fifth Circuit observed in a similar case, “[i]f [the State] desires to scrutinize its applicants thoroughly, as is its right, it can devise nondiscriminatory means short of saddling applicants with the ‘burden’ of residing” in the State.  Cooper, 11 F. 3d, at 554.
+
+															The 2-year residency requirement, in any event, poorly serves the goal of enabling the State to ensure that only law-abiding and responsible applicants receive licenses.  As the Tennessee attorney general explained, if a nonresident moves to the State with the intention of applying for a license once the 2-year period ends, the TABC will not necessarily have any inkling of the future applicant’s intentions until that individual applies for a license, and consequently, the TABC will have no reason to begin an investigation until the 2-year period has ended.  App. to Brief in Opposition 17a.  And all that the 2-year requirement demands is residency.  A prospective applicant is not obligated during that time “to be educated about liquor sales, submit to inspections, or report to the State.”  Ibid.
+
+															The 2-year residency requirement is not needed to en- able the State to maintain oversight over liquor store operators.  In Granholm, it was argued that the prohibition on the shipment of wine from out-of-state sources was justified because the State could not adequately monitor the activities of nonresident entities.  Citing “improvements in technology,” we found that argument insufficient.  544 U. S., at 492.  See also Cooper, supra, at 554 (“In this age of split-second communications by means of computer networks . . . there is no shortage of less burdensome, yet still suitable, options”).  In this case, the argument is even less persuasive since the stores at issue are physically located within the State.  For that reason, the State can monitor the stores’ operations through on-site inspections, audits, and the like.  See §57–3–104.  Should the State conclude that a retailer has “fail[ed] to comply with state law,” it may revoke its operating license.  Granholm, 544 U. S., at 490.  This “provides strong incentives not to sell alcohol” in a way that threatens public health or safety.  Ibid.
+
+															In addition to citing the State’s interest in regulatory control, the Association argues that the 2-year residency requirement would promote responsible alcohol consumption.  According to the Association, the requirement makes it more likely that retailers will be familiar with the communities served by their stores, and this, it is suggested, will lead to responsible sales practices.  Brief for Petitioner 48–49.  The idea, it seems, is that a responsible neighborhood proprietor will counsel or cut off sales to patrons who are known to be abusing alcohol, who manifest the effects of alcohol abuse, or who perhaps appear to be purchas- ing too much alcohol.  No evidence has been offered that durational-residency requirements actually foster such sales practices, and in any event, the requirement now before us is very poorly designed to do so.
+
+															For one thing, it applies to those who hold a license, not to those who actually make sales.  For another, it requires residence in the State, not in the community that a store serves.  The Association cannot explain why a proprietor who lives in Bristol, Virginia, will be less knowledgeable about the needs of his neighbors right across the border in Bristol, Tennessee, than someone who lives 500 miles away in Memphis.  And the rationale is further undermined by other features of Tennessee law, particularly the lack of durational-residency requirements for owners of bars and other establishments that sell alcohol for on-premises consumption.  §57–4–201.
+
+															Not only is the 2-year residency requirement ill suited to promote responsible sales and consumption practices (an interest that we recognize as legitimate, contrary to the dissent’s suggestion, post, at 9, 12, 14), but there are obvious alternatives that better serve that goal without discriminating against nonresidents.  State law empowers the relevant authorities to limit both the number of retail licenses and the amount of alcohol that may be sold to an individual.  Cf. §57–3–208(c) (permitting local governments to “limit . . . the number of licenses issued within their jurisdictions”); §57–3–204(d)(7)(C) (imposing volume limits on certain sales of alcohol to patrons); Rules of TABC, ch. 0100–01, §0100–01–.03(15) (2018) (same).  The State could also mandate more extensive training for managers and employees and could even demand that they demonstrate an adequate connection with and knowledge of the local community.  Cf., e.g., Tenn. Code Ann. §57–3–221 (requiring managers of liquor stores to obtain permits, satisfy background checks, and undergo “alcohol awareness” training).  And the State of course remains free to monitor the practices of retailers and to take action against those who violate the law.
+
+															Given all this, the Association has fallen far short of showing that the 2-year durational-residency requirement for license applicants is valid.  Like the other discriminatory residency requirements that the Association is unwilling to defend, the predominant effect of the 2-year residency requirement is simply to protect the Association’s members from out-of-state competition.  We therefore hold that this provision violates the Commerce Clause and is not saved by the Twenty-first Amendment.[22]
+
+															*  *  *
+
+															The judgment of the Court of Appeals for the Sixth Circuit is affirmed.
+
+															It is so ordered.
+Notes
+1
+ For purposes of the provisions at issue here, Tennessee law defines “alcoholic beverage[s]” to include “spirits, liquor, wine, high alcohol content beer,” and “any liquid product containing distilled alcohol capable of being consumed by a human being, manufactured or made with distilled alcohol, regardless of alcohol content,” Tenn. Code Ann. §57–3–101(a)(1)(A) (2018).  This definition excludes “beer,” which is defined and regulated by separate statutory provisions, see §57–5–101(b). 
+
+2
+ See Letter from H. Slatery III, Tenn. Atty. Gen., to S. Harris, Clerk of Court (Nov. 13, 2018). 
+
+3
+ See, e.g., R. Beeman, Plain, Honest Men: The Making of the American Constitution 18–20 (2009); D. Stewart, The Summer of 1787: The Men Who Invented the Constitution 9–10 (2007); M. Farrand, The Framing of the Constitution of the United States 7–10 (1913). 
+
+4
+ Before Woodruff, there was authority suggesting that the Import-Export Clause applied to trade between States.  See Brown v. Maryland, 12 Wheat. 419, 449 (1827) (Marshall, C. J.); Almy v. California, 24 How. 169 (1861).  And more recently Woodruff has been questioned.  See Camps Newfound/Owatonna, Inc. v. Town of Harrison,
+
+520 U.S. 564, 624–636 (1997) (Thomas, J., dissenting).  But one way or the other, it would grossly distort the Constitution to hold that it provides no protection against a broad swath of state protectionist measures.  Even at the time of the adoption of the Constitution, it would have been asking a lot to require that Congress pass a law striking down every protectionist measure that a State or unit of local government chose to enact.  Cf. Friedman & Deacon, A Course Unbroken:  The Constitutional Legitimacy of the Dormant Commerce Clause, 97 Va. L. Rev. 1877, 1898–1903 (2011); 3 The Records of the Federal Convention of 1787, p. 549 (M. Farrand ed. 1911) (the Virginia Plan’s proposal of a congressional negative was “justly abandoned, as, apart from other objections, it was not practicable among so many States, increasing in number, and enacting, each of them, so many laws”). 
+
+5
+ As we will explain, §2 followed the wording of the 1913 Webb-Kenyon Act, ch. 90,
+
+37Stat.
+699, see Craig v. Boren,
+
+429 U.S. 190, 205–206 (1976), and, given this Court’s case law at the time, it went without saying that the only state laws that Congress could protect from constitutional challenge were those that represented the valid exercise of the police power, which was not understood to authorize purely protectionist measures with no bona fide relation to public health or safety.  See infra, at 14–15, 18–19. 
+
+6
+ Between 1780 and 1830, Americans consumed “more alcohol, on an individual basis, than at any other time in the history of the nation,” with per capita consumption double that of the modern era.  R. Mendelson, From Demon to Darling: A Legal History of Wine in America 11 (2009). 
+
+7
+ By 1872, about 100,000 had sprung up across the country, and by the end of the century, that number had climbed to almost 300,000.  Id., at 31.  This increase has been linked to the introduction of the English “tied-house” system.  Under the tied-house system, an alcohol producer, usually a brewer, would set up saloonkeepers, providing them with premises and equipment, and the saloonkeepers, in exchange, agreed to sell only that producer’s products and to meet set sales requirements.  Ibid.; T. Pegram, Battling Demon Rum: The Struggle for a Dry America, 1800–1933, p. 95 (1998).  To meet those requirements, saloonkeepers often encouraged irresponsible drinking.  Id., at 97.  The three-tiered distribution model was adopted by States at least in large part to preclude this system.  See Arnold’s Wines, Inc. v. Boyle, 571 F.3d 185, 187 (CA2 2009). 
+
+8
+ The provision read as follows: “That all fermented, distilled, or other intoxicating liquors or liquids transported into any State or Territory or remaining therein for use, consumption, sale or storage therein, shall upon arrival in such State or Territory be subject to the operation and effect of the laws of such State or Territory enacted in the exercise of its police powers, to the same extent and in the same manner as though such liquids or liquors had been produced in such State or Territory, and shall not be exempt therefrom by reason of being introduced therein in original packages or otherwise.”  Ch. 728,
+
+26Stat.
+313,
+
+27 U. S. C. §121. 
+
+9
+ That was the position expressed in an opinion issued by Attorney General Wickersham, 30 Op. Atty. Gen. 88 (1913), and President Taft’s veto, which Congress overrode, was based on exactly this ground.  49 Cong. Rec. 4291 (1913) (Veto Message of the President). 
+
+10
+ The Act provided: “That the shipment or transportation . . . of any spirituous, vinous, malted, fermented, or other intoxicating liquor of any kind, from one State . . . into any other State . . . which said spirituous, vinous, malted, fermented, or other intoxicating liquor is intended, by any person interested therein, to be received, possessed, sold, or in any manner used, either in the original package or otherwise, in violation of any law of such State . . . is hereby prohibited.”
+
+37Stat.
+699–700. 
+
+11
+ This principle was also invoked in dormant Commerce Clause cases involving other products.  See, e.g., Minnesota v. Barber,
+
+136 U.S. 313, 319, 323 (1890); Railroad Co. v. Husen,
+
+95 U.S. 465, 472 (1878). 
+
+12
+ Lower court decisions issued between the enactment of the Webb-Kenyon Act and the ratification of the
+ 
+Eighteenth Amendment interpreted the Act this way.  See Evansville Brewing Assn. v. Excise Comm’n of Jefferson Cty., Ala., 225 F. 204 (ND Ala. 1915); Southern Express Co. v. Whittle, 194 Ala. 406, 69 So. 652 (1915); Brennen v. Southern Express Co., 106 S. C. 102, 90 S.E. 402 (1916); Charleston & W. C. R. Co. v. Gosnell, 106 S. C. 84, 90 S.E. 264 (1916) (Hydrick, J., concurring); Monumental Brewing Co. v. Whitlock, 111 S. C. 198, 97 S.E. 56 (1918). See also Pacific Fruit & Produce Co. v. Martin, 16 F. Supp. 34, 39–40 (WD Wash. 1936); Friedman, Constitutional Law: State Regulation of Importation of Intoxicating Liquor Under Twenty-first Amendment, 21 Cornell L. Q. 504, 509 (1936). 
+
+13
+ See, e.g., 76 Cong. Rec. 4172 (1933) (statement of Sen. Borah) (§2 of Twenty-first Amendment would “incorporat[e] [Webb-Kenyon] permanently in the Constitution of the United States”); id., at 4168 (statement of Sen. Fess) (“[T]he second section of the joint resolution . . . is designed to permit the Federal authority to assist the States that want to be dry to remain dry”); id., at 4518 (statement of Rep. Robinson) (“Section 2 attempts to protect dry states”). 
+
+14
+ See Nielson, No More “Cherry-Picking”: The Real History of the 21st Amendment’s §2, 28 Harv. J. L. & Pub. Pol’y 281, 286, n. 21 (2004).  See generally E. Brown, Ratification of the Twenty-first Amendment to the Constitution of the United States; State Convention Records and Laws (1938). 
+
+15
+ The dissent characterizes the Court as a “committee of nine” that has “stray[ed] from the text” of the Twenty-first Amendment and “impose[d] [its] own free-trade rules” on the States.  Post, at 8, 15 (opinion of J. Gorsuch).  This is empty rhetoric.  The dissent itself strays from a blinkered reading of the Amendment.  The dissent interprets §2 of the Amendment to mean more than it literally says, arguing that §2 covers the residency requirements at issue even though they are not tied in any way to what the Amendment actually addresses, namely, “the transportation or importation” of alcohol across state lines.  See post, at 2, n. 1.  And the dissent agrees that §2 cannot be read as broadly as one might think if its language were read in isolation and not as part of an integrated constitutional scheme.  See post, at 2.  The dissent asserts that §2 does not abrogate all previously adopted constitutional provisions, just the dormant Commerce Clause.  But the dissent does not say whether it thinks §2 allows the States to adopt alcohol regulations that serve no conceivable purpose other than protectionism.  Even the dissent below did not go that far.  See n. 18, infra.  If §2 gives the States carte blanche to engage in protectionism, we suppose that Tennessee could restrict licenses to persons who can show that their lineal ancestors have lived in the State since 1796 when the State entered the Union.  Does the dissent really think that this is what §2 was meant to permit? 
+
+16
+ See, e.g., Granholm v. Heald,
+
+544 U.S. 460, 497–498 (2005) (Thomas, J., dissenting); Healy v. Beer Institute,
+
+491 U.S. 324, 349 (1989) (Rehnquist, C. J., dissenting); 324 Liquor Corp. v. Duffy,
+
+479 U.S. 335, 352–353 (1987) (O’Connor, J., dissenting); Bacchus Imports, Ltd. v. Dias,
+
+468 U.S. 263, 281–282 (1984) (Stevens, J., dissenting). The dissent rehashes this debate, see post, at 5–8, 14, asserting that the Webb-Kenyon Act, and thus §2, were “understood” to repudiate not only the original-package cases, but also the antidiscrimination rule articulated in cases including Scott v. Donald,
+
+165 U.S. 58 (1897).  But this Court’s modern §2 decisions—not simply the lower court decisions at which the dissent takes aim, see post, at 6, n. 3—establish that those enactments, though no doubt aimed at granting States additional “discretion to calibrate alcohol regulations to local preferences,” post, at 2, did not exempt States from “the nondiscrimination principle of the Commerce Clause.”  Granholm, supra, at 487. 
+
+17
+ Justice Scalia, for his part, thought the “statute’s invalidity [was] fully established by its facial discrimination against interstate commerce”—discrimination that in his view “eliminate[d] the immunity afforded by the Twenty-first Amendment.”  Healy, supra, at 344 (opinion concurring in part and concurring in judgment) (citing Bacchus, supra, at 275–276). 
+
+18
+ The Association’s argument is more extreme than that of the dissent below, which recognized that in-state distribution laws that “serve no purpose besides ‘economic protectionism’ ” remain subject to dormant Commerce Clause scrutiny.  Byrd v. Tennessee Wine and Spirits Retailers Assn., 883 F.3d 608, 633 (CA6 2018) (Sutton, J., concurring in part and dissenting in part) (quoting Bacchus, supra,at 276). 
+
+19
+ See Granholm, 544 U. S., at 518, and n. 6 (Thomas, J., dissenting) (licensing schemes adopted by three-tier States following ratification of Twenty-first Amendment discriminated “by requiring in-state residency or physical presence as a condition of obtaining licenses”) (collecting statutes); Brief for Petitioner 33–34 (collecting residency-requirement statutes).  See also Brief for State of Illinois et al. as Amici Curiae 7–8 (referencing 19th-century state statutes that required “retailers to reside in-state or to maintain an in-state presence”). 
+
+20
+ See 1939 Tenn. Pub. Acts, ch. 49, §§5–8; Brief for Petitioner 34 (collecting durational-residency requirement statutes); Brief for State of Illinois et al. as Amici Curiae 24 (same). 
+
+21
+ Real Silk Hosiery Mills v. Portland,
+
+268 U.S. 325, 335–336 (1925) (license tax on solicitors of orders to be filled by an out-of-state manufacturer); Shafer v. Farmers Grain Co. of Embden,
+
+268 U.S. 189, 197–201 (1925) (license requirement for the purchase of grain shipped immediately out of the State); Stewart v. Michigan,
+
+232 U.S. 665, 669–670 (1914) (state law requiring a license for catalog sales); Crenshaw v. Arkansas,
+
+227 U.S. 389, 399–401 (1913) (state law requiring a foreign corporation actively soliciting sales in State to obtain a license); Dozier v. Alabama,
+
+218 U.S. 124, 127–128 (1910) (licensing requirement on the solicitors of photography enlargement services and frames manufactured out of State); International Textbook Co. v. Pigg,
+
+217 U.S. 91, 107–111 (1910) (state law requiring an out-of-state educational publishing company to pay a license fee for exchanging materials with customers); Rearick v. Pennsylvania,
+
+203 U.S. 507, 510–511 (1906) (ordinance requiring license to solicit orders for out-of-state goods); Norfolk & Western R. Co. v. Sims,
+
+191 U.S. 441, 449–451 (1903) (state licensing requirement on express company acting as agent for importer of a sewing machine); Brennan v. Titusville,
+
+153 U.S. 289, 306–308 (1894) (licensing tax on persons engaged in trade on behalf of firms doing business outside the State); Corson v. Maryland,
+
+120 U.S. 502, 505–506 (1887) (state licensing requirement as applied to agent of out-of-state firm soliciting sales); Welton v. Missouri,
+
+91 U.S. 275, 278, 282–283 (1876) (state law requiring payment of license tax by sellers of out-of-state goods). 
+
+22
+ Our analysis and conclusion apply as well to the provision requiring all officers and directors of corporate applicants to satisfy the 2-year residency requirement.  See 883 F. 3d, at 623. 
+
+

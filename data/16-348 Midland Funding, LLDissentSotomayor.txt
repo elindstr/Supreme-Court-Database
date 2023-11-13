@@ -1,0 +1,141 @@
+::SCDB_caseID:: 2016-039
+::decision_cite:: 16-348
+::decision_name::  Midland Funding, LLC v. Johnson
+::decision_year:: 2017
+::opinion_author:: Sotomayor
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 16–348
+
+															_________________
+
+															MIDLAND FUNDING, LLC, PETITIONER v.ALEIDA JOHNSON
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[May 15, 2017]
+
+															
+
+															Justice Sotomayor, with whom Justice Ginsburg and Justice Kagan join, dissenting.
+
+															The Fair Debt Collection Practices Act (FDCPA or Act) prohibits professional debt collectors from using “false, deceptive, or misleading representation[s] or means in connection with the collection of any debt” and from “us[ing] unfair or unconscionable means to collect” a debt.  15 U. S. C. §§1692e, 1692f.  The Court today wrongfully holds that a debt collector that knowingly attempts to collect a time-barred debt in bankruptcy proceedings has violated neither of these prohibitions.  
+
+															Professional debt collectors have built a business out of buying stale debt, filing claims in bankruptcy proceedings to collect it, and hoping that no one notices that the debt is too old to be enforced by the courts.  This practice is both “unfair” and “unconscionable.”  I respectfully dissent from the Court’s conclusion to the contrary.[1]
+
+															I
+
+															Americans owe trillions of dollars in consumer debt to creditors—credit card companies, schools, and car dealers, among others.  See Fed. Reserve Bank of N. Y., Quarterly Report on Household Debt and Credit 3 (2017).  Most people will repay their debts, but some cannot do so.  The debts they do not pay are increasingly likely to end up in the hands of professional debt collectors—companies whose business it is to collect debts that are owed to other companies.  See Consumer Financial Protection Bur., Fair Debt Collection Practices Act: Annual Report 2016, p. 8 (CFPB Report).  Debt collection is a lucrative and growing industry.  Last year, the Nation’s 6,000 debt collection agencies earned over $13 billion in revenue.  Ibid.
+
+															Although many debt collectors are hired by creditors to work on a third-party basis, more and more collectors also operate as “debt buyers”—purchasing debts from creditors outright and attempting to collect what they can, with the profits going to their own accounts.[2]  See FTC, The Structure and Practices of the Debt Buying Industry 11–12 (2013) (FTC Report); CFPB Report 10.  Debt buyers now hold hundreds of billions of dollars in consumer debt; indeed, a study conducted by the Federal Trade Commission (FTC) in 2009 found that nine of the leading debt buyers had purchased over $140 billion in debt just in the previous three years.  FTC Report, at i–ii, T–3 (Table 3).
+
+															Because creditors themselves have given up trying to collect the debts they sell to debt buyers, they sell those debts for pennies on the dollar.  Id., at 23.  The older the debt, the greater the discount: While debt buyers pay close to eight cents per dollar for debts under three years old, they pay as little as two cents per dollar for debts greater than six years old, and “effectively nothing” for debts greater than 15 years old.  Id., at 23–24.  These prices reflect the basic fact that older debts are harder to collect.  As time passes, consumers move or forget that they owe the debts; creditors have more trouble documenting the debts and proving their validity; and debts begin to fall within state statutes of limitations—time limits that “operate to bar a plaintiff’s suit” once passed.  CTS Corp. v. Waldburger, 573 U. S. ___, ___ (2014) (slip op., at 5).  Because a creditor (or a debt collector) cannot enforce a time-barred debt in court, the debt is inherently worth very little indeed.
+
+															But statutes of limitations have not deterred debt buyers.  For years, they have filed suit in state courts—often in small-claims courts, where formal rules of evidence do not apply—to collect even debts too old to be enforced by those courts.[3]  See Holland, The One Hundred Billion Dollar Problem in Small-Claims Court, 6 J. Bus. & Tech. L. 259, 261 (2011).  Importantly, the debt buyers’ only hope in these cases is that consumers will fail either to invoke the statute of limitations or to respond at all: In most States the statute of limitations is an affirmative defense, meaning that a consumer must appear in court and raise it in order to dismiss the suit.  See ante, at 4–5 (majority opinion).  But consumers do fail to defend themselves in court—in fact, according to the FTC, over 90% fail to appear at all.  FTC Report 45.  The result is that debt buyers have won “billions of dollars in default judgments” simply by filing suit and betting that consumers will lack the resources to respond.  Holland, supra, at 263.
+
+															The FDCPA’s prohibitions on “misleading” and “unfair” conduct have largely beaten back this particular practice.  Every court to have considered the question has held that a debt collector that knowingly files suit in court to collect a time-barred debt violates the FDCPA.  See Phillips v. Asset Acceptance, LLC, 736 F. 3d 1076, 1079 (CA7 2013); Kimber v. Federal Financial Corp., 668 F. Supp. 1480, 1487 (MD Ala. 1987); see also ante, at 5–6 (majority opinion) (citing other cases).  In 2015, petitioner and its parent company entered into a consent decree with the Government prohibiting them from filing suit to collect time-barred debts and ordering them to pay $34 million in restitution.  See Consent Order in In re Encore Capital Group, Inc., No. 2015–CFPB–0022 (Sept. 9, 2015), pp. 38, 46.  And the leading trade association has now adopted a resolution barring the practice.  See Brief for DBA International, Inc., as Amicus Curiae 2–3.
+
+															Stymied in state courts, the debt buyers have now turned to a new forum: bankruptcy courts.  The same debt buyers that for years filed thousands of lawsuits in state courts across the country have begun to do the same thing in bankruptcy courts—specifically, in cases governed by Chapter 13 of the Bankruptcy Code, which allows consumers earning regular incomes to restructure their debts and repay as many as they can over a period of several years.  See 8 Collier on Bankruptcy ¶1300.01 (A. Resnick & H. Sommer eds., 16th ed. 2016).  As in ordinary civil cases, a debtor in a Chapter 13 bankruptcy proceeding is entitled to have dismissed any claim filed against his estate that is barred by a statute of limitations.  See
+
+11 U. S. C. §558.  As in ordinary civil cases, the statute of limitations is an affirmative defense, one that must be raised by either the debtor or the trustee of his estate before it is honored.  §§502, 558.  And so—just as in ordinary civil cases—debt collectors may file claims in bankruptcy proceedings for stale debts and hope that no one notices that they are too old to be enforced.
+
+															And that is exactly what the debt buyers have done.  As a wide variety of courts and commentators have observed, debt buyers have “deluge[d]” the bankruptcy courts with claims “on debts deemed unenforceable under state statutes of limitations.”  Crawford v. LVNV Funding, LLC, 758 F. 3d 1254, 1256 (CA11 2014); see also In re Jenkins, 456 B. R. 236, 239, n. 2 (Bkrtcy. Ct. EDNC 2011) (noting a “plague of stale claims”); Brief for National Association of Consumer Bankruptcy Attorneys et al. as Amici Curiae 9 (noting study describing “hundreds of thousands of proofs of claim asserting hundreds of millions of dollars of consumer indebtedness, all in a single year”).  This practice has become so widespread that the Government sued one debt buyer last year “to address [its] systemic abuse of the bankruptcy process”—including a “business model” of “knowingly and strategically” filing thousands of claims for time-barred debt.  Complaint in In re Freeman-Clay v. Resurgent Capital Servs., L. P., No. 14–41871 (Bkrtcy. Ct. WD Mo.), ¶¶1, 35 (Resurgent Complaint).  This practice, the Government explained, “manipulates the bankruptcy process by systematically shifting the burden” to trustees and debtors to object even to “frivolous claims”—especially given that filing an objection is costly, time consuming, and easy to overlook.  Id., at ¶¶35, 43–44.
+
+															II
+
+															The FDCPA prohibits professional debt collectors from engaging in “unfair” and “unconscionable” practices.
+
+15 U. S. C. §1692f.[4]  Filing a claim in bankruptcy court for debt that a collector knows to be time barred—like filing a lawsuit in a court to collect such a debt—is just such a practice.
+
+															A
+
+															Begin where the debt collectors themselves began: with their practice of filing suit in ordinary civil courts to collect debts that they know are time barred.  Every court to have considered this practice holds that it violates the FDCPA. There is no sound reason to depart from this conclusion.
+
+															Statutes of limitations “are not simply technicalities.”  Board of Regents of Univ. of State of N. Y. v. Tomanio,
+
+446 U. S. 478,
+487 (1980)
+.  They reflect strong public-policy determinations that “it is unjust to fail to put [an] adversary on notice to defend within a specified period of time.”  United States v. Kubrick,
+
+444 U. S. 111,
+117 (1979)
+.  And they “promote justice by preventing surprises through the revival of claims that have been allowed to slumber until evidence has been lost, memories have faded, and witnesses have disappeared.”  Railroad Telegraphers v. Railway Express Agency, Inc.,
+
+321 U. S. 342
+–349 (1944).  Such concerns carry particular weight in the context of small-dollar consumer debt collection.  As one thoughtful opinion explains:
+
+															“Because few unsophisticated consumers would be aware that a statute of limitations could be used to defend against lawsuits based on stale debts, such consumers would unwittingly acquiesce to such lawsuits.  And, even if the consumer realizes that she can use time as a defense, she will more than likely still give in rather than fight the lawsuit because she must still expend energy and resources and subject herself to the embarrassment of going into court to present the defense . . . .”  Kimber, 668 F. Supp., at 1487.
+
+															Debt buyers’ efforts to pursue stale debt in ordinary civil litigation may also entrap debtors into forfeiting their time defenses altogether.  When a debt collector sues or threatens to sue to collect a debt, many consumers respond by offering a small partial payment to forestall suit.  In many States, a consumer who makes an offer like this has—unbeknownst to him—forever given up his ability to claim the debt is unenforceable.  That is because in most States a consumer’s partial payment on a time-barred debt—or his promise to resume payments on such a debt—will restart the statute of limitations.  FTC Report 47; see, e.g., Young v. Sorenson, 47 Cal. App. 3d 911, 914, 121 Cal. Rptr. 236, 237 (1975) (“ ‘The theory on which this is based is that the payment is an acknowledgement on the existence of the indebtedness which raises an implied promise to continue the obligation and to pay the balance’ ”).  Debt collectors’ efforts to entrap consumers in this way have no place in honest business practice.
+
+															B
+
+															The same dynamics are present in bankruptcy proceedings.  A proof of claim filed in bankruptcy court represents the debt collector’s belief that it is entitled to payment, even though the debt should not be enforced as a matter of public policy.  The debtor’s claim will be allowed, and will be incorporated in a debtor’s payment plan, unless the debtor or his trustee objects.  But such objections require ordinary and unsophisticated people (and their overworked trustees) to be on guard not only against mistaken claims but also against claims that debt collectors know will fail under law if an objection is raised.  Debt collectors do not file these claims in good faith; they file them hoping and expecting that the bankruptcy system will fail.  Such a practice is “unfair” and “unconscionable” in violation of the FDCPA.
+
+															The Court disagrees.  But it does so on narrow grounds.  To begin with, the Court does not hold that the Bankruptcy Code altogether displaces the FDCPA, leaving it withno role to play in bankruptcy proceedings.  Such a conclusion would be wrong.  Although the Code and the FDCPA “have different purposes and structural features,” ante, at 8, the Court has held that Congress, in passing the FDCPA’s predecessor, did so on the understanding that “the provisions and the purposes” of the two statutes were intended to “coexist.”  Kokoszka v. Belford,
+
+417 U. S. 642,
+650 (1974)
+.  Although petitioner suggests that the FDCPA is best read “to have no application to [a] debt collector’s conduct” in a bankruptcy proceeding, Brief for Petitioner 41, the majority declines its invitation to adopt such a sweeping rule.[5]
+
+															Nor does the majority take a position on whether a debt collector violates the FDCPA by filing suit in an ordinary court to collect a debt it knows is time barred.  Ante, at 6.  Instead, the majority concludes, even assuming that such a practice would violate the FDCPA, a debt collector does not violate the Act by doing the same thing in bankruptcy proceedings.  Bankruptcy, the majority argues, is different.  True enough.  But none of the distinctions that the majority identifies bears the weight placed on it.
+
+															First, the majority contends, structural features of the bankruptcy process reduce the risk that a stale debt will go unnoticed and thus be allowed.  Ante, at 6–7.  But there is virtually no evidence that the majority’s theory holds true in practice.  The majority relies heavily on the presence of a bankruptcy trustee, appointed to act on the debtor’s behalf and empowered to (among other things) object to claims that he believes lack merit.  See 11 U. S. C. §§704(a)(5), 1302(b).  In the majority’s view, the trustee’s gatekeeping role makes it “considerably more likely that an effort to collect upon a stale claim in bankruptcy will be met with resistance, objection, and disallowance.”  Ante, at 7.  The problem with the majority’s ipse dixit is that everyone with actual experience in the matter insists that it is false.  The Government, which oversees bankruptcy trustees, tells us that trustees “cannot realistically be expected to identify every time-barred . . . claim filed in every bankruptcy.”  Brief for United States as Amicus Curiae 25–26; see also Resurgent Complaint ¶43 (“Filing objections to all of [one collector]’s unenforceable claims would clog the docket of this Court and other courts with objections to frivolous claims”).  The trustees themselves (appearing here as amici curiae) agree, describing the practice as “wasteful” and “exploit[ative].”  Brief for National Association of Chapter Thirteen Trustees as Amicus Curiae 12.  And courts across the country recognize that Chapter 13 trustees are struggling under a “deluge” of stale debt.  Crawford, 758 F. 3d, at 1256.
+
+															Second, the other features of the bankruptcy process that the majority believes will serve as a backstop against frivolous claims are even less likely to do so in practice.  The majority implies that a person who files for bankruptcy is more sophisticated than the average consumer debtor because the initiation of bankruptcy is a choice made by a debtor.  Ante, at 6.  But a person who has filed for bankruptcy will rarely be in such a superior position; he has, after all, just declared that he is unable to meet his financial obligations and in need of the assistance of the courts.  It is odd to speculate that such a person is better situated to monitor court filings and lodge objections than an ordinary consumer.  The majority also suggests that the rules of bankruptcy help “guide the evaluation of claims.”  Ibid.  But the rules of bankruptcy in fact facilitate the allowance of claims: Claims are automatically allowed and made part of a plan unless an objection is made.  See
+
+11 U. S. C. §502(a).  A debtor is arguably more vulnerable in bankruptcy—not less—to the oversights that the debt buyers know will occur.
+
+															Finally, the majority suggests, in some cases a consumer will actually benefit if a claim for an untimely debt is filed.  Ante, at 7–8.  If such a claim is filed but disallowed, the majority explains, the debt will eventually be discharged, and the creditor will be barred from collecting it.  See §1328(a).  Here, too, practice refutes the majority’s rosy portrait of these proceedings.  A debtor whose trustee does not spot and object to a stale debt will find no comfort  in the knowledge that other consumers with more attentive trustees may have their debts disallowed and discharged.  Moreover, given the high rate at which debtors are unable to fully pay off their debts in Chapter 13 proceedings, see Porter, The Pretend Solution: An Empirical Study of Bankruptcy Outcomes, 90 Texas L. Rev. 103, 111–112 (2011), most debtors who fail to object to a stale claim will end up worse off than had they never entered bankruptcy at all: They will make payments on the stale debts, thereby resuscitating them, see supra, at 6–7, and may thuswalk out of bankruptcy court owing more to their creditors than they did when they entered it.  There is no benefit to anyone in such a proceeding—except the debt collectors.
+
+															*  *  *
+
+															It does not take a sophisticated attorney to understand why the practice I have described in this opinion is unfair.  It takes only the common sense to conclude that one should not be able to profit on the inadvertent inattention of others.  It is said that the law should not be a trap for the unwary.  Today’s decision sets just such a trap.
+
+															I take comfort only in the knowledge that the Court’s decision today need not be the last word on the matter.  If Congress wants to amend the FDCPA to make explicit what in my view is already implicit in the law, it need only say so.  
+
+															I respectfully dissent.Notes
+
+1
+
+
+		 Because I believe the practice at issue here is “unfair” and “unconscionable,” and thus violates
+
+15 U. S. C. §1692f, I do not address the Court’s conclusion that the practice is not “false, deceptive, or misleading” in violation of §1692e.
+	
+
+
+2
+
+
+		 A case pending before this Court, Henson v. Santander Consumer USA Inc., No. 16–349, asks whether a certain kind of debt buyer is a “debt collector” under the FDCPA.  Midland does not dispute that it is a debt collector under the Act.
+	
+
+
+3
+
+
+		 Petitioner’s parent alone filed 245,000 lawsuits in 2009.  See Silver-Greenberg, Boom in Debt Buying Fuels Another Boom—in Lawsuits, Wall Street Journal, Nov. 29, 2010, pp. A1, A16.  Petitioner itself filed 110 lawsuits on just one date in a single state court.  Id., at A1.
+	
+
+
+4
+
+
+		 This Court has not had occasion to construe the terms “unfair” and “unconscionable” in §1692f.  The FDCPA’s legislative history suggests that Congress intended these terms as a backstop that would enable “courts, where appropriate, to proscribe other improper conduct . . . not specifically addressed” by the statute.  S. Rep. No. 95–382, p. 4 (1977).  Courts have construed these terms, consistent with other federal and state statutes that employ them, to borrow from equitable and common-law traditions.  See, e.g., LeBlanc v. Unifund CCR Partners, 601 F. 3d 1185, 1200–1201 (CA11 2010) (per curiam); Beler v. Blatt, Hasenmiller, Leibsker & Moore, LLC, 480 F. 3d 470, 473–474 (CA7 2007).
+	
+
+
+5
+
+
+		 The majority does lean heavily on its fear that, were we to conclude that the FDCPA bars the practice at issue, we would be licensing “postbankruptcy litigation in an ordinary civil court” concerning matters best left to bankruptcy courts.  Ante, at 9.  But to do so would not, as the majority suggests, “upset [the] ‘delicate balance’ ” struck by the Code.  Ibid. (quoting Kokoszka v. Belford, 417 U. S., at 651).  For one, nothing requires a debtor to engage in satellite litigation in order to sue a debt collector under the FDCPA; a debtor can easily file an adversary proceeding asserting an FDCPA claim with the bankruptcy court itself, and in many cases will be better served by doing so.  See, e.g., Simon v. FIA Card Servs., N. A., 732 F. 3d 259, 263 (CA3 2013).  Nor is there any risk that finding the FDCPA applicable here will authorize bankruptcy courts (or, for that matter, civil courts) to engage in novel and unfettered inquiries into “a creditor’s state of mind.”  Ante, at 9.  Both Fed. Rule Civ. Proc. 11 and its bankruptcy counterpart, Fed. Rule Bkrtcy. Proc. 9011, authorize a court to impose sanctions on parties who willfully file meritless claims (a category that includes the debt buyers here, see In re Sekema, 523 B. R. 651, 654–655 (Bkrtcy. Ct. ND Ind. 2015)).  So there is nothing new about the inquiry that courts would be required to undertake; it is no different than analyses they conduct every day.
+	
+
+

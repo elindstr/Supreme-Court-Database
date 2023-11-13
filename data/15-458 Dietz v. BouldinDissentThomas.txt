@@ -1,0 +1,54 @@
+::SCDB_caseID:: 2015-076
+::decision_cite:: 15-458
+::decision_name::  Dietz v. Bouldin
+::decision_year:: 2016
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–458
+
+															_________________
+
+															ROCKY DIETZ, PETITIONER v. HILLARY BOULDIN
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 9, 2016]
+
+															
+
+															Justice Thomas, with whom Justice Kennedy joins, dissenting.
+
+															Justice Holmes famously quipped, “It is revolting to have no better reason for a rule of law than that so it was laid down in the time of Henry IV.”  The Path of the Law, 10 Harv. L. Rev. 457, 469 (1897).  But old rules often stand the test of time because wisdom underlies them.  The common-law rule prohibiting a judge from recalling the jury after it is discharged is one such rule.  Even though contemporary jurors are not formally sequestered as they were at common law, they are still subject to significant restrictions designed to prevent undue influence.  And in today’s world of cellphones, wireless Internet, and 24/7 news coverage, the rationale that undergirds the bright-line rule supplied by the common law is even more relevant: Jurors may easily come across prejudicial information when, after trial, the court lifts their restrictions on outside information.  I would therefore hew to that rule rather than adopt the majority’s malleable multifactor test for prejudice.  I respectfully dissent.
+
+															At common law, once the judge discharged the jury and the jury could interact with the public, the judge could not recall the jury to amend the verdict.  See Sargent v. State, 11 Ohio 472, 473 (1842); Mills v. Commonwealth, 34 Va. 751, 752 (1836); Little v. Larrabee, 2 Me. 37, 40 (1822).  It was not “ ‘the mere announcement’ ” that the jury was discharged, but rather the chance to “ ‘mingl[e] with the bystanders’ ” that triggered the prohibition against recalling them.  Summers v. United States, 11 F. 2d 583, 586 (CA4 1926) (quoting A. Abbott, A Brief for the Trial of Criminal Cases 730 (2d ed. 1902)).  At that point, the court could not fix a substantive error made by the jury, including “returning a verdict against the wrong party; or, if not so, for a larger or smaller sum than they intended.”  Little, supra, at 39; see also Jackson v. Williamson, 2 T. R. 281, 281–282, 100 Eng. Rep. 153 (K. B. 1788) (refusing to allow an amendment to the verdict after the jury was discharged even though all jurors signed an affidavit explaining that they intended to award more in damages).[1]
+
+															The theory underpinning this rule was simple: Jurors, as the judges of fact, must avoid the possibility of prejudice.  They have long been prohibited from having ex parte communications with the parties during a trial or receiving evidence in private.  3 W. Blackstone, Commentaries *375–*376.  But once the jury is discharged, the jurors “become accessible to the parties and subject to their influence.”  Little, supra, at 39.  In drawing the line at the opportunity to mingle, the common-law rule was prophylactic.  But that is a desirable feature when public confidence in the judicial system is at stake.
+
+															It is true, as the Court explains, that jurors are no longer sequestered from the public.  Ante, at 11.  But remnants of sequestration remain.  Jurors are prohibited from ex parte contact with the parties and the judge.  They are not allowed to gather outside information about the case.  And, courthouses have private rooms for jurors, to shield them from ex parte information during recesses and deliberations.
+
+															Even without full sequestration, the common-law rule remains sensible and administrable.  After discharge, the court has no power to impose restrictions on jurors, and jurors are no longer under oath to obey them.  Jurors may access their cellphones and get public information about the case.  They may talk to counsel or the parties.  They may overhear comments in the hallway as they leave the courtroom.  And they may reflect on the case—away from the pressure of the jury room—in a way that could induce them to change their minds.  The resulting prejudice can be hard to detect.  And a litigant who suddenly finds himself on the losing end of a materially different verdict may be left to wonder what may have happened in the interval between the jury’s discharge and its new verdict.  Granting a new trial may be inconvenient, but at least litigants and the public will be more confident that the verdict was not contaminated by improper influence after the trial has ended.  And under this bright-line rule, district courts would take greater care in discharging the jury.
+
+															In contrast, the only thing that is clear about the majority’s multifactor test is that it will produce more litigation.  This multifactor test may aid in identifying relevant facts for analysis, but—like most multifactor tests—it leaves courts adrift once those facts have been identified.  The majority instructs district judges to look at “the length of delay between discharge and recall,” “whether the jurors have spoken to anyone about the case after discharge,” “the reaction to the verdict,” and whether jurors have had access to their cellphones or the Internet.  Ante, at 9–10.  But in collecting these factors, the majority offers little guidance on how courts should apply them.  Is one hour too long?  How about two hours or two days?  Does a single Internet search by a juror preclude recalling the entire jury?  How many factors must be present to shift the balance against recalling the jury?  All the majority says is that any factor “standing alone could be dispositive in a particular case.”  Ante, at 8–9 (emphasis added).
+
+															The majority’s factors thus raise more questions than they answer.  Parties will expend enormous effort litigating and appealing these questions.  And when the Courts of Appeals inevitably fail to agree on what constitutes prejudice, we will be called on again to sort it out.  As the Court of King’s Bench recognized over two centuries ago, “it was better that the present plaintiff should suffer an inconvenience” than to head down this murky path.  Jackson, supra, at 282, 100 Eng. Rep., at 153.
+
+															All rules have their drawbacks.  The common-law rule, on occasion, may unnecessarily force a district court to redo a trial for a minor substantive mistake in the verdict.  But the majority’s multifactor test will only create more confusion.  It would be much simpler to instruct the district courts, when they find a mistake in the verdict after the jury is dismissed, to hold a new trial.
+
+															The jurors here had the chance to mingle with the outside world after the District Court’s discharge order released them from their oaths.  After the announcement of discharge, the jurors entered public spaces in which interaction with nonjurors was possible.  At that point, the jurors no longer were within the court’s control and, therefore, were in fact discharged.  Although the record does not indicate one way or the other, it is also possible that the jurors had access to cellphones or other wireless devices in circumstances where they understood themselves to have been released from any directions or limitations the judge had imposed on the use of those devices during trial.
+
+															Because the District Court reconvened the jury after discharge to deliberate anew, I would reverse the Court of Appeals’ judgment affirming the verdict and remand for a new trial.  I respectfully dissent.Notes
+
+1
+
+
+		 Although courts could not fix substantive errors by recalling the jury, they could correct clerical errors in the reporting of the verdict.  See Little v. Larrabee, 2 Me. 37, 38 (1822).
+	
+
+

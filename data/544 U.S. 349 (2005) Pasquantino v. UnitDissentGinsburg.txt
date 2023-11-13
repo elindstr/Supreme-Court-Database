@@ -1,0 +1,138 @@
+::SCDB_caseID:: 2004-041
+::decision_cite:: 544 U.S. 349 (2005)
+::decision_name::  Pasquantino v. United States
+::decision_year:: 2005
+::opinion_author:: Ginsburg
+::opinion_type:: Dissent
+::opinion:: 
+
+
+GINSBURG, J., DISSENTING
+PASQUANTINO V. UNITED STATES
+544 U. S. ____ (2005)
+SUPREME COURT OF THE UNITED STATES
+NO. 03-725
+
+
+
+
+
+															DAVID B. PASQUANTINO, CARL J. PASQUANTINO,
+and ARTHUR HILTS, PETITIONERS v. UNITED 
+STATES
+
+															on writ of certiorari to the united states court of
+appeals for the fourth circuit
+
+															[April 26, 2005]
+
+
+
+															   Justice Ginsburg, with whom Justice Breyer joins, and Justice Scalia and Justice Souter join as to Parts II and III, dissenting.
+
+															
+   This case concerns extension of the “wire fraud” statute, 18 U. S. C. §1343 (2000 ed., Supp. II), to a scenario extraterritorial in significant part: The Government invoked the statute to reach a scheme to smuggle liquor from the United States into Canada and thereby deprive Canada of revenues due under that nation’s customs and tax laws.  Silent on its application to activity culminating beyond our borders, the statute prohibits “any scheme” to defraud that employs in its execution communication through interstate or international wires.  A relevant background norm, known as the common-law revenue rule, bars suit in one country to enforce another country’s tax laws.
+
+															
+
+   The scheme at issue involves liquor purchased from discount sellers in Maryland, trucked to New York, then smuggled into Canada to evade Canada’s hefty tax on imported alcohol.[Footnote 1]  Defendants below, petitioners here, were indicted under §1343 for devising a scheme “to defraud the governments of Canada and the Province of Ontario of excise duties and tax revenues relating to the importation and sale of liquor.”  App. to Pet. for Cert. 58a.  Each of the six counts in question was based on telephone calls between New York and Maryland.  Id., at 60a–64a.
+
+															
+
+   The Court today reads the wire fraud statute to draw into our courts, at the prosecutor’s option, charges that another nation’s revenue laws have been evaded.  The common-law revenue rule does not stand in the way, the Court instructs, for that rule has no application to criminal prosecutions under the wire fraud statute.
+
+															
+
+   As I see it, and as petitioners urged, Reply Brief 17–19, the Court has ascribed an exorbitant scope to the wire fraud statute, in disregard of our repeated recognition that “Congress legislates against the backdrop of the presumption against extraterritoriality.”  See EEOC v. Arabian American Oil Co., 499 U. S. 244, 248 (1991) (ARAMCO); Small v. United States, post, at 3 (The Court has “adopt[ed] the legal presumption that Congress ordinarily intends its statutes to have domestic, not extraterritorial, application.”); Reply Brief 17, n. 23 (“This prosecution clearly gives the wire fraud statute extraterritorial effect in that ‘[t]he actions in [Canada] are … most naturally understood as the kernel of’ Petitioners’ alleged fraud.” (quoting Sosa v. Alvarez-Machain, 542 U. S. ___, ___ (2004) (slip op., at 5)).[Footnote 2]  Notably, when Congress explicitly addressed international smuggling, see 18 U. S. C. §546, it provided for criminal enforcement of the customs laws of a foreign nation only when that nation has a reciprocal law criminalizing smuggling into the United States.  Currently, Canada has no such reciprocal law.
+
+															
+
+   Of overriding importance in this regard, tax collection internationally is an area in which treaties hold sway.  See Attorney General of Canada v. R. J. Reynolds Tobacco Holdings, Inc., 268 F. 3d 103, 115–119 (CA2 2001) (referencing tax treaties to which the United States is a party).  There is a treaty between the United States and Canada regarding the collection of taxes, but that accord requires certification by the taxing nation that the taxes owed have been “finally determined.”  See Protocol Amending Convention with Respect to Taxes on Income and on Capital, September 26, 1980, S. Treaty Doc. No. 104–4, 2030 U. N. T. S. 236, Art. 15, ¶2 (entered into force Nov. 9, 1995) (hereinafter Protocol).  Moreover, the treaty is inapplicable to persons, like petitioners in this case, who are United States citizens at the time that the tax liability is incurred.  Art. 15, ¶8.
+
+															
+
+   Today’s novel decision is all the more troubling for its failure to take account of Canada’s primary interest in the matter at stake.  United States citizens who have committed criminal violations of Canadian tax law can be extradited to stand trial in Canada.[Footnote 3]  Canadian courts are best positioned to decide “whether, and to what extent, the defendants have defrauded the governments of Canada and Ontario out of tax revenues owed pursuant to their own, sovereign, excise laws.”  336 F. 3d 321, 343 (CA4 2003) (en banc) (Gregory, J., dissenting).
+
+															I
+
+															
+   The Government’s prosecution of David Pasquantino, Carl Pasquantino, and Arthur Hilts for wire fraud was grounded in Canadian customs and tax laws.  The wire fraud statute, 18 U. S. C. §1343, required the Government to allege and prove that the defendants engaged in a scheme to defraud a victim—here, the Canadian Government—of money or property.  See ante, at 5 (describing Canada as the “victim” of a scheme having “as its object the deprivation of Canada’s ‘property’ ”).  To establish the fraudulent nature of the defendants’ scheme and the Canadian Government’s entitlement to the money withheld by the defendants, the United States offered proof at trial that Canada imposes import duties on liquor, and that the defendants intended to evade those duties.  See App. to Pet. for Cert. 58a; App. 65–74.  The defendants’ convictions for wire fraud therefore resulted from, and could not have been obtained without proof of, their intent to violate Canadian revenue laws.  See United States v. Pierce, 224 F. 3d 158, 166–168 (CA2 2000) (“If no Canadian duty or tax actually existed, the [defendants] were no more guilty of wire fraud than they would have been had they used the wires” to smuggle liquor into New York City, “in the sincere but mistaken belief that New York City imposes a duty on such … shipments.”).
+
+															   The United States Government’s reliance on Canadian customs and tax laws continued at sentencing.  The United States Sentencing Guidelines mandated that the defendants be sentenced on the basis of, among other things, the amount by which the defendants defrauded the Canadian Government.  See United States Sentencing Commission, Guidelines Manual §2F1.1(b)(1) (Nov. 2000).  Accordingly, the District Court calculated the number of cases of liquor smuggled into Canada and the aggregate amount of import duties evaded by the defendants.  The court concluded that the Pasquantinos avoided over $2.5 million in Canadian duties, and Hilts, over $1.1 million.  See App. 97–101, 104–105.[Footnote 4]  The resulting offense-level increases yielded significantly longer sentences for the defendants.[Footnote 5]  As Judge Gregory stated in dissent below, the fact that “the bulk of the defendants’ sentences were related, not to the American crime of wire fraud, but to the Canadian crime of tax evasion,” shows that “this case was primarily about enforcing Canadian law.”  336 F. 3d, at 342–343.
+
+															
+
+   Expansively interpreting the text of the wire fraud statute, which prohibits “any scheme or artifice to defraud, or for obtaining money or property by means of … fraudulent pretenses,” the Court today upholds the Government’s deployment of §1343 essentially to enforce foreign tax law.  This Court has several times observed that the wire fraud statute has a long arm, extending to “everything designed to defraud by representations as to the past or present, or suggestions and promises as to the future.”  Durland v. United States, 161 U. S. 306, 313 (1896).  But the Court has also recognized that incautious reading of the statute could dramatically expand the reach of federal criminal law, and we have refused to apply the proscription exorbitantly.  See McNally v. United States, 483 U. S. 350, 360 (1987) (refusing to construe 18 U. S. C. §1341, the mail fraud statute, to reach corruption in local government, stating: “[W]e read §1341 as limited in scope to the protection of property rights.  If Congress desires to go further, it must speak more clearly than it has.”); see also Cleveland v. United States, 531 U. S. 12, 24–25 (2000) (holding that §1341 does not reach schemes to make false statements on a state license application, in part based on reluctance to “approve a sweeping expansion of federal criminal jurisdiction in the absence of a clear statement by Congress”).[Footnote 6]
+
+															
+
+   Construing §1343 to encompass violations of foreign revenue laws, the Court ignores the absence of anything signaling Congress’ intent to give the statute such an extraordinary extraterritorial effect.[Footnote 7]  “It is a longstanding principle of American law,” ARAMCO, 499 U. S., at 248, that Congress, in most of its legislative endeavors, “is primarily concerned with domestic conditions,” ibid. (quoting Foley Bros., Inc. v. Filardo, 336 U. S. 281, 285 (1949)).  See also Small, post, at 3 (interpreting the phrase “convicted in any court,” 18 U. S. C. §922(g)(1), in light of the “commonsense notion” that Congress ordinarily intends statutes to have only domestic application (quoting Smith v. United States, 507 U. S. 197, 204, n. 5 (1993))).   Absent a clear statement of “the affirmative intention of the Congress,” Benz v. Compania Naviera Hidalgo, S. A., 353 U. S. 138, 147 (1957), this Court ordinarily does not read statutes to reach conduct that is “the primary concern of a foreign country,” Foley Bros., 336 U. S., at 286; cf. F. Hoffmann-La Roche Ltd v. Empagran S. A., 542 U. S. ___, ___ (2004) (slip op., at 8) (referring to presumption that “legislators take account of the legitimate sovereign interests of other nations when they write American laws”).
+
+															
+
+   Section 1343, which contains no reference to foreign law as an element of the domestic crime of wire fraud, contrasts with federal criminal statutes that chart the courts’ course in this regard.  See, e.g., 18 U. S. C. §1956(c)(1) (defendant must know that transaction involved the proceeds of activity “that constitutes a felony under State, Federal, or foreign law”); 16 U. S. C. §3372(a)(2)(A) (banning importation of wildlife that has been “taken, possessed, transported, or sold in violation of any … foreign law”).  These statutes indicate that Congress, which has the sole authority to determine the extraterritorial reach of domestic laws, is fully capable of conveying its policy choice to the Executive and the courts.  I would not assume from legislative silence that Congress left the matter to Executive discretion.[Footnote 8]
+
+															
+
+   The presumption against extraterritoriality, which guides courts in the absence of congressional direction, provides ample cause to conclude that §1343 does not extend to the instant scheme.  Moreover, as to foreign customs and tax laws, there is scant room for doubt about Congress’ general perspective: Congress has actively indicated, through both domestic legislation and treaties, that it intends “strictly [to] limit the parameters of any assistance given” to foreign nations.  Attorney General of Canada v. R. J. Reynolds Tobacco Holdings, Inc., 268 F. 3d, at 119; see also United States v. Boots, 80 F. 3d 580, 588 (CA1 1996) (“National [foreign] policy judgments … could be undermined if federal courts were to give general effect to wire fraud prosecutions for … violating the revenue laws of any country.”).
+
+															
+
+   First, Congress has enacted a specific statute criminalizing offenses of the genre committed by the defendants here: 18 U. S. C. §546 prohibits transporting goods “into the territory of any foreign government in violation of the laws there in force.”  Section 546’s application, however, is expressly conditioned on the foreign government’s enactment of reciprocal legislation prohibiting smuggling into the United States.  See ibid. (prohibition applies “if under the laws of such foreign government any penalty or forfeiture is provided for violation of the laws of the United States respecting the customs revenue”).  The reciprocity limitation reflects a legislative determination that this country should not provide other nations with greater enforcement assistance than they give to the United States.  The limitation also cabins the Government’s discretion as to which nation’s customs laws to enforce, thereby avoiding the appearance of prosecutorial overreaching.  See 305 F. 3d 291, 297, n. 9 (CA4 2002) (Gregory, J.) (“Where do we draw the line as to which countries’ laws we will help enforce?”), vacated and reh’g en banc granted (2003).   Significantly, Canada has no statute criminalizing smuggling into the United States, rendering §546 inapplicable to schemes resembling the one at issue here.[Footnote 9]
+
+															
+
+   Second, the United States and Canada have negotiated, and the Senate has ratified, a comprehensive tax treaty, in which both nations have committed to providing collection assistance with respect to each other’s tax claims.  See Protocol, Art. 15, ¶2.  Significantly, the Protocol does not call upon either nation to interpret or calculate liability under the other’s tax statutes; it applies only to tax claims that have been fully and finally adjudicated under the law of the requesting nation.  Further, the Protocol bars assistance in collecting any claim against a citizen or corporation of “the requested State.”  Art. 15, ¶8.  These provisions would preclude Canada from obtaining United States assistance in enforcing its claims against the Pasquantinos and Hilts.  I would not assume that Congress understood §1343 to provide the assistance that the United States, in the considered foreign policy judgment of both political branches, has specifically declined to promise.
+
+															II
+
+															
+   Complementing the principle that courts ordinarily should await congressional instruction before giving our laws extraterritorial thrust, the common-law revenue rule holds that one nation generally does not enforce another’s tax laws.  See Banco Nacional de Cuba v. Sabbatino, 376 U. S. 398, 448 (1964) (White, J., dissenting) (noting that “our courts customarily refuse to enforce the revenue and penal laws of a foreign state”); cf. Milwaukee County v. M. E. White Co., 296 U. S. 268, 275–276 (1935).  The Government argues, and the Court accepts, that domestic wire fraud prosecutions premised on violations of foreign tax law do not implicate the revenue rule because the court, while it must “recognize foreign [revenue] law to determine whether the defendant violated U. S. law,” ante, at 18, need only “enforce” foreign law “in an attenuated sense.”  See ante, at 16; Brief for United States 17–19.  As discussed above, however, the defendants’ conduct arguably fell within the scope of §1343 only because of their purpose to evade Canadian customs and tax laws; shorn of that purpose, no other aspect of their conduct was criminal in this country.  See supra, at 4–6; Boots, 80 F. 3d, at 587 (“[U]pholding defendants’ section 1343 conviction would amount … to penal enforcement of Canadian customs and tax laws.”).  It seems to me unavoidably obvious, therefore, that this prosecution directly implicates the revenue rule.  It is equally plain that Congress did not endeavor, by enacting §1343, to displace that rule.
+
+															   The application of the Mandatory Victims Restitution Act of 1996, 18 U. S. C. §3663A, to wire fraud offenses is corroborative.  Section 3663A applies to all “offense[s] against property,” §3663A(c)(1)(A)(ii), and directs that “[n]otwithstanding any other provision of law … the court shall order … that the defendant make restitution to the victim of the offense,” §3663A(a)(1) (emphasis added).  The Government acknowledges, however, that it “did not urge the district court to order restitution in this case on the theory that it was not ‘appropriate … since the victim is a foreign government and the loss derives from tax laws of the foreign government.’ ”  Brief for United States 19–20 (quoting Letter from United States Attorney S. Schenning to United States District Chief Judge J. Motz, Feb. 16, 2001, App. 106).  The Government now disavows this concession.  See Tr. of Oral Arg. 36 (While “the prosecutor did concede below that restitution was not appropriately ordered,” it is in fact “[t]he position of the United States … that restitution under the mandatory statute should be ordered and it does not infringe the revenue rule.”).  Nevertheless, the very fact that the Government effectively invited the District Court to overlook the mandatory restitution statute out of concern for the revenue rule is revealing.  It further demonstrates that the Government’s expansive reading of §1343 warrants this Court’s disapprobation.
+
+															
+
+   Any tension between §3663A and the wire fraud statute, the Government suggests and the Court accepts, would be relieved if this Court construed §3663A to exclude restitution that might encounter a revenue rule shoal.  See ante, at 14; Brief for United States 21.  Congress, however, has expressed with notable clarity a policy of mandatory restitution in all wire fraud prosecutions.  In contrast, Congress was “quite ambiguous” concerning §1343’s coverage of schemes to evade foreign taxes.  Tr. of Oral Arg. 38.  The Mandatory Victims Restitution Act, in my view, is an additional indicator that “Congress … [did not] envision foreign taxes to be the object of [a] scheme to defraud,” id., at 35–36, and I would construe §1343 accordingly.
+
+															III
+
+															
+   Finally, the rule of lenity counsels against adopting the Court’s interpretation of §1343.  It is a “close question” whether the wire fraud statute’s prohibition of “any scheme … to defraud” includes schemes directed solely at defrauding foreign governments of tax revenues.   See id., at 33.  We have long held that, when confronted with “two rational readings of a criminal statute, one harsher than the other, we are to choose the harsher only when Congress has spoken in clear and definite language.”  McNally, 483 U. S., at 359–360; see United States v. Universal C. I. T. Credit Corp., 344 U. S. 218, 221–222 (1952).
+
+															   This interpretive guide is particularly appropriate here.  Wire fraud is a predicate offense under the Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U. S. C. §1961(1) (2000 ed., Supp. II), and the money laundering statute, §1956(c)(7)(A) (2000 ed.).  See Cleveland, 531 U. S., at 25.  A finding that particular conduct constitutes wire fraud therefore exposes certain defendants to the severe criminal penalties and forfeitures provided in both RICO, see §1963 (2000 ed.), and the money laundering statute, §1956(a), (b) (2000 ed. and Supp. II).
+
+															***
+
+															
+   For the reasons stated, I would hold that §1343 does not extend to schemes to evade foreign tax and customs laws.  I would therefore reverse the judgment of the Court of Appeals.
+
+Footnote 1
+															 The Government offered a Canadian customs officer’s testimony at trial that if alcohol is purchased for $56 per case in the United States, the Canadian tax would be approximately $100 per case.  App. 65–66; see infra, at 5, n. 4.
+
+Footnote 2
+															 Petitioners’ reliance on the presumption against extraterritorial application of laws enacted with domestic concerns in mind was no mere afterthought.  See ante, at 20, n. 12.  The presumption was explicitly featured in petitioners’ reply brief.  See Reply Brief 17–19, and n. 23 (observing, inter alia, that the presumption against extraterritoriality “is especially true when criminal liability is at stake”); see also Brief for Petitioners 40, n. 46.  Both parties ask us to determine the scope of §1343, and the presumption against extraterritoriality is a guide to interpretation of the kind courts ordinarily bring to bear in endeavoring to discern the meaning of a legislative text.   Moreover, the Government’s responses to petitioners’ revenue rule arguments coincide with the Government’s position on the presumption against extraterritoriality.  Compare Brief for United States 22–26, with Tr. of Oral Arg. 35, 46–47 (responding to the Court’s questions about extraterritoriality, counsel for the Government asserted that Congress left to Executive discretion the determination whether “enforcement of [foreign] tax systems” is appropriate). 
+
+Footnote 3
+															 Indeed, the defendants have all been indicted in Canada for failing to report excise taxes and possession of unlawfully imported spirits, 336 F. 3d 321, 343 (CA4 2003) (en banc) (Gregory, J., dissenting), but Canada has not requested their extradition, see Tr. of Oral Arg. 12–13, 30.
+
+Footnote 4
+															 The casual manner in which the Government and the District Court reached these totals detracts from the Court’s assertion that “[f]oreign law, of course, posed no unmanageable complexity in this case.”  Ante, at 19.  In making its sentencing recommendation to the court, the Government did not proffer evidence of the precise rate at which Canada taxes liquor imports, or reference any provisions of Canadian law.  Rather, it relied on the trial testimony of an intelligence officer with Canadian Customs, who surmised, based on her experience in working at the border, that Canadian taxes on a $56 case of liquor would be approximately $100.  See App. 104.  The Customs officer was not offered as an expert witness and “[t]he [D]istrict [C]ourt never determined whether [her] calculations were accurate as a matter of Canadian law.”  336 F. 3d, at 343 (Gregory, J., dissenting).  Thus, if foreign law posed no complexity in this case, it is not because the parties and the court were easily able to interpret and apply Canadian law, but rather because the Government and the court made no serious attempt to do so.  That no such effort was made here, in derogation of the Government’s and the court’s shared obligation to ensure that the calculations potentially affecting a defendant’s sentence are as accurate as possible, is “deeply troubling,” ibid., and suggests that the Government was unprepared to grapple with the details of foreign revenue laws.
+
+Footnote 5
+															 I note that petitioners’ sentences were enhanced on the basis of judicial factfindings, in violation of the Sixth Amendment.  See United States v. Booker, 543 U. S. ___, ___ (2005) (Stevens, J., for the Court) (slip op., at 5–9); see also Blakely v. Washington, 542 U. S. ___ (2004).  Despite the Court’s affirmance of their convictions, therefore, the petitioners may be entitled to resentencing.  See Booker, 543 U. S., at ___, ___ (Breyer, J., for the Court) (slip op., at 25–26).  The Court declines to address the defendants’ plea for resentencing, stating that “[p]etitioners did not raise this claim before the Court of Appeals or in their petition for certiorari.”  See ante, at 21, n. 14.  This omission was no fault of the defendants, however, as the petition in this case was filed and granted well before the Court decided Blakely.  Petitioners thus raised Blakely at the earliest possible point: in their merits briefing.  The rule that we do not consider issues not raised in the petition is prudential, not jurisdictional, see Izumi Seimitsu Kogyo Kabushiki Kaisha v. U. S. Philips Corp., 510 U. S. 27, 32–33 (1993) (per curiam), and a remand on the Blakely-Booker question would neither prejudice the Government nor require this Court to delve into complex issues not passed on below. 
+
+Footnote 6
+															 I note that, on the Court’s interpretation, federal prosecutors could resort to the wire and mail fraud statutes to reach schemes to evade not only foreign taxes, but state and local taxes as well.
+
+Footnote 7
+															 I do not read into §1343’s coverage of frauds executed “in interstate or foreign commerce,” ante, at 21, congressional intent to give §1343 extraterritorial effect.  A statute’s express application to acts committed in foreign commerce, the Court has repeatedly held, does not in itself indicate a congressional design to give the statute extraterritorial effect.  See ARAMCO, 499 U. S., at 250–253.
+
+Footnote 8
+															 The application of 18 U. S. C. §1343 (2000 ed., Supp. II), to schemes to defraud a foreign individual or corporation, or even a foreign governmental entity acting as a market participant, is of a different order, and does not necessarily depend on any determination of foreign law.  As the Court of Appeals observed in United States v. Boots, 80 F. 3d 580, 587 (CA1 1996), upholding a defendant’s wire fraud conviction in a case like the one here presented “would amount functionally to penal enforcement of Canadian customs and tax laws.”  See also ibid. (noting that courts “will enforce foreign non-tax civil judgments unless due process, jurisdictional, or fundamental public policy considerations interfere” (citing Restatement (Third) of Foreign Relations Law of the United States §483, and Reporters’ Notes, n. 1 (1986)), but “[o]ur courts customarily refuse to enforce the revenue and penal laws of a foreign state, since no country has an obligation to further the governmental interests of a foreign sovereign” (quoting Banco Nacional de Cuba v. Sabbatino, 376 U. S. 398, 448 (1964) (White, J., dissenting))).
+
+Footnote 9
+															 Section 546’s requirement that a vessel have been used to transport the goods to the foreign country would render §546 inapplicable to these defendants’ conduct in any event.
+
+
+

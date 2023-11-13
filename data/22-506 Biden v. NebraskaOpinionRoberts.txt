@@ -1,0 +1,1027 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-506
+::decision_name::  Biden v. Nebraska
+::decision_year:: 2023
+::opinion_author:: Roberts
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–506
+
+															_________________
+
+															Joseph R. Biden, President of the United
+States, et al., PETITIONERS v. Nebraska,
+et al.
+
+															on writ of certiorari before judgment to the
+united states court of appeals for the eighth circuit
+
+															[June 30, 2023]
+
+															Chief Justice Roberts delivered the opinion of
+the Court.
+
+															To ensure that Americans could keep up with
+increasing international competition, Congress authorized the first
+federal student loans in 1958—up to a total of $1,000 per
+student each year. National Defense Education Act of 1958, 72Stat.
+1584. Outstanding federal student loans now total $1.6 trillion
+extended to 43 million borrowers. Letter from Congressional Budget
+Office to Members of Congress, p. 3 (Sept. 26, 2022) (CBO Letter).
+Last year, the Secretary of Education established the first
+comprehensive student loan forgiveness program, invoking the Higher
+Education Relief Opportunities for Students Act of 2003 (HEROES
+Act) for authority to do so. The Secretary’s plan canceled
+roughly $430 billion of federal student loan balances, completely
+erasing the debts of 20 million borrowers and lowering the median
+amount owed by the other 23 million from $29,400 to $13,600. See
+ibid.; App. 243. Six States sued, arguing that the HEROES
+Act does not authorize the loan cancellation plan. We agree.
+
+															I
+
+															A
+
+															The Higher Education Act of 1965 (Education
+Act) was enacted to increase educational opportunities and
+“assist in making available the benefits of postsecondary
+education to eligible students . . . in institutions of
+higher education.” 20 U. S. C. §1070(a). To
+that end, Title IV of the Act restructured federal financial aid
+mechanisms and established three types of federal student loans.
+Direct Loans are, as the name suggests, made directly to students
+and funded by the federal fisc; they constitute the bulk of the
+Federal Government’s student lending efforts. See §1087a
+et seq. The Government also administers Perkins Loans—
+government-subsidized, low-interest loans made by schools to
+students with significant financial need—and Federal Family
+Education Loans, or FFELs—loans made by private lenders and
+guaranteed by the Federal Government. See §§1071
+et seq., 1087aa et seq. While FFELs and Perkins
+Loans are no longer issued, many remain outstanding.
+§§1071(d), 1087aa(b).
+
+															The terms of federal loans are set by law, not
+the market, so they often come with benefits not offered by private
+lenders. Such benefits include deferment of any repayment until
+after graduation, loan qualification regardless of credit history,
+relatively low fixed interest rates, income-sensitive repayment
+plans, and—for undergraduate students with financial
+need—government payment of interest while the borrower is in
+school. Dept. of Ed., Federal Student Aid, Federal Versus Private
+Loans.
+
+															The Education Act specifies in detail the terms
+and conditions attached to federal loans, including applicable
+interest rates, loan fees, repayment plans, and consequences of
+default. See §§1077, 1080, 1087e, 1087dd. It also
+authorizes the Secretary to cancel or reduce loans, but only in
+certain limited circumstances and to a particular extent.
+Specifically, the Secretary can cancel a set amount of loans held
+by some public servants—including teachers, members of the
+Armed Forces, Peace Corps volunteers, law enforcement and
+corrections officers, firefighters, nurses, and
+librarians—who work in their professions for a minimum number
+of years. §§1078–10, 1087j, 1087ee. The Secretary
+can also forgive the loans of borrowers who have died or been
+“permanently and totally disabled,” such that they
+cannot “engage in any substantial gainful activity.”
+§1087(a)(1). Bankrupt borrowers may have their loans forgiven.
+§1087(b). And the Secretary is directed to discharge loans for
+borrowers falsely certified by their schools, borrowers whose
+schools close down, and borrowers whose schools fail to pay loan
+proceeds they owe to lenders. §1087(c).
+
+															Shortly after the September 11 terrorist
+attacks, Congress became concerned that borrowers affected by the
+crisis—particularly those who served in the
+military—would need additional assistance. As a result, it
+enacted the Higher Education Relief Opportunities for Students Act
+of 2001. That law provided the Secretary of Education, for a
+limited period of time, with “specific waiver authority to
+respond to conditions in the national emergency” caused by
+the September 11 attacks. 115Stat. 2386. Rather than allow this
+grant of authority to expire by its terms at the end of September
+2003, Congress passed the Higher Education Relief Opportunities for
+Students Act of 2003 (HEROES Act). 117Stat. 904. That Act extended
+the coverage of the 2001 statute to include any war or national
+emergency—not just the September 11 attacks. By its terms,
+the Secretary “may waive or modify any statutory or
+regulatory provision applicable to the student financial assistance
+programs under title IV of the [Education Act] as the Secretary
+deems necessary in connection with a war or other military
+operation or national emergency.” 20 U. S. C.
+§1098bb(a)(1).[1]
+
+															The Secretary may issue waivers or modifications
+only “as may be necessary to ensure” that
+“recipients of student financial assistance under title IV of
+the [Education Act] who are affected individuals are not placed in
+a worse position financially in relation to that financial
+assistance because of their status as affected
+individuals.”
+
+															Immediately following the passage of the Act in
+2003, the Secretary issued two dozen waivers and modifications
+addressing a handful of specific issues. 68 Fed. Reg.
+69312–69318. Among other changes, the Secretary waived the
+requirement that “affected individuals” must
+“return or repay an overpayment” of certain grant funds
+erroneously disbursed by the Government, id., at 69314, and
+the requirement that public service work must be uninterrupted to
+qualify an “affected individual” for loan cancellation,
+id., at 69317. Additional adjustments were made in 2012,
+with similar limited effects. 77 Fed. Reg. 59311–59318.
+
+															But the Secretary took more significant action
+in response to the COVID–19 pandemic. On March 13, 2020, the
+President declared the pandemic a national emergency. Presidential
+Proclamation No. 9994, 85 Fed. Reg. 15337–15338 (2020). One
+week later, then-Secretary of Education Betsy DeVos announced that
+she was suspending loan repayments and interest accrual for all
+federally held student loans. See Dept. of Ed., Breaking News:
+Testing Waivers and Student Loan Relief (Mar. 20, 2020). The
+following week, Congress enacted the Coronavirus Aid, Relief, and
+Economic Security Act, which required the Secretary to extend the
+suspensions through the end of September 2020. 134Stat.
+404–405. Before that extension expired, the President
+directed the Secretary, “[i]n light of the national
+emergency,” to “effectuate appropriate waivers of and
+modifications to” the Education Act to keep the suspensions
+in effect through the end of the year. 85 Fed. Reg. 49585. And a
+few months later, the Secretary further extended the suspensions,
+broadened eligibility for federal financial assistance, and waived
+certain administrative requirements (to allow, for example, virtual
+rather than on-site accreditation visits and to extend deadlines
+for filing reports). Id., at 79856–79863; 86 Fed. Reg.
+5008–5009 (2021).
+
+															Over a year and a half passed with no further
+action beyond keeping the repayment and interest suspensions in
+place. But in August 2022, a few weeks before President Biden
+stated that “the pandemic is over,” the Department of
+Education announced that it was once again issuing “waivers
+and modifications” under the Act—this time to reduce
+and eliminate student debts directly. See App. 257–259;
+Washington Post, Sept. 20, 2022, p. A3, col. 1. During the first
+year of the pandemic, the Department’s Office of General
+Counsel had issued a memorandum concluding that “the
+Secretary does not have statutory authority to provide blanket or
+mass cancellation, compromise, discharge, or forgiveness of student
+loan principal balances.” Memorandum from R. Rubinstein to B.
+DeVos, p. 8 (Jan. 12, 2021). After a change in Presidential
+administrations and shortly before adoption of the challenged
+policy, however, the Office of General Counsel “formally
+rescinded” its earlier legal memorandum and issued a
+replacement reaching the opposite conclusion. 87 Fed. Reg. 52945
+(2022). The new memorandum determined that the HEROES Act
+“grants the Secretary authority that could be used to
+effectuate a program of targeted loan cancellation directed at
+addressing the financial harms of the COVID–19
+pandemic.” Id., at 52944. Upon receiving this new
+opinion, the Secretary issued his proposal to cancel student debt
+under the HEROES Act. App. 257–259. Two months later, he
+published the required notice of his “waivers and
+modifications” in the Federal Register. 87 Fed. Reg.
+61512–61514.
+
+															The terms of the debt cancellation plan are
+straightforward: For borrowers with an adjusted gross income below
+$125,000 in either 2020 or 2021 who have eligible federal loans,
+the Department of Education will discharge the balance of those
+loans in an amount up to $10,000 per borrower.[2] Id., at 61514 (“modif[ying] the
+provisions of ” 20 U. S. C. §§1087,
+1087dd(g); 34 CFR pt. 647, subpt. D (2022); 34 CFR
+§§682.402, 685.212). Borrowers who previously received
+Pell Grants qualify for up to $20,000 in loan cancellation. 87 Fed.
+Reg. 61514. Eligible loans include “Direct Loans, FFEL
+loans held by the Department or subject to collection by a guaranty
+agency, and Perkins Loans held by the Department.”
+Ibid. The Department of Education estimates that about 43
+million borrowers qualify for relief, and the Congressional Budget
+Office estimates that the plan will cancel about $430 billion in
+debt principal. See App. 119; CBO Letter 3.
+
+															B
+
+															Six States moved for a preliminary injunction,
+claiming that the plan exceeded the Secretary’s statutory
+authority. The District Court held that none of the States had
+standing to challenge the plan and dismissed the suit. ___
+F. Supp. 3d ___ (ED Mo. 2022). The States appealed, and the
+Eighth Circuit issued a nationwide preliminary injunction pending
+resolution of the appeal. The court concluded that Missouri likely
+had standing through the Missouri Higher Education Loan Authority
+(MOHELA or Authority), a public corporation that holds and services
+student loans. 52 F. 4th 1044 (2022). It further concluded
+that the State’s challenge raised “substantial”
+questions on the merits and that the equities favored maintaining
+the status quo pending further review. Id., at 1048
+(internal quotation marks omitted).
+
+															With the plan on pause, the Secretary asked this
+Court to vacate the injunction or to grant certiorari before
+judgment, “to avoid prolonging this uncertainty for the
+millions of affected borrowers.” Application 4. We granted
+the petition and set the case for expedited argument. 598
+U. S. ___ (2022).
+
+															II
+
+															Before addressing the legality of the
+Secretary’s program, we must first ensure that the States
+have standing to challenge it. Under Article III of the
+Constitution, a plaintiff needs a “personal stake” in
+the case. TransUnion LLC v. Ramirez, 594
+U. S. ___, ___ (2021) (slip op., at 7). That is, the plaintiff
+must have suffered an injury in fact—a concrete and imminent
+harm to a legally protected interest, like property or
+money—that is fairly traceable to the challenged conduct and
+likely to be redressed by the lawsuit. Lujan v. Defenders
+of Wildlife, 504 U.S.
+555, 560–561 (1992). If at least one plaintiff has
+standing, the suit may proceed. Rumsfeld v. Forum for
+Academic and Institutional Rights, Inc., 547 U.S.
+47, 52, n. 2 (2006). Because we conclude that the
+Secretary’s plan harms MOHELA and thereby directly injures
+Missouri—conferring standing on that State—we need not
+consider the other theories of standing raised by the States.
+
+															Missouri created MOHELA as a nonprofit
+government corporation to participate in the student loan market.
+Mo. Rev. Stat. §173.360 (2016). The Authority owns over $1
+billion in FFELs. MOHELA, FY 2022 Financial Statement 9 (Financial
+Statement). It also services nearly $150 billion worth of federal
+loans, having been hired by the Department of Education to collect
+payments and provide customer service to borrowers. Id., at
+4, 8. MOHELA receives an administrative fee for each of the five
+million federal accounts it services, totaling $88.9 million in
+revenue last year alone. Ibid.
+
+															Under the Secretary’s plan, roughly half
+of all federal borrowers would have their loans completely
+discharged. App. 119. MOHELA could no longer service those closed
+accounts, costing it, by Missouri’s estimate, $44 million a
+year in fees that it otherwise would have earned under its contract
+with the Department of Education. Brief for Respondents 16. This
+financial harm is an injury in fact directly traceable to the
+Secretary’s plan, as both the Government and the dissent
+concede. See Tr. of Oral Arg. 18; post, at 5
+(Kagan, J., dissenting).
+
+															The plan’s harm to MOHELA is also a harm
+to Missouri. MOHELA is a “public instrumentality” of
+the State. Mo. Rev. Stat. §173.360. Missouri established the
+Authority to perform the “essential public function” of
+helping Missourians access student loans needed to pay for college.
+Ibid.; see Todd v. Curators of University of
+Missouri, 347 Mo. 460, 464, 147 S.W.2d 1063, 1064 (1941)
+(“Our constitution recognizes higher education as a
+governmental function.”). To fulfill this public purpose, the
+Authority is empowered by the State to invest in or finance student
+loans, including by issuing bonds.
+§§173.385(1)(6)–(7). It may also service loans and
+collect “reasonable fees” for doing so.
+§§173.385(1)(12), (18). Its profits help fund education
+in Missouri: MOHELA has provided $230 million for development
+projects at Missouri colleges and universities and almost $300
+million in grants and scholarships for Missouri students. Financial
+Statement 10, 20.
+
+															The Authority is subject to the State’s
+supervision and control. Its board consists of two state officials
+and five members appointed by the Governor and approved by the
+Senate. §173.360. The Governor can remove any board member for
+cause. Ibid. MOHELA must provide annual financial reports to
+the Missouri Department of Education, detailing its income,
+expenditures, and assets. §173.445. The Authority is therefore
+“directly answerable” to the State. Casualty
+Reciprocal Exchange v. Missouri Employers Mut. Ins. Co.,
+
+956 S.W.2d 249, 254 (Mo. 1997). The State “set[s] the
+terms of its existence,” and only the State “can
+abolish [MOHELA] and set the terms of its dissolution.”
+Id., at 254–255.
+
+															By law and function, MOHELA is an
+instrumentality of Missouri: It was created by the State to further
+a public purpose, is governed by state officials and state
+appointees, reports to the State, and may be dissolved by the
+State. The Secretary’s plan will cut MOHELA’s revenues,
+impairing its efforts to aid Missouri college students. This
+acknowledged harm to MOHELA in the performance of its public
+function is necessarily a direct injury to Missouri itself.
+
+															We came to a similar conclusion 70 years ago in
+Arkansas v. Texas, 346 U.S.
+368 (1953). Arkansas sought to invoke our original jurisdiction
+in a suit against Texas, claiming that Texas had wrongfully
+interfered with a contract between the University of Arkansas and a
+Texas charity. Id., at 369. Texas argued that the suit could
+not proceed because the University did “not stand in the
+shoes of the State.” Id., at 370. The harm to the
+University, as Texas saw it, was not a harm to Arkansas sufficient
+for the State to sue in its own name.
+
+															We disagreed. We recognized that “Arkansas
+must, of course, represent an interest of her own and not merely
+that of her citizens or corporations.” Ibid. But we
+concluded that Arkansas was in fact seeking to protect its
+own interests because the University was “an official
+state instrumentality.” Ibid. The State had labeled
+the University “an instrument of the state in the performance
+of a governmental work.” Ibid. (internal quotation
+marks omitted). The University served a public purpose, acting as
+the State’s “agen[t] in the educational field.”
+Id., at 371. The University had been “created by the
+Arkansas legislature,” was “governed by a Board of
+Trustees appointed by the Governor with consent of the
+Senate,” and “report[ed] all of its expenditures to the
+legislature.” Id., at 370. In short, the University
+was an instrumentality of the State, and “any injury under
+the contract to the University [was] an injury to Arkansas.”
+Ibid. So too here. Because the Authority is part of
+Missouri, the State does not seek to “rely on injuries
+suffered by others.” Post, at 2 (opinion of Kagan,
+J.). It aims to remedy its own.
+
+															The Secretary and the dissent assert that
+MOHELA’s injuries should not count as Missouri’s
+because MOHELA, as a public corporation, has a legal personality
+separate from the State. Every government corporation has such a
+distinct personality; it is a corporation, after all, “with
+the powers to hold and sell property and to sue and be sued.”
+First Nat. City Bank v. Banco Para el Comercio Exterior
+de Cuba, 462 U.S.
+611, 624 (1983). Yet such an instrumentality—created and
+operated to fulfill a public function—nonetheless remains
+“(for many purposes at least) part of the Government
+itself.” Lebron v. National Railroad Passenger
+Corporation, 513 U.S.
+374, 397 (1995).
+
+															In Lebron, Amtrak was sued for refusing
+to display a political advertisement on a billboard at one of its
+stations. Id., at 376–377. Amtrak argued that it was
+not subject to the First Amendment because it was a corporation
+separate from the Federal Government. See id., at
+392. Congress had even specified in its authorizing statute that
+Amtrak was not “an agency or establishment of the United
+States Government.” Id., at 391 (quoting 84Stat.
+1330). Despite this disclaimer, we held that Amtrak remained
+subject to the First Amendment because it functioned as an
+instrumentality of the Federal Government, “created by a
+special statute, explicitly for the furtherance of federal
+governmental goals” of ensuring that the American public had
+access to passenger trains. Lebron, 513 U. S., at 397.
+Its board was appointed by the President, and it had to submit
+annual reports to the President and Congress. Id., at
+385–386. Having been “established and organized under
+federal law for the very purpose of pursuing federal governmental
+objectives, under the direction and control of federal governmental
+appointees,” Amtrak could not disclaim that it was
+“part of the Government.” Id., at 398, 400.
+
+															We reiterated the point in Department of
+Transportation v. Association of American Railroads, 575
+U.S. 43 (2015). There, railroads argued that giving Amtrak
+regulatory power was an unconstitutional delegation of government
+authority to a private entity. Id., at 49–50. We
+rejected that contention, noting that “Amtrak was created by
+the Government, is controlled by the Government, and operates for
+the Government’s benefit.” Id., at 53. It was
+therefore acting “as a governmental entity” in
+exercising that regulatory power. Id., at 54.
+
+															That principle holds true here. The Secretary
+and the dissent contend that because MOHELA can sue on its own
+behalf, it—not Missouri—must be the one to sue. But in
+Arkansas, 346 U.S.
+368, the University of Arkansas could have asserted its rights
+under the contract on its own. The University’s governing
+statute made it “a body politic and corporate,” with
+“all the powers of a corporate body,” Ark. Stat.
+§80–2804 (1887)—including the power to sue and be
+sued on its own behalf, see HRR Arkansas, Inc. v. River
+City Contractors, Inc., 350 Ark. 420, 427, 87 S.W.3d 232, 237
+(2002); see, e.g., Board of Trustees, Univ. of Ark.
+v. Pulaski County, 229 Ark. 370, 
+315 S.W.2d 879 (1958). We permitted Arkansas to bring an
+original suit all the same. Where a State has been harmed in
+carrying out its responsibilities, the fact that it chose to
+exercise its authority through a public corporation it created and
+controls does not bar the State from suing to remedy that harm
+itself.[3]
+
+															The Secretary’s plan harms MOHELA in the
+performance of its public function and so directly harms the State
+that created and controls MOHELA. Missouri thus has suffered an
+injury in fact sufficient to give it standing to challenge the
+Secretary’s plan. With Article III satisfied, we turn to the
+merits.
+
+															III
+
+															The Secretary asserts that the HEROES Act
+grants him the authority to cancel $430 billion of student loan
+principal. It does not. We hold today that the Act allows the
+Secretary to “waive or modify” existing statutory or
+regulatory provisions applicable to financial assistance programs
+under the Education Act, not to rewrite that statute from the
+ground up.
+
+															A
+
+															The HEROES Act authorizes the Secretary to
+“waive or modify any statutory or regulatory provision
+applicable to the student financial assistance programs under title
+IV of the [Education Act] as the Secretary deems necessary in
+connection with a war or other military operation or national
+emergency.” 20 U. S. C. §1098bb(a)(1). That
+power has limits. To begin with, statutory permission to
+“modify” does not authorize “basic and
+fundamental changes in the scheme” designed by Congress.
+MCI Telecommunications Corp. v. American Telephone &
+Telegraph Co., 512 U.S.
+218, 225 (1994). Instead, that term carries “a
+connotation of increment or limitation,” and must be read to
+mean “to change moderately or in minor fashion.”
+Ibid. That is how the word is ordinarily used. See,
+e.g., Webster’s Third New International Dictionary
+1952 (2002) (defining “modify” as “to make more
+temperate and less extreme,” “to limit or restrict the
+meaning of,” or “to make minor changes in the form or
+structure of [or] alter without transforming”). The legal
+definition is no different. Black’s Law Dictionary 1203 (11th
+ed. 2019) (giving the first definition of “modify” as
+“[t]o make somewhat different; to make small changes
+to,” and the second as “[t]o make more moderate or less
+sweeping”). The authority to “modify” statutes
+and regulations allows the Secretary to make modest adjustments and
+additions to existing provisions, not transform them.
+
+															The Secretary’s previous invocations of
+the HEROES Act illustrate this point. Prior to the COVID–19
+pandemic, “modifications” issued under the Act
+implemented only minor changes, most of which were procedural.
+Examples include reducing the number of tax forms borrowers are
+required to file, extending time periods in which borrowers must
+take certain actions, and allowing oral rather than written
+authorizations. See 68 Fed. Reg. 69314–69316.
+
+															Here, the Secretary purported to “modif[y]
+the provisions of ” two statutory sections and three
+related regulations governing student loans. 87 Fed. Reg. 61514.
+The affected statutory provisions granted the Secretary the power
+to “discharge [a] borrower’s liability,” or pay
+the remaining principal on a loan, under certain narrowly
+prescribed circumstances. 20 U. S. C. §§1087,
+1087dd(g)(1). Those circumstances were limited to a
+borrower’s death, disability, or bankruptcy; a school’s
+false certification of a borrower or failure to refund loan
+proceeds as required by law; and a borrower’s inability to
+complete an educational program due to closure of the school. See
+§§1087(a)–(d), 1087dd(g). The corresponding
+regulatory provisions detailed rules and procedures for such
+discharges. They also defined the terms of the Government’s
+public service loan forgiveness program and provided for discharges
+when schools commit malfeasance. See 34 CFR §§682.402,
+685.212; 34 CFR pt. 674, subpt. D.
+
+															The Secretary’s new
+“modifications” of these provisions were not
+“moderate” or “minor.” Instead, they
+created a novel and fundamentally different loan forgiveness
+program. The new program vests authority in the Department of
+Education to discharge up to $10,000 for every borrower with income
+below $125,000 and up to $20,000 for every such borrower who has
+received a Pell Grant. 87 Fed. Reg. 61514. No prior limitation on
+loan forgiveness is left standing. Instead, every borrower within
+the specified income cap automatically qualifies for debt
+cancellation, no matter their circumstances. The Department of
+Education estimates that the program will cover 98.5% of all
+borrowers. See Dept. of Ed., White House Fact Sheet: The Biden
+Administration’s Plan for Student Debt Relief Could Benefit
+Tens of Millions of Borrowers in All Fifty States (Sept. 20, 2022).
+From a few narrowly delineated situations specified by Congress,
+the Secretary has expanded forgiveness to nearly every borrower in
+the country.
+
+															The Secretary’s plan has
+“modified” the cited provisions only in the same sense
+that “the French Revolution ‘modified’ the status
+of the French nobility”—it has abolished them and
+supplanted them with a new regime entirely. MCI, 512
+U. S., at 228. Congress opted to make debt forgiveness
+available only in a few particular exigent circumstances; the power
+to modify does not permit the Secretary to “convert that
+approach into its opposite” by creating a new program
+affecting 43 million Americans and $430 billion in federal debt.
+Descamps v. United States, 570
+U.S. 254, 274 (2013). Labeling the Secretary’s plan a
+mere “modification” does not lessen its effect, which
+is in essence to allow the Secretary unfettered discretion to
+cancel student loans. It is “highly unlikely that
+Congress” authorized such a sweeping loan cancellation
+program “through such a subtle device as permission to
+‘modify.’ ” MCI, 512 U. S., at
+231.
+
+															The Secretary responds that the Act authorizes
+him to “waive” legal provisions as well as modify
+them—and that this additional term “grant[s] broader
+authority” than would “modify” alone. But the
+Secretary’s invocation of the waiver power here does not
+remotely resemble how it has been used on prior occasions.
+Previously, waiver under the HEROES Act was straightforward: the
+Secretary identified a particular legal requirement and waived it,
+making compliance no longer necessary. For instance, on one
+occasion the Secretary waived the requirement that a student
+provide a written request for a leave of absence. See 77 Fed. Reg.
+59314. On another, he waived the regulatory provisions requiring
+schools and guaranty agencies to attempt collection of defaulted
+loans for the time period in which students were affected
+individuals. See 68 Fed. Reg. 69316.
+
+															Here, the Secretary does not identify any
+provision that he is actually waiving.[4] No specific provision of the Education Act establishes
+an obligation on the part of student borrowers to pay back the
+Government. So as the Government concedes,
+“waiver”—as used in the HEROES Act—cannot
+refer to “waiv[ing] loan balances” or “waiving
+the obligation to repay” on the part of a borrower. Tr. of
+Oral Arg. 9, 64. Contrast 20 U. S. C.
+§1091b(b)(2)(D) (allowing the Secretary to “waive the
+amounts that students are required to return” in specified
+circumstances of overpayment by the Government). Because the
+Secretary cannot waive a particular provision or provisions to
+achieve the desired result, he is forced to take a more circuitous
+approach, one that avoids any need to show compliance with the
+statutory limitation on his authority. He simply “waiv[es]
+the elements of the discharge and cancellation provisions that are
+inapplicable in this [debt cancellation] program that would limit
+eligibility to other contexts.” Tr. of Oral Arg.
+64–65.
+
+															Yet even that expansive conception of waiver
+cannot justify the Secretary’s plan, which does far more than
+relax existing legal requirements. The plan specifies particular
+sums to be forgiven and income-based eligibility requirements. The
+addition of these new and substantially different provisions cannot
+be said to be a “waiver” of the old in any meaningful
+sense. Recognizing this, the Secretary acknowledges that waiver
+alone is not enough; after waiving whatever
+“inapplicable” law would bar his debt cancellation
+plan, he says, he then “modif[ied] the provisions to bring
+[them] in line with this program.” Id., at 65. So in
+the end, the Secretary’s plan relies on modifications all the
+way down. And as we have explained, the word “modify”
+simply cannot bear that load.
+
+															The Secretary and the dissent go on to argue
+that the power to “waive or modify” is greater than the
+sum of its parts. Because waiver allows the Secretary “to
+eliminate legal obligations in their entirety,” the argument
+runs, the combination of “waive or modify” allows him
+“to reduce them to any extent short of
+waiver”—even if the power to “modify”
+ordinarily does not stretch that far. Reply Brief 16–17
+(internal quotation marks omitted). But the Secretary’s
+program cannot be justified by such sleight of hand. The Secretary
+has not truly waived or modified the provisions in the Education
+Act authorizing specific and limited forgiveness of student loans.
+Those provisions remain safely intact in the U. S. Code, where
+they continue to operate in full force. What the Secretary has
+actually done is draft a new section of the Education Act from
+scratch by “waiving” provisions root and branch and
+then filling the empty space with radically new text.
+
+															Lastly, the Secretary points to a procedural
+provision in the HEROES Act. The Act directs the Secretary to
+publish a notice in the Federal Register “includ[ing] the
+terms and conditions to be applied in lieu of such statutory
+and regulatory provisions” as the Secretary has waived or
+modified. 20 U. S. C. §1098bb(b)(2) (emphasis
+added). In the Secretary’s view, that language authorizes
+“both deleting and then adding back in, waiving and then
+putting his own requirements in”—a sort of “red
+penciling” of the existing law. Tr. of Oral Arg. 65; see also
+Reply Brief 17.
+
+															Section 1098bb(b)(2) is, however, “a
+wafer-thin reed on which to rest such sweeping power.”
+Alabama Assn. of Realtors v. Department of Health and
+Human Servs., 594 U. S. ___, ___ (2021)
+(per curiam) (slip op., at 7). The provision is no more
+than it appears to be: a humdrum reporting requirement. Rather than
+implicitly granting the Secretary authority to draft new
+substantive statutory provisions at will, it simply imposes the
+obligation to report any waivers and modifications he has made.
+Section 1098bb(b)(2) suggests that “waivers and
+modifications” includes additions. The dissent accordingly
+reads the statute as authorizing any degree of change or any new
+addition, “from modest to substantial”—and
+nothing in the dissent’s analysis suggests stopping at
+“substantial.” Post, at 20. Because the
+Secretary “does not have to leave gaping holes” when he
+waives provisions, the argument runs, it follows that any
+replacement terms the Secretary uses to fill those holes must be
+lawful. Ibid. But the Secretary’s ability to add new
+terms “in lieu of ” the old is limited to his
+authority to “modify” existing law. As with any other
+modification issued under the Act, no new term or condition
+reported pursuant to §1098bb(b)(2) may distort the fundamental
+nature of the provision it alters.[5]
+
+															The Secretary’s comprehensive debt
+cancellation plan cannot fairly be called a waiver—it not
+only nullifies existing provisions, but augments and expands them
+dramatically. It cannot be mere modification, because it
+constitutes “effectively the introduction of a whole new
+regime.” MCI, 512 U. S., at 234. And it cannot be
+some combination of the two, because when the Secretary seeks to
+add to existing law, the fact that he has
+“waived” certain provisions does not give him a free
+pass to avoid the limits inherent in the power to
+“modify.” However broad the meaning of “waive or
+modify,” that language cannot authorize the kind of
+exhaustive rewriting of the statute that has taken place
+here.[6]
+
+															B
+
+															In a final bid to elide the statutory text,
+the Secretary appeals to congressional purpose. “The whole
+point of ” the HEROES Act, the Government contends,
+“is to ensure that in the face of a national emergency that
+is causing financial harm to borrowers, the Secretary can do
+something.” Tr. of Oral Arg. 55. And that
+“something” was left deliberately vague because
+Congress intended “to grant substantial discretion to the
+Secretary to respond to unforeseen emergencies.” Reply Brief
+22, n. 3. So the unprecedented nature of the Secretary’s
+debt cancellation plan only “reflects the pandemic’s
+unparalleled scope.” Brief for Petitioners 52 (Brief for
+United States).
+
+															The dissent agrees. “Emergencies, after
+all, are emergencies,” it reasons, and “more serious
+measures” must be expected “in response to more serious
+problems.” Post, at 25, 28. The dissent’s
+interpretation of the HEROES Act would grant unlimited power to the
+Secretary, not only to modify or waive certain provisions but to
+“fill the holes that action creates with new
+terms”—no matter how drastic those terms might
+be—and to “alter [provisions] to the extent [he]
+think[s] appropriate,” up to and including “the most
+substantial kind of change” imaginable. Post, at 16,
+19–20. That is inconsistent with the statutory language and
+past practice under the statute.
+
+															The question here is not whether something
+should be done; it is who has the authority to do it. Our recent
+decision in West Virginia v. EPA involved similar
+concerns over the exercise of administrative power. 597 U. S.
+___ (2022). That case involved the EPA’s claim that the Clean
+Air Act authorized it to impose a nationwide cap on carbon dioxide
+emissions. Given “the ‘history and the breadth of the
+authority that [the agency] ha[d] asserted,’ and the
+‘economic and political significance’ of that
+assertion,” we found that there was
+“ ‘reason to hesitate before concluding that
+Congress’ meant to confer such authority.” Id.,
+at ___ (slip op., at 17) (quoting FDA v. Brown &
+Williamson Tobacco Corp., 529 U.S.
+120, 159–160 (2000); first alteration in original).
+
+															So too here, where the Secretary of Education
+claims the authority, on his own, to release 43 million borrowers
+from their obligations to repay $430 billion in student loans. The
+Secretary has never previously claimed powers of this magnitude
+under the HEROES Act. As we have already noted, past waivers and
+modifications issued under the Act have been extremely modest and
+narrow in scope. The Act has been used only once before to waive or
+modify a provision related to debt cancellation: In 2003, the
+Secretary waived the requirement that borrowers seeking loan
+forgiveness under the Education Act’s public service
+discharge provisions “perform uninterrupted, otherwise
+qualifying service for a specified length of time (for example, one
+year) or for consecutive periods of time, such as 5 consecutive
+years.” 68 Fed. Reg. 69317. That waiver simply eased the
+requirement that service be uninterrupted to qualify for the public
+service loan forgiveness program. In sum, “[n]o regulation
+premised on” the HEROES Act “has even begun to approach
+the size or scope” of the Secretary’s program.
+Alabama Assn., 594 U. S., at ___ (slip op., at
+7).[7]
+
+															Under the Government’s reading of the
+HEROES Act, the Secretary would enjoy virtually unlimited power to
+rewrite the Education Act. This would “effec[t] a
+‘fundamental revision of the statute, changing it from [one
+sort of] scheme of . . . regulation’ into an
+entirely different kind,” West Virginia, 597
+U. S., at ___ (slip op., at 24) (quoting MCI, 512
+U. S., at 231)—one in which the Secretary may
+unilaterally define every aspect of federal student financial aid,
+provided he determines that recipients have “suffered direct
+economic hardship as a direct result of a . . . national
+emergency.” 20 U. S. C. §1098ee(2)(D).
+
+															The “ ‘economic and political
+significance’ ” of the Secretary’s action is
+staggering by any measure. West Virginia, 597 U. S., at
+___ (slip op., at 17) (quoting Brown & Williamson, 529
+U. S., at 160). Practically every student borrower benefits,
+regardless of circumstances. A budget model issued by the Wharton
+School of the University of Pennsylvania estimates that the program
+will cost taxpayers “between $469 billion and $519
+billion,” depending on the total number of borrowers
+ultimately covered. App. 108. That is ten times the “economic
+impact” that we found significant in concluding that an
+eviction moratorium implemented by the Centers for Disease Control
+and Prevention triggered analysis under the major questions
+doctrine. Alabama Assn., 594 U. S., at ___ (slip op.,
+at 6). It amounts to nearly one-third of the Government’s
+$1.7 trillion in annual discretionary spending. Congressional
+Budget Office, The Federal Budget in Fiscal Year 2022. There is no
+serious dispute that the Secretary claims the authority to exercise
+control over “a significant portion of the American
+economy.” Utility Air Regulatory Group v. EPA,
+573 U.S.
+302, 324 (2014) (quoting Brown & Williamson, 529
+U. S., at 159).
+
+															The dissent is correct that this is a case about
+one branch of government arrogating to itself power belonging to
+another. But it is the Executive seizing the power of the
+Legislature. The Secretary’s assertion of administrative
+authority has “conveniently enabled [him] to enact a
+program” that Congress has chosen not to enact itself.
+West Virginia, 597 U. S., at ___ (slip op., at 27).
+Congress is not unaware of the challenges facing student borrowers.
+“More than 80 student loan forgiveness bills and other
+student loan legislation” were considered by Congress during
+its 116th session alone. M. Kantrowitz, Year in Review: Student
+Loan Forgiveness Legislation, Forbes, Dec. 24, 2020.[8] And the discussion is not confined to the
+halls of Congress. Student loan cancellation “raises
+questions that are personal and emotionally charged, hitting
+fundamental issues about the structure of the economy.” J.
+Stein, Biden Student Debt Plan Fuels Broader Debate Over Forgiving
+Borrowers, Washington Post, Aug. 31, 2022.
+
+															The sharp debates generated by the
+Secretary’s extraordinary program stand in stark contrast to
+the unanimity with which Congress passed the HEROES Act. The
+dissent asks us to “[i]magine asking the enacting Congress:
+Can the Secretary use his powers to give borrowers more relief when
+an emergency has inflicted greater harm?” Post, at
+27–28. The dissent “can’t believe” the
+answer would be no. Post, at 28. But imagine instead asking
+the enacting Congress a more pertinent question: “Can the
+Secretary use his powers to abolish $430 billion in student loans,
+completely canceling loan balances for 20 million borrowers, as a
+pandemic winds down to its end?” We can’t believe the
+answer would be yes. Congress did not unanimously pass the HEROES
+Act with such power in mind. “A decision of such magnitude
+and consequence” on a matter of “ ‘earnest
+and profound debate across the country’ ” must
+“res[t] with Congress itself, or an agency acting pursuant to
+a clear delegation from that representative body.” West
+Virginia, 597 U. S., at ___, ___ (slip op., at 28, 31)
+(quoting Gonzales v. Oregon, 546
+U.S. 243, 267–268 (2006)). As then-Speaker of the House
+Nancy Pelosi explained:
+
+															“People think that the President of
+the United States has the power for debt forgiveness. He does not.
+He can postpone. He can delay. But he does not have that power.
+That has to be an act of Congress.” Press Conference, Office
+of the Speaker of the House (July 28, 2021).
+
+															Aside from reiterating its interpretation of the
+statute, the dissent offers little to rebut our conclusion that
+“indicators from our previous major questions cases are
+present” here. Post, at 15 (Barrett, J., concurring).
+The dissent insists that “[s]tudent loans are in the
+Secretary’s wheelhouse.” Post, at 26 (opinion of
+Kagan, J.). But in light of the sweeping and unprecedented impact
+of the Secretary’s loan forgiveness program, it would seem
+more accurate to describe the program as being in the
+“wheelhouse” of the House and Senate Committees on
+Appropriations. Rather than dispute the extent of that impact, the
+dissent chooses to mount a frontal assault on what it styles
+“the Court’s made-up major questions doctrine.”
+Post, at 29–30. But its attempt to relitigate West
+Virginia is misplaced. As we explained in that case, while the
+major questions “label” may be relatively recent, it
+refers to “an identifiable body of law that has developed
+over a series of significant cases” spanning decades. West
+Virginia, 597 U. S., at ___ (slip op., at 20). At any
+rate, “the issue now is not whether [West Virginia] is
+correct. The question is whether that case is distinguishable from
+this one. And it is not.” Collins v. Yellen,
+594 U. S. ___, ___ (2021) (Kagan, J., concurring in part and
+concurring in judgment) (slip op., at 2).
+
+															The Secretary, for his part, acknowledges that
+West Virginia is the law. Brief for United States
+47–48. But he objects that its principles apply only in cases
+concerning “agency action[s] involv[ing] the power to
+regulate, not the provision of government benefits.” Reply
+Brief 21. In the Government’s view, “there are fewer
+reasons to be concerned” in cases involving benefits, which
+do not impose “profound burdens” on individual rights
+or cause “regulatory effects that might prompt a note of
+caution in other contexts involving exercises of emergency
+powers.” Tr. of Oral Arg. 61.
+
+															This Court has never drawn the line the
+Secretary suggests—and for good reason. Among
+Congress’s most important authorities is its control of the
+purse. U. S. Const., Art. I, §9, cl. 7; see also
+Office of Personnel Management v. Richmond, 496 U.S.
+414, 427 (1990) (the Appropriations Clause is “a most
+useful and salutary check upon profusion and extravagance”
+(internal quotation marks omitted)). It would be odd to think that
+separation of powers concerns evaporate simply because the
+Government is providing monetary benefits rather than imposing
+obligations. As we observed in West Virginia, experience
+shows that major questions cases “have arisen from all
+corners of the administrative state,” and administrative
+action resulting in the conferral of benefits is no exception to
+that rule. 597 U. S., at ___ (slip op., at 17). In King
+v. Burwell, 576 U.S. 473 (2015), we declined to defer to the
+Internal Revenue Service’s interpretation of a healthcare
+statute, explaining that the provision at issue affected
+“billions of dollars of spending each year and
+. . . the price of health insurance for millions of
+people.” Id., at 485. Because the interpretation of
+the provision was “a question of deep ‘economic and
+political significance’ that is central to [the] statutory
+scheme,” we said, we would not assume that Congress entrusted
+that task to an agency without a clear statement to that effect.
+Ibid. (quoting Utility Air, 573 U. S., at 324).
+That the statute at issue involved government benefits made no
+difference in King, and it makes no difference here.
+
+															All this leads us to conclude that “[t]he
+basic and consequential tradeoffs” inherent in a mass debt
+cancellation program “are ones that Congress would likely
+have intended for itself.” West Virginia, 597
+U. S., at ___ (slip op., at 26). In such circumstances, we
+have required the Secretary to “point to ‘clear
+congressional authorization’ ” to justify the
+challenged program. Id., at ___, ___ (slip op., at 19, 28)
+(quoting Utility Air, 573 U. S., at 324). And as we
+have already shown, the HEROES Act provides no authorization for
+the Secretary’s plan even when examined using the ordinary
+tools of statutory interpretation—let alone “clear
+congressional authorization” for such a program.[9]
+
+															*  *  *
+
+															It has become a disturbing feature of some
+recent opinions to criticize the decisions with which they disagree
+as going beyond the proper role of the judiciary. Today, we have
+concluded that an instrumentality created by Missouri, governed by
+Missouri, and answerable to Missouri is indeed part of Missouri;
+that the words “waive or modify” do not mean
+“completely rewrite”; and that our precedent—old
+and new—requires that Congress speak clearly before a
+Department Secretary can unilaterally alter large sections of the
+American economy. We have employed the traditional tools of
+judicial decisionmaking in doing so. Reasonable minds may disagree
+with our analysis—in fact, at least three do. See
+post, p. ___ (Kagan, J., dissenting). We do not mistake this
+plainly heartfelt disagreement for disparagement. It is important
+that the public not be misled either. Any such misperception would
+be harmful to this institution and our country.
+
+															The judgment of the District Court for the
+Eastern District of Missouri is reversed, and the case is remanded
+for further proceedings consistent with this opinion. The
+Government’s application to vacate the Eighth Circuit’s
+injunction is denied as moot.
+
+															
+
+															It is so ordered.
+
+Notes
+1
+ Like its 2001
+predecessor, the HEROES Act enjoyed virtually unanimous bipartisan
+support at the time of its enactment, passing by a 421-to-1 vote in
+the House of Representatives and a unanimous voice vote in the
+Senate. See 149 Cong. Rec. 7952–7953 (2003); id., at
+20809; 147 Cong. Rec. 20396 (2001); id., at
+26292–26293. The single dissenting Representative later
+voiced his support for the Act, explaining that he “meant to
+vote ‘yea.’ ” 149 Cong. Rec. 8559 (statement
+of Rep. Miller).
+2
+ A borrower filing
+“jointly or as a Head of Household, or as a qualifying
+widow(er),” qualifies for loan cancellation with an adjusted
+gross income lower than $250,000. 87 Fed. Reg. 61514.
+3
+ The dissent, for all its
+attempts to cabin these precedents, cites no precedents of its own
+addressing a State’s standing to sue for a harm to its
+instrumentality. The dissent offers only a state court case
+involving a different public corporation, in which the Missouri
+Supreme Court said that the corporation was separate from the State
+for the purposes of a state ban on “the lending of the credit
+of the state.” Menorah Medical Center v. Health and
+Ed. Facilities Auth., 
+584 S.W.2d 73, 78 (1979) (plurality opinion). But as the
+dissent recognizes, a public corporation can count as part of the
+State for some but not “other purposes.” Post,
+at 11, and n. 1. The Missouri Supreme Court said nothing about, and
+had no reason to address, whether an injury to that public
+corporation was a harm to the State.
+4
+ While the
+Secretary’s notice published in the Federal Register refers
+to “waivers and modifications” generally, see 87 Fed.
+Reg. 61512–61514, and while two sentences use the somewhat
+ambiguous phrase “[t]his waiver,” id., at 61514,
+the notice identifies no specific legal provision as having been
+“waived” by the Secretary.
+5
+ The dissent asserts that
+our decision today will control any challenge to the
+Secretary’s temporary suspensions of loan repayments and
+interest accrual. Post, at 21–22. We decide only the
+case before us. A challenge to the suspensions may involve
+different considerations with respect to both standing and the
+merits.
+6
+ The States further
+contend that the Secretary’s program violates the requirement
+in the HEROES Act that any waivers or modifications be
+“necessary to ensure that . . . affected
+individuals are not placed in a worse position financially in
+relation to” federal financial assistance. 20
+U. S. C. §1098bb(a)(2)(A); see Brief for Respondents
+39–44. While our decision does not rest upon that reasoning,
+we note that the Secretary faces a daunting task in showing that
+cancellation of debt principal is “necessary to ensure”
+that borrowers are not placed in “worse position[s]
+financially in relation to” their loans, especially given the
+Government’s prior determination that pausing interest
+accrual and loan repayments would achieve that end.
+7
+ The Secretary also cites
+a prior invocation of the HEROES Act waiving the requirement that
+borrowers must repay prior overpayments of certain grant funds. See
+Brief for United States 41; 68 Fed. Reg. 69314. But Congress had
+already limited borrower liability in such cases to exclude
+overpayments in amounts up to “50 percent of the total grant
+assistance received by the student” for the period at issue,
+so the Secretary’s waiver had only a modest effect. 20
+U. S. C. §1091b(b)(2)(C)(i)(II). And that waiver
+simply held the Government responsible for its own errors
+when it had mistakenly disbursed undeserved grant
+funds.
+8
+ Resolutions were also
+introduced in 2020 and 2021 “[c]alling on the President
+. . . to take executive action to broadly cancel Federal
+student loan debt.” See S. Res. 711, 116th Cong., 2d Sess.
+(2020); S. Res. 46, 117th Cong., 1st Sess. (2021). Those
+resolutions failed to reach a vote.
+9
+ The dissent complains
+that our application of the major questions doctrine is a
+“tell” revealing that “ ‘normal’
+statutory interpretation cannot sustain [our] decision.”
+Post, at 23, 30. Not so. As we have explained, the statutory
+text alone precludes the Secretary’s program. Today’s
+opinion simply reflects this Court’s familiar practice of
+providing multiple grounds to support its conclusions. See,
+e.g., Kucana v. Holder, 558 U.S.
+233, 243–252 (2010) (interpreting the text of a federal
+immigration statute in the first instance, then citing the
+“presumption favoring judicial review of administrative
+action” as an additional sufficient basis for the
+Court’s decision). The fact that multiple grounds support a
+result is usually regarded as a strength, not a
+weakness.
+
+

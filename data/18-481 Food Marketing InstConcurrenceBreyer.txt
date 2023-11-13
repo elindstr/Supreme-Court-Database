@@ -1,0 +1,57 @@
+::SCDB_caseID:: 2018-074
+::decision_cite:: 18-481
+::decision_name::  Food Marketing Institute v. Argus Leader Media
+::decision_year:: 2019
+::opinion_author:: Breyer
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–481
+
+															_________________
+
+															FOOD MARKETING INSTITUTE, PETITIONER v. ARGUS LEADER MEDIA, dba ARGUS LEADER
+
+															on writ of certiorari to the united states court of appeals for the eighth circuit
+
+															[June 24, 2019]
+
+															
+
+															Justice Breyer, with whom Justice Ginsburg and Justice Sotomayor join, concurring in part and dissenting in part.
+
+															The Freedom of Information Act (FOIA) requires the government to make information available to the public upon request.
+
+5 U. S. C. §552(a)(3)(A).  It also contains a list of exemptions.  §552(b).  Exemption 4 says that the Act does “not apply” to “commercial or financial information obtained from a person and . . . confidential.”  §552(b)(4).  The majority holds that “commercial or financial information” is “confidential” and consequently falls within the scope of this exemption “[a]t least” where it is “[1] both customarily and actually treated as private by its owner and [2] provided to the government under an assurance of privacy.”  Ante, at 11.  The majority spells out two conditions, but in my view there is a third: Release of such information must also cause genuine harm to the owner’s economic or business interests.
+
+															Since 1974, when the District of Columbia Circuit decided National Parks and Conservation Assn. v. Morton, 498 F.2d 765, nearly every lower court has imposed some kind of harm requirement.  See New Hampshire Right to Life v. Department of Health and Human Servs., 577 U. S. ___, ___ (2015) (Thomas, J., dissenting from denial of certio- rari) (slip op., at 3) (noting that “every Court of Appeals to consider Exemption 4 has interpreted it [using] National Park[s] ”); Critical Mass Energy Project v. NRC, 975 F.2d 871, 876 (CADC 1992) (en banc) (collecting cases).  One way to satisfy that requirement is by showing that disclosure is “likely” to “cause substantial harm to the competitive position of the person from whom the information was obtained.”  National Parks, 498 F. 2d, at 770, and n. 17.  The Eighth Circuit, in this case, applied the same standard.  Argus Leader Media v. United States Dept. of Agriculture, 889 F.3d 914, 915 (2018).  And, like the majority, I believe that National Parks’ harm requirement goes too far.
+
+															For one thing, National Parks held that the only form of private harm that can warrant nondisclosure is “competitive” harm.  498 F. 2d, at 770–771 (emphasis added).  Later courts took this to mean that harm from “future or potential competition” does not suffice, Niagara Mohawk Power Corp. v. Department of Energy, 169 F.3d 16, 19 (CADC 1999), and even that harm must “flo[w] from the affirmative use of proprietary information by competitors,” Public Citizen Health Research Group v. FDA, 704 F.2d 1280, 1291, n. 30 (CADC 1983) (some emphasis added).  But disclosure of confidential information can cause a business serious harm in ways not so directly linked to competition.  Disclosure, for example, might discourage customers from using a firm’s products, but without substantial effect on its rivals.  It could mean increased potential competition, which may, or may not, materialize.  It could, by revealing buying habits, undermine a regulated firm that has no competitors.  The list goes on.  I can discern no basis in the statute for categorically excluding these other types of harm from the scope of Exemption 4.
+
+															Similarly, the need to prove “substantial” competitive harm can sometimes produce complex debates about the nature of competition and the degree of injury.  National Parks, 498 F. 2d, at 770.  And those debates can mean long, onerous court proceedings concerning issues far removed from the genuine fear of harm that leads firms to keep information secret in the first place.  The National Parks decision itself led to a remand for days of hearings, a second appeal, and yet another remand, so that more evidence about the competitive conditions facing two particular park concessionaires could be heard.  National Parks and Conservation Assn. v. Kleppe, 547 F.2d 673, 675 (CADC 1976).  Like the majority, I can find nothing in FOIA’s language, purposes, or history that imposes so stringent a requirement.  Accordingly, I would clarify that a private harm need not be “substantial” so long as it is genuine.
+
+															On the other hand, I cannot agree with the majority’s decision to jump to the opposite conclusion, namely, that Exemption 4 imposes no “harm” requirement whatsoever.  After all, the word “confidential” sometimes refers, at least in the national security context, to information the disclosure of which would cause harm.  See, e.g., Webster’s Third New International Dictionary 476 (1966) (defining “confidential” to mean “characterized by or relating to information considered prejudicial to a country’s interests”); Webster’s New Collegiate Dictionary 237 (1974) (defining “confidential” to mean “containing information whose unauthorized disclosure could be prejudicial to the national interest”).  And a speaker can more sensibly refer to his Social Security number as “confidential” than his favorite color, in part because release of the former is more likely to cause harm.  “Confidential,” in this sense, conveys something about the nature of the information itself, not just (as the majority suggests) how it is kept by those who possess it.
+
+															Reading “confidential” in this more restrictive sense is more faithful to FOIA’s purpose and how we have interpreted the Act in the past.  This Court has made clear that the “mandate of the FOIA” is “broad disclosure of Gov- ernment records.”  CIA v. Sims,
+
+471 U.S. 159, 166 (1985).  Its purpose is to “permit access to official information long shielded unnecessarily from public view” and “to create a judicially enforceable public right to secure such information from possibly unwilling official hands.”  EPA v. Mink,
+
+410 U.S. 73, 80 (1973).  To that end, we have continuously held that FOIA’s enumerated exemptions “must be narrowly construed.”  Department of Air Force v. Rose,
+
+425 U.S. 352, 361 (1976); see, e.g., Milner v. Depart- ment of Navy,
+
+562 U.S. 562, 565 (2011) (same); FBI v. Abramson,
+
+456 U.S. 615, 630 (1982) (noting our “oft-repeated caveat that FOIA exemptions are to be narrowly construed”).
+
+															The majority’s reading of Exemption 4 is at odds with these principles.  The whole point of FOIA is to give the public access to information it cannot otherwise obtain.  So the fact that private actors have “customarily and actually treated” commercial information as secret, ante, at 11, cannot be enough to justify nondisclosure.  After all, where information is already publicly available, people do not submit FOIA requests—they use Google.  Nor would a statute designed to take from the government the power to unilaterally decide what information the public can view, see Mink, 410 U. S., at 80, put such determinative weight on the government’s preference for secrecy (what the majority calls the government’s “assurance of privacy”), ante, at 11.
+
+															For the majority, a business holding information as private and submitting it under an assurance of privacy is enough to deprive the public of access.  But a tool used to probe the relationship between government and business should not be unavailable whenever government and business wish it so.  And given the temptation, common across the private and public sectors, to regard as secret all information that need not be disclosed, I fear the majority’s reading will deprive the public of information for reasons no better than convenience, skittishness, or bureaucratic inertia.  The Exemption’s focus on “commercial” or “financial” information, for instance, implies that the harm caused by disclosure must do more than, say, simply embarrass the information’s owner.  It must cause some genuine harm to an owner’s economic or business interests.
+
+															In sum, the language permits, and the purpose, precedent, and context all suggest, an interpretation that insists upon some showing of harm.  And I believe we should say just that.  Exemption 4 can be satisfied where, in addition to the conditions set out by the majority, release of commercial or financial information will cause genuine harm to an owner’s economic or business interests.  (Because it is not at issue, I express no opinion as to whether genuine harm to a government interest would suffice.)  I would remand the case for a determination as to whether, in this instance, release of the information at issue will cause that genuine harm.  To that extent, I dissent from the majority’s decision.
+													

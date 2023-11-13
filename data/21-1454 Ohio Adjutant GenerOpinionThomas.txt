@@ -1,0 +1,440 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1454
+::decision_name::  Ohio Adjutant General's Department v. Federal Labor Relations Authority
+::decision_year:: 2023
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1454
+
+															_________________
+
+															THE OHIO ADJUTANT GENERAL’S DEPARTMENT,
+et al., PETITIONERS v. FEDERAL LABOR RELATIONS
+AUTHORITY, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the sixth circuit
+
+															[May 18, 2023]
+
+															
+
+															Justice Thomas delivered the opinion of the
+Court.
+
+															This case requires us to determine whether the
+Federal Labor Relations Authority (FLRA) properly exercised
+jurisdiction over an unfair labor practices dispute. On one side
+were the Ohio National Guard, the Ohio Adjutant General, and the
+Ohio Adjutant General’s Department (collectively petitioners
+or the Guard). On the other was the American Federation of
+Government Employees, Local 3970, AFL–CIO (Union), which
+represents federal employees known as dual-status technicians who
+work in both civilian and military roles for the Guard.
+
+															The Union petitioned the FLRA to resolve the
+dispute. But, under the Federal Service Labor-Management Relations
+Statute (FSLMRS or Statute), the FLRA only has jurisdiction over
+labor organizations and federal “agencies”—and
+petitioners insist that they are neither. 5 U. S. C.
+§7101 et seq. We hold, however, that petitioners
+act as a federal “agency” when they hire and supervise
+dual-status technicians serving in their civilian role.
+
+															I
+
+															A
+
+															Enacted in 1978, the FSLMRS establishes a
+comprehensive framework governing labor-management relations in
+federal agencies. It secures the right of “[e]ach
+employee” “to form, join, or assist any labor
+organization, or to refrain from any such activity, freely and
+without fear of penalty or reprisal.” §7102. And, it
+further guarantees that “each employee shall be protected in
+the exercise of such right.” Ibid. To that end, the
+FSLMRS provides for collective bargaining between federal agencies
+and their employees’ unions, and it bars each from committing
+unfair labor practices. See §§7102(2) and
+7116(a)–(b). For example, an agency may not “interfere
+with, restrain, or coerce any employee in the exercise by the
+employee of any right under” the Statute; “refuse to
+consult or negotiate in good faith with a labor organization as
+required by” the Statute; or “otherwise fail or refuse
+to comply with any provision of ” the Statute.
+§§7116(a)(1), (5), (8).
+
+															The Statute creates the FLRA and tasks it with
+administering this framework, including by investigating and
+adjudicating labor disputes. §7105(a)(2)(G); see also
+§§7104 and 7118(a)(1). It provides that the FLRA’s
+general counsel “shall investigate” a charge against
+“any agency or labor organization” and, if warranted,
+may issue a complaint calling for a hearing before the FLRA.
+§§7118(a)(1)–(2). The FLRA is then responsible for
+“conduct[ing] hearings and resolv[ing such]
+complaints.” §7105(a)(2)(G). If the FLRA determines that
+an agency or a union has engaged in an unfair labor practice, it
+“may require” the entity “to cease and desist
+from violations of [the Statute] and require it to take any
+remedial action it considers appropriate.”
+§7105(g)(3).
+
+															This case concerns the Statute’s
+application to a unique category of federal civil-service
+employees: dual-status technicians working for the State National
+Guards. These “rare bird[s]” occupy both civilian and
+military roles. Babcock v. Kijakazi, 595 U. S.
+___, ___ (2022) (slip op., at 2). They serve as “civilian
+employee[s]” engaged in “organizing, administering,
+instructing,” “training,” or “maintenance
+and repair of supplies” to assist the National Guard. 10
+U. S. C. §10216(a)(1)(C); see 32 U. S. C.
+§§709(a)(1)–(2); Babcock, 595 U. S., at
+___ (slip op., at 2). Yet, they must “as a condition of that
+employment . . . maintain membership in the [National
+Guard]” and wear a uniform while working. 10
+U. S. C. §10216(a)(1)(B); see 32 U. S. C.
+§§709(b)(2)–(4). Except when participating as
+National Guard members in part-time drills, training, or
+active-duty deployment, see 32 U. S. C.
+§§502(a) and 709(g)(2), dual-status technicians work full
+time in a civilian capacity and receive federal civil-service pay.
+See Babcock, 595 U. S., at ___–___ (slip op., at
+2–3); see also 5 U. S. C. §2101(a).
+
+															Importantly, under the Technicians Act of 1968,
+each dual-status technician is considered “an employee of the
+Department of the Army or the Department of the Air Force, as the
+case may be, and an employee of the United States.” 32
+U. S. C. §709(e). While it is state adjutants
+general who “employ and administer” dual-status
+technicians working for their respective State National Guard
+units, they can only do so pursuant to an express
+“designat[ion]” of authority by the Secretary of the
+Army or the Secretary of the Air Force. §709(d); see also
+Dept. of the Army, S. Resor, Delegation of Authority Under the
+National Guard Technicians Act of 1968 (General Order 85, Dec. 31,
+1968) (General Order 85) (current order designating the relevant
+authority).
+
+															B
+
+															The parties’ collective-bargaining
+relationship dates back to 1971, when the Guard recognized the
+Union as the exclusive representative of its dual-status
+technicians. They have since negotiated a number of
+collective-bargaining agreements (CBAs), the most recent of which
+was signed in 2011 and expired in 2014. As the expiration date
+neared, the Guard and the Union entered into negotiations for a new
+agreement. During this process, in March 2016, they adopted a
+memorandum of understanding whereby the Ohio Adjutant General
+promised to abide by certain practices contained in the expired
+agreement. But, later that year, the Ohio Adjutant General’s
+Department reversed course. It asserted that it was not bound by
+the expired CBA and did not consider itself bound by the FSLMRS
+when interacting with dual-status technicians. The Guard also sent
+letters to dual-status technician Union members, asking them to
+submit the requisite forms to permit the deduction of Union dues
+from their pay. The letters advised that, if the technicians did
+not promptly submit the forms, the Guard would cancel dues
+deductions on their behalf. The Guard ultimately terminated dues
+withholding for 89 technicians.
+
+															The Union subsequently filed unfair labor
+practice charges with the FLRA. After investigating, the FLRA
+general counsel issued consolidated complaints against the
+“U. S. Department of Defense, Ohio National
+Guard,” alleging that the Guard had refused to negotiate in
+good faith and interfered with the exercise of employee rights
+under the Statute through its treatment of technicians’ dues
+deductions. App. 16. The Ohio Adjutant General and the Ohio
+Adjutant General’s Department intervened on the side of the
+Ohio National Guard.
+
+															Petitioners argued before the Administrative Law
+Judge that the Guard was not an “agency” and that
+dual-status technician bargaining-unit employees were not
+“employees” for purposes of the Statute. The
+Administrative Law Judge issued a recommended decision finding that
+the FLRA had jurisdiction over the Guard, that the dual-status
+technicians had collective-bargaining rights under the Statute, and
+that the Guard’s actions in repudiating the CBA violated the
+Statute. It thus ordered petitioners to follow the mandatory terms
+of the 2011 CBA, bargain in good faith going forward, and reinstate
+Union dues withholding. A divided panel of the FLRA adopted the
+Administrative Law Judge’s findings, conclusions, and
+remedial order.
+
+															The Guard petitioned for review in the
+U. S. Court of Appeals for the Sixth Circuit, which denied the
+petition. 21 F. 4th 401 (2021). The Sixth Circuit held that
+the Guard is an agency subject to the Statute when it operates in
+its capacity as employer of dual-status technicians. The court
+further found that dual-status technicians are federal civilian
+employees with collective-bargaining rights under the Statute.
+Thus, because the FLRA has authority to enforce those
+collective-bargaining rights, the court concluded that this dispute
+fell within its jurisdiction.
+
+															We granted certiorari to consider whether the
+FLRA had jurisdiction over this labor dispute under the Statute.
+598 U. S. ___ (2022).[1]
+
+															II
+
+															Under the FSLMRS, it is “an unfair labor
+practice for an agency” “to interfere with, restrain,
+or coerce any employee in the exercise by the employee of any right
+under” the Statute. 5 U. S. C. §7116(a)(1).
+The FLRA’s jurisdiction over this unfair labor practices
+dispute thus turns on whether petitioners are an
+“agency” for purposes of the Statute when they act in
+their capacities as supervisors of dual-status technicians, a
+question bounded by a series of defined terms. The Statute defines
+an “agency” as “an Executive agency,” with
+exceptions not relevant here. §7103(a)(3). Then, the term
+“ ‘Executive agency,’ ” as used
+in Title 5, “means an Executive department, a Government
+corporation, and an independent establishment.” §105.
+And each of those terms is separately defined: an “Executive
+departmen[t]” means each of 15 Cabinet-level Departments,
+including “[t]he Department of Defense,” §101; a
+“ ‘Government corporation’ means a
+corporation owned or controlled by the Government of the United
+States,” §103; and an “ ‘independent
+establishment’ means” “an establishment in the
+executive branch,” with exceptions not relevant here,
+“which is not an Executive department, military department,
+Government corporation, or part thereof, or part of an independent
+establishment,” §104(1). It is undisputed that the Guard
+is neither a “Government corporation” nor an
+“independent establishment,” leaving only
+“Executive department” at issue.
+
+															Petitioners work backwards through the links in
+the statutory chain. They argue that they are not an Executive
+department because they are not listed among the 15 Cabinet-level
+Departments specified in §101. Thus, they claim, they are not
+an “Executive agency” under §105 and, accordingly,
+do not qualify as an “agency” under the Statute.
+Respondents counter that the components, representatives, and
+agents of an agency may be required to comply with the Statute. And
+they emphasize that petitioners exercise federal authority in
+employing dual-status technicians and must therefore comply with
+applicable federal law. Respondents have the better of the
+argument.
+
+															A
+
+															The Guard, when employing dual-status
+technicians, functions as an agency covered by the Statute. The
+Statute defines “ ‘agency’ ” to
+include the Department of Defense, one of the enumerated executive
+Departments in §101. §7103(a)(3); see §§101 and
+105. And, each dual-status “technician . . . is an
+employee of the Department of the Army or the Department of the Air
+Force,” 32 U. S. C. §709(e); see also 10
+U. S. C. §10216(a)(1)(A). Those Departments, in
+turn, are components of the Department of Defense. 10
+U. S. C. §§111(b)(6) and (8). And, components
+of covered agencies plainly fall within the Statute’s reach.
+5 U. S. C. §§7103(a)(12) (contemplating
+collective bargaining between “the representative of an
+agency” and “the exclusive representative of employees
+in an appropriate unit in the agency”) and 7112(a)
+(contemplating the establishment of “appropriate”
+bargaining units “on an agency, plant, installation,
+functional, or other basis”). Accordingly, when petitioners
+employ and supervise dual-status technicians, they—like
+components of an agency—exercise the authority of the
+Department of Defense, a covered agency.
+
+															The statutory authority permitting the Adjutant
+General to employ dual-status technicians reinforces this point.
+Adjutants general appoint dual-status technicians as civilian
+employees in the federal civil service. See 5 U. S. C.
+§2105(a)(1)(F) (providing that the term
+“ ‘employee,’ ” for purposes of
+Title 5, ordinarily includes “an individual . . .
+appointed in the [federal] civil service by . . . an
+adjutant general designated by the Secretary [of the Army or of the
+Air Force] under section 709[(d)] of title 32”). And,
+Congress has required the Secretaries of the Army and Air Force to
+“designate” adjutants general “to employ and
+administer” technicians. 32 U. S. C. §709(d).
+That designation is the sole basis for petitioners’ authority
+to employ technicians performing work in their federal civilian
+roles, confirming that petitioners act on behalf of—and
+exercise the authority of—a covered federal agency when they
+supervise dual-status technicians.
+
+															Here, for example, a 1968 order of the Secretary
+of the Army “designate[s]” and “empower[s]”
+each adjutant general “to employ and administer the Army
+National Guard technicians authorized for his State . . .
+as the case may be.” General Order 85, ¶3. Accordingly,
+dual-status technicians are ultimately employees of the Secretaries
+of the Army and the Air Force, and petitioners are the
+Secretaries’ designees for purposes of dual-status technician
+employment. Should a state adjutant general wish to employ federal
+dual-status technicians, he must do so pursuant to delegated
+federal authority and subject to federal civil-service
+requirements. See 5 U. S. C. §2105(a)(1)(F). Indeed,
+it would be passing strange if dual-status technicians, who qualify
+as employees under the Statute, were supervised by an entity not
+required to safeguard the rights guaranteed employees under the
+Statute. §§7102 (providing that “each employee
+shall be protected in the exercise of ” his right to join or
+refrain from joining a labor association) and 7103(a)(2)(A)
+(defining an “ ‘employee’ ” as
+“an individual . . . employed in an agency”).
+The case caption in this matter reflects the Guard’s federal
+function with respect to hiring dual-status technicians; before the
+FLRA, the case proceeded against the “U. S. Department
+of Defense, Ohio National Guard,” with the Adjutant General
+and the Adjutant General’s Department joining the suit later
+as intervenors. App. 16.
+
+															Petitioners contend that federalism concerns
+require us to read the Statute to exempt them from the FLRA’s
+jurisdiction. But, the FLRA enforces the rights and obligations of
+federal civilian employees and their agency employers.
+Because adjutants general act on behalf of an agency of the Federal
+Government with respect to their supervision of civilian
+technicians, their actions in that capacity do not implicate the
+balance between federal and state powers. See 10 U. S. C.
+§10216(a); 32 U. S. C. §709(e).
+
+															B
+
+															The evolution of federal agency-employee
+relations law and the text of 5 U. S. C. §7135(b),
+which functions as the Statute’s saving clause, lend further
+support to the FLRA’s exercise of authority over the Guard.
+Before the FSLMRS was adopted, “labor-management relations in
+the federal sector were governed by a program established” by
+a series of Executive Orders, “under which federal employees
+had limited rights to engage in” collective bargaining.
+Bureau of Alcohol, Tobacco and Firearms v. FLRA,
+464 U.S.
+89, 91–92 (1983). The Statute’s immediate
+predecessor, Executive Order No. 11491, established the precursor
+to the current FLRA and listed prohibited unfair labor practices
+for both federal agency management and unions. See Exec. Order No.
+11491, 3 CFR 861 (1966–1970 Comp.). When Congress later
+replaced that Executive Order with the FSLMRS, it explicitly
+continued many aspects of the pre-FSLMRS regime: “Policies,
+regulations, and procedures established under and decisions issued
+under Executive Orde[r ] 11491 . . . shall remain in
+full force and effect until revised or revoked by the President, or
+unless superseded by specific provisions of [the Statute] or by
+regulations or decisions issued pursuant to [the Statute].” 5
+U. S. C. §7135(b). Thus, “decisions issued
+under Executive Orde[r] 11491” supply critical guidance
+regarding the FLRA’s jurisdiction today.
+
+															One such decision is directly on point. In the
+1971 case of Mississippi National Guard, 172d Military Airlift
+Group (Thompson Field), Asst. Sec. Labor/Management Reports
+(A/SLMR) No. 20 (Thompson Field), the Assistant Secretary of
+Labor—exercising adjudicative authority under Executive Order
+No. 11491 analogous to the modern FLRA’s—rejected
+arguments virtually identical to those petitioners advance here.
+See id., at 2 (describing the state guard’s argument
+“that the provisions of Executive Order 11491 did not apply
+. . . because the employees involved are under the
+operational control of the Adjutant General of the State of
+Mississippi, who is appointed and employed pursuant to State
+law”). The Assistant Secretary reasoned “that National
+Guard technicians [were] employees within the meaning
+of ” the Executive Order and “employees of the
+Federal government” under the Technicians Act. Id., at
+6. The Assistant Secretary then concluded that the adjutant general
+had “been designated as an agent of the Secretaries of the
+Army and the Air Force” in employing and administering
+dual-status technicians and that this agency relationship created
+the obligation to comply with Executive Order No. 11491.
+Id., at 7.
+
+															The definitions of “employee” and
+“agency” that Thompson Field examined under
+Executive Order No. 11491 were materially identical to those that
+Congress ultimately adopted in the FSLMRS. Compare 5
+U. S. C. §§7103(a)(2)–(3) (defining
+“ ‘employee’ ” as “an
+individual . . . employed in an agency,” and
+defining “ ‘agency’ ” as
+“an Executive agency,” which §105 in turn defines
+as an executive department, a Government corporation, and an
+independent establishment) with Exec. Order No. 11491,
+§§2(a)–(b) (defining
+“ ‘[e]mployee’ ” primarily as
+“an employee of an agency,” and defining
+“ ‘[a]gency’ ” as “an
+executive department, a Government corporation, and an independent
+establishment”). We would, therefore, ordinarily presume that
+the FSLMRS maintained the same coverage that existed under the
+prior regime. See, e.g., George v. McDonough,
+596 U. S. ___, ___ (2022) (slip op., at 5); Taggart v.
+Lorenzen, 587 U. S. ___, ___–___ (2019) (slip
+op., at 5–6). We see nothing to weaken the force of that
+presumption here. On the contrary, §7135(b) specifically
+demonstrates Congress’ intent to leave the prior regime in
+place except where it was specifically altered. And, because the
+President has not revoked it and neither the FSLMRS nor associated
+regulations have repudiated it, the decision in Thompson
+Field “remain[s] in full force and effect.”
+§7135(b).
+
+															*  *  *
+
+															We conclude that petitioners are subject to
+the authority of the FLRA when acting in their capacities as
+supervisors of dual-status technicians. Each dual-status technician
+is an employee of the Department of the Army or the Department of
+the Air Force; those Departments are, in turn, components of the
+Department of Defense; and the Department of Defense is a covered
+agency under the Statute. Further, a designation from the
+Department of the Army is the sole basis for petitioners’
+authority to employ dual-status technicians. Accordingly,
+petitioners employ federal dual- status technicians pursuant to
+delegated federal authority and subject to federal civil-service
+requirements. The Statute also explicitly incorporates prior
+practice, including the decision in Thompson Field, which
+further reinforces our conclusion.
+
+															The judgment of the Sixth Circuit is
+affirmed.
+
+															
+
+															It is so ordered.
+
+Notes
+1
+ We did not grant
+certiorari to consider petitioners’ additional question
+presented, which disputed the constitutionality of the FLRA’s
+authority to regulate the labor practices of state militia members
+who are not employed in the service of the United States.
+Consequently, we address only the statutory question presented, and
+our holding is limited to the unique class of federal employees
+hired and supervised by state adjutants general.
+
+

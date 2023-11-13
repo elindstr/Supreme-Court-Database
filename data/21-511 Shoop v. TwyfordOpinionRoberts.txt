@@ -1,0 +1,134 @@
+::SCDB_caseID:: 2021-067
+::decision_cite:: 21-511
+::decision_name::  Shoop v. Twyford
+::decision_year:: 2022
+::opinion_author:: Roberts
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–511
+
+															_________________
+
+															TIM SHOOP, WARDEN, PETITIONER v. RAYMOND A. TWYFORD, III
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[June 21, 2022]
+
+															
+
+															Chief Justice Roberts delivered the opinion of the Court.
+
+															The All Writs Act authorizes federal courts to “issue all writs necessary or appropriate in aid of their respective jurisdictions and agreeable to the usages and principles of law.”
+
+28 U. S. C. §1651(a).  In this case, the District Court ordered the State to transport a prisoner in its custody to a hospital for medical testing.  The prisoner argued that the testing could reveal evidence helpful in his effort to obtain habeas corpus relief.  The question is whether the District Court’s order is “necessary or appropriate in aid of ” the federal court’s resolution of the prisoner’s habeas case.  We hold that it is not, and therefore reverse.
+
+															I
+
+															On the evening of September 23, 1992, Raymond Twyford and his co-conspirator lured Richard Franks to a remote location, and shot and killed him.  To hide their crime, the pair mutilated Franks’s body and pushed it into a pond.  But a sheriff found the body a few days later, and his investigation led to Twyford.  Twyford confessed, claiming that Franks had raped his girlfriend’s daughter and that he had killed Franks out of revenge.  A jury convicted Twyford of aggravated murder, kidnapping, robbery, and other charges, and he was sentenced to death.  The Ohio appellate courts affirmed his conviction and sentence, State v. Twyford, 94 Ohio St. 3d 340, 763 N.E.2d 122, and this Court denied certiorari,
+
+537 U.S. 917 (2002).
+
+															Twyford then sought postconviction relief in Ohio state court.  Relevant here, he claimed that his trial counsel was ineffective for failing to present evidence of a head injury Twyford sustained as a teenager during a suicide attempt.  That injury, Twyford argued, left him “unable to make rational and voluntary choices.”  State v. Twyford, 2001 WL 301411, *10 (Ohio App. 7th, Mar. 19, 2001).  The Ohio trial court and Court of Appeals rejected this claim on the merits, concluding that “a finding of ineffective assistance cannot be based upon the trial counsel’s choice of one competing psychological explanation over another.”  Id., at *13.  The Court of Appeals noted that Twyford’s counsel had called a psychologist who testified in support of a completely different theory: that Twyford’s “commission of the murder was his way of protecting the alleged rape victim from the same type of abusive behavior [he] had experienced when he was young.”  Ibid.  Unlike the head injury theory, this one explained Twyford’s seemingly deliberate and rational actions: planning a fake hunting trip as a ruse to lure Franks to a remote location, dismembering his body, and disposing of it in such a way as would conceal his identity.  This theory was also consistent with Twyford’s own written confession, which described his plan in detail.  The Ohio Supreme Court denied review.  State v. Twyford, 95 Ohio St. 3d 1436, 2002-Ohio-2084, 766 N.E.2d 1002 (Table).
+
+															In 2003, Twyford filed a petition in federal court for habeas relief, from which this case stems.  Despite the passing of two decades, relatively little has happened.  The State moved in 2008 to dismiss many of Twyford’s claims on the ground that he failed to raise them in state court.  The District Court did not rule on that motion for nine years.  Eventually, it dismissed most of Twyford’s claims as procedurally defaulted but allowed a few, including some ineffective assistance of counsel claims, to proceed.  Twyford v. Bradshaw, No. 2:03–cv–906 (SD Ohio, Sept. 27, 2017).
+
+															Twyford then moved for an order compelling the State “to transport [him] to The Ohio State University Medical Center for medical testing necessary for the investigation, presentation, and development of claims.”  Motion to Transport for Medical Testing in No. 2:03–cv–906 (SD Ohio), p. 1 (Motion to Transport).  Twyford explained that such testing could not be conducted at the prison, and argued that it was necessary to determine whether he suffers neurological defects due to childhood physical abuse, alcohol and drug use, and the self-inflicted gunshot wound to his head.  Id., at 3.  In support of his motion, he attached a letter from a neurologist stating that “a CT/FDG-PET scan would be a useful next step to further evaluate [him] for brain injury,” in part because previous scans revealed 20 to 30 metal fragments in his skull.  App. to Pet. for Cert. 272a.  Twyford argued that it was “plausible” that the testing was “likely to reveal evidence in support of ” claims and that it “could plausibly lead to the development of evidence and materials” that could counter arguments of “procedural default or exhaustion.”  Motion to Transport 8.  He also urged the court to disregard, at least for now, the question whether the results of the brain testing would be admissible.
+
+															The District Court granted Twyford’s motion and ordered the State to transport him to the Medical Center.  It determined that the order was appropriate under the All Writs Act, which authorizes federal courts to “issue all writs necessary or appropriate in aid of their respective jurisdictions and agreeable to the usages and principles of law.”
+
+28 U. S. C. §1651(a).  The District Court did not address whether it would be able to consider the evidence that Twyford hoped to develop.
+
+															The District Court stayed the transportation order pending appeal, and the Court of Appeals affirmed, 11 F. 4th 518 (CA6 2021).  That court first concluded that transportation orders to gather evidence are “agreeable to the usages and principles of law.”  §1651(a).  It then determined that Twyford’s transportation to gather evidence was “necessary or appropriate” under the Act because the desired evidence “plausibly relate[d]” to his claims for relief.  11 F. 4th, at 526–527. Like the District Court, the Court of Appeals concluded that it was not required to “consider the admissibility of any resulting evidence” before ordering the State to transport Twyford to gather it.  Id., at 527.
+
+															Judge Batchelder dissented, contending that such an order is “necessary or appropriate in aid of ” a court’s jurisdiction only if “(1) the petitioner has identified specific claims for relief that the evidence being sought would support or further; and (2) the district court has determined that if that evidence is as the petitioner proposed or anticipated, then it could entitle the petitioner to habeas relief.”  Id., at 529.  The majority’s approach, she argued, allowed Twyford to “proceed in reverse order by collecting evidence before justifying it.”  Ibid.
+
+															We granted certiorari.  595 U. S. ___ (2022).
+
+															II
+
+															The State argues that the lower courts erred for two independent reasons.  First, the State contends that the All Writs Act does not authorize the issuance of transportation orders for medical testing at all.  Second, the State argues that the transportation order was not “necessary or appropriate in aid of” the District Court’s jurisdiction because Twyford failed to show that the evidence he hoped to find would be useful to his habeas case.  We agree with the State’s second argument and thus need not address the first.[1]
+
+															A
+
+															A federal court’s power to grant habeas relief is restricted under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), which provides that the writ may issue “only on the ground that [the prisoner] is in custody in violation of the Constitution or laws or treaties of the United States.”
+
+28 U. S. C. §2254(a).  To understand the propriety of the transportation order the District Court entered while adjudicating Twyford’s habeas corpus action, it is necessary to review the limits AEDPA imposes on federal courts.
+
+															Congress enacted AEDPA “to reduce delays in the execution of state and federal criminal sentences, particularly in capital cases,” Woodford v. Garceau,
+
+538 U.S. 202, 206 (2003), and to advance “the principles of comity, finality, and federalism,” Williams v. Taylor,
+
+529 U.S. 420, 436 (2000) (Michael Williams).  It furthered those goals “in large measure [by] revising the standards used for evaluating the merits of a habeas application.”  Garceau, 538 U. S., at 206.  Pertinent here, §2254(d) provides that if a claim was adjudicated on the merits in state court, a federal court cannot grant relief unless the state court (1) contradicted or unreasonably applied this Court’s precedents, or (2) handed down a decision “based on an unreasonable determination of the facts in light of the evidence presented in the State court proceeding.”  The question under AEDPA is thus not whether a federal court believes the state court’s determination was incorrect, but whether that determination was unreasonable—“a substantially higher threshold” for a prisoner to meet.  Schriro v. Landrigan,
+
+550 U.S. 465, 473 (2007); see also Harrington v. Richter,
+
+562 U.S. 86, 102–103 (2011).
+
+															AEDPA also restricts the ability of a federal habeas court to develop and consider new evidence.  Review of factual determinations under §2254(d)(2) is expressly limited to “the evidence presented in the State court proceeding.”  And in Cullen v. Pinholster,
+
+563 U.S. 170 (2011), we explained that review of legal claims under §2254(d)(1) is also “limited to the record that was before the state court.”  Id., at 181.  This ensures that the “state trial on the merits” is the “main event, so to speak, rather than a tryout on the road for what will later be the determinative federal habeas hearing.”  Wainwright v. Sykes,
+
+433 U.S. 72, 90 (1977) (internal quotation marks omitted).
+
+															If a prisoner “failed to develop the factual basis of a claim in State court proceedings,” a federal court may admit new evidence, but only in two quite limited situations.  §2254(e)(2).  Either the claim must rely on a “new” and “previously unavailable” “rule of constitutional law” made retroactively applicable by this Court, or it must rely on “a factual predicate that could not have been previously discovered through the exercise of due diligence.”  §2254(e)(2)(A).  And even if a prisoner can satisfy one of those two exceptions, he must also show that the desired evidence would demonstrate, “by clear and convincing evidence,” that “no reasonable factfinder” would have convicted him of the charged crime.  §2254(e)(2)(B).  Thus, although state prisoners may occasionally submit new evidence in federal court, “AEDPA’s statutory scheme is designed to strongly discourage them from doing so.”  Pinholster, 563 U. S., at 186; see also Michael Williams, 529 U. S., at 437 (“Federal courts sitting in habeas are not an alternative forum for trying facts and issues which a prisoner made insufficient effort to pursue in state proceedings.”).
+
+															We have explained that a federal court, in deciding whether to grant an evidentiary hearing or “otherwise consider new evidence” under §2254(e)(2), must first take into account these restrictions.  Shinn v. Martinez Ramirez, 596 U. S. ___, ___ (2022) (slip op., at 21); see also Schriro, 550 U. S., at 474. The reasons for this are familiar.  A federal court “may never needlessly prolong a habeas case, particularly given the essential need to promote the finality of state convictions,” so a court must, before facilitating the development of new evidence, determine that it could be legally considered in the prisoner’s case.  Shinn, 596 U. S., at ___ (slip op., at 21) (internal quotation marks and citation omitted); see also Bracy v. Gramley,
+
+520 U.S. 899, 904 (1997) (“A habeas petitioner, unlike the usual civil litigant in federal court, is not entitled to discovery as a matter of ordinary course.”).  If §2254(e)(2) applies and the prisoner cannot satisfy its “stringent requirements,” Michael Williams, 529 U. S., at 433, holding an evidentiary hearing or otherwise expanding the state-court record would “prolong federal habeas proceedings with no purpose,” Shinn, 596 U. S., at ___ (slip op., at 21) (internal quotation marks omitted).  And that would in turn disturb the “State’s significant interest in repose for concluded litigation.”  Harrington, 562 U. S., at 103.  A court therefore must, consistent with AEDPA, determine at the outset whether the new evidence sought could be lawfully considered.
+
+															This is true even when the All Writs Act is the asserted vehicle for gathering new evidence.  We have made clear that a petitioner cannot use that Act to circumvent statutory requirements or otherwise binding procedural rules.  See Pennsylvania Bureau of Correction v. United States Marshals Service,
+
+474 U.S. 34, 43 (1985) (“Although [the Act] empowers federal courts to fashion extraordinary remedies when the need arises, it does not authorize them to issue ad hoc writs whenever compliance with statutory procedures appears inconvenient or less appropriate.”); Syngenta Crop Protection, Inc. v. Henson,
+
+537 U.S. 28, 32–33 (2002) (same).  AEDPA provides the governing rules for federal habeas proceedings, and our precedents explain that a district court must consider that statute’s requirements before facilitating the development of new evidence.  See Schriro, 550 U. S., at 474; see also Shinn, 596 U. S., at ___ (slip op., at 21).
+
+															By the same token, a writ seeking new evidence would not be “necessary or appropriate in aid of ” a federal habeas court’s jurisdiction, as all orders issued under the All Writs Act must be, if it enables a prisoner to fish for unusable evidence, in the hope that it might undermine his conviction in some way.  In every habeas case, “the court must be guided by the general principles underlying our habeas corpus jurisprudence.”  Calderon v. Thompson,
+
+523 U.S. 538, 554 (1998).  A writ that enables a prisoner to gather evidence that would not be admissible would “needlessly prolong” resolution of the federal habeas case, Shinn, 596 U. S., at ___ (slip op., at 21), and frustrate the “State’s interest[ ] in finality,” Calderon, 523 U. S., at 556.  Cf. Harris v. Nelson,
+
+394 U.S. 286, 300 (1969) (recognizing, before AEDPA, that a writ is “necessary or appropriate in aid of ” a federal habeas court’s jurisdiction if “specific allegations” show that the petitioner may, “if the facts are fully developed,” be able to demonstrate that he is “entitled to relief ”).
+
+															A federal court order requiring a State to transport a prisoner to a public setting—here, a medical center for testing—not only delays resolution of his habeas case, but may also present serious risks to public safety.  See Brief for State of Utah et al. as Amici Curiae 7–18 (describing the dangers inherent in prisoner transport); cf. Price v. Johnston,
+
+334 U.S. 266, 285 (1948) (a court should not require that a prisoner be transported if doing so would cause “undue inconvenience or danger”).[2]  Commanding a State to take these risks so that a prisoner can search for unusable evidence would not be a “necessary or appropriate” means of aiding a federal court’s limited habeas review.
+
+															B
+
+															The District Court entered an order directing the State to transport Twyford to a medical facility, concluding that doing so would aid its adjudication of his habeas petition.  But the court never determined how, in light of the limitations on its review described above, newly developed evidence could aid Twyford’s cause.  See Twyford v. Warden, 2020 WL 1308318, *4 (SD Ohio, Mar. 19, 2020) (“the Court does not find itself in a position at this stage of proceedings to make a determination as to whether or to what extent it would be precluded by Cullen v. Pinholster from considering any new evidence”).  Nor did the Sixth Circuit.  See 11 F. 4th, at 527 (“At this stage, on review of Twyford’s interlocutory appeal seeking a transport order, we need not consider the admissibility of any resulting evidence.”).  For the reasons just discussed, that was error.
+
+															Reviewing Twyford’s request for transportation under the proper standard is straightforward, because his motion sheds no light on how he might persuade a court to consider the results of his testing, given the limitations AEDPA imposes on presenting new evidence.  He argued that it is “plausible that the testing to be administered is likely to reveal evidence in support of ” his claims of ineffective assistance of counsel and expert witness, lack of competency to stand trial, and the involuntariness of his confession.  Motion to Transport 8.  Whether or not that is true, Twyford never explained how the results of the neurological testing could be admissible in his habeas proceeding, and it is hard to see how they could be.  The Ohio courts already adjudicated and rejected most of these claims on the merits, and the District Court’s AEDPA review will therefore be limited to “the record that was before the state court.”  Pinholster, 563 U. S., at 181.  As for the claims that the state courts did not consider, Twyford never argued that he could clear the bar in §2254(e)(2) for expanding the state court record, or that the bar was somehow inapplicable.
+
+															Twyford asserted in passing that the desired evidence could “plausibly” bear on the question whether to excuse procedural default.  Motion to Transport 8.  By way of background, a federal court may not review a claim a habeas petitioner failed to adequately present to state courts, unless he shows “cause to excuse his failure to comply with the state procedural rule and actual prejudice resulting from the alleged constitutional violation.”  Davila v. Davis, 582 U. S. ___, ___ (2017) (slip op., at 5) (internal quotation marks omitted).  Twyford suggested that the results of his brain testing could help make that showing.  But he did not identify the particular defaulted claims he hopes to resurrect, nor did he explain how the testing would matter to his ability to do so.  And in any event, this Court has already held that, if §2254(e)(2) applies and the prisoner cannot meet the statute’s standards for admitting new merits evidence, it serves no purpose to develop such evidence just to assess cause and prejudice.  See Shinn, 596 U. S., at ___ (slip op., at 20) (“when a federal habeas court . . . admits or reviews new evidence for any purpose, it may not consider that evidence on the merits of a negligent prisoner’s defaulted claim unless the exceptions in §2254(e)(2) are satisfied”).  The District Court thus erred in ordering Twyford’s transfer to gather evidence he had never demonstrated would be admissible.
+
+															*  *  *
+
+															A transportation order that allows a prisoner to search for new evidence is not “necessary or appropriate in aid of ” a federal court’s adjudication of a habeas corpus action,
+
+28 U. S. C. §1651(a), when the prisoner has not shown that the desired evidence would be admissible in connection with a particular claim for relief.  Because the District Court entered such an order despite Twyford’s failure to make the required showing, the judgment of the Court of Appeals affirming that order is reversed and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ The Court of Appeals concluded that it had jurisdiction to review the District Court’s order, and we agree.  See Cohen v. Beneficial Industrial Loan Corp.,
+
+337 U.S. 541, 546 (1949).  Transportation orders issued under the All Writs Act (1) conclusively require transportation; (2) resolve an important question of state sovereignty conceptually distinct from the merits of the prisoner’s claims, see Puerto Rico Aqueduct and Sewer Authority v. Metcalf & Eddy, Inc.,
+
+506 U.S. 139, 144–145 (1993); and (3) are entirely unreviewable by the time the case has gone to final judgment.  The dissent treats the order at issue as a mere discovery order, see post, at 3–7 (opinion of Breyer, J.), but that glosses over what it entails: requiring a State to take a convicted felon outside the prison’s walls.  Such an order creates public safety risks and burdens on the State that cannot be remedied after final judgment, and we have in fact reviewed an identical order before.  See Pennsylvania Bureau of Correction v. United States Marshals Service,
+
+474 U.S. 34 (1985); see also Brief for Petitioners 10, n. 6, and Brief for Federal Respondents 17, n. 8, in Pennsylvania Bureau of Correction, O. T. 1984, No. 84–489 (noting the Cohen jurisdictional issue).  Every Court of Appeals to consider the question, moreover, has held that such orders are immediately appealable.  See 11 F. 4th 515, 522 (CA6 2021); Jones v. Lilly, 37 F.3d 964, 965–966 (CA3 1994); Jackson v. Vasquez, 1 F.3d 885, 887–888 (CA9 1993); Ballard v. Spradley, 557 F.2d 476, 479 (CA5 1977); see also Barnes v. Black, 544 F.3d 807, 810–811 (CA7 2008).  
+
+2
+ These risks are not speculative.  To give just one example, earlier this year a convicted murderer escaped from a prison bus transporting him to a medical appointment by breaking out of his restraints and stabbing the bus driver.  He was on the run for three weeks—and allegedly killed a family of five during that time—before dying in a shootout with the police.  See M. Ives & A. Traub, Hunt for Escaped Murderer Ends in Shootout With Police in Texas, N. Y. Times, June 4, 2022, p. A14. 
+
+

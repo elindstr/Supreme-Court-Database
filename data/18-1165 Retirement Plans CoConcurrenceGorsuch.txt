@@ -1,0 +1,42 @@
+::SCDB_caseID:: 2019-014
+::decision_cite:: 18-1165
+::decision_name::  Retirement Plans Committee of IBM v. Jander
+::decision_year:: 2020
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–1165
+
+															_________________
+
+															RETIREMENT PLANS COMMITTEE OF IBM, et al., PETITIONERS v. LARRY W. JANDER, et al.
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															[January 14, 2020]
+
+															
+
+															Justice Gorsuch, concurring.
+
+															The gist of respondents’ sole surviving claim is that certain ERISA fiduciaries should have used their positions as corporate insiders to cause the company to make an SEC-regulated disclosure.  But merely stating the theory suggests a likely flaw:  In ordering up a special disclosure, the defendants necessarily would be acting in their capacities as corporate officers, not ERISA fiduciaries.  Run-of-the-mill ERISA fiduciaries cannot, after all, order corporate disclosures on behalf of their portfolio companies.  Nor do even all corporate insiders have that authority.  These defendants (allegedly) had the opportunity to make a corrective disclosure only because of the positions they happened to hold within the organization.  So while respondents are correct to note that insider fiduciaries are subject to the “same duty of prudence that applies to ERISA fiduciaries in general,” Fifth Third Bancorp v. Dudenhoeffer,
+
+573 U.S. 409, 412 (2014), at bottom they seek to impose an even higher duty on fiduciaries who have the authority to make or order SEC-regulated disclosures on behalf of the corporation.  Because ERISA fiduciaries are liable only for actions taken while “acting as a fiduciary,” it would be odd to hold the same fiduciaries liable for “alternative action[s they] could have taken” only in some other capacity.  Compare Pegram v. Herdrich,
+
+530 U.S. 211, 225–226 (2000), with Dudenhoeffer, 573 U. S., at 428.
+
+															Despite its promise, this argument seemingly wasn’t considered by lower courts before the case arrived in our Court.  In these circumstances, I agree with the Court’s per curiam that the better course is to remand the case to allow the lower courts to address these matters in the first instance.  But the payout of today’s remand is really about timing:  By remanding rather than dismissing, we give the lower courts the chance to answer this important question sooner rather than later.  To be sure, on remand respondents might try to say this argument was waived or forfeited in earlier motions practice.  See ante, at 1 (Kagan, J., concurring).  But following respondents down that path would do no more than briefly delay the task at hand.  The argument before us involves a pure question of law, raised in the context of a motion to dismiss.  If it isn’t addressed immediately on remand, it will only prove unavoidable later, not just in other suits but at later stages in this very litigation.
+
+															Of course, today’s remand would be pointless if the argument before us were already foreclosed by Dudenhoeffer, as Justice Kagan suggests.  Ante, at 2–3, n.  But I do not believe our remand is a wasted gesture, because I do not read Dudenhoeffer so broadly.  Dudenhoeffer held that an ERISA plaintiff must plausibly allege “an alternative action that the defendant could have taken that would have been consistent with the securities laws and that a prudent fiduciary . . . would not have viewed as more likely to harm the fund than to help it.”  573 U. S., at 428.  Put differently, the Court held the plaintiff ’s ability to identify a helpful action that the defendant could have taken consistent with the securities laws is a necessary condition to an ERISA suit.  But nowhere did Dudenhoeffer hold this is also a sufficient condition to suit, promising that a case may proceed anytime a plaintiff is able to conjure a hypothetical helpful action that would’ve been consistent with the securities laws.
+
+															The Court didn’t consider whether other necessary conditions to suit might exist because the question wasn’t before it.  Dudenhoeffer did discuss some “additional considerations” that might arise when a plaintiff tries to plead as “alternative action[s]” either “refrain[ing] from making additional stock purchases” or “disclos[ing] inside information to the public.”  Id., at 428–429.  But the Court singled out these circumstances only because of their obvious potential to “conflict with the complex insider trading and corporate disclosure requirements imposed by the federal securities laws.”  Id., at 429.  So Dudenhoeffer made plain that suits requiring fiduciaries to violate the securities laws cannot proceed.  But only the most unabashed optimist could read that as guaranteeing all other suits may.
+
+															The truth is, Dudenhoeffer was silent on the argument now before us for the simple reason that the parties in Dudenhoeffer were silent on it too.  No one in that case asked the Court to decide whether ERISA plaintiffs may hold fiduciaries liable for alternative actions they could have taken only in a nonfiduciary capacity.  And it is beyond debate that “[q]uestions which merely lurk in the record, neither brought to the attention of the court nor ruled upon, are not to be considered as having been so decided as to constitute precedents.”  Webster v. Fall,
+266 U.S. 507, 511 (1925).
+													

@@ -1,0 +1,199 @@
+::SCDB_caseID:: 2018-014
+::decision_cite:: 17-1026
+::decision_name::  Garza v. Idaho
+::decision_year:: 2019
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1026
+
+															_________________
+
+															GILBERTO GARZA, Jr., PETITIONER v. IDAHO
+
+															on writ of certiorari to the supreme court of idaho
+
+															[February 27, 2019]
+
+															Justice Sotomayor delivered the opinion of the Court.
+
+															In Roe v. Flores-Ortega,
+
+528 U.S. 470 (2000), this Court held that when an attorney’s deficient performance costs a defendant an appeal that the defendant would have otherwise pursued, prejudice to the defendant should be presumed “with no further showing from the defendant of the merits of his underlying claims.”  Id., at 484.  This case asks whether that rule applies even when the defendant has, in the course of pleading guilty, signed what is often called an “appeal waiver”—that is, an agreement forgoing certain, but not all, possible appellate claims.  We hold that the presumption of prejudice recognized in Flores-Ortega applies regardless of whether the defendant has signed an appeal waiver.
+
+															I
+
+															In early 2015, petitioner Gilberto Garza, Jr., signed two plea agreements, each arising from criminal charges brought by the State of Idaho.  Each agreement included a clause stating that Garza “waive[d] his right to appeal.”  App. to Pet. for Cert. 44a, 49a.  The Idaho trial court accepted the agreements and sentenced Garza to terms of prison in accordance with the agreements.
+
+															Shortly after sentencing, Garza told his trial counsel that he wished to appeal.[1]  In the days that followed, he would later attest, Garza “continuously reminded” his attorney of this directive “via phone calls and letters,” Record 210, and Garza’s trial counsel acknowledged in his own affidavit that Garza had “told me he wanted to appeal the sentence(s) of the court,” id., at 151.[2]  Garza’s trial counsel, however, did not file a notice of appeal.  Instead, counsel “informed Mr. Garza that an appeal was problematic because he waived his right to appeal.”  Ibid.  The period of time for Garza’s appeal to be preserved came and went with no notice having been filed on Garza’s behalf.Roughly four months after sentencing, Garza sought postconviction relief in Idaho state court.  As relevant here, Garza alleged that his trial counsel rendered ineffective assistance by failing to file notices of appeal despite Garza’s requests.  The Idaho trial court denied relief, and both the Idaho Court of Appeals and the Idaho Supreme Court affirmed that decision.  See 162 Idaho 791, 793, 405 P.3d 576, 578 (2017).  The Idaho Supreme Court ruled that Garza, given the appeal waivers, needed to show both deficient performance and resulting prejudice; it concluded that he could not.  See id., at 798, 405 P. 3d, at 583.
+
+															In ruling that Garza needed to show prejudice, the Idaho Supreme Court acknowledged that it was aligning itself with the minority position among courts.  For example, 8 of the 10 Federal Courts of Appeals to have considered the question have applied Flores-Ortega’s presumption of prejudice even when a defendant has signed an appeal waiver.[3]  162 Idaho, at 795, 405 P. 3d, at 580.
+
+															We granted certiorari to resolve the split of authority. 585 U. S. ___ (2018).  We now reverse.
+
+															II
+
+															A
+
+															The
+ 
+Sixth Amendment guarantees criminal defendants “the right . . . to have the Assistance of Counsel for [their] defence.”  The right to counsel includes “ ‘the right to the effective assistance of counsel.’ ”  Strickland v. Washington,
+
+466 U.S. 668, 686 (1984) (quoting McMann v. Richardson,
+
+397 U.S. 759, 771, n. 14 (1970)).  Under Strickland, a defendant who claims ineffective assistance of counsel must prove (1) “that counsel’s representation fell below an objective standard of reasonableness,” 466 U. S., at 687–688, and (2) that any such deficiency was “prejudicial to the defense,” id., at 692.
+
+															“In certain
+ 
+Sixth Amendment contexts,” however, “prejudice is presumed.”  Ibid.  For example, no showing of prejudice is necessary “if the accused is denied counsel at a critical stage of his trial,” United States v. Cronic, 466 U.S. 648, 659 (1984), or left “entirely without the assistance of counsel on appeal,” Penson v. Ohio,
+
+488 U.S. 75, 88 (1988).  Similarly, prejudice is presumed “if counsel entirely fails to subject the prosecution’s case to meaningful adversarial testing.”  Cronic, 466 U. S., at 659.  And, most relevant here, prejudice is presumed “when counsel’s constitutionally deficient performance deprives a defendant of an appeal that he otherwise would have taken.”  Flores-Ortega, 528 U. S., at 484.  We hold today that this final presumption applies even when the defendant has signed an appeal waiver.
+
+															B
+
+															It is helpful, in analyzing Garza’s case, to first address two procedural devices on which the case hinges: appeal waivers and notices of appeal.
+
+															1
+
+															We begin with the term “appeal waivers.”  While the term is useful shorthand for clauses like those in Garza’s plea agreements, it can misleadingly suggest a monolithic end to all appellate rights.[4]  In fact, however, no appeal waiver serves as an absolute bar to all appellate claims.  
+
+															As courts widely agree, “[a] valid and enforceable appeal waiver . . . only precludes challenges that fall within its scope.”  United States v. Hardman, 778 F.3d 896, 899 (CA11 2014); see also ibid., n. 2 (collecting cases from the 11 other Federal Courts of Appeals with criminal jurisdiction); State v. Patton, 287 Kan. 200, 228–229, 195 P.3d 753, 771 (2008).  That an appeal waiver does not bar claims outside its scope follows from the fact that, “[a]lthough the analogy may not hold in all respects, plea bargains are essentially contracts.”  Puckett v. United States,
+
+556 U.S. 129, 137 (2009).
+
+															As with any type of contract, the language of appeal waivers can vary widely, with some waiver clauses leaving many types of claims unwaived.[5]  Additionally, even a waived appellate claim can still go forward if the prosecution forfeits or waives the waiver.  E.g., United States v. Story, 439 F.3d 226, 231 (CA5 2006).  Accordingly, a defendant who has signed an appeal waiver does not, in directing counsel to file a notice of appeal, necessarily undertake a quixotic or frivolous quest.
+
+															Separately, all jurisdictions appear to treat at least some claims as unwaiveable.  Most fundamentally, courts agree that defendants retain the right to challenge whether the waiver itself is valid and enforceable—for example, on the grounds that it was unknowing or involuntary.[6]  Consequently, while signing an appeal waiver means giving up some, many, or even most appellate claims, some claims nevertheless remain.
+
+															2
+
+															It is also important to consider what it means—and does not mean—for trial counsel to file a notice of appeal.
+
+															“Filing such a notice is a purely ministerial task that imposes no great burden on counsel.”  Flores-Ortega, 528 U. S., at 474.  It typically takes place during a compressed window: 42 days in Idaho, for example, and just 14 days in federal court.  See Idaho Rule App. Proc. 14(a) (2017); Fed. Rule App. Proc. 4(b)(1)(A).  By the time this window has closed, the defendant likely will not yet have important documents from the trial court, such as transcripts of key proceedings, see, e.g., Idaho Rules App. Proc. 19 and 25; Fed. Rule App. Proc. 10(b), and may well be in custody, making communication with counsel difficult, see Peguero v. United States,
+
+526 U.S. 23, 26 (1999).  And because some defendants receive new counsel for their appeals, the lawyer responsible for deciding which appellate claims to raise may not yet even be involved in the case.
+
+															Filing requirements reflect that claims are, accordingly, likely to be ill defined or unknown at this stage.  In the federal system, for example, a notice of appeal need only identify who is appealing; what “judgment, order, or part thereof” is being appealed; and “the court to which the appeal is taken.”  Fed. Rule App. Proc. 3(c)(1).  Generally speaking, state requirements are similarly nonsubstantive.[7]
+
+															A notice of appeal also fits within a broader division of labor between defendants and their attorneys.  While “the accused has the ultimate authority” to decide whether to “take an appeal,” the choice of what specific arguments to make within that appeal belongs to appellate counsel.  Jones v. Barnes,
+
+463 U.S. 745, 751 (1983); see also McCoy v. Louisiana, 584 U. S. ___, ___ (2018) (slip op., at 6).  In other words, filing a notice of appeal is, generally speaking, a simple, nonsubstantive act that is within the defendant’s prerogative.
+
+															C
+
+															With that context in mind, we turn to the precise legal issues here.  As an initial matter, we note that Garza’s attorney rendered deficient performance by not filing the notice of appeal in light of Garza’s clear requests.  As this Court explained in Flores-Ortega:
+
+															“We have long held that a lawyer who disregards specific instructions from the defendant to file a notice of appeal acts in a manner that is professionally unreasonable.  This is so because a defendant who instructs counsel to initiate an appeal reasonably relies upon counsel to file the necessary notice.  Counsel’s failure to do so cannot be considered a strategic decision; filing a notice of appeal is a purely ministerial task, and the failure to file reflects inattention to the defendant’s wishes.”  528 U. S., at 477 (citations omitted); see also id., at 478.
+
+															Idaho maintains that the risk of breaching the defendant’s plea agreement renders counsel’s choice to override the defendant’s instructions a strategic one.  See Strickland, 466 U. S., at 690–691 (“[S]trategic choices made after thorough investigation of law and facts relevant to plausible options are virtually unchallengeable . . . ”).  That is not so.  While we do not address what constitutes a defendant’s breach of an appeal waiver or any responsibility counsel may have to discuss the potential consequences of such a breach, it should be clear from the foregoing that simply filing a notice of appeal does not necessarily breach a plea agreement, given the possibility that the defendant will end up raising claims beyond the waiver’s scope.  And in any event, the bare decision whether to appeal is ultimately the defendant’s, not counsel’s, to make.[8]  See McCoy, 584 U. S., at ___ (slip op., at 6); Barnes, 463 U. S., at 751.  Where, as here, a defendant has expressly requested an appeal, counsel performs deficiently by disregarding the defendant’s instructions.[9]
+
+															D
+
+															We now address the crux of this case: whether Flores-Ortega’s presumption of prejudice applies despite an appeal waiver.  The holding, principles, and facts of Flores-Ortega show why that presumption applies equally here.
+
+															With regard to prejudice, Flores-Ortega held that, to succeed in an ineffective-assistance claim in this context, a defendant need make only one showing: “that, but for counsel’s deficient failure to consult with him about an appeal, he would have timely appealed.”  528 U. S., at 484.  So long as a defendant can show that “counsel’s constitutionally deficient performance deprive[d him] of an appeal that he otherwise would have taken,” courts are to “presum[e] prejudice with no further showing from the defendant of the merits of his underlying claims.”  Ibid.  Because there is no dispute here that Garza wished to appeal, see supra, at 2, a direct application of Flores-Ortega’s language resolves this case.  See 528 U. S., at 484.
+Flores-Ortega’s reasoning shows why an appeal waiver does not complicate this straightforward application.  That case, like this one, involves a lawyer who forfeited an appellate proceeding by failing to file a notice of appeal.  Id., at 473–475.  As the Court explained, given that past precedents call for a presumption of prejudice whenever “ ‘the accused is denied counsel at a critical stage,’ ” it makes even greater sense to presume prejudice when  counsel’s deficiency forfeits an “appellate proceeding altogether.”  Id., at 483.  After all, there is no disciplined way to “accord any ‘presumption of reliability’. . . to judicial proceedings that never took place.”  Ibid. (quoting Smith v. Robbins,
+
+528 U.S. 259, 286 (2000)).
+
+															That rationale applies just as well here because, as discussed supra, at 4–6, Garza retained a right to appeal at least some issues despite the waivers he signed.[10]  In other words, Garza had a right to a proceeding, and he was denied that proceeding altogether as a result of counsel’s deficient performance.
+
+															That Garza surrendered many claims by signing his appeal waivers does not change things.  First, this Court has made clear that when deficient counsel causes the loss of an entire proceeding, it will not bend the presumption-of-prejudice rule simply because a particular defendant seems to have had poor prospects.  See, e.g., Jae Lee v. United States, 582 U. S. ___, ___ (2017) (slip op., at 9).  We hew to that principle again here.
+
+															Second, while the defendant in Flores-Ortega did not sign an appeal waiver, he did plead guilty, and—as the Court pointed out—“a guilty plea reduces the scope of potentially appealable issues” on its own.  See 528 U. S., at 480.  In other words, with regard to the defendant’s appellate prospects, Flores-Ortega presented at most a difference of degree, not kind, and prescribed a presumption of prejudice regardless of how many appellate claims were foreclosed.  See id., at 484.  We do no different today.
+
+															Instead, we reaffirm that, “when counsel’s constitutionally deficient performance deprives a defendant of an appeal that he otherwise would have taken, the defendant has made out a successful ineffective assistance of counsel claim entitling him to an appeal,” with no need for a “further showing” of his claims’ merit, ibid., regardless of whether the defendant has signed an appeal waiver.
+
+															III
+
+															Flores-Ortega states, in one sentence, that the loss of the “entire [appellate] proceeding itself, which a defendant wanted at the time and to which he had a right, . . . demands a presumption of prejudice.”  Id., at 483.  Idaho and the U. S. Government, participating as an amicus on Idaho’s behalf, seize on this language, asserting that Garza never “had a right” to his appeal and thus that any deficient performance by counsel could not have caused the loss of any such appeal.  See Brief for Respondent 11, 23–26; Brief for United States as Amicus Curiae 7, 13, 21–22.  These arguments miss the point.  Garza did retain a right to his appeal; he simply had fewer possible claims than some other appellants.  Especially because so much is unknown at the notice-of-appeal stage, see supra, at 6–7, it is wholly speculative to say that counsel’s deficiency forfeits no proceeding to which a defendant like Garza has a right.[11]
+
+															The Government also takes its causation argument one step further.  Arguing that, in the appeal-waiver context, “a generalized request that an attorney file an appeal . . . is not enough to show that appellate merits review would have followed,” Brief for United States as Amicus Curiae 22, the Government proposes a rule that would require a defendant to show—on a “case-specific” basis, id., at 23—either (1) “that he in fact requested, or at least expressed interest in, an appeal on a non-waived issue,” id., at 21–22, or alternatively (2) “ ‘that there were nonfrivolous grounds for appeal’ despite the waiver,” id., at 22 (quoting Flores-Ortega, 528 U. S., at 485).  We decline this suggestion, because it cannot be squared with our precedent and would likely prove both unfair and inefficient in practice.
+
+															This Court has already rejected attempts to condition the restoration of a defendant’s appellate rights forfeited by ineffective counsel on proof that the defendant’s appeal had merit.  In Flores-Ortega, the Court explained that prejudice should be presumed “with no further showing from the defendant of the merits of his underlying claims.”  Id., at 484; see also id., at 486.  In Rodriquez v. United States,
+
+395 U.S. 327 (1969), similarly, the Court rejected a rule that required a defendant whose appeal had been forfeited by counsel “to specify the points he would raise were his right to appeal reinstated.”  Id., at 330.  So too here.
+
+															Moreover, while it is the defendant’s prerogative whether to appeal, it is not the defendant’s role to decide what arguments to press.  See Barnes, 463 U. S., at 751, 754.  That makes it especially improper to impose that role upon the defendant simply because his opportunity to appeal was relinquished by deficient counsel.  “Those whose right to appeal has been frustrated should be treated exactly like any other appellants; they should not be  given an additional hurdle to clear just because their rights were violated at some earlier stage in the proceedings.”  Rodriquez, 395 U. S., at 330.  We accordingly decline to place a pleading barrier between a defendant and an opportunity to appeal that he never should have lost.
+
+															Meanwhile, the Government’s assumption that unwaived claims can reliably be distinguished from waived claims through case-by-case postconviction review is dubious.  There is no right to counsel in postconviction proceedings, see Pennsylvania v. Finley,
+
+481 U.S. 551, 555 (1987), and most applicants proceed pro se.[12]  That means that the Government effectively puts its faith in asking “an indigent, perhaps pro se, defendant to demonstrate that his hypothetical appeal might have had merit before any advocate has ever reviewed the record in his case in search of potentially meritorious grounds for appeal,” Flores-Ortega, 528 U. S., at 486.  We have already explained why this would be “unfair” and ill advised.  See ibid.; see also Rodriquez, 395 U. S., at 330.  Compounding the trouble, defendants would be asked to make these showings in the face of the heightened standards and related hurdles that attend many postconviction proceedings.  See, e.g., 28 U. S. C. §§2254, 2255; see also Brief for Idaho Association of Criminal Defense Lawyers et al. as Amici Curiae 22–25.
+
+															The Government’s proposal is also unworkable.  For one, it would be difficult and time consuming for a postconviction court to determine—perhaps years later—what appellate claims a defendant was contemplating at the time of conviction.[13]  Moreover, because most postconviction petitioners will be pro se, courts would regularly have to parse both (1) what claims a pro se defendant seeks to raise and (2) whether each plausibly invoked claim is subject to the defendant’s appeal waiver (which can be complex, see supra, at 4–6), all without the assistance of counseled briefing.  We are not persuaded that this would be a more efficient or trustworthy process than the one we reaffirm today.
+
+															The more administrable and workable rule, rather, is the one compelled by our precedent: When counsel’s deficient performance forfeits an appeal that a defendant otherwise would have taken, the defendant gets a new opportunity to appeal.  That is the rule already in use in 8 of the 10 Federal Circuits to have considered the question, see supra, at 3, and n. 3, and neither Idaho nor its amici have pointed us to any evidence that it has proved unmanageable there.[14]  That rule does no more than restore the status quo that existed before counsel’s deficient performance forfeited the appeal, and it allows an appellate court to consider the appeal as that court otherwise would have done—on direct review, and assisted by counsel’s briefing.
+
+															IV
+
+															We hold today that the presumption of prejudice recognized in Flores-Ortega applies regardless of whether a defendant has signed an appeal waiver.  This ruling follows squarely from Flores-Ortega and from the fact that even the broadest appeal waiver does not deprive a defendant of all appellate claims.  Accordingly where, as here, an attorney performed deficiently in failing to file a notice of appeal despite the defendant’s express instructions, prejudice is presumed “with no further showing from the defendant of the merits of his underlying claims.”  See Flores-Ortega, 528 U. S., at 484.
+
+															The judgment of the Supreme Court of Idaho is therefore reversed, and the case is remanded for further proceedings not inconsistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ The record suggests that Garza may have been confused as to whether he had waived his appellate rights in the first place.  See Record 97 (answering “No” on a court advisory form asking whether Garza had “waived [his] right to appeal [his] judgment of conviction and sentence as part of [his] plea agreement”); see also id., at 118, 121, 132 (showing that Garza’s sentencing judge and judgments of conviction provided, despite the appeal waiver, generalized notice of a “right to appeal”).  Because our ruling does not turn on these facts, we do not address them further. 
+
+2
+ Garza’s affidavit states that he wished to argue, at least in part, that he “was persuaded to plead guilty by [the] prosecuting attorney and [his] counsel which was not voluntarily [sic].”  Id., at 210. 
+
+3
+ Compare Campbell v. United States, 686 F.3d 353, 359 (CA6 2012); Watson v. United States, 493 F.3d 960, 964 (CA8 2007); United States v. Poindexter, 492 F.3d 263, 273 (CA4 2007); United States v. Tapp, 491 F.3d 263, 266 (CA5 2007); Campusano v. United States, 442 F.3d 770, 775 (CA2 2006); Gomez-Diaz v. United States, 433 F.3d 788, 791–794 (CA11 2005); United States v. Sandoval-Lopez, 409 F.3d 1193, 1195–1199 (CA9 2005); United States v. Garrett, 402 F. 3d 1262, 1266–1267 (CA10 2005), with Nunez v. United States, 546 F.3d 450, 455 (CA7 2008); United States v. Mabry, 536 F.3d 231, 241 (CA3 2008).  At least two state courts have declined to apply Flores-Ortega in the face of appeal waivers.  See Buettner v. State, 382 Mont. 410, 363 P.3d 1147 (2015) (Table); Stewart v. United States, 37 A.3d 870, 877 (D. C. 2012); see also Kargus v. State, 284 Kan. 908, 922, 928, 169 P.3d 307, 316, 320 (2007). 
+
+4
+ While this Court has never recognized a “constitutional right to an appeal,” it has “held that if an appeal is open to those who can pay for it, an appeal must be provided for an indigent.”  Jones v. Barnes,
+
+463 U.S. 745, 751 (1983); see also Douglas v. California,
+372 U.S. 353 (1963); Griffin v. Illinois,
+351 U.S. 12, 18 (1956) (plurality opinion).  Today, criminal defendants in nearly all States have a right to appeal either by statute or by court rule.  See generally Robertson, The Right To Appeal, 91 N. C. L. Rev. 1219, 1222, and n. 8 (2013).  Criminal defendants in federal court have appellate rights under
+
+18 U. S. C. §3742(a) and
+
+28 U. S. C. §1291. 
+
+5
+ See generally Brief for Idaho Association of Criminal Defense Lawyers et al. as Amici Curiae 6–10 (collecting examples of appeal waivers that allowed challenges to the defendant’s sentence or conviction or allowed claims based on prosecutorial misconduct or changes in law). 
+
+6
+ See, e.g., United States v. Brown, 892 F.3d 385, 394 (CADC 2018) (“Like all other courts of appeals, our circuit holds that a defendant ‘may waive his right to appeal his sentence as long as his decision is knowing, intelligent, and voluntary’ ”); Spann v. State, 704 N.W.2d 486, 491 (Minn. 2005) (“Jurisdictions allowing a defendant to waive his or her right to appeal a conviction require that the waiver be made ‘intelligently, voluntarily, and with an understanding of the consequences’ ”).  Lower courts have also applied exceptions for other kinds of claims, including “claims that a sentence is based on race discrimination, exceeds the statutory maximum authorized, or is the product of ineffective assistance of counsel.”  King & O’Neill, Appeal Waivers and the Future of Sentencing Policy, 55 Duke L. J. 209, 224 (2005) (collecting federal cases); see also, e.g., United States v. Puentes-Hurtado, 794 F.3d 1278, 1284 (CA11 2015) (“[A]ppellate review is also permitted when a defendant claims that the government breached the very plea agreement which purports to bar him from appealing or collaterally attacking his conviction and sentence”); State v. Dye, 291 Neb. 989, 999, 870 N.W.2d 628, 634 (2015) (holding that appeal waivers are subject to a “miscarriage of justice” exception).  We make no statement today on what particular exceptions may be required. 
+
+7
+ E.g., Miss. Rule Crim. Proc. 29.1(b) (2017); Ohio Rule App. Proc. 3(D) (Lexis 2017).  While Idaho requires a notice of appeal to “contain substantially . . . [a] preliminary statement of the issues on appeal which the appellant then intends to assert in the appeal,” the Rule in question also makes clear that “any such list of issues on appeal shall not prevent the appellant from asserting other issues on appeal.”  Idaho Rule App. Proc. 17(f ). 
+
+8
+ That does not mean, of course, that appellate counsel must then make unsupportable arguments.  After an appeal has been preserved and counsel has reviewed the case, counsel may always, in keeping with longstanding precedent, “advise the court and request permission to withdraw,” while filing “a brief referring to anything in the record that might arguably support the appeal.”  Anders v. California,
+
+386 U.S. 738, 744 (1967).  The existence of this procedure reinforces that a defendant’s appellate rights should not hinge “on appointed counsel’s bare assertion that he or she is of the opinion that there is no merit to the appeal.”  Penson v. Ohio,
+
+488 U.S. 75, 80 (1988). 
+
+9
+ We leave undisturbed today Flores-Ortega’s separate discussion of how to approach situations in which a defendant’s wishes are less clear.  See 528 U. S., at 478–481. 
+
+10
+ Or the State might not have invoked the waiver at all.  E.g., United States v. Archie, 771 F.3d 217, 223, n. 2 (CA4 2014); State v. Rendon, 2012 WL 9492805, *1, n. 1 (Idaho Ct. App., May 11, 2012). 
+
+11
+ The possibility that an appellate court confronted with a waived claim (and a motion to enforce the waiver) would technically “dismiss the appeal without reaching the merits,” see Brief for United States as Amicus Curiae 17; see also Brief for Respondent 26, does not alter this conclusion.  Whatever the label, the defendant loses the opportunity to raise any appellate claims at all—including those that would, or at least could, be heard on the merits. 
+
+12
+ For example, researchers have found that over 90% of noncapital federal habeas petitioners proceed without counsel.  See N. King et al., Final Technical Report: Habeas Litigation in U. S. District Courts 23 (2007). 
+
+13
+ To the extent relief would turn on what precisely a defendant said to counsel regarding specific claims, moreover, Garza rightly points out the serious risk of “causing indigent defendants to forfeit their rights simply because they did not know what words to use.”  Reply Brief 17. 
+
+14
+ It is, of course, inevitable that some defendants under this rule will seek to raise issues that are within the scope of their appeal waivers.  We are confident that courts can continue to deal efficiently with such cases via summary dispositions and the procedures outlined in Anders.  See 386 U. S., at 744; n. 9, supra. 
+
+

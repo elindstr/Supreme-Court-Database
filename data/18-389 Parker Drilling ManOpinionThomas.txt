@@ -1,0 +1,186 @@
+::SCDB_caseID:: 2018-070
+::decision_cite:: 18-389
+::decision_name::  Parker Drilling Management Services, Ltd. v. Newton
+::decision_year:: 2019
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															  NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–389
+
+															_________________
+
+															PARKER DRILLING MANAGEMENT SERVICES, LTD., PETITIONER v. BRIAN NEWTON
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 10, 2019]
+
+															
+
+															Justice Thomas delivered the opinion of the Court.
+
+															The Outer Continental Shelf Lands Act (OCSLA),
+
+67Stat.
+462,
+
+43 U. S. C. §1331 et seq., extends federal law to the subsoil and seabed of the Outer Continental Shelf and all attachments thereon (OCS).  Under the OCSLA, all law on the OCS is federal law, administered by federal officials.  The OCSLA denies States any interest in or jurisdiction over the OCS, and it deems the adjacent State’s laws to be federal law “[t]o the extent that they are applicable and not inconsistent with” other federal law.  §1333(a)(2)(A).  The question before us is how to determine which state laws meet this requirement and therefore should be adopted as federal law.  Applying familiar tools of statutory interpretation, we hold that where federal law addresses the relevant issue, state law is not adopted as surrogate federal law on the OCS.
+
+															I
+
+															Respondent Brian Newton worked for petitioner Parker Drilling Management Services on drilling platforms off the coast of California.  Newton’s 14-day shifts involved 12 hours per day on duty and 12 hours per day on standby, during which he could not leave the platform.  He was paid well above the California and federal minimum wages for his time on duty, but he was not paid for his standby time.
+
+															Newton filed a class action in California state court alleging violations of several California wage-and-hour laws and related state-law claims.  Among other things, Newton claimed that California’s minimum-wage and overtime laws required Parker to compensate him for the time he spent on standby.  Parker removed the action to Federal District Court.  The parties agreed that Parker’s platforms were subject to the OCSLA.  Their disagreement centered on whether the relevant California laws were “applicable and not inconsistent” with existing federal law and thus deemed to be the applicable federal law under the OCSLA.  §1333(a)(2)(A).
+
+															The District Court applied Fifth Circuit precedent providing that under the OCSLA, “state law only applies to the extent it is necessary ‘to fill a significant void or gap’ in federal law.”  App. to Pet. for Cert. 51 (quoting Continental Oil Co. v. London Steam-Ship Owners’ Mut. Ins. Assn., 417 F.2d 1030, 1036 (1969)).  It determined that the Fair Labor Standards Act of 1938 (FLSA),
+
+52Stat.
+1060,
+
+29 U. S. C. §201 et seq., constitutes a comprehensive federal wage-and-hour scheme and thus left no significant gap for state law to fill.  Because all of Newton’s claims relied on state law, the court granted Parker judgment on the pleadings.
+
+															The Ninth Circuit vacated and remanded.  It first held that state law is “ ‘applicable’ ” under the OCSLA whenever it “pertain[s] to the subject matter at hand.”  881 F.3d 1078, 1090, amended and reh’g en banc denied, 888 F.3d 1085 (2018).  The court found that California wage-and-hour laws satisfied this standard and turned to “the determinative question in Newton’s case”: “whether California wage and hour laws are ‘inconsistent with’ existing federal law.”  881 F. 3d, at 1093.  According to the Ninth Circuit, state laws are “inconsistent” with federal law under the OCSLA only “if they are mutually incompatible, incongruous, [or] inharmonious.”  Ibid. (internal quotation marks omitted).  Applying that standard, the court determined that no inconsistency exists between the FLSA and California wage-and-hour law because the FLSA saving clause “explicitly permits more protective state wage and hour laws.”  Id., at 1097 (citing
+
+29 U. S. C. §218(a)).  Given the disagreement between the Fifth and Ninth Circuits, we granted certiorari.  586 U. S. ___ (2019).
+
+															II
+
+															Before the OCSLA, coastal States and the Federal Government disputed who had the right to lease submerged lands on the continental shelf.  Some coastal States even asserted jurisdiction all the way to the outer edge of the shelf.  See Shell Oil Co. v. Iowa Dept. of Revenue,
+
+488 U.S. 19, 26 (1988).  The disputes eventually reached this Court, which held in a series of decisions that the Federal Government has exclusive jurisdiction over the entire continental shelf.  See United States v. California,
+
+332 U.S. 19, 38–39 (1947); United States v. Louisiana,
+
+339 U.S. 699, 705 (1950); United States v. Texas,
+
+339 U.S. 707, 717–718 (1950).
+
+															After these decisions, Congress divided jurisdiction over the shelf.  In 1953, Congress enacted the Submerged Lands Act,
+
+67Stat.
+29,
+
+43 U. S. C. §1301 et seq., which ceded to the coastal States offshore lands within a specified distance of their coasts.  A few months later, Congress passed the OCSLA, which affirmed that the Federal Government exercised exclusive control over the OCS, defined as “all submerged lands” beyond the lands reserved to the States up to the edge of the United States’ jurisdiction and control.  §1331(a).  Specifically, the OCSLA declares that “the subsoil and seabed of the [OCS] appertain to the United States and are subject to its jurisdiction, control, and power of disposition.”  §1332(1).  The OCSLA then sets forth “detailed provisions for the exercise of exclusive jurisdiction in the area and for the leasing and development of the resources of the seabed.”  United States v. Maine,
+
+420 U.S. 515, 527 (1975); see §§1334–1354.
+
+															Of primary relevance here, the OCSLA defines the body of law that governs the OCS.  First, in §1333(a)(1), the OCSLA extends “[t]he Constitution and laws and civil and political jurisdiction of the United States” to the OCS.  Section 1333(a)(1) provides that federal law applies “to the same extent as if the [OCS] were an area of exclusive Federal jurisdiction located within a State.”  Then, §1333(a)(2)(A) provides:
+
+															“To the extent that they are applicable and not inconsistent with this subchapter or with other Federal laws and regulations of the Secretary now in effect or hereafter adopted, the civil and criminal laws of each adjacent State, now in effect or hereafter adopted, amended, or repealed are declared to be the law of the United States for that portion of the subsoil and seabed of the outer Continental Shelf, and artificial islands and fixed structures erected thereon, which would be within the area of the State if its boundaries were extended seaward to the outer margin of the outer Continental Shelf . . . .”
+
+															Section 1333(a)(2)(A) also states that “[a]ll of such applicable laws shall be administered and enforced by the appropriate officers and courts of the United States.”  Finally, §1333(a)(3) emphasizes that “[t]he provisions of this section for adoption of State law as the law of the United States shall never be interpreted as a basis for claiming any interest in or jurisdiction on behalf of any State for any purpose over” the OCS.
+
+															III
+
+															A
+
+															The question in this case is how to interpret the OCSLA’s command that state laws be adopted as federal law on the OCS “[t]o the extent that they are applicable and not inconsistent” with other federal law.  §1333(a)(2)(A).  Echoing the Ninth Circuit, Newton argues that state law is “applicable” on the OCS whenever it pertains to the subject matter at issue.  Newton further argues that state law is only “inconsistent” with federal law if it is incompatible with the federal scheme.  In essence, Newton’s argument is that state law is “inconsistent” only if it would be pre-empted under our ordinary pre-emption principles.
+
+															Parker, on the other hand, argues that state law is not “applicable” on the OCS in the absence of a gap in federal law that needs to be filled.  Moreover, Parker argues that state law can be “inconsistent” with federal law even if it is possible for a party to satisfy both sets of laws.  Specifically, Parker contends that, although the FLSA normally accommodates more protective state wage-and-hour laws, such laws are inconsistent with the FLSA when adopting state law as surrogate federal law because federal law would then contain two different standards.
+
+															B
+
+															Although this is a close question of statutory interpretation, on the whole we find Parker’s approach more persuasive because “ ‘the words of a statute must be read in their context and with a view to their place in the overall statutory scheme.’ ”  Roberts v. Sea-Land Services, Inc.,
+
+566 U.S. 93, 101 (2012).  That rule is particularly relevant here, as the terms “applicable” and “not inconsistent” are susceptible of interpretations that would deprive one term or the other of meaning.  If Newton is right that “applicable” merely means relevant to the subject matter, then the word adds nothing to the statute, for an irrelevant law would never be “applicable” in that sense.  Cf. Ransom v. FIA Card Services, N. A.,
+
+562 U.S. 61, 70 (2011) (declining to interpret the word “applicable” in such a way that Congress “could have omitted the term . . . altogether”).  And if Parker is right that “applicable” means “necessary to fill a gap in federal law,” it is hard to imagine circumstances in which “not inconsistent” would add anything to the statute, for a state law would rarely be inconsistent with a federal law that leaves a gap that needs to be filled.  Moreover, when the OCSLA was enacted, the term “inconsistent” could mean either “incompatible,” as Newton contends, or merely “inharmonious,” as Parker argues.  Webster’s New International Dictionary 1259 (2d ed. 1953); see also Funk & Wagnalls New Standard Dictionary 1245 (1957) (“logically discrepant” or “disagreeing” and “discordant”); The New Century Dictionary 811 (1953) (“self-contradictory” or “at variance”); 5 Oxford English Dictionary 173 (1933) (“incongruous” or “not agreeing in substance, spirit, or form”).  In short, the two terms standing alone do not resolve the question before us.  Particularly given their indeterminacy in isolation, the terms should be read together and interpreted in light of the entire statute.  See Star Athletica, L. L. C. v. Varsity Brands, Inc., 580 U. S. ___, ___ (2017) (slip op., at 6) (“ ‘[I]nterpretation of a phrase of uncertain reach is not confined to a single sentence when the text of the whole statute gives instruction as to its meaning’ ”).
+
+															Our pre-OCSLA decisions made clear that the Federal Government controlled the OCS in every respect, and the OCSLA reaffirmed the central role of federal law on the OCS.  See supra, at 3–4.  As discussed, the OCSLA gives the Federal Government complete “jurisdiction, control, and power of disposition” over the OCS, while giving the States no “interest in or jurisdiction” over it.  §§1332(1), 1333(a)(3).  The statute applies federal law to the OCS “to the same extent as if the [OCS] were an area of exclusive Federal jurisdiction located within a State.”  §1333(a)(1).  Accordingly, the only law on the OCS is federal law, and state laws are adopted as federal law only “[t]o the extent that they are applicable and not inconsistent with” federal law.  §1333(a)(2)(A).
+
+															Taken together, these provisions convince us that state laws can be “applicable and not inconsistent” with federal law under §1333(a)(2)(A) only if federal law does not address the relevant issue.  As we have said before, the OCSLA makes apparent “that federal law is ‘exclusive’ in its regulation of [the OCS], and that state law is adopted only as surrogate federal law.”  Rodrigue v. Aetna Casualty & Surety Co.,
+
+395 U.S. 352, 357 (1969).  The OCSLA extends all federal law to the OCS, and instead of also extending state law writ large, it borrows only certain state laws.  These laws, in turn, are declared to be federal law and are administered by federal officials.  Given the primacy of federal law on the OCS and the limited role of state law, it would make little sense to treat the OCS as a mere extension of the adjacent State, where state law applies unless it conflicts with federal law.  See PLIVA, Inc. v. Mensing,
+
+564 U.S. 604, 617–618 (2011).  That type of pre-emption analysis is applicable only where the overlapping, dual jurisdiction of the Federal and State Governments makes it necessary to decide which law takes precedence.  But the OCS is not, and never was, part of a State, so state law has never applied of its own force.  Because federal law is the only law on the OCS, and there has never been overlapping state and federal jurisdiction there, the statute’s reference to “not inconsistent” state laws does not present the ordinary question in pre-emption cases—i.e., whether a conflict exists between federal and state law.  Instead, the question is whether federal law has already addressed the relevant issue; if so, state law addressing the same issue would necessarily be inconsistent with existing federal law and cannot be adopted as surrogate federal law.  Put another way, to the extent federal law applies to a particular issue, state law is inapplicable.
+
+															C
+
+															Apart from §1333(a)(2)’s place in the overall statutory scheme, several other considerations support our interpretation, which accords with the standard long applied by the Fifth Circuit, see Continental Oil, 417 F. 2d, at 1036–1037.  First, if Newton were correct that the choice-of-law question on the OCS is the same as it would be in an adjacent State, much of the OCSLA would be unnecessary.  Second, our interpretation is consistent with the federal-enclave model—a model that the OCSLA expressly invokes—and the historical development of the statute.  And third, the Court’s precedents have treated the OCSLA in accord with our interpretation.
+
+															1
+
+															Under Newton’s interpretation, state law would apply unless pre-empted by federal law, meaning that the OCS would be treated essentially the same as the adjacent State.  See Tr. of Oral Arg. 49.  But that interpretation would render much of the OCSLA unnecessary.  For example, the statute would not have needed to adopt state law as federal law or say that federal law applies on the OCS as if it “were an area of exclusive Federal jurisdiction located within a State.”  §§1333(a)(1)–(2).  It could have simply defined which State’s law applied on the OCS and given federal officials and courts the authority to enforce the law.  And the statute would not have needed to limit state laws on the OCS to those “applicable and not inconsistent” with federal law (as Newton understands those words), for irrelevant laws never apply and federal law is always “supreme,” U. S. Const., Art. VI, cl. 2.  Newton’s interpretation deprives much of the statute of any import, violating the “ ‘cardinal principle’ of interpretation that courts ‘must give effect, if possible, to every clause and word of a statute.’ ”  Loughrin v. United States,
+
+573 U.S. 351, 358 (2014).
+
+															2
+
+															Further support for our interpretation comes from the statute’s treatment of the OCS as “an area of exclusive Federal jurisdiction located within a State”—i.e., as “an upland federal enclave.”  §1333(a)(1); Rodrigue, supra, at 366.  It is a commonplace of statutory interpretation that “Congress legislates against the backdrop of existing law.”  McQuiggin v. Perkins,
+
+569 U.S. 383, 398, n. 3 (2013).  Generally, when an area in a State becomes a federal enclave, “only the [state] law in effect at the time of the transfer of jurisdiction continues in force” as surrogate federal law.  James Stewart & Co. v. Sadrakula,
+
+309 U.S. 94, 100 (1940).  Existing state law typically does not continue in force, however, to the extent it conflicts with “federal policy.”  Paul v. United States,
+
+371 U.S. 245, 269 (1963); see Chicago, R. I. & P. R. Co. v. McGlinn,
+
+114 U.S. 542, 547 (1885).  And going forward, state law presumptively does not apply to the enclave.  See Sadrakula, supra, at 100; see also Paul, supra, at 268; Pacific Coast Dairy, Inc. v. Department of Agriculture of Cal.,
+
+318 U.S. 285, 294 (1943).  This approach ensures “that no area however small will be without a developed legal system for private rights,” while simultaneously retaining the primacy of federal law and requiring future statutory changes to be made by Congress.  Sadrakula, supra, at 100; United States v. Tax Comm’n of Miss.,
+
+412 U.S. 363, 370, n. 12 (1973).[1]
+
+															The original version of the OCSLA both treated the OCS as a federal enclave and adopted only the “applicable and not inconsistent” laws of the adjacent State that were in effect as of the effective date of the Act.
+
+43 U. S. C. §1333(a)(2) (1970 ed.); see §1333(a)(1) (1970 ed.) (deeming the OCS “an area of exclusive Federal jurisdiction located within a State”).  This textual connection between the OCSLA and the federal enclave model suggests that, like the generally applicable enclave rule, the OCSLA sought to make all OCS law federal yet also “provide a sufficiently detailed legal framework to govern life” on the OCS.  Shell Oil, 488 U. S., at 27.  Once that framework was established, federal law (including previously adopted state law) provided a sufficient legal structure to accomplish that purpose, eliminating the need to adopt new state laws.  The federal-state balance in a typical federal enclave is quite different than in a State, and that difference is all the more striking on the OCS, which was never under state control.  The text and context of the OCSLA therefore suggest that state law is not adopted to govern the OCS where federal law is on point.
+
+															Although Congress later amended the OCSLA to adopt state law on an ongoing basis, this amendment only confirms the connection between the OCSLA and the federal enclave model.  Beginning in 1825, when “federal statutory law punished only a few crimes committed on federal enclaves,” Congress enacted several Assimilative Crimes Acts (ACAs) that “borrow[ed] state law to fill gaps in the federal criminal law” on enclaves.  Lewis v. United States,
+
+523 U.S. 155, 160 (1998); see
+
+18 U. S. C. §13(a) (criminalizing “any act or omission which, although not made punishable by any enactment of Congress, would be punish- able if committed or omitted within the jurisdiction of the” relevant State or territory).  Mirroring the general enclave rule discussed above, the first ACA was limited to state laws in existence when the Act was passed.  United States v. Sharpnack,
+
+355 U.S. 286, 291 (1958).  Because of this limitation, the initial ACA “gradually lost much of its effectiveness in maintaining current conformity with state criminal laws,” and Congress eventually provided for the adoption of the state laws in effect at the time of the crime.  Id., at 291–292.  After this Court upheld this ongoing adoption of state criminal law against a nondelegation challenge, see id., at 294, Congress amended the OCSLA to borrow state laws “ ‘in effect or hereafter adopted, amended, or repealed.’ ”  §19(f),
+
+88Stat.
+2146.  At the same time, Congress left unchanged the features of the OCSLA that we have emphasized above—i.e., that the only law on the OCS is federal, and that state law is adopted only when it is “applicable and not inconsistent” with existing federal law.  Thus, we do not understand the statutory amendment to alter our conclusion.  If anything, this history reinforces that the OCS should be treated as an exclusive federal enclave, not an extension of a State, and that the OCSLA, like the ACAs, does not adopt state law “where there is no gap to fill.”  Lewis, supra, at 163.
+
+															3
+
+															Finally, our interpretation accords with the Court’s precedents construing the OCSLA.  We first interpreted the OCSLA’s choice-of-law provision in Rodrigue v. Aetna Casualty & Surety Co., where we considered whether suits brought by the families of men killed on OCS drilling rigs could proceed under only the federal Death on the High Seas Act or also under state law.  395 U. S., at 352–353.  We emphasized that under the OCSLA, the body of law applicable to the OCS “was to be federal law of the United States, applying state law only as federal law and then only when not inconsistent with applicable federal law.”  Id., at 355–356.  We explained that “federal law, because of its limited function in a federal system, might be inadequate to cope with the full range of potential legal problems,” and that the OCSLA “supplemented gaps in the federal law with state law through the ‘adoption of State law as the law of the United States.’ ”  Id., at 357 (quoting §1333(a)(3)).  We reiterated that the statutory language makes it “evident” “that federal law is ‘exclusive’ ” on the OCS and that “state law could be used to fill federal voids.”  Id., at 357–358.  After concluding that the Death on the High Seas Act did not apply to accidents on the OCS and thus left a gap related to wrongful deaths, we held that state law provided the rule of decision.  We explained that “the inapplicability of the [federal Act] removes any obstacle to the application of state law by incorporation as federal law through” the OCSLA.  Id.,  at 366.
+
+															Two years later, in Chevron Oil Co. v. Huson,
+
+404 U.S. 97 (1971), the Court again viewed the OCSLA as adopting state law to fill in federal-law gaps.  In Huson, the question was whether federal admiralty law or a state statute governed a tort action arising from an injury that occurred on the OCS.  Id., at 98–99.  Describing Rodrigue’s analysis, we explained that where “there exists a substantial ‘gap’ in federal law,” “state law remedies are not ‘inconsistent’ with applicable federal law.”  404 U. S., at 101. We highlighted that “state law was needed” as surrogate federal law because federal law alone did not provide “ ‘a complete body of law,’ ” which is why “Congress specified that a comprehensive body of state law should be adopted by the federal courts in the absence of existing federal law.”  Id., at 103–104.  In other words, the OCSLA “made clear provision for filling in the ‘gaps’ in federal law.”  Id., at 104.  And because Congress had decided not to apply federal admiralty law on the OCS, leaving a gap on the relevant issue, we held that it was appropriate to “absor[b]” the state law as federal law.  Id., at 104, 109.
+
+															In Gulf Offshore Co. v. Mobil Oil Corp.,
+
+453 U.S. 473 (1981), we once again emphasized that “[a]ll law applicable to the [OCS] is federal law” and that the “OCSLA borrows the ‘applicable and not inconsistent’ laws of the adjacent States” “to fill the substantial ‘gaps’ in the coverage of federal law.”  Id., at 480.  We noted that under the OCSLA, the Federal Government “retain[ed] exclusive . . . control of the administration of the [OCS],” and that state law is incorporated “to fill gaps in federal law.”  Id., at 479–480, n. 7.
+
+															These precedents confirm our understanding of the OCSLA.  Although none decided the precise question before us, much of our prior discussion of the OCSLA would make little sense if the statute essentially treated the OCS as an extension of the adjacent State.  In Rodrigue, for example, there was no question that the state law at issue pertained to the subject matter or that the relevant federal law expressly preserved state laws regulating the same subject.  See 395 U. S., at 355;
+
+46 U. S. C. §767 (1964 ed.).  Under Newton’s interpretation, that should have ended the case.  Yet the Court instead analyzed at length whether the federal law extended to the OCS.  See 395 U. S., at 359–366.  It would be odd for our decisions to focus so closely on the gap-filling role of state law under the OCSLA if, as Newton argues, the existence of a federal-law gap is irrelevant.  Our consistent understanding of the OCSLA remains: All law on the OCS is federal, and state law serves a supporting role, to be adopted only where there is a gap in federal law’s  coverage.
+
+															In sum, the standard we adopt today is supported by the statute’s text, structure, and history, as well as our precedents.  Under that standard, if a federal law addresses the issue at hand, then state law is not adopted as federal law on the OCS.[2]
+
+															IV
+
+															Applying this standard, some of Newton’s present claims are readily resolvable.  For instance, some of his claims are premised on the adoption of California law requiring payment for all time that Newton spent on standby.  See Mendiola v. CPS Security Solutions, Inc., 60 Cal. 4th 833, 842, 340 P.3d 355, 361 (2015); Cal. Lab. Code Ann. §510(a) (West 2011).  But federal law already addresses this issue.  See 29 CFR §785.23 (2018) (“An employee who resides on his employer’s premises on a permanent basis or for extended periods of time is not considered as working all the time he is on the premises”); see also
+
+29 U. S. C. §207(a).  Therefore, this California law does not provide the rule of decision on the OCS, and to the extent Newton’s OCS-based claims rely on that law, they necessarily fail.
+
+															Likewise, to the extent Newton’s OCS-based claims rely on the adoption of the California minimum wage (currently $12), Cal. Lab. Code Ann. §1182.12(b) (West Supp. 2019), the FLSA already provides for a minimum wage,
+
+29 U. S. C. §206(a)(1), so the California minimum wage does not apply.  Newton points out that the FLSA sets a minimum wage of “not less than . . . $7.25 an hour,” ibid. (emphasis added), and does not “excuse noncompliance with any Federal or State law . . . establishing a [higher] minimum wage,” §218.  But whatever the import of these provisions in an ordinary pre-emption case, they do not help Newton here, for the question under the OCSLA is whether federal law addresses the minimum wage on the OCS.  It does.  Therefore, the California minimum wage is not adopted as federal law and does not apply on the OCS.
+
+															Newton’s other claims were not analyzed by the Court of Appeals, and the parties have provided little briefing on those claims.  Moreover, the Court of Appeals held that Newton should be given leave to amend his complaint.  Because we cannot finally resolve whether Parker was entitled to judgment on the pleadings, we vacate the judgment of the Court of Appeals, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ These general rules “may be qualified in accordance with agreements reached by the respective governments.”  Sadrakula, 309 U. S., at 99; see also Paul, 371 U. S., at 268 (“[A] State may not legislate with respect to a federal enclave unless it reserved the right to do so when it gave its consent to the purchase by the United States”). 
+
+2
+ Of course, it is conceivable that state law might be “inconsistent” with federal law for purposes of §1333(a)(2) even absent an on-point federal law.  For example, federal law might contain a deliberate gap, making state law inconsistent with the federal scheme.  Or, state law might be inconsistent with a federal law addressing a different issue.  We do not foreclose these or other possible inconsistencies. 
+
+

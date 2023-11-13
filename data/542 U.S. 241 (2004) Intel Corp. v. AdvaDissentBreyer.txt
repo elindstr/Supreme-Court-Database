@@ -1,0 +1,80 @@
+::SCDB_caseID:: 2003-078
+::decision_cite:: 542 U.S. 241 (2004)
+::decision_name::  Intel Corp. v. Advanced Micro Devices, Inc.
+::decision_year:: 2004
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+
+BREYER, J., DISSENTING
+INTEL CORP. V. ADVANCED MICRO DEVICES, INC.
+542 U. S. ____ (2004)
+SUPREME COURT OF THE UNITED STATES
+NO. 02-572
+
+
+
+
+
+															INTEL CORPORATION, PETITIONER v. ADVANCED
+MICRO DEVICES, INC.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 21, 2004]
+
+
+
+															   Justice Breyer, dissenting.
+
+															
+   The Court reads the scope of 28 U. S. C. §1782 to extend beyond what I believe Congress might reasonably have intended.  Some countries allow a private citizen to ask a court to review a criminal prosecutor’s decision not to prosecute.  On the majority’s reading, that foreign private citizen could ask an American court to help the citizen obtain information, even if the foreign prosecutor were indifferent or unreceptive.  See, e.g., Mann, Criminal Procedure, in Introduction to the Law of Israel 278 (A. Shapira & K. DeWitt-Arar eds. 1995).  Many countries allow court review of decisions made by any of a wide variety of nonprosecutorial, nonadjudicative bodies.  On the majority’s reading, a British developer, hoping to persuade the British Housing Corporation to grant it funding to build a low-income housing development, could ask an American court to demand that an American firm produce information designed to help the developer obtain the British grant.  Cf., e.g., Mayer, The Housing Corporation: Multiple Lines of Accountability, in Quangos, Accountability and Reform: The Politics of Quasi-Government 111, 114 (M. Flinders & M. Smith eds. 1999).  This case itself suggests that an American firm, hoping to obtain information from a competitor, might file an antitrust complaint with the European antitrust authorities, thereby opening up the possibility of broad American discovery—contrary to the antitrust authorities’ desires.
+
+															
+
+   One might ask why it is wrong to read the statute as permitting the use of America’s court processes to obtain information in such circumstances.  One might also ask why American courts should not deal case by case with any problems of the sort mentioned.  The answer to both of these questions is that discovery and discovery-related judicial proceedings take time, they are expensive, and cost and delay, or threats of cost and delay, can themselves force parties to settle underlying disputes.  See The Brookings Institution, Justice For All: Reducing Costs and Delay in Civil Litigation, Report of a Task Force 6–7 (1989) (lawyers surveyed estimated that 60% of litigation costs in a typical federal case are attributable to discovery and agreed that high litigation costs are often attributable to abuse of the discovery process); Federal Judicial Center, T. Willging, J. Shapard, D. Stienstra, & D. Milfich, Discovery and Disclosure Practice, Problems, and Proposals for Change 1–2, 4, 8, 14–16 (Tables 3–5) (1997) (study outlining costs of discovery).  To the extent that expensive, time-consuming battles about discovery proliferate, they deflect the attention of foreign authorities from other matters those authorities consider more important; they can lead to results contrary to those that foreign authorities desire; and they can promote disharmony among national and international authorities, rather than the harmony that §1782 seeks to achieve.  They also use up domestic judicial resources and crowd our dockets.
+
+															
+
+   That is why I believe the statute, while granting district courts broad authority to order discovery, nonetheless must be read as subject to some categorical limits, at least at the outer bounds—a matter that today’s decision makes even more important.  Those limits should rule out instances in which it is virtually certain that discovery (if considered case by case) would prove unjustified.
+
+															
+
+   This case does not require us to find a comprehensive set of limits.  But it does suggest two categorical limitations, which I would adopt.  First, when a foreign entity possesses few tribunal-like characteristics, so that the applicability of the statute’s word “tribunal” is in serious doubt, then a court should pay close attention to the foreign entity’s own view of its “tribunal”-like or non-“tribunal”-like status.  By paying particular attention to the views of the very foreign nations that Congress sought to help, courts would better achieve Congress’ basic cooperative objectives in enacting the statute.  See Act of Sept. 2, 1958, Pub. L. 85–906, §2, 72 Stat. 1743 (creating Commission on International Rules of Judicial Procedure to investigate and improve judicial “cooperation” between the United States and other countries).
+
+															
+
+   The concept of paying special attention to administrative views is well established in American law.  Cf. Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837, 843 (1984); Skidmore v. Swift & Co., 323 U. S. 134, 140 (1944).  Like American administrators, foreign administrators are likely to understand better than American courts their own job and, for example, how discovery rights might affect their ability to carry out their responsibilities.  I can think of no reason why Congress would have intended a court to pay less attention to the foreign entity’s view of the matter than courts ordinarily pay to a domestic agency’s understanding of the workings of its own statute.
+
+															
+
+   Second, a court should not permit discovery where both of the following are true: (1) A private person seeking discovery would not be entitled to that discovery under foreign law, and (2) the discovery would not be available under domestic law in analogous circumstances.  The Federal Rules of Civil Procedure, for example, make only limited provisions for nonlitigants to obtain certain discovery.  See Fed. Rule Civ. Proc. 27.  The limitations contained in the Rules help to avoid discovery battles launched by firms simply seeking information from competitors.  Where there is benefit in permitting such discovery, and the benefit outweighs the cost of allowing it, one would expect either domestic law or foreign law to authorize it.  If, notwithstanding the fact that it would not be allowed under either domestic or foreign law, there is some special need for the discovery in a particular instance, one would expect to find foreign governmental or intergovernmental authorities making the case for that need.  Where none of these circumstances is present, what benefit could offset the obvious costs to the competitor and to our courts?  I cannot think of any.
+
+															
+
+   Application of either of these limiting principles would require dismissal of this discovery proceeding.  First, the Commission of the European Communities’ (Commission) antitrust authority’s status as a “tribunal” is questionable.  In many respects, the Commission more closely resembles a prosecuting authority, say, the Department of Justice’s Antitrust Division, than an administrative agency that adjudicates cases, say, the Federal Trade Commission.  To my knowledge, those who decide whether to bring an antitrust prosecution on the Commission’s behalf are not judges.  See App. 96; Wils, The Combination of the Investigative and Prosecutorial Function and the Adjudicative Function in EC Antitrust Enforcement: A Legal and Economic Analysis, 27 World Competition Law and Economics Review 201, 207 (June 2004) (explaining, in an article written by a member of the Commission’s Legal Service, that “in European Commission proceedings there is no independent initial adjudicator . . . and the Commissioners do not sit as judges hearing directly both sides of the case”).  They do not adjudicate adversary proceedings on the basis of proofs and argument.  Id., at 207.  Nor, as the majority appears to recognize, does the later availability of a reviewing court matter where “review is limited to the record before the Commission,” and “AMD could ‘use’ evidence in the reviewing courts only by submitting it to the Commission in the current, investigative stage.”  Ante, at 13.  At a minimum, then, the question whether the Commission is a “tribunal” is unclear.  See Wils, supra, at 207–209 (noting the scholarly and legal debate as to whether the Commission’s antitrust investigation and enforcement activities qualify it as an “ ‘independent and impartial tribunal’ ” for purposes of the European Convention on Human Rights).
+
+															
+
+   At the same time, the Commission has told this Court that it is not a “tribunal” under the Act.  It has added that, should it be considered, against its will, a “tribunal,” its “ability to carry out its governmental responsibilities” will be seriously threatened.  Brief for Commission of the European Communities as Amicus Curiae 2.  Given the potential need for the Commission to respond when a private firm (including an American company) files a complaint with the Commission and seeks discovery in an American court (say, from a competitor), its concerns are understandable.
+
+															
+
+   The Commission’s characterization of its own functions is, in my view, entitled to deference.  The majority disregards the Commission’s opinion and states categorically that “the Commission is a §1782(a) ‘tribunal’ when it acts as a first-instance decisionmaker.”  Ante, at 2.  In so ignoring the Commission, the majority undermines the comity interests §1782 was designed to serve and disregards the maxim that we construe statutes so as to “hel[p] the potentially conflicting laws of different nations work together in harmony—a harmony particularly needed in today’s highly interdependent commercial world.”  F. Hoffmann-LaRoche Ltd. v. Empagran S. A., ante, at __ (slip op., at 8).
+
+															
+
+   The second limiting factor is also present.  Neither AMD nor any comparable private party would be able to obtain the kind of discovery AMD seeks, either in Europe or in the United States.  In respect to Europe, the Commission has told us that any person in the world is free to file a complaint with the Commission, but it is the Commission that then investigates.  The private complainant lacks any authority to obtain discovery of business secrets and commercial information.  See Brief for Commission of the European Communities as Amicus Curiae 13, and n. 15.  In respect to the United States, AMD is a nonlitigant, apart from this discovery proceeding.  Conditions under which a nonlitigant may obtain discovery are limited.  AMD does not suggest that it meets those conditions, or that it is comparable in any other way to one who might obtain discovery under roughly analogous circumstances.  In addition, the material it seeks is under a protective order.  See ante, at 6, n. 4.
+
+															
+
+   What is the legal source of these limiting principles?  In my view, they, and perhaps others, are implicit in the statute itself, given its purpose and use of the terms “tribunal” and “interested person.”  §1782(a).  But even if they are not, this Court’s “supervisory powers . . . permit, at the least, the promulgation of procedural rules governing the management of litigation,” not to mention “ ‘procedures deemed desirable from the viewpoint of sound judicial practice although in nowise commanded by statute or by the Constitution.’ ”  Thomas v. Arn,  474 U. S. 140, 146–147 (1985) (quoting Cupp v. Naughten, 414 U. S. 141, 146 (1973)).  See also Dickerson v. United States,  530 U. S. 428, 437 (2000) (“This Court has supervisory authority over the federal courts, and we may use that authority to prescribe rules of evidence and procedure that are binding in those tribunals”).  Intel Corp. has asked us to exercise those powers in this case.  Brief for Petitioner 34–38.  We should do so along the lines that I suggest; consequently, we should reverse the judgment below and order the complaint in this case dismissed.
+
+															
+
+   I respectfully dissent from the Court’s contrary determination.
+
+
+
+													

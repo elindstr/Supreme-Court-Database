@@ -1,0 +1,351 @@
+::SCDB_caseID:: 2018-062
+::decision_cite:: 18-422
+::decision_name::  Rucho v. Common Cause
+::decision_year:: 2019
+::opinion_author:: Roberts
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 18–422, 18–726
+
+															_________________
+
+															ROBERT A. RUCHO, et al., APPELLANTS
+
+															18–422v.
+
+															COMMON CAUSE, et al.; AND
+
+															on appeal from the united states district court for the middle district of north carolina
+
+															
+
+															LINDA H. LAMONE, et al., APPELLANTS
+
+															18–726v.
+
+															O. JOHN BENISEK, et al.
+
+															on appeal from the united states district court for the district of maryland
+
+															 [June 27, 2019]
+
+															Chief Justice Roberts delivered the opinion of the Court.
+
+															Voters and other plaintiffs in North Carolina and Maryland challenged their States’ congressional districting maps as unconstitutional partisan gerrymanders.  The North Carolina plaintiffs complained that the State’s districting plan discriminated against Democrats; the Maryland plaintiffs complained that their State’s plan discriminated against Republicans.  The plaintiffs alleged that the gerrymandering violated the
+ 
+First Amendment, the Equal Protection Clause of the
+ 
+Fourteenth Amendment, the Elections Clause, and Article I, §2, of the Constitution.  The District Courts in both cases ruled in favor of the plaintiffs, and the defendants appealed directly to this Court.
+
+															These cases require us to consider once again whether claims of excessive partisanship in districting are “justiciable”—that is, properly suited for resolution by the federal courts.  This Court has not previously struck down a districting plan as an unconstitutional partisan gerrymander, and has struggled without success over the past several decades to discern judicially manageable standards for deciding such claims.  The districting plans at issue here are highly partisan, by any measure.  The question is whether the courts below appropriately exercised judicial power when they found them unconstitutional as well.
+
+															I
+
+															A
+
+															The first case involves a challenge to the congressional redistricting plan enacted by the Republican-controlled North Carolina General Assembly in 2016.  Rucho v. Common Cause, No. 18–422.  The Republican legislators leading the redistricting effort instructed their mapmaker to use political data to draw a map that would produce a congressional delegation of ten Republicans and three Democrats.  318 F. Supp. 3d 777, 807–808 (MDNC 2018).  As one of the two Republicans chairing the redistricting committee stated, “I think electing Republicans is better than electing Democrats.  So I drew this map to help foster what I think is better for the country.”  Id., at 809.  He further explained that the map was drawn with the aim of electing ten Republicans and three Democrats because he did “not believe it [would be] possible to draw a map with 11 Republicans and 2 Democrats.”  Id., at 808.  One Demo- cratic state senator objected that entrenching the 10–3 advantage for Republicans was not “fair, reasonable, [or] balanced” because, as recently as 2012, “Democratic congressional candidates had received more votes on a statewide basis than Republican candidates.”  Ibid.  The General Assembly was not swayed by that objection and approved the 2016 Plan by a party-line vote.  Id., at 809.
+
+															In November 2016, North Carolina conducted congressional elections using the 2016 Plan, and Republican candidates won 10 of the 13 congressional districts.  Id., at 810.  In the 2018 elections, Republican candidates won nine congressional districts, while Democratic candidates won three.  The Republican candidate narrowly prevailed in the remaining district, but the State Board of Elections called a new election after allegations of fraud.
+
+															This litigation began in August 2016, when the North Carolina Democratic Party, Common Cause (a nonprofit organization), and 14 individual North Carolina voters sued the two lawmakers who had led the redistricting effort and other state defendants in Federal District Court. Shortly thereafter, the League of Women Voters of North Carolina and a dozen additional North Carolina voters filed a similar complaint.  The two cases were  consolidated.
+
+															The plaintiffs challenged the 2016 Plan on multiple constitutional grounds.  First, they alleged that the Plan violated the Equal Protection Clause of the
+ 
+Fourteenth Amendment by intentionally diluting the electoral strength of Democratic voters.  Second, they claimed that the Plan violated their
+ 
+First Amendment rights by retaliating against supporters of Democratic candidates on the basis of their political beliefs.  Third, they asserted that the Plan usurped the right of “the People” to elect their preferred candidates for Congress, in violation of the requirement in Article I, §2, of the Constitution that Members of the House of Representatives be chosen “by the People of the several States.”  Finally, they alleged that the Plan violated the Elections Clause by exceeding the State’s delegated authority to prescribe the “Times, Places and Manner of holding Elections” for Members of Congress.
+
+															After a four-day trial, the three-judge District Court unanimously concluded that the 2016 Plan violated the Equal Protection Clause and Article I of the Constitution.  The court further held, with Judge Osteen dissenting, that the Plan violated the
+ 
+First Amendment.  Common Cause v. Rucho, 279 F. Supp. 3d 587 (MDNC 2018).  The defendants appealed directly to this Court under
+
+28 U. S. C. §1253.
+
+															While that appeal was pending, we decided Gill v. Whitford, 585 U. S. ___ (2018), a partisan gerrymandering case out of Wisconsin.  In that case, we held that a plaintiff asserting a partisan gerrymandering claim based on a theory of vote dilution must establish standing by showing he lives in an allegedly “cracked” or “packed” district.  Id., at ___ (slip op., at 17).  A “cracked” district is one in which a party’s supporters are divided among multiple districts, so that they fall short of a majority in each; a “packed” district is one in which a party’s supporters are highly concentrated, so they win that district by a large margin, “wasting” many votes that would improve their chances in others.  Id., at ___–___ (slip op., at 3–4).
+
+															After deciding Gill, we remanded the present case for further consideration by the District Court.  585 U. S. ___ (2018).  On remand, the District Court again struck down the 2016 Plan.  318 F. Supp. 3d 777.  It found standing and concluded that the case was appropriate for judicial resolution.  On the merits, the court found that “the General Assembly’s predominant intent was to discriminate against voters who supported or were likely to support non-Republican candidates,” and to “entrench Republican candidates” through widespread cracking and packing of Democratic voters.  Id., at 883–884.  The court rejected the defendants’ arguments that the distribution of Republican and Democratic voters throughout North Carolina and the interest in protecting incumbents neutrally explained the 2016 Plan’s discriminatory effects.  Id., at 896–899.  In the end, the District Court held that 12 of the 13 districts constituted partisan gerrymanders that violated the Equal Protection Clause.  Id., at 923.
+
+															The court also agreed with the plaintiffs that the 2016 Plan discriminated against them because of their political speech and association, in violation of the
+ 
+First Amendment.  Id., at 935.  Judge Osteen dissented with respect to that ruling.  Id., at 954–955.  Finally, the District Court concluded that the 2016 Plan violated the Elections Clause and Article I, §2.  Id., at 935–941.  The District Court enjoined the State from using the 2016 Plan in any election after the November 2018 general election.  Id., at 942.
+
+															The defendants again appealed to this Court, and we postponed jurisdiction.  586 U. S. ___ (2019).
+
+															B
+
+															The second case before us is Lamone v. Benisek, No. 18–726.  In 2011, the Maryland Legislature—dominated by Democrats—undertook to redraw the lines of that State’s eight congressional districts.  The Governor at the time, Democrat Martin O’Malley, led the process.  He appointed a redistricting committee to help redraw the map, and asked Congressman Steny Hoyer, who has described himself as a “serial gerrymanderer,” to advise the committee.  348 F. Supp. 3d 493, 502 (Md. 2018).  The Governor later testified that his aim was to “use the redistricting process to change the overall composition of Maryland’s congressional delegation to 7 Democrats and 1 Republican by flipping” one district.  Ibid.  “[A] decision was made to go for the Sixth,” ibid., which had been held by a Republican for nearly two decades.  To achieve the required equal population among districts, only about 10,000 residents needed to be removed from that district.  Id., at 498.  The 2011 Plan accomplished that by moving roughly 360,000 voters out of the Sixth District and moving 350,000 new voters in.  Overall, the Plan reduced the number of registered Republicans in the Sixth District by about 66,000 and increased the number of registered Democrats by about 24,000.  Id., at 499–501.  The map was adopted by a party-line vote.  Id., at 506.  It was used in the 2012 election and succeeded in flipping the Sixth District.  A Democrat has held the seat ever since.
+
+															In November 2013, three Maryland voters filed this lawsuit.  They alleged that the 2011 Plan violated the
+ 
+First Amendment, the Elections Clause, and Article I, §2, of the Constitution.  After considerable procedural skirmishing and litigation over preliminary relief, the District Court entered summary judgment for the plaintiffs.  348 F. Supp. 3d 493.  It concluded that the plaintiffs’ claims were justiciable, and that the Plan violated the
+ 
+First Amendment by diminishing their “ability to elect their candidate of choice” because of their party affiliation and voting history, and by burdening their associational rights.  Id., at 498.  On the latter point, the court relied upon findings that Republicans in the Sixth District “were burdened in fundraising, attracting volunteers, campaigning, and generating interest in voting in an atmosphere of general confusion and apathy.”  Id., at 524.
+
+															The District Court permanently enjoined the State from using the 2011 Plan and ordered it to promptly adopt a new plan for the 2020 election.  Id., at 525.  The defendants appealed directly to this Court under
+
+28 U. S. C. §1253.  We postponed jurisdiction.  586 U. S. ___ (2019).
+
+															II
+
+															A
+
+															Article III of the Constitution limits federal courts to deciding “Cases” and “Controversies.”  We have understood that limitation to mean that federal courts can address only questions “historically viewed as capable of resolution through the judicial process.”  Flast v. Cohen,
+
+392 U.S. 83, 95 (1968).  In these cases we are asked to decide an important question of constitutional law.  “But before we do so, we must find that the question is presented in a ‘case’ or ‘controversy’ that is, in James Madison’s words, ‘of a Judiciary Nature.’ ”  DaimlerChrysler Corp. v. Cuno,
+
+547 U.S. 332, 342 (2006) (quoting 2 Records of the Federal Convention of 1787, p. 430 (M. Farrand ed. 1966)).
+
+															Chief Justice Marshall famously wrote that it is “the province and duty of the judicial department to say what the law is.”  Marbury v. Madison, 1 Cranch 137, 177 (1803).  Sometimes, however, “the law is that the judicial department has no business entertaining the claim of unlawfulness—because the question is entrusted to one of the political branches or involves no judicially enforceable rights.”  Vieth v. Jubelirer,
+
+541 U.S. 267, 277 (2004) (plurality opinion).  In such a case the claim is said to present a “political question” and to be nonjusticiable—outside the courts’ competence and therefore beyond the courts’ jurisdiction.  Baker v. Carr,
+
+369 U.S. 186, 217 (1962).  Among the political question cases the Court has identified are those that lack “judicially discoverable and manageable standards for resolving [them].”  Ibid.
+
+															Last Term in Gill v. Whitford, we reviewed our partisan gerrymandering cases and concluded that those cases “leave unresolved whether such claims may be brought.”  585 U. S., at ___ (slip op., at 13).  This Court’s authority to act, as we said in Gill, is “grounded in and limited by the necessity of resolving, according to legal principles, a plaintiff’s particular claim of legal right.”  Ibid.  The question here is whether there is an “appropriate role for the Federal Judiciary” in remedying the problem of partisan gerrymandering—whether such claims are claims of legal right, resolvable according to legal principles, or political questions that must find their resolution elsewhere.  Id., at ___ (slip op., at 8).
+
+															B
+
+															Partisan gerrymandering is nothing new.  Nor is frustration with it.  The practice was known in the Colonies prior to Independence, and the Framers were familiar with it at the time of the drafting and ratification of the Constitution.  See Vieth, 541 U. S., at 274 (plurality opinion).  During the very first congressional elections, George Washington and his Federalist allies accused Patrick Henry of trying to gerrymander Virginia’s districts against their candidates—in particular James Madison, who ultimately prevailed over fellow future President James Monroe.  Hunter, The First Gerrymander? 9 Early Am. Studies 792–794, 811 (2011).  See 5 Writings of Thomas Jefferson 71 (P. Ford ed. 1895) (Letter to W. Short (Feb. 9, 1789)) (“Henry has so modelled the districts for representatives as to tack Orange [county] to counties where he himself has great influence that Madison may not be elected into the lower federal house”).
+
+															In 1812, Governor of Massachusetts and future Vice President Elbridge Gerry notoriously approved congressional districts that the legislature had drawn to aid the Democratic-Republican Party.  The moniker “gerrymander” was born when an outraged Federalist newspaper observed that one of the misshapen districts resembled a salamander.  See Vieth, 541 U. S., at 274 (plurality opinion); E. Griffith, The Rise and Development of the Gerrymander 17–19 (1907).  “By 1840, the gerrymander was a recognized force in party politics and was generally attempted in all legislation enacted for the formation of election districts.  It was generally conceded that each party would attempt to gain power which was not proportionate to its numerical strength.”  Id., at 123.
+
+															The Framers addressed the election of Representatives to Congress in the Elections Clause.  Art. I, §4, cl. 1.  That provision assigns to state legislatures the power to prescribe the “Times, Places and Manner of holding Elections” for Members of Congress, while giving Congress the power to “make or alter” any such regulations.  Whether to give that supervisory authority to the National Government was debated at the Constitutional Convention.  When those opposed to such congressional oversight moved to strike the relevant language, Madison came to its defense:
+
+															“[T]he State Legislatures will sometimes fail or refuse to consult the common interest at the expense of their local coveniency or prejudices. . . .  Whenever the State Legislatures had a favorite measure to carry, they would take care so to mould their regulations as to favor the candidates they wished to succeed.”  2 Records of the Federal Convention of 1787, at 240–241.
+
+															During the subsequent fight for ratification, the provision remained a subject of debate.  Antifederalists predicted that Congress’s power under the Elections Clause would allow Congress to make itself “omnipotent,” setting the “time” of elections as never or the “place” in difficult to reach corners of the State.  Federalists responded that, among other justifications, the revisionary power was necessary to counter state legislatures set on undermining fair representation, including through malapportionment.  M. Klarman, The Framers’ Coup: The Making of the United States Constitution 340–342 (2016).  The Federalists were, for example, concerned that newly developing population centers would be deprived of their proper electoral weight, as some cities had been in Great Britain.  See 6 The Documentary History of the Ratification of the Constitution: Massachusetts 1278–1279 (J. Kaminski & G. Saladino eds. 2000).
+
+															Congress has regularly exercised its Elections Clause power, including to address partisan gerrymandering.  The Apportionment Act of 1842, which required single-member districts for the first time, specified that those districts be “composed of contiguous territory,” Act of June 25, 1842, ch. 47,
+
+5Stat.
+491, in “an attempt to forbid the practice of the gerrymander,” Griffith, supra, at 12.  Later statutes added requirements of compactness and equality of population.  Act of Jan. 16, 1901, ch. 93, §3,
+
+31Stat.
+733; Act of Feb. 2, 1872, ch. 11, §2,
+
+17Stat.
+28.  (Only the single member district requirement remains in place today.
+
+2 U. S. C. §2c.)  See Vieth, 541 U. S., at 276 (plurality opinion).  Congress also used its Elections Clause power in 1870, enacting the first comprehensive federal statute dealing with elections as a way to enforce the
+ 
+Fifteenth Amendment.  Force Act of 1870, ch. 114,
+
+16Stat.
+140.  Starting in the 1950s, Congress enacted a series of laws to protect the right to vote through measures such as the suspension of literacy tests and the prohibition of English-only elections.  See, e.g., 
+
+52 U. S. C. §10101 et seq.
+
+															Appellants suggest that, through the Elections Clause, the Framers set aside electoral issues such as the one before us as questions that only Congress can resolve.  See Baker, 369 U. S., at 217.  We do not agree.  In two areas—one-person, one-vote and racial gerrymandering—our cases have held that there is a role for the courts with respect to at least some issues that could arise from a State’s drawing of congressional districts.  See Wesberry v. Sanders,
+
+376 U.S. 1 (1964); Shaw v. Reno,
+
+509 U.S. 630 (1993) (Shaw I ).
+
+															But the history is not irrelevant.  The Framers were aware of electoral districting problems and considered what to do about them.  They settled on a characteristic approach, assigning the issue to the state legislatures, expressly checked and balanced by the Federal Congress.  As Alexander Hamilton explained, “it will . . . not be denied that a discretionary power over elections ought to exist somewhere.  It will, I presume, be as readily conceded that there were only three ways in which this power could have been reasonably modified and disposed: that it must either have been lodged wholly in the national legislature, or wholly in the State legislatures, or primarily in the latter, and ultimately in the former.”  The Federalist No. 59, p. 362 (C. Rossiter ed. 1961).  At no point was there a suggestion that the federal courts had a role to play.  Nor was there any indication that the Framers had ever heard of courts doing such a thing.
+
+															C
+
+															Courts have nevertheless been called upon to resolve a variety of questions surrounding districting.  Early on, doubts were raised about the competence of the federal courts to resolve those questions.  See Wood v. Broom,
+
+287 U.S. 1 (1932); Colegrove v. Green,
+
+328 U.S. 549 (1946).
+
+															In the leading case of Baker v. Carr, voters in Tennessee complained that the State’s districting plan for state representatives “debase[d]” their votes, because the plan was predicated on a 60-year-old census that no longer reflected the distribution of population in the State.  The plaintiffs argued that votes of people in overpopulated districts held less value than those of people in less-populated districts, and that this inequality violated the Equal Protection Clause of the
+ 
+Fourteenth Amendment.  The District Court dismissed the action on the ground that the claim was not justiciable, relying on this Court’s precedents, including Colegrove.  Baker v. Carr, 179 F. Supp. 824, 825, 826 (MD Tenn. 1959).  This Court reversed.  It identified various considerations relevant to determining whether a claim is a nonjusticiable political question, including whether there is “a lack of judicially discover- able and manageable standards for resolving it.”  369 U. S., at 217.  The Court concluded that the claim of population inequality among districts did not fall into that category, because such a claim could be decided under basic equal protection principles.  Id., at 226.  In Wesberry v. Sanders, the Court extended its ruling to malapportionment of congressional districts, holding that Article I, §2, required that “one man’s vote in a congressional election is to be worth as much as another’s.”  376 U. S., at 8.
+
+															Another line of challenges to districting plans has focused on race.  Laws that explicitly discriminate on the basis of race, as well as those that are race neutral on their face but are unexplainable on grounds other than race, are of course presumptively invalid.  The Court applied those principles to electoral boundaries in Gomillion v. Lightfoot, concluding that a challenge to an “uncouth twenty-eight sided” municipal boundary line that excluded black voters from city elections stated a constitutional claim.
+
+364 U.S. 339, 340 (1960).  In Wright v. Rockefeller,
+
+376 U.S. 52 (1964), the Court extended the reasoning of Gomillion to congressional districting.  See Shaw I, 509 U. S., at 645.
+
+															Partisan gerrymandering claims have proved far more difficult to adjudicate.  The basic reason is that, while it is illegal for a jurisdiction to depart from the one-person, one-vote rule, or to engage in racial discrimination in districting, “a jurisdiction may engage in constitutional political gerrymandering.”  Hunt v. Cromartie,
+
+526 U.S. 541, 551 (1999) (citing Bush v. Vera,
+
+517 U.S. 952, 968 (1996); Shaw v. Hunt,
+
+517 U.S. 899, 905 (1996) (Shaw II); Miller v. Johnson,
+
+515 U.S. 900, 916 (1995); Shaw I, 509 U. S., at 646).  See also Gaffney v. Cummings,
+
+412 U.S. 735, 753 (1973) (recognizing that “[p]olitics and political considerations are inseparable from districting and  apportionment”).
+
+															To hold that legislators cannot take partisan interests into account when drawing district lines would essentially countermand the Framers’ decision to entrust districting to political entities.  The “central problem” is not determining whether a jurisdiction has engaged in partisan gerrymandering.  It is “determining when political gerrymandering has gone too far.”  Vieth, 541 U. S., at 296 (plurality opinion).  See League of United Latin American Citizens v. Perry,
+
+548 U.S. 399, 420 (2006) (LULAC) (opinion of Kennedy, J.) (difficulty is “providing a standard for deciding how much partisan dominance is too much”).
+
+															We first considered a partisan gerrymandering claim in Gaffney v. Cummings in 1973.  There we rejected an equal protection challenge to Connecticut’s redistricting plan, which “aimed at a rough scheme of proportional representation of the two major political parties” by “wiggl[ing] and joggl[ing] boundary lines” to create the appropriate number of safe seats for each party.  412 U. S., at 738, 752, n. 18 (internal quotation marks omitted).  In upholding the State’s plan, we reasoned that districting “inevitably has and is intended to have substantial political consequences.”  Id., at 753.
+
+															Thirteen years later, in Davis v. Bandemer, we addressed a claim that Indiana Republicans had cracked and packed Democrats in violation of the Equal Protection Clause.
+
+478 U.S. 109, 116–117 (1986) (plurality opinion).  A majority of the Court agreed that the case was justiciable, but the Court splintered over the proper standard to apply.  Four Justices would have required proof of “intentional discrimination against an identifiable political group and an actual discriminatory effect on that group.”  Id., at 127.  Two Justices would have focused on “whether the boundaries of the voting districts have been distorted deliberately and arbitrarily to achieve illegitimate ends.”  Id., at 165 (Powell, J., concurring in part and dissenting in part).  Three Justices, meanwhile, would have held that the Equal Protection Clause simply “does not supply judicially manageable standards for resolving purely political gerrymandering claims.”  Id., at 147 (O’Connor, J., concurring in judgment).  At the end of the day, there was “no ‘Court’ for a standard that properly should be applied in determining whether a challenged redistricting plan is an unconstitutional partisan political gerrymander.”  Id., at 185, n. 25 (opinion of Powell, J.).  In any event, the Court held that the plaintiffs had failed to show that the plan violated the Constitution.
+
+															Eighteen years later, in Vieth, the plaintiffs complained that Pennsylvania’s legislature “ignored all traditional redistricting criteria, including the preservation of local government boundaries,” in order to benefit Republican congressional candidates.  541 U. S., at 272–273 (plurality opinion) (brackets omitted).  Justice Scalia wrote for a four-Justice plurality.  He would have held that the plaintiffs’ claims were nonjusticiable because there was no “judicially discernible and manageable standard” for deciding them.  Id., at 306.  Justice Kennedy, concurring in the judgment, noted “the lack of comprehensive and neutral principles for drawing electoral boundaries [and] the absence of rules to limit and confine judicial intervention.”  Id., at 306–307.  He nonetheless left open the possibility that “in another case a standard might emerge.”  Id., at 312.  Four Justices dissented.
+
+															In LULAC, the plaintiffs challenged a mid-decade redistricting map approved by the Texas Legislature.  Once again a majority of the Court could not find a justiciable standard for resolving the plaintiffs’ partisan gerrymandering claims.  See 548 U. S., at 414 (noting that the “disagreement over what substantive standard to apply” that was evident in Bandemer “persists”).
+
+															As we summed up last Term in Gill, our “considerable efforts in Gaffney, Bandemer, Vieth, and LULAC leave unresolved whether . . . claims [of legal right] may be brought in cases involving allegations of partisan gerrymandering.”  585 U. S., at ___ (slip op., at 13).  Two “threshold questions” remained: standing, which we addressed in Gill, and “whether [such] claims are justiciable.”  Ibid.
+
+															III
+
+															A
+
+															In considering whether partisan gerrymandering claims are justiciable, we are mindful of Justice Kennedy’s counsel in Vieth: Any standard for resolving such claims must be grounded in a “limited and precise rationale” and be “clear, manageable, and politically neutral.”  541 U. S., at 306–308 (opinion concurring in judgment).  An important reason for those careful constraints is that, as a Justice with extensive experience in state and local politics put it, “[t]he opportunity to control the drawing of electoral boundaries through the legislative process of apportionment is a critical and traditional part of politics in the United States.”  Bandemer, 478 U. S., at 145 (opinion of O’Connor, J.).  See Gaffney, 412 U. S., at 749 (observing that districting implicates “fundamental ‘choices about the nature of representation’ ” (quoting Burns v. Richardson,
+
+384 U.S. 73, 92 (1966))).  An expansive standard requiring “the correction of all election district lines drawn for partisan reasons would commit federal and state courts to unprecedented intervention in the American political process,” Vieth, 541 U. S., at 306 (opinion of Kennedy, J.).
+
+															As noted, the question is one of degree: How to “provid[e] a standard for deciding how much partisan dominance is too much.”  LULAC, 548 U. S., at 420 (opinion of Kennedy, J.).  And it is vital in such circumstances that the Court act only in accord with especially clear standards: “With uncertain limits, intervening courts—even when proceeding with best intentions—would risk assuming political, not legal, responsibility for a process that often produces ill will and distrust.”  Vieth, 541 U. S., at 307 (opinion of Kennedy, J.).  If federal courts are to “inject [themselves] into the most heated partisan issues” by adjudicating partisan gerrymandering claims, Bandemer, 478 U. S., at 145 (opinion of O’Connor, J.), they must be armed with a standard that can reliably differentiate unconstitutional from “constitutional political gerrymandering.”  Cromartie, 526 U. S., at 551.
+
+															B
+
+															Partisan gerrymandering claims rest on an instinct that groups with a certain level of political support should enjoy a commensurate level of political power and influence.  Explicitly or implicitly, a districting map is alleged to be unconstitutional because it makes it too difficult for one party to translate statewide support into seats in the legislature.  But such a claim is based on a “norm that does not exist” in our electoral system—“statewide elections for representatives along party lines.”  Bandemer, 478 U. S., at 159 (opinion of O’Connor, J.).
+
+															Partisan gerrymandering claims invariably sound in a desire for proportional representation.  As Justice O’Connor put it, such claims are based on “a conviction that the greater the departure from proportionality, the more suspect an apportionment plan becomes.”  Ibid.  “Our cases, however, clearly foreclose any claim that the Constitution requires proportional representation or that legislatures in reapportioning must draw district lines to come as near as possible to allocating seats to the contending parties in proportion to what their anticipated statewide vote will be.”  Id., at 130 (plurality opinion).  See Mobile v. Bolden,
+
+446 U.S. 55, 75–76 (1980) (plurality opinion) (“The Equal Protection Clause of the
+ 
+Fourteenth Amendment does not require proportional representation as an imperative of political organization.”).
+
+															The Founders certainly did not think proportional representation was required.  For more than 50 years after ratification of the Constitution, many States elected their congressional representatives through at-large or “general ticket” elections.  Such States typically sent single-party delegations to Congress.  See E. Engstrom, Partisan Gerry- mandering and the Construction of American Democracy 43–51 (2013).  That meant that a party could garner nearly half of the vote statewide and wind up without any seats in the congressional delegation.  The Whigs in Alabama suffered that fate in 1840: “their party garnered 43 percent of the statewide vote, yet did not receive a single seat.”  Id., at 48.  When Congress required single-member districts in the Apportionment Act of 1842, it was not out of a general sense of fairness, but instead a (mis)calculation by the Whigs that such a change would improve their electoral prospects.  Id., at 43–44.
+
+															Unable to claim that the Constitution requires proportional representation outright, plaintiffs inevitably ask the courts to make their own political judgment about how much representation particular political parties deserve—based on the votes of their supporters—and to rearrange the challenged districts to achieve that end.  But federal courts are not equipped to apportion political power as a matter of fairness, nor is there any basis for concluding that they were authorized to do so.  As Justice Scalia put it for the plurality in Vieth:
+
+															“ ‘Fairness’ does not seem to us a judicially manage- able standard. . . . Some criterion more solid and more demonstrably met than that seems to us necessary to enable the state legislatures to discern the limits of their districting discretion, to meaningfully constrain the discretion of the courts, and to win public acceptance for the courts’ intrusion into a process that is the very foundation of democratic decisionmaking.”  541 U. S., at 291.
+
+															The initial difficulty in settling on a “clear, manageable and politically neutral” test for fairness is that it is not even clear what fairness looks like in this context.  There is a large measure of “unfairness” in any winner-take-all system.  Fairness may mean a greater number of competitive districts.  Such a claim seeks to undo packing and cracking so that supporters of the disadvantaged party have a better shot at electing their preferred candidates.  But making as many districts as possible more competitive could be a recipe for disaster for the disadvantaged party.  As Justice White has pointed out, “[i]f all or most of the districts are competitive . . . even a narrow statewide preference for either party would produce an overwhelming majority for the winning party in the state legislature.”  Bandemer, 478 U. S., at 130 (plurality opinion).
+
+															On the other hand, perhaps the ultimate objective of a “fairer” share of seats in the congressional delegation is most readily achieved by yielding to the gravitational pull of proportionality and engaging in cracking and packing, to ensure each party its “appropriate” share of “safe” seats.  See id., at 130–131 (“To draw district lines to maximize the representation of each major party would require creating as many safe seats for each party as the demographic and predicted political characteristics of the State would permit.”); Gaffney, 412 U. S., at 735–738.  Such an approach, however, comes at the expense of competitive districts and of individuals in districts allocated to the opposing party.
+
+															Or perhaps fairness should be measured by adherence to “traditional” districting criteria, such as maintaining political subdivisions, keeping communities of interest together, and protecting incumbents.  See Brief for Bipartisan Group of Current and Former Members of the House of Representatives as Amici Curiae; Brief for Professor Wesley Pegden et al. as Amici Curiae in No. 18–422.  But protecting incumbents, for example, enshrines a particular partisan distribution.  And the “natural political geography” of a State—such as the fact that urban electoral districts are often dominated by one political party—can itself lead to inherently packed districts.  As Justice Kennedy has explained, traditional criteria such as compactness and contiguity “cannot promise political neutrality when used as the basis for relief.  Instead, it seems, a decision under these standards would unavoidably have significant political effect, whether intended or not.”  Vieth, 541 U. S., at 308–309 (opinion concurring in judgment).  See id., at 298 (plurality opinion) (“[P]acking and cracking, whether intentional or no, are quite consistent with adherence to compactness and respect for political subdivision lines”).
+
+															Deciding among just these different visions of fairness (you can imagine many others) poses basic questions that are political, not legal.  There are no legal standards discernible in the Constitution for making such judgments, let alone limited and precise standards that are clear, manageable, and politically neutral.  Any judicial decision on what is “fair” in this context would be an “unmoored determination” of the sort characteristic of a political question beyond the competence of the federal courts.  Zivotofsky v. Clinton,
+
+566 U.S. 189, 196 (2012).
+
+															And it is only after determining how to define fairness that you can even begin to answer the determinative question: “How much is too much?”  At what point does permissible partisanship become unconstitutional?  If compliance with traditional districting criteria is the fairness touchstone, for example, how much deviation from those criteria is constitutionally acceptable and how should mapdrawers prioritize competing criteria?  Should a court “reverse gerrymander” other parts of a State to counteract “natural” gerrymandering caused, for example, by the urban concentration of one party?  If a districting plan protected half of the incumbents but redistricted the rest into head to head races, would that be constitutional?  A court would have to rank the relative importance of those traditional criteria and weigh how much deviation from each to allow.
+
+															If a court instead focused on the respective number of seats in the legislature, it would have to decide the ideal number of seats for each party and determine at what point deviation from that balance went too far.  If a 5–3 allocation corresponds most closely to statewide vote totals, is a 6–2 allocation permissible, given that legislatures have the authority to engage in a certain degree of partisan gerrymandering?  Which seats should be packed and which cracked?  Or if the goal is as many competitive districts as possible, how close does the split need to be for the district to be considered competitive?  Presumably not all districts could qualify, so how to choose?  Even assuming the court knew which version of fairness to be looking for, there are no discernible and manageable standards for deciding whether there has been a violation.  The questions are “unguided and ill suited to the development of judicial standards,” Vieth, 541 U. S., at 296 (plurality opinion), and “results from one gerrymandering case to the next would likely be disparate and inconsistent,” id., at 308 (opinion of Kennedy, J.).
+
+															Appellees contend that if we can adjudicate one-person, one-vote claims, we can also assess partisan gerrymandering claims.  But the one-person, one-vote rule is relatively easy to administer as a matter of math.  The same cannot be said of partisan gerrymandering claims, because the Constitution supplies no objective measure for assessing whether a districting map treats a political party fairly.  It hardly follows from the principle that each person must have an equal say in the election of representatives that a person is entitled to have his political party achieve representation in some way commensurate to its share of statewide support.
+
+															More fundamentally, “vote dilution” in the one-person, one-vote cases refers to the idea that each vote must carry equal weight.  In other words, each representative must be accountable to (approximately) the same number of constituents.  That requirement does not extend to political parties.  It does not mean that each party must be influential in proportion to its number of supporters.  As we stated unanimously in Gill, “this Court is not responsible for vindicating generalized partisan preferences.  The Court’s constitutionally prescribed role is to vindicate the individual rights of the people appearing before it.”  585 U. S., at ___ (slip op., at 21).  See also Bandemer, 478 U. S., at 150 (opinion of O’Connor, J.) (“[T]he Court has not accepted the argument that an ‘asserted entitlement to group representation’ . . . can be traced to the one person, one vote principle.” (quoting Bolden, 446 U. S., at 77)).[1]
+
+															Nor do our racial gerrymandering cases provide an appropriate standard for assessing partisan gerrymandering.  “[N]othing in our case law compels the conclusion that racial and political gerrymanders are subject to precisely the same constitutional scrutiny.  In fact, our country’s long and persistent history of racial discrimination in voting—as well as our
+ 
+Fourteenth Amendment jurisprudence, which always has reserved the strictest scrutiny for discrimination on the basis of race—would seem to compel the opposite conclusion.”  Shaw I, 509 U. S., at 650 (citation omitted).  Unlike partisan gerrymandering claims, a racial gerrymandering claim does not ask for a fair share of political power and influence, with all the justiciability conundrums that entails.  It asks instead for the elimination of a racial classification.  A partisan gerrymandering claim cannot ask for the elimination of partisanship.
+
+															IV
+
+															Appellees and the dissent propose a number of “tests” for evaluating partisan gerrymandering claims, but none meets the need for a limited and precise standard that is judicially discernible and manageable.  And none provides a solid grounding for judges to take the extraordinary step of reallocating power and influence between political parties.
+
+															A
+
+															The Common Cause District Court concluded that all but one of the districts in North Carolina’s 2016 Plan violated the Equal Protection Clause by intentionally diluting the voting strength of Democrats.  318 F. Supp. 3d, at 923.  In reaching that result the court first required the plaintiffs to prove “that a legislative mapdrawer’s predominant purpose in drawing the lines of a particular district was to ‘subordinate adherents of one political party and entrench a rival party in power.’ ”  Id., at 865 (quoting Arizona State Legislature v. Arizona Independent Redistricting Comm’n, 576 U. S. ___, ___ (2015) (slip op., at 1)).  The District Court next required a showing “that the dilution of the votes of supporters of a disfavored party in a particular district—by virtue of cracking or packing—is likely to persist in subsequent elections such that an elected representative from the favored party in the district will not feel a need to be responsive to constituents who support the disfavored party.”  318 F. Supp. 3d, at 867.  Finally, after a prima facie showing of partisan vote dilution, the District Court shifted the burden to the defendants to prove that the discriminatory effects are “attributable to a legitimate state interest or other neutral explanation.”  Id., at 868.
+
+															The District Court’s “predominant intent” prong is borrowed from the racial gerrymandering context.  In racial gerrymandering cases, we rely on a “predominant intent” inquiry to determine whether race was, in fact, the reason particular district boundaries were drawn the way they were.  If district lines were drawn for the purpose of separating racial groups, then they are subject to strict scrutiny because “race-based decisionmaking is inherently suspect.”  Miller, 515 U. S., at 915.  See Bush, 517 U. S., at 959 (principal opinion).  But determining that lines were drawn on the basis of partisanship does not indicate that the districting was improper.  A permissible intent—securing partisan advantage—does not become constitutionally impermissible, like racial discrimination, when that permissible intent “predominates.”
+
+															The District Court tried to limit the reach of its test by requiring plaintiffs to show, in addition to predominant partisan intent, that vote dilution “is likely to persist” to such a degree that the elected representative will feel free to ignore the concerns of the supporters of the minority party.  318 F. Supp. 3d, at 867.  But “[t]o allow district courts to strike down apportionment plans on the basis of their prognostications as to the outcome of future elections . . . invites ‘findings’ on matters as to which neither judges nor anyone else can have any confidence.”  Bandemer, 478 U. S., at 160 (opinion of O’Connor, J.).  See LULAC, 548 U. S., at 420 (opinion of Kennedy, J.) (“[W]e are wary of adopting a constitutional standard that invalidates a map based on unfair results that would occur in a hypothetical state of affairs.”).  And the test adopted by the Common Cause court requires a far more nuanced prediction than simply who would prevail in future political contests.  Judges must forecast with unspecified certainty whether a prospective winner will have a margin of victory sufficient to permit him to ignore the supporters of his defeated opponent (whoever that may turn out to be).  Judges not only have to pick the winner—they have to beat the point spread.
+
+															The appellees assure us that “the persistence of a party’s advantage may be shown through sensitivity testing: probing how a plan would perform under other plausible electoral conditions.”  Brief for Appellees League of Women Voters of North Carolina et al. in No. 18–422, p. 55.  See also 318 F. Supp. 3d, at 885.  Experience proves that accurately predicting electoral outcomes is not so simple, either because the plans are based on flawed assumptions about voter preferences and behavior or because demographics and priorities change over time.  In our two leading partisan gerrymandering cases themselves, the predictions of durability proved to be dramatically wrong.  In 1981, Republicans controlled both houses of the Indiana Legislature as well as the governorship.  Democrats challenged the state legislature districting map enacted by the Republicans.  This Court in Bandemer rejected that challenge, and just months later the Democrats increased their share of House seats in the 1986 elections.  Two years later the House was split 50–50 between Democrats and Republicans, and the Democrats took control of the chamber in 1990.  Democrats also challenged the Pennsylvania congressional districting plan at issue in Vieth.  Two years after that challenge failed, they gained four seats in the delegation, going from a 12–7 minority to an 11–8 majority.  At the next election, they flipped another Republican seat.
+
+															Even the most sophisticated districting maps cannot reliably account for some of the reasons voters prefer one candidate over another, or why their preferences may change.  Voters elect individual candidates in individual districts, and their selections depend on the issues that matter to them, the quality of the candidates, the tone of the candidates’ campaigns, the performance of an incumbent, national events or local issues that drive voter turnout, and other considerations.  Many voters split their tickets.  Others never register with a political party, and vote for candidates from both major parties at different points during their lifetimes.  For all of those reasons, asking judges to predict how a particular districting map will perform in future elections risks basing constitutional holdings on unstable ground outside judicial expertise.
+
+															It is hard to see what the District Court’s third prong—providing the defendant an opportunity to show that the discriminatory effects were due to a “legitimate redistricting objective”—adds to the inquiry.  318 F. Supp. 3d, at 861.  The first prong already requires the plaintiff to prove that partisan advantage predominates.  Asking whether a legitimate purpose other than partisanship was the motivation for a particular districting map just restates the question.
+
+															B
+
+															The District Courts also found partisan gerrymandering claims justiciable under the
+ 
+First Amendment, coalescing around a basic three-part test: proof of intent to burden individuals based on their voting history or party affiliation; an actual burden on political speech or associational rights; and a causal link between the invidious intent and actual burden.  See Common Cause, 318 F. Supp. 3d, at 929; Benisek, 348 F. Supp. 3d, at 522.  Both District Courts concluded that the districting plans at issue violated the plaintiffs’
+ 
+First Amendment right to association.  The District Court in North Carolina relied on testimony that, after the 2016 Plan was put in place, the plaintiffs faced “difficulty raising money, attracting candidates, and mobilizing voters to support the political causes and issues such Plaintiffs sought to advance.”  318 F. Supp. 3d, at 932.  Similarly, the District Court in Maryland examined testimony that “revealed a lack of enthusiasm, indifference to voting, a sense of disenfranchisement, a sense of disconnection, and confusion,” and concluded that Republicans in the Sixth District “were burdened in fundraising, attracting volunteers, campaigning, and generating interest in voting.”  348 F. Supp. 3d, at 523–524.
+
+															To begin, there are no restrictions on speech, association, or any other
+ 
+First Amendment activities in the districting plans at issue.  The plaintiffs are free to engage in those activities no matter what the effect of a plan may be on their district.
+
+															The plaintiffs’ argument is that partisanship in districting should be regarded as simple discrimination against supporters of the opposing party on the basis of political viewpoint.  Under that theory, any level of partisanship in districting would constitute an infringement of their
+ 
+First Amendment rights.  But as the Court has explained, “[i]t would be idle . . . to contend that any political consideration taken into account in fashioning a reapportionment plan is sufficient to invalidate it.”  Gaffney, 412 U. S., at 752.  The
+ 
+First Amendment test simply describes the act of districting for partisan advantage.  It provides no standard for determining when partisan activity goes too far.
+
+															As for actual burden, the slight anecdotal evidence found sufficient by the District Courts in these cases shows that this too is not a serious standard for separating constitutional from unconstitutional partisan gerrymandering.  The District Courts relied on testimony about difficulty drumming up volunteers and enthusiasm.  How much of a decline in voter engagement is enough to constitute a
+ 
+First Amendment burden?  How many door knocks must go unanswered?  How many petitions unsigned?  How many calls for volunteers unheeded?  The Common Cause District Court held that a partisan gerrymander places an unconstitutional burden on speech if it has more than a “de minimis” “chilling effect or adverse impact” on any
+ 
+First Amendment activity.  318 F. Supp. 3d, at 930.  The court went on to rule that there would be an adverse effect “even if the speech of [the plaintiffs] was not in fact chilled”; it was enough that the districting plan “makes it easier for supporters of Republican candidates to translate their votes into seats,” thereby “enhanc[ing] the[ir] relative voice.”  Id., at 933 (internal quotation marks omitted).
+
+															These cases involve blatant examples of partisanship driving districting decisions.  But the
+ 
+First Amendment analysis below offers no “clear” and “manageable” way of distinguishing permissible from impermissible partisan motivation.  The Common Cause court embraced that conclusion, observing that “a judicially manageable framework for evaluating partisan gerrymandering claims need not distinguish an ‘acceptable’ level of partisan gerrymandering from ‘excessive’ partisan gerrymandering” because “the Constitution does not authorize state redistricting bodies to engage in such partisan gerrymandering.”  Id., at 851.  The decisions below prove the prediction of the Vieth plurality that “a
+ 
+First Amendment claim, if it were sustained, would render unlawful all consideration of political affiliation in districting,” 541 U. S., at 294, contrary to our established precedent.
+
+															C
+
+															The dissent proposes using a State’s own districting criteria as a neutral baseline from which to measure how extreme a partisan gerrymander is.  The dissent would have us line up all the possible maps drawn using those criteria according to the partisan distribution they would produce.  Distance from the “median” map would indicate whether a particular districting plan harms supporters of one party to an unconstitutional extent.  Post, at 18–19, 25 (opinion of Kagan, J.).
+
+															As an initial matter, it does not make sense to use criteria that will vary from State to State and year to year as the baseline for determining whether a gerrymander violates the Federal Constitution.  The degree of partisan advantage that the Constitution tolerates should not turn on criteria offered by the gerrymanderers themselves.  It is easy to imagine how different criteria could move the median map toward different partisan distributions.  As a result, the same map could be constitutional or not depending solely on what the mapmakers said they set out to do.  That possibility illustrates that the dissent’s proposed constitutional test is indeterminate and arbitrary.
+
+															Even if we were to accept the dissent’s proposed baseline, it would return us to “the original unanswerable question (How much political motivation and effect is too much?).”  Vieth, 541 U. S., at 296–297 (plurality opinion).  Would twenty percent away from the median map be okay?  Forty percent?  Sixty percent?  Why or why not?  (We appreciate that the dissent finds all the unanswerable questions annoying, see post, at 22, but it seems a useful way to make the point.)  The dissent’s answer says it all: “This much is too much.”  Post, at 25–26.  That is not even trying to articulate a standard or rule.
+
+															The dissent argues that there are other instances in law where matters of degree are left to the courts.  See post, at 27.  True enough.  But those instances typically involve constitutional or statutory provisions or common law confining and guiding the exercise of judicial discretion.  For example, the dissent cites the need to determine “substantial anticompetitive effect[s]” in antitrust law.  Post, at 27 (citing Ohio v. American Express Co., 585 U. S. ___ (2018)).  That language, however, grew out of the Sherman Act, understood from the beginning to have its “origin in the common law” and to be “familiar in the law of this country prior to and at the time of the adoption of the [A]ct.”  Standard Oil Co. of N. J. v. United States,
+
+221 U.S. 1, 51 (1911).  Judges began with a significant body of law about what constituted a legal violation.  In other cases, the pertinent statutory terms draw meaning from related provisions or statutory context.  Here, on the other hand, the Constitution provides no basis whatever to guide the exercise of judicial discretion.  Common experience gives content to terms such as “substantial risk” or “substantial harm,” but the same cannot be said of substantial deviation from a median map.  There is no way to tell whether the prohibited deviation from that map should kick in at 25 percent or 75 percent or some other point.  The only provision in the Constitution that specifically addresses the matter assigns it to the political branches.  See Art. I, §4, cl. 1.
+
+															D
+
+															The North Carolina District Court further concluded that the 2016 Plan violated the Elections Clause and Article I, §2.  We are unconvinced by that novel approach.
+
+															Article I, §2, provides that “[t]he House of Representatives shall be composed of Members chosen every second Year by the People of the several States.”  The Elections Clause provides that “[t]he Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.”  Art. I, §4, cl. 1.
+
+															The District Court concluded that the 2016 Plan exceeded the North Carolina General Assembly’s Elections Clause authority because, among other reasons, “the Elections Clause did not empower State legislatures to disfavor the interests of supporters of a particular candidate or party in drawing congressional districts.”  318 F. Supp. 3d, at 937.  The court further held that partisan gerrymandering infringes the right of “the People” to select their representatives.  Id., at 938–940.  Before the District Court’s decision, no court had reached a similar conclusion.  In fact, the plurality in Vieth concluded—without objection from any other Justice—that neither §2 nor §4 of Article I “provides a judicially enforceable limit on the political considerations that the States and Congress may take into account when districting.”  541 U. S., at 305.
+
+															The District Court nevertheless asserted that partisan gerrymanders violate “the core principle of [our] republican government” preserved in Art. I, §2, “namely, that the voters should choose their representatives, not the other way around.”  318 F. Supp. 3d, at 940 (quoting Arizona State Legislature, 576 U. S., at ___ (slip op., at 35); internal quotation marks omitted; alteration in original).  That seems like an objection more properly grounded in the Guarantee Clause of Article IV, §4, which “guarantee[s] to every State in [the] Union a Republican Form of Government.”  This Court has several times concluded, however, that the Guarantee Clause does not provide the basis for a justiciable claim.  See, e.g., Pacific States Telephone & Telegraph Co. v. Oregon,
+
+223 U.S. 118 (1912).
+
+															V
+
+															Excessive partisanship in districting leads to results that reasonably seem unjust.  But the fact that such gerrymandering is “incompatible with democratic principles,” Arizona State Legislature, 576 U. S., at ___ (slip op., at 1), does not mean that the solution lies with the federal judiciary.  We conclude that partisan gerrymandering claims present political questions beyond the reach of the federal courts.  Federal judges have no license to reallocate political power between the two major political parties, with no plausible grant of authority in the Constitution, and no legal standards to limit and direct their decisions.  “[J]udicial action must be governed by standard, by rule,” and must be “principled, rational, and based upon reasoned distinctions” found in the Constitution or laws.  Vieth, 541 U. S., at 278, 279 (plurality opinion).  Judicial review of partisan gerrymandering does not meet those basic requirements.
+
+															Today the dissent essentially embraces the argument that the Court unanimously rejected in Gill: “this Court can address the problem of partisan gerrymandering because it must.”  585 U. S., at ___ (slip op., at 12).  That is not the test of our authority under the Constitution; that document instead “confines the federal courts to a properly judicial role.”  Town of Chester v. Laroe Estates, Inc., 581 U. S. ___, ___ (2017) (slip op., at 4).
+
+															What the appellees and dissent seek is an unprecedented expansion of judicial power.  We have never struck down a partisan gerrymander as unconstitutional—despite various requests over the past 45 years.  The expansion of judicial authority would not be into just any area of controversy, but into one of the most intensely partisan aspects of American political life.  That intervention would be unlimited in scope and duration—it would recur over and over again around the country with each new round of districting, for state as well as federal representatives.  Consideration of the impact of today’s ruling on democratic principles cannot ignore the effect of the unelected and politically unaccountable branch of the Federal Government assuming such an extraordinary and unprecedented role.  See post, at 32–33.
+
+															Our conclusion does not condone excessive partisan gerrymandering.  Nor does our conclusion condemn complaints about districting to echo into a void.  The States, for example, are actively addressing the issue on a number of fronts.  In 2015, the Supreme Court of Florida struck down that State’s congressional districting plan as a violation of the Fair Districts Amendment to the Florida Constitution.  League of Women Voters of Florida v. Detzner, 172 So. 3d 363 (2015).  The dissent wonders why we can’t do the same.  See post, at 31.  The answer is that there is no “Fair Districts Amendment” to the Federal Constitution.  Provisions in state statutes and state constitutions can provide standards and guidance for state courts to apply.  (We do not understand how the dissent can maintain that a provision saying that no districting plan “shall be drawn with the intent to favor or disfavor a political party” provides little guidance on the question.  See post, at 31, n. 6.)  Indeed, numerous other States are restricting partisan considerations in districting through legislation.  One way they are doing so is by placing power to draw electoral districts in the hands of independent commissions.  For example, in November 2018, voters in Colorado and Michigan approved constitutional amendments creating multimember commissions that will be responsible in whole or in part for creating and approving district maps for congressional and state legislative districts.  See Colo. Const., Art. V, §§44, 46; Mich. Const., Art. IV, §6.  Missouri is trying a different tack.  Voters there overwhelmingly approved the creation of a new position—state demographer—to draw state legislative district lines.  Mo. Const., Art. III, §3.
+
+															Other States have mandated at least some of the traditional districting criteria for their mapmakers.  Some have outright prohibited partisan favoritism in redistricting.  See Fla. Const., Art. III, §20(a) (“No apportionment plan or individual district shall be drawn with the intent to favor or disfavor a political party or an incumbent.”); Mo. Const., Art. III, §3 (“Districts shall be designed in a manner that achieves both partisan fairness and, secondarily, competitiveness.  ‘Partisan fairness’ means that parties shall be able to translate their popular support into legislative representation with approximately equal efficiency.”); Iowa Code §42.4(5) (2016) (“No district shall be drawn for the purpose of favoring a political party, incumbent legislator or member of Congress, or other person or group.”); Del. Code Ann., Tit. xxix, §804 (2017) (providing that in determining district boundaries for the state legislature, no district shall “be created so as to unduly favor any person or political party”).
+
+															As noted, the Framers gave Congress the power to do something about partisan gerrymandering in the Elections Clause.  The first bill introduced in the 116th Congress would require States to create 15-member independent commissions to draw congressional districts and would establish certain redistricting criteria, including protection for communities of interest, and ban partisan gerrymandering.  H. R. 1, 116th Cong., 1st Sess., §§2401, 2411 (2019).
+
+															Dozens of other bills have been introduced to limit reliance on political considerations in redistricting.  In 2010, H. R. 6250 would have required States to follow standards of compactness, contiguity, and respect for political subdivisions in redistricting.  It also would have prohibited the establishment of congressional districts “with the major purpose of diluting the voting strength of any person, or group, including any political party,” except when necessary to comply with the Voting Rights Act of 1965.  H. R. 6250, 111th Cong., 2d Sess., §2 (referred to committee).
+
+															Another example is the Fairness and Independence in Redistricting Act, which was introduced in 2005 and has been reintroduced in every Congress since.  That bill would require every State to establish an independent commission to adopt redistricting plans.  The bill also set forth criteria for the independent commissions to use, such as compactness, contiguity, and population equality.  It would prohibit consideration of voting history, political party affiliation, or incumbent Representative’s residence.  H. R. 2642, 109th Cong., 1st Sess., §4 (referred to  subcommittee).
+
+															We express no view on any of these pending proposals.  We simply note that the avenue for reform established by the Framers, and used by Congress in the past, remains open.
+
+															*  *  *
+
+															No one can accuse this Court of having a crabbed view of the reach of its competence.  But we have no commission to allocate political power and influence in the absence of a constitutional directive or legal standards to guide us in the exercise of such authority.  “It is emphatically the province and duty of the judicial department to say what the law is.”  Marbury v. Madison, 1 Cranch, at 177.  In this rare circumstance, that means our duty is to say “this is not law.”
+
+															The judgments of the United States District Court for the Middle District of North Carolina and the United States District Court for the District of Maryland are vacated, and the cases are remanded with instructions to dismiss for lack of jurisdiction.
+
+															It is so ordered.
+Notes
+1
+ The dissent’s observation that the Framers viewed political parties “with deep suspicion, as fomenters of factionalism and symptoms of disease in the body politic” post, at 9, n. 1 (opinion of Kagan, J.) (internal quotation marks and alteration omitted), is exactly right.  Its inference from that fact is exactly wrong.  The Framers would have been amazed at a constitutional theory that guarantees a certain degree of representation to political parties. 
+
+

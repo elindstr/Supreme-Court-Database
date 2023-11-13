@@ -1,0 +1,216 @@
+::SCDB_caseID:: 2017-003
+::decision_cite:: 15-1204
+::decision_name::  Jennings v. Rodriguez
+::decision_year:: 2018
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–1204
+
+															_________________
+
+															DAVID JENNINGS, et al., PETITIONERS v. ALEJANDRO RODRIGUEZ, et al., individ- ually and on behalf of all others similarly situated
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[February 27, 2018]
+
+															
+
+															Justice Thomas, with whom Justice Gorsuch joins except for footnote 6, concurring in Part I and Parts III–VI and concurring in the judgment.
+
+															In my view, no court has jurisdiction over this case.  Congress has prohibited courts from reviewing aliens’ claims related to their removal, except in a petition for review from a final removal order or in other circumstances not present here.  See
+
+8 U. S. C. §1252(b)(9).  Respond- ents have not brought their claims in that posture, so §1252(b)(9) removes jurisdiction over their challenge to their detention.  I would therefore vacate the judgment below with instructions to dismiss for lack of jurisdiction.  But because a majority of the Court believes we have jurisdiction, and I agree with the Court’s resolution of  the merits, I join Part I and Parts III–VI of the Court’s opinion.
+
+															I
+
+															Respondents are a class of aliens whose removal proceedings are ongoing.  Respondents allege that the statutes that authorize their detention during removal proceedings do not authorize “prolonged” detention unless they are given an individualized bond hearing at which the Government “prove[s] by clear and convincing evidence” that their detention remains justified.  Third Amended Complaint in Rodriguez v. Holder, No. CV 07–03239 (CD Cal., Oct. 22, 2010), pp. 30–31 (Third Amended Complaint). If the statutes do authorize “prolonged” detention, respondents claim that the statutes violate the Due Process Clause of the
+ 
+Fifth Amendment.  Ibid.  In their complaint, respondents sought declaratory and injunctive relief from detention during their removal proceedings.  Id., at 31–32.  The District Court certified a class of aliens under Federal Rule of Civil Procedure 23(b)(2) who, among other things, “are or were detained for longer than six months pursuant to one of the general immigration detention statutes.”  Class Certification Order in Rodriguez v. Holder, No. CV 07–03239 (CD Cal., Apr. 5, 2010), p. 2; Rodriguez v. Hayes, 591 F. 3d 1105, 1122–1126 (CA9 2010).  After the parties moved for summary judgment, the District Court entered a permanent injunction in favor of the class, which requires the named Government officials[1] to take steps to “timely identify all current and future class members,” to update class member lists with the District Court every 90 days, and to provide class members with bond hearings that comply with particular substantive and procedural requirements.  Order, Judgment, and Permanent Injunction in Rodriguez v. Holder, No. CV 07–03239 (CD Cal., Aug. 6, 2013), pp. 5–6 (Order, Judgment, and Permanent Injunction).
+
+															II
+
+															A
+
+															Although neither party raises §1252(b)(9), this Court has an “independent obligation” to assess whether it deprives us and the lower courts of jurisdiction.  Arbaugh v. Y & H Corp.,
+
+546 U. S. 500,
+514 (2006)
+.  This Court has described §1252(b)(9) as a “ ‘zipper’ clause.”  See Reno v. American-Arab Anti-Discrimination Comm.,
+
+525 U. S. 471,
+483 (1999)
+ (AADC); INS v. St. Cyr,
+
+533 U. S. 289,
+313 (2001)
+.  That description is apt because, when an alien raises a claim related to his removal, §1252(b)(9) closes all but two avenues for judicial review:
+
+															“Consolidation of questions for judicial review
+
+															“Judicial review of all questions of law and fact, including interpretation and application of constitu- tional and statutory provisions, arising from any action taken or proceeding brought to remove an alien from the United States under [8 U. S. C. §§1151–1382] shall be available only in judicial review of a final order under this section.  Except as otherwise provided in this section, no court shall have jurisdiction, by habeas corpus under section 2241 of title 28 or any other habeas corpus provision, by section 1361 or 1651 of such title, or by any other provision of law (statutory or nonstatutory), to review such an order or such questions of law or fact.”  (Emphasis added.)
+
+															The text of this provision is clear.  Courts generally lack jurisdiction over “all questions of law and fact,” both “constitutional” and “statutory,” that “aris[e] from” an “action taken or proceeding brought to remove an alien.”  If an alien raises a claim arising from such an action or proceeding, courts cannot review it unless they are reviewing “a final order” under §1252(a)(1) or exercising jurisdiction “otherwise provided” in §1252.[2]  Neither “habeas corpus” nor “any other provision of law” can be used to avoid §1252(b)(9)’s jurisdictional bar.  In short, if a claim arises from an action taken to remove an alien, §1252(b)(9) permits judicial review in only two circumstances: in connection with review of a final removal order and via a specific grant of jurisdiction in §1252.
+
+															Respondents do not argue that any specific grant of jurisdiction applies here, and they do not seek review of a final removal order under §1252(a)(1).  Thus, a court may review respondents’ claims only if they can show that §1252(b)(9)’s jurisdictional bar does not apply in the first place because their claims do not “aris[e] from any action taken or proceeding brought to remove an alien.”
+
+															Respondents cannot make that showing.  Section 1252(b)(9) is a “general jurisdictional limitation” that applies to “all claims arising from deportation proceedings” and the “many . . . decisions or actions that may be part of the deportation process.”  AADC, supra, at 482–483.  Detaining an alien falls within this definition—indeed, this Court has described detention during removal proceedings as an “aspect of the deportation process.”  Demore v. Kim,
+
+538 U. S. 510,
+523 (2003)
+; see also Carlson v. Landon,
+
+342 U. S. 524,
+538 (1952)
+ (“Detention is necessarily a part of [the] deportation procedure”).  As the Court explains today, Congress either mandates or permits the detention of aliens for the entire duration of their removal proceedings.  See ante, at 12–23.  This detention, the Court further explains, is meant to ensure that the Government can ultimately remove them.  See ante, at 1; accord, Demore, supra, at 528 (explaining that detention during removal proceedings “necessarily serves the purpose of preventing deportable criminal aliens from fleeing prior to or during their removal proceedings, thus increasing the chance that, if ordered removed, the aliens will be successfully removed”).  The phrase “any action taken . . . to remove an alien from the United States” must at least cover congressionally authorized portions of the deportation process that necessarily serve the purpose of ensuring an alien’s removal.  Claims challenging detention during removal proceedings thus fall within the heartland of §1252(b)(9).
+
+															B
+
+															The plurality, the dissent, and respondents each offer reasons why §1252(b)(9) does not apply to this case.  The plurality reasons that applying §1252(b)(9) to detention claims requires an overly expansive reading of “arising from.”  See ante, at 9–10.  The dissent contends that §1252(b)(9) applies only to challenges to the removal order itself.  Post, at 31.  And respondents argue that, if §1252(b)(9) applies to their claims, they will have no meaningful way to challenge their detention during their removal proceedings.[3]  Tr. of Oral Arg. 36.  None of these arguments persuades me.
+
+															1
+
+															The plurality asserts that §1252(b)(9) covers respond- ents’ claims only if the words “arising from” are given an “expansive interpretation.”  Ante, at 9.  I am of a different view.  Even if “arising from” is read narrowly, §1252(b)(9) still covers the claims at issue in this case.  That is because detention is an “action taken . . . to remove” an alien.  And even the narrowest reading of “arising from” must cover claims that directly challenge such actions.  See AADC, 525 U. S., at 482–483.
+
+															The main precedent that the plurality cites to support its narrow reading of “arising from” demonstrates that §1252(b)(9) applies here.  See ante, at 10 (citing AADC, 525 U. S., at 482–483).  In AADC, the Court explained that §1252(b)(9) covers “all claims arising from deportation proceedings” and the “many . . . decisions or actions that may be part of the deportation process.”  Ibid.  The Court even listed examples of the type of claims that would be covered, including challenges to the decision “to open an investigation” and the decision “to surveil the suspected [immigration-law] violator.”  Id., at 482.  If surveilling a suspected violator falls under the statute, then the detention of a known violator certainly does as well.
+
+															The plurality dismisses my “expansive interpretation” because it would lead to “staggering results,” supposedly barring claims that are far afield from removal.  See ante, at 9 (describing lawsuits challenging inhumane conditions of confinement, assaults, and negligent driving).  But that is not the case.  Unlike detention during removal proceedings, those actions are neither congressionally authorized nor meant to ensure that an alien can be removed.  Thus, my conclusion that §1252(b)(9) covers an alien’s challenge to the fact of his detention (an action taken in pursuit of the lawful objective of removal) says nothing about whether it also covers claims about inhumane treatment, as- saults, or negligently inflicted injuries suffered during detention (actions that go beyond the Government’s lawful pursuit of its removal objective).  Cf. Bell v. Wolfish,
+
+441 U. S. 520
+–539 (1979) (drawing a similar distinction).
+
+															2
+
+															The dissent takes a different approach.  Relying on the prefatory clause to §1252(b), it asserts that §1252(b)(9) “by its terms applies only ‘[w]ith respect to review of an order of removal under [§1252(a)(1)].’ ”  Post, at 31 (quoting
+
+8 U. S. C. §1252(b)).  The dissent reads the prefatory clause to mean that §1252(b)(9) applies only to a “challenge  [to] an order of removal.”  Post, at 31.  That reading is incorrect.
+
+															Section 1252(b)(9) is not restricted to challenges to removal orders.  The text refers to review of “all questions of law and fact” arising from removal, not just removal orders.  (Emphasis added.)  And it specifies that §1252(a)(1) provides the only means for reviewing “such an order or such questions of law or fact.”  Ibid. (emphasis added).  The term “or” is “ ‘almost always disjunctive, that is, the words it connects are to be given separate meanings.’ ”  Loughrin v. United States, 573 U. S. ___, ___ (2014) (slip op., at 6) (quoting United States v. Woods,
+
+571 U. S. 31
+–46 (2013)).  By interpreting §1252(b)(9) as governing only removal orders, the dissent reads “or such questions of law or fact” out of the statute.  It also renders superfluous §1252(a)(5), which already specifies that the review made available under §1252(a)(1) “shall be the sole and exclusive means for judicial review of an order of removal.”  This Court typically disfavors such interpretations.  See AADC, supra, at 483.
+
+															The prefatory clause of §1252(b) does not change the meaning of §1252(b)(9).  The prefatory clause states that the subparagraphs of §1252(b), including §1252(b)(9), impose requirements “[w]ith respect to review of an order of removal under subsection (a)(1).”  The phrase “with respect to” means “referring to,” “concerning,” or “relating to.”  Oxford American Dictionary and Language Guide 853 (1999 ed.); accord, Webster’s New Universal Unabridged Dictionary 1640 (2003 ed.); American Heritage Dictionary 1485 (4th ed. 2000).  Read together, the prefatory clause and §1252(b)(9) mean that review of all questions arising from removal must occur in connection with review of a final removal order under §1252(a)(1), which makes sense given that §1252(b)(9) is meant to “[c]onsolidat[e] . . . questions for judicial review.”  Tellingly, on the two previous occasions when this Court interpreted §1252(b)(9), it did not understand §1252(b)(9) as limited to challenges to removal orders.  See AADC, supra, at 482–483 (stating that §1252(b)(9) is a “general jurisdictional limitation” that applies to “all claims arising from deportation proceedings” and “the many . . . decisions or actions that may be part of the deportation process”); St. Cyr, 533 U. S., at 313, n. 37 (clarifying that §1252(b)(9) requires “claims that were viewed as being outside of a ‘final order’ ” to be “consolidated in a petition for review and considered by the courts of appeals” in their review of the final removal order under §1252(a)(1)).  Thus, despite the dissent’s assertion to the contrary, the prefatory clause plainly does not change the scope of §1252(b)(9), which covers “all questions of law or fact” arising from the removal process.
+
+															3
+
+															At oral argument, respondents asserted that, if §1252(b)(9) bars their lawsuit, then the only review available would be “a petition for review of [a] final removal order” under §1252(a)(1), which takes place “after all the detention has already happened.”[4]  Tr. of Oral Arg. 36.  I interpret respondents’ argument as a claim that §1252(b)(9) would be unconstitutional if it precluded meaningful review of their detention.  This argument is unpersuasive and foreclosed by precedent.
+
+															The Constitution does not guarantee litigants the most effective means of judicial review for every type of claim they want to raise.  See AADC, 525 U. S., at 487–492 (rejecting a similar argument); Heikkila v. Barber,
+
+345 U. S. 229,
+237 (1953)
+ (explaining that limitations on judicial review of deportation must be followed “despite [their] apparent inconvenience to the alien”).  This is especially true in the context of deportation, where limits on the courts’ jurisdiction have existed for almost as long as federal immigration laws, and where this Court has repeatedly affirmed the constitutionality of those limits.[5]
+
+															Indeed, this Court has already rejected essentially the same argument that respondents raise here.  In AADC, the Court held that §1252(g), a provision similar to §1252(b)(9), barred the aliens’ claim that the Government was violating the
+ 
+First Amendment by selectively enforc- ing the immigration laws against them.  525 U. S., at 487–492.  The aliens argued that constitutional avoidance required the Court to interpret §1252(g) as not applying to their claims because the only remaining avenue for review—a petition for review of a final removal order under §1252(a)(1)—would be “unavailing” and would “come too late to prevent the ‘chilling effect’ upon their
+ 
+First Amendment rights.”  Id., at 487–488.  The Court rejected this argument because “an alien unlawfully in this country has no constitutional right to assert selective enforcement as a defense against his deportation.”  Id., at 488.  The Court further explained that it had a duty to enforce Congress’ limitations on judicial review, except perhaps in “a rare case in which the alleged basis of discrimination is so outrageous that the foregoing considerations [ justifying limited review could] be overcome.”  Id., at 491.
+
+															Like in AADC, respondents’ lack-of-meaningful-review argument does not allow us to ignore the jurisdictional limitations that Congress has imposed.  This Court has never held that detention during removal proceedings is unconstitutional.  To the contrary, this Court has repeatedly recognized the constitutionality of that practice.  See Demore, 538 U. S., at 523 (explaining that detention is “a constitutionally valid aspect of the deportation process”); accord, Reno v. Flores,
+
+507 U. S. 292
+–306 (1993); Shaughnessy v. United States ex rel. Mezei,
+
+345 U. S. 206,
+215 (1953)
+; Carlson, 342 U. S., at 538, 542.  Nor does this lawsuit qualify as the “rare case in which the alleged [executive action] is so outrageous” that it could thwart the jurisdictional limitations in §1252(b)(9).  AADC, supra, at 491.  The Government’s detention of respondents is entirely routine and indistinguishable from the detention that we have repeatedly upheld in the past.  Thus, regardless of the inconvenience that §1252(b)(9) might pose for respondents, this Court must enforce it as written.  Respondents must raise their claims in petitions for review of their final removal orders.[6]
+
+															III
+
+															Because I conclude that §1252(b)(9) bars jurisdiction to hear respondents’ claims, I will also address whether its application to this case violates the Suspension Clause, see Art. I, §9, cl. 2 (“The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it”).  It does not.  Even assuming the Suspension Clause bars Congress from stripping habeas jurisdiction over respondents’ claims, but see St. Cyr, 533 U. S., at 337–346 (Sca- lia, J., dissenting), this case does not involve a habeas petition.
+
+															Respondents do not seek habeas relief, as understood by our precedents.  Although their complaint references the general habeas statute, see Third Amended Complaint, at 1, it is not a habeas petition.  The complaint does not request that the District Court issue any writ.  See id., at 31–32.  Rather, it seeks a declaration and an injunction that would provide relief for both present and future class members, including future class members not yet detained.  Ibid.  Indeed, respondents obtained class certification under Federal Rule of Civil Procedure 23(b)(2), which applies only when the class seeks “final injunctive relief or corresponding declaratory relief.”[7]
+
+															Nor did respondents obtain habeas relief.  When their case concluded, respondents obtained a classwide permanent injunction.  See Order, Judgment, and Permanent Injunction, at 5–6.  That classwide injunction looks nothing like a typical writ.  It is not styled in the form of a conditional or unconditional release order.  Cf. United States v. Jung Ah Lung,
+
+124 U. S. 621,
+622 (1888)
+ (describing habeas relief as “order[ing] the discharge from custody of the person in whose behalf the writ was sued out”); Chin Yow v. United States,
+
+208 U. S. 8,
+13 (1908)
+ (awarding habeas relief by ordering the release of the alien if certain conditions were not satisfied).  It applies to future class members, including individuals who were not in custody when the injunction was issued.  Cf.
+
+28 U. S. C. §2241(c) (generally precluding issuance of the writ unless the petitioner is “in custody”).  And it is directed to at least one individual, the Director for the Executive Office for Immigration Review, who is not a custodian.  Cf. Rumsfeld v. Padilla,
+
+542 U. S. 426,
+434 (2004)
+ (explaining that “the proper respondent to a habeas petition is ‘the person who has custody over [the petitioner]’ ” (quoting
+
+28 U. S. C. §2242)).
+
+															Immigration law has long drawn a distinction between the declaratory and injunctive relief that respondents sought here and habeas relief.  In Heikkila, for instance, this Court distinguished habeas relief from “injunctions, declaratory judgments and other types of relief” that “courts ha[d] consistently rejected” in immigration cases.  345 U. S., at 230.  The Court rejected the alien’s request for “injunctive and declaratory relief” because Congress had authorized courts to grant relief only in habeas proceedings.  Id., at 230, 237.  We reaffirmed this distinction in St. Cyr, where we noted that the 1961 Immigration and Nationality Act,
+
+75Stat.
+650, withdrew the district courts’ “authority to grant declaratory and injunctive relief,” but not habeas relief.  533 U. S., at 309–310; see also Shaughnessy v. Pedreiro,
+
+349 U. S. 48
+–53 (1955) (holding that the Administrative Procedure Act, which authorizes courts to grant declaratory and injunctive relief, authorized “judicial review of deportation orders other than by habeas corpus” (emphasis added)).  And Congress has confirmed this distinction in its immigration statutes by allowing one form of relief, but not the other, in particular circumstances.  Compare, e.g., §1252(e)(1) (prohibiting courts from granting “declaratory, injunctive, or other equitable relief in any action pertaining to an order to exclude an alien in accordance with section 1225(b)(1)”) with §1252(e)(2) (allowing “judicial review . . . in habeas corpus proceedings” of particular “determination[s] made under section 1225(b)(1)”).
+
+															Respondents’ suit for declaratory and injunctive relief, in sum, is not a habeas petition.  The Suspension Clause protects “[t]he Privilege of the Writ of Habeas Corpus,” not requests for injunctive relief.  Because respondents have not sought a writ of habeas corpus, applying §1252(b)(9) to bar their suit does not implicate the Suspension Clause.
+
+															*  *  *
+
+															Because §1252(b)(9) deprives courts of jurisdiction over respondents’ claims, we should have vacated the judgment below and remanded with instructions to dismiss this case for lack of jurisdiction.  But a majority of the Court has decided to exercise jurisdiction.  Because I agree with the Court’s disposition of the merits, I concur in Part I and Parts III–VI of its opinion.
+Notes
+1
+ The named Government officials are the Attorney General of the United States, the Secretary of the Department of Homeland Security, the Director of the Executive Office for Immigration Review, the Director and Assistant Director of the Los Angeles District of Immigration and Customs Enforcement, and several directors of jails and detention facilities. 
+
+2
+ Section 1252 provides a few specific grants of jurisdiction beyond §1252(a)(1)'s general grant of jurisdiction over final removal orders and all other related questions of law and fact.  Section 1252(b)(7), for example, allows an alien to challenge the validity of his removal order during criminal proceedings if he is charged with willfully failing to depart the United States.  And §1252(e)(2) allows an alien who is denied admission to the United States and ordered removed to raise certain claims in habeas corpus proceedings. 
+
+3
+ Respondents also asserted at oral argument that the Government “has said repeatedly” that §1252(b)(9) does not apply to detention claims.  Tr. of Oral Arg. 36.  But our “independent obligation” to evaluate jurisdiction, Arbaugh v. Y & H Corp.,
+
+546 U. S. 500,
+514 (2006)
+, means that we cannot accept the Government’s concessions on this point.  See King Bridge Co. v. Otoe County,
+
+120 U. S. 225,
+226 (1887)
+. 
+
+4
+ Contrary to respondents’ argument, some of the respondents will get review before “all the detention has already happened.”  Respondents who successfully petition for review to the Court of Appeals from a final removal order and obtain a remand to the immigration court, like class representative Alejandro Rodriguez did here, will have an opportunity to obtain review of their detention before it is complete.  See Third Amended Complaint, at 9–12. 
+
+5
+ See, e.g., Act of Aug. 18, 1884,
+
+28Stat.
+390 (“In every case where an alien is excluded from admission into the United States under any law or treaty now existing or hereinafter made, the decision of the appropriate immigration or customs officers, if adverse to the admission of such alien, shall be final, unless reversed on appeal to the Secretary of Treasury”), upheld in Lem Moon Sing v. United States,
+
+158 U. S. 538
+–550 (1895); Immigration Act of 1891, §8,
+
+26Stat.
+1085 (“All decisions made by the inspection officers or their assistants touching the right of any alien to land, when adverse to such right, shall be final unless appeal be taken to the superintendent of immigration, whose action shall be subject to review by the Secretary of Treasury”), upheld in Ekiu v. United States,
+
+142 U. S. 651,
+660 (1892)
+; 1917 Immigration Act, §19,
+
+39Stat.
+890 (“In every case where any person is ordered deported from the United States under the provisions of this Act, or of any law or treaty, the decision of the Secretary of Labor shall be final”), upheld in Heikkila, 345 U. S., at 233–235, 237. 
+
+6
+ I take no position on whether some of the respondents will face other jurisdictional hurdles, even on review of their final removal orders.  See, e.g., §§1252(a)(2)(A), (B).  I also continue to agree with Justice O’Connor’s concurring opinion in Demore v. Kim,
+
+538 U. S. 510 (2003)
+, which explained that §1226(e) “unequivocally deprives federal courts of jurisdiction to set aside ‘any action or decision’ by the Attorney General” regarding detention.  Id., at 533 (opinion concurring in part and concurring in judgment). 
+
+7
+ This Court has never addressed whether habeas relief can be pursued in a class action.  See Schall v. Martin,
+
+467 U. S. 253
+, n. 10 (1984) (reserving this question).  I take no position on that issue here, since I conclude that respondents are not seeking habeas relief in the first place. 
+
+

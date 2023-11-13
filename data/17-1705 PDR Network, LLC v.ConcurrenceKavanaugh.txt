@@ -1,0 +1,197 @@
+::SCDB_caseID:: 2018-059
+::decision_cite:: 17-1705
+::decision_name::  PDR Network, LLC v. Carlton Harris Chiropractic, Inc.
+::decision_year:: 2019
+::opinion_author:: Kavanaugh
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1705
+
+															_________________
+
+															PDR NETWORK, LLC, et al., PETITIONERS v. CARLTON & HARRIS CHIROPRACTIC, INC.
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															[June 20, 2019]
+
+															
+
+															Justice Kavanaugh, with whom Justice Thomas, Justice Alito, and Justice Gorsuch join, concurring in the judgment.
+
+															May defendants in civil enforcement actions under the Telephone Consumer Protection Act contest the Federal Communications Commission’s interpretation of the Act?  The Fourth Circuit concluded that the answer is no, meaning that a district court in an enforcement action is required to adhere to the FCC’s interpretation of the Act, no matter how wrong the FCC’s interpretation might be.  I disagree with the Fourth Circuit.
+
+															The Telephone Consumer Protection Act, or TCPA, prohibits unsolicited commercial faxes.  The TCPA creates a private right of action so that the recipients of unsolicited commercial faxes can sue the senders.
+
+															Plaintiff Carlton sued PDR in Federal District Court, claiming that PDR sent an unsolicited commercial fax to Carlton in violation of the TCPA.  In pursuing its TCPA claim, Carlton relied on the FCC’s interpretation of the TCPA.  In 2006, the FCC had opined that the TCPA proscribes unsolicited faxes that promote goods and services, even at no cost.  In this litigation, PDR argued that the FCC’s “even at no cost” interpretation is wrong (at least if taken literally) and that the District Court therefore should not follow the FCC’s interpretation when interpreting the TCPA.
+
+															The Hobbs Act provides for facial, pre-enforcement review of FCC orders.  To obtain such review, a party must file a petition for review in a court of appeals within 60 days of the entry of the order, a period that expired back in 2006 for this FCC order.  In Carlton’s view, which is supported here by the Federal Government, the Hobbs Act’s provision for facial, pre-enforcement review implic- itly bars district courts from reviewing agency interpretations in subsequent enforcement actions.  According to Carlton, PDR therefore may not argue in this enforcement action that the FCC’s interpretation of the TCPA is incorrect.  The Fourth Circuit agreed with Carlton.
+
+															We granted certiorari to decide whether the Hobbs Act required the District Court in this case to accept the FCC’s legal interpretation of the TCPA.
+
+															Ruling narrowly, the Court does not answer the question presented.  The Court instead vacates the judgment of the Fourth Circuit and remands the case for analysis of two “preliminary issues,” which, depending on how they are resolved, could eliminate the need for an answer in this case to the broader question we granted certiorari to decide.  Ante, at 6.  Under the Court’s holding, if the court on remand concludes that the FCC’s order was an interpretive rule (as opposed to a legislative rule) and not subject to the Hobbs Act in the first place, then PDR will be able to argue to the District Court that the FCC’s interpretation of the TCPA is wrong.  Or if the court on remand concludes that the opportunity back in 2006 for pre-enforcement review in a court of appeals was not “adequate” for PDR to obtain judicial review, then PDR likewise will be able to argue to the District Court that the FCC’s interpretation of the TCPA is wrong.
+
+															If the court on remand does not reach either of those two conclusions, however, then that court will have to tackle the question that we granted certiorari to decide.  I agree with the Court that we should vacate the judgment of the Fourth Circuit, but I would decide the question that we granted certiorari to decide.  I would conclude that the Hobbs Act does not bar a defendant in an enforcement action from arguing that the agency’s interpretation of the statute is wrong.
+
+															My analysis of that question is straightforward: The general rule of administrative law is that in an enforcement action, a defendant may argue that an agency’s interpretation of a statute is wrong, at least unless Congress has expressly precluded the defendant from advancing such an argument.  The Hobbs Act does not expressly preclude judicial review of an agency’s statutory interpretation in an enforcement action.  Therefore, in this enforcement action, PDR may argue to the District Court that the FCC’s interpretation of the TCPA is wrong.  The District Court is not bound by the FCC’s interpretation  of the TCPA.  Rather, the District Court should interpret the TCPA under usual principles of statutory inter- pretation, affording appropriate respect to the agency’s interpretation.
+
+															The analysis set forth in this separate opinion remains available to the court on remand (if it needs to reach the question after answering the preliminary issues identified by this Court), and it remains available to other courts in the future.
+
+															I
+
+															Passed by Congress and signed by President Truman in 1950, the Hobbs Act provides in relevant part: “The court of appeals . . . has exclusive jurisdiction to enjoin, set aside, suspend (in whole or in part), or to determine the validity of . . . all final orders of the Federal Communication Commission made reviewable by section 402(a) of title 47.”
+
+28 U. S. C. §2342.  Under the Hobbs Act, when the FCC issues certain regulations, any “party aggrieved” has 60 days to “file a petition to review the order in the court of appeals.”  §2344.  If more than one petition for review is filed, the petitions are consolidated in a single court of appeals.  §2112(a)(3).[1]
+
+															The point of the Hobbs Act is to force parties who want to challenge agency orders via facial, pre-enforcement challenges to do so promptly and to do so in a court of appeals.  The pre-enforcement review process established by the Act avoids the delays and uncertainty that otherwise would result from multiple pre-enforcement proceedings being filed and decided over time in multiple district courts and courts of appeals.
+
+															If no one files a facial, pre-enforcement challenge to an agency order, or if a court of appeals upholds the agency’s interpretation, then a party who later wants to engage in proscribed activity and disagrees with the agency’s interpretation faces a difficult decision.  The party must take the risk of engaging in the activity and then arguing against the agency’s legal interpretation as a defendant in an enforcement action.  The question for us is whether the Hobbs Act bars defendants in those enforcement actions from arguing that the agency incorrectly interpreted the statute.  The answer is that the Act does not bar defendants from raising such an argument.
+
+															Two categories of statutes allow for facial, pre-enforcement review of agency orders.
+
+															Statutes in the first category authorize facial, pre-enforcement judicial review and expressly preclude judicial review in subsequent enforcement actions.  The Clean Water Act, the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA), and the Clean Air Act are examples.  The Clean Water Act provides for facial, pre-enforcement review of certain agency actions in a court of appeals and requires parties to seek review within 120 days.  See
+
+33 U. S. C. §1369(b)(1).  The Act expressly states that those agency orders “shall not be subject to judicial review in any civil or criminal proceeding for enforcement.”  §1369(b)(2).  CERCLA provides for parties to seek pre-enforcement review of any covered regulation in the D. C. Circuit within 90 days.  See
+
+42 U. S. C. §9613(a).  Like the Clean Water Act, CERCLA expressly states that those agency orders “shall not be subject to judicial review in any civil or criminal proceeding for enforcement.”  Ibid.  Similarly, the Clean Air Act provides for parties to file pre-enforcement petitions for review in the D. C. Circuit within 60 days.  See
+
+42 U. S. C. §7607(b)(1).  The Clean Air Act, too, expressly states that those agency orders “shall not be subject to judicial re- view in civil or criminal proceedings for enforcement.”  §7607(b)(2).
+
+															Statutes in the second category authorize facial, pre-enforcement judicial review, but are silent on the question whether a party may argue against the agency’s legal interpretation in subsequent enforcement proceedings.  The Hobbs Act is an example, as are statutes that provide for review of certain Securities and Exchange Commission (SEC) and Department of Labor orders and rules.  See 15 U. S. C. §§78y(a)(1), (3), (b)(1), (3);
+
+29 U. S. C. §655(f).
+
+															For that second category—the statutes that are silent about review in subsequent enforcement actions—there must be a default rule that applies absent statutory language to the contrary.  The question is whether the proper default rule is (1) to preclude review by the district court of whether the agency interpretation is correct or (2) to allow review by the district court of whether the agency interpretation is correct.  In my view, elementary principles of administrative law establish that the proper default rule is to allow review by the district court of whether the agency interpretation is correct.  In those enforce- ment actions, the defendant may argue that the agency’s interpretation is wrong.  And the district courts are not bound by the agency’s interpretation.  District courts must determine the meaning of the statute under the usual principles of statutory interpretation, affording appropriate respect to the agency’s interpretation.
+
+															To begin with, the “Administrative Procedure Act creates a basic presumption of judicial review for one suffering legal wrong because of agency action.”  Weyerhaeuser Co. v. United States Fish and Wildlife Serv., 586 U. S. ___, ___ (2018) (slip op., at 11) (quotation altered).  Unless “there is persuasive reason to believe” that Congress intended to preclude judicial review, the Court will not preclude review.  Bowen v. Michigan Academy of Family Physicians,
+
+476 U.S. 667, 670 (1986) (internal quotation marks omitted).
+
+															Consistent with that strong presumption of judicial review, a party traditionally has been able to raise an as-applied challenge to an agency’s interpretation of a statute in an enforcement proceeding.  Indeed, in 1947, the year after the Administrative Procedure Act was enacted, the Attorney General’s Manual on the Administrative Procedure Act stated: “There are many situations in which the invalidity of agency action may be set up as a defense in enforcement proceedings.”  Dept. of Justice, Attorney General’s Manual on the Administrative Procedure Act 100 (1947).
+
+															To be sure, this Court’s decision in Abbott Laboratories v. Gardner,
+
+387 U.S. 136 (1967) (Abbott Labs), revolutionized administrative law by also allowing facial, pre-enforcement challenges to agency orders, absent statutory preclusion of such pre-enforcement review.  Id., at 139–141.  But Abbott Labs did not eliminate as-applied review in enforcement actions.  Indeed, doing so would have thwarted a key aim of the decision, which was to expand the opportunities for judicial review by allowing both facial, pre-enforcement challenges and as-applied challenges to agency action.  The Abbott Labs Court pointed out that only those parties who were part of the pre-enforcement suit would be “bound by the decree.”  Id., at 154.[2]  The Court did not suggest that other parties would be precluded from arguing against the legality of the agency order in enforcement actions.
+
+															The strong presumption of judicial review, the tradition of allowing defendants in enforcement actions to argue that the agency’s interpretation is wrong, and this Court’s landmark decision in Abbott Labs all suggest the proper default rule: to allow review by the district court of whether the agency interpretation is correct.
+
+															Further supporting that default rule is the fact that Congress knows how to explicitly preclude judicial review in enforcement proceedings.  As noted above, the Clean Water Act, CERCLA, and the Clean Air Act all expressly preclude judicial review of agency statutory interpretations in subsequent enforcement actions.  The fact that Congress has expressly precluded judicial review in those statutes suggests that Congress’ silence in the Hobbs Act should not be read to preclude judicial review—in other words, should not be read to bar defendants in enforcement actions from arguing that the agency’s interpretation of the statute is incorrect.  See Russello v. United States,
+
+464 U.S. 16, 21–26 (1983).
+
+															The Administrative Procedure Act,
+
+5 U. S. C. §703, further confirms that the appropriate default rule is to allow judicial review.  Section 703 provides: “Except to the extent that prior, adequate, and exclusive opportunity for judicial review is provided by law, agency action is subject to judicial review in civil or criminal proceedings for judicial enforcement.”  The Government acknowledges that §703 “establishes a general rule that, when a defendant’s liability depends in part on the propriety of an agency action, that action ordinarily can be challenged in a civil or criminal enforcement suit.”  Brief for United States as Amicus Curiae 24.  Unlike the Clean Water Act, CERCLA, and the Clean Air Act, moreover, the Hobbs Act does not provide that facial, pre-enforcement review is (in §703 terms) the “exclusive opportunity” for judicial review for purposes of §703.  More on that point later.
+
+															This Court’s precedents interpreting analogous statutes lend additional support for the default rule of allowing review of the agency’s interpretation in the district court enforcement action.  For example, certain Department of Labor orders promulgating occupational safety and health standards are directly reviewable in the courts of appeals.  See
+
+29 U. S. C. §655(f).  In enforcement proceedings, this Court has routinely considered defendants’ arguments that the Administration’s interpretation of a statute is incorrect.  See Whirlpool Corp. v. Marshall,
+
+445 U.S. 1, 4, 7–8, 11 (1980).  Likewise, certain SEC orders are directly reviewable in a court of appeals.  See 15 U. S. C. §§78y(a)(1), (3), (b)(1), (3).  In enforcement proceedings, this Court again has routinely considered defendants’ arguments that the SEC’s interpretation of a statute is incorrect.  See United States v. O’Hagan,
+
+521 U.S. 642, 666–676 (1997); Ernst & Ernst v. Hochfelder,
+
+425 U.S. 185, 212–214 (1976).
+
+															The practical consequences likewise support a default rule of allowing review.  Denying judicial review of an agency’s interpretation of the statute in enforcement actions can be grossly inefficient and unfair.  It would be wholly impractical—and a huge waste of resources—to expect and require every potentially affected party to bring pre-enforcement Hobbs Act challenges against every agency order that might possibly affect them in the future.  After all, as Justice Powell stated in a similar context, it “is totally unrealistic to assume that more than a fraction of the persons and entities affected by a regulation—especially small contractors scattered across the country—would have knowledge of its promulgation or familiarity with or access to the Federal Register.”  Adamo Wrecking Co. v. United States,
+
+434 U.S. 275, 290 (1978) (concurring opinion).  On some occasions, the entities against whom an enforcement action is brought may not even have existed back when an agency order was issued.  In short, it is unfair to expect potentially affected parties to predict the future.
+
+															In light of that unfairness, Congress traditionally takes the extraordinary step of barring as-applied review in enforcement proceedings only in those statutory schemes where the regulated parties are likely to be well aware of any agency rules and to have both the incentive and the capacity to challenge those rules immediately.  The Clean Water Act, CERCLA, and the Clean Air Act generally fit that description.
+
+															By contrast, the Hobbs Act covers a wide variety of federal agency orders where potentially affected parties may not always have the incentive and the capacity to immediately challenge the orders.  Consider the Department of Housing and Urban Development rules or Department of Agriculture rules that are covered by the Hobbs Act, for example.  If a party affected by a HUD rule or Department of Agriculture rule is subject to a later enforcement action, is the party precluded from arguing that the rule misinterprets the applicable statute?  That would be extraordinary. Requiring all those potentially affected parties to bring a facial, pre-enforcement challenge within 60 days or otherwise forfeit their right to challenge an agency’s interpretation of a statute borders on the absurd.  That is no doubt why Congress rarely does so.
+
+															Indeed, that unfairness raises a serious constitutional issue.  Barring defendants in as-applied enforcement actions from raising arguments about the reach and authority of agency rules enforced against them raises significant questions under the Due Process Clause.  In Adamo Wrecking, Justice Powell concurred to say that the  preclusion-of-review provision of the Clean Air Act raises constitutional issues that “merited serious consideration.”  Id., at 289. The D. C. Circuit likewise has stated that provisions of that sort raise a “substantial due process question.”  Chrysler Corp. v. EPA, 600 F.2d 904, 913 (1979). We can avoid some of those due process concerns by adhering to a default rule of permitting judicial review of agency legal interpretations in enforcement actions.
+
+															All of those considerations taken together lead to a very simple principle: When Congress intends to eliminate as-applied judicial review of agency interpretation of statutes in enforcement actions, Congress can, must, and does speak clearly.  We cannot presume that Congress silently intended to preclude judicial review of agency interpretations of statutes in enforcement actions.  Rather, the default rule is to allow defendants in enforcement actions to argue that the agency’s interpretation of the statute is wrong, unless Congress expressly provides otherwise.
+
+															II
+
+															Unlike the Clean Water Act, CERCLA, and the Clean Air Act, the Hobbs Act does not expressly preclude review in enforcement actions.  Supporting respondent Carlton’s position here, the Government offers four arguments that the Hobbs Act should nonetheless be interpreted to bar district court review of an agency’s interpretation in an enforcement proceeding.  None is persuasive.
+
+															First, the Hobbs Act provides that the court of appeals in a facial, pre-enforcement challenge has “exclusive jurisdiction” to “enjoin, set aside, suspend (in whole or in part), or to determine the validity” of the agency order.
+
+28 U. S. C. §2342.  All agree that this “exclusive jurisdiction” language means, at a minimum, that an aggrieved party may not bring a facial, pre-enforcement action either (1) in a district court or (2) more than 60 days after entry of the order.  The Government contends that the Hobbs Act’s reference to “exclusive jurisdiction” accomplishes more than that, however.  The Government argues that the Act’s reference to “exclusive jurisdiction” also bars judicial review of the agency’s interpretation in subsequent enforcement proceedings.  The Government’s argument would mean that the district court in an enforcement proceeding is required to follow the agency’s interpretation when deciding the case, no matter how wrong the agency’s interpretation might be.
+
+															The first problem for the Government is that, unlike the Clean Water Act, CERCLA, and the Clean Air Act, the Hobbs Act does not expressly preclude as-applied judicial review of an agency interpretation in subsequent enforcement proceedings.  Unlike those other Acts, the Hobbs Act does not say that agency orders “shall not be subject to judicial review in any civil or criminal proceeding for enforcement.”
+
+33 U. S. C. §1369(b)(2). 
+
+															But the Government seizes on the Hobbs Act’s “exclusive jurisdiction” language.  So the question is this: The exclusive jurisdiction specified by the Hobbs Act is “exclusive jurisdiction” to do what?  The Act says “exclusive jurisdiction” to “enjoin, set aside, suspend,” or “determine the validity” of the order.  Those phrases afford the court of appeals exclusive jurisdiction to issue an injunction or declaratory judgment regarding the agency’s order.  See
+
+28 U. S. C. §2349.
+
+															The Government argues that if the district court could disagree with the agency’s interpretation in an enforcement proceeding, the district court would be “determin[ing] the validity” of the order in violation of the Hobbs Act’s grant of exclusive jurisdiction to the court of appeals in the initial 60-day period.  That is incorrect.  In this context, a court “determines the validity” of the order only by entering a declaratory judgment that the order is valid or invalid.  Critically, if a district court in an enforcement action disagrees with the agency interpretation, the district court does not issue a declaratory judgment or an injunction against the agency.  Rather, the district court simply determines that the defendant is not liable under the correct interpretation of the statute.  In other words, in an enforcement action, a district court does not determine the validity of the agency order.
+
+															That conclusion becomes even more apparent when we consider what ensues from the action taken by the relevant court.  If the court of appeals in a facial, pre-enforcement action determines that the order is invalid and enjoins it, the agency can no longer enforce the order.  By contrast, if the district court disagrees with the agency’s interpretation in an enforcement action, that ruling does not invalidate the order and has no effect on the agency’s ability to enforce the order against others.  That contrast shows that the district court does not “determine the validity” of an order when the district court agrees or disagrees with the agency interpretation in an enforcement action.
+
+															That conclusion finds further support in analogous statutes.  As noted above, certain SEC orders and rules are subject to pre-enforcement review in a court of appeals.  See 15 U. S. C. §§78y(a)(1), (3), (b)(1), (3).  The court of appeals has “exclusive” jurisdiction to “affirm or modify and enforce or to set aside the order in whole or in part” or to “affirm and enforce or to set aside the rule.”  §§78y(a)(3), (b)(3).  But despite the “exclusive” jurisdiction language, that provision has never been read to bar subsequent district court review of the SEC’s interpretation of a statute in an enforcement proceeding.  See O’Hagan, 521 U. S., at 666–676; Ernst & Ernst, 425 U. S., at 212–214.
+
+															In short, the text of the Hobbs Act is best read to mean that PDR can argue that the agency’s interpretation of the TCPA is wrong.  And the District Court can decide what the statute means under the usual principles of statutory interpretation, affording appropriate respect to the agency’s interpretation.  By doing so, the District Court will not “determine the validity” of the agency order in violation of
+
+28 U. S. C. §2342.
+
+															Even if the text of §2342 is deemed ambiguous, ambigu- ity is not enough to deprive a party of judicial review of the agency’s interpretation in an enforcement action.  To deprive a defendant such as PDR the opportunity to contest the agency’s interpretation, Congress must expressly preclude review.  The Hobbs Act does not do so.
+
+															Second, the Government contends that one of this Court’s cases—Yakus v. United States,
+
+321 U.S. 414 (1944)—already interpreted a statute similar to the Hobbs Act to bar as-applied review in enforcement actions.  The Government incorrectly reads that decision.
+
+															In Yakus, the Court considered whether the facial, pre-enforcement procedure prescribed by the Emergency Price Control Act of 1942 for determining the validity of pricing orders barred as-applied review in enforcement actions.
+
+															The defendants in Yakus had been tried and convicted of selling wholesale cuts of beef at prices exceeding the maximum price prescribed by regulation.  The defendants did not use the procedure established by the Emergency Price Control Act to raise a facial, pre-enforcement challenge to the price regulation.  But they did raise a challenge to the legality of the regulation as part of their defense to the criminal prosecution.
+
+															Section 204(d) of the Emergency Price Control Act contained two key sentences.  The first sentence said that a specially created federal court had “exclusive jurisdiction to determine the validity of any regulation or order.”
+
+56Stat.
+33 (emphasis added).  That first sentence is roughly akin to the language in the Hobbs Act.  The second sentence said: “Except as provided in this section, no court, Federal, State, or Territorial, shall have jurisdiction or power to consider the validity of any such regulation, order, or price schedule.”  Ibid. (emphasis added).  That second sentence is not replicated in the Hobbs Act, but is roughly akin to the preclusion of review provisions in the modern Clean Water Act, CERCLA, and Clean Air Act.
+
+															According to the Yakus Court, the first sentence of the Emergency Price Control Act, which gave a specific court exclusive jurisdiction to determine the validity of certain regulations, “coupled with the provision” that explicitly provided that no other court had jurisdiction to consider the validity of those same regulations, deprived the district court of power to consider the relevant price regulation.  Yakus, 321 U. S., at 430 (emphasis added).
+
+															By its use of the phrase “coupled with,” the Court made plain that those two sentences of the Emergency Price Control Act together barred district court review.  The first sentence alone was not enough.  Importantly, moreover, Yakus did not treat the second sentence of the Emergency Price Control Act as redundant of or as a restatement of the first.  On the contrary, the Court recognized that the two provisions accomplish separate objectives.  The first sentence gave a particular court exclusive jurisdiction to decide a facial, pre-enforcement challenge.  But the word “exclusive” did not on its own bar any subsequent review in as-applied enforcement actions.  If it had, then the second sentence of the Emergency Price Control Act would not have been necessary.  Yet the Act included the second sentence and, importantly, the Yakus Court then relied expressly on that second sentence as part of the basis for finding review precluded in subsequent enforcement  proceedings.
+
+															Six years after Yakus, Congress enacted the Hobbs Act. The Government here contends that Congress modeled the Hobbs Act on the Emergency Price Control Act.  But Congress did not incorporate both sentences of the relevant statutory language from the Emergency Price Control Act into the Hobbs Act.  In enacting the Hobbs Act, Congress incorporated something resembling the first sentence of the Emergency Price Control Act granting the court of appeals exclusive jurisdiction to entertain facial, pre-enforcement challenges to determine the validity of agency action.  But Congress did not incorporate the second sentence of the Emergency Price Control Act, which stated that no other court had jurisdiction even “to consider” those same agency orders.  In the Hobbs Act, in other words, Congress did not include the language from the Emergency Price Control Act that, as interpreted in Yakus, would have expressly communicated Congress’ intent to preclude district courts from considering the validity of certain regulations.
+
+															In relying on Yakus, the Government disregards that critical difference between the text of the Emergency Price Control Act and the text of the Hobbs Act.  Because the text of the Emergency Price Control Act differs signifi- cantly from the text of the Hobbs Act, the Government is incorrect that Yakus supports the Government’s interpretation of the Hobbs Act.  Indeed, if anything, Yakus supports the contrary interpretation of the Hobbs Act because Yakus expressly rested its no-judicial-review conclusion in part on a sentence of the Emergency Price Control Act that Congress left out of the Hobbs Act.
+
+															One more point on Yakus: The Government’s reliance on that decision is problematic for yet another reason.  Yakus was a wartime case, where the need for quick and definitive judicial rulings on the legality of agency orders was at its apex.  That wartime need renders Yakus, in Justice Powell’s words, “at least arguably distinguishable” in civil enforcement proceedings.  Adamo Wrecking, 434 U. S., at 290 (concurring opinion).
+
+															In short, as Yakus makes clear, the phrase “exclusive jurisdiction to determine the validity” does not itself bar subsequent district court review of the agency’s interpretation in enforcement proceedings.  And when we return to the Hobbs Act, the same conclusion holds: The phrase “exclusive jurisdiction” to “determine the validity” does  not bar subsequent district court review in enforcement proceedings.
+
+															Third, the Government suggests that as-applied review in district courts is not necessary because an affected party who did not bring a facial, pre-enforcement challenge can always petition the agency for reconsideration, reopening, a new rulemaking, a declaratory order, or the like, and then obtain judicial review of the agency’s denial.  The Government’s argument is wrong.
+
+															To begin with, if the Government supports judicial review after the initial Hobbs Act period, then why force review into that convoluted route rather than just supporting judicial review in an enforcement action?  The Government has no answer.
+
+															More fundamentally, the Government’s promise of an alternative path of judicial review is empty.  The Government acknowledges that judicial review may not always be available under that route.  And even if judicial review is available, it may only be deferential judicial review of the agency’s discretionary decision to decline to take new action, not judicial review of the agency’s initial interpretation of the statute.  As a result, the Government’s promise of an alternative path of judicial review is illusory and does not supply a basis for denying judicial review in district court enforcement actions.
+
+															Fourth, the Government suggests that it would be a practical problem for agencies if the Hobbs Act did not bar as-applied review of agency interpretations in enforcement actions.  That policy-laden argument cannot overcome the text of the statute and the traditional administrative law practice.  
+
+															In any event, the argument is unpersuasive even on its own terms.  If an agency order is upheld in a facial, pre-enforcement challenge, but then a district court and different court of appeals disagree with the agency’s interpretation in a future as-applied challenge, that will create a circuit split on the interpretation of the law and likely trigger review in this Court.  The Government does not like that possibility.  The Government would prefer to choke off all litigation at the pass.  But circuit splits and this Court’s review happen all the time with all kinds of federal laws.  There is no reason to think that Congress wanted to short-circuit that ordinary system of judicial review for the many agencies and multiplicity of agency orders encompassed by the Hobbs Act.  And there is certainly no basis to interpret a silent statute as achieving that extraordinary close-the-courthouse-door outcome.  To be sure, as it has done with the Clean Water Act, CERCLA, and the Clean Air Act, Congress can expressly preclude as-applied review in enforcement actions (subject to constitutional constraints).  But we should not lightly conclude that Congress wanted to simultaneously deny judicial review in enforcement actions; blindside defendants who would not necessarily have anticipated that they should have filed a facial, pre-enforcement challenge; insulate agencies from circuit splits; and render this Court’s review of major agency orders less likely.  That would pack a lot of congressional punch into a few oblique words in the Hobbs Act.
+
+															To the extent we consider practical considerations, moreover, they cut against the Government.  Under the Government’s position, when the initial window for facial, pre-enforcement review closes, no one is able to argue in court that the regulation is inconsistent with the statute—no matter how wrong the agency’s interpretation might be.  The effect is to transform the regulation into the equivalent of a statute.  In other words, the Government’s argument means that the District Court would have to afford the agency not mere Skidmore deference or Chevron deference, but absolute deference.  Not Skidmore deference or Chevron deference, but PDR abdication. See Skidmore v. Swift & Co.,
+
+323 U.S. 134 (1944); Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+
+467 U.S. 837 (1984).
+
+															*  *  *
+
+															In sum, the Hobbs Act does not expressly preclude judicial review of agency legal interpretations in enforcement actions.  Therefore, the Hobbs Act does not bar PDR from arguing that the FCC’s legal interpretation of the TCPA is incorrect.  The District Court is not bound by the FCC’s interpretation.  In an as-applied enforcement action, the district court should interpret the statute as courts traditionally do under the usual principles of statutory interpretation, affording appropriate respect to the agency’s interpretation.
+
+															Under the Court’s holding today, if the court on remand concludes that the FCC’s order was not subject to the Hobbs Act in the first place, PDR will be able to argue that the FCC’s interpretation of the TCPA is incorrect.  Or if the court concludes that pre-enforcement review was not adequate for PDR, then PDR likewise will be able to argue that the FCC’s interpretation of the TCPA is incorrect.  If the court on remand reaches neither of those conclusions, however, then the court on remand will confront the question that we granted certiorari to decide and that is analyzed in this separate opinion.  For the reasons I have explained, I would conclude that PDR may argue that the FCC’s interpretation of the TCPA is incorrect, and that the District Court is not required to accept the FCC’s interpretation of the TCPA.
+
+															I respectfully concur in the judgment.
+Notes
+1
+ The exclusive-jurisdiction provision of the Hobbs Act also governs review of certain actions of the Department of Agriculture, Department of Transportation, Federal Maritime Commission, Nuclear Regulatory Commission, Surface Transportation Board, and Department of Housing and Urban Development.  See 42 U. S. C. §§2342(2)–(7). 
+
+2
+ If a party challenges an agency action in a facial, pre-enforcement suit, that specific party may be barred by ordinary preclusion principles from relitigating the same question against the agency in a future enforcement action.  See Abbott Labs, 387 U. S., at 154. That scenario is not present here because PDR did not bring a facial, pre-enforcement suit in 2006. 
+
+

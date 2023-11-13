@@ -1,0 +1,438 @@
+::SCDB_caseID:: 2020-029
+::decision_cite:: 19-422
+::decision_name::  Collins v. Yellen
+::decision_year:: 2021
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–422 and 19–563
+
+															_________________
+
+															PATRICK J. COLLINS, et al., PETITIONERS
+
+															19–422v.
+
+															JANET L. YELLEN, SECRETARY OF THE TREASURY, et al.
+
+															
+
+															JANET L. YELLEN, SECRETARY OF THE TREASURY, et al., PETITIONERS
+
+															19–563v.
+
+															PATRICK J. COLLINS, et al.
+
+															on writs of certiorari to the united states court of appeals for the fifth circuit
+
+															[June 23, 2021]
+
+															
+
+															Justice Alito delivered the opinion of the Court. 
+
+															Fannie Mae and Freddie Mac are two of the Nation’s leading sources of mortgage financing.  When the housing crisis hit in 2008, the companies suffered significant losses, and many feared that their troubling financial condition would imperil the national economy.  To address that concern, Congress enacted the Housing and Economic Recovery Act of 2008 (Recovery Act),
+
+122Stat.
+2654,
+
+12 U. S. C. §4501 et seq.  Among other things, that law created the Federal Housing Finance Agency (FHFA), “an independent agency” tasked with regulating the companies and, if necessary, stepping in as their conservator or receiver.  §§4511, 4617.  At its head, Congress installed a single Director, whom the President could remove only “for cause.”  §§4512(a), (b)(2).
+
+															Shortly after the FHFA came into existence, it placed Fannie Mae and Freddie Mac into conservatorship and negotiated agreements for the companies with the Department of Treasury.  Under those agreements, Treasury committed to providing each company with up to $100 billion in capital, and in exchange received, among other things, senior preferred shares and quarterly fixed-rate dividends.  Four years later, the FHFA and Treasury amended the agreements and replaced the fixed-rate dividend formula with a variable one that required the companies to make quarterly payments consisting of their entire net worth minus a small specified capital reserve.  This deal, which the parties refer to as the “third amendment” or “net worth sweep,” caused the companies to transfer enormous amounts of wealth to Treasury.  It also resulted in a slew of lawsuits, including the one before us today.
+
+															A group of Fannie Mae’s and Freddie Mac’s shareholders challenged the third amendment on statutory and constitutional grounds.  With respect to their statutory claim, the shareholders contended that the Agency exceeded its authority as a conservator under the Recovery Act when it agreed to a variable dividend formula that would transfer nearly all of the companies’ net worth to the Federal Government.  And with respect to their constitutional claim, the shareholders argued that the FHFA’s structure violates the separation of powers because the Agency is led by a single Director who may be removed by the President only “for cause.”  §4512(b)(2).  They sought declaratory and injunctive relief, including an order requiring Treasury either to return the variable dividend payments or to re-characterize those payments as a pay down on Treasury’s investment.
+
+															We hold that the shareholders’ statutory claim is barred by the Recovery Act, which prohibits courts from taking “any action to restrain or affect the exercise of [the] powers or functions of the Agency as a conservator.”  §4617(f ).  But we conclude that the FHFA’s structure violates the separation of powers, and we remand for further proceedings to determine what remedy, if any, the shareholders are entitled to receive on their constitutional claim.
+
+															I
+
+															A
+
+															Congress created the Federal National Mortgage Association (Fannie Mae) in 1938 and the Federal Home Loan Mortgage Corporation (Freddie Mac) in 1970 to support the Nation’s home mortgage system.  See National Housing Act Amendments of 1938,
+
+52Stat.
+23; Federal Home Loan Mortgage Corporation Act,
+
+84Stat.
+451.  The companies operate under congressional charters as for-profit corporations owned by private shareholders.  See Housing and Urban Development Act of 1968, §801,
+
+82Stat.
+536,
+
+12 U. S. C. §1716b; Financial Institutions Reform, Recovery, and Enforcement Act of 1989, §731,
+
+103Stat.
+429–436, note following
+
+12 U. S. C. §1452.  Their primary business is purchasing mortgages, pooling them into mortgage-backed securities, and selling them to investors.  By doing so, the companies “relieve mortgage lenders of the risk of default and free up their capital to make more loans,” Jacobs v. Federal Housing Finance Agcy. (FHFA), 908 F.3d 884, 887 (CA3 2018), and this, in turn, increases the liquidity and stability of America’s home lending market and promotes access to mortgage credit.
+
+															By 2007, the companies’ mortgage portfolios had a combined value of approximately $5 trillion and accounted for almost half of the Nation’s mortgage market.  So, when the housing bubble burst in 2008, the companies took a sizeable hit.  In fact, they lost more that year than they had earned in the previous 37 years combined.  See FHFA Office of Inspector General, Analysis of the 2012 Amendments to the Senior Preferred Stock Purchase Agreements 5 (Mar. 20, 2013), https://www.fhfaoig.gov/Content/Files/WPR–2013–002_2.pdf.  Though they remained solvent, many feared the companies would eventually default and throw the housing market into a tailspin.
+
+															To address that concern, Congress enacted the Recovery Act.  Two aspects of that statute are relevant here.
+
+															First, the Recovery Act authorized Treasury to purchase Fannie Mae’s and Freddie Mac’s stock if it determined that infusing the companies with capital would protect taxpayers and be beneficial to the financial and mortgage markets.  12 U. S. C. §§1455(l)(1), 1719(g)(1).  The statute further provided that Treasury’s purchasing authority would automatically expire at the end of the 2009 calendar year.  §§1455(l)(4), 1719(g)(4).
+
+															Second, the Recovery Act created the FHFA to regulate the companies and, in certain specified circumstances, step in as their conservator or receiver.  §§4502(20), 4511(b), 4617.[1]  A few features of the Agency deserve mention.
+
+															The FHFA is led by a single Director who is appointed by the President with the advice and consent of the Senate.  §§4512(a), (b)(1).  The Director serves a 5-year term but may be removed by the President “for cause.”  §4512(b)(2).  The Director is permitted to choose three deputies to assist in running the Agency’s various divisions, and the Director sits as Chairman of the Federal Housing Finance Oversight Board, which advises the Agency about matters of strategy and policy.  §§4512(c)–(e), 4513a(a), (c)(4).  Since its inception, the FHFA has had three Senate-confirmed Directors, and in times of their absence, various Acting Directors have been selected to lead the Agency on an interim basis.  See Rop v. FHFA, 485 F. Supp. 3d 900, 915 (WD Mich. 2020).
+
+															The Agency is tasked with supervising nearly every aspect of the companies’ management and operations.  For example, the Agency must approve any new products that the companies would like to offer.  §4541(a).  It may reject acquisitions and certain transfers of interests the companies seek to execute.  §4513(a)(2)(A).  It establishes criteria governing the companies’ portfolio holdings.  §4624(a).  It may order the companies to dispose of or acquire any asset.  §4624(c).  It may impose caps on how much the companies compensate their executives and prohibit or limit golden parachute and indemnification payments.  §4518.  It may require the companies to submit regular reports on their condition or “any other relevant topics.”  §4514(a)(2).  And it must conduct one on-site examination of the companies each year and may, on any terms the Director deems appropriate, hire outside firms to perform additional reviews.  §§4517(a)–(b), 4519.
+
+															The statute empowers the Agency with broad investigative and enforcement authority to ensure compliance with these standards.  Among other things, the Agency may hold hearings, §§4582, 4633; issue subpoenas, §§4588(a)(3), 4641(a)(3); remove or suspend corporate officers, §4636a; issue cease-and-desist orders, §§4581, 4632; bring civil actions in federal court, §§4584, 4635; and impose penalties ranging from $2,000 to $2 million per day,  §§4514(c)(2), 4585, 4636(b).
+
+															In addition to vesting the FHFA with these supervisory and enforcement powers, the Recovery Act authorizes the Agency to act as the companies’ conservator or receiver for the purposes of reorganizing the companies, rehabilitating them, or winding down their affairs.  §§4617(a)(1)–(2).  The Director may appoint the Agency in either capacity if the companies meet certain specified benchmarks of financial risk or satisfy other criteria, §4617(a)(3), and once the Director makes that appointment, the Agency succeeds to all of the rights, titles, powers, and privileges of the companies, §4617(b)(2)(A)(i).[2]  From there, the Agency has the authority to take control of the companies’ assets and operations, conduct business on their behalf, and transfer or sell any of their assets or liabilities.  §§4617(b)(2)(B)–(C), (G).  In performing these functions, the Agency may exercise whatever incidental powers it deems necessary, and it may take any authorized action that is in the best interests of the companies or the Agency itself.  §4617(b)(2)(J).
+
+															Finally, the FHFA is not funded through the ordinary appropriations process.  Rather, the Agency’s budget comes from the assessments it imposes on the entities it regulates, which include Fannie Mae, Freddie Mac, and the Nation’s federal home loan banks.  §§4502(20), 4516(a).  Those assessments are unlimited so long as they do not exceed the “reasonable costs . . . and expenses of the Agency.”  §4516(a).  In fiscal year 2020, the FHFA collected more than $311 million.  See FHFA, Performance & Accountability  Report 24 (2020), https://www.fhfa.gov/AboutUs/Reports/ ReportDocuments/FHFA-2020-PAR.pdf.
+
+															B
+
+															In September 2008, less than two months after Congress enacted the Recovery Act, the Director appointed the FHFA as conservator of Fannie Mae and Freddie Mac.  The following day, Treasury exercised its temporary authority to buy their stock and the FHFA, acting as the companies’ conservator, entered into purchasing agreements with Treasury.[3]  Under these agreements, Treasury committed to providing each company with up to $100 billion in capital, upon which it could draw in any quarter in which its liabilities exceeded its assets.  In return for this funding commitment, Treasury received 1 million shares of specially created senior preferred stock in each company.
+
+															Those shares provided Treasury with four key entitlements.  First, Treasury received a senior liquidation preference equal to $1 billion in each company, with a dollar-for-dollar increase every time the company drew on the capital commitment.  In other words, in the event the FHFA liquidated Fannie Mae or Freddie Mac, Treasury would have the right to be paid back $1 billion, as well as whatever amount the company had already drawn from the capital commitment, before any other investors or shareholders could seek repayment.  Second, Treasury was given warrants, or long-term options, to purchase up to 79.9% of the companies’ common stock at a nominal price.  Third, Treasury became entitled to a quarterly periodic commitment fee, which the companies would pay to compensate Treasury for the support provided by the ongoing access to capital.[4]  And finally, the companies became obligated to pay Treasury quarterly cash dividends at an annualized rate equal to 10% of Treasury’s outstanding liquidation preference.
+
+															Within a year, Fannie Mae’s and Freddie Mac’s net worth decreased substantially, and it became clear that Treasury’s initial capital commitment would prove inadequate.  To address that problem, the FHFA and Treasury twice amended the agreements to increase the available capital.  The first amendment came in May 2009, when Treasury doubled its combined commitment from $200 billion to $400 billion.[5]  And the second amendment was adopted in December 2009, when Treasury agreed to provide as much funding as the companies needed through 2012, after which the cap would be reinstated.[6]
+
+															The companies drew sizeable amounts from Treasury’s capital commitment in the years that followed.  And because of the fixed-rate dividend formula, the more money they drew, the larger their dividend obligations became.  The companies consistently lacked the cash necessary to pay them, and they began the circular practice of drawing funds from Treasury’s capital commitment just to hand those funds back as a quarterly dividend.  By the middle of 2012, the companies had drawn over $187 billion, and $26 billion of that was used to satisfy their dividend obligations.
+
+															In August 2012, the FHFA and Treasury decided to amend the agreements for a third time.[7]  This amendment replaced the fixed-rate dividend formula (which was tied to the size of Treasury’s investment) with a variable dividend formula (which was tied to the companies’ net worth).  Under the new formula, the companies were required to pay a dividend equal to the amount, if any, by which their net worth exceeded a pre-determined capital reserve.[8]  In addition, the amendment suspended the companies’ obligations to pay periodic commitment fees.
+
+															Shifting from a fixed-rate dividend formula to a variable one materially changed the nature of the agreements.  If the net worth of Fannie Mae or Freddie Mac at the end of a quarter exceeded the capital reserve, the amendment required the company to pay all of the surplus to Treasury.  But if a company’s net worth at the end of a quarter did not exceed the reserve or if it lost money during a quarter, the amendment did not require the company to pay anything.  This ensured that Fannie Mae and Freddie Mac would never again draw money from Treasury just to make their quarterly dividend payments, but it also meant that the companies would not be able to accrue capital in good quarters.
+
+															After the third amendment took effect, the companies’ financial condition improved, and they ended up transferring immense amounts of wealth to Treasury.  In 2013, the companies paid a total of $130 billion in dividends.  In 2014, they paid over $40 billion.  In 2015, they paid almost $16 billion.  And in 2016, they paid almost $15 billion.[9]  These payments totaled approximately $200 billion, which is at least $124 billion more than the companies would have had to pay during those four years under the fixed-rate dividend formula that previously applied.
+
+															The third amendment stayed in place for another four years.  In January 2021, the FHFA and Treasury amended the stock purchasing agreements for a fourth time.[10]  This amendment, which is currently in place, suspends the companies’ quarterly dividend payments until they build up enough capital to meet certain specified thresholds, a process that we are told is expected to take years.  See Letter from E. Prelogar, Acting Solicitor General, to S. Harris, Clerk of Court (Mar. 18, 2021).  During that time, each company is required to pay Treasury through increases in the liquidation preference that are equal to the increase, if any, in its net worth during the previous fiscal year.  Once that threshold is met, the company will resume quarterly dividend payments, and those dividends will be equal to the lesser of 10% of Treasury’s liquidation preference or the incremental increase in the company’s net worth in the previous quarter.  In addition, the company will be required to pay periodic commitment fees.
+
+															C
+
+															In 2016, three of Fannie Mae’s and Freddie Mac’s shareholders brought suit against the FHFA and its Director, and they asserted two claims that are relevant for present purposes.  First, they claimed that the FHFA exceeded its statutory authority as the companies’ conservator by adopting the third amendment.  Second, they asserted that because the FHFA is led by a single Director who may be removed by the President only “for cause,” its structure is unconstitutional.  They asked for various forms of equitable relief, including a declaration that the third amendment violated the Recovery Act and that the FHFA’s structure is unconstitutional; an injunction ordering Treasury to return to Fannie Mae and Freddie Mac all the dividend payments that were made under the third amendment or alternatively, a re-characterization of those payments as a pay-down of the liquidation preference and a corresponding redemption of Treasury’s stock; an order vacating and setting aside the third amendment; and an order enjoining the FHFA and Treasury from taking any further action to implement the third amendment.[11]
+
+															The District Court dismissed the statutory claim and granted summary judgment in favor of the FHFA on the constitutional claim, Collins v. FHFA, 254 F. Supp. 3d 841 (SD Tex. 2017), and a three-judge panel of the Fifth Circuit affirmed in part and reversed in part, Collins v. Mnuchin, 896 F.3d 640 (2018) (per curiam).  At the request of both parties, the Fifth Circuit reheard the case en banc.  Collins v. Mnuchin, 908 F.3d 151 (2018).  In a deeply fractured opinion, the en banc court reversed the District Court’s dismissal of the statutory claim; held that the FHFA’s structure violates the separation of powers; and concluded that the appropriate remedy for the constitutional violation was to sever the removal restriction from the rest of the Recovery Act, but not to vacate and set aside the third amendment.  Collins v. Mnuchin, 938 F.3d 553 (2019).
+
+															Both the shareholders and the federal parties sought this Court’s review, and we granted certiorari.  591 U. S. ___ (2020).  Because the federal parties did not contest the Fifth Circuit’s conclusion that the Recovery Act’s removal restriction improperly insulates the Director from Presidential control, we appointed Aaron Nielson to brief and argue, as amicus curiae, in support of the position that the FHFA’s structure is constitutional.  He has ably discharged his responsibilities.
+
+															II
+
+															We begin with the shareholders’ statutory claim and conclude that the Recovery Act requires its dismissal.
+
+															In the Recovery Act, Congress sharply circumscribed judicial review of any action that the FHFA takes as a conservator or receiver.  The Act states that unless review is specifically authorized by one of its provisions or is requested by the Director, “no court may take any action to restrain or affect the exercise of powers or functions of the Agency as a conservator or a receiver.”
+
+12 U. S. C. §4617(f ).  The parties refer to this as the Act’s “anti-injunction clause.”
+
+															Every Court of Appeals that has confronted this language has held that it prohibits relief where the FHFA action at issue fell within the scope of the Agency’s authority as a conservator, but that relief is allowed if the FHFA exceeded that authority.  See Jacobs, 908 F. 3d, at 889; Saxton v. FHFA, 901 F.3d 954, 957–958 (CA8 2018); Roberts v. FHFA, 889 F.3d 397, 402 (CA7 2018); Robinson v. FHFA, 876 F.3d 220, 228 (CA6 2017); Perry Capital LLC v. Mnuchin, 864 F.3d 591, 605–606 (CADC 2017); County of Sonoma v. FHFA, 710 F.3d 987, 992 (CA9 2013); Leon Cty. v. FHFA, 700 F.3d 1273, 1278 (CA11 2012).
+
+															We agree with that consensus.  The anti-injunction clause applies only where the FHFA exercised its “powers or functions” “as a conservator or a receiver.”  Where the FHFA does not exercise but instead exceeds those powers or functions, the anti-injunction clause imposes no restrictions.
+
+															With that understanding in mind, we must decide whether the FHFA was exercising its powers or functions as a conservator when it agreed to the third amendment.  If it was, then the anti-injunction clause bars the shareholders’ statutory claim.
+
+															A
+
+															The Recovery Act grants the FHFA expansive authority in its role as a conservator.  As we have explained, the Agency is authorized to take control of a regulated entity’s assets and operations, conduct business on its behalf, and transfer or sell any of its assets or liabilities.  See §§4617(b)(2)(B)–(C), (G).  When the FHFA exercises these powers, its actions must be “necessary to put the regulated entity in a sound and solvent condition” and must be “appropriate to carry on the business of the regulated entity and preserve and conserve [its] assets and property.”  §4617(b)(2)(D).  Thus, when the FHFA acts as a conservator, its mission is rehabilitation, and to that extent, an FHFA conservatorship is like any other.  See, e.g., Resolution Trust Corporation v. CedarMinn Bldg. Ltd. Partnership, 956 F.2d 1446, 1454 (CA8 1992).[12]
+
+															An FHFA conservatorship, however, differs from a typical conservatorship in a key respect.  Instead of mandating that the FHFA always act in the best interests of the regulated entity, the Recovery Act authorizes the Agency to act in what it determines is “in the best interests of the regulated entity or the Agency.”  §4617(b)(2)(J)(ii) (emphasis added).  Thus, when the FHFA acts as a conservator, it may aim to rehabilitate the regulated entity in a way that, while not in the best interests of the regulated entity, is beneficial to the Agency and, by extension, the public it serves.  This distinctive feature of an FHFA conservatorship is fatal to the shareholders’ statutory claim.
+
+															The facts alleged in the complaint demonstrate that the FHFA chose a path of rehabilitation that was designed to serve public interests by ensuring Fannie Mae’s and Freddie Mac’s continued support of the secondary mortgage market.  Recall that the third amendment was adopted at a time when the companies’ liabilities had consistently exceeded their assets over at least the prior three years.  See supra, at 8.  It is undisputed that the companies had repeatedly been unable to make their fixed quarterly dividend payments without drawing on Treasury’s capital commitment.  And there is also no dispute that the cap on Treasury’s capital commitment was scheduled to be reinstated at the end of the year and that Treasury’s temporary stock-purchasing authority had expired in 2009.  See §§1455(l)(4), 1719(g)(4).  If things had proceeded as they had in the past, there was a realistic possibility that the companies would have consumed some or all of the remaining capital commitment in order to pay their dividend obligations, which were themselves increasing in size every time the companies made a draw.
+
+															The third amendment eliminated this risk by replacing the fixed-rate dividend formula with a variable one.  Under the new formula, the companies would never again have to use capital from Treasury’s commitment to pay their dividends.  And that, in turn, ensured that all of Treasury’s capital was available to backstop the companies’ operations during difficult quarters.  In exchange, the companies had to relinquish nearly all their net worth, and this made certain that they would never be able to build up their own capital buffers, pay back Treasury’s investment, and exit conservatorship.  Whether or not this new arrangement was in the best interests of the companies or their shareholders, the FHFA could have reasonably concluded that it was in the best interests of members of the public who rely on a stable secondary mortgage market.  The Recovery Act therefore authorized the Agency to choose this option.
+
+															B
+
+															The shareholders contend that the third amendment did not actually serve the best interests of the FHFA or the public because it did not further the asserted objective of protecting Treasury’s capital commitment.  This is so, the shareholders argue, for two reasons.
+
+															First, they claim that the FHFA adopted the third amendment at a time when the companies were on the precipice of a financial uptick and that they would soon have been in a position not only to pay cash dividends, but also to build up capital buffers to absorb future losses.  Thus, the shareholders assert, sweeping all the companies’ earnings to Treasury increased rather than decreased the risk that the companies would make further draws and eventually deplete Treasury’s commitment.
+
+															The nature of the conservatorship authorized by the Recovery Act permitted the Agency to reject the shareholders’ suggested strategy in favor of one that the Agency reasonably viewed as more certain to ensure market stability.  The success of the strategy that the shareholders tout was dependent on speculative projections about future earnings, and recent experience had given the FHFA reasons for caution.  The companies had been repeatedly unable to pay their dividends from 2009 to 2011.  With the aim of more securely ensuring market stability, the FHFA did not exceed the scope of its conservatorship authority by deciding on what it viewed as a less risky approach.
+
+															Second, the shareholders contend that the FHFA could have protected Treasury’s capital commitment by ordering the companies to pay the dividends in kind rather than in cash.  This argument rests on a misunderstanding of the agreement between the companies and Treasury.  The companies’ stock certificates required Fannie Mae and Freddie Mac to pay their dividends “in cash in a timely manner.”  App. 180, 198.  If the companies had failed to do so, they would have incurred a penalty: Treasury’s liquidation preference would have immediately increased by the dividend amount, and the dividend rate would have increased from 10% to 12% until the companies paid their outstanding dividends in cash.[13]  Thus, paying Treasury in kind would not have satisfied the cash dividend obligation, and the risk that the companies’ cash dividend obligations would consume Treasury’s capital commitment in the future would have remained.  Choosing to forgo this option in favor of one that eliminated the risk entirely was not in excess of the FHFA’s statutory authority as conservator.
+
+															Finally, the shareholders argue that because the third amendment left the companies unable to build capital reserves and exit conservatorship, it is best viewed as a step toward ultimate liquidation and, according to the shareholders, the FHFA lacked the authority to take this decisive step without first placing the companies in receivership.
+
+															The shareholders’ characterization of the third amendment as a step toward liquidation is inaccurate.  Nothing about the amendment precluded the companies from operating at full steam in the marketplace, and all the available evidence suggests that they did so.  Between 2012 and 2016 alone, the companies “collectively purchased at least 11 million mortgages on single-family owner-occupied properties, and Fannie issued over $1.5 trillion in single-family mortgage-backed securities.”  Perry Capital, 864 F. 3d, at 602.  During that time, the companies amassed over $200 billion in net worth and, as of November 2020, Fannie Mae’s mortgage portfolio had grown to $163 billion and Freddie Mac’s to $193 billion.[14]  This evidence does not suggest that the companies were in the process of winding down their affairs.
+
+															It is not necessary for us to decide—and we do not decide—whether the FHFA made the best, or even a particularly good, business decision when it adopted the third amendment.  Instead, we conclude only that under the terms of the Recovery Act, the FHFA did not exceed its authority as a conservator, and therefore the anti-injunction clause bars the shareholders’ statutory claim.
+
+															III
+
+															We now consider the shareholders’ claim that the statutory restriction on the President’s power to remove the FHFA Director,
+
+12 U. S. C. §4512(b)(2), is unconstitutional.
+
+															A
+
+															Before turning to the merits of this question, however, we must address threshold issues raised in the lower court or by the federal parties and appointed amicus.
+
+															1
+
+															In the proceedings below, some judges concluded that the shareholders lack standing to bring their constitutional claim.  See 938 F. 3d, at 620 (Costa, J., dissenting in part).  Because we have an obligation to make sure that we have jurisdiction to decide this claim, see DaimlerChrysler Corp. v. Cuno,
+
+547 U.S. 332, 340 (2006), we begin by explaining why the shareholders have standing.
+
+															To establish Article III standing, a plaintiff must show that it has suffered an “injury in fact” that is “fairly traceable” to the defendant’s conduct and would likely be “redressed by a favorable decision.”  Lujan v. Defenders of Wildlife,
+
+504 U.S. 555, 560–561 (1992) (alterations and internal quotation marks omitted).  The shareholders meet these requirements.  
+
+															First, the shareholders claim that the FHFA transferred the value of their property rights in Fannie Mae and Freddie Mac to Treasury, and that sort of pocketbook injury is a prototypical form of injury in fact.  See Czyzewski v. Jevic Holding Corp., 580 U. S. ___, ___ (2017) (slip op., at 11).  Second, the shareholders’ injury is traceable to the FHFA’s adoption and implementation of the third amendment, which is responsible for the variable dividend formula that swept the companies’ net worth to Treasury and left nothing for their private shareholders.  Finally, a decision in the shareholders’ favor could easily lead to the award of at least some of the relief that the shareholders seek.  We found standing under similar circumstances in Seila Law LLC v. Consumer Financial Protection Bureau, 591 U. S. ___ (2020).  See id., at ___ (slip op., at 10) (“In the specific context of the President’s removal power, we have found it sufficient that the challenger sustains injury from an executive act that allegedly exceeds the official’s authority” (brackets and internal quotation marks omitted)); see also Free Enterprise Fund v. Public Company Accounting Oversight Bd.,
+
+561 U.S. 477 (2010) (considering challenge to removal restriction where plaintiffs claimed injury from allegedly unlawful agency oversight).
+
+															The judges who thought that the shareholders lacked standing reached that conclusion on the ground that the shareholders could not trace their injury to the Recovery Act’s removal restriction.  See 938 F. 3d, at 620–621 (opinion of Costa, J.).  But for purposes of traceability, the relevant inquiry is whether the plaintiffs’ injury can be traced to “allegedly unlawful conduct” of the defendant, not to the provision of law that is challenged.  Allen v. Wright,
+
+468 U.S. 737, 751 (1984); see also Lujan, supra, at 560 (explaining that the plaintiff must show “a causal connection between the injury and the conduct complained of,” and that “the injury has to be fairly traceable to the challenged action of the defendant” (quoting Simon v. Eastern Ky. Welfare Rights Organization,
+
+426 U.S. 26, 41 (1976); brackets, ellipsis, and internal quotation marks omitted)).  Because the relevant action in this case is the third amendment, and because the shareholders’ concrete injury flows directly from that amendment, the traceability requirement is satisfied.
+
+															2
+
+															After oral argument was held in this case, the federal parties notified the Court that the FHFA and Treasury had agreed to amend the stock purchasing agreements for a fourth time.[15]  And because that amendment eliminated the variable dividend formula that had caused the shareholders’ injury, it is necessary to consider whether the fourth amendment moots the shareholders’ constitutional claim.
+
+															It does so only with respect to some of the relief requested.  In their complaint, the shareholders sought various forms of prospective relief, but because that amendment is no longer in place, the shareholders no longer have any ground for such relief.  By contrast, they retain an interest in the retrospective relief they have requested, and that interest saves their constitutional claim from mootness.
+
+															3
+
+															The federal parties contend that the “succession clause” in the Recovery Act bars the shareholders’ constitutional claim.  Under this clause, when the FHFA appoints itself as conservator, it immediately succeeds to “all rights, titles, powers, and privileges of the regulated entity, and of any stockholder, officer, or director of such regulated entity with respect to the regulated entity and the assets of the regulated entity.”
+
+12 U. S. C. §4617(b)(2)(A)(i).  According to the federal parties, this clause transferred to the FHFA the shareholders’ right to bring their constitutional claim, and it therefore bars the shareholders from asserting that claim on their own behalf.  In other words, the federal parties read the succession clause to mean that the only party with the authority to challenge the restriction on the President’s power to remove the Director of the FHFA is the FHFA itself.
+
+															The federal parties read the succession clause too broadly.  The clause effects only a limited transfer of stockholders’ rights, namely, the rights they hold as stockholders “with respect to the regulated entity” and its assets.  The right the shareholders assert in this case is one that they hold in common with all other citizens who have standing to challenge the removal restriction.  As we have explained on many prior occasions, the separation of powers is designed to preserve the liberty of all the people.  See, e.g., Bowsher v. Synar,
+
+478 U.S. 714, 730 (1986); Youngstown Sheet & Tube Co. v. Sawyer,
+
+343 U.S. 579, 635 (1952) (Jackson, J., concurring) (noting that the Constitution “diffuses power the better to secure liberty”).  So whenever a separation-of-powers violation occurs, any aggrieved party with standing may file a constitutional challenge.  See, e.g., Seila Law, supra, at ___ (slip op., at 10); Bond v. United States,
+
+564 U.S. 211, 223 (2011); INS v. Chadha,
+
+462 U.S. 919, 935–936 (1983).  Nearly half our hallmark removal cases have been brought by aggrieved private parties.  See Seila Law, 591 U. S., at ___–___ (slip op., at 6–7) (law firm to which the agency issued a civil investigative demand); Free Enterprise Fund, supra, at 487 (accounting firm placed under agency investigation); Morrison v. Olson,
+
+487 U.S. 654, 668 (1988) (federal officials subject to subpoenas issued at the request of an independent counsel); Bowsher, supra, at 719 (union representing employee-members whose benefit increases were suspended due to an action of the Comptroller General).
+
+															Here, the right asserted is not one that is distinctive to shareholders of Fannie Mae and Freddie Mac; it is a right shared by everyone in this country.   Because the succession clause transfers the rights of “stockholder[s] . . . with respect to the regulated entity,” it does not transfer to the FHFA the constitutional right at issue.[16]
+
+															4
+
+															The federal parties and appointed amicus next contend that the shareholders’ constitutional challenge was dead on arrival because the third amendment was adopted when the FHFA was led by an Acting Director[17] who was removable by the President at will.  This argument would have merit if (a) the Acting Director was indeed removable at will (a matter we address below, see infra, at 22–26) and (b) all the harm allegedly incurred by the shareholders had been completed at the time of the third amendment’s adoption.  Under those circumstances, any constitutional defect in the provision restricting the removal of a confirmed Director would not have harmed the shareholders, and they would not be entitled to any relief.  But the harm allegedly caused by the third amendment did not come to an end during the tenure of the Acting Director who was in office when the amendment was adopted.  That harm is alleged to have continued after the Acting Director was replaced by a succession of confirmed Directors, and it appears that any one of those officers could have renegotiated the companies’ dividend formula with Treasury.  From what we can tell from the record, the FHFA and Treasury consistently reevaluated the stock purchasing agreements and adopted amendments as they thought necessary.  Nothing in the third amendment suggested that it was permanent or that the FHFA lacked the ability to bring Treasury back to the bargaining table.  After all, the agencies adopted a fourth amendment just this year.  The federal parties and amicus do not dispute this.  Accordingly, continuing to implement the third amendment was a decision that each confirmed Director has made since 2012, and because confirmed Directors chose to continue implementing the third amendment while insulated from plenary Presidential control, the survival of the shareholders’ constitutional claim does not depend on the answer to the question whether the Recovery Act restricted the removal of an Acting Director.
+
+															On the other hand, the answer to that question could have a bearing on the scope of relief that may be awarded to the shareholders.  If the statute unconstitutionally restricts the authority of the President to remove an Acting Director, the shareholders could seek relief rectifying injury inflicted by actions taken while an Acting Director headed the Agency.  But if the statute does not restrict the removal of an Acting Director, any harm resulting from actions taken under an Acting Director would not be attributable to a constitutional violation.  Only harm caused by a confirmed Director’s implementation of the third amendment could then provide a basis for relief.  We therefore consider what the Recovery Act says about the removal of an Acting Director.
+
+															The Recovery Act’s removal restriction provides that “[t]he Director shall be appointed for a term of 5 years, unless removed before the end of such term for cause by the President.”
+
+12 U. S. C. §4512(b)(2).  That provision refers only to “the Director,” and it is surrounded by other provisions that apply only to the Director.  See §4512(a) (establishing the position of the Director); §4512(b)(1) (setting out the procedure for appointing the Director); §4512(b)(3) (discussing the manner for selecting a new Director to fill a vacancy).
+
+															The Act’s mention of an “acting Director” does not appear until four subsections later, and that subsection does not include any removal restriction.  See §4512(f ).  Nor does it cross-reference the earlier restriction on the removal of a confirmed Director.  Ibid.  Instead, it merely states that “[i]n the event of the death, resignation, sickness, or absence of the Director, the President shall designate” one of three Deputy Directors to serve as an Acting Director until the Senate-confirmed Director returns or his successor is appointed.  Ibid.
+
+															That omission is telling.  When a statute does not limit the President’s power to remove an agency head, we generally presume that the officer serves at the President’s pleasure.  See Shurtleff v. United States,
+
+189 U.S. 311, 316 (1903).  Moreover, “when Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion.”  Barnhart v. Sigmon Coal Co.,
+534 U.S. 438, 452 (2002) (internal quotation marks omitted).  In the Recovery Act, Congress expressly restricted the President’s power to remove a confirmed Director but said nothing of the kind with respect to an Acting Director.  And Congress might well have wanted to provide greater protection for a Director who had been confirmed by the Senate than for an Acting Director in whose appointment Congress had played no role.  In any event, the disparate treatment weighs against the shareholders’ interpretation.
+
+															In support of that interpretation, the shareholders first contend that the Recovery Act should be read to restrict the removal of an Acting Director because the Act refers to the FHFA as an “independent agency of the Federal Government.”
+
+12 U. S. C. §4511(a) (emphasis added).  The reference to the FHFA’s independence, they claim, means that any person heading the Agency was intended to enjoy a degree of independence from Presidential control.
+
+															That interpretation reads far too much into the term “independent.”  The term does not necessarily mean that the Agency is “independent” of the President.  It may mean instead that the Agency is not part of and is therefore independent of any other unit of the Federal Government.  And describing an agency as independent would be an odd way to signify that its head is removable only for cause because even an agency head who is shielded in that way would hardly be fully “independent” of Presidential control.
+
+															A review of other enabling statutes that describe agencies as “independent” undermines the shareholders’ interpretation of the term.  Congress has described many agencies as “independent” without imposing any restriction on the President’s power to remove the agency’s leadership.  This is true, for example, of the Peace Corps, 22 U. S. C. §§2501–1, 2503, the Defense Nuclear Facilities Safety Board,
+
+42 U. S. C. §2286, the Commodity Futures Trading Commission,
+
+7 U. S. C. §2(a)(2), the Farm Credit Administration, 12 U. S. C. §§2241–2242, the National Credit Union Administration,
+
+12 U. S. C. §1752a, and the Railroad Retirement Board,
+
+45 U. S. C. §231f(a).
+
+															In other statutes, Congress has restricted the President’s removal power without referring to the agency as “independent.”  This is the case for the Commission on Civil Rights, 42 U. S. C. §§1975(a), (e), the Federal Trade Commission,
+
+15 U. S. C. §41, and the National Labor Relations Board,
+
+29 U. S. C. §153.  And in yet another group of statutes, Congress has referred to an agency as “independent” but has not expressly provided that the removal of the agency head is subject to any restrictions.  See 44 U. S. C. §§2102, 2103 (National Archives and Records Administration); 42 U. S. C. §§1861, 1864 (National Science Foundation).  That combination of provisions shows that the term “independent” does not necessarily connote independence from Presidential control, and we refuse to read that connotation into the Recovery Act.
+
+															Taking a different tack, the shareholders claim that their interpretation is supported by the absence of any reference to removal in the Recovery Act’s provision on Acting Directors.  Again, that provision states that if the Director is absent, “the President shall designate [one of the FHFA’s three Deputy Directors] to serve as acting Director until the return of the Director, or the appointment of a successor.”
+
+12 U. S. C. §4512(f ).  According to the shareholders, this text makes clear that an Acting Director differs from a confirmed Director in three respects (manner of appointment, qualifications, and length of tenure).  They assume that these are the only respects in which confirmed and Acting Directors differ, and they therefore conclude that the permissible grounds for removing an Acting Director are the same as those for a confirmed Director.
+
+															This argument draws an unwarranted inference from the Recovery Act’s silence on this matter.  As noted, we generally presume that the President holds the power to remove at will executive officers and that a statute must contain “plain language to take [that power] away.”  Shurtleff, supra, at 316.  The shareholders argue that this is not a hard and fast rule, but we certainly see no grounds for an exception in this case.[18]
+
+															For all these reasons, we hold that the Recovery Act’s removal restriction does not extend to an Acting Director, and we now proceed to the merits of the shareholders’ constitutional argument.
+
+															B
+
+															The Recovery Act’s for-cause restriction on the President’s removal authority violates the separation of powers.  Indeed, our decision last Term in Seila Law is all but dispositive.  There, we held that Congress could not limit the President’s power to remove the Director of the Consumer Financial Protection Bureau (CFPB) to instances of “inefficiency, neglect, or malfeasance.”  591 U. S., at ___ (slip op., at 11).  We did “not revisit our prior decisions allowing certain limitations on the President’s removal power,” but we found “compelling reasons not to extend those precedents to the novel context of an independent agency led by a single Director.”  Id., at ___ (slip op., at 2).  “Such an agency,” we observed, “lacks a foundation in historical practice and clashes with constitutional structure by concentrating power in a unilateral actor insulated from Presidential control.”  Id., at ___–___ (slip op., at 2–3).
+
+															A straightforward application of our reasoning in Seila Law dictates the result here.  The FHFA (like the CFPB) is an agency led by a single Director, and the Recovery Act (like the Dodd-Frank Act) restricts the President’s removal power.  Fulfilling his obligation to defend the constitutionality of the Recovery Act’s removal restriction, amicus attempts to distinguish the FHFA from the CFPB.  We do not find any of these distinctions sufficient to justify a different result.
+
+															1
+
+															Amicus first argues that Congress should have greater leeway to restrict the President’s power to remove the FHFA Director because the FHFA’s authority is more limited than that of the CFPB.  Amicus points out that the CFPB administers 19 statutes while the FHFA administers only 1; the CFPB regulates millions of individuals and businesses whereas the FHFA regulates a small number of Government-sponsored enterprises; the CFPB has broad rulemaking and enforcement authority and the FHFA has little; and the CFPB receives a large budget from the Federal Reserve while the FHFA collects roughly half the amount from regulated entities.
+
+															We have noted differences between these two agencies.  See Seila Law, 591 U. S., at ___ (slip op., at 20) (noting that the FHFA “regulates primarily Government-sponsored enterprises, not purely private actors”).  But the nature and breadth of an agency’s authority is not dispositive in determining whether Congress may limit the President’s power to remove its head.  The President’s removal power serves vital purposes even when the officer subject to removal is not the head of one of the largest and most powerful agencies.  The removal power helps the President maintain a degree of control over the subordinates he needs to carry out his duties as the head of the Executive Branch, and it works to ensure that these subordinates serve the people effectively and in accordance with the policies that the people presumably elected the President to promote.  See, e.g., id., at ___–___ (slip op., at 11–12); Free Enterprise Fund, 561 U. S., at 501–502; Myers v. United States,
+
+272 U.S. 52, 131 (1926).  In addition, because the President, unlike agency officials, is elected, this control is essential to subject Executive Branch actions to a degree of electoral accountability.  See Free Enterprise Fund, 561 U. S., at 497–498.  At-will removal ensures that “the lowest officers, the middle grade, and the highest, will depend, as they ought, on the President, and the President on the community.”  Id., at 498 (quoting 1 Annals of Cong. 499 (1789) (J. Madison)).  These purposes are implicated whenever an agency does important work, and nothing about the size or role of the FHFA convinces us that its Director should be treated differently from the Director of the CFPB.  The test that amicus proposes would also lead to severe practical problems.  Amicus does not propose any clear standard to distinguish agencies whose leaders must be removable at will from those whose leaders may be protected from at-will removal.  This case is illustrative.  As amicus points out, the CFPB might be thought to wield more power than the FHFA in some respects.  But the FHFA might in other respects be considered more powerful than the CFPB.
+
+															For example, the CFPB’s rulemaking authority is more constricted.  Under the Dodd-Frank Act, the CFPB’s final rules can be set aside by a super majority of the Financial Stability and Oversight Council whenever it concludes that the rule would “ ‘put the safety and soundness’ ” of the Nation’s banking or financial systems at risk.  See Seila Law, supra, at ___, n. 9 (slip op., at 25, n. 9) (quoting 12 U. S. C. §§5513(a), (c)(3)).  No board or commission can set aside the FHFA’s rules.
+
+															In addition, while the CFPB has direct regulatory and enforcement authority over purely private individuals and businesses, the FHFA has regulatory and enforcement authority over two companies that dominate the secondary mortgage market and have the power to reshape the housing sector.  See App. 116.  FHFA actions with respect to those companies could have an immediate impact on millions of private individuals and the economy at large.  See Seila Law, supra, at ___ (slip op., at 31) (Kagan, J., concurring in judgment with respect to severability and dissenting in part) (noting that “the FHFA plays a crucial role in overseeing the mortgage market, on which millions of Americans annually rely”).
+
+															Courts are not well-suited to weigh the relative importance of the regulatory and enforcement authority of disparate agencies, and we do not think that the constitutionality of removal restrictions hinges on such an inquiry.[19]
+
+															2
+
+															Amicus next contends that Congress may restrict the removal of the FHFA Director because when the Agency steps into the shoes of a regulated entity as its conservator or receiver, it takes on the status of a private party and thus does not wield executive power.  But the Agency does not always act in such a capacity, and even when it acts as conservator or receiver, its authority stems from a special statute, not the laws that generally govern conservators and receivers.  In deciding what it must do, what it cannot do, and the standards that govern its work, the FHFA must interpret the Recovery Act, and “[i]nterpreting a law enacted by Congress to implement the legislative mandate is the very essence of ‘execution’ of the law.”  Bowsher, 478 U. S., at 733; see also id., at 765 (White, J., dissenting) (“[T]he powers exercised by the Comptroller under the Act may be characterized as ‘executive’ in that they involve the interpretation and carrying out of the Act’s mandate”).
+
+															Moreover, as we have already mentioned, see supra, at 5–6, the FHFA’s powers under the Recovery Act differ critically from those of most conservators and receivers.  It can subordinate the best interests of the company to its own best interests and those of the public.  See
+
+12 U. S. C. §4617(b)(2)(J)(ii).  Its business decisions are protected from judicial review.  §4617(f ).  It is empowered to issue a “regulation or order” requiring stockholders, directors, and officers to exercise certain functions.  §4617(b)(2)(C).  It is authorized to issue subpoenas.  §4617(b)(2)(I).  And of course, it has the power to put the company into conservatorship and simultaneously appoint itself as conservator.  §4617(a)(1).  For these reasons, the FHFA clearly exercises executive power.[20]
+
+															3
+
+															Amicus asserts that the FHFA’s structure does not violate the separation of powers because the entities it regulates are Government-sponsored enterprises that have federal charters, serve public objectives, and receive “ ‘special privileges’ ” like tax exemptions and certain borrowing rights.  Brief for Court-Appointed Amicus Curiae 27–28.  In amicus’s view, the individual-liberty concerns that the removal power exists to preserve “ring hollow where the only entities an agency regulates are themselves not purely private actors.”  Id., at 29 (internal quotation marks omitted).
+
+															This argument fails because the President’s removal power serves important purposes regardless of whether the agency in question affects ordinary Americans by directly regulating them or by taking actions that have a profound but indirect effect on their lives.  And there can be no question that the FHFA’s control over Fannie Mae and Freddie Mac can deeply impact the lives of millions of Americans by affecting their ability to buy and keep their homes.
+
+															4
+
+															Finally, amicus contends that there is no constitutional problem in this case because the Recovery Act offers only “modest [tenure] protection.”  Id., at 37.  That is so, amicus claims, because the for-cause standard would be satisfied whenever a Director “disobey[ed] a lawful [Presidential] order,” including one about the Agency’s policy discretion.  Id., at 41.
+
+															We acknowledge that the Recovery Act’s “for cause” restriction appears to give the President more removal authority than other removal provisions reviewed by this Court.  See, e.g., Seila Law, 591 U. S., at ___ (slip op., at 5) (“for ‘inefficiency, neglect of duty, or malfeasance in office’ ”); Morrison, 487 U. S., at 663 (“ ‘for good cause, physical disability, mental incapacity, or any other condition that substantially impairs the performance of [his or her] duties’ ”); Bowsher, supra, at 728 (“by joint resolution of Congress” due to “ ‘permanent disability,’ ” “ ‘inefficiency,’ ” “ ‘neglect of duty,’ ” “ ‘malfeasance,’ ” “ ‘a felony[,] or conduct involving moral turpitude’ ”); Humphrey’s Executor v. United States,
+
+295 U.S. 602, 619 (1935) (“ ‘ “for inefficiency, neglect of duty, or malfeasance in office” ’ ”); Myers, 272 U. S., at 107 (“ ‘by and with the advice and consent of the Senate’ ”).  And it is certainly true that disobeying an order is generally regarded as “cause” for removal.  See NLRB v. Electrical Workers,
+
+346 U.S. 464, 475 (1953) (“The legal principle that insubordination, disobedience or disloyalty is adequate cause for discharge is plain enough”).
+
+															But as we explained last Term, the Constitution prohibits even “modest restrictions” on the President’s power to remove the head of an agency with a single top officer.  Seila Law, supra, at ___ (slip op., at 26) (internal quotation marks omitted).  The President must be able to remove not just officers who disobey his commands but also those he finds “negligent and inefficient,” Myers, 272 U. S., at 135, those who exercise their discretion in a way that is not “intelligen[t ] or wis[e ],” ibid., those who have “different views of policy,” id., at 131, those who come “from a competing political party who is dead set against [the President’s] agenda,” Seila Law, supra, at ___ (slip op., at 24) (emphasis deleted), and those in whom he has simply lost confidence, Myers, supra, at 124.  Amicus recognizes that “ ‘for cause’ . . . does not mean the same thing as ‘at will,’ ” Brief for Court-Appointed Amicus Curiae 44–45, and therefore the removal restriction in the Recovery Act violates the separation of powers.[21]
+
+															C
+
+															Having found that the removal restriction violates the Constitution, we turn to the shareholders’ request for relief.  And because the shareholders no longer have a live claim for prospective relief, see supra, at 19, the only remaining remedial question concerns retrospective relief.
+
+															On this issue, the shareholders’ lead argument is that the third amendment must be completely undone.  They seek an order setting aside the amendment and requiring the “return to Fannie and Freddie [of] all dividend payments made pursuant to [it].”[22]  App. 117–118.  In support of this request, they contend that the third amendment was adopted and implemented by officers who lacked constitutional authority and that their actions were therefore void ab initio.
+
+															We have already explained that the Acting Director who adopted the third amendment was removable at will.  See supra, at 22–26.  That conclusion defeats the shareholders’ argument for setting aside the third amendment in its entirety.  We therefore consider the shareholders’ contention about remedy with respect to only the actions that confirmed Directors have taken to implement the third amendment during their tenures.  But even as applied to that subset of actions, the shareholders’ argument is neither logical nor supported by precedent.  All the officers who headed the FHFA during the time in question were properly appointed.  Although the statute unconstitutionally limited the President’s authority to remove the confirmed Directors, there was no constitutional defect in the statutorily prescribed method of appointment to that office.  As a result, there is no reason to regard any of the actions taken by the FHFA in relation to the third amendment as void.
+
+															The shareholders argue that our decisions in prior separation-of-powers cases support their position, but most of the cases they cite involved a Government actor’s exercise of power that the actor did not lawfully possess.  See Lucia v. SEC, 585 U. S. ___, ___ (2018) (slip op., at 12) (administrative law judge appointed in violation of Appointments Clause); Stern v. Marshall,
+
+564 U.S. 462, 503 (2011) (bankruptcy judge’s exercise of exclusive power of Article III judge); Clinton v. City of New York,
+
+524 U.S. 417, 425, and n. 9, 438 (1998) (President’s cancellation of individual portions of bills under the Line Item Veto Act); Chadha, 462 U. S., at 952–956 (one-house veto of Attorney General’s determination to suspend an alien’s deportation); Youngstown, 343 U. S., at 585, 587–589 (Presidential seizure and operation of steel mills).  As we have explained, there is no basis for concluding that any head of the FHFA lacked the authority to carry out the functions of the office.[23]
+
+															The shareholders claim to find implicit support for their argument in Seila Law and Bowsher, but they read far too much into those decisions.  In Seila Law,[24] after holding that the restriction on the removal of the CFPB Director was unconstitutional and severing that provision from the rest of the Dodd-Frank Act, we remanded the case so that the lower courts could decide whether, as the Government claimed, the Board’s issuance of an investigative demand had been ratified by an Acting Director who was removable at will by the President.  See 591 U. S., at ___ (slip op., at 36).  The shareholders argue that this disposition implicitly meant that the Director’s action would be void unless lawfully ratified, but we said no such thing.  The remand did not resolve any issue concerning ratification, including whether ratification was necessary.  And in Bowsher, after holding that the Gramm-Rudman-Hollings Act unconstitutionally authorized the Comptroller General to exercise executive power, the Court simply turned to the remedy specifically prescribed by Congress.  See 478 U. S., at 735.[25]  We therefore see no reason to hold that the third amendment must be completely undone.
+
+															That does not necessarily mean, however, that the shareholders have no entitlement to retrospective relief.  Although an unconstitutional provision is never really part of the body of governing law (because the Constitution automatically displaces any conflicting statutory provision from the moment of the provision’s enactment), it is still possible for an unconstitutional provision to inflict compensable harm.  And the possibility that the unconstitutional restriction on the President’s power to remove a Director of the FHFA could have such an effect cannot be ruled out.  Suppose, for example, that the President had attempted to remove a Director but was prevented from doing so by a lower court decision holding that he did not have “cause” for removal.  Or suppose that the President had made a public statement expressing displeasure with actions taken by a Director and had asserted that he would remove the Director if the statute did not stand in the way.  In those situations, the statutory provision would clearly cause harm.
+
+															In the present case, the situation is less clear-cut, but the shareholders nevertheless claim that the unconstitutional removal provision inflicted harm.  Were it not for that provision, they suggest, the President might have replaced one of the confirmed Directors who supervised the implementation of the third amendment, or a confirmed Director might have altered his behavior in a way that would have benefited the shareholders.
+
+															The federal parties dispute the possibility that the unconstitutional removal restriction caused any such harm.  They argue that, irrespective of the President’s power to remove the FHFA Director, he “retained the power to supervise the [Third] Amendment’s adoption . . . because FHFA’s counterparty to the Amendment was Treasury—an executive department led by a Secretary subject to removal at will by the President.”  Reply Brief for Federal Parties 43.  The parties’ arguments should be resolved in the first instance by the lower courts.[26]
+
+															*  *  *
+
+															The judgment of the Court of Appeals is affirmed in part, reversed in part, and vacated in part, and the case is remanded for further proceedings consistent with this  opinion.
+
+															It is so ordered.
+Notes
+1
+ Before the Recovery Act was enacted, Fannie Mae and Freddie Mac were regulated by the Office of Federal Housing Enterprise Oversight.  See Federal Housing Enterprises Financial Safety and Soundness Act of 1992, §§1311–1313,
+
+106Stat.
+3944–3946. 
+
+2
+ Receivership is mandatory in certain circumstances not relevant here.  See
+
+12 U. S. C. §4617(a)(4). 
+
+3
+ See Amended and Restated Senior Preferred Stock Purchase Agreement Between the United States Department of the Treasury and the Federal National Mortgage Association (Sept. 26, 2008); Amended and Restated Senior Preferred Stock Purchase Agreement Between the United States Department of the Treasury and the Federal Home Loan Mortgage Corporation (Sept. 26, 2008) (online sources archived at www.supremecourt.gov). 
+
+4
+ Treasury has the authority to waive this fee.  At the time this lawsuit was filed, Treasury had always exercised this option and had never received a periodic commitment fee from the companies.  See App. 61. 
+
+5
+ See Amendment to Amended and Restated Senior Preferred Stock Purchase Agreement Between the United States Department of the Treasury and Federal National Mortgage Association (May 6, 2009); Amendment to Amended and Restated Senior Preferred Stock Purchase Agreement Between the United States Department of the Treasury and Federal Home Loan Mortgage Corporation (May 6, 2009) (online sources archived at www.supremecourt.gov). 
+
+6
+ See
+ 
+Second Amendment to Amended and Restated Senior Preferred Stock Purchase Agreement Between the United States Department of the Treasury and Federal National Mortgage Association (Dec. 24, 2009);
+ 
+Second Amendment to Amended and Restated Senior Preferred Stock Purchase Agreement Between the United States Department of the Treasury and Federal Home Loan Mortgage Corporation (Dec. 24, 2009) (online sources archived at www.supremecourt.gov). 
+
+7
+ See
+ 
+Third Amendment to Amended and Restated Senior Preferred Stock Purchase Agreement Between the United State Department of the Treasury and Federal National Mortgage Association (Aug. 17, 2012);
+ 
+Third Amendment to Amended and Restated Senior Preferred Stock Purchase Agreement Between the United States Department of the Treasury and Federal Home Loan Mortgage Corporation (Aug. 17, 2012) (online sources archived at www.supremecourt.gov). 
+
+8
+ The capital reserve for each company began at $3 billion and was scheduled to decrease to zero by January 2018.  In December 2017, however, Treasury agreed to restore the reserve to $3 billion per company in return for a liquidation-preference increase of the same amount.  See Letters from S. Mnuchin, Secretary of Treasury, to M. Watt, Director of the FHFA (Dec. 21, 2017).  And in September 2019, Treasury agreed to raise the reserve to $25 billion for Fannie Mae and $20 billion for Freddie Mac, again in return for corresponding increases in the liquidation preference.  See Letters from S. Mnuchin, Secretary of Treasury, to M. Calabria, Director of the FHFA (Sept. 27, 2019) (online sources archived at www.supremecourt.gov). 
+
+9
+ See Fannie Mae, Form 10–K for Fiscal Year Ended Dec. 31, 2016, p. 120, https://www.fanniemae.com/media/26811/display; Freddie Mac, Form 10–K for Fiscal Year Ended Dec. 31, 2016, p. 283, https://www.freddiemac.com/investors/financials/pdf/10k_021617.pdf. 
+
+10
+ See Letters from S. Mnuchin, Secretary of Treasury, to M. Calabria, Director of the FHFA (Jan. 14, 2021) (online source archived at www.supremecourt.gov). 
+
+11
+ The shareholders also sued Treasury and its Secretary, contending that the Agency exceeded its statutory authority and acted arbitrarily and capriciously in adopting the third amendment.  The District Court dismissed these claims, the Fifth Circuit affirmed, and the shareholders did not seek review of those holdings in this Court. 
+
+12
+ By contrast, when the FHFA acts as a receiver, it is required to “place the regulated entity in liquidation and proceed to realize upon the assets of the regulated entity.”  §4617(b)(2)(E).  The roles of conservator and receiver are very different.  See §4617(a)(4)(D) (“The appointment of the Agency as receiver of a regulated entity under this section shall immediately terminate any conservatorship established for the regulated entity under this chapter”). 
+
+13
+ The senior preferred stock certificates provide: “[I]f at any time the Company shall have for any reason failed to pay dividends in cash in a timely manner as required by this Certificate, then immediately following such failure and for all Dividend Periods thereafter until the Dividend Period following the date on which the Company shall have paid in cash full cumulative dividends (including any unpaid dividends added to the Liquidation Preference . . . ), the ‘Dividend Rate’ shall mean 12.0%”).  App. 180, 198. 
+
+14
+ See Dept. of Treasury Press Release, Treasury Department and FHFA Amend Terms of Preferred Stock Purchase Agreements for Fannie Mae and Freddie Mac (Jan. 14, 2021), https://home.treasury.gov/news/press-releases/sm1236. 
+
+15
+ See Letter from E. Prelogar, Acting Solicitor General, to S. Harris, Clerk of Court (Mar. 18, 2021). 
+
+16
+ The federal parties also argue that the Recovery Act’s succession clause bars the shareholders’ statutory claim.  Because we have concluded that the statutory claim is already barred by the anti-injunction clause, we do not address this argument. 
+
+17
+ See Rop v. FHFA, 485 F. Supp. 3d 900, 915 (WD Mich. 2020). 
+
+18
+ In Wiener v. United States,
+
+357 U.S. 349 (1958), the Court read a removal restriction into the War Claims Act of 1948.  But it did so on the rationale that the War Claims Commission was an adjudicatory body, and as such, it had a unique need for “absolute freedom from Executive interference.”  Id., at 353, 355–356.  The FHFA is not an adjudicatory body, so Shurtleff, not Weiner, is the more applicable precedent. 
+
+19
+ Amicus argues that there is historical support for the removal restriction at issue here because the Comptroller of Currency and the members of the Sinking Fund Commission were subject to similar protection, but those agencies are materially different because neither of them operated beyond the President’s control, and one of them was led by a multi-member Commission.  As we explained in Seila Law, with the exception of a 1-year aberration during the Civil War, the Comptroller was removable at will by the President, who needed only to communicate the reasons for his decision to Congress.  591 U. S., at ___, n. 5 (slip op., at 19, n. 5).  And the Sinking Fund Commission, which Congress created to purchase U. S. securities following the Revolutionary War, was run by a 5-member Commission, and three of those Commissioners were part of the President’s Cabinet and therefore removable at will.  See An Act Making Provision for the Reduction of the Public Debt, ch. 47,
+
+1Stat.
+186 (1790). 
+
+20
+ Amicus claims that O’Melveny & Myers v. FDIC,
+
+512 U.S. 79 (1994), supports his argument, but that decision is far afield.  It held that state law, not federal common law, governed an attribute of the FDIC’s status as receiver for an insolvent savings bank.  Id., at 81–82.  The nature of the FDIC’s authority in that capacity sheds no light on the nature of the FHFA’s distinctive authority as conservator under the Recovery Act. 
+
+21
+ Amicus warns that if the Court holds that the Recovery Act’s removal restriction violates the Constitution, the decision will “call into question many other aspects of the Federal Government.”  Brief for Court-Appointed Amicus Curiae 47.  Amicus points to the Social Security Administration, the Office of Special Counsel, the Comptroller, “multi-member agencies for which the chair is nominated by the President and confirmed by the Senate to a fixed term,” and the Civil Service.  Id., at 48 (emphasis deleted).  None of these agencies is before us, and we do not comment on the constitutionality of any removal restriction that applies to their officers. 
+
+22
+ In the alternative, they request that the dividend payments be “recharacteriz[ed] . . . as a pay down of the liquidation preference and a corresponding redemption of Treasury’s Government Stock.”  App. 118. 
+
+23
+ Settled precedent also confirms that the unlawfulness of the removal provision does not strip the Director of the power to undertake the other responsibilities of his office, including implementing the third amendment.  See, e.g., Seila Law, 591 U. S., at ___–___ (slip op., at 30–36). 
+
+24
+ What we said about standing in Seila Law should not be misunderstood as a holding on a party’s entitlement to relief based on an unconstitutional removal restriction.  We held that a plaintiff that challenges a statutory restriction on the President’s power to remove an executive officer can establish standing by showing that it was harmed by an action that was taken by such an officer and that the plaintiff alleges was void.  See 591 U. S., at ___–___ (slip op., at 9–10).  But that holding on standing does not mean that actions taken by such an officer are void ab initio and must be undone.  Compare post, at 2 (Gorsuch, J., concurring in part). 
+
+25
+ In addition, the constitutional defect in Bowsher was different from the defect here.  In Bowsher, the Comptroller General, whom Congress had long viewed as “an officer of the Legislative Branch,” 478 U. S., at 731, was vested with executive power.  Here, the FHFA Director is clearly an executive officer.  See post, at 5–6 (Thomas, J., concurring). 
+
+26
+ The lower courts may also consider all issues related to the federal parties’ argument that the doctrine of laches precludes any relief.  The federal parties argue that Treasury was prejudiced by the shareholders’ delay in filing suit because, for some time after the third amendment was adopted, there was a chance that it would benefit the shareholders.  According to the federal parties, the shareholders waited to file suit until it became apparent that the third amendment would not have that effect. The shareholders respond that laches is inapplicable because they filed their complaint within the time allowed by the statute of limitations, and they argue that their delay did not cause prejudice because it was “mathematically impossible” for Treasury to make less money under the
+ 
+Third Amendment than under the prior regime.  Reply Brief for Collins et al. 4–5 (emphasis deleted).  We decline to decide this fact-bound question in the first instance. 
+
+

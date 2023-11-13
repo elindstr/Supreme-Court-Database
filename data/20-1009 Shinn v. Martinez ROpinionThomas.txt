@@ -1,0 +1,255 @@
+::SCDB_caseID:: 2021-010
+::decision_cite:: 20-1009
+::decision_name::  Shinn v. Martinez Ramirez
+::decision_year:: 2022
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–1009
+
+															_________________
+
+															DAVID SHINN, DIRECTOR, ARIZONA DEPARTMENT OF CORRECTIONS, REHABILITATION AND REENTRY, PETITIONER v. DAVID MARTINEZ RAMIREZ
+
+															DAVID SHINN, DIRECTOR, ARIZONA DEPARTMENT OF CORRECTIONS, REHABILITATION AND REENTRY, et al., PETITIONERS v.  BARRY LEE JONES
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[May 23, 2022]
+
+															Justice Thomas delivered the opinion of the Court.
+
+															A federal habeas court generally may consider a state prisoner’s federal claim only if he has first presented that claim to the state court in accordance with state procedures.  When the prisoner has failed to do so, and the state court would dismiss the claim on that basis, the claim is “procedurally defaulted.”  To overcome procedural default, the prisoner must demonstrate “cause” to excuse the procedural defect and “actual prejudice” if the federal court were to decline to hear his claim.  Coleman v. Thompson,
+
+501 U.S. 722, 750 (1991).  In Martinez v. Ryan,
+
+566 U.S. 1 (2012), this Court explained that ineffective assistance of postconviction counsel is “cause” to forgive procedural default of an ineffective-assistance-of-trial-counsel claim, but only if the State required the prisoner to raise that claim for the first time during state postconviction proceedings.
+
+															Often, a prisoner with a defaulted claim will ask a federal habeas court not only to consider his claim but also to permit him to introduce new evidence to support it.  Under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), the standard to expand the state-court record is a stringent one.  If a prisoner has “failed to develop the factual basis of a claim in State court proceedings,” a federal court “shall not hold an evidentiary hearing on the claim” unless the prisoner satisfies one of two narrow exceptions, see
+
+28 U. S. C. §2254(e)(2)(A), and demonstrates that the new evidence will establish his innocence “by clear and convincing evidence,” §2254(e)(2)(B).  In all but these extraordinary cases, AEDPA “bars evidentiary hearings in federal habeas proceedings initiated by state prisoners.”  McQuiggin v. Perkins,
+
+569 U.S. 383, 395 (2013).
+
+															The question presented is whether the equitable rule announced in Martinez permits a federal court to dispense with §2254(e)(2)’s narrow limits because a prisoner’s state postconviction counsel negligently failed to develop the state-court record.  We conclude that it does not.
+
+															I
+
+															In this case, we address two petitions brought by the State of Arizona.  See Ramirez v. Ryan, 937 F.3d 1230 (CA9 2019); Jones v. Shinn, 943 F.3d 1211 (CA9 2019).
+
+															A
+
+															On May 25, 1989, David Ramirez fatally stabbed his girlfriend, Mary Ann Gortarez, and her 15-year-old daughter, Candie, in their home.  937 F. 3d, at 1234–1235; State v. Ramirez, 178 Ariz. 116, 119, 121, 871 P.2d 237, 240, 242 (1994).  Ramirez stabbed Mary Ann 18 times in the neck with a pair of scissors, and Candie 15 times in the neck with a box cutter.  Id., at 121, 871 P. 2d, at 242.  Police also found physical evidence that Ramirez had raped Candie, and Ramirez later admitted that he had sex with the child on the night of the murders and four times before.  Ibid.  A jury convicted Ramirez of two counts of premeditated first- degree murder.  Ibid.  The trial court sentenced Ramirez to death, ibid., and the Arizona Supreme Court affirmed on direct review, id., at 132, 871 P. 2d, at 253.
+
+															Ramirez then filed his first petition for state postconviction relief.  That petition raised myriad claims, but it did not raise the one at issue here: that Ramirez’s trial counsel provided ineffective assistance for “failing to conduct a complete mitigation investigation” or “obtai[n] and present available mitigation evidence at sentencing.”  App. 402.  Ramirez did not raise this ineffective-assistance claim until he subsequently filed a successive state habeas petition, which the state court summarily denied as untimely under Arizona law.  See ibid.
+
+															Ramirez also petitioned the U. S. District Court for the District of Arizona for a writ of habeas corpus under
+
+28 U. S. C. §2254.  As relevant here, the District Court held that Ramirez had procedurally defaulted his ineffective- assistance claim by failing to raise it before the Arizona courts in a timely fashion.  See App. 402–403.  Ramirez responded that the District Court should forgive the procedural default because his state postconviction counsel was himself ineffective for failing to raise the trial-ineffective-assistance claim and develop the facts to support it.
+
+															The District Court permitted Ramirez to file several declarations and other evidence not presented to the state court to support his request to excuse his procedural default.  See 937 F. 3d, at 1238.  Assessing the new evidence, the District Court excused the procedural default but rejected Ramirez’s ineffective-assistance claim on the merits.  See id., at 1240.
+
+															The Ninth Circuit reversed and remanded.  Like the District Court, it held that Ramirez’s state postconviction counsel’s failure to raise and develop the trial-ineffective-assistance claim was cause to forgive the procedural default.  See id., at 1247–1248.  The Ninth Circuit also held that Ramirez’s underlying trial-ineffective-assistance claim was substantial, and that Ramirez therefore had suffered prejudice.  See id., at 1243–1247.  But, unlike the District Court, the Court of Appeals declined to decide the merits of Ramirez’s claim.  The court remanded the case for further factfinding because, in its view, Ramirez was “entitled to evidentiary development to litigate the merits of his ineffective assistance of trial counsel claim.” Id., at 1248.
+
+															Arizona petitioned for rehearing en banc, arguing that the Ninth Circuit’s remand for additional evidentiary development violated
+
+28 U. S. C. §2254(e)(2).  The Ninth Circuit denied rehearing over an eight-judge dissent by Judge Collins.  See 971 F.3d 1116 (2020).
+
+															B
+
+															On May 1, 1994, Barry Lee Jones repeatedly beat his girlfriend’s 4-year-old daughter, Rachel Gray.  See 943 F. 3d, at 1215–1216; State v. Jones, 188 Ariz. 388, 391, 937 P.2d 310, 313 (1997).  One blow to Rachel’s abdomen ruptured her small intestine.  See id., at 391, 937 P. 2d, at 313.  She also sustained several injuries to her vagina and labia consistent with sexual assault.  Ibid.  Early the next morning, Jones drove Rachel to the hospital, where she was pronounced dead on arrival.  See ibid.  Rachel died of peritonitis—“an infection of the lining of the abdomen caused by a ruptured intestine.”  Ibid.  A jury convicted Jones of sexual assault, three counts of child abuse, and felony murder.  Ibid.  The trial judge sentenced Jones to death, ibid., and the Arizona Supreme Court affirmed on direct review, see id., at 401, 937 P. 2d, at 323.
+
+															Jones then petitioned for state postconviction relief.  He alleged ineffective assistance by his trial counsel, but not the specific trial-ineffective-assistance claim at issue here: that his counsel “fail[ed] to conduct sufficient trial investigation.”  943 F. 3d, at 1218.  The Arizona Supreme Court summarily denied relief.  See ibid.
+
+															Jones next filed a habeas petition in the U. S. District Court for the District of Arizona.  The District Court held that Jones’ trial-ineffective-assistance claim was procedurally defaulted, so Jones, like Ramirez, invoked his postconviction counsel’s ineffective assistance as grounds to forgive the default.  Ibid.  To bolster his case for cause and prejudice, Jones also moved to supplement the undeveloped state-court record.  Ibid.  The District Court held a 7-day evidentiary hearing with more than 10 witnesses and ultimately decided to forgive Jones’ procedural default.  See id., at 1219, 1225–1226.  The court then relied on the new evidence from the cause-and-prejudice hearing to hold, on the merits, that Jones’ trial counsel had provided ineffective assistance.  See id., at 1219.
+
+															Arizona appealed, arguing that §2254(e)(2) did not permit the evidentiary hearing.  The Ninth Circuit affirmed, holding that §2254(e)(2) did not apply because Jones’ state postconviction counsel was ineffective for failing to develop the state-court record for Jones’ trial-ineffective-assistance claim.  See id., at 1220–1222.
+
+															As in Ramirez, Arizona petitioned for rehearing en banc.  And, also as in Ramirez, the Ninth Circuit denied Arizona’s petition over the dissent of Judge Collins, joined by seven other judges. Jones v. Shinn, 971 F.3d 1133 (2020).
+
+															C
+
+															As noted above, Arizona petitioned for a writ of certiorari in both Ramirez and Jones.  The State maintains that
+
+28 U. S. C. §2254(e)(2) does not permit a federal court to order evidentiary development simply because postconviction counsel is alleged to have negligently failed to develop the state-court record.  Respondents do not dispute, and therefore concede, that their habeas petitions fail on the state-court record alone.  We granted certiorari, 593 U. S. ___ (2021).[1]
+
+															II
+
+															A state prisoner may request that a federal court order his release by petitioning for a writ of habeas corpus.  See
+
+28 U. S. C. §2254.  The writ may issue “only on the ground that [the prisoner] is in custody in violation of the Constitution or laws or treaties of the United States.”  §2254(a).  To respect our system of dual sovereignty, see Printz v. United States,
+
+521 U.S. 898, 918 (1997), the availability of habeas relief is narrowly circumscribed, see Brown v. Davenport, 596 U. S. ___, ___–___ (2022) (slip op., at 11–14).  Among other restrictions, only rarely may a federal habeas court hear a claim or consider evidence that a prisoner did not previously present to the state courts in compliance with state procedural rules.
+
+															A
+
+															“From the beginning of our country, criminal law enforcement has been primarily a responsibility of the States.”  Kansas v. Garcia, 589 U. S. ___, ___ (2020) (slip op., at 19).  The power to convict and punish criminals lies at the heart of the States’ “residuary and inviolable sovereignty.”  The Federalist No. 39, p. 245 (C. Rossiter ed. 1961) (J. Madison); see also Gamble v. United States, 587 U. S. ___, ___–___ (2019) (slip op., at 9–10).  Thus, “[t]he States possess primary authority for defining and enforcing the criminal law,” Engle v. Isaac,
+
+456 U.S. 107, 128 (1982), and for adjudicating “constitutional challenges to state convictions,” Harrington v. Richter,
+
+562 U.S. 86, 103 (2011).
+
+															Because federal habeas review overrides the States’ core power to enforce criminal law, it “intrudes on state sovereignty to a degree matched by few exercises of federal judicial authority.”  Ibid. (internal quotation marks omitted).  That intrusion “imposes special costs on our federal system.”  Engle, 456 U. S., at 128; see also Kuhlmann v. Wilson,
+
+477 U.S. 436, 453, n. 16 (1986); Davila v. Davis, 582 U. S. ___, ___ (2017) (slip op., at 15).  Here, two of those costs are particularly relevant.
+
+															First, a federal order to retry or release a state prisoner overrides the State’s sovereign power to enforce “societal norms through criminal law.”  Calderon v. Thompson,
+
+523 U.S. 538, 556 (1998) (internal quotation marks omitted).  That is so because habeas relief “frequently cost[s] society the right to punish admitted offenders.”  Engle, 456 U. S., at 127; see also Edwards v. Vannoy, 593 U. S. ___, ___ (2021) (slip op., at 6) (“When previously convicted perpetrators of violent crimes go free merely because the evidence needed to conduct a retrial has become stale or is no longer available, the public suffers, as do the victims”).  “Only with real finality can the victims of crime move forward knowing the moral judgment will be carried out.”  Calderon, 523 U. S., at 556.  “To unsettle these expectations is to inflict a profound injury to the powerful and legitimate interest in punishing the guilty, an interest shared by the State and the victims of crime alike.”  Ibid. (internal quotation marks and citation omitted).
+
+															Second, federal intervention imposes significant costs on state criminal justice systems.  It “disturbs the State’s significant interest in repose for concluded litigation,” Harrington, 562 U. S., at 103 (internal quotation marks omitted), and undermines the States’ investment in their criminal trials.  If the state trial is merely a “ ‘tryout on the road’ ” to federal habeas relief, that “detract[s] from the perception of the trial of a criminal case in state court as a decisive and portentous event.”  Wainwright v. Sykes,
+
+433 U.S. 72, 90 (1977).
+
+															B
+
+															In light of these significant costs, we have recognized that federal habeas review cannot serve as “a substitute for ordinary error correction through appeal.”  Harrington, 562 U. S., at 102–103.  The writ of habeas corpus is an “extraordinary remedy” that guards only against “extreme malfunctions in the state criminal justice systems.”  Id., at 102 (internal quotation marks omitted); see also Brecht v. Abrahamson,
+
+507 U.S. 619, 633–634 (1993).  To ensure that federal habeas corpus retains its narrow role, AEDPA imposes several limits on habeas relief, and we have prescribed several more.  See, e.g., Brown, 596 U. S., at ___–___ (slip op., at 11–13).  And even if a prisoner overcomes all of these limits, he is never entitled to habeas relief.  He must still “persuade a federal habeas court that law and justice require [it].”  Id., at ___ (slip op., at 11) (internal quotation marks omitted).
+
+															As relevant here, both Congress and federal habeas courts have set out strict rules requiring prisoners to raise all of their federal claims in state court before seeking federal relief.  First, AEDPA requires state prisoners to “exhaus[t] the remedies available in the courts of the State” before seeking federal habeas relief.
+
+28 U. S. C. §2254(b)(1)(A).  Ordinarily, a state prisoner satisfies this exhaustion requirement by raising his federal claim before the state courts in accordance with state procedures.  See O’Sullivan v. Boerckel,
+
+526 U.S. 838, 848 (1999).  If he does so, a federal habeas court may hear his claim, but its review is highly circumscribed.  In particular, the federal court may review the claim based solely on the state-court record, see Cullen v. Pinholster,
+
+563 U.S. 170, 180 (2011), and the prisoner must demonstrate that, under this Court’s precedents, no “fairminded juris[t]” could have reached the same judgment as the state court, Harrington, 562 U. S., at 102; see §2254(d).
+
+															State prisoners, however, often fail to raise their federal claims in compliance with state procedures, or even raise those claims in state court at all.  If a state court would dismiss these claims for their procedural failures, such claims are technically exhausted because, in the habeas context, “state-court remedies are . . . ‘exhausted’ when they are no longer available, regardless of the reason for their unavailability.”  Woodford v. Ngo,
+
+548 U.S. 81, 92–93 (2006).  But to allow a state prisoner simply to ignore state procedure on the way to federal court would defeat the evident goal of the exhaustion rule.  See Coleman, 501 U. S., at 732.  Thus, federal habeas courts must apply “an important ‘corollary’ to the exhaustion requirement”: the doctrine of procedural default.  Davila, 582 U. S., at ___ (slip op., at 4).  Under that doctrine, federal courts generally decline to hear any federal claim that was not presented to the state courts “consistent with [the State’s] own procedural rules.”  Edwards v. Carpenter,
+
+529 U.S. 446, 453 (2000).
+
+															Together, exhaustion and procedural default promote federal-state comity.  Exhaustion affords States “an initial opportunity to pass upon and correct alleged violations of prisoners’ federal rights,” Duckworth v. Serrano,
+
+454 U.S. 1, 3 (1981) (per curiam), and procedural default protects against “the significant harm to the States that results from the failure of federal courts to respect” state procedural rules, Coleman, 501 U. S., at 750.  Ultimately, “it would be unseemly in our dual system of government for a federal district court to upset a state court conviction without [giving] an opportunity to the state courts to correct a constitutional violation,” Darr v. Burford,
+
+339 U.S. 200, 204 (1950), and to do so consistent with their own procedures, see Edwards, 529 U. S., at 452–453.
+
+															C
+
+															Despite the many benefits of exhaustion and procedural default, and the substantial costs when those doctrines are not enforced, we have held that a federal court is not required to automatically deny unexhausted or procedurally defaulted claims.  When a claim is unexhausted, the prisoner might have an opportunity to return to state court to adjudicate the claim.  See, e.g., Rose v. Lundy,
+
+455 U.S. 509, 520 (1982).  When a claim is procedurally defaulted, a federal court can forgive the default and adjudicate the claim if the prisoner provides an adequate excuse.  Likewise, if the state-court record for that defaulted claim is undeveloped, the prisoner must show that factual development in federal court is appropriate.
+
+															1
+
+															“Out of respect for finality, comity, and the orderly administration of justice,” Dretke v. Haley,
+
+541 U.S. 386, 388 (2004), federal courts may excuse procedural default only if a prisoner “can demonstrate cause for the default and actual prejudice as a result of the alleged violation of federal law,” Coleman, 501 U. S., at 750.  To establish cause, the prisoner must “show that some objective factor external to the defense impeded counsel’s efforts to comply with the State’s procedural rule.”  Murray v. Carrier,
+
+477 U.S. 478, 488 (1986).  Then, to establish prejudice, the prisoner must show not merely a substantial federal claim, such that “ ‘the errors at . . . trial created a possibility of prejudice,” but rather that the constitutional violation “worked to his actual and substantial disadvantage.’ ”  Id., at 494 (quoting United States v. Frady,
+
+456 U.S. 152, 170 (1982)).
+
+															With respect to cause, “[a]ttorney ignorance or inadvertence” cannot excuse procedural default.  Coleman, 501 U. S., at 753.  “[T]he attorney is the petitioner’s agent when acting, or failing to act, in furtherance of the litigation, and the petitioner must bear the risk of attorney error.”  Ibid. (internal quotation marks omitted).  That said, “if the procedural default is the result of ineffective assistance of counsel, the
+ 
+Sixth Amendment itself requires that responsibility for the default be imputed to the State.”  Murray, 477 U. S., at 488.  That is not because a constitutional error “is so bad that the lawyer ceases to be an agent” of the prisoner, but rather because a violation of the right to counsel “must be seen as an external factor” to the prisoner’s defense.  Coleman, 501 U. S., at 754 (internal quotation marks omitted).  “It follows, then, that in proceedings for which the Constitution does not guarantee the assistance of counsel at all, attorney error cannot provide cause to excuse a default.”  Davila, 582 U. S., at ___ (slip op., at 6).
+
+															In Martinez, this Court recognized a “narrow exception” to the rule that attorney error cannot establish cause to excuse a procedural default unless it violates the Constitution.  566 U. S., at 9.  There, the Court held that ineffective assistance of state postconviction counsel may constitute “cause” to forgive procedural default of a trial-ineffective-assistance claim, but only if the State requires prisoners to raise such claims for the first time during state collateral proceedings.  See ibid.  One year later, in Trevino v. Thaler,
+
+569 U.S. 413 (2013), this Court held that this “narrow exception” applies if the State’s judicial system effectively forecloses direct review of trial-ineffective-assistance claims.  Id., at 428.  Otherwise, attorney error where there is no right to counsel remains insufficient to show cause.  Martinez, 566 U. S., at 16.
+
+															2
+
+															There is an even higher bar for excusing a prisoner’s failure to develop the state-court record.  Shortly before AEDPA, we held that a prisoner who “negligently failed” to develop the state-court record must satisfy Coleman’s cause-and-prejudice standard before a federal court can hold an evidentiary hearing.  Keeney v. Tamayo-Reyes,
+
+504 U.S. 1, 9 (1992).  In Keeney, we explained that “little [could] be said for holding a habeas petitioner to one standard for failing to bring a claim in state court and excusing the petitioner under another, lower standard for failing to develop the factual basis of that claim in the same forum.”  Id., at 10.  And, consistent with Coleman, we held that evidentiary development would be inappropriate “where the cause asserted is attorney error.”  504 U. S., at 11, n. 5.
+
+															Four years later, Congress enacted AEDPA and replaced Keeney’s cause-and-prejudice standard for evidentiary development with the even “more stringent requirements” now codified at
+
+28 U. S. C. §2254(e)(2).  Williams v. Taylor,
+
+529 U.S. 420, 433 (2000) (Michael Williams).  Section 2254(e)(2) provides that, if a prisoner “has failed to develop the factual basis of a claim in State court proceedings,” a federal court may hold “an evidentiary hearing on the claim” in only two limited scenarios.  Either the claim must rely on (1) a “new” and “previously unavailable” “rule of constitutional law” made retroactively applicable by this Court, or (2) “a factual predicate that could not have been previously discovered through the exercise of due diligence.”  §§2254(e)(2)(A)(i), (ii).  If a prisoner can satisfy either of these exceptions, he also must show that further factfinding would demonstrate, “by clear and convincing evidence,” that “no reasonable factfinder” would have convicted him of the crime charged.  §2254(e)(2)(B).  Finally, even if all of these requirements are satisfied, a federal habeas court still is not required to hold a hearing or take any evidence.  Like the decision to grant habeas relief itself, the decision to permit new evidence must be informed by principles of comity and finality that govern every federal habeas case.  Cf. Brown, 596 U. S., at ___–___ (slip op., at 13–14).
+
+															Even though AEDPA largely displaced Keeney, §2254(e)(2) retained “one aspect of Keeney’s holding.”  Michael Williams, 529 U. S., at 433.  Namely, §2254(e)(2) applies only when a prisoner “has failed to develop the factual basis of a claim.”  We interpret “fail,” consistent with Keeney, to mean that the prisoner must be “at fault” for the undeveloped record in state court.  529 U. S., at 432.  A prisoner is “at fault” if he “bears responsibility for the failure” to develop the record.  Ibid.
+
+															III
+
+															Respondents concede that they do not satisfy §2254(e)(2)’s narrow exceptions.  Nonetheless, the Court of Appeals forgave respondents’ failures to develop the state-court record because, in its view, they each received ineffective assistance of state postconviction counsel.  We now hold that, under §2254(e)(2), a federal habeas court may not conduct an evidentiary hearing or otherwise consider evidence beyond the state-court record based on ineffective assistance of state postconviction counsel.
+
+															A
+
+															Respondents’ primary claim is that a prisoner is not “at fault,” Michael Williams, 529 U. S., at 432, and therefore has not “failed to develop the factual basis of a claim in State court proceedings,” §2254(e)(2), if state postconviction counsel negligently failed to develop the state record for a claim of ineffective assistance of trial counsel.  But under AEDPA and our precedents, state postconviction counsel’s ineffective assistance in developing the state-court record is attributed to the prisoner.
+
+															1
+
+															As stated above, a prisoner “bears the risk in federal habeas for all attorney errors made in the course of the representation,” Coleman, 501 U. S., at 754, unless counsel provides “constitutionally ineffective” assistance, Murray, 477 U. S., at 488.  And, because there is no constitutional right to counsel in state postconviction proceedings, see Davila, 582 U. S., at ___ (slip op., at 6), a prisoner ordinarily must “bea[r] responsibility” for all attorney errors during those proceedings, Michael Williams, 529 U. S., at 432.  Among those errors, a state prisoner is responsible for counsel’s negligent failure to develop the state postconviction record.
+
+															Both before and after AEDPA, our prior cases have made this point clear.  First, in Keeney, “material facts had not been adequately developed in the state postconviction court, apparently due to the negligence of postconviction counsel.”  504 U. S., at 4 (citation omitted).  We required the prisoner to demonstrate cause and prejudice to forgive postconviction counsel’s deficient performance, see id., at 11, and recognized that counsel’s negligence, on its own, was not a sufficient cause, see id., at 10, n. 5.
+
+															Second, in Michael Williams, we confirmed that “the opening clause of §2254(e)(2) codifies Keeney’s threshold standard of diligence, so that prisoners who would have had to satisfy Keeney’s [cause-and-prejudice] test . . . are now controlled by §2254(e)(2).”  529 U. S., at 434.  In other words, because Keeney held a prisoner responsible for state postconviction counsel’s negligent failure to develop the state-court record, the same rule applied under §2254(e)(2).  For that reason, “a failure to develop the factual basis of a claim,” as §2254(e)(2) requires, “is not established unless there is lack of diligence, or some greater fault, attributable to the prisoner or the prisoner’s counsel.”  529 U. S., at 432 (emphasis added).  We then applied that rule and held that state postconviction counsel’s “failure to investigate . . . in anything but a cursory manner trigger[ed] the opening clause of §2254(e)(2).”  Id., at 439–440.
+
+															Third, in Holland v. Jackson,
+
+542 U.S. 649 (2004) (per curiam), we again held a prisoner responsible for state postconviction counsel’s negligent failure to develop the state-court record.  Seven years after the prisoner’s conviction, and after he had already been denied state postconviction relief, the prisoner found a new witness to provide impeachment testimony.  See id., at 650–651.  The prisoner claimed that he discovered the witness so late because “state postconviction counsel did not heed his pleas for assistance.”  Id., at 653.  Citing Coleman and Michael Williams, we rejected the prisoner’s claim.  “Attorney negligence,” we held, “is chargeable to the client and precludes relief unless the conditions of §2254(e)(2) are satisfied.”  542 U. S., at 653.
+
+															In sum, under §2254(e)(2), a prisoner is “at fault” even when state postconviction counsel is negligent.  In such a case, a federal court may order an evidentiary hearing or otherwise expand the state-court record only if the prisoner can satisfy §2254(e)(2)’s stringent requirements.
+
+															2
+
+															Respondents dispute none of this.  Instead, they rely almost exclusively on Martinez’s holding that ineffective assistance of postconviction counsel can be “cause” to forgive procedural default of a trial-ineffective-assistance claim if a State forecloses direct review of that claim, as Arizona concededly does.  See 566 U. S., at 9.  Respondents contend that where, per Martinez, a prisoner is not responsible for state postconviction counsel’s failure to raise a claim, it makes little sense to hold the prisoner responsible for the failure to develop that claim.  Thus, respondents propose extending Martinez so that ineffective assistance of postconviction counsel can excuse a prisoner’s failure to develop the state-court record under §2254(e)(2).
+
+															Congress foreclosed respondents’ proposed expansion of Martinez when it passed AEDPA.  Martinez decided that, in the exercise of our “equitable judgment” and “discretion,” it was appropriate to modify “[t]he rules for when a prisoner may establish cause to excuse a procedural default.”  Id., at 13.  Such “exceptions” to procedural default “are judge-made rules” that we may modify “only when necessary.”  Dretke, 541 U. S., at 394.  Here, however, §2254(e)(2) is a statute that we have no authority to amend.  “Where Congress has erected a constitutionally valid barrier to habeas relief, a court cannot decline to give it effect.”  McQuiggin, 569 U. S., at 402 (Scalia, J., dissenting); see also Ex parte Bollman, 4 Cranch 75, 94 (1807) (Marshall, C. J., for the Court).  For example, in McQuiggin, we explained that we have no power to layer a miscarriage-of-justice or actual-innocence exception on top of the narrow limitations already included in §2254(e)(2).  See 569 U. S., at 395–396 (majority opinion).
+
+															The same follows here.  We have no power to redefine when a prisoner “has failed to develop the factual basis of a claim in State court proceedings.”  §2254(e)(2).  Before AEDPA, Keeney held that “attorney error” during state postconviction proceedings was not cause to excuse an undeveloped state-court record.  504 U. S., at 11, n. 5.  And, in Michael Williams, we acknowledged that §2254(e)(2) “raised the bar Keeney imposed on prisoners who were not diligent in state-court proceedings,” 529 U. S., at 433, while reaffirming that prisoners are responsible for attorney error, see id., at 432.  Yet here, respondents claim that attorney error alone permits a federal court to expand the federal habeas record.  That result makes factfinding more readily available than Keeney envisioned pre-AEDPA and ignores Michael Williams’ admonition that “[c]ounsel’s failure” to perform as a “diligent attorney” “triggers the opening clause of §2254(e)(2).”  529 U. S., at 439–440.  We simply cannot square respondents’ proposed result with AEDPA or our precedents.
+
+															Respondents propose that Congress may have actually invited their judicial update.  According to respondents, Martinez explained that Coleman left open whether ineffective assistance of state postconviction counsel might one day be cause to forgive procedural default, at least in an “initial-review collateral proceeding,” Martinez, 566 U. S., at 5, “where state collateral review is the first place a prisoner can present a challenge to his conviction,” Coleman, 501 U. S., at 755.  Respondents contend that Congress might have enacted §2254(e)(2) with the expectation that this Court one day would open that door.
+
+															We do not agree.  First, “[g]iven our frequent recognition that AEDPA limited rather than expanded the availability of habeas relief . . . it is implausible that, without saying so,” Fry v. Pliler,
+
+551 U.S. 112, 119 (2007), Congress intended this Court to liberalize the availability of habeas relief generally, or access to federal factfinding specifically.  Second, in Coleman, we “reiterate[d] that counsel’s ineffectiveness will constitute cause only if it is an independent constitutional violation,” and surmised that a hypothetical constitutional right to initial-review postconviction counsel could give rise to a corresponding claim for cause.  501 U. S., at 755; see also Martinez, 566 U. S., at 8–9.  Since then, however, we have repeatedly reaffirmed that there is no constitutional right to counsel in state postconviction proceedings.  See, e.g., Davila, 582 U. S., at ___ (slip op., at 6).
+
+															We also reject respondents’ equitable rewrite of §2254(e)(2) because it lacks any principled limit.  This Court’s holding in Martinez addressed only one kind of claim: ineffective assistance of trial counsel.  See 566 U. S., at 9.  We limited our holding in that way to reflect our “equitable judgment” that trial-ineffective-assistance claims are uniquely important.  Id., at 12–13.  Respondents propose that we similarly should permit factual development under §2254(e)(2) only for trial-ineffective-assistance claims.  But §2254(e)(2) applies whenever any state prisoner “failed to develop the factual basis of a claim,” §2254(e)(2) (emphasis added), without limitation to any specific claim.  There would be no reason to limit respondents’ reconstruction of §2254(e)(2) as they propose.  Unlike for procedural default, we lack equitable authority to amend a statute to address only a subset of claims.  Thus, if a prisoner were not “at fault” under §2254(e)(2) simply because postconviction counsel provided ineffective assistance, Michael Williams, 529 U. S., at 432, the prisoner’s blamelessness necessarily would extend to any claim that postconviction counsel negligently failed to develop.  Not even Martinez sweeps that broadly.
+
+															Finally, setting aside that we lack authority to amend §2254(e)(2)’s clear text, Martinez itself cuts against respondents’ proposed result.  Martinez was “unusually explicit about the narrowness of our decision.”  Trevino, 569 U. S., at 431 (Roberts, C. J., dissenting).  The Court left no doubt that “[t]he rule of Coleman governs in all but the limited circumstances recognized here.”  Martinez, 566 U. S., at 16 (emphasis added).  “This aggressively limiting language was not simply a customary nod to the truism that we decide only the case before us.”  Trevino, 569 U. S., at 432 (Roberts, C. J., dissenting) (internal quotation marks omitted).  “It was instead an important part” of the Court’s holding.  Ibid.  In short, Martinez foreclosed any extension of its holding beyond the “narrow exception” to procedural default at issue in that case.  566 U. S., at 9.
+
+															To be sure, Martinez recognized that state prisoners often need “evidence outside the trial record” to support their trial-ineffective-assistance claims.  Id., at 13.  But Martinez did not prescribe largely unbounded access to new evidence whenever postconviction counsel is ineffective, as respondents propose.  Rather, Martinez recognized our overarching responsibility “to ensure that state-court judgments are accorded the finality and respect necessary to preserve the integrity of legal proceedings within our system of federalism.”  Id., at 9.  In particular, the Court explained that its “holding . . . ought not to put a significant strain on state resources,” because a State “faced with the question whether there is cause for an apparent default . . . may answer” that the defaulted claim “is wholly without factual support.”  Id., at 15–16.  That assurance has bite only if the State can rely on the state-court record.  Otherwise, “federal habeas courts would routinely be required to hold evidentiary hearings to determine” whether state postconviction counsel’s factfinding fell short.  Murray, 477 U. S., at 487.
+
+															The cases under review demonstrate the improper burden imposed on the States when Martinez applies beyond its narrow scope.  The sprawling evidentiary hearing in Jones is particularly poignant.  Ostensibly to assess cause and prejudice under Martinez, the District Court ordered a 7-day hearing that included testimony from no fewer than 10 witnesses, including defense trial counsel, defense postconviction counsel, the lead investigating detective, three forensic pathologists, an emergency medicine and trauma specialist, a biomechanics and functional human anatomy expert, and a crime scene and bloodstain pattern analyst.  See 943 F. 3d, at 1219, 1225–1226.  Of these witnesses, only one of the forensic pathologists and the lead detective testified at the original trial.  See id., at 1223–1225.  The remainder testified on virtually every disputed issue in the case, including the timing of Rachel Gray’s injuries and her cause of death.  See id., at 1226–1228.  This wholesale relitigation of Jones’ guilt is plainly not what Martinez envisioned.
+
+															B
+
+															Martinez aside, respondents propose a second reading of §2254(e)(2) that supposedly permits consideration of new evidence in their habeas cases.  Their interpretation proceeds in two steps.  First, respondents argue that because §2254(e)(2) bars only “an evidentiary hearing on the claim,” a federal court may hold an evidentiary hearing to determine whether there is cause and prejudice.  In respondents’ view, a so-called “Martinez hearing” is not a “hearing on the claim.”  §2254(e)(2) (emphasis added).  Second, with that evidence admitted for cause and prejudice, respondents contend that the habeas court may then consider the new evidence to evaluate the merits of the underlying ineffective-assistance claim.  By considering already admitted evidence, respondents reason, the habeas court is not holding a “hearing” that §2254(e)(2) otherwise would prohibit.  Ibid.
+
+															There are good reasons to doubt respondents’ first point, but we need not address it because our precedent squarely forecloses the second.  In Holland, we explained that §2254(e)(2)’s “restrictions apply a fortiori when a prisoner seeks relief based on new evidence without an evidentiary hearing.”  542 U. S., at 653 (emphasis deleted).  The basis for our decision was obvious: A contrary reading would have countenanced an end-run around the statute.  Federal habeas courts could have accepted any new evidence so long as they avoided labeling their intake of the evidence as a “hearing.”  Therefore, when a federal habeas court convenes an evidentiary hearing for any purpose, or otherwise admits or reviews new evidence for any purpose, it may not consider that evidence on the merits of a negligent prisoner’s defaulted claim unless the exceptions in §2254(e)(2) are satisfied.
+
+															Respondents all but concede that their argument amounts to the same kind of evasion of §2254(e)(2) that we rejected in Holland.  They nonetheless object that Holland renders many Martinez hearings a nullity, because there is no point in developing a record for cause and prejudice if a federal court cannot later consider that evidence on the merits.  While we agree that any such Martinez hearing would serve no purpose, that is a reason to dispense with Martinez hearings altogether, not to set §2254(e)(2) aside.  Thus, if that provision applies and the prisoner cannot satisfy its “stringent requirements,” Michael Williams, 529 U. S., at 433, a federal court may not hold an evidentiary hearing—or otherwise consider new evidence—to assess cause and prejudice under Martinez.
+
+															This follows from our decision in Schriro v. Landrigan,
+
+550 U.S. 465 (2007).  There, we held that a federal court, “[i]n deciding whether to grant an evidentiary hearing, . . . must consider whether such a hearing could enable an applicant to prove . . . factual allegations [that] would entitle [him] to federal habeas relief.”  Id., at 474.  “This approach makes eminent sense,” for if “district courts held evidentiary hearings without first asking whether the evidence the petitioner seeks to present would satisfy AEDPA’s demanding standards, they would needlessly prolong federal habeas proceedings.”  Cullen, 563 U. S., at 208–209 (Sotomayor, J., dissenting).  Here, holding a Martinez hearing when the prisoner cannot “satisfy AEDPA’s demanding standards” in §2254(e)(2) would “prolong federal habeas proceedings” with no purpose.  563 U. S., at 209 (Sotomayor, J., dissenting).  And because a federal habeas court may never “needlessly prolong” a habeas case, ibid., particularly given the “essential” need to promote the finality of state convictions, Calderon, 523 U. S., at 555, a Martinez hearing is improper if the newly developed evidence never would “entitle [the prisoner] to federal habeas relief,” Schriro, 550 U. S., at 474.
+
+															C
+
+															Ultimately, respondents’ proposed expansion of factfinding in federal court, whether by Martinez or other means, conflicts with any appropriately limited federal habeas review.  In our dual-sovereign system, federal courts must afford unwavering respect to the centrality “of the trial of a criminal case in state court.”  Wainwright, 433 U. S., at 90.  That is the moment at which “[s]ociety’s resources have been concentrated . . . in order to decide, within the limits of human fallibility, the question of guilt or innocence of one of its citizens.”  Ibid.; see also Herrera v. Collins,
+
+506 U.S. 390, 416 (1993); Davila, 582 U. S., at ___ (slip op., at 8).  Such intervention is also an affront to the State and its citizens who returned a verdict of guilt after considering the evidence before them.  Federal courts, years later, lack the competence and authority to relitigate a State’s criminal case.
+
+															The dissent contends that we “overstat[e] the harm to States that would result from allowing” prisoners to develop evidence outside §2254(e)(2)’s narrow exceptions.  Post, at 17.  Not so.  Serial relitigation of final convictions undermines the finality that “is essential to both the retributive and deterrent functions of criminal law.”  Calderon, 523 U. S., at 555; see also Engle, 456 U. S., at 126–127, and n. 32.  Further, broadly available habeas relief encourages prisoners to “ ‘sandba[g]’ ” state courts by “select[ing] a few promising claims for airing” on state postconviction review, “while reserving others for federal habeas review” should state proceedings come up short.  Murray, 477 U. S., at 492; see also Wainwright, 433 U. S., at 89.  State prisoners already have a strong incentive to save claims for federal habeas proceedings in order to avoid the highly deferential standard of review that applies to claims properly raised in state court.  See §2254(d); Harrington, 562 U. S., at 105.  Permitting federal factfinding would encourage yet more federal litigation of defaulted claims.
+
+															*  *  *
+
+															Because we have no warrant to impose any factfinding beyond §2254(e)(2)’s narrow exceptions to AEDPA’s “genera[l] ba[r on] evidentiary hearings,” McQuiggin, 569 U. S., at 395, we reverse the judgments of the Court of Appeals.
+
+															
+
+															It is so ordered.
+Notes
+1
+Ramirez alleges that Arizona forfeited any §2254(e)(2) argument in his case because it did not object to some evidentiary development in the District Court or before the Ninth Circuit panel.  But Arizona did object to further factfinding before the Ninth Circuit panel, see Respondents-Appellees’ Answering Brief in Ramirez v. Ryan, No. 10–99023 (CA9), ECF Doc. 37, p. 58, and, in any event, the Ninth Circuit passed upon §2254(e)(2) when it ordered additional factfinding on remand, see United States v. Williams,
+
+504 U.S. 36, 41 (1992).  Further, because we have discretion to forgive any forfeiture, and because “our deciding the matter now will reduce the likelihood of further litigation” in a 30-year-old murder case, Polar Tankers, Inc. v. City of Valdez,
+
+557 U.S. 1, 14 (2009) (plurality opinion), we choose to forgive the State’s forfeiture before the District Court. 
+
+

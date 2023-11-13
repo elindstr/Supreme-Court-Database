@@ -1,0 +1,144 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-86
+::decision_name::  Axon Enterprise, Inc. v. Federal Trade Commission
+::decision_year:: 2023
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 21–86 and 21–1239
+
+															_________________
+
+															AXON ENTERPRISE, INC., PETITIONER
+
+															21–86v.
+
+															FEDERAL TRADE COMMISSION, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															
+
+															SECURITIES AND EXCHANGE COMMISSION, et al., PETITIONERS
+
+															21–1239v.
+
+															MICHELLE COCHRAN
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[April 14, 2023]
+
+															
+
+															Justice Thomas, concurring.
+
+															I join the Court’s opinion in full because it correctly applies precedent to determine that Axon Enterprise’s and Michelle Cochran’s structural constitutional claims need not be channeled through the administrative review schemes at issue.  I write separately, however, because I have grave doubts about the constitutional propriety of Congress vesting administrative agencies with primary authority to adjudicate core private rights with only deferential judicial review on the back end.
+
+															I
+
+															A
+
+															The Court correctly notes that precedent allows Congress to replace Article III district courts with “an alternative scheme of review,” as it did in the provisions of the Securities Exchange Act and the Federal Trade Commission Act at issue here.  Ante, at 7; see 15 U. S. C. §§45(c) and 78y(a).  Under such schemes, administrative agencies may impose orders and penalties on private parties; adjudicate them before agency administrative law judges (ALJs); and only then be subjected to deferential review by an Article III court.  As the Court puts it, “[t]he agency effectively fills in for the district court, with the court of appeals providing judicial review.”  Ante, at 7.  That Article III review is sharply limited.  For example, under the administrative review schemes at issue here, the reviewing court must treat agency findings of fact as “conclusive” so long as they are “supported by substantial evidence,” §78y(a)(4); see §45(c) (“if supported by evidence”), a highly deferential standard of review.[1]  The reviewing court also cannot take its own evidence—it can only remand the case to the agency for further proceedings.  See §§45(c) and 78y(a)(5).
+
+															This mixed system—primary adjudication by an executive agency subject to only limited Article III review—is unlike the system that prevailed for the first century of our Nation’s existence.  During that period, judicial review was “all-or-nothing”; “either a court had authority to review administrative action or not, and if it did, it decided the whole case.”  T. Merrill, Article III, Agency Adjudication, and the Origins of the Appellate Review Model of Administrative Law, 111 Colum. L. Rev. 939, 944, 952 (2011) (Merrill).  This all-or-nothing model rested on a conceptual distinction between core private rights, on the one hand, and mere public rights and governmental privileges, on the other.  “Disposition of private rights to life, liberty, and property” was understood to “fal[l] within the core of the judicial power, whereas disposition of public rights [was] not.”  Wellness Int’l Network, Ltd. v. Sharif,
+
+575 U.S. 665, 711 (2015) (Thomas, J., dissenting).  Thus, “[t]he measure of judicial involvement was private right.  In particular, the extent to which the judiciary reviewed actions and legal determinations of the executive depended on private right.”  J. Harrison, Jurisdiction, Congressional Power, and Constitutional Remedies, 86 Geo. L. J. 2513, 2516 (1998) (footnote omitted).[2]  Even today, the distinction “between ‘public rights’ and ‘private rights’ ” continues to inform this Court’s understanding of “Article III judicial power.”  Oil States Energy Services, LLC v. Greene’s Energy Group, LLC, 584 U. S. ___, ___ (2018) (slip op., at 6).
+
+															As I have explained, when private rights are at stake, full Article III adjudication is likely required.  Private rights encompass “the three ‘absolute’ rights,” life, liberty, and property, “so called because they ‘appertain and belong to particular men merely as individuals,’ not ‘to them as members of society or standing in various relations to each other’—that is, not dependent upon the will of the government.”  Wellness Int’l Network, 575 U. S., at 713–714 (dissenting opinion) (quoting 1 W. Blackstone, Commentaries on the Laws of England 119 (1765); alterations omitted).  Such rights could be adjudicated and divested only by Article III courts.  See 575 U. S., at 713 (“[A]n exercise of the judicial power is required ‘when the government wants to act authoritatively upon core private rights that had vested in a particular individual’ ” (quoting C. Nelson, Adjudication in the Political Branches, 107 Colum. L. Rev. 559, 569 (2007) (Nelson); alteration omitted)); see also J. Mascott, Constitutionally Conforming Agency Adjudication, 2 Loyola U. Chi. J. Reg. Compliance 22, 45 (2017) (Mascott) (“Cases involving . . . deprivations or transfers of life, liberty, or property constitute a ‘core’ of cases that . . . must be resolved by Article III courts—not executive adjudicators ‘dressed up as courts’ ”).
+
+															A different regime prevailed for public rights and privileges.  Unlike “the private unalienable rights of each individual,” Lansing v. Smith, 4 Wend. 9, 21 (N. Y. 1829), public rights “belon[g] to the people at large,” and governmental privileges are “created purely for reasons of public policy and ha[ve] no counterpart in the Lockean state of nature.”  Teva Pharmaceuticals USA, Inc. v. Sandoz, Inc.,
+
+574 U.S. 318, 344, n. 2 (2015) (Thomas, J., dissenting) (internal quotation marks omitted).  It was understood at the founding that such governmental privileges (some of which we today call Government benefits and entitlements) “could be taken away without judicial process.”  Sessions v. Dimaya, 584 U. S. ___, ___ (2018) (Thomas, J., dissenting) (slip op., at 9); see also Mascott 25.  Thus, “the legislative and executive branches may dispose of public rights [and privileges] at will—including through non-Article III adjudications.”  Wellness Int’l Network, 575 U. S., at 713 (Thomas, J., dissenting).
+
+															B
+
+															The requirement of plenary Article III adjudication of private rights began to change in the early 20th century.  As notions of administrative efficiency came into vogue, courts were viewed less as guardians of core private rights and more as impediments to expert administrative adjudication.  See 20 F. 4th 194, 219 (CA5 2021) (Oldham, J., concurring).  After his election in 1904, President Theodore Roosevelt, who “shared the progressive faith in administrative expertise,” sought to “rei[n] in judicial review” of administrative action.  Merrill 955.  This progressive sentiment led to the Hepburn Act,
+
+34Stat.
+584, which was designed to curb judicial review of Interstate Commerce Commission (ICC) rate orders.  Prior to the Hepburn Act, the ICC was required to file a bill of equity in court to obtain judicial enforcement of its rate orders.  Merrill 955.  But, the Hepburn Act provided that the ICC’s “orders were to be self-executing thirty days after they became final, unless ‘suspended or set aside by a court of competent jurisdiction’ ”—almost inverting the traditional system.  Ibid. (quoting
+
+34Stat.
+589).  While the Act was silent on the standard of review, this Court understood “the implied threat that if [it] did not back off from its aggressive review practices, more drastic action would be in the offing.”  Merrill 959.
+
+															Accordingly, the Court began to develop what is now known as the “appellate review model.”  See id., at 963–965.  While maintaining that the courts must decide “all relevant questions of constitutional power or right” and other questions of law, ICC v. Illinois Central R. Co.,
+
+215 U.S. 452, 470 (1910), the Court held that an ICC order “supported by evidence” must be “accepted as final,” ICC v. Union Pacific R. Co.,
+
+222 U.S. 541, 547 (1912).  Following the Court’s lead, Congress codified the appellate review model in the two statutes at issue here.  The Federal Trade Commission Act provided that “the findings of the commission as to the facts, if supported by testimony, shall in like manner be conclusive” in federal court.
+
+38Stat.
+720 (codified, as amended, at
+
+15 U. S. C. §45(c)).  The Securities Exchange Act of 1934 likewise provided that the SEC’s findings “shall be conclusive” “if supported by substantial evidence.”
+
+48Stat.
+902 (codified, as amended, at
+
+15 U. S. C. §78y).
+
+															In the 1930s, this Court upheld the constitutionality of the appellate review model against arguments that it violated the separation of powers and
+ 
+Seventh Amendment.  First, in Crowell v. Benson,
+
+285 U.S. 22 (1932), the Court examined the Longshoremen’s and Harbor Workers’ Compensation Act, which authorized administrative agencies to adjudicate workers’ compensation claims against private parties.  The Court acknowledged that the case was “one of private right,” id., at 51, but held that Congress had the authority to place primary factfinding authority in an administrative agency, id., at 54.  It reasoned that such a scheme did not violate Article III because “Congress has considerable power to structure [judicial] proceedings and to regulate the mechanisms that courts use to ascertain facts.”  Nelson 600.
+
+															Next, in NLRB v. Jones & Laughlin Steel Corp.,
+
+301 U.S. 1 (1937), the Court examined the National Labor Relations Act’s judicial review provisions, which required an Article III court to accept the National Labor Relations Board’s factual findings so long as they were “supported by evidence” in the administrative record.
+
+49Stat.
+454.  The Court held that this arrangement did not violate the
+ 
+Seventh Amendment, which provides that “[i]n Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved.”  The Court reasoned that, “because claims seeking statutory remedies for violations of the Act were ‘statutory proceedings’ that were ‘unknown to the common law,’ they were not ‘suits at common law’ within the meaning of the
+ 
+Seventh Amendment.”  Nelson 602 (quoting Jones & Laughlin, 301 U. S., at 48; alterations omitted).  These cases solidified administrative agencies’ authority “to act as factfinding adjuncts to the federal judiciary on a broad array of statutory claims, including claims for monetary relief.”  Nelson 602.[3]
+
+															II
+
+															As I have previously explained, “[b]ecause federal administrative agencies are part of the Executive Branch, it is not clear that they have power to adjudicate claims involving core private rights.”  B&B Hardware, Inc. v. Hargis Industries, Inc.,
+
+575 U.S. 138, 171 (2015) (dissenting opinion).  The “appellate review model” of agency adjudication thus raises serious constitutional concerns.  It may violate the separation of powers by placing adjudicatory authority over core private rights—a judicial rather than executive power—within the authority of Article II agencies.  See ibid. (“To the extent that administrative agencies could, consistent with the Constitution, function as courts, they might only be able to do so with respect to claims involving public or quasi-private rights”).  It may violate Article III by compelling the Judiciary to defer to administrative agencies regarding matters within the core of the Judicial Vesting Clause.  See P. Hamburger, Is Administrative Law Unlawful? 297 (2014) (Hamburger) (explaining that, traditionally, “even at the behest of Congress, the judges could not defer to the executive record or the facts supposedly established by it, lest they abandon their office of independent judgment and the office of juries to decide the facts”).  And, it may violate due process by empowering entities that are not courts of competent jurisdiction to deprive citizens of core private rights.  See B&B Hardware, 575 U. S., at 164 (Thomas, J., dissenting) (“[H]owever broadly ‘court of competent jurisdiction’ was defined, it would require quite a leap to say that the concept encompasses administrative agencies, which were recognized as categorically different from courts” (alteration omitted)); see also Hamburger 256 (“The guarantee of due process . . . . bars the government from holding subjects to account outside courts and their processes”).  Finally, the appellate review model may run afoul of the
+ 
+Seventh Amendment by allowing an administrative agency to adjudicate what may be core private rights without a jury.  See Tull v. United States,
+
+481 U.S. 412, 417 (1987) (explaining that the
+ 
+Seventh Amendment ensures the right to a jury trial for all adjudications “analogous to ‘Suits at common law’ ”).
+
+															It is no answer that an Article III court may eventually review the agency order and its factual findings under a deferential standard of review.  In fact, there seems to be no basis for treating factfinding differently from deciding questions of law.  Both are at the core of judicial power, as Article III itself acknowledges.  See §2, cl. 2 (providing that this Court’s appellate jurisdiction is “both as to Law and Fact”); see also Stern v. Marshall,
+
+564 U.S. 462, 484 (2011).  For much of the Nation’s history, it was understood that Article III precluded “the political branches” from exercising “power over the determination of individualized adjudicative facts when core private rights were at stake.”  Nelson 593 (emphasis deleted); see also Hamburger 297.  It is obvious that Article III “would not be satisfied if Congress provided for judicial review but ordered the courts to affirm the agency no matter what.”  G. Lawson, The Rise and Rise of the Administrative State, 107 Harv. L. Rev. 1231, 1247 (1994) (Lawson).  And, “[t]here is no reason to think that it is any different if Congress instead simply orders courts to put a thumb (or perhaps two forearms) on the agency’s side of the scale.”  Id., at 1247–1248.  Such a regime “allows a mere party to supplant a jury as the court’s fact finder,” Hamburger 319, and it “effectively vest[s] the judicial power either in the agency or in Congress,” Lawson 1247.  It thus appears likely that, “when agency adjudicators stray outside the proper limits of executive adjudication such as by depriving individuals of vested property rights, they must not serve even as fact-finders subject to judicial deference.”  Mascott 25 (footnote omitted).
+
+															In sum, whether any form of administrative adjudication is constitutionally permissible likely turns on the nature of the right in question.  If private rights are at stake, the Constitution likely requires plenary Article III adjudication.  Conversely, if privileges or public rights are at stake, Congress likely can foreclose judicial review at will.
+
+															III
+
+															The rights at issue in these cases appear to be core private rights that must be adjudicated by Article III courts.  For one, Axon and Cochran face the threat of significant monetary fines.  Indeed, in the first round of proceedings, the SEC imposed a $22,500 civil penalty on Cochran.  And, the FTC seeks to require Axon to transfer intellectual property to another entity.  These types of penalties and orders implicate the core private right to property.  See Lawson 1247 (“imposition of a civil penalty or fine” implicates core Article III power); see also Nelson 626–627.  Accordingly, they likely must be adjudicated by Article III courts and juries.  See Tull, 481 U. S., at 422 (“A civil penalty was a type of remedy at common law that could only be enforced in courts of law”); accord, id., at 427–428 (Scalia, J., concurring in part and dissenting in part).  Naturally, merely labeling the deprivation of a core private right a “civil penalty” cannot allow Congress and agencies to circumvent constitutional requirements.  Cf. Granfinanciera, S. A. v. Nordberg,
+
+492 U.S. 33, 61 (1989) (“Congress cannot eliminate a party’s
+ 
+Seventh Amendment right to a jury trial merely by relabeling the cause of action to which it attaches and placing exclusive jurisdiction in an administrative agency or a specialized court of equity”).  By permitting administrative agencies to adjudicate what may be core private rights, the administrative review schemes here raise serious constitutional issues.
+
+															*  *  *
+
+															Because the Court today correctly holds that Axon’s and Cochran’s claims are not precluded by the review-channeling provisions at issue here, I join its opinion in full.  In an appropriate case, we should consider whether such schemes and the appellate review model they embody are constitutional methods for the adjudication of private rights.
+Notes
+1
+ Deferential review of the SEC’s and FTC’s decisions is particularly concerning given their tendency to overwhelmingly agree with their respective agency’s decisions.  See 986 F.3d 1173, 1187 (CA9 2021) (“FTC has not lost a single case [in administrative proceedings] in the past quarter-century.  Even the 1972 Miami Dolphins would envy that type of record”); Brief for Respondent in No. 21–1239, p. 9 (noting that, between October 2010 and March 2015, SEC won more than 90% of cases brought before its ALJs as compared to 69% of cases brought before federal courts). 
+
+2
+ This also helps to explain why, in Marbury v. Madison, 1 Cranch 137 (1803), Chief Justice Marshall found it necessary to first determine whether Marbury was “entitled to the possession of those evidences of office, which, being completed, became his property.”  Id., at 155 (emphasis added).  Only once it was established that a vested property right was at stake did the Court determine the remaining issues.  Marbury thus “stand[s] for the importance of private right.”  Harrison, 86 Geo. L. J., at 2516, n. 10. 
+
+3
+ The Court has further blurred the line between adjudications that require Article III courts and those that do not by equating mere Government benefits and entitlements with core private rights.  See, e.g., Goldberg v. Kelly,
+
+397 U.S. 254, 261–263 (1970) (holding that due process rights attach to the deprivation of Government benefits); see also id., at 262, n. 8 (“It may be realistic today to regard welfare entitlements as more like ‘property’ than a ‘gratuity.’ . . . It has been aptly noted that ‘society today is built around entitlement’ ” (quoting C. Reich, Individual Rights and Social Welfare: The Emerging Legal Issues, 74 Yale L. J. 1245, 1255 (1965); alteration omitted)). 
+
+

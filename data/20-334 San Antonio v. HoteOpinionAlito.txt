@@ -1,0 +1,160 @@
+::SCDB_caseID:: 2020-059
+::decision_cite:: 20-334
+::decision_name::  San Antonio v. Hotels.com, L. P.
+::decision_year:: 2021
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–334
+
+															_________________
+
+															CITY OF SAN ANTONIO, TEXAS, on behalf of itself and all other similarly situated TEXAS MUNICIPALITIES, PETITIONER v. HOTELS.COM, L. P., et al.
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[May 27, 2021]
+
+															
+
+															Justice Alito delivered the opinion of the Court.
+
+															Civil litigation in the federal courts is often an expensive affair, and each party, win or lose, generally bears many of its own litigation expenses, including attorney’s fees that are subject to the so-called American Rule.  Baker Botts L. L. P. v. ASARCO LLC,
+
+576 U.S. 121, 126 (2015).  But certain “costs” are treated differently.  Federal Rule of Appellate Procedure 39 governs the taxation of appellate “costs,” and the question in this case is whether a district court has the discretion to deny or reduce those costs.  We hold that it does not and therefore affirm the judgment below.
+
+															I
+
+															A
+
+															There is a longstanding tradition of awarding certain costs other than attorney’s fees to prevailing parties in the federal courts.  Marx v. General Revenue Corp.,
+
+568 U.S. 371, 377, and n. 3 (2013); see, e.g., Winchester v. Jackson, 3 Cranch 514 (1806).  Today, Federal Rule of Appellate Procedure 39 sets out the procedure for assessing and taxing costs relating to appeals.  Subdivision (a) provides a series of default rules that govern “unless the law provides or the court orders otherwise.”  Under these default rules:
+
+															“(1) if an appeal is dismissed, costs are taxed against the appellant, unless the parties agree otherwise;
+
+															“(2) if a judgment is affirmed, costs are taxed against the appellant;
+
+															“(3) if a judgment is reversed, costs are taxed against the appellee;
+
+															“(4) if a judgment is affirmed in part, reversed in part, modified, or vacated, costs are taxed only as the court orders.”
+
+															The remaining subdivisions of the Rule deal with related issues.  Subdivision (b) limits costs for or against Federal Government litigants to those “authorized by law.”  Subdivision (c) directs the courts of appeals to fix a maximum rate for taxing the costs of briefs, appendices, and (where applicable) the original record.  Subdivision (d) provides the procedure for seeking certain appellate costs, filing objections to those costs, and preparing an itemized statement of costs for insertion in the mandate.  And subdivision (e) lists four categories of “costs on appeal” that “are taxable in the district court for the benefit of the party entitled to costs under this rule.”
+
+															This case concerns one of the categories of costs that are taxable in the district court under subdivision (e): “premiums paid for a bond or other security to preserve rights pending appeal.”  Fed. Rule App. Proc. 39(e)(3).  These costs arise because the Federal Rules of Civil Procedure generally stay the execution or enforcement of a district court judgment for only 30 days after its entry.  Fed. Rule Civ. Proc. 62(a).  Unless a further stay is granted, the prevailing party can attempt to execute on that judgment while an appeal is pending.  See 12 J. Moore, D. Coquillette, G. Joseph, G. Vairo, & C. Varner, Moore’s Federal Practice §62.02 (3d ed. 2020).  To prevent complications arising from pre-appeal enforcement of judgments, Federal Rule of Civil Procedure 62(b) provides that a party “may obtain a stay by providing a bond or other security.”  These bonds are often called supersedeas bonds, tracking the name of a traditional writ that was used to stay the execution of a legal judgment.  See, e.g., Hardeman v. Anderson, 4 How. 640, 642 (1846) (issuing a “writ of supersedeas to stay execution on the judgment”).  “A supersedeas bond is a contract by which a surety obligates itself to pay a final judgment rendered against its principal under the conditions stated in the bond.”  13 A Cyclopedia of Federal Procedure §62.19 (3d ed. Supp. 2021).
+
+															B
+
+															The cost dispute before us arises out of litigation between the city of San Antonio—acting on behalf of a class of 173 Texas municipalities—and a number of popular online travel companies (OTCs).  In 2006, San Antonio alleged that the OTCs had been systematically underpaying hotel occupancy taxes by calculating them using the wholesale rate that the OTCs negotiated with hotels rather than the retail rate that consumers paid for hotel rooms.  After a jury trial, the District Court entered a judgment of approximately $55 million in favor of the class.
+
+															The OTCs quickly sought to secure supersedeas bonds to stay the judgment.  They negotiated with San Antonio over the terms of the bonds, and the city ultimately supported the OTCs’ efforts to stay the judgment with supersedeas bonds totaling almost $69 million, an amount that was calculated to cover the judgment plus 18 months of interest and further taxes.  The District Court approved the bonds, which were subsequently increased at San Antonio’s urging to cover what grew to be an $84 million judgment after years of post-trial motions.
+
+															The OTCs eventually appealed, and the Court of Appeals held that the OTCs had not underpaid the hotel occupancy taxes.  Its mandate stated: “[T]he judgment of the District Court is vacated and rendered for OTCs.”  App. 100.  In accordance with Federal Rule of Appellate Procedure 39(d), the OTCs filed a bill of costs with the Circuit Clerk and requested $905.60 to cover the appellate docket fee and the cost of printing their briefs and appendix.  App. to Pet. for Cert. 28a–30a.  These items were taxed without objection.  See Rule 39(d)(2).[1]
+
+															Back in the District Court, the OTCs filed a bill of costs for more than $2.3 million.  The lion’s share of these costs were supersedeas bond premiums.  San Antonio objected, urging the District Court to exercise its discretion and decline to tax all or most of those costs.  The city argued, among other things, that the OTCs should have pursued alternatives to a supersedeas bond and that it was unfair for San Antonio to bear the costs for the entire class rather than just its proportional share of the judgment.  The District Court thought San Antonio had made “some persuasive arguments.”  App. to Pet. for Cert. 16a.  But based on Circuit precedent, the court held that it lacked discretion “regarding whether, when, to what extent, or to which party to award costs of the appeal” and that “its sole responsibility [was] to ensure that only proper costs are awarded.”  Id., at 17a (internal quotation marks omitted).  The court ultimately taxed costs of just over $2.2 million.
+
+															San Antonio appealed, and this time the Court of Appeals affirmed.  959 F.3d 159 (CA5 2020).  It reasoned that its earlier decision had “reversed” the District Court’s judgment within the meaning of Rule 39(a)(3) and that it had not departed from the default allocation under that Rule.  Id., at 164–165.[2]  And the Court of Appeals held that the District Court was compelled to award the disputed costs to the OTCs.  Id., at 166–167.
+
+															San Antonio sought this Court’s review.  We granted certiorari, 592 U. S. ___ (2021), and now affirm.
+
+															II
+
+															We hold that Rule 39 does not permit a district court to alter a court of appeals’ allocation of the costs listed in subdivision (e) of that Rule.
+
+															A
+
+															Rule 39 creates a cohesive scheme for taxing appellate costs.  As noted, it sets out default rules that are geared to five potential outcomes of an appeal: dismissal, affirmance, reversal, affirmance in part and reversal in part, and vacatur.  Each of these default rules tracks the “venerable presumption that prevailing parties are entitled to costs.”  Marx, 568 U. S., at 377.
+
+															These default rules give way, however, when “the court orders otherwise.”  Rule 39(a).  The parties agree that this reference to “the court” means the court of appeals, not the district court, see Brief for Petitioner 17–18; Brief for Respondents 20–21, and we agree with that interpretation.  In the Rules of Appellate Procedure, which “govern procedure in the United States courts of appeals,” Rule 1(a)(1), references to a “court” are naturally read to refer to a court of appeals unless the text or context clearly indicates otherwise.
+
+															The parties do not agree, however, on what the court of appeals has the power to “orde[r].”  San Antonio thinks that the appellate court may say “who can receive costs (party A, party B, or neither)” but lacks “authority to divide up costs.”  Reply Brief 5.  So, the city argues, the district court must have the discretion to do that.  By contrast, the OTCs argue that the appellate court has the discretion to divide up the costs as it deems appropriate and that a district court cannot alter that allocation.  The OTCs have the better of the argument.
+
+															The text of subdivision (a) cuts decisively in their favor.  That provision states that the court of appeals need not follow the default rules, which allocate costs based on the outcome of the appeal, but can “orde[r] otherwise.”  This broad language does not limit the ways in which the court of appeals can depart from the default rules, and it certainly does not suggest that the court of appeals may not divide up costs.
+
+															On the contrary, the authority of a court of appeals to do just that is strongly supported by the relationship between the default rules and the court of appeals’ authority to “order otherwise.”  For example, under Rule 39(a)(4), if a district court judgment is affirmed in part and reversed in part, “costs are taxed only as the court [of appeals] orders.”  The most natural meaning of this provision is that a court of appeals may apportion costs in accordance with the parties’ relative success, so that if, for example, the appellant wins what is essentially a 75% victory, the appellant can be awarded 75% of its costs.[3]  It would be strange to read this provision to mean that the court of appeals’ only option where a reversal is not complete is to award the appellant all its costs or no costs at all.  Similarly, in cases that fall under subdivisions (a)(2) and (a)(3), where the default rules allocate 100% of the costs to the winning party, it is natural to understand the court of appeals’ authority to “order otherwise” to include the authority to make a different allocation.
+
+															Subdivision (e), which concerns appellate costs that are taxed in the district court, points in the same direction.  It refers to “the party entitled to costs under this rule.”  Rule 39(e) (emphasis added).  Thus, if a party is awarded costs under subdivision (a), it is “entitled” to those costs—i.e., has a right to obtain them and not merely to seek them—when a proper application is made in the district court.  See Black’s Law Dictionary 626 (rev. 4th ed. 1968) (“In its usual sense, to entitle is to give a right or title”); see also Estate of Cowart v. Nicklos Drilling Co.,
+
+505 U.S. 469, 477 (1992) (“Both in legal and general usage, the normal meaning of entitlement includes a right or benefit for which a person qualifies”).
+
+															Read properly, then, Rule 39 gives discretion over the allocation of appellate costs to the courts of appeals.  With that settled, it is easy to see why district courts cannot exercise a second layer of discretion.  Suppose that a court of appeals, in a case in which the district court’s judgment is affirmed, awards the prevailing appellee 70% of its costs.  If the district court, in an exercise of its own discretion, later reduced those costs by half, the appellee would receive only 35% of its costs—in direct violation of the court of appeals’ directions.  Or suppose that the court of appeals, believing that the decision below was plainly wrong, awards the prevailing appellant 100% of its costs.  It would subvert that allocation if the district court declined to tax costs or substantially reduced them because it thought that there was at least a very strong argument in favor of the decision that the court of appeals had reversed—which, of course, was the district court’s own decision.  In short, the court of appeals’ determination that a party is “entitled” to costs would mean little if, as San Antonio believes, the district court could take a second look at the equities.
+
+															San Antonio nonetheless maintains that the plain text of subdivision (e) vests district courts with discretion over cost allocations.  That provision lists costs that “are taxable in the district court for the benefit of the party entitled to costs under this rule.”  Rule 39(e) (emphasis added).  As San Antonio notes, the word “taxable” can be used to describe something that may, but need not necessarily, be taxed.  See, e.g., Random House Dictionary of the English Language 1947 (2d ed. 1987) (defining “taxable” as “capable of being taxed”); Webster’s Third New International Dictionary 2345 (1976) (same).  And San Antonio argues that the use of this “permissive” term shows that the district court has discretion to refuse to award costs on equitable grounds.  Brief for Petitioner 15.
+
+															San Antonio reads too much into the term “taxable.”  The use of that term does suggest that the costs in question are not automatically or necessarily taxed when the case returns to the district court, but that may mean no more than that the party seeking those costs will not get them unless it submits a bill of costs with the verification specified by statute and complies with any other procedural requirements that the local rules of the court in question impose.  See 28 U. S. C. §§1920, 1924.
+
+															This modest understanding of the use of the term “taxable” is reinforced by the circumstances under which the term was added to Rule 39.  Before 1998, subdivision (e) did not provide that the listed costs “are taxable in the district court,” but instead stated that those costs “shall be taxed in the district court.”  Rule 39(e) (1994).  The language of Rule 39 was changed in 1998 as part of a general “restyling” of the Rules of Appellate Procedure, and the Advisory Committee’s Note stated that the changes made as part of this project were “intended to be stylistic only.”  28 U. S. C. App., p. 804 (1994 ed., Supp. IV); see also C. Wright, A. Miller, & C. Struve,  Federal Practice and Procedure, Introduction, §3946.1 (5th ed. Supp. 2021) (1998 restyling was “not intended to make substantive changes”).
+
+															The real work done by the phrase “taxable in the district court” is the specification of the court in which these costs are to be taxed—that is, in the district court.  Assigning this work to the district court makes good sense.  Under Rule 39, costs incurred in the court of appeals, such as the fee for docketing the case in that court and the cost of printing the party’s briefs and appendices, are taxed in the court of appeals.  See Rule 39(d).  And the costs incurred in the district court—that is, the costs listed in subdivision (e)—are taxed in the district court.  These are the costs attributable to “the preparation and transmission of the record,” “the reporter’s transcript, if needed to determine the appeal,” “premiums paid for a bond or other security to preserve rights pending appeal,” and “the fee for filing the notice of appeal.”
+
+															The nature of these costs makes it fitting for them to be taxed in the district court.  The first enumerated cost—the cost of “the preparation and transmission of the record”—relates to the district court clerk, who has the responsibility of performing those tasks.  See Fed. Rule App. Proc. 11(b)(2).  The second category, the cost of “the reporter’s transcript,” concerns work done in the district court.  See Rule 10(b).  The third category, “premiums paid for a bond or other security to preserve rights pending appeal,” relates to a matter previously approved by the district court.  See Fed. Rule Civ. Proc. 62(b).  And the last category, “the fee for filing the notice of appeal,” is an amount that was paid to the district court clerk.  See
+
+28 U. S. C. §1917.
+
+															For the reasons set out above, we hold that courts of appeals have the discretion to apportion all the appellate costs covered by Rule 39 and that district courts cannot alter that allocation.
+
+															B
+
+															San Antonio offers a variety of practical arguments why district courts should have the discretion to alter the allocation of appellate costs, but each of these arguments falls away upon inspection.
+
+															First, San Antonio argues that any limits on a district court’s discretion are incompatible with the equitable discretion district courts exercise with respect to certain costs incurred in the district court.  Those costs are customarily taxed under Federal Rule of Civil Procedure 54(d), which “gives courts the discretion to award costs to prevailing parties.”  Taniguchi v. Kan Pacific Saipan, Ltd.,
+
+566 U.S. 560, 565 (2012); see also
+
+28 U. S. C. §1920 (“A judge or clerk of any court of the United States may tax as costs the following . . . ” (emphasis added)).[4]  In San Antonio’s view, it will create confusion if a district court acting under Appellate Rule 39(e) lacks the discretion it exercises under Civil Procedure Rule 54(d).
+
+															We do not see why our interpretation will lead to confusion.  District courts have discretion in awarding costs incurred prior to appeal, but when they tax appellate costs, they perform a different function.  This interpretation quite sensibly gives federal courts at each level primary discretion over costs relating to their own proceedings.  See this Court’s Rule 43; Fed. Rule App. Proc. 39; Fed. Rule Civ. Proc. 54.
+
+															Second, San Antonio contends that appellate courts are not well-positioned to make cost allocations under Rule 39(a).  In its view, decisions about appellate costs might turn on factual disputes that district courts are better able to resolve.  For example, a party might suggest that taxing costs against it would be unjust because of its precarious financial position, and an opposing party might dispute that contention on factual grounds.  San Antonio also contends that it will be difficult to allocate appellate costs equitably before the amount of those costs is known.
+
+															These concerns are overblown.  Most appellate costs are readily estimable, rarely disputed, and frankly not large enough to engender contentious litigation in the great majority of cases.  We recognize that supersedeas bond premiums are a bit of an outlier in that they can grow quite large.  See, e.g., The Exxon Valdez v. Exxon Mobil Corp., 568 F.3d 1077 (CA9 2009) (more than $60 million).  But the underlying supersedeas bonds will often have been negotiated by the parties, as happened here.  They will in any event have been approved by the district court, see Fed. Rule Civ. Proc. 62(b), and their premiums will have been paid by one of the parties to the appeal.  There is no reason to think that litigants and courts will be forced to operate without any sense of the magnitude of the costs at issue.  Indeed, San Antonio admits that it was largely aware of the costs of the bonds in this case when they were approved, see Tr. of Oral Arg. 18.
+
+															Nor is there reason to think that factual disputes will pose a recurring problem.  Experience proves the point.  Rule 39’s basic structure has been in place for more than 50 years.  Compare Fed. Rule App. Proc. 39 with Rule 39 (1968).  And the courts of appeals resolve tens of thousands of cases each year.  Admin. Office of the U. S. Courts, Statistical Tables for the Federal Judiciary, Table B–1 (Dec. 31, 2020) (counting 46,788 appeals terminated in 2020).  Yet San Antonio has not identified any substantial number of cases where cost allocations under Rule 39(a) have imposed real difficulties.  In sum, we see no evidence that appellate courts have struggled to allocate costs in the past, and we have no reason to anticipate new problems in the future.
+
+															In all events, if a court of appeals thinks that a district court is better suited to allocate the appellate costs listed in Rule 39(e), the court of appeals may delegate that responsibility to the district court, as several Courts of Appeals have done in the past.  See, e.g., Emmenegger v. Bull Moose Tube Co., 324 F.3d 616, 626 (CA8 2003); Guse v. J. C. Penney Co., 570 F.2d 679, 681–682 (CA7 1978).  The parties agree that this pragmatic approach is permitted.  See Tr. of Oral Arg. 15, 44.  And nothing we say here should be read to cast doubt on it.  See Rule 39(a) (imposing no direct limitations on the court’s ability to “orde[r] otherwise”); Rule 41(a) (the mandate includes “any direction about costs”).
+
+															Third, San Antonio contends that there would be no reason for Rule 39(e) costs to be taxed in the district court, as opposed to the court of appeals, if the district court was simply required to enter “a ministerial order.”  Brief for Petitioner 17.  But it makes sense for these costs to be taxed in the district court because they relate to events in that court, and the district court’s responsibility is not ministerial.  The district court will ensure that the amount requested for the appellate costs in question is “correct.”
+
+28 U. S. C. §1924.  In addition, the district court will consider whether the costs were “necessarily” incurred, §1924, to the extent that the costs in question are taxable only if they were needed for the appeal or to stay the district court’s judgment pending appeal.  See Rule 39(e)(2) (cost of reporter’s transcript taxable only “if needed to determine the appeal”).  Other costs taxable in the district court under Rule 39(e) are either fixed (subdivision (e)(4): the fee for filing the notice of appeal); calculated by the district court clerk (subdivision (e)(1): preparation and transmission of the record); or concern a matter already approved by the district court (subdivision (e)(3): supersedeas bond premiums; see Fed. Rule Civ. Proc. 62(b)).
+
+															San Antonio, however, asked the District Court to do much more.  It implored the court to exercise a free-ranging form of equitable discretion that would directly conflict with the equitable discretion of the Court of Appeals.  See Brief for Petitioner 20, n. 5 (outlining a wide range of equitable considerations).  And it invited the District Court to deny or reduce for equitable reasons the bona fide costs that the OTCs had paid as premiums for supersedeas bonds that were known and negotiated by San Antonio and were approved by the District Court without objection under Rule 62.  The lower courts were correct to hold that the District Court lacked the authority to entertain San Antonio’s broad, equitable arguments.
+
+															Finally, San Antonio worries that parties will be unable to obtain review of their objections to Rule 39(e) costs if the district court cannot provide relief after the matter returns to that court.  We agree that the current Rules and the relevant statutes could specify more clearly the procedure that such a party should follow to bring their arguments to the court of appeals, but this does not lead to the conclusion that a district court can reallocate those costs.
+
+															Rule 27 sets forth a generally applicable procedure for seeking relief in a court of appeals, and a simple motion “for an order” under Rule 27 should suffice to seek an order under Rule 39(a).  Compare Fed. Rule App. Proc. 39(a) (“The following rules apply unless . . . the court orders otherwise”) with Rule 27(a) (“An application for an order . . . is made by motion unless these rules prescribe another form”).  The OTCs also identify instances where parties have raised their arguments through other procedural vehicles, including merits briefing, see Rule 28, objections to a bill of costs, see Rule 39(d)(2), and petitions for rehearing, see Rule 40.  Brief for Respondents 42, nn. 9–11.  We do not foreclose litigants from raising their arguments in any manner consistent with the relevant federal and local Rules.
+
+															In short, we are not persuaded that applying the plain text of Rule 39 will create the practical problems that San Antonio envisions.
+
+															*  *  *
+
+															The judgment of the Court of Appeals is affirmed.
+
+															
+
+															It is so ordered.
+Notes
+1
+ Rule 39 has been amended since the Court of Appeals issued its first decision in this case.  The changes are not material for our purposes here, so for simplicity we cite the current version of the Federal Rules of Appellate Procedure unless otherwise noted. 
+
+2
+ San Antonio does not challenge these features of the court’s decision, see, e.g., Brief for Petitioner 8, n. 2, and we do not address them. 
+
+3
+ Both parties recognize the familiar practice of awarding some proportion of the costs to the winning party.  See Tr. of Oral Arg. 15, 44, 76; see, e.g., Massachusetts Eye & Ear Infirmary v. QLT Phototherapeutics, Inc., 552 F.3d 47, 75 (CA1 2009); In re New Times Securities Servs., Inc., 371 F.3d 68, 88 (CA2 2004); Burrell v. Star Nursery, Inc., 170 F.3d 951, 957 (CA9 1999); Quaker Action Group v. Andrus, 559 F.2d 716, 719 (CADC 1977) (per curiam). 
+
+4
+ As the United States points out, see Brief for United States as Amicus Curiae 19, n. 4, we have interpreted Rule 54(d) to provide for taxing only the costs already made taxable by statute, namely,
+
+28 U. S. C. §1920.  See Crawford Fitting Co. v. J. T. Gibbons, Inc.,
+
+482 U.S. 437, 441–442 (1987).  Supersedeas bond premiums, despite being referenced in Appellate Rule 39(e)(3), are not listed as taxable costs in §1920.  San Antonio has not raised any argument that Rule 39 is inconsistent with §1920 in this respect.  We accordingly do not consider this issue. 
+
+

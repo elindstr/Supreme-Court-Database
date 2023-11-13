@@ -1,0 +1,268 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-442
+::decision_name::  Reed v. Goertz
+::decision_year:: 2023
+::opinion_author:: Kavanaugh
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States
+Reports. Readers are requested to notify the Reporter of
+Decisions, Supreme Court of the United States, Washington,
+D. C. 20543, pio@supremecourt.gov, of any typographical or
+other formal errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–442
+
+															_________________
+
+															RODNEY REED, PETITIONER v. BRYAN
+GOERTZ
+
+															on writ of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[April 19, 2023]
+
+															Justice Kavanaugh delivered the opinion of the
+Court.
+
+															In many States, a convicted prisoner who still
+disputes his guilt may ask state courts to order post-conviction
+DNA testing of evidence. If the prisoner’s request fails in
+the state courts and he then files a federal 42 U. S. C.
+§1983 procedural due process suit challenging the
+constitutionality of the state process, when does the statute of
+limitations for that §1983 suit begin to run? The Eleventh
+Circuit has held that the statute of limitations begins to run at
+the end of the state-court litigation denying DNA testing,
+including the state-court appeal. See Van Poyck v.
+McCollum, 646 F.3d 865, 867 (2011). In this case, by
+contrast, the Fifth Circuit held that the statute of limitations
+begins to run when the state trial court denied DNA testing,
+notwithstanding a subsequent state-court appeal. See 995 F.3d 425,
+431 (2021). We conclude that the statute of limitations begins to
+run at the end of the state-court litigation.
+
+															I
+
+															In 1996, Stacey Stites was strangled to death
+in Bastrop County, Texas. The State charged Rodney Reed with
+murdering Stites. At trial, Reed claimed that he was innocent and
+that Stites’s fiancé or another acquaintance had
+committed the murder. A jury rejected that defense theory and found
+Reed guilty. Reed was sentenced to death. The Texas Court of
+Criminal Appeals affirmed the conviction and death sentence.
+Reed’s state and federal habeas petitions were
+unsuccessful.
+
+															Then in 2014, Reed filed a motion in state court
+under Texas’s post-conviction DNA testing law. See Tex. Code
+Crim. Proc. Ann., Arts. 64.01–64.05 (Vernon 2018). Reed
+requested DNA testing on more than 40 pieces of evidence, including
+the belt used to strangle Stites. Reed contended that DNA testing
+would help identify the true perpetrator. The state prosecutor,
+respondent Bryan Goertz, agreed to test several pieces of evidence,
+but otherwise opposed the motion and refused to test most of the
+evidence.
+
+															The state trial court denied Reed’s
+motion. The court reasoned in part that (i) many items Reed sought
+to test—including the belt—were not preserved through
+an adequate chain of custody and (ii) Reed did not demonstrate that
+he would have been acquitted if the DNA results were exculpatory.
+On appeal, the Texas Court of Criminal Appeals affirmed the trial
+court and later denied Reed’s motion for rehearing.
+
+															Reed next sued in federal court under 42
+U. S. C. §1983, asserting that Texas’s
+post-conviction DNA testing law failed to provide procedural due
+process. Among other things, Reed argued that the law’s
+stringent chain-of-custody requirement was unconstitutional and in
+effect foreclosed DNA testing for individuals convicted before
+“rules governing the State’s handling and storage of
+evidence were put in place.” App. 39.
+
+															The U. S. District Court for the Western
+District of Texas dismissed Reed’s complaint. The U. S.
+Court of Appeals for the Fifth Circuit affirmed on the ground that
+Reed’s §1983 suit was filed too late, after the
+applicable 2-year statute of limitations had run. The Fifth Circuit
+ruled that the statute of limitations began to run when the Texas
+trial court denied Reed’s motion (which occurred more than
+two years before Reed filed his §1983 suit in federal court),
+not when the Texas Court of Criminal Appeals denied rehearing.
+
+															Because the federal Courts of Appeals disagree
+about when the statute of limitations begins to run for a
+§1983 suit regarding a State’s post-conviction DNA
+testing procedures, we granted certiorari. 596 U. S. ___
+(2022).
+
+															II
+
+															Texas raises three threshold arguments.
+
+															First, Texas argues that Reed lacks
+standing. We disagree. Reed sufficiently alleged an injury in fact:
+denial of access to the requested evidence. The state prosecutor,
+who is the named defendant, denied access to the evidence and
+thereby caused Reed’s injury. And if a federal court
+concludes that Texas’s post-conviction DNA testing procedures
+violate due process, that court order would eliminate the state
+prosecutor’s justification for denying DNA testing. It is
+“substantially likely” that the state prosecutor would
+abide by such a court order. Utah v. Evans, 536 U.S.
+452, 464 (2002) (internal quotation marks omitted). In other
+words, in “terms of our ‘standing’ precedent, the
+courts would have ordered a change in a legal status,” and
+“the practical consequence of that change would amount to a
+significant increase in the likelihood” that the state
+prosecutor would grant access to the requested evidence and that
+Reed therefore “would obtain relief that directly redresses
+the injury suffered.” Ibid.
+Second, Texas invokes the State’s
+sovereign immunity. But the Ex parte Young doctrine
+allows suits like Reed’s for declaratory or injunctive relief
+against state officers in their official capacities. 209 U.S.
+123, 159–161 (1908).
+
+															Third, Texas contends that Reed’s
+procedural due process claim contravenes the Rooker-Feldman
+doctrine. See Rooker v. Fidelity Trust Co., 263 U.S.
+413 (1923); District of Columbia Court of Appeals v.
+Feldman, 460 U.S.
+462 (1983). That doctrine prohibits federal courts from
+adjudicating cases brought by state-court losing parties
+challenging state-court judgments. But as this Court explained in
+Skinner v. Switzer, even though a “state-court
+decision is not reviewable by lower federal courts,” a
+“statute or rule governing the decision may be challenged in
+a federal action.” 562 U.S.
+521, 532 (2011). Here, as in Skinner, Reed does
+“not challenge the adverse” state-court decisions
+themselves, but rather “targets as unconstitutional the Texas
+statute they authoritatively construed.” Ibid.
+
+															III
+
+															This Court’s case law “severely
+limits the federal action a state prisoner may bring for DNA
+testing.” Skinner v. Switzer, 562 U.S.
+521, 525 (2011). The Court has “rejected the extension of
+substantive due process to this area, and left slim room for the
+prisoner to show that the governing state law denies him procedural
+due process.” Ibid. (citation omitted); see
+District Attorney’s Office for Third Judicial Dist. v.
+Osborne, 557 U.S. 52, 69, 72 (2009).
+
+															Seeking to fit his §1983 suit within the
+“slim room” left by this Court’s precedent, Reed
+raised a procedural due process challenge to Texas’s
+post-conviction DNA testing law. The sole question now before this
+Court is whether Reed’s §1983 suit was timely. The
+parties agree that the statute of limitations for Reed’s
+claim is two years. But the parties disagree about when that 2-year
+limitations period began to run. That question is one of federal
+law. See Wallace v. Kato, 549
+U.S. 384, 388 (2007).
+
+															As a general matter, the statute of limitations
+begins to run when the plaintiff has a “complete and present
+cause of action.” Bay Area Laundry and Dry Cleaning
+Pension Trust Fund v. Ferbar Corp. of Cal., 522 U.S.
+192, 201 (1997) (internal quotation marks omitted). To
+determine when a plaintiff has a complete and present cause of
+action, the Court focuses first on the specific constitutional
+right alleged to have been infringed. See McDonough v.
+Smith, 588 U. S. ___, ___ (2019) (slip op., at 4).
+
+															Here, the specific constitutional right
+allegedly infringed is procedural due process. A procedural due
+process claim consists of two elements: (i) deprivation by
+state action of a protected interest in life, liberty, or property,
+and (ii) inadequate state process. See Zinermon v.
+Burch, 494 U.S.
+113, 125 (1990). Importantly, the Court has stated that a
+procedural due process claim “is not complete when the
+deprivation occurs.” Id., at 126. Rather, the claim is
+“complete” only when “the State fails to provide
+due process.” Ibid.
+
+															Reed contends that the State’s process for
+considering his DNA testing request was fundamentally unfair in
+violation of the Due Process Clause. Texas’s process for
+considering a request for DNA testing in capital cases includes not
+only trial court proceedings, but also appellate review by the
+Court of Criminal Appeals. Tex. Code Crim. Proc. Ann., Art. 64.05.
+And under longstanding Texas rules of appellate procedure, the
+Court of Criminal Appeals’s appellate review process
+encompasses a motion for rehearing. Tex. Rule App. Proc. 79.1
+(2022).
+
+															In Reed’s case, the State’s alleged
+failure to provide Reed with a fundamentally fair process was
+complete when the state litigation ended and deprived Reed of his
+asserted liberty interest in DNA testing. Therefore, Reed’s
+§1983 claim was complete and the statute of limitations began
+to run when the state litigation ended—when the Texas Court
+of Criminal Appeals denied Reed’s motion for rehearing.
+
+															The soundness of that straightforward conclusion
+is “reinforced by the consequences that would follow”
+from a contrary approach. McDonough, 588 U. S., at ___
+(slip op., at 9). If the statute of limitations for a §1983
+suit like Reed’s began to run after a state trial
+court’s denial of a plaintiff ’s motion for DNA
+testing (or even after the appeal before the
+plaintiff ’s rehearing proceedings), the plaintiff would
+likely continue to pursue relief in the state system and
+simultaneously file a protective federal §1983 suit
+challenging that ongoing state process. That parallel litigation
+would “run counter to core principles of federalism, comity,
+consistency, and judicial economy.” Id., at ___ (slip
+op., at 10). We see no good reason for such senseless
+duplication.
+
+															Moreover, significant systemic benefits ensue
+from starting the statute of limitations clock when the state
+litigation in DNA testing cases like Reed’s has concluded. If
+any due process flaws lurk in the DNA testing law, the state
+appellate process may cure those flaws, thereby rendering a federal
+§1983 suit unnecessary. And if the state appellate court
+construes the DNA testing statute, that construction will
+streamline and focus subsequent §1983 proceedings.
+
+															In sum, when a prisoner pursues state
+post-conviction DNA testing through the state-provided litigation
+process, the statute of limitations for a §1983 procedural due
+process claim begins to run when the state litigation ends. In
+Reed’s case, the statute of limitations began to run when the
+Texas Court of Criminal Appeals denied Reed’s motion for
+rehearing. Reed’s §1983 claim was timely.[1]
+
+															We reverse the judgment of the U. S. Court
+of Appeals for the Fifth Circuit.
+
+															It is so ordered.
+
+Notes
+1
+ According to Reed, a
+plaintiff may forgo full appellate review in the state-court system
+and still bring a procedural due process suit challenging a
+State’s post-conviction DNA testing law. See Tr. of Oral Arg.
+9–14. As this Court indicated in Osborne, it may be
+“difficult” as a practical matter “to criticize
+the State’s procedures when [the prisoner] has not invoked
+them.” 557 U. S., at 71. In any event, we need not
+address that hypothetical scenario.
+
+

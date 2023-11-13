@@ -1,0 +1,138 @@
+::SCDB_caseID:: 2018-039
+::decision_cite:: 17-1471
+::decision_name::  Home Depot U.S.A., Inc. v. Jackson
+::decision_year:: 2019
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1471
+
+															_________________
+
+															HOME DEPOT U. S. A., INC., PETITIONER v. GEORGE W. JACKSON
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															[May 28, 2019]
+
+															Justice Thomas delivered the opinion of the Court.
+
+															The general removal statute,
+
+28 U. S. C. §1441(a), provides that “any civil action” over which a federal court would have original jurisdiction may be removed to federal court by “the defendant or the defendants.”  The Class Action Fairness Act of 2005 (CAFA) provides that “[a] class action” may be removed to federal court by “any defendant without the consent of all defendants.”
+
+28 U. S. C. §1453(b).  In this case, we address whether either provision allows a third-party counterclaim defendant—that is, a party brought into a lawsuit through a counterclaim filed by the original defendant—to remove the counterclaim filed against it.  Because in the context of these removal provisions the term “defendant” refers only to the party sued by the original plaintiff, we conclude that neither provision allows such a third party to remove.
+
+															I
+
+															A
+
+															We have often explained that “[f]ederal courts are courts of limited jurisdiction.”  Kokkonen v. Guardian Life Ins. Co. of America,
+
+511 U.S. 375, 377 (1994).  Article III, §2, of the Constitution delineates “[t]he character of the controversies over which federal judicial authority may extend.”  Insurance Corp. of Ireland v. Compagnie des Bauxites de Guinee,
+
+456 U.S. 694, 701 (1982).  And lower federal-court jurisdiction “is further limited to those subjects encompassed within a statutory grant of jurisdiction.”  Ibid.  Accordingly, “the district courts may not exercise jurisdiction absent a statutory basis.”  Exxon Mobil Corp. v. Allapattah Services, Inc.,
+
+545 U.S. 546, 552 (2005).
+
+															In 28 U. S. C. §§1331 and 1332(a), Congress granted federal courts jurisdiction over two general types of cases: cases that “aris[e] under” federal law, §1331, and cases in which the amount in controversy exceeds $75,000 and there is diversity of citizenship among the parties, §1332(a).  These jurisdictional grants are known as  “federal-question jurisdiction” and “diversity jurisdiction,” respectively.  Each serves a distinct purpose: Federal-question jurisdiction affords parties a federal forum in which “to vindicate federal rights,” whereas diversity jurisdiction provides “a neutral forum” for parties from different States.  Exxon Mobil Corp., supra, at 552.
+
+															Congress has modified these general grants of jurisdiction to provide federal courts with jurisdiction in certain other types of cases.  As relevant here, CAFA provides district courts with jurisdiction over “class action[s]” in which the matter in controversy exceeds $5,000,000 and at least one class member is a citizen of a State different from the defendant.  §1332(d)(2)(A).  A “class action” is “any civil action filed under Rule 23 of the Federal Rules of Civil Procedure or similar State statute or rule of judicial procedure.”  §1332(d)(1)(B).
+
+															In addition to granting federal courts jurisdiction over certain types of cases, Congress has enacted provisions that permit parties to remove cases originally filed in state court to federal court.  Section 1441(a), the general removal statute, permits “the defendant or the defendants” in a state-court action over which the federal courts would have original jurisdiction to remove that action to federal court.  To remove under this provision, a party must meet the requirements for removal detailed in other provisions.  For one, a defendant cannot remove unilaterally.  Instead, “all defendants who have been properly joined and served must join in or consent to the removal of the action.”  §1446(b)(2)(A).  Moreover, when federal jurisdiction is based on diversity jurisdiction, the case generally must be removed within “1 year after commencement of the action,” §1446(c)(1), and the case may not be removed if any defendant is “a citizen of the State in which such action is brought,” §1441(b)(2).
+
+															CAFA also includes a removal provision specific to class actions.  That provision permits the removal of a “class action” from state court to federal court “by any defendant without the consent of all defendants” and “without regard to whether any defendant is a citizen of the State in which the action is brought.”  §1453(b).
+
+															At issue here is whether the term “defendant” in either §1441(a) or §1453(b) encompasses a party brought into a lawsuit to defend against a counterclaim filed by the original defendant or whether the provisions limit removal authority to the original defendant.
+
+															B
+
+															In June 2016, Citibank, N. A., filed a debt-collection action against respondent George Jackson in North Carolina state court.  Citibank alleged that Jackson was liable for charges he incurred on a Home Depot credit card.  In August 2016, Jackson answered and filed his own claims: an individual counterclaim against Citibank and third-party class-action claims against Home Depot U. S. A., Inc., and Carolina Water Systems, Inc.
+
+															Jackson’s claims arose out of an alleged scheme between Home Depot and Carolina Water Systems to induce homeowners to buy water treatment systems at inflated prices.  The crux of the claims was that Home Depot and Carolina Water Systems engaged in unlawful referral sales and deceptive and unfair trade practices in violation of North Carolina law, Gen. Stat. Ann. §§25A–37, 75–1.1 (2013).  Jackson also asserted that Citibank was jointly and severally liable for the conduct of Home Depot and Carolina Water Systems and that his obligations under the sale were null and void.
+
+															In September 2016, Citibank dismissed its claims against Jackson.  One month later, Home Depot filed a notice of removal, citing 28 U. S. C. §§1332, 1441, 1446, and 1453.  Jackson moved to remand, arguing that precedent barred removal by a “third-party/additional counter defendant like Home Depot.”  App. 51–52.  Shortly thereafter, Jackson amended his third-party class-action claims to remove any reference to Citibank.
+
+															The District Court granted Jackson’s motion to remand, and the Court of Appeals for the Fourth Circuit granted Home Depot permission to appeal and affirmed.  880 F.3d 165, 167 (2018); see
+
+28 U. S. C. §1453(c)(1).  Relying on Circuit precedent, it held that neither the general removal provision, §1441(a), nor CAFA’s removal provision, §1453(b), allowed Home Depot to remove the class-action claims filed against it.  880 F. 3d, at 167–171.
+
+															We granted Home Depot’s petition for a writ of certio- rari to determine whether a third party named in a class-action counterclaim brought by the original defendant can remove if the claim otherwise satisfies the jurisdictional requirements of CAFA.  585 U. S. ___ (2018).  We also directed the parties to address whether the holding in Shamrock Oil & Gas Corp. v. Sheets,
+
+313 U.S. 100 (1941)—that an original plaintiff may not remove a coun-   terclaim against it—should extend to third-party counterclaim defendants.[1]  585 U. S. ___.
+
+															II
+
+															A
+
+															We first consider whether
+
+28 U. S. C. §1441(a) permits a third-party counterclaim defendant to remove a claim filed against it.[2]  Home Depot contends that because a third-party counterclaim defendant is a “defendant” to the claim against it, it may remove pursuant to §1441(a).  The dissent agrees, emphasizing that “a ‘defendant’ is a ‘person sued in a civil proceeding.’ ”  Post, at 9 (opinion of Alito, J.).  This reading of the statute is plausible, but we do not think it is the best one.  Of course the term “defendant,” standing alone, is broad.  But the phrase “the defendant or the defendants” “cannot be construed in a vacuum.”  Davis v. Michigan Dept. of Treasury,
+
+489 U.S. 803, 809 (1989).  “It is a fundamental canon of statutory construction that the words of a statute must be read in their context and with a view to their place in the overall statutory scheme.”  Ibid.; see also A. Scalia & B. Garner, Reading Law 167 (2012) (“The text must be construed as a whole”); accord, Bailey v. United States,
+
+516 U.S. 137, 145–146 (1995).  Considering the phrase “the defendant or the defendants” in light of the structure of the statute and our precedent, we conclude that §1441(a) does not permit removal by any counterclaim defendant, including parties brought into the   lawsuit for the first time by the counterclaim.[3]
+
+															Home Depot emphasizes that it is a “defendant” to a “claim,” but the statute refers to “civil action[s],” not “claims.”  This Court has long held that a district court, when determining whether it has original jurisdiction over a civil action, should evaluate whether that action could have been brought originally in federal court.  See Mexican Nat. R. Co. v. Davidson,
+
+157 U.S. 201, 208 (1895); Tennessee v. Union & Planters’ Bank,
+
+152 U.S. 454, 461 (1894).  This requires a district court to evaluate whether the plaintiff could have filed its operative complaint in federal court, either because it raises claims arising under federal law or because it falls within the court’s diversity jurisdiction.  E.g., Franchise Tax Bd. of Cal. v. Construction Laborers Vacation Trust for Southern Cal.,
+
+463 U.S. 1, 10 (1983); cf. Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.,
+
+535 U.S. 826, 831 (2002) (“[A] counterclaim . . . cannot serve as the basis for ‘arising under’ jurisdiction”); §1446(c)(2) (deeming the “sum demanded in good faith in the initial pleading . . . the amount in controversy”).  Section 1441(a) thus does not permit removal based on counterclaims at all, as a counterclaim is irrelevant to whether the district court had “original jurisdiction” over the civil action.  And because the “civil action . . . of which the district cour[t]” must have “original jurisdiction” is the action as defined by the plaintiff’s complaint, “the defendant” to that action is the defendant to that complaint, not a party named in a counterclaim.  It is this statutory context, not “the policy goals behind the [well-pleaded complaint] rule,” post, at 23, that underlies   our interpretation of the phrase “the defendant or the defendants.”
+
+															The use of the term “defendant” in related contexts bolsters our determination that Congress did not intend for the phrase “the defendant or the defendants” in §1441(a) to include third-party counterclaim defendants.  For one, the Federal Rules of Civil Procedure differentiate between third-party defendants, counterclaim defendants, and defendants.  Rule 14, which governs “Third-Party Practice,” distinguishes between “the plaintiff,” a “defendant” who becomes the “third-party plaintiff,” and “the third-party defendant” sued by the original defendant.  Rule 12 likewise distinguishes between defendants and counterclaim defendants by separately specifying when “[a] defendant must serve an answer” and when “[a] party must serve an answer to a counterclaim.”  Fed. Rules Civ. Proc. 12(a)(1)(A)–(B).
+
+															Moreover, in other removal provisions, Congress has clearly extended the reach of the statute to include parties other than the original defendant.  For instance, §1452(a) permits “[a] party” in a civil action to “remove any claim or cause of action” over which a federal court would have bankruptcy jurisdiction.  And §§1454(a) and (b) allow “any party” to remove “[a] civil action in which any party asserts a claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights.”  Section 1441(a), by contrast, limits removal to “the defendant or the defendants” in a “civil action” over which the district courts have original jurisdiction.
+
+															Finally, our decision in Shamrock Oil suggests that third-party counterclaim defendants are not “the defendant or the defendants” who can remove under §1441(a).  Shamrock Oil held that a counterclaim defendant who was also the original plaintiff could not remove under §1441(a)’s predecessor statute.  313 U. S., at 106–109.  We agree with Home Depot that Shamrock Oil does not specifically address whether a party who was not the original plaintiff can remove a counterclaim filed against it.  And we acknowledge, as Home Depot points out, that a third-party counterclaim defendant, unlike the original plaintiff, has no role in selecting the forum for the suit.  But the text of §1441(a) simply refers to “the defendant or the defendants” in the civil action.  If a counterclaim defendant who was the original plaintiff is not one of “the defendants,” we see no textual reason to reach a different conclusion for a counterclaim defendant who was not originally part of the lawsuit.  In that regard, Shamrock Oil did not view the counterclaim as a separate action with a new plaintiff and a new defendant.  Instead, the Court highlighted that the original plaintiff was still “the plaintiff.”  Id., at 108 (“We can find no basis for saying that Congress, by omitting from the present statute all reference to ‘plaintiffs,’ intended to save a right of removal to some plaintiffs and not to others”).  Similarly here, the filing of counterclaims that included class-action allegations against a third party did not create a new “civil action” with a new “plaintiff” and a new “defendant.”
+
+															Home Depot asserts that reading “the defendant” in §1441(a) to exclude third-party counterclaim defendants runs counter to the history and purposes of removal by preventing a party involuntarily brought into state-court proceedings from removing the claim against it.  But the limits Congress has imposed on removal show that it did not intend to allow all defendants an unqualified right to remove.  E.g., §1441(b)(2) (preventing removal based on diversity jurisdiction where any defendant is a citizen of the State in which the action is brought).  Moreover, Home Depot’s interpretation makes little sense in the context of other removal provisions.  For instance, when removal is based on §1441(a), all defendants must consent to removal.  See §1446(b)(2)(A).  Under Home Depot’s interpretation, “defendants” in §1446(b)(2)(A) could be read to require consent from the third-party counterclaim defendant, the original plaintiff (as a counterclaim defendant), and the original defendant asserting claims against them.  Further, Home Depot’s interpretation would require courts to determine when the original defendant is also a “plaintiff” under other statutory provisions.  E.g., §1446(c)(1).  Instead of venturing down this path, we hold that a third-party counterclaim defendant is not a “defendant” who can remove under §1441(a).
+
+															B
+
+															We next consider whether CAFA’s removal provision, §1453(b), permits a third-party counterclaim defendant to remove.[4]  Home Depot contends that even if it could not remove under §1441(a), it could remove under §1453(b) because that statute is worded differently.  It argues that although §1441(a) permits removal only by “the defendant or the defendants” in a “civil action,” §1453(b) permits removal by “any defendant” to a “class action.”  (Emphasis added.)  Jackson responds that this argument ignores the context of §1453(b), which he contends makes clear that Congress intended only to alter certain restrictions on removal, not expand the class of parties who can remove a class action.  Although this is a closer question, we agree with Jackson.
+
+															The two clauses in §1453(b) that employ the term “any defendant” simply clarify that certain limitations on removal that might otherwise apply do not limit removal under §1453(b).  Section 1453(b) first states that “[a] class   action may be removed . . . without regard to whether any defendant is a citizen of the State in which the action is brought.”  There is no indication that this language does anything more than alter the general rule that a civil action may not be removed on the basis of diversity jurisdiction “if any of the . . . defendants is a citizen of the State in which such action is brought.”  §1441(b)(2).  Section 1453(b) then states that “[a] class action . . . may be removed by any defendant without the consent of all defendants.”  This language simply amends the rule that “all defendants who have been properly joined and served must join in or consent to the removal of the action.”  §1446(b)(2)(A).  Rather than indicate that a counterclaim defendant can remove, “here the word ‘any’ is being employed in connection with the word ‘all’ later in the sentence—‘by any . . . without . . . the consent of all.’ ”  Westwood Apex v. Contreras, 644 F.3d 799, 804 (CA9 2011); see Palisades Collections LLC v. Shorts, 552 F.3d 327, 335–336 (CA4 2008).  Neither clause—nor anything else in the statute—alters §1441(a)’s limitation on who can remove, which suggests that Congress intended to leave that limit in place.  See supra, at 5–8.
+
+															Thus, although the term “any” ordinarily carries an “ ‘expansive meaning,’ ” post, at 10, the context here demonstrates that Congress did not expand the types of parties eligible to remove a class action under §1453(b) beyond §1441(a)’s limits.  If anything, that the language of §1453(b) mirrors the language in the statutory provisions it is amending suggests that the term “defendant” is being used consistently across all provisions.  Cf. Mississippi ex rel. Hood v. AU Optronics Corp.,
+
+571 U.S. 161, 169–170 (2014) (interpreting CAFA consistently with Rule  20 where Congress used terms in a like manner in both provisions).
+
+															To the extent Home Depot is arguing that the term “defendant” has a different meaning in §1453(b) than it does in §1441(a), we reject its interpretation.  Because §§1453(b) and 1441(a) both rely on the procedures for removal in §1446, which also employs the term “defendant,” interpreting “defendant” to have different meanings in different sections would render the removal provisions incoherent.  See First Bank v. DJL Properties, LLC, 598 F.3d 915, 917 (CA7 2010) (Easterbrook, C. J.).  Interpreting the removal provisions together, we determine that §1453(b), like §1441(a), does not permit a third-party counterclaim defendant to remove.
+
+															Finally, the dissent argues that our interpretation allows defendants to use the statute as a “tactic” to prevent removal, post, at 7, but that result is a consequence of the statute Congress wrote.  Of course, if Congress shares the dissent’s disapproval of certain litigation “tactics,” it certainly has the authority to amend the statute.  But we do not.
+
+															*  *  *
+
+															Because neither §1441(a) nor §1453(b) permits removal by a third-party counterclaim defendant, Home Depot could not remove the class-action claim filed against it.  Accordingly, we affirm the judgment of the Fourth Circuit.
+
+															
+
+															It is so ordered.
+Notes
+1
+ In this opinion, we use the term “third-party counterclaim defendant” to refer to a party first brought into the case as an additional defendant to a counterclaim asserted against the original plaintiff. 
+
+2
+ Section 1441(a) provides that “any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending.” 
+
+3
+ Even the dissent declines to rely on the dictionary definition of “defendant” alone, as following that approach to its logical conclusion would require overruling Shamrock Oil & Gas Corp. v. Sheets,
+
+313 U.S. 100 (1941).  See post, at 10, n. 2.   
+
+4
+ Section 1453(b) provides that “[a] class action may be removed to a district court of the United States in accordance with section 1446 (except that the 1-year limitation under section 1446(c)(1) shall not apply), without regard to whether any defendant is a citizen of the State in which the action is brought, except that such action may be removed by any defendant without the consent of all defendants.” 
+
+

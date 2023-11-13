@@ -1,0 +1,99 @@
+::SCDB_caseID:: 2021-029
+::decision_cite:: 20-1459
+::decision_name::  United States v. Taylor
+::decision_year:: 2022
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–1459
+
+															_________________
+
+															UNITED STATES, PETITIONER v. JUSTIN EUGENE TAYLOR
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															[June 21, 2022]
+
+															
+
+															Justice Alito, dissenting.
+
+															As Justice Thomas clearly shows, the offense for which respondent Justin Taylor was convicted constituted a “violent felony” in the ordinary sense of the term.  Taylor and an accomplice met with Martin Silvester for the ostensible purpose of selling him marijuana, but unbeknownst to Silvester, Taylor and his accomplice did not intend to complete the sale.  Instead, they had agreed to threaten Silvester with a 9-millimeter pistol and demand that he hand over his money.  When Silvester refused to comply with their demand, Taylor’s accomplice shot Silvester, and he died the next day.  Taylor was convicted of using and carrying a firearm during, and in relation to, a crime of violence,
+
+18 U. S. C. §924(c)(3)(A).  That conviction was based on a predicate act of attempted robbery in violation of the Hobbs Act,
+
+18 U. S. C. §1951(a).
+
+															The Court holds that this violent (and, indeed, deadly) offense did not constitute a “crime of violence” under the technical definition of that term in §924(c)(3)(A).  I agree with Justice Thomas that our cases involving §924(c)(3)(A) have veered off into fantasy land.[1]  But if the Court is going to disregard the real world and base its decisions in this area on a strict reading of the text, the “offense” for which Taylor was convicted—attempted Hobbs Act robbery—meets the definition in §924(c)(3)(A).  That definition provides that an “offense” qualifies as a “ ‘crime of violence’ ” if it is a felony and “has as an element the use, attempted use, or threatened use of physical force against the person . . . of another.”  (Emphasis added.)
+
+															The key point is the meaning of “an element” of an offense.  This is a fundamental criminal law concept, and we must therefore presume that §924(c)(3)(A) employs the term in its usual and established sense.  See A. Scalia & B. Garner, Reading Law 320–321 (2012).  And the usual and established meaning of an “element” is clear: It is a “ ‘constituent par[t]’ of a crime’s legal definition—[a] thin[g] the ‘prosecution must prove beyond a reasonable doubt to sustain a conviction.’ ” Mathis v. United States,
+
+579 U.S. 500, 504 (2016) (quoting Black’s Law Dictionary 634 (10th ed. 2014)).  See also, e.g., Apprendi v. New Jersey,
+
+530 U.S. 466, 477 (2000); United States v. Gaudin,
+
+515 U.S. 506, 510 (1995).
+
+															It is also established that there are two different types of elements.  Some are invariant; that is, they must be proved in every case.  But it is not uncommon for statutes to include a set of alternative elements and to provide that one, but not all, of these alternative elements must be proved to secure a conviction.  As the Court said in Descamps v. United States, 
+570 U.S. 254 (2013), a statute may “se[t] out one or more elements of the offense in the alternative—for example, [by] stating that burglary involves entry into a building or an automobile.” Id., at 257 (emphasis in original).
+
+															The Hobbs Act includes both types of elements.  It criminalizes a robbery that “obstructs, delays, or affects” interstate commerce,
+
+18 U. S. C. §1951(a), and it defines “robbery” to mean “the unlawful taking or obtaining of personal property from the person . . . of another, against his will, by means of actual or threatened force, or violence, or fear of injury, immediate or future,” §1951(b)(1).  Accordingly, the elements of Hobbs Act robbery are (1) the unlawful taking or obtaining (2) of personal property (3) from the person of another (4) against his or her will (5) by means of actual or (6) by means of threatened force, or (7) by means of violence, or (8) by means of fear of injury.  The first four elements must be proved in every case, while the last four are alternative elements any one of which is sufficient for conviction.[2]  A completed Hobbs Act robbery satisfies §924(c)(3)(A) because multiple elements involve “the use, attempted use, or threatened use of physical force against the person or property of another.”  Elements (5) thorough (8) obviously qualify, and it is possible that element (4) does as well.
+
+															The offense of attempted Hobbs Act robbery also qualifies.  A person commits a criminal attempt if he or she takes a “ ‘substantial step’ toward completing” an intended offense.  United States v. Resendiz-Ponce,
+
+549 U.S. 102, 106–107 (2007) (quoting 2 W. LaFave, Substantive Criminal Law §11.4) (2d ed. 2003)).  In other words, a defendant must intend to commit some combination of elements that is sufficient to constitute Hobbs Act robbery and must take a substantial step toward the commission of such a combination of elements.  If we label these combinations as A, B, C . . . , then the elements of attempted Hobbs Act robbery are (1) intending to commit at least one qualifying combination, i.e., A, B, C . . . , and (2) taking a substantial step toward the commission of A, B, C . . . .  Each such combination constitutes an “offense” within the meaning of §924(c)(3), and several combinations satisfy the definition of a “crime of violence.”
+
+															Here is a straightforward example: A hypothetical defendant (let’s call her “Eve”) intends to take or obtain personal property from the person of another unlawfully and against his or her will by means of actual force.  Eve is guilty of the “offense” of attempted Hobbs Act robbery, and her offense “has as an element the use . . . of physical force against the person . . . of another.”  That is where the Court must end up if it looks at only the text of §924(c)(3)(A) and the Hobbs Act.
+
+															It is no answer to this argument that Taylor is not Eve.  He is also not Adam.  The whole point of the categorical approach that the Court dutifully follows is that the real world must be scrupulously disregarded.
+
+															The Court reaches the opposite conclusion only because it accepts the proposition—which the Government did not contest—that a felony “has as an element the use, attempted use, or threatened use of physical force” only if the felony “always requires the government to prove” the use, attempted use, or threatened use of force “beyond a reasonable doubt, as an element of its case.”  Ante, at 3 (emphasis added); see Brief for Respondent 13–18.  In other words, the Court assumes that an offense X has an element A if and only if convicting a defendant of X requires the Government to prove A in every prosecution for offense X.  Based on this assumption, the Court infers that attempted Hobbs Act robbery is not a “crime of violence” under §924(c)(3)(A) because it is possible to commit that offense without attempting to use force.
+
+															There is no textual basis for this reading, and I would not adopt an erroneous interpretation that will govern a multitude of cases just because the Government has made an improvident concession in this case.  If the Court wants to hold the Government to the position it has taken here, it can dismiss the case and give Taylor the benefit of the judgment in his favor below.  But a party’s mistaken argument should not be permitted to alter the meaning of the law Congress enacted.
+
+															Nothing in our precedent suggests that we should deviate from §924(c)(3)(A)’s plain text.  We have never interpreted §924(c)(3)(A) to require a version of the categorical approach that would exclude from the elements that an offense “has” those elements that may be proved as alternatives to one another.  The most we have said is that, in applying the categorical approach to other statutory provisions, statutes setting forth disjunctive or alternative elements should be analyzed through what we have called the “modified categorical approach.” See Descamps, 570 U. S., at 260–264 (“burglary” under Armed Career Criminal Act,
+
+18 U. S. C. § 924(e)); Shepard v. United States,
+
+544 U.S. 13, 24–26 (2005) (same).  Under this approach, courts must examine “a limited class of documents (for example, the indictment, jury instructions, or plea agreement and colloquy)” to determine which alternative element of an offense figured in the crime for which the defendant was convicted.  Mathis, 579 U. S., at 505.
+
+															As I have previously explained, the modified categorical approach is difficult to apply, and I would not apply it here.  See id., at 536–544 (dissenting opinion); Descamps, 570 U. S., at 281–296 (Alito, J., dissenting).  Instead, I would simply hold that because one of the elements of the attempted Hobbs Act robbery is the attempted use of force, that offense falls within §924(c)(3)(A)’s definition of “crime of violence.”
+
+															But if we were to apply the modified categorical approach in this case, the result would be the same.  In his plea agreement and associated statement of facts, Taylor admitted that he and his accomplice intended to lure Silvester into an alleyway, hold him at gunpoint, and take his money “by force” in the event that he resisted.  And Taylor and his accomplice took more than a substantial step toward realizing this plan.  After all, they ultimately shot and killed Silvester.  So in accepting Taylor’s plea, it is plain that the sentencing judge determined that Taylor had intended to commit Hobbs Act robbery by using force and had taken a substantial step toward the accomplishment of that end.  That is more than sufficient to show that Taylor’s actual crime “ha[d] as an element the . . . use of physical force against the person . . . of another.”  §924(c)(3)(A).
+
+															For these reasons, I believe that the Court’s approach and ultimate holding in this case are misguided.  I would hold that Taylor committed a “crime of violence” within the meaning of §924(c)(3)(A) and reverse the judgment of the Fourth Circuit below.  But there is a silver lining in the majority opinion.  Because the Court assumes—and does not hold—that alternative elements do not qualify as independent elements of a crime for purposes of applying §924(c)(3)(A), the Government remains free to advance the correct interpretation of that provision in a future case.  For my purposes, however, the text of the statute is clear enough to support reversal here and now.  As a result, I respectfully dissent.
+Notes
+1
+ The major reason for this excursion was the adoption and spread of the so-called categorical approach.  Although the Court originally adopted the “categorical approach” in Taylor v. United States,
+
+495 U.S. 575 (1990), for other reasons, the major impetus for the expansion of that approach was concern that allowing the enhancement of a sentence based on facts found by a judge would violate the
+ 
+Sixth Amendment jury-trial right as interpreted in Apprendi v. New Jersey,
+
+530 U.S. 466 (2000), and later related cases.  It is questionable whether those cases are consistent with the original meaning of the
+ 
+Sixth Amendment.  See Alleyne v. United States,
+
+570 U.S. 99, 132–134 (2013) (Alito, J., dissenting); Cunningham v. California,
+
+549 U.S. 270, 298, n. 1 (2007) (Alito, J., dissenting); see also M. McConnell, The Booker Mess, 83 Denver U. L. Rev. 665, 679 (2006) (explaining that “fully discretionary sentencing” was the norm “when the
+ 
+Sixth Amendment was adopted”); J. Mitchell, Apprendi’s Domain, 2006 S. Ct. Rev. 297, 298–299 (“Apprendi’s historical claim that sentencing enhancements were treated as ‘elements’ . . . whenever they increased a defendant’s maximum punishment is demonstrably mistaken”); R. Little & T. Chen, The Lost History of Apprendi and the Blakely Petition for Rehearing, 17 Fed. Sentencing Rep. 69, 69–70 (2004) (arguing that Apprendi was “undoubtedly founded on an erroneous historical understanding”); S. Bibas, Judicial Fact-Finding and Sentence Enhancements in a World of Guilty Pleas, 110 Yale L. J. 1097, 1123–1132 (2001) (arguing that discretionary sentencing was characteristic of 18th-century misdemeanor sentencing and no fixed rule emerged even in the 19th century).  But even if the approach were necessary when a court is determining a defendant’s sentence, no
+ 
+Sixth Amendment concern is implicated under §924(c), and the Court thus erred in holding that the categorical approach applied to the residual clause of that statute in United States v. Davis, 588 U. S. ___, ___–___ (2019) (slip op., 16–17) (Kavanaugh, J., dissenting). 
+
+2
+ There is no plausible argument that actual force, threatened force, violence, and fear of injury are only “means” of committing Hobbs Act robbery and not elements of the offense under the logic of the Court’s decision in Mathis v. United States,
+
+579 U.S. 500.  Distinct “means” of carrying out an offense are “alternative means of satisfying one (or more) of its elements.”  Id., at 503.  In other words, the “means” of carrying out an offense are ways of carrying out an element of that offense.  But there is no overarching element of Hobbs Act robbery of which actual or threatened force, violence, or fear of injury could be subordinate means of performing.  And in any case, a jury must find that the prosecution proved beyond a reasonable doubt that the defendant took or obtained property from the person of another by way of force, threatened force, violence, or fear of injury, which entails that these ways of effectuating robbery constitute elements of the offense.  See id., at 504–506. 
+
+

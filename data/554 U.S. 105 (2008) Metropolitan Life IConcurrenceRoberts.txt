@@ -1,0 +1,84 @@
+::SCDB_caseID:: 2007-060
+::decision_cite:: 554 U.S. 105 (2008)
+::decision_name::  Metropolitan Life Ins. Co. v. Glenn
+::decision_year:: 2008
+::opinion_author:: Roberts
+::opinion_type:: Concurrence
+::opinion:: 
+
+
+OPINION OF ROBERTS, C. J.
+METROPOLITAN LIFE INS. CO. V. GLENN
+554 U. S. ____ (2008)
+SUPREME COURT OF THE UNITED STATES
+NO. 06-923
+
+
+
+
+
+															METROPOLITAN LIFE INSURANCE COMPANY,
+et al., PETITIONERS v. WANDA GLENN
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[June 19, 2008]
+
+
+
+															   Chief Justice Roberts, concurring in part and concurring in the judgment.
+
+															
+   I join all but Part IV of the Court’s opinion.  I agree that a third-party insurer’s dual role as a claims administrator and plan funder gives rise to a conflict of interest that is pertinent in reviewing claims decisions.  I part ways with the majority, however, when it comes to how such a conflict should matter.  See ante, at 8–13.  The majority would accord weight, of varying and indeterminate amount, to the existence of such a conflict in every case where it is present.  See ante, at 10–11.  The majority’s approach would allow the bare existence of a conflict to enhance the significance of other factors already considered by reviewing courts, even if the conflict is not shown to have played any role in the denial of benefits.  The end result is to increase the level of scrutiny in every case in which there is a conflict—that is, in many if not most ERISA cases—thereby undermining the deference owed to plan administrators when the plan vests discretion in them.
+
+															
+
+   I would instead consider the conflict of interest on review only where there is evidence that the benefits denial was motivated or affected by the administrator’s conflict.  No such evidence was presented in this case.  I would nonetheless affirm the judgment of the Sixth Circuit, because that court was justified in finding an abuse of discretion on the facts of this case—conflict or not.
+
+															
+
+   In Firestone Tire & Rubber Co. v. Bruch, 489 U. S. 101 (1989), this Court recognized that plan sponsors could, by the terms of the plan, reserve the authority to make discretionary claims decisions that courts would review only for an abuse of that discretion.  Id., at 111.  We have long recognized “the public interest in encouraging the formation of employee benefit plans.” Pilot Life Ins. Co. v. Dedeaux, 481 U. S. 41, 54 (1987).  Ensuring that reviewing courts respect the discretionary authority conferred on ERISA fiduciaries encourages employers to provide medical and retirement benefits to their employees through ERISA-governed plans—something they are not required to do. Cf. Aetna Health Inc. v. Davila, 542 U. S. 200, 215 (2004).
+
+															
+
+   The conflict of interest at issue here is a common feature of ERISA plans.  The majority acknowledges that the “lion’s share of ERISA plan claims denials” are made by administrators that both evaluate and pay claims.  See ante, at 9; see also Guthrie v. National Rural Elec. Coop. Assn. Long-Term Disability Plan, 509 F. 3d 644, 650 (CA4 2007) (describing use of dual-role administrators as “ ‘simple and commonplace’ ” (quoting Colucci v. Agfa Corp. Severance Pay Plan, 431 F. 3d 170, 179 (CA4 2005)); Hall v. UNUM Life Ins. Co., 300 F. 3d 1197, 1205 (CA10 2002) (declining to permit additional evidence on review “whenever the same party is the administrator and payor” because such an arrangement is “commonplace”).  For this reason, the majority is surely correct in concluding that it is important to retain deferential review for decisions made by conflicted administrators, in order to avoid “near universal review by judges de novo.”  Ante, at 9.
+
+															
+
+   But the majority’s approach does not do so.  Saying that courts should consider the mere existence of a conflict in every case, without focusing that consideration in any way, invites the substitution of judicial discretion for the discretion of the plan administrator.  Judicial review under the majority’s opinion is less constrained, because courts can look to the bare presence of a conflict as authorizing more exacting scrutiny.
+
+															
+
+   This problem is exacerbated because the majority is so imprecise about how the existence of a conflict should be treated in a reviewing court’s analysis.  The majority is forthright about this failing.  In a triumph of understatement, the Court acknowledges that its approach “does not consist of a detailed set of instructions.”  Ante, at 12.  The majority tries to transform this vice into a virtue, pointing to the practice of courts in reviewing agency determinations.  See ante, at 10, 12–13.  The standard of review for agency determinations has little to nothing to do with the appropriate test for identifying ERISA benefits decisions influenced by a conflict of interest.  In fact, we have rejected this analogy before, see Firestone, supra, at 109–110 (rejecting the arbitrary and capricious standard of review under the Labor Management and Relations Act for claims brought under ERISA §1132(a)(1)(B)), and not even the Solicitor General, whose position the majority accepts, endorses it, see Brief for United States as Amicus Curiae 29–30, n. 3 (noting the “key differences between ERISA and the administrative law context”).
+
+															
+
+   Pursuant to the majority’s strained analogy, Universal Camera Corp. v. NLRB, 340 U. S. 474 (1951), makes an unexpected appearance on stage.  The case is cited for the proposition that the lack of certainty in judicial standards “ ‘partly reflects the intractability of any formula to furnish definiteness of content for all the impalpable factors involved in judicial review.’ ”  Ante, at 13 (quoting Universal Camera, supra, at 477).  Maybe.  But certainty and predictability are important criteria under ERISA, and employers considering whether to establish ERISA plans can have no notion what it means to say that a standard feature of such plans will be one of the “impalpable factors involved in judicial review” of benefits decisions.  See Rush Prudential HMO, Inc. v. Moran, 536 U. S. 355, 379 (2002) (noting “ERISA’s policy of inducing employers to offer benefits by assuring a predictable set of liabilities, under uniform standards of primary conduct”).  The Court leaves the law more uncertain, more unpredictable than it found it.  Cf. O. Holmes, The Common Law 101 (M. Howe ed. 1963) (“[T]he tendency of the law must always be to narrow the field of uncertainty”).
+
+															
+
+   Nothing in Firestone compels the majority’s kitchen-sink approach.  In Firestone, the Court stated that a conflict of interest “must be weighed as a ‘facto[r] in determining whether there is an abuse of discretion.’ ”  489 U. S., at 115 (quoting Restatement (Second) of Trusts §187, Comment d (1959) (alteration in original)).  The cited Restatement confirms that treating the existence of a conflict of interest “as a factor” means considering whether the conflicted trustee “is acting from an improper motive” so as to “further some interest of his own or of a person other than the beneficiary.”  Id., §187, Comment g (emphasis added).  See also post, at 5–7 (Scalia, J., dissenting).  The language in Firestone does not specify whether the existence of a conflict should be thrown into the mix in an indeterminate way along with all other considerations pertinent in reviewing a benefits decision, as the majority would apparently have it, or instead weighed to determine whether it actually affected the decision.
+
+															
+
+   It is the actual motivation that matters in reviewing benefits decisions for an abuse of discretion, not the bare presence of the conflict itself.  Consonant with this understanding, a conflict of interest can support a finding that an administrator abused its discretion only where the evidence demonstrates that the conflict actually motivated or influenced the claims decision.  Such evidence may take many forms.  It may, for example, appear on the face of the plan, see Pegram v. Herdrich, 530 U. S. 211, 227, n. 7 (2000) (offering hypothetical example of a plan that gives “a bonus for administrators who denied benefits to every 10th beneficiary”); it may be shown by evidence of other improper incentives, see Armstrong v. Aetna Life Ins. Co., 128 F. 3d 1263, 1265 (CA8 1997) (insurer provided incentives and bonuses to claims reviewers for “claims savings”); or it may be shown by a pattern or practice of unreasonably denying meritorious claims, see Radford Trust v. First Unum Life Ins. Co., 321 F. Supp. 2d 226, 247 (Mass. 2004) (finding a “pattern of erroneous and arbitrary benefits denials, bad faith contract misinterpretations, and other unscrupulous tactics”).  The mere existence of a conflict, however, is not justification for heightening the level of scrutiny, either on its own or by enhancing the significance of other factors.
+
+															
+
+   The majority’s application of its approach confirms its overbroad reach and indeterminate nature.  Three sets of circumstances, the majority finds, warrant the conclusion that MetLife’s conflict of interest influenced its decision to deny Glenn’s claim for benefits: MetLife’s failure to account for the Social Security Administration’s finding of disability after MetLife encouraged Glenn to apply to the agency for benefits; MetLife’s emphasis of favorable medical reports and deemphasis of unfavorable ones; and MetLife’s failure to provide its internal experts with all the relevant evidence of Glenn’s medical condition.  See ante, at 11–12.  These facts simply prove that MetLife abused its discretion in failing to consider relevant, expert evidence on the question of Glenn’s disability status.  There is no basis for supposing that the conflict of interest lent any greater significance to these factors, and no logical reason to give the factors an extra dollop of weight because of the structural conflict.
+
+															
+
+   Even the fact that MetLife took “seemingly inconsistent positions” regarding Glenn’s claim for Social Security benefits falls short.  Ante, at 12.  That MetLife stood to gain financially from ignoring the agency’s finding and denying Glenn’s claim does not show improper motivation.  If it did, every decision to deny a claim made by a dual-role administrator would automatically qualify as an abuse of discretion.  No one here advocates such a per se rule.  As for MetLife’s referral of Glenn to the agency, the plan itself required MetLife to deduct an estimated amount of Social Security disability benefits “whether or not [Glenn] actually appl[ied] for and receive[d] those amounts,” App. 167a, and to assist plan participants like Glenn in applying for Social Security benefits, see id., at 168a.  Hence, it was not the conflict that prompted MetLife to refer Glenn to the agency, but the plan itself, a requirement that any administrator, whether conflicted or not, would be obligated to enforce.
+
+															
+
+   In fact, there is no indication that the Sixth Circuit viewed the deficiencies in MetLife’s decision as a product of its conflict of interest.  Apart from remarking on the conflict at the outset and the conclusion of its opinion, see 461 F. 3d 660, 666, 674 (2006), the court never again mentioned MetLife’s inconsistent obligations in the course of reversing the administrator’s decision.  As the court explained, MetLife’s decision “was not the product of a principled and deliberative reasoning process.” Id., at 674.  MetLife failed to acknowledge the contrary conclusion reached by the Social Security Administration, gave scant weight to the contrary medical evidence supplied by Dr. Patel, and neglected to provide its internal experts with Dr. Patel’s reports.  Ibid.; see also ante, at 11–12.  In these circumstances, the Court of Appeals was justified in finding an abuse of discretion wholly apart from MetLife’s conflict of interest.
+
+															
+
+   I would therefore affirm the judgment below.
+
+
+
+													

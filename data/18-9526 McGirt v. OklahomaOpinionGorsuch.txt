@@ -1,0 +1,496 @@
+::SCDB_caseID:: 2019-048
+::decision_cite:: 18-9526
+::decision_name::  McGirt v. Oklahoma
+::decision_year:: 2020
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–9526
+
+															_________________
+
+															JIMCY McGIRT, PETITIONER v. OKLAHOMA
+
+															on writ of certiorari to the court of criminal appeals of oklahoma
+
+															[July 9, 2020]
+
+															
+
+															Justice Gorsuch delivered the opinion of the Court.
+
+															 On the far end of the Trail of Tears was a promise.  Forced to leave their ancestral lands in Georgia and Alabama, the Creek Nation received assurances that their new lands in the West would be secure forever.  In exchange for ceding “all their land, East of the Mississippi river,” the U. S. government agreed by treaty that “[t]he Creek country west of the Mississippi shall be solemnly guarantied to the Creek Indians.”  Treaty With the Creeks, Arts. I, XIV, Mar. 24, 1832,
+
+7Stat.
+366,
+368 (1832 Treaty).  Both parties settled on boundary lines for a new and “permanent home to the whole Creek nation,” located in what is now Oklahoma. Treaty With the Creeks, preamble, Feb. 14, 1833,
+
+7Stat.
+418 (1833 Treaty).  The government further promised that “[no] State or Territory [shall] ever have a right to pass laws for the government of such Indians, but they shall be allowed to govern themselves.”  1832 Treaty, Art. XIV,
+
+7Stat.
+368.
+
+															Today we are asked whether the land these treaties promised remains an Indian reservation for purposes of federal criminal law.  Because Congress has not said otherwise, we hold the government to its word.
+
+															I
+
+															At one level, the question before us concerns Jimcy McGirt. Years ago, an Oklahoma state court convicted him of three serious sexual offenses.  Since then, he has argued in postconviction proceedings that the State lacked jurisdiction to prosecute him because he is an enrolled member of the Seminole Nation of Oklahoma and his crimes took place on the Creek Reservation.  A new trial for his conduct, he has contended, must take place in federal court.  The Oklahoma state courts hearing Mr. McGirt’s arguments rejected them, so he now brings them here.
+
+															Mr. McGirt’s appeal rests on the federal Major Crimes Act (MCA).  The statute provides that, within “the Indian country,” “[a]ny Indian who commits” certain enumerated offenses “against the person or property of another Indian or any other person” “shall be subject to the same law and penalties as all other persons committing any of the above offenses, within the exclusive jurisdiction of the United States.”
+
+18 U. S. C. §1153(a).  By subjecting Indians to federal trials for crimes committed on tribal lands, Congress may have breached its promises to tribes like the Creek that they would be free to govern themselves.  But this particular incursion has its limits—applying only to certain enumerated crimes and allowing only the federal government to try Indians. State courts generally have no jurisdiction to try Indians for conduct committed in “Indian country.”  Negonsott v. Samuels,
+
+507 U.S. 99, 102–103 (1993).
+
+															The key question Mr. McGirt faces concerns that last qualification:  Did he commit his crimes in Indian country?  A neighboring provision of the MCA defines the term to include, among other things, “all land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation.”  §1151(a).  Mr. McGirt submits he can satisfy this condition because he committed his crimes on land reserved for the Creek since the 19th century.
+
+															 The Creek Nation has joined Mr. McGirt as amicus curiae.  Not because the Tribe is interested in shielding Mr. McGirt from responsibility for his crimes.  Instead, the Creek Nation participates because Mr. McGirt’s personal interests wind up implicating the Tribe’s.  No one disputes that Mr. McGirt’s crimes were committed on lands described as the Creek Reservation in an 1866 treaty and federal statute.  But, in seeking to defend the state-court judgment below, Oklahoma has put aside whatever procedural defenses it might have and asked us to confirm that the land once given to the Creeks is no longer a reservation today.
+
+															At another level, then, Mr. McGirt’s case winds up as a contest between State and Tribe.   The scope of their dispute is limited; nothing we might say today could unsettle Oklahoma’s authority to try non-Indians for crimes against non-Indians on the lands in question.  See United States v. McBratney,
+
+104 U.S. 621, 624 (1882).  Still, the stakes are not insignificant.  If Mr. McGirt and the Tribe are right, the State has no right to prosecute Indians for crimes committed in a portion of Northeastern Oklahoma that includes most of the city of Tulsa.  Responsibility to try these matters would fall instead to the federal government and Tribe. Recently, the question has taken on more salience too.  While Oklahoma state courts have rejected any suggestion that the lands in question remain a reservation, the Tenth Circuit has reached the opposite conclusion.  Murphy v. Royal, 875 F.3d 896, 907–909, 966 (2017).  We granted certiorari to settle the question.  589 U. S. ___ (2019).
+
+															II
+
+															Start with what should be obvious: Congress established a reservation for the Creeks.  In a series of treaties, Congress not only “solemnly guarantied” the land but also “establish[ed] boundary lines which will secure a country and permanent home to the whole Creek Nation of Indians.”  1832 Treaty, Art. XIV,
+
+7Stat.
+368; 1833 Treaty, preamble,
+
+7Stat.
+418.  The government’s promises weren’t made gratuitously.  Rather, the 1832 Treaty acknowledged that “[t]he United States are desirous that the Creeks should remove to the country west of the Mississippi” and, in service of that goal, required the Creeks to cede all lands in the East. Arts. I, XII,
+
+7Stat.
+366,
+367.  Nor were the government’s promises meant to be delusory.  Congress twice assured the Creeks that “[the] Treaty shall be obligatory on the contracting parties, as soon as the same shall be ratified by the United States.”  1832 Treaty, Art. XV, id., at 368; see 1833 Treaty, Art. IX,
+
+7Stat.
+420 (“agreement shall be binding and obligatory” upon ratification).  Both treaties were duly ratified and enacted as law.
+
+															Because the Tribe’s move west was ostensibly voluntary, Congress held out another assurance as well.  In the statute that precipitated these negotiations, Congress authorized the President “to assure the tribe . . . that the United States will forever secure and guaranty to them . . . the country so exchanged with them.” Indian Removal Act of 1830, §3,
+
+4Stat.
+412.  “[A]nd if they prefer it,” the bill continued, “the United States will cause a patent or grant to be made and executed to them for the same; Provided always, that such lands shall revert to the United States, if the Indians become extinct, or abandon the same.”  Ibid.  If agreeable to all sides, a tribe would not only enjoy the government’s solemn treaty promises; it would hold legal title to its lands.
+
+															It was an offer the Creek accepted.  The 1833 Treaty fixed borders for what was to be a “permanent home to the whole Creek nation of Indians.”  1833 Treaty, preamble,
+
+7Stat.
+418.  It also established that the “United States will grant a patent, in fee simple, to the Creek nation of Indians for the land assigned said nation by this treaty.”  Art. III, id., at 419.  That grant came with the caveat that “the right thus guaranteed by the United States shall be continued to said tribe of Indians, so long as they shall exist as a nation, and continue to occupy the country hereby assigned to them.”  Ibid.  The promised patent formally issued in 1852.  See Woodward v. De Graffenried,
+
+238 U.S. 284, 293–294 (1915).
+
+															These early treaties did not refer to the Creek lands as a “reservation”—perhaps because that word had not yet acquired such distinctive significance in federal Indian law.  But we have found similar language in treaties from the same era sufficient to create a reservation.  See Menominee Tribe v. United States,
+
+391 U.S. 404, 405 (1968) (grant of land “ ‘for a home, to be held as Indian lands are held,’ ” established a reservation).  And later Acts of Congress left no room for doubt.  In 1866, the United States entered yet another treaty with the Creek Nation.  This agreement reduced the size of the land set aside for the Creek, compensating the Tribe at a price of 30 cents an acre.  Treaty Between the United States and the Creek Nation of Indians, Art. III, June 14, 1866,
+
+14Stat.
+786.  But Congress explicitly restated its commitment that the remaining land would “be forever set apart as a home for said Creek Nation,” which it now referred to as “the reduced Creek reservation.”  Arts. III, IX, id., at 786, 788.[1]  Throughout the late 19th century, many other federal laws also expressly referred to the Creek Reservation.  See, e.g., Treaty Between United States and Cherokee Nation of Indians, Art. IV, July 19, 1866,
+
+14Stat.
+800 (“Creek reservation”); Act of Mar. 3, 1873, ch. 322,
+
+17Stat.
+626; (multiple references to the “Creek reservation” and “Creek India[n] Reservation”); 11 Cong. Rec. 2351 (1881) (discussing “the dividing line between the Creek reservation and their ceded lands”); Act of Feb. 13, 1891,
+
+26Stat.
+750 (describing a cession by referencing the “West boundary line of the Creek Reservation”).
+
+															There is a final set of assurances that bear mention, too.  In the Treaty of 1856, Congress promised that “no portion” of the Creek Reservation “shall ever be embraced or included within, or annexed to, any Territory or State.”  Art. IV,
+
+11Stat.
+700.  And within their lands, with exceptions, the Creeks were to be “secured in the unrestricted right of self-government,” with “full jurisdiction” over enrolled Tribe members and their property.  Art. XV, id., at 704.  So the Creek were promised not only a “permanent home” that would be “forever set apart”; they were also assured a right to self-government on lands that would lie outside both the legal jurisdiction and geographic boundaries of any State.  Under any definition, this was a reservation.
+
+															III
+
+															A
+
+															While there can be no question that Congress established a reservation for the Creek Nation, it’s equally clear that Congress has since broken more than a few of its promises to the Tribe.  Not least, the land described in the parties’ treaties, once undivided and held by the Tribe, is now fractured into pieces.  While these pieces were initially distributed to Tribe members, many were sold and now belong to persons unaffiliated with the Nation.  So in what sense, if any, can we say that the Creek Reservation persists today?
+
+															To determine whether a tribe continues to hold a reservation, there is only one place we may look: the Acts of Congress.  This Court long ago held that the Legislature wields significant constitutional authority when it comes to tribal relations, possessing even the authority to breach its own promises and treaties.  Lone Wolf v. Hitchcock,
+
+187 U.S. 553, 566–568 (1903).  But that power, this Court has cautioned, belongs to Congress alone.  Nor will this Court lightly infer such a breach once Congress has established a reservation.  Solem v. Bartlett,
+
+465 U.S. 463, 470 (1984).
+
+															Under our Constitution, States have no authority to reduce federal reservations lying within their borders.  Just imagine if they did.  A State could encroach on the tribal boundaries or legal rights Congress provided, and, with enough time and patience, nullify the promises made in the name of the United States.  That would be at odds with the Constitution, which entrusts Congress with the authority to regulate commerce with Native Americans, and directs that federal treaties and statutes are the “supreme Law of the Land.”  Art. I, §8; Art. VI, cl. 2.  It would also leave tribal rights in the hands of the very neighbors who might be least inclined to respect them.
+
+															Likewise, courts have no proper role in the adjustment of reservation borders.  Mustering the broad social consensus required to pass new legislation is a deliberately hard business under our Constitution.  Faced with this daunting task, Congress sometimes might wish an inconvenient reservation would simply disappear.  Short of that, legislators might seek to pass laws that tiptoe to the edge of disestablishment and hope that judges—facing no possibility of electoral consequences themselves—will deliver the final push.  But wishes don’t make for laws, and saving the political branches the embarrassment of disestablishing a reservation is not one of our constitutionally assigned prerogatives.  “[O]nly Congress can divest a reservation of its land and diminish its boundaries.”  Solem, 465 U. S., at 470.  So it’s no matter how many other promises to a tribe the federal government has already broken.  If Congress wishes to break the promise of a reservation, it must say so. History shows that Congress knows how to withdraw a reservation when it can muster the will.  Sometimes, legislation has provided an “[e]xplicit reference to cession” or an “unconditional commitment . . . to compensate the Indian tribe for its opened land.”  Ibid.  Other times, Congress has directed that tribal lands shall be “ ‘restored to the public domain.’ ”  Hagen v. Utah,
+
+510 U.S. 399, 412 (1994) (emphasis deleted).  Likewise, Congress might speak of a reservation as being “ ‘discontinued,’ ” “ ‘abolished,’ ” or “ ‘vacated.’ ” Mattz v. Arnett,
+
+412 U.S. 481, 504, n. 22 (1973).  Disestablishment has “never required any particular form of words,” Hagen, 510 U. S., at 411.  But it does require that Congress clearly express its intent to do so, “[c]ommon[ly with an] ‘[e]xplicit reference to cession or other language evidencing the present and total surrender of all tribal interests.’ ”  Nebraska v. Parker,
+
+577 U.S. 481, ___–___ (2016) (slip op., at 6).
+
+															B
+
+															In an effort to show Congress has done just that with the Creek Reservation, Oklahoma points to events during the so-called “allotment era.”  Starting in the 1880s, Congress sought to pressure many tribes to abandon their communal lifestyles and parcel their lands into smaller lots owned by individual tribe members.  See 1 F. Cohen, Handbook of Federal Indian Law §1.04 (2012) (Cohen), discussing General Allotment Act of 1887, ch. 119,
+
+24Stat.
+388.  Some allotment advocates hoped that the policy would create a class of assimilated, landowning, agrarian Native Americans.  See Cohen §1.04; F. Hoxie, A Final Promise: The Campaign To Assimilate 18–19 (2001).  Others may have hoped that, with lands in individual hands and (eventually) freely alienable, white settlers would have more space of their own.  See id., at 14–15; cf. General Allotment Act of 1887, §5,
+
+24Stat.
+389–390.
+
+															The Creek were hardly exempt from the pressures of the allotment era.  In 1893, Congress charged the Dawes Commission with negotiating changes to the Creek Reservation.  Congress identified two goals:  Either persuade the Creek to cede territory to the United States, as it had before, or agree to allot its lands to Tribe members.  Act of Mar. 3, 1893, ch. 209, §16,
+
+27Stat.
+645–646.  A year later, the Commission reported back that the Tribe “would not, under any circumstances, agree to cede any portion of their lands.”  S. Misc. Doc. No. 24, 53d Cong., 3d Sess., 7 (1894).  At that time, before this Court’s decision in Lone Wolf, Congress may not have been entirely sure of its power to terminate an established reservation unilaterally.  Perhaps for that reason, perhaps for others, the Commission and Congress took this report seriously and turned their attention to allotment rather than cession.[2]
+
+															The Commission’s work culminated in an allotment agreement with the Tribe in 1901.  Creek Allotment Agreement, ch. 676,
+
+31Stat.
+861.  With exceptions for certain pre-existing town sites and other special matters, the Agreement established procedures for allotting 160-acre parcels to individual Tribe members who could not sell, transfer, or otherwise encumber their allotments for a number of years.  §§3, 7, id., at 862–864 (5 years for any portion, 21 years for the designated “homestead” portion).  Tribe members were given deeds for their parcels that “convey[ed] to [them] all right, title, and interest of the Creek Nation.”  §23, id., at 867–868.  In 1908, Congress relaxed these alienation restrictions in some ways, and even allowed the Secretary of the Interior to waive them.  Act of May 27, 1908, ch. 199, §1,
+
+35Stat.
+312.  One way or the other, individual Tribe members were eventually free to sell their land to Indians and non-Indians alike.
+
+															Missing in all this, however, is a statute evincing anything like the “present and total surrender of all tribal interests” in the affected lands.  Without doubt, in 1832 the Creek “cede[d]” their original homelands east of the Mississippi for a reservation promised in what is now Oklahoma.  1832 Treaty, Art. I,
+
+7Stat.
+366.  And in 1866, they “cede[d] and convey[ed]” a portion of that reservation to the United States.  Treaty With the Creek, Art. III,
+
+14Stat.
+786.  But because there exists no equivalent law terminating what remained, the Creek Reservation survived allotment.
+
+															In saying this we say nothing new.  For years, States have sought to suggest that allotments automatically ended reservations, and for years courts have rejected the argument.  Remember, Congress has defined “Indian country” to include “all land within the limits of any Indian reservation . . . notwithstanding the issuance of any patent, and, including any rights-of-way running through the reservation.”
+
+18 U. S. C. §1151(a).  So the relevant statute expressly contemplates private land ownership within reservation boundaries.  Nor under the statute’s terms does it matter whether these individual parcels have passed hands to non-Indians.  To the contrary, this Court has explained repeatedly that Congress does not disestablish a reservation simply by allowing the transfer of individual plots, whether to Native Americans or others.  See Mattz, 412 U. S., at 497 (“[A]llotment under the . . . Act is completely consistent with continued reservation status”); Seymour v. Superintendent of Wash. State Penitentiary,
+
+368 U.S. 351, 356–358 (1962) (holding that allotment act “did no more than open the way for non-Indian settlers to own land on the reservation”); Parker, 577 U. S., at ___ (slip op., at 7) (“[T]he 1882 Act falls into another category of surplus land Acts: those that merely opened reservation land to settlement. . . . Such schemes allow non-Indian settlers to own land on the reservation” (internal quotation marks omitted)).
+
+															It isn’t so hard to see why.  The federal government issued its own land patents to many homesteaders throughout the West.  These patents transferred legal title and are the basis for much of the private land ownership in a number of States today.  But no one thinks any of this diminished the United States’s claim to sovereignty over any land.  To accomplish that would require an act of cession, the transfer of a sovereign claim from one nation to another.  3 E. Washburn, American Law of Real Property *521–*524.  And there is no reason why Congress cannot reserve land for tribes in much the same way, allowing them to continue to exercise governmental functions over land even if they no longer own it communally.  Indeed, such an arrangement seems to be contemplated by §1151(a)’s plain terms.  Cf. Seymour, 368 U. S., at 357–358.[3]
+
+															Oklahoma reminds us that allotment was often the first step in a plan ultimately aimed at disestablishment.  As this Court explained in Mattz, Congress’s expressed policy at the time “was to continue the reservation system and the trust status of Indian lands, but to allot tracts to individual Indians for agriculture and grazing.”  412 U. S., at 496.  Then, “[w]hen all the lands had been allotted and the trust expired, the reservation could be abolished.”  Ibid.  This plan was set in motion nationally in the General Allotment Act of 1887, and for the Creek specifically in 1901.  No doubt, this is why Congress at the turn of the 20th century “believed to a man” that “the reservation system would cease” “within a generation at most.” Solem, 465 U. S., at 468.  Still, just as wishes are not laws, future plans aren’t either.  Congress may have passed allotment laws to create the conditions for disestablishment.  But to equate allotment with disestablishment would confuse the first step of a march with arrival at its destination.[4]
+
+															Ignoring this distinction would run roughshod over many other statutes as well.  In some cases, Congress chose not to wait for allotment to run its course before disestablishing a reservation.  When it deemed that approach appropriate, Congress included additional language expressly ending reservation status.  So, for example, in 1904, Congress allotted reservations belonging to the Ponca and Otoe Tribes, reservations also lying within modern-day Oklahoma, and then provided “further, That the reservation lines of the said . . . reservations . . . are hereby abolished.”  Act of Apr. 21, 1904, §8,
+
+33Stat.
+217–218 (emphasis deleted); see also DeCoteau v. District County Court for Tenth Judicial Dist.,
+
+420 U.S. 425, 439–440, n. 22 (1975) (collecting other examples).  Tellingly, however, nothing like that can be found in the nearly contemporary 1901 Creek Allotment Agreement or the 1908 Act.  That doesn’t make these laws special.  Rather, in using the language that they did, these allotment laws tracked others of the period, parceling out individual tracts, while saving the ultimate fate of the land’s reservation status for another day.[5]
+
+															C
+
+															If allotment by itself won’t work, Oklahoma seeks to prove disestablishment by pointing to other ways Congress intruded on the Creek’s promised right to self-governance during the allotment era.  It turns out there were many.  For example, just a few years before the 1901 Creek Allotment Agreement, and perhaps in an effort to pressure the Tribe to the negotiating table, Congress abolished the Creeks’ tribal courts and transferred all pending civil and criminal cases to the U. S. Courts of the Indian Territory.  Curtis Act of 1898, §28,
+
+30Stat.
+504–505.  Separately, the Creek Allotment Agreement provided that tribal ordinances “affecting the lands of the Tribe, or of individuals after allotment, or the moneys or other property of the Tribe, or of the citizens thereof ” would not be valid until approved by the President of the United States.  §42,
+
+31Stat.
+872.
+
+															Plainly, these laws represented serious blows to the Creek.  But, just as plainly, they left the Tribe with significant sovereign functions over the lands in question.  For example, the Creek Nation retained the power to collect taxes, operate schools, legislate through tribal ordinances, and, soon, oversee the federally mandated allotment process.  §§39, 40, 42, id., at 871–872; Buster v. Wright, 135 F. 947, 949–950, 953–954 (CA8 1905).  And, in its own way, the congressional incursion on tribal legislative processes only served to prove the power: Congress would have had no need to subject tribal legislation to Presidential review if the Tribe lacked any authority to legislate.  Grave though they were, these congressional intrusions on pre-existing treaty rights fell short of eliminating all tribal interests in the land.
+
+															Much more ominously, the 1901 allotment agreement ended by announcing that the Creek tribal government “shall not continue” past 1906, although the agreement quickly qualified that statement, adding the proviso “subject to such further legislation as Congress may deem proper.”  §46,
+
+31Stat.
+872.  Thus, while suggesting that the tribal government might end in 1906, Congress also necessarily understood it had not ended in 1901.  All of which was consistent with the Legislature’s general practice of taking allotment as a first, not final, step toward disestablishment and dissolution.
+
+															When 1906 finally arrived, Congress adopted the Five Civilized Tribes Act.  But instead of dissolving the tribal government as some may have expected, Congress “deem[ed] proper” a different course, simply cutting away further at the Tribe’s autonomy.  Congress empowered the President to remove and replace the principal chief of the Creek, prohibited the tribal council from meeting more than 30 days a year, and directed the Secretary of the Interior to assume control of tribal schools.  §§6, 10, 28,
+
+34Stat.
+139–140, 148.  The Act also provided for the handling of the Tribe’s funds, land, and legal liabilities in the event of dissolution.  §§11, 27, id., at 141, 148.  Despite these additional incursions on tribal authority, however, Congress expressly recognized the Creek’s “tribal existence and present tribal governmen[t]” and “continued [them] in full force and effect for all purposes authorized by law.”  §28, id., at 148.
+
+															In the years that followed, Congress continued to adjust its arrangements with the Tribe.  For example, in 1908, the Legislature required Creek officials to turn over all “tribal properties” to the Secretary of the Interior.  Act of May 27, 1908, §13,
+
+35Stat.
+316.  The next year, Congress sought the Creek National Council’s release of certain money claims against the U. S. government.  Act of Mar. 3, 1909, ch. 263,
+
+35Stat.
+781,
+805.  And, further still, Congress offered the Creek Nation a one-time opportunity to file suit in the federal Court of Claims for “any and all legal and equitable claims arising under or growing out of any treaty or agreement between the United States and the Creek Indian Nation.”  Act of May 24, 1924, ch. 181,
+
+43Stat.
+139; see, e.g., United States v. Creek Nation,
+
+295 U.S. 103 (1935).  But Congress never withdrew its recognition of the tribal government, and none of its adjustments would have made any sense if Congress thought it had already completed that job.
+
+															Indeed, with time, Congress changed course completely.  Beginning in the 1920s, the federal outlook toward Native Americans shifted “away from assimilation policies and toward more tolerance and respect for traditional aspects of Indian culture.”  1 Cohen §1.05.  Few in 1900 might have foreseen such a profound “reversal of attitude” was in the making or expected that “new protections for Indian rights,” including renewed “support for federally defined tribalism,” lurked around the corner.  Ibid.; see also M. Scherer, Imperfect Victories: The Legal Tenacity of the Omaha Tribe, 1945–1995, pp. 2–4 (1999).  But that is exactly what happened.  Pursuant to this new national policy, in 1936, Congress authorized the Creek to adopt a constitution and bylaws, see Act of June 26, 1936, §3,
+
+49Stat.
+1967, enabling the Creek government to resume many of its previously suspended functions.  Muscogee (Creek) Nation v. Hodel, 851 F.2d 1439, 1442–1447 (CADC 1988).[6]
+
+															The Creek Nation has done exactly that.  In the intervening years, it has ratified a new constitution and established three separate branches of government.  Ibid.; see Muscogee Creek Nation (MCN) Const., Arts. V, VI, and VII.  Today the Nation is led by a democratically elected Principal Chief, Second Chief, and National Council; operates a police force and three hospitals; commands an annual budget of more than $350 million; and employs over 2,000 people.  Brief for Muscogee (Creek) Nation as Amicus Curiae 36–39.  In 1982, the Nation passed an ordinance reestablishing the criminal and civil jurisdiction of its courts.  See Hodel, 851 F. 2d, at 1442, 1446–1447 (confirming Tribe’s authority to do so).  The territorial jurisdiction of these courts extends to any Indian country within the Tribe’s territory as defined by the Treaty of 1866.  MCN Stat. 27, §1–102(A).  And the State of Oklahoma has afforded full faith and credit to its judgments since at least 1994.  See Barrett v. Barrett, 878 P.2d 1051, 1054 (Okla. 1994); Full Faith and Credit of Tribal Courts, Okla. State Cts. Network (Apr. 18, 2019), https://www.oscn.net/applications/oscn/DeliverDocument. asp?CiteID=458214.
+
+															Maybe some of these changes happened for altruistic reasons, maybe some for other reasons.  It seems, for example, that at least certain Members of Congress hesitated about disestablishment in 1906 because they feared any reversion of the Creek lands to the public domain would trigger a statutory commitment to hand over portions of these lands to already powerful railroad interests.  See, e.g., 40 Cong. Rec. 2976 (1906) (Sen. McCumber); Id., at 3053 (Sen. Aldrich).  Many of those who advanced the reorganization efforts of the 1930s may have done so more out of frustration with efforts to assimilate Native Americans than any disaffection with assimilation as the ultimate goal.  See 1 Cohen §1.05; Scherer, Imperfect Victories, at 2–4.  But whatever the confluence of reasons, in all this history there simply arrived no moment when any Act of Congress dissolved the Creek Tribe or disestablished its reservation.  In the end, Congress moved in the opposite direction.[7]
+
+															D
+
+															Ultimately, Oklahoma is left to pursue a very different sort of argument.  Now, the State points to historical practices and demographics, both around the time of and long after the enactment of all the relevant legislation.  These facts, the State submits, are enough by themselves to prove disestablishment.  Oklahoma even classifies and categorizes how we should approach the question of disestablishment into three “steps.”  It reads Solem as requiring us to examine the laws passed by Congress at the first step, contemporary events at the second, and even later events and demographics at the third.  On the State’s account, we have so far finished only the first step; two more await.
+
+															This is mistaken.  When interpreting Congress’s work in this arena, no less than any other, our charge is usually to ascertain and follow the original meaning of the law before us.  New Prime Inc. v. Oliveira, 586 U. S. ___, ___ (2019) (slip op., at 6).  That is the only “step” proper for a court of law.  To be sure, if during the course of our work an ambiguous statutory term or phrase emerges, we will sometimes consult contemporaneous usages, customs, and practices to the extent they shed light on the meaning of the language in question at the time of enactment.  Ibid.  But Oklahoma does not point to any ambiguous language in any of the relevant statutes that could plausibly be read as an Act of disestablishment.  Nor may a court favor contemporaneous or later practices instead of the laws Congress passed.  As Solem explained, “[o]nce a block of land is set aside for an Indian reservation and no matter what happens to the title of individual plots within the area, the entire block retains its reservation status until Congress explicitly indicates otherwise.”  465 U. S., at 470 (citing United States v. Celestine,
+
+215 U.S. 278, 285 (1909)).
+
+															Still, Oklahoma reminds us that other language in Solem isn’t so constrained.  In particular, the State highlights a passage suggesting that “[w]here non-Indian settlers flooded into the opened portion of a reservation and the area has long since lost its Indian character, we have acknowledged that de facto, if not de jure, diminishment may have occurred.”  465 U. S., at 471.  While acknowledging that resort to subsequent demographics was “an unorthodox and potentially unreliable method of statutory interpretation,” the Court seemed nonetheless taken by its “obvious practical advantages.”  Id., at 472, n. 13, 471.
+
+															Out of context, statements like these might suggest historical practices or current demographics can suffice to disestablish or diminish reservations in the way Oklahoma envisions.  But, in the end, Solem itself found these kinds of arguments provided “no help” in resolving the dispute before it.  Id., at 478.  Notably, too, Solem suggested that whatever utility historical practice or demographics might have was “demonstrated” by this Court’s earlier decision in Rosebud Sioux Tribe v. Kneip,
+
+430 U.S. 584 (1977).  See Solem, 465 U. S., at 470, n. 10.  And Rosebud Sioux hardly endorsed the use of such sources to find disestablishment.  Instead, based on the statute at issue there, the Court came “to the firm conclusion that congressional intent” was to diminish the reservation in question.  430 U. S., at 603.  At that point, the Tribe sought to cast doubt on the clear import of the text by citing subsequent historical events—and the Court rejected the Tribe’s argument exactly because this kind of evidence could not overcome congressional intent as expressed in a statute.  Id., at 604–605.
+
+															This Court has already sought to clarify that extratextual considerations hardly supply the blank check Oklahoma supposes.  In Parker, for example, we explained that “[e]vidence of the subsequent treatment of the disputed land . . . has ‘limited interpretive value.’ ”  577 U. S., at ___ (slip op., at 11) (quoting South Dakota v. Yankton Sioux Tribe,
+
+522 U.S. 329, 355 (1998)).[8]  Yankton Sioux called it the “least compelling” form of evidence.  Id., at 356.  Both cases emphasized that what value such evidence has can only be interpretative—evidence that, at best, might be used to the extent it sheds light on what the terms found in a statute meant at the time of the law’s adoption, not as an alternative means of proving disestablishment or diminishment.
+
+															To avoid further confusion, we restate the point.  There is no need to consult extratextual sources when the meaning of a statute’s terms is clear.  Nor may extratextual sources overcome those terms.  The only role such materials can properly play is to help “clear up . . . not create” ambiguity about a statute’s original meaning.  Milner v. Department of Navy,
+
+562 U.S. 562, 574 (2011).  And, as we have said time and again, once a reservation is established, it retains that status “until Congress explicitly indicates otherwise.”  Solem, 465 U. S., at 470 (citing Celestine, 215 U. S., at 285); see also Yankton Sioux, 522 U. S., at 343 (“[O]nly Congress can alter the terms of an Indian treaty by diminishing a reservation, and its intent to do so must be clear and plain”) (citation and internal quotation marks omitted).
+
+															The dissent charges that we have failed to take account of the “compelling reasons” for considering extratextual evidence as a matter of course.  Post, at 11–12.  But Oklahoma and the dissent have cited no case in which this Court has found a reservation disestablished without first concluding that a statute required that result.  Perhaps they wish this case to be the first.  To follow Oklahoma and the dissent down that path, though, would only serve to allow States and courts to finish work Congress has left undone, usurp the legislative function in the process, and treat Native American claims of statutory right as less valuable than others.  None of that can be reconciled with our normal interpretive rules, let alone our rule that disestablishment may not be lightly inferred and treaty rights are to be construed in favor, not against, tribal rights.  Solem, 465 U. S., at 472.[9]
+
+															To see the perils of substituting stories for statutes, we need look no further than the stories we are offered in the case before us.  Put aside that the Tribe could tell more than a few stories of its own:  Take just the evidence on which Oklahoma and the dissent wish to rest their case.  First, they point to Oklahoma’s long historical prosecutorial practice of asserting jurisdiction over Indians in state court, even for serious crimes on the contested lands.  If the Creek lands really were part of a reservation, the argument goes, all of these cases should have been tried in federal court pursuant to the MCA.  Yet, until the Tenth Circuit’s Murphy decision a few years ago, no court embraced that possibility.  See Murphy, 875 F.3d 896.  Second, they offer statements from various sources to show that “everyone” in the late 19th and early 20th century thought the reservation system—and the Creek Nation—would be disbanded soon.  Third, they stress that non-Indians swiftly moved on to the reservation in the early part of the last century, that Tribe members today constitute a small fraction of those now residing on the land, and that the area now includes a “vibrant city with expanding aerospace, healthcare, technology, manufacturing, and transportation sectors.”  Brief for Petitioner in Carpenter v. Murphy, O. T. 2018, No. 17–1107, p. 15.  All this history, we are told, supplies “compelling” evidence about the lands in question.
+
+															Maybe so, but even taken on its own terms none of this evidence tells the story we are promised.  Start with the State’s argument about its longstanding practice of asserting jurisdiction over Native Americans.  Oklahoma proceeds on the implicit premise that its historical practices are unlikely to have defied the mandates of the federal MCA.  That premise, though, appears more than a little shaky.  In conjunction with the MCA, §1151(a) not only sends to federal court certain major crimes committed by Indians on reservations.  Two doors down, in §1151(c), the statute does the same for major crimes committed by Indians on “Indian allotments, the Indian titles of which have not been extinguished.”  Despite this direction, however, Oklahoma state courts erroneously entertained prosecutions for major crimes by Indians on Indian allotments for decades, until state courts finally disavowed the practice in 1989.  See State v. Klindt, 782 P.2d 401, 404 (Okla. Crim. App. 1989) (overruling Ex parte Nowabbi, 60 Okla. Crim. III, 61 P.2d 1139 (1936)); see also United States v. Sands, 968 F.2d 1058, 1062–1063 (CA10 1992).  And if the State’s prosecution practices disregarded §1151(c) for so long, it’s unclear why we should take those same practices as a reliable guide to the meaning and application of §1151(a).
+
+															Things only get worse from there.  Why did Oklahoma historically think it could try Native Americans for any crime committed on restricted allotments or anywhere else?  Part of the explanation, Oklahoma tells us, is that it thought the eastern half of the State was always categorically exempt from the terms of the federal MCA.  So whether a crime was committed on a restricted allotment, a reservation, or land that wasn’t Indian country at all, to Oklahoma it just didn’t matter.  In the State’s view, when Congress adopted the Oklahoma Enabling Act that paved the way for its admission to the Union, it carved out a special exception to the MCA for the eastern half of the State where the Creek lands can be found.  By Oklahoma’s own admission, then, for decades its historical practices in the area in question didn’t even try to conform to the MCA, all of which makes the State’s past prosecutions a meaningless guide for determining what counted as Indian country.  As it turns out, too, Oklahoma’s claim to a special exemption was itself mistaken, yet one more error in historical practice that even the dissent does not attempt to defend.  See Part V, infra.[10]
+
+															To be fair, Oklahoma is far from the only State that has overstepped its authority in Indian country.  Perhaps often in good faith, perhaps sometimes not, others made similar mistakes in the past.  But all that only underscores further the danger of relying on state practices to determine the meaning of the federal MCA.  See, e.g., Negonsett, 507 U. S., at 106–107 (“[I]n practice, Kansas had exercised jurisdiction over all offenses committed on Indian reservations involving Indians” (quoting memorandum from Secretary of the Interior, H. R. Rep. No. 1999, 76th Cong., 3d Sess., 4 (1940)); Scherer, Imperfect Victories, at 18 (describing “nationwide jurisdictional confusion” as a result of the MCA); Cohen §6.04(4)(a) (“Before 1942 the state of New York regularly exercised or claimed the right to exercise jurisdiction over the New York reservations, but a federal court decision in that year raised questions about the validity of state jurisdiction”); Brief for United States as Amicus Curiae in Carpenter v. Murphy, O. T. 2018, No. 17–1107, pp. 7a–8a (Letter from Secretary of the Interior, Mar. 27, 1963) (noting that many States have asserted criminal jurisdiction over Indians without an apparent basis in a federal law).[11]
+
+															Oklahoma next points to various statements during the allotment era which, it says, show that even the Creek understood their reservation was under threat.  And there’s no doubt about that.  By 1893, the leadership of the Creek Nation saw what the federal government had in mind:  “They [the federal government] do not deny any of our rights under treaty, but say they will go to the people themselves and confer with them and urge upon them the necessity of a change in their present condition, and upon their refusal will force a change upon them.”  P. Porter & A. McKellop, Printed Statement of Creek Delegates, reprinted in Creek Delegation Documents 8–9 (Feb. 9, 1893).  Not a decade later, and as a result of these forced changes, the leadership recognized that “ ‘[i]t would be difficult, if not impossible to successfully operate the Creek government now.’ ”  App. to Brief for Respondent 8a (Message to Creek National Council (May 7, 1901), reprinted in The Indian Journal (May 10, 1901)).  Surely, too, the future looked even bleaker: “ ‘The remnant of a government now accorded to us can be expected to be maintained only until all settlements of our landed and other interests growing out of treaty stipulations with the government of the United States shall have been settled.’ ”  Ibid.
+
+															But note the nature of these statements.  The Creek Nation recognized that the federal government will seek to get popular support or otherwise would force change.  Likewise, the Tribe’s government would continue for only so long.  These were prophesies, and hardly groundbreaking ones at that.  After all, the 1901 Creek Allotment Agreement explicitly said that the tribal government “shall not continue” past 1906.  §46,
+
+31Stat.
+872.  So what might statements like these tell us that isn’t already evident from the statutes themselves?  Oklahoma doesn’t suggest they shed light on the meaning of some disputed and ambiguous statutory direction.  More nearly, the State seeks to render the Creek’s fears self-fulfilling.[12]
+
+															We are also asked to consider commentary from those outside the Tribe.  In particular, the dissent reports that the federal government “operated” on the “understanding” that the reservation was disestablished.  Post, at 32.  In support of its claim, the dissent highlights a 1941 statement from Felix Cohen.  Then serving as an official at the Interior Department, Cohen opined that “ ‘all offenses by or against Indians’ in the former Indian Territory ‘are subject to State laws.’ ”  Ibid. (quoting App. to Supp. Reply Brief for Petitioner in Carpenter v. Murphy, O. T. 2018, No. 17–1107, p. 1a (Memorandum for Commissioner of Indian Affairs (July 11, 1941)).  But that statement is incorrect.  As we have just seen, Oklahoma’s courts acknowledge that the State lacks jurisdiction over Indian crimes on Indian allotments.  See Klindt, 782 P. 2d, at 403–404.  And the dissent does not dispute that Oklahoma is without authority under the MCA to try Indians for crimes committed on restricted allotments and any reservation.  All of which highlights the pitfalls of elevating commentary over the law.[13]
+
+															Finally, Oklahoma points to the speedy and persistent movement of white settlers onto Creek lands throughout the late 19th and early 20th centuries.  But this history proves no more helpful in discerning statutory meaning.  Maybe, as Oklahoma supposes, it suggests that some white settlers in good faith thought the Creek lands no longer constituted a reservation.  But maybe, too, some didn’t care and others never paused to think about the question.  Certain historians have argued, for example, that the loss of Creek land ownership was accelerated by the discovery of oil in the region during the period at issue here.  A number of the federal officials charged with implementing the laws of Congress were apparently openly conflicted, holding shares or board positions in the very oil companies who sought to deprive Indians of their lands.  A. Debo, And Still the Waters Run 86–87, 117–118 (1940).  And for a time Oklahoma’s courts appear to have entertained sham competency and guardianship proceedings that divested Tribe members of oil rich allotments.  Id., at 104–106, 233–234; Brief for Historians et al. as Amici Curiae 26–30.  Whatever else might be said about the history and demographics placed before us, they hardly tell a story of unalloyed respect for tribal interests.[14]
+
+															In the end, only one message rings true.  Even the carefully selected history Oklahoma and the dissent recite is not nearly as tidy as they suggest.  It supplies us with little help in discerning the law’s meaning and much potential for mischief.  If anything, the persistent if unspoken message here seems to be that we should be taken by the “practical advantages” of ignoring the written law.  How much easier it would be, after all, to let the State proceed as it has always assumed it might.  But just imagine what it would mean to indulge that path.  A State exercises jurisdiction over Native Americans with such persistence that the practice seems normal.  Indian landowners lose their titles by fraud or otherwise in sufficient volume that no one remembers whose land it once was.  All this continues for long enough that a reservation that was once beyond doubt becomes questionable, and then even farfetched.  Sprinkle in a few predictions here, some contestable commentary there, and the job is done, a reservation is disestablished.  None of these moves would be permitted in any other area of statutory interpretation, and there is no reason why they should be permitted here.  That would be the rule of the strong, not the rule of law.
+
+															IV
+
+															Unable to show that Congress disestablished the Creek Reservation, Oklahoma next tries to turn the tables in a completely different way.  Now, it contends, Congress never established a reservation in the first place.  Over all the years, from the federal government’s first guarantees of land and self-government in 1832 and through the litany of promises that followed, the Tribe never received a reservation.  Instead, what the Tribe has had all this time qualifies only as a “dependent Indian community.”
+
+															Even if we were to accept Oklahoma’s bold feat of reclassification, however, it’s hardly clear the State would win this case.  “Reservation[s]” and “Indian allotments, the Indian titles to which have not been extinguished,” qualify as Indian country under subsections (a) and (c) of §1151.  But “dependent Indian communities” also qualify as Indian country under subsection (b).  So Oklahoma lacks jurisdiction to prosecute Mr. McGirt whether the Creek lands happen to fall in one category or another.
+
+															About this, Oklahoma is at least candid.  It admits the entire point of its reclassification exercise is to avoid Solem’s rule that only Congress may disestablish a reservation.  And to achieve that, the State has to persuade us not only that the Creek lands constitute a “dependent Indian community” rather than a reservation.  It also has to convince us that we should announce a rule that dependent Indian community status can be lost more easily than reservation status, maybe even by the happenstance of shifting demographics.
+
+															To answer this argument, it’s enough to address its first essential premise.  Holding that the Creek never had a reservation would require us to stand willfully blind before a host of federal statutes.  Perhaps that is why the Solicitor General, who supports Oklahoma’s disestablishment argument, refuses to endorse this alternative effort.  It also may be why Oklahoma introduced this argument for affirmance only for the first time in this Court.  And it may be why the dissent makes no attempt to defend Oklahoma here.  What are we to make of the federal government’s repeated treaty promises that the land would be “solemnly guarantied to the Creek Indians,” that it would be a “permanent home,” “forever set apart,” in which the Creek would be “secured in the unrestricted right of self-government”?  What about Congress’s repeated references to a “Creek reservation” in its statutes?  No one doubts that this kind of language normally suffices to establish a federal reservation.  So what could possibly make this case different?
+
+															Oklahoma’s answer only gets more surprising.  The reason that the Creek’s lands are not a reservation, we’re told, is that the Creek Nation originally held fee title.  Recall that the Indian Removal Act authorized the President not only to “solemnly . . . assure the tribe . . . that the United States will forever secure and guaranty to them . . . the country so exchanged with them,” but also, “if they prefer it, . . . the United States will cause a patent or grant to be made and executed to them for the same.”
+
+4Stat.
+412.  Recall that the Creek insisted on this additional protection when negotiating the Treaty of 1833, and in fact received a land patent pursuant to that treaty some 19 years later.  In the eyes of Oklahoma, the Tribe’s choice on this score was a fateful one.  By asking for (and receiving) fee title to their lands, the Creek inadvertently made their tribal sovereignty easier to divest rather than harder.
+
+															The core of Oklahoma’s argument is that a reservation must be land “reserved from sale.”  Celestine, 215 U. S., at 285.  Often, that condition is satisfied when the federal government promises to hold aside a particular piece of federally owned land in trust for the benefit of the Tribe.  And, admittedly, the Creek’s arrangement was different, because the Tribe held “fee simple title, not the usual Indian right of occupancy.”  United States v. Creek Nation,
+
+295 U.S. 103, 109 (1935).  Still, as we explained in Part II, the land was reserved from sale in the very real sense that the government could not “give the tribal lands to others, or to appropriate them to its own purposes,” without engaging in “ ‘an act of confiscation.’ ”  Id., at 110.
+
+															It’s hard to see, too, how any difference between these two arrangements might work to the detriment of the Tribe.  Just as we have never insisted on any particular form of words when it comes to disestablishing a reservation, we have never done so when it comes to establishing one.  See Minnesota v. Hitchcock,
+
+185 U.S. 373, 390 (1902) (“[I]n order to create a reservation it is not necessary that there should be a formal cession or a formal act setting apart a particular tract.  It is enough that from what has been there results a certain defined tract appropriated to certain purposes”).  As long as 120 years ago, the federal court for the Indian Territory recognized all this and rightly rejected the notion that fee title is somehow inherently incompatible with reservation status.  Maxey v. Wright, 54 S.W. 807, 810 (Indian Terr. 1900).
+
+															By now, Oklahoma’s next move will seem familiar.  Seeking to sow doubt around express treaty promises, it cites some stray language from a statute that does not control here, a piece of congressional testimony there, and the scattered opinions of agency officials everywhere in between.  See, e.g., Act of July 31, 1882, ch. 360,
+
+22Stat.
+179 (referring to Creek land as “Indian country” as opposed to an “Indian reservation”); S. Doc. No. 143, 59th Cong., 1st. Sess., 33 (1906) (Chief of Choctaw Nation—which had an arrangement similar to the Creek’s—testified that both Tribes “object to being classified with the reservation Indians”); Dept. of Interior, Census Office, Report on Indians Taxed and Indians Not Taxed in the U. S. 284 (1894) (Creeks and neighboring Tribes were “not on the ordinary Indian reservation, but on lands patented to them by the United States”).  Oklahoma stresses that this Court even once called the Creek lands a “dependent Indian community,” though it used that phrase in passing and only to show that the Tribe’s “property and affairs were subject to the control and management of that government”—a point that would also be true if the lands were a reservation.  Creek Nation, 295 U. S., at 109.  Unsurprisingly given the Creek Nation’s nearly 200-year occupancy of these lands, both sides have turned up a few clues suggesting the label “reservation” either did or did not apply.  One thing everyone can agree on is this history is long and messy.
+
+															But the most authoritative evidence of the Creek’s relationship to the land lies not in these scattered references; it lies in the treaties and statutes that promised the land to the Tribe in the first place.  And, if not for the Tribe’s fee title to its land, no one would question that these treaties and statutes created a reservation.  So the State’s argument inescapably boils down to the untenable suggestion that, when the federal government agreed to offer more protection for tribal lands, it really provided less.  All this time, fee title was nothing more than another trap for the wary.
+
+															V
+
+															That leaves Oklahoma to attempt yet another argument in the alternative.  We alluded to it earlier in Part III.  Now, the State accepts for argument’s sake that the Creek land is a reservation and thus “Indian country” for purposes of the Major Crimes Act.  It accepts, too, that this would normally mean serious crimes by Indians on the Creek Reservation would have to be tried in federal court.  But, the State tells us, none of that matters; everything the parties have briefed and argued so far is beside the point.  It’s all irrelevant because it turns out the MCA just doesn’t apply to the eastern half of Oklahoma, and it never has.  That federal law may apply to other States, even to the western half of Oklahoma itself.  But eastern Oklahoma is and has always been exempt.  So whether or not the Creek have a reservation, the State’s historic practices have always been correct and it remains free to try individuals like Mr. McGirt in its own courts.
+
+															Notably, the dissent again declines to join Oklahoma in its latest twist.  And, it turns out, for good reason.  In support of its argument, Oklahoma points to statutory artifacts from its territorial history.  The State of Oklahoma was formed from two territories:  the Oklahoma Territory in the west and Indian Territory in the east.  Originally, it seems criminal prosecutions in the Indian Territory were split between tribal and federal courts.  See Act of May 2, 1890, §30,
+
+26Stat.
+94.  But, in 1897, Congress abolished that scheme, granting the U. S. Courts of the Indian Territory “exclusive jurisdiction” to try “all criminal causes for the punishment of any offense.”  Act of June 7, 1897,
+
+30Stat.
+83.  These federal territorial courts applied federal law and state law borrowed from Arkansas “to all persons . . . irrespective of race.”  Ibid.  A year later, Congress abolished tribal courts and transferred all pending criminal cases to U. S. courts of the Indian Territory.  Curtis Act of 1898, §28,
+
+30Stat.
+504–505.  And, Oklahoma says, sending Indians to federal court and all others to state court would be inconsistent with this established and enlightened policy of applying the same law in the same courts to everyone.
+
+															Here again, however, arguments along these and similar lines have been “frequently raised” but rarely “accepted.”  United States v. Sands, 968 F.2d 1058, 1061 (CA10 1992) (Kelly, J.).  “The policy of leaving Indians free from state jurisdiction and control is deeply rooted in this Nation’s history.”  Rice v. Olson,
+
+324 U.S. 786, 789 (1945).  Chief Justice Marshall, for example, held that Indian Tribes were “distinct political communities, having territorial boundaries, within which their authority is exclusive . . . which is not only acknowledged, but guarantied by the United States,” a power dependent on and subject to no state authority.  Worcester v. Georgia, 6 Pet. 515, 557 (1832); see also McClanahan v. Arizona Tax Comm’n,
+
+411 U.S. 164, 168–169 (1973).  And in many treaties, like those now before us, the federal government promised Indian Tribes the right to continue to govern themselves.  For all these reasons, this Court has long “require[d] a clear expression of the intention of Congress” before the state or federal government may try Indians for conduct on their lands.  Ex parte Crow Dog,
+
+109 U.S. 556, 572 (1883).
+
+															Oklahoma cannot come close to satisfying this standard.  In fact, the only law that speaks expressly here speaks against the State.  When Oklahoma won statehood in 1907, the MCA applied immediately according to its plain terms.  That statute, as phrased at the time, provided exclusive federal jurisdiction over qualifying crimes by Indians in “any Indian reservation” located within “the boundaries of any State.”  Act of Mar. 3, 1885, ch. 341, §9,
+
+23Stat.
+385 (emphasis added); see also
+
+18 U. S. C. §1151 (defining “Indian country” even more broadly).  By contrast, every one of the statutes the State directs us to merely discusses the assignment of cases among courts in the Indian Territory.  They say nothing about the division of responsibilities between federal and state authorities after Oklahoma entered the Union.  And however enlightened the State may think it was for territorial law to apply to all persons irrespective of race, some Tribe members may see things differently, given that the same policy entailed the forcible closure of tribal courts in defiance of treaty terms.
+
+															Left to hunt for some statute that might have rendered the MCA inapplicable in Oklahoma after statehood, the best the State can find is the Oklahoma Enabling Act.  Congress adopted that law in preparation for Oklahoma’s admission in 1907.  Among its many provisions sorting out the details associated with Oklahoma’s transition to statehood, the Enabling Act transferred all nonfederal cases pending in territorial courts to Oklahoma’s new state courts.  Act of June 16, 1906, §20,
+
+34Stat.
+277; see also Act of Mar. 4, 1907, §3,
+
+34Stat.
+1287 (clarifying treatment of cases to which United States was a party).  The State says this transfer made its courts the inheritors of the federal territorial courts’ sweeping authority to try Indians for crimes committed on reservations.
+
+															But, at best, this tells only half the story.  The Enabling Act not only sent all nonfederal cases pending in territorial courts to state court.  It also transferred pending cases that arose “under the Constitution, laws, or treaties of the United States” to federal district courts.  §16,
+
+34Stat.
+277.  Pending criminal cases were thus transferred to federal court if the prosecution would have belonged there had the Territory been a State at the time of the crime.  §1,
+
+34Stat.
+1287 (amending the Enabling Act).  Nor did the statute make any distinction between cases arising in the former eastern (Indian) and western (Oklahoma) territories.  So, simply put, the Enabling Act sent state-law cases to state court and federal-law cases to federal court.  And serious crimes by Indians in Indian country were matters that arose under the federal MCA and thus properly belonged in federal court from day one, wherever they arose within the new State.
+
+															Maybe that’s right, Oklahoma acknowledges, but that’s not what happened.  Instead, for many years the State continued to try Indians for crimes committed anywhere within its borders.  But what can that tell us?  The State identifies not a single ambiguous statutory term in the MCA that its actions might illuminate.  And, as we have seen, its own courts have acknowledged that the State’s historic practices deviated in meaningful ways from the MCA’s terms.  See supra, at 22–23.  So, once more, it seems Oklahoma asks us to defer to its usual practices instead of federal law, something we will not and may never do.
+
+															That takes Oklahoma down to its last straw when it comes to the MCA.  If Oklahoma lacks the jurisdiction to try Native Americans it has historically claimed, that means at the time of its entry into the Union no one had the power to try minor Indian-on-Indian crimes committed in Indian country.  This much follows, Oklahoma reminds us, because the MCA provides federal jurisdiction only for major crimes, and no tribal forum existed to try lesser cases after Congress abolished the tribal courts in 1898.  Curtis Act, §28,
+
+30Stat.
+504–505.  Whatever one thinks about the plausibility of other discontinuities between federal law and state practice, the State says, it is unthinkable that Congress would have allowed such a significant “jurisdictional gap” to open at the moment Oklahoma achieved statehood.
+
+															But what the State considers unthinkable turns out to be easily imagined. Jurisdictional gaps are hardly foreign to this area of the law.  See, e.g., Duro v. Reina,
+
+495 U.S. 676, 704–706 (1990) (Brennan, J., dissenting).  Many tribal courts across the country were absent or ineffective during the early part of the last century, yielding just the sort of gaps Oklahoma would have us believe impossible.  Indeed, this might be why so many States joined Oklahoma in prosecuting Indians without proper jurisdiction.  The judicial mind abhors a vacuum, and the temptation for state prosecutors to step into the void was surely strong.  See supra, at 23–24.
+
+															With time, too, Congress has filled many of the gaps Oklahoma worries about.  One way Congress has done so is by reauthorizing tribal courts to hear minor crimes in Indian country.  Congress chose exactly this course for the Creeks and others in 1936.  Act of June 26, 1936, §3,
+
+49Stat.
+1967; see also Hodel, 851 F. 2d, at 1442–1446.  Another option Congress has employed is to allow affected Indian tribes to consent to state criminal jurisdiction.  25 U. S. C. §§1321(a), 1326.  Finally, Congress has sometimes expressly expanded state criminal jurisdiction in targeted bills addressing specific States.  See, e.g., 
+
+18 U. S. C. §3243 (creating jurisdiction for Kansas); Act of May 31, 1946, ch. 279,
+
+60Stat.
+229 (same for a reservation in North Dakota); Act of June 30, 1948, ch. 759,
+
+62Stat.
+1161 (same for certain reservations in Iowa);
+
+18 U. S. C. §1162 (creating jurisdiction for six additional States).  But Oklahoma doesn’t claim to have complied with the requirements to assume jurisdiction voluntarily over Creek lands.  Nor has Congress ever passed a law conferring jurisdiction on Oklahoma.  As a result, the MCA applies to Oklahoma according to its usual terms: Only the federal government, not the State, may prosecute Indians for major crimes committed in Indian country.
+
+															VI
+
+															In the end, Oklahoma abandons any pretense of law and speaks openly about the potentially “transform[ative]” effects of a loss today.  Brief for Respondent 43.  Here, at least, the State is finally rejoined by the dissent.  If we dared to recognize that the Creek Reservation was never disestablished, Oklahoma and dissent warn, our holding might be used by other tribes to vindicate similar treaty promises.  Ultimately, Oklahoma fears that perhaps as much as half its land and roughly 1.8 million of its residents could wind up within Indian country.
+
+															It’s hard to know what to make of this self-defeating argument.  Each tribe’s treaties must be considered on their own terms, and the only question before us concerns the Creek.  Of course, the Creek Reservation alone is hardly insignificant, taking in most of Tulsa and certain neighboring communities in Northeastern Oklahoma.  But neither is it unheard of for significant non-Indian populations to live successfully in or near reservations today.  See, e.g., Brief for National Congress of American Indians Fund as Amicus Curiae 26–28 (describing success of Tacoma, Washington, and Mount Pleasant, Michigan); see also Parker, 577 U. S., at ___–___ (slip op., at 10–12) (holding Pender, Nebraska, to be within Indian country despite tribe’s absence from the disputed territory for more than 120 years).  Oklahoma replies that its situation is different because the affected population here is large and many of its residents will be surprised to find out they have been living in Indian country this whole time.  But we imagine some members of the 1832 Creek Tribe would be just as surprised to find them there.
+
+															What are the consequences the State and dissent worry might follow from an adverse ruling anyway?  Primarily, they argue that recognizing the continued existence of the Creek Reservation could unsettle an untold number of convictions and frustrate the State’s ability to prosecute crimes in the future.  But the MCA applies only to certain crimes committed in Indian country by Indian defendants.  A neighboring statute provides that federal law applies to a broader range of crimes by or against Indians in Indian country.  See
+
+18 U. S. C. §1152.  States are otherwise free to apply their criminal laws in cases of non-Indian victims and defendants, including within Indian country.  See McBratney, 104 U. S., at 624.  And Oklahoma tells us that somewhere between 10% and 15% of its citizens identify as Native American.  Given all this, even Oklahoma admits that the vast majority of its prosecutions will be unaffected whatever we decide today.
+
+															Still, Oklahoma and the dissent fear, “[t]housands” of Native Americans like Mr. McGirt “wait in the wings” to challenge the jurisdictional basis of their state-court convictions.  Brief for Respondent 3.  But this number is admittedly speculative, because many defendants may choose to finish their state sentences rather than risk reprosecution in federal court where sentences can be graver.  Other defendants who do try to challenge their state convictions may face significant procedural obstacles, thanks to well-known state and federal limitations on postconviction review in criminal proceedings.[15]  
+
+															In any event, the magnitude of a legal wrong is no reason to perpetuate it.  When Congress adopted the MCA, it broke many treaty promises that had once allowed tribes like the Creek to try their own members.  But, in return, Congress allowed only the federal government, not the States, to try tribal members for major crimes.  All our decision today does is vindicate that replacement promise.  And if the threat of unsettling convictions cannot save a precedent of this Court, see Ramos v. Louisiana, 590 U. S. ___, ___–___ (2020) (plurality opinion) (slip op., at 23–26), it certainly cannot force us to ignore a statutory promise when no precedent stands before us at all.
+
+															What’s more, a decision for either party today risks upsetting some convictions.  Accepting the State’s argument that the MCA never applied in Oklahoma would preserve the state-court convictions of people like Mr. McGirt, but simultaneously call into question every federal conviction obtained for crimes committed on trust lands and restricted Indian allotments since Oklahoma recognized its jurisdictional error more than 30 years ago.  See supra, at 22.  It’s a consequence of their own arguments that Oklahoma and the dissent choose to ignore, but one which cannot help but illustrate the difficulty of trying to guess how a ruling one way or the other might affect past cases rather than simply proceeding to apply the law as written.
+
+															Looking to the future, Oklahoma warns of the burdens federal and tribal courts will experience with a wider jurisdiction and increased caseload.  But, again, for every jurisdictional reaction there seems to be an opposite reaction: recognizing that cases like Mr. McGirt’s belong in federal court simultaneously takes them out of state court.  So while the federal prosecutors might be initially understaffed and Oklahoma prosecutors initially overstaffed, it doesn’t take a lot of imagination to see how things could work out in the end.
+
+															Finally, the State worries that our decision will have significant consequences for civil and regulatory law.  The only question before us, however, concerns the statutory definition of “Indian country” as it applies in federal criminal law under the MCA, and often nothing requires other civil statutes or regulations to rely on definitions found in the criminal law.  Of course, many federal civil laws and regulations do currently borrow from §1151 when defining the scope of Indian country.  But it is far from obvious why this collateral drafting choice should be allowed to skew our interpretation of the MCA, or deny its promised benefits of a federal criminal forum to tribal members.
+
+															It isn’t even clear what the real upshot of this borrowing into civil law may be.  Oklahoma reports that recognizing the existence of the Creek Reservation for purposes of the MCA might potentially trigger a variety of federal civil statutes and rules, including ones making the region eligible for assistance with homeland security, 6 U. S. C. §§601, 606, historical preservation,
+
+54 U. S. C. §302704, schools,
+
+20 U. S. C. §1443, highways,
+
+23 U. S. C. §120, roads, §202, primary care clinics,
+
+25 U. S. C. §1616e–1, housing assistance, §4131, nutritional programs, 7 U. S. C. §§2012, 2013, disability programs,
+
+20 U. S. C. §1411, and more.  But what are we to make of this?  Some may find developments like these unwelcome, but from what we are told others may celebrate them.
+
+															The dissent isn’t so sanguine—it assures us, without further elaboration, that the consequences will be “drastic precisely because they depart from . . . more than a century [of] settled understanding.”  Post, at 37.  The prediction is a familiar one.  Thirty years ago the Solicitor General warned that “[l]aw enforcement would be rendered very difficult” and there would be “grave uncertainty regarding the application” of state law if courts departed from decades of “long-held understanding” and recognized that the federal MCA applies to restricted allotments in Oklahoma.  Brief for United States as Amicus Curiae in Oklahoma v. Brooks, O.T. 1988, No. 88–1147, pp. 2, 9, 18, 19.  Yet, during the intervening decades none of these predictions panned out, and that fact stands as a note of caution against too readily crediting identical warnings today.
+
+															More importantly, dire warnings are just that, and not a license for us to disregard the law.  By suggesting that our interpretation of Acts of Congress adopted a century ago should be inflected based on the costs of enforcing them today, the dissent tips its hand.  Yet again, the point of looking at subsequent developments seems not to be determining the meaning of the laws Congress wrote in 1901 or 1906, but emphasizing the costs of taking them at their word.
+
+															Still, we do not disregard the dissent’s concern for reliance interests.  It only seems to us that the concern is misplaced.   Many other legal doctrines—procedural bars, res judicata, statutes of repose, and laches, to name a few—are designed to protect those who have reasonably labored under a mistaken understanding of the law.  And it is precisely because those doctrines exist that we are “fre[e] to say what we know to be true . . . today, while leaving questions about . . . reliance interest[s] for later proceedings crafted to account for them.”  Ramos, 590 U. S., at ___ (plurality opinion) (slip op., at 24).
+
+															In reaching our conclusion about what the law demands of us today, we do not pretend to foretell the future and we proceed well aware of the potential for cost and conflict around jurisdictional boundaries, especially ones that have gone unappreciated for so long.  But it is unclear why pessimism should rule the day.  With the passage of time, Oklahoma and its Tribes have proven they can work successfully together as partners.  Already, the State has negotiated hundreds of intergovernmental agreements with tribes, including many with the Creek.  See Okla. Stat., Tit. 74, §1221 (2019 Cum. Supp.); Oklahoma Secretary of State, Tribal Compacts and Agreements, www.sos.ok.gov/tribal.aspx.  These agreements relate to taxation, law enforcement, vehicle registration, hunting and fishing, and countless other fine regulatory questions.  See Brief for Tom Cole et al. as Amici Curiae 13–19.  No one before us claims that the spirit of good faith, “comity and cooperative sovereignty” behind these agreements, id., at 20, will be imperiled by an adverse decision for the State today any more than it might be by a favorable one.[16]  And, of course, should agreement prove elusive, Congress remains free to supplement its statutory directions about the lands in question at any time.  It has no shortage of tools at its disposal.
+
+															*
+
+															The federal government promised the Creek a reservation in perpetuity.  Over time, Congress has diminished that reservation.  It has sometimes restricted and other times expanded the Tribe’s authority.  But Congress has never withdrawn the promised reservation.  As a result, many of the arguments before us today follow a sadly familiar pattern.  Yes, promises were made, but the price of keeping them has become too great, so now we should just cast a blind eye.  We reject that thinking.  If Congress wishes to withdraw its promises, it must say so.  Unlawful acts, performed long enough and with sufficient vigor, are never enough to amend the law.  To hold otherwise would be to elevate the most brazen and longstanding injustices over the law, both rewarding wrong and failing those in the right.
+
+															The judgment of the Court of Criminal Appeals of Oklahoma is
+
+															Reversed.
+Notes
+1
+  The dissent by The Chief Justice (hereinafter the dissent) suggests that the Creek’s intervening alliance with the Confederacy “ ‘unsettled’ ” and “ ‘forfeit[ed]’ ” the longstanding promises of the United States.  Post, at 3.  But the Treaty of 1866 put an end to any Civil War hostility, promising mutual amnesty, “perpetual peace and friendship,” and guaranteeing the Tribe the “quiet possession of their country.”  Art. I,
+
+14Stat.
+786.  Though this treaty expressly reduced the size of the Creek Reservation, the Creek were compensated for the lost territory, and otherwise “retained” their unceded portion.  Art. III, ibid.  Contrary to the dissent’s implication, nothing in the Treaty of 1866 purported to repeal prior treaty promises. Cf. Art. XII, id., at 790 (the United States expressly “reaffirms and reassumes all obligations of treaty stipulations with the Creek nation entered into before” the Civil War). 
+
+2
+ The dissent stresses, repeatedly, that the Dawes Commission was charged with seeking to extinguish the reservation.  Post, at 18, 24. Yet, the dissent fails to mention the Commission’s various reports acknowledging that those efforts were unsuccessful precisely because the Creek refused to cede their lands. 
+
+3
+ The dissent not only fails to acknowledge these features of the statute and our precedents.  It proceeds in defiance of them, suggesting that by moving to eliminate communal title and relaxing restrictions on alienation, “Congress destroyed the foundation of [the Creek Nation’s] sovereignty.” Post, at 18–19.  But this Court long ago rejected the notion that the purchase of lands by non-Indians is inconsistent with reservation status. See Seymour, 368 U. S., at 357–358. 
+
+4
+ The dissent seemingly conflates these steps in other ways, too, by implying that the passage of an allotment Act itself extinguished title.  Post, at 18–19.  The reality proved more complicated.  Allotment of the Creek lands did not occur overnight, but dragged on for years, well past Oklahoma’s statehood, until Congress finally prohibited any further allotments more than 15 years later.  Act of Mar. 2, 1917,
+
+39Stat.
+986. 
+
+5
+ The dissent doesn’t purport to find any of the hallmarks of diminishment in the Creek Allotment Agreement.  Instead, the dissent tries to excuse their absence by saying that it would have made “little sense” to find such language in an Act transferring the Tribe’s lands to private owners.  Post, at 14.  But the dissent’s account is impossible to reconcile with history and precedent.  As we have noted, plenty of allotment agreements during this era included precisely the language of cession and compensation that the dissent says it would make “little sense” to find there.  And this Court has confirmed time and again that allotment agreements without such language do not necessarily disestablish or diminish the reservation at issue.  See Mattz v. Arnett,
+
+412 U.S. 481, 497 (1973); Seymour v. Superintendent of Wash. State Penitentiary,
+
+368 U.S. 351, 358 (1962).  The dissent’s only answer is to  suggest that allotment combined with other statutes limiting the Creek Nation’s governing authority amounted to disestablishment—in other words that it’s the arguments in the next section that really do the work. 
+
+6
+ The dissent calls it “fantasy” to suggest that Congress evinced “any unease about extinguishing the Creek domain” because Congress “did what it set out to do: transform a reservation into a State.”  Post, at 22–23.  The dissent stresses, too, that the Creek were afforded U. S. citizenship and the right to vote.  Post, at 20.  But the only thing implausible here is the suggestion that “creat[ing] a new State” or enfranchising Native Americans implies an “intent to terminate” any and all reservations within a State’s boundaries.  Post, at 15. This Court confronted—and rejected—that sort of argument long ago in United States v. Sandoval,
+
+231 U.S. 28, 47–48 (1913).  The dissent treats that case as a one-off:  special because “the tribe in Sandoval, the Pueblo Indians of New Mexico, retained a rare communal title to their lands.”  Post, at 21, n. 4.  But Sandoval is not only a case about the Pueblos; it is a foundational precedent recognizing that Congress can welcome Native Americans to participate in a broader political community without sacrificing their tribal sovereignty. 
+
+7
+ The dissent ultimately concedes what Oklahoma will not:  that no “individual congressional action or piece of evidence, standing alone, disestablished the Creek reservation.”  Post, at 9–10. Instead we’re told we must consider “all of the relevant Acts of Congress together, viewed in light of contemporaneous and subsequent contextual evidence.”  Ibid.  So, once again, the dissent seems to suggest that it’s the arguments in the next section that will get us across the line to disestablishment. 
+
+8
+ The dissent suggests Parker meant to say only that evidence of subsequent treatment had limited interpretative value “in that case.”  Post, at 12.  But the dissent includes just a snippet of the relevant passage.  Read in full, there is little room to doubt Parker invoked a general rule: “This subsequent demographic history cannot overcome our conclusion that Congress did not intend to diminish the reservation in 1882. And it is not our rule to ‘rewrite’ the 1882 Act in light of this subsequent demographic history.  DeCoteau, 420 U. S., at 447.  After all, evidence of the changing demographics of disputed land is ‘the least compelling’ evidence in our diminishment analysis, for ‘[e]very surplus land Act necessarily resulted in a surge of non-Indian settlement and degraded the “Indian character” of the reservation, yet we have repeatedly stated that not every surplus land Act diminished the affected reservation.’ Yankton Sioux, 522 U. S., at 356. . . .  Evidence of the subsequent treatment of the disputed land by Government officials likewise has ‘limited interpretive value.’ Id., at 355.”  577 U. S., at ___ (slip op., at 11). 
+
+9
+ In an effort to support its very different course, the dissent stitches together quotes from Rosebud Sioux Tribe v. Knelp,
+
+430 U.S. 584 (1977), and South Dakota v. Yankton Sioux Tribe,
+
+522 U.S. 329 (1998).  Post, at 10–11.  But far from supporting the dissent, both cases emphasize that “[t]he focus of our inquiry is congressional intent,” Rosebud, 430 U. S., at 588, n. 4; see also Yankton Sioux, 522 U. S., at 343, and merely acknowledge that extratextual sources may help resolve ambiguity about Congress’s directions.  The dissent’s appeal to Solem fares no better.  As we have seen, the extratextual sources in Solem only confirmed what the relevant statute already suggested—that the reservation in question was not diminished or disestablished.  465 U. S., at 475–476. 
+
+10
+  The dissent tries to avoid this inconvenient history by distinguishing fee allotments from reservations, noting that the two categories are legally distinct and geographically incommensurate.  Post, at 27.  But this misses the point:  The reason that Oklahoma thought it could prosecute Indians for crimes on restricted allotments applied with equal force to reservations.  And it hardly “stretches the imagination” to think that reason was wrong, post, at 28, when the dissent itself does not dispute our rejection of it in Part V. 
+
+11
+ Unable to answer Oklahoma’s admitted error about the very federal criminal statute before us, the dissent travels far afield, pointing to the fact an Oklahoma court heard a civil case in 1915 about an inheritance—involving members of a different Tribe—as “evidence” Congress disestablished the Creek Reservation.  See post, at 21 (citing Palmer v. Cully, 52 Okla. 454, 455–465, 153 P. 154, 155–157 (1915) (per curiam)).  But even assuming that Oklahoma courts exercised civil jurisdiction over Creek members, too, the dissent never explains why this jurisdiction implies the Creek Reservation must have been disestablished.  After all, everyone agrees that the Creeks were prohibited from having their own courts at the time.  So it should be no surprise that some Creek might have resorted to state courts in hope of resolving their disputes. 
+
+12
+ The dissent finds the statements of the Creek leadership so proba-tive that it cites them not just as evidence about the meaning of treaties the Tribe signed but even as evidence about the meaning of general purpose laws the Creek had no hand in.  See post, at 26 (citing Chief Porter’sviews on the legal effects of the Oklahoma Enabling Act).  That is quite a stretch from using tribal statements as “historical evidence of ‘the manner in which [treaties were] negotiated’ with the . . . Tribe.”  Parker, 577 U. S., at ___ (slip op., at 9) (quoting Solem v. Bartlett,
+
+465 U.S. 463, 471 (1984)). 
+
+13
+ Part of the reason for Cohen’s error might be explained by a portion of the memorandum the dissent leaves unquoted.  Cohen concluded that Oklahoma was free to try Indians anywhere in the State because, among other things, the Oklahoma Enabling Act “transfer[red] . . . jurisdiction from the Federal courts to the State courts upon the establishment of the State of Oklahoma.”  App. to Supp. Reply Brief for Petitioner in Carpenter v. Murphy, O. T. 2018, No. 17–1107, p. 1a (Memorandum for Commissioner of Indian Affairs (July 11, 1941)).  Yet, as we explore below, the Oklahoma Enabling Act did not send cases covered by the federal MCA to state court.  See Part V, infra.  Other, contemporaneous Interior Department memoranda acknowledged that Oklahoma state courts had simply “assumed jurisdiction” over cases arising on restricted allotments without any clear authority in the Oklahoma Enabling Act or the MCA, and much the same appears to have occurred here.  App. to Supp. Reply Brief for Respondent in Carpenter v. Murphy, O. T. 2018, No. 17–1107, p. 1a (Memorandum from N. Gray, Dept. of Interior, for Mr. Flanery (Aug. 12, 1942)).  So rather than Oklahoma and the United States having a “shared understanding” that Congress had disestablished the Creek Reservation, post, at 27, it seems more accurate to say that for many years much uncertainty remained about whether the MCA applied in eastern Oklahoma. 
+
+14
+ The dissent asks us to examine a hodge-podge of other, but no more compelling, material.  For example, the dissent points to later statutes that do no more than confirm there are former reservations in the State of Oklahoma.  Post, at 30–31.  It cites legislative history to show that Congress had the Creek Nation—or, at least, its neighbors—in mind when it added these in 1988.  Post, at 31, n. 7. The dissent cites a Senate Report from 1989 and post-1980 statements made by representatives of other tribes.  Post, at 30, 32–33.  It highlights three occasions on which this Court referred to something like a “former Creek Nation,” though it neglects to add that in each the Court was referring to the loss of the Nation’s communal fee title, not its sovereignty.  Grayson v. Harris,
+
+267 U.S. 352, 357 (1925); Woodward v. DeGraffenreid,
+
+238 U.S. 284, 289–290 (1915); Washington v. Miller,
+
+235 U.S. 422, 423–425 (1914).  The dissent points as well to a single instance in which the Creek Nation disclaimed reservation boundaries for purposes of litigation in a lower court, post, at 32, but ignores that the Creek Nation has repeatedly filed briefs in this Court to the contrary.  This is thin gruel to set against treaty promises enshrined in statutes. 
+
+15
+ For example, Oklahoma appears to apply a general rule that “issues that were not raised previously on direct appeal, but which could have been raised, are waived for further review.”  Logan v. State, 2013 OK CR 2, ¶ 1, 293 P.3d 969, 973.  Indeed, Justice Thomas contends that this state-law limitation on collateral review prevents us from considering even the case now before us.  Post, at 2 (dissenting opinion).  But while that state-law rule may often bar our way, it doesn’t in this case.  After noting a potential state-law obstacle, the Oklahoma Court of Criminal Appeals (OCCA) proceeded to address the merits of Mr. McGirt’s federal MCA claim anyway.  Because the OCCA’s opinion “fairly appears to rest primarily on federal law or to be interwoven with federal law” and lacks any “plain statement” that it was relying on a state-law ground, we have jurisdiction to consider the federal-law question presented to us.  See Michigan v. Long,
+
+463 U.S. 1032, 1040–1041, 1044 (1983). 
+
+16
+  This sense of cooperation and a shared future is on display in this very case.  The Creek Nation is supported by an array of leaders of other Tribes and the State of Oklahoma, many of whom had a role in negotiating exactly these agreements.  See Brief for Tom Cole et al. as Amici Curiae 1 (“Amici are a former Governor, State Attorney General, cabinet members, and legislators of the State of Oklahoma, and two federally recognized Indian tribes, the Chickasaw Nation and Choctaw Nation of Oklahoma”) (brief authored by Robert H. Henry, also a former State Attorney General and Chief Judge of the Tenth Circuit). 
+
+

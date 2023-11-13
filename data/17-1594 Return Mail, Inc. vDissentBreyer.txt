@@ -1,0 +1,85 @@
+::SCDB_caseID:: 2018-041
+::decision_cite:: 17-1594
+::decision_name::  Return Mail, Inc. v. United States Postal Service
+::decision_year:: 2019
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1594
+
+															_________________
+
+															RETURN MAIL, INC., PETITIONER v. UNITED STATES POSTAL SERVICE, et al.
+
+															on writ of certiorari to the united states court of appeals for the federal circuit
+
+															[June 10, 2019]
+
+															
+
+															Justice Breyer, with whom Justice Ginsburg and Justice Kagan join, dissenting.
+
+															When A sues B for patent infringement, B may defend against the lawsuit by claiming that A’s patent is invalid.  In court, B must prove the invalidity of A’s patent by “clear and convincing evidence.”  Microsoft Corp. v. i4i L. P.,
+
+564 U.S. 91, 95 (2011).  Congress, however, has also established a variety of administrative procedures that B may use to challenge the validity of A’s patent.  Although some of the statutes setting forth these administrative procedures have existed for several decades, we consider here the three administrative procedures that Congress established in the Leahy-Smith America Invents Act of 2011.  See ante, at 3–5.  All three involve hearings before the Patent Trial and Appeal Board, which is part of the Patent and Trademark Office.  And all three involve a lower burden of proof: B need only prove by a preponderance of the evidence that A’s patent is invalid.  35 U. S. C. §§316(e), 326(e); see America Invents Act, §18(a)(1),
+
+125Stat.
+329.
+
+															The America Invents Act states that all three administrative procedures may be invoked only by a “person.”  35 U. S. C. §§311(a), 321(a); America Invents Act, §18(a)(1)(B),
+
+125Stat.
+330.  Here we must decide whether the Government falls within the scope of the word “person.”  Are federal agencies entitled to invoke these administrative procedures on the same terms as private parties?  In my view, the answer is “yes.”  For purposes of these statutes, Government agencies count as “persons” and so may invoke these procedures to challenge the validity of a patent.
+
+															The Court reaches the opposite conclusion based on the interpretive presumption that the word “person” excludes the Government.  See ante, at 7.  This presumption, however, is “no hard and fast rule of exclusion.”  United States v. Cooper Corp.,
+
+312 U.S. 600, 604–605 (1941).  We have long said that this presumption may be overcome when “ ‘[t]he purpose, the subject matter, the context, the legislative history, [or] the executive interpretation . . . indicate an intent’ ” to include the Government.  International Primate Protection League v. Administrators of Tulane Ed. Fund,
+
+500 U.S. 72, 83 (1991) (quoting Cooper, supra, at 605).  And here these factors indicate that very intent.
+
+															I
+
+															The language of other related patent provisions strongly suggests that, in the administrative review statutes at issue here, the term “person” includes the Government.
+
+															The Patent Act states that “[e]ach Federal agency is authorized” to “apply for, obtain, and maintain patents or other forms of protection . . . on inventions in which the Federal Government owns a right, title, or interest.”
+
+35 U. S. C. §207(a)(1).  The Act then provides that a “per- son” shall be “entitled to a patent” if various “[c]onditions for patentability” have been met.  §102(a)(1) (emphasis added).  It authorizes a “person to whom the inventor has assigned” an invention to apply for a patent in some circumstances.  §118 (emphasis added).  And it generally allows “any person” who initially files a patent application in a foreign country to obtain in the United States the advantage of that earlier filing date.  §119 (emphasis added).  Because the Government is authorized to “obtain” patents, there is no dispute here that the word “person” in these patent-eligibility provisions must include the Government.  See ante, at 10–11.
+
+															Now consider a few of the statutory provisions that help those accused of infringing a patent.  Suppose A obtains a patent in Year One, modifies this patent in Year Three, and then accuses B of infringing the patent as modified in Year Five.  What if B’s conduct infringes the modified patent but did not infringe A’s patent as it originally stood in Year One?  In these circumstances, Congress has provided that A generally cannot win an infringement suit against B.  The relevant statutes, known as the “intervening rights” provisions, state that B is entitled to a defense that his conduct did not violate the original, unmodified patent.  §§252, 307(b), 318(c), 328(c).  These statutes, several of which were enacted alongside the three administrative review procedures in the America Invents Act, provide that a “person” may take advantage of this defense.  Ibid. (emphasis added).  Again, as the parties all agree, the word “person” in these provisions includes the Government.  See Reply Brief 3; Lamson v. United States, 117 Fed. Cl. 755, 760 (2014) (noting that the Government may “avail itself of any defense that is available to a private party in an infringement action”).
+
+															The majority refers to several patent-related provisions that use the word “person” but that do not include the Government within the scope of that term.  See ante, at 10, and n. 4. These provisions, however, concern details of administration that, almost by definition, could not involve an entity such as the Government.  The first provision cited by the majority says that administrative patent judges must be “persons of competent legal knowledge and scientific ability.”  §6(a).  Patent judges are human beings, not governments or corporations or other artificial entities.  The second requires the Patent Office to keep confidential a referral to the Attorney General of possible fraud unless the Government charges “a person” with a related criminal offense.  §257(e).  Although the word “person” here could refer to a corporation, it cannot refer to the Government, for governments do not charge themselves with crimes.  The third concerns payment for the “subsistence expenses and travel-related expenses” of “persons” who attend certain programs relating to intellectual property law.  §2(b)(11).  But governments as entities do not travel, attend events, or incur expenses for “subsistence” or “lodging”; only their employees do.  Ibid.  (The majority also refers to a fourth provision, which defines a “joint research agreement” as an agreement between “2 or more persons or entities.”  §100(h).  If the Government is not a “person” under this provision, it is only because the adjacent term “entities” already covers the Government.)
+
+															The fact that the word “person” does not apply to the Government where that application is close to logically impossible proves nothing at all about the word’s application here.  On the one hand, Congress has used the word “person” to refer to Government agencies when the statute concerns the criteria for obtaining patents, or when the statute concerns the availability of certain infringement defenses.  On the other, Congress has not used the word “person” to refer to Government agencies when doing so would be close to logically impossible, or where the context otherwise makes plain that the Government is not a “person.”  The provisions at issue here, which establish administrative procedures for the benefit of parties accused of infringement, are much closer to the former category than the latter.  It therefore makes little sense to presume that the word “person” excludes the Government, for the surrounding provisions point to the opposite conclusion.
+
+															II   
+
+															The statutes’ purposes, as illuminated by the legislative history and longstanding executive interpretation, show even more clearly that Congress intended the term “person” to include the Government in this context.
+
+															Congress enacted the new administrative review procedures for two basic reasons.  First, Congress sought to “improve the quality of patents” and “make the patent system more efficient” by making it easier to challenge “questionable patents.”  H. R. Rep. No. 112–98, pt. 1, pp. 39, 48 (2011); see id., at 39 (noting the “growing sense that questionable patents are too easily obtained and are too difficult to challenge”); id., at 45 (explaining that pre-existing administrative procedures were “less viable alternativ[es] to litigation . . . than Congress intended”).  Congress’ goal of providing an easier way for parties to challenge “questionable patents” is implicated to the same extent whether the Government or a private party is the one accused of infringing an invalid patent.  That is perhaps why the Executive Branch has long indicated that Government agencies count as “perso[ns]” who are entitled to invoke the administrative review procedures that predate the America Invents Act.  See Dept. of Commerce, Patent and Trademark Office, Manual of Patent Examining Procedure §§2203, 2212 (4th rev. ed., Sept. 1982).
+
+															Second, the statutes help maintain a robust patent system in another way: They allow B, a patent holder who might be sued for infringing A’s (related) patent, to protect B’s own patent by more easily proving the invalidity of A’s patent.  Insofar as this objective underlies the statutes at issue here, it applies to the same extent whether B is a private person or a Government agency.  Indeed, the Patent Act explicitly states that the Government may “maintain” patents and “undertake all other suitable and necessary steps to protect and administer rights to federally owned inventions on behalf of the Federal Government.”  35 U. S. C. §§207(a)(1), (3).  And the use of administrative procedures to “protect” a patented invention from claims of infringement (by clearing away conflicting pat-ents that cover the same or similar ground) would seem to be “suitable and necessary” whether a private person or a Government agency invokes these procedures.  Cf. Halo Electronics, Inc. v. Pulse Electronics, Inc., 579 U. S. ___, ___ (2016) (slip op., at 14) (noting that a third-party patent covering part of an invention may be used to exact “licensing fees” from the inventor); Acorda Therapeutics, Inc. v. Roxane Laboratories, Inc., 903 F.3d 1310, 1337 (CA Fed. 2018) (explaining that a third-party patent covering part of an invention may be used to deter or curtail the inventor’s use of the invention).
+
+															The majority responds that allowing a Government agency to invoke these administrative procedures would create an “awkward situation,” as one Government agency—namely, the Patent Office—would end up adjudicating the patent rights of another Government agency.  Ante, at 17.  But why is that “awkward”?  In the field of patent law, a Government agency facing a possible infringement suit has long been thought legally capable of invoking other forms of administrative review.  See Manual of Patent Examining Procedure §§2203, 2212.  Moreover, the statutes before us presumably would permit a private party to invoke any of the three new procedures to challenge a Government patent.  In such cases, one Government agency, the Patent Office, would be asked to adjudicate the patent rights of another.  Thus, the situation the majority attempts to avoid is already baked into the cake.
+
+															The majority also says that because federal agencies “do not face the threat of preliminary injunctive relief” when they are sued for patent infringement, Congress could have reasonably concluded that it was not necessary for the Government to be able to use the administrative procedures at issue here.  Ante, at 16; see
+
+28 U. S. C. §1498(a) (limiting the patentee to “reasonable and entire compensation” for infringement by the Government).  But patent infringement suits against the Government still threaten to impose large damages awards.  See, e.g., Hughes Aircraft Co. v. United States, 31 Fed. Cl. 481, 488 (1994) (indicating that the value of the infringing technologies developed by the Government exceeded $3.5 billion); Pet. for Cert. in United States v. Hughes Aircraft Co., O. T. 1998, No. 98–871, p. 8 (noting that damages ultimately exceeded $100 million).  That fact can create a strong need for speedy resolution of a dispute over patent validity.
+
+															 When, for example, the Department of Homeland Security recently instituted a research initiative to equip cell phones with hazardous-materials sensors in order to mitigate the risk of terrorist attacks, it faced an infringement lawsuit that threatened to interfere with the project.  See Golden v. United States, 129 Fed. Cl. 630 (2016); Brief for Prof. Tejas N. Narechania as Amicus Curiae 9.  When the Federal Communications Commission tried to ensure that cell phones would be able to provide their current location automatically to 911 operators, the threat of infringement litigation delayed the deployment of technologies designed to comply with that requirement.  Narechania, Patent Conflicts, 103 Geo. L. J. 1483, 1498–1501 (2015).  And when Congress enacted statutes requiring the examination of electronic passports at airports, the Government faced the threat of an infringement suit because airlines could not “comply with [their] legal obligations” without engaging in activities that would allegedly infringe an existing patent.  IRIS Corp. v. Japan Air- lines Corp., 769 F.3d 1359, 1362 (CA Fed. 2014); see id., at 1363 (concluding that the Government may be sued based on the infringing activities of airlines).
+
+															I express no view on the merits of these actions.  I sim- ply point out that infringement suits against the Government can threaten to injure Government interests even absent the threat of injunctive relief.  That fact runs counter to the majority’s efforts to find an explanation for why Congress would have wanted to deny Government agencies the ability to invoke the speedier administrative procedures established by the America Invents Act.
+
+															*  *  *
+
+															That, in my view, is the basic question: Why?  Government agencies can apply for and obtain patents; they can maintain patents; they can sue other parties for infringing their patents; they can be sued for infringing patents held by private parties; they can invoke certain defenses to an infringement lawsuit on the same terms as private parties; they can invoke one of the pre-existing administrative procedures for challenging the validity of a private party’s patents; and they can be forced to defend their own pat- ents when a private party invokes one of the three procedures established by the America Invents Act.  Why, then, would Congress have declined to give federal agencies the power to invoke these same administrative procedures?
+
+															I see no good answer to that question.  Here, the statutes’ “purpos[es],” the “subject matter,” the “context,” the “legislative history,” and the longstanding “executive interpretation,” together with the way in which related patent provisions use the term “person,” demonstrate that Congress meant for the word “person” to include Government agencies.  International Primate Protection League, 500 U. S., at 83 (quoting Cooper, 312 U. S., at 605).  I would affirm the Federal Circuit’s similar conclusion.
+
+															Consequently, with respect, I dissent.
+													

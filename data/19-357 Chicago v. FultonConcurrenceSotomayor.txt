@@ -1,0 +1,73 @@
+::SCDB_caseID:: 2020-007
+::decision_cite:: 19-357
+::decision_name::  Chicago v. Fulton
+::decision_year:: 2021
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–357
+
+															_________________
+
+															CITY OF CHICAGO, ILLINOIS, PETITIONER v. ROBBIN L. FULTON, et al.
+
+															on writ of certiorari to the united states court of appeals for the seventh circuit
+
+															[January 14, 2021]
+
+															
+
+															Justice Sotomayor, concurring.
+
+															Section 362(a)(3) of the Bankruptcy Code provides that the filing of a bankruptcy petition “operates as a stay” of “any act . . . to exercise control over property of the [bankruptcy] estate.”
+
+11 U. S. C. §362(a)(3).  I join the Court’s opinion because I agree that, as used in §362(a)(3), the phrase “exercise control over” does not cover a creditor’s passive retention of property lawfully seized prebankruptcy.  Hence, when a creditor has taken possession of a debtor’s property, §362(a)(3) does not require the creditor to return the property upon the filing of a bankruptcy petition.
+
+															I write separately to emphasize that the Court has not decided whether and when §362(a)’s other provisions may require a creditor to return a debtor’s property.  Those provisions stay, among other things, “any act to create, perfect, or enforce any lien against property of the estate” and “any act to collect, assess, or recover a claim against [a] debtor” that arose prior to bankruptcy proceedings.  §§362(a)(4), (6); see, e.g., In re Kuehn, 563 F.3d 289, 294 (CA7 2009) (holding that a university’s refusal to provide a transcript to a student-debtor “was an act to collect a debt” that violated the automatic stay).  Nor has the Court addressed how bankruptcy courts should go about enforcing creditors’ separate obligation to “deliver” estate property to the trustee or debtor under §542(a).  The City’s conduct may very well violate one or both of these other provisions.  The Court does not decide one way or the other.
+
+															Regardless of whether the City’s policy of refusing to return impounded vehicles satisfies the letter of the Code, it hardly comports with its spirit.  “The principal purpose of the Bankruptcy Code is to grant a ‘ “fresh start” ’ ” to debtors.  Marrama v. Citizens Bank of Mass.,
+
+549 U.S. 365, 367 (2007) (quoting Grogan v. Garner,
+
+498 U.S. 279, 286 (1991)).  When a debtor files for Chapter 13 bankruptcy, as respondents did here, “the debtor retains possession of his property” and works toward completing a court-approved repayment plan.  549 U. S., at 367.  For a Chapter 13 bankruptcy to succeed, therefore, the debtor must continue earning an income so he can pay his creditors.  Indeed, Chapter 13 bankruptcy is available only to “individual[s] with regular income.”
+
+11 U. S. C. §109(e).
+
+															For many, having a car is essential to maintaining employment.  Take, for example, respondent George Peake.  Before the City seized his car, Peake relied on his 200,000-mile 2007 Lincoln MKZ to travel 45 miles each day from his home on the South Side of Chicago to his job in Joliet, Illinois.  In June 2018, when the City impounded Peake’s car for unpaid parking and red-light tickets, the vehicle was worth just around $4,300 (and was already serving as collateral for a roughly $7,300 debt).  Without his car, Peake had to pay for rides to Joliet.  He filed for bankruptcy, hoping to recover his vehicle and repay his $5,393.27 debt to the City through a Chapter 13 plan.  The City, however, refused to return the car until either Peake paid $1,250 upfront or after the court confirmed Peake’s bankruptcy plan.  As a result, Peake’s car remained in the City’s possession for months.  By denying Peake access to the vehicle he needed to commute to work, the City jeopardized Peake’s ability to make payments to all his creditors, the City included.  Surely, Peake’s vehicle would have been more valuable in the hands of its owner than parked in the City’s impound lot.[1]
+
+															Peake’s situation is far too common.[2]  Drivers in low-income communities across the country face similar vicious cycles: A driver is assessed a fine she cannot immediately pay; the balance balloons as late fees accrue; the local government seizes the driver’s vehicle, adding impounding and storage fees to the growing debt; and the driver, now without reliable transportation to and from work, finds it all but impossible to repay her debt and recover her vehicle.  See Brief for American Civil Liberties Union et al. as Amici Curiae 11–16, 31–32.  Such drivers may turn to Chapter 13 bankruptcy for a “fresh start.”  Marrama, 549 U. S., at 367 (internal quotation marks omitted).[3]  But without their vehicles, many debtors quickly find themselves unable to make their Chapter 13 payments.  The cycle thus continues, disproportionately burdening communities of color, see Brief for American Civil Liberties Union et al. as Amici Curiae 17, and interfering not only with debtors’ ability to earn an income and pay their creditors but also with their access to childcare, groceries, medical appointments, and other necessities.
+
+															Although the Court today holds that §362(a)(3) does not require creditors to turn over impounded vehicles, bankruptcy courts are not powerless to facilitate the return of debtors’ vehicles to their owners.  Most obviously, the Court leaves open the possibility of relief under §542(a).  That section requires any “entity,” subject to some exceptions, to turn over “property” belonging to the bankruptcy estate.
+
+11 U. S. C. §542(a).  The debtor, in turn, must be able to provide the creditor with “adequate protection” of its interest in the returned property, §363(e); for example, the debtor may need to demonstrate that her car is sufficiently insured.  In this way, §542(a) maximizes value for all parties involved in a bankruptcy: The debtor is able to use her asset, which makes it easier to earn an income; the debtor’s unsecured creditors, in turn, receive timely payments from the debtor; and the debtor’s secured creditor, for its part, receives “adequate protection [to] replace the protection afforded by possession.”  United States v. Whiting Pools, Inc.,
+
+462 U.S. 198, 207 (1983).  Secured creditors cannot opt out of this arrangement.  As even the City acknowledges, §542(a) “impose[s] a duty of turnover that is mandatory when the statute’s conditions . . . are met.”  Brief for Petitioner 37.
+
+															The trouble with §542(a), however, is that turnover proceedings can be quite slow.  The Federal Rules of Bankruptcy Procedure treat most “proceeding[s] to recover . . . property” as “adversary proceedings.”  Rule 7001(1).  Such actions are, in simplified terms, “essentially full civil lawsuits carried out under the umbrella of [a] bankruptcy case.”  Bullard v. Blue Hills Bank,
+
+575 U.S. 496, 505 (2015).  Because adversary proceedings require more process, they take more time.  Of the turnover proceedings filed after July 2019 and concluding before June 2020, the average case was pending for over 100 days.  See Administrative Office of the United States Courts, Time Intervals in Months From Filing to Closing of Adversary Proceedings Filed Under
+
+11 U. S. C. §542 for the 12-Month Period Ending June 30, 2020, Washington, DC: Sept. 25, 2020.
+
+															One hundred days is a long time to wait for a creditor to return your car, especially when you need that car to get to work so you can earn an income and make your bankruptcy-plan payments.  To address this problem, some courts have adopted strategies to hurry things along.  At least one bankruptcy court has held that §542(a)’s turnover obligation is automatic even absent a court order.  See In re Larimer, 27 B.R. 514, 516 (Idaho 1983).  Other courts apparently will permit debtors to seek turnover by simple motion, in lieu of filing a full adversary proceeding, at least where the creditor has received adequate notice.  See Tr. of Oral Arg. 81 (counsel for the City stating that “[i]n most bankruptcy courts, if a creditor responds to a motion [for turnover] by” arguing that the debtor should have instituted an adversary proceeding, the bankruptcy judge will ask whether the creditor received “actual notice”); Brief for United States as Amicus Curiae 32 (reporting that “some courts have granted [turnover] orders based solely on a motion”); but see, e.g., In re Denby-Peterson, 941 F.3d 115, 128–131 (CA3 2019) (holding that debtors must seek turnover through adversary proceedings).  Similarly, even when a turnover request does take the form of an adversary proceeding, bankruptcy courts may find it prudent to expedite proceedings or order preliminary relief requiring temporary turnover.  See, e.g., In re Reid, 423 B.R. 726, 727–728 (Bkrtcy. Ct. ED Pa. 2010); see generally 10 Collier on Bankruptcy ¶ 7065.02 (16th ed. 2019).
+
+															Ultimately, however, any gap left by the Court’s ruling today is best addressed by rule drafters and policymakers, not bankruptcy judges.  It is up to the Advisory Committee on Rules of Bankruptcy Procedure to consider amendments to the Rules that ensure prompt resolution of debtors’ requests for turnover under §542(a), especially where debtors’ vehicles are concerned.  Congress, too, could offer a statutory fix, either by ensuring that expedited review is available for §542(a) proceedings seeking turnover of a vehicle or by enacting entirely new statutory mechanisms that require creditors to return cars to debtors in a timely manner.
+
+															Nothing in today’s opinion forecloses these alternative solutions.  With that understanding, I concur.
+Notes
+1
+ Even though §362(a)(3) does not require turnover, whether and when the City may sell impounded cars is an entirely different matter.  See, e.g., In re Cowen, 849 F.3d 943, 950 (CA10 2017) (“It’s not hard to come up with examples of . . . ‘acts’ that ‘exercise control’ over, but do not ‘obtain possession of,’ the estate’s property, e.g., a creditor in possession who improperly sells property belonging to the estate”). 
+
+2
+ See, e.g., Ramos, Chicago Seized and Sold Nearly 50,000 Cars Over Tickets Since 2011, Sticking Owners With Debt, WBEZ News (Jan. 7, 2019) (online source archived at www.supremecourt.gov). 
+
+3
+ The 10-year period from 2007 to 2017, for instance, saw a tenfold increase in the number of Chicagoans filing Chapter 13 bankruptcies that involved debt to the City.  See Sanchez & Kambhampati, Driven Into Debt: How Chicago Ticket Debt Sends Black Motorists Into Bankruptcy, ProPublica Illinois (Feb. 27, 2018) (online source archived at www.supremecourt.gov). 
+
+

@@ -1,0 +1,119 @@
+::SCDB_caseID:: 2020-049
+::decision_cite:: 19-1414
+::decision_name::  United States v. Cooley
+::decision_year:: 2021
+::opinion_author:: Breyer
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–1414
+
+															_________________
+
+															UNITED STATES, PETITIONER v. JOSHUA JAMES COOLEY
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 1, 2021]
+
+															
+
+															Justice Breyer delivered the opinion of the Court.
+
+															The question presented is whether an Indian tribe’s police officer has authority to detain temporarily and to search a non-Indian on a public right-of-way that runs through an Indian reservation.  The search and detention, we assume, took place based on a potential violation of state or federal law prior to the suspect’s transport to the proper nontribal authorities for prosecution.
+
+															We have previously noted that a tribe retains inherent sovereign authority to address “conduct [that] threatens or has some direct effect on . . . the health or welfare of the tribe.”  Montana v. United States,
+
+450 U.S. 544, 566 (1981); see also Strate v. A–1 Contractors,
+
+520 U.S. 438, 456, n. 11 (1997).  We believe this statement of law governs here.  And we hold the tribal officer possesses the authority at issue.
+
+															I
+
+															Late at night in February 2016, Officer James Saylor of the Crow Police Department was driving east on United States Highway 212, a public right-of-way within the Crow Reservation, located within the State of Montana.  Saylor saw a truck parked on the westbound side of the highway.  Believing the occupants might need assistance, Saylor approached the truck and spoke to the driver, Joshua James Cooley.  Saylor noticed that Cooley had “watery, bloodshot eyes” and “appeared to be non-native.”  App. to Pet. for Cert. 95a.  Saylor also noticed two semiautomatic rifles lying on the front seat.  Eventually fearing violence, Saylor ordered Cooley out of the truck and conducted a patdown search.  He called tribal and county officers for assistance.  While waiting for the officers to arrive, Saylor returned to the truck.  He saw a glass pipe and plastic bag that contained methamphetamine.  The other officers, including an officer with the federal Bureau of Indian Affairs, then arrived.  They directed Saylor to seize all contraband in plain view, leading him to discover more methamphetamine.  Saylor took Cooley to the Crow Police Department where federal and local officers further questioned Cooley.
+
+															In April 2016, a federal grand jury indicted Cooley on drug and gun offenses.  See
+
+21 U. S. C. §841(a)(1);
+
+18 U. S. C. §924(c)(1)(A).  The District Court granted Cooley’s motion to suppress the drug evidence that Saylor had seized.  It reasoned that Saylor, as a Crow Tribe police officer, lacked the authority to investigate nonapparent violations of state or federal law by a non-Indian on a public right-of-way crossing the reservation.
+
+															The Government appealed.  See
+
+18 U. S. C. §3731.  The Ninth Circuit affirmed the District Court’s evidence- suppression determination.  The Ninth Circuit panel wrote that tribes “cannot exclude non-Indians from a state or federal highway” and “lack the ancillary power to investigate non-Indians who are using such public rights-of-way.”  919 F.3d 1135, 1141 (2019).  It added that a tribal police officer nonetheless could stop (and hold for a reasonable time) a non-Indian suspect, but only if (1) the officer first tried to determine whether “the person is an Indian,” and, if the person turns out to be a non-Indian, (2) it is “apparent” that the person has violated state or federal law.  Id., at 1142.  Non-Indian status, the panel added, can usually be determined by “ask[ing] one question.”  Ibid. (internal quotation marks omitted).  Because Saylor had not initially tried to determine whether Cooley was an Indian, the panel held that the lower court correctly suppressed the evidence.
+
+															The Ninth Circuit denied the Government’s request for rehearing en banc.  We then granted the Government’s petition for certiorari in order to decide whether a tribal police officer has authority to detain temporarily and to search non-Indians traveling on public rights-of-way running through a reservation for potential violations of state or federal law.
+
+															II
+
+															Long ago we described Indian tribes as “distinct, independent political communities” exercising sovereign authority.  Worcester v. Georgia, 6 Pet. 515, 559 (1832).  Due to their incorporation into the United States, however, the “sovereignty that the Indian tribes retain is of a unique and limited character.”  United States v. Wheeler,
+
+435 U.S. 313, 323 (1978).  Indian tribes may, for example, determine tribal membership, regulate domestic affairs among tribal members, and exclude others from entering tribal land.  See, e.g., Plains Commerce Bank v. Long Family Land & Cattle Co.,
+
+554 U.S. 316, 327–328 (2008).  On the other hand, owing to their “dependent status,” tribes lack any “freedom independently to determine their external relations” and cannot, for instance, “enter into direct commercial or governmental relations with foreign nations.”  Wheeler, 435 U. S., at 326.  Tribes also lack inherent sovereign power to exercise criminal jurisdiction over non- Indians.  See Oliphant v. Suquamish Tribe,
+
+435 U.S. 191, 212 (1978).  In all cases, tribal authority remains subject to the plenary authority of Congress.  See, e.g., Michigan v. Bay Mills Indian Community,
+
+572 U.S. 782, 788 (2014).
+
+															Here, no treaty or statute has explicitly divested Indian tribes of the policing authority at issue.  We turn to precedent to determine whether a tribe has retained inherent sovereign authority to exercise that power.  In answering this question, our decision in Montana v. United States,
+
+450 U.S. 544 (1981), is highly relevant.  In that case we asked whether a tribe could regulate hunting and fishing by non-Indians on land that non-Indians owned in fee simple on a reservation.  We held that it could not.  We supported our conclusion by referring to our holding in Oliphant that a tribe could not “exercise criminal jurisdiction over non- Indians.”  Montana, 450 U. S., at 565.  We then wrote that the “principles on which [Oliphant] relied support the general proposition that the inherent sovereign powers of an Indian tribe do not extend to the activities of nonmembers of the tribe.”  Ibid.
+
+															At the same time, we made clear that Montana’s “general proposition” was not an absolute rule.  Ibid.  We set forth two important exceptions.  First, we said that a “tribe may regulate, through taxation, licensing, or other means, the activities of nonmembers who enter consensual relationships with the tribe or its members, through commercial dealing, contracts, leases, or other arrangements.”  Ibid. Second, we said that a “tribe may also retain inherent power to exercise civil authority over the conduct of non-Indians on fee lands within its reservation when that conduct threatens or has some direct effect on the political integrity, the economic security, or the health or welfare of the tribe.”  Id., at 566 (emphasis added).
+
+															The second exception we have just quoted fits the present case, almost like a glove.  The phrase speaks of the protection of the “health or welfare of the tribe.”  To deny a tribal police officer authority to search and detain for a reasonable time any person he or she believes may commit or has committed a crime would make it difficult for tribes to protect themselves against ongoing threats.  Such threats may be posed by, for instance, non-Indian drunk drivers, transporters of contraband, or other criminal offenders operating on roads within the boundaries of a tribal reservation.  As the Washington Supreme Court has noted, “[a]llowing a known drunk driver to get back in his or her car, careen off down the road, and possibly kill or injure Indians or non-Indians would certainly be detrimental to the health or welfare of the Tribe.”  State v. Schmuck, 121 Wash. 2d 373, 391, 850 P.2d 1332, 1341, cert. denied,
+
+510 U.S. 931 (1993).
+
+															We have subsequently repeated Montana’s proposition and exceptions in several cases involving a tribe’s jurisdiction over the activities of non-Indians within the reservation.  See, e.g., Plains Commerce Bank, 554 U. S., at 328–330; Nevada v. Hicks,
+
+533 U.S. 353, 358–360, and n. 3 (2001); South Dakota v. Bourland,
+
+508 U.S. 679, 694–696 (1993); Duro v. Reina,
+
+495 U.S. 676, 687–688 (1990); Brendale v. Confederated Tribes and Bands of Yakima Nation,
+
+492 U.S. 408, 426–430 (1989) (plurality opinion).  In doing so we have reserved a tribe’s inherent sovereign authority to engage in policing of the kind before us.  Most notably, in Strate v. A–1 Contractors,
+
+520 U.S. 438, 456–459 (1997), we relied upon Montana’s general jurisdiction-limiting principle to hold that tribal courts did not retain inherent authority to adjudicate personal-injury actions against nonmembers of the tribe based upon automobile accidents that took place on public rights-of-way running through a reservation.  But we also said:
+
+															“We do not here question the authority of tribal police to patrol roads within a reservation, including rights-of-way made part of a state highway, and to detain and turn over to state officers nonmembers stopped on the highway for conduct violating state law.  Cf. State v. Schmuck, 121 Wash. 2d 373, 390, 850 P.2d 1332, 1341 (en banc) (recognizing that a limited tribal power ‘to stop and detain alleged offenders in no way confers an unlimited authority to regulate the right of the public to travel on the Reservation’s roads’), cert. denied,
+
+510 U.S. 931 (1993).”  520 U. S., at 456, n. 11.
+
+															We reiterated this point in Atkinson Trading Co. v. Shirley,
+
+532 U.S. 645, 651 (2001), there confirming that Strate “did not question the ability of tribal police to patrol the highway.”
+
+															Similarly, we recognized in Duro that “[w]here jurisdiction to try and punish an offender rests outside the tribe, tribal officers may exercise their power to detain the offender and transport him to the proper authorities.”  495 U. S., at 697.  The authority to search a non-Indian prior to transport is ancillary to this authority that we have already recognized.  Cf. Ortiz-Barraza v. United States, 512 F.2d 1176, 1180–1181 (CA9 1975). Indeed, several state courts and other federal courts have held that tribal officers possess the authority at issue here.  See, e.g., Schmuck, 121 Wash. 2d, at 390, 850 P. 2d, at 1341; State v. Pamperien, 156 Ore. App. 153, 155–159, 967 P.2d 503, 504–506 (1998); State v. Ryder, 98 N. M. 453, 456, 649 P.2d 756, 759 (1982); see also United States v. Terry, 400 F.3d 575, 579–580 (CA8 2005); Ortiz-Barraza, 512 F. 2d, at 1180–1181; see generally F. Cohen, Handbook of Federal Indian Law §9.07, p. 773 (2012).  To be sure, in Duro we traced the relevant tribal authority to a tribe’s right to exclude non-Indians from reservation land.  See 495 U. S., at 696–697.  But tribes “have inherent sovereignty independent of th[e] authority arising from their power to exclude,” Brendale, 492 U. S., at 425 (plurality opinion), and here Montana’s second exception recognizes that inherent authority.
+
+															We also note that our prior cases denying tribal jurisdiction over the activities of non-Indians on a reservation have rested in part upon the fact that full tribal jurisdiction would require the application of tribal laws to non-Indians who do not belong to the tribe and consequently had no say in creating the laws that would be applied to them.  See Duro, 495 U. S., at 693 (noting the concern that tribal-court criminal jurisdiction over nonmembers would subject such defendants to “trial by political bodies that do not include them”); Plains Commerce Bank, 554 U. S., at 337 (noting that nonmembers “have no part in tribal government” and have “no say in the laws and regulations that govern tribal territory”).  Saylor’s search and detention, however, do not subsequently subject Cooley to tribal law, but rather only to state and federal laws that apply whether an individual is outside a reservation or on a state or federal highway within it.  As the Solicitor General points out, an initial investigation of non-Indians’ “violations of federal and state laws to which those non-Indians are indisputably subject” protects the public without raising “similar concerns” of the sort raised in our cases limiting tribal authority.  Brief for United States 24–25.
+
+															Finally, we have doubts about the workability of the standards that the Ninth Circuit set out.  Those standards require tribal officers first to determine whether a suspect is non-Indian and, if so, allow temporary detention only if the violation of law is “apparent.”  919 F. 3d, at 1142.  The first requirement, even if limited to asking a single question, would produce an incentive to lie. The second requirement—that the violation of law be “apparent”—introduces a new standard into search and seizure law.  Whether, or how, that standard would be met is not obvious.  At the same time, because most of those who live on Indian reservations are non-Indians, this problem of interpretation could arise frequently.  See, e.g., Brief for Former United States Attorneys as Amici Curiae 24 (noting that 3.5 million of the 4.6 million people living in American Indian areas in the 2010 census were non-Indians); Brief for National Indigenous Women’s Resource Center et al. as Amici Curiae 19–20 (noting that more than 70% of residents on several reservations are non-Indian).
+
+															III
+
+															In response, Cooley cautions against “inappropriately expand[ing] the second Montana exception.”  Brief for Respondent 24–25 (citing Atkinson, 532 U. S., at 657, n. 12, and Strate, 520 U. S., at 457–458).  We have previously warned that the Montana exceptions are “limited” and “cannot be construed in a manner that would swallow the rule.”  Plains Commerce Bank, 554 U. S., at 330 (internal quotation marks omitted).  But we have also repeatedly acknowledged the existence of the exceptions and preserved the possibility that “certain forms of nonmember behavior” may “sufficiently affect the tribe as to justify tribal oversight.”  Id., at 335.  Given the close fit between the second exception and the circumstances here, we do not believe the warnings can control the outcome.
+
+															Cooley adds that federal cross-deputization statutes already grant many Indian tribes a degree of authority to enforce federal law.  See Brief for Respondent 28–30; see generally 25 U. S. C. §§2803(5), (7) (Secretary of the Interior may authorize tribal officers to “make inquiries of any person” related to the “carrying out in Indian country” of federal law and to “perform any other law enforcement related duty”); §2805 (Secretary of the Interior may promulgate rules “relating to the enforcement of ” federal criminal law in Indian country); 25 CFR §12.21 (2019) (Bureau of Indian Affairs may “issue law enforcement commissions” to tribal police officers “to obtain active assistance” in enforcing federal criminal law).  Because Congress has specified the scope of tribal police activity through these statutes, Cooley argues, the Court must not interpret tribal sovereignty to fill any remaining gaps in policing authority.  See Brief for Respondent 12.
+
+															We are not convinced by this argument.  The statutory and regulatory provisions to which Cooley refers do not easily fit the present circumstances.  They are overinclusive, for instance encompassing the authority to arrest.  See §2803(3).  And they are also underinclusive.  Because these provisions do not govern violations of state law, tribes would still need to strike agreements with a variety of other authorities to ensure complete coverage.  See Brief for Cayuga Nation et al. as Amici Curiae 7–8, 25–27.  More broadly, cross-deputization agreements are difficult to reach, and they often require negotiation between other authorities and the tribes over such matters as training, reciprocal authority to arrest, the “geographical reach of the agreements, the jurisdiction of the parties, liability of officers performing under the agreements, and sovereign immunity.”  Fletcher, Fort, & Singel, Indian Country Law Enforcement and Cooperative Public Safety Agreements, 89 Mich. Bar J. 42, 44 (2010).
+
+															In short, we see nothing in these provisions that shows that Congress sought to deny tribes the authority at issue, authority that rests upon a tribe’s retention of sovereignty as interpreted by Montana, and in particular its second exception.  To the contrary, in our view, existing legislation and executive action appear to operate on the assumption that tribes have retained this authority.  See, e.g., Brief for Current and Former Members of Congress as Amici Curiae 23–25; Brief for Former U. S. Attorneys as Amici Curiae 28–29.
+
+															*  *  *
+
+															For these reasons, we vacate the Ninth Circuit’s judgment and remand the case for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+													

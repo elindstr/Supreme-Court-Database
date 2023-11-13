@@ -1,0 +1,179 @@
+::SCDB_caseID:: 2019-063
+::decision_cite:: 19-631
+::decision_name::  Barr v. American Association of Political Consultants, Inc.
+::decision_year:: 2020
+::opinion_author:: Breyer
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–631
+
+															_________________
+
+															WILLIAM P. BARR, ATTORNEY GENERAL, et al., PETITIONERS v. AMERICAN ASSOCIATION OF POLITICAL CONSULTANTS, INC., et al.
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															[July 6, 2020]
+
+															
+
+															Justice Breyer, with whom Justice Ginsburg and Justice Kagan join, concurring in the judgment with respect to severability and dissenting in part.
+
+															A federal statute forbids, with some exceptions, making automatically dialed or prerecorded telephone calls (called robocalls) to cell phones.  This case concerns one of these exceptions, which applies to calls “made solely to collect a debt owed to or guaranteed by the United States.”
+
+47 U. S. C. §227(b)(1)(A)(iii).  A majority of the Court holds that the exception violates the Constitution’s
+ 
+First Amendment.  In my view, it does not.
+
+															I
+
+															This case concerns the Telephone Consumer Protection Act of 1991.  That Act was designed to “protec[t ] telephone consumers from th[e] nuisance and privacy invasion” caused by automated and prerecorded phone calls.  §2(12),
+
+105Stat.
+2395.  The Act, among other things, bans almost all robocalls made to cell phones.  In particular, it forbids “any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice . . . to any telephone number assigned to a . . . cellular telephone service.”  §3(a) (codified at 47 U. S. C. §227(b)(1)(A)(iii)).  The Act delegates authority to the Federal Communications Commission to make certain additional exceptions from that general cell phone robocall restriction.  §227(b)(2)(C).
+
+															More than 20 years later, Congress enacted another statute, which created the government-debt exception.  The Office of Management and Budget had reported to Congress that in “this time of fiscal constraint . . . the Federal Government should ensure that all debt owed to the United States is collected as quickly and efficiently as possible.”  Office of Management and Budget, Analytical Perspectives, Budget of the U. S. Government, Fiscal Year 2016, p. 128 (2015), https://www.govinfo.gov/content/pkg/BUDGET-2016-PER/pdf/BUDGET-2016-PER.pdf.  It recommended that Congress permit “the use of automatic dialing systems and prerecorded voice messages” to contact “wireless phones in the collection of debt owed to or granted [sic] by the United States.”  Ibid.
+
+															Congress adopted that recommendation.  It enacted a provision that excepts from the general cell phone robocall restriction any call “made solely to collect a debt owed to or guaranteed by the United States.”
+
+129Stat.
+588; see also ibid. (categorizing the exception as a “debt collection improvemen[t]” measure).  The question here is whether the
+ 
+First Amendment prohibits the Federal Government from enacting that government-debt collection measure.
+
+															II
+
+															The plurality finds the government-debt exception unconstitutional primarily by applying a logical syllogism: (1) “Content-based laws are subject to strict scrutiny.”  Ante, at 6 (citing Reed v. Town of Gilbert,
+
+576 U.S. 155, 163–164 (2015)).  (2) The exception is based on “content.”  Ante, at 7.  (3) Hence, the exception is subject to “strict scrutiny.”  Ante, at 9.  (4) And the Government concedes that the exception cannot survive “strict scrutiny” examination.  Ibid.
+
+															The problem with that approach, which reflexively applies strict scrutiny to all content-based speech distinctions, is that it is divorced from
+ 
+First Amendment values.  This case primarily involves commercial regulation—namely, debt collection.  And, in my view, there is no basis here to apply “strict scrutiny” based on “content-discrimination.”
+
+															To appreciate why, it is important to understand at least one set of values that underlie the
+ 
+First Amendment and the related reasons why courts scrutinize some speech restrictions strictly.  The concept is abstract but simple: “We the People of the United States” have created a government of laws enacted by elected representatives.  For our government to remain a democratic republic, the people must be free to generate, debate, and discuss both general and specific ideas, hopes, and experiences.  The people must then be able to transmit their resulting views and conclusions to their elected representatives, which they may do directly, or indirectly through the shaping of public opinion.  The object of that transmission is to influence the public policy enacted by elected representatives.  As this Court has explained, “[t]he
+ 
+First Amendment was fashioned to assure unfettered interchange of ideas for the bringing about of political and social changes desired by the people.”  Meyer v. Grant,
+
+486 U.S. 414, 421 (1988) (internal quotation marks omitted).  See generally R. Post, Democracy, Expertise, and Academic Freedom: A
+ 
+First Amendment Jurisprudence for the Modern State 1–25 (2012).
+
+															  In other words, the free marketplace of ideas is not simply a debating society for expressing thought in a vacuum.  It is in significant part an instrument for “bringing about . . . political and social chang[e ].”  Meyer, 486 U. S., at 421.  The representative democracy that “We the People” have created insists that this be so.  See Sorrell v. IMS Health Inc.,
+
+564 U.S. 552, 583 (2011) (Breyer, J., dissenting).  See generally, e.g., B. Neuborne, Madison’s Music: On Reading the
+ 
+First Amendment (2015).
+
+															It is thus no surprise that our
+ 
+First Amendment jurisprudence has long reflected these core values. This Court’s cases have provided heightened judicial protection for political speech, public forums, and the expression of all viewpoints on any given issue.  See, e.g., Buckley v. American Constitutional Law Foundation, Inc.,
+
+525 U.S. 182, 186–187 (1999) (heightened protection for “core political speech”); Rosenberger v. Rector and Visitors of Univ. of Va.,
+
+515 U.S. 819, 829–830 (1995) (government discrimination on basis of “particular views taken by speakers on a subject” presumptively unconstitutional);  Boos v. Barry,
+
+485 U.S. 312, 321 (1988) (“content-based restriction[s] on political speech in a public forum” subject to “most exacting scrutiny” (emphasis deleted)); Perry Ed. Assn. v. Perry Local Educators’ Assn.,
+
+460 U.S. 37, 45–46 (1983) (content-based exclusions in public forums subject to strict scrutiny).  These cases reflect the straightforward principle that “governments must not be allowed to choose which issues are worth discussing or debating.”  Reed, 576 U. S., at 182 (Kagan, J., concurring in judgment) (internal quotation marks omitted).
+
+															From a democratic perspective, however, it is equally important that courts not use the
+ 
+First Amendment in a way that would threaten the workings of ordinary regulatory programs posing little threat to the free marketplace of ideas enacted as result of that public discourse.  As a general matter, the strictest scrutiny should not apply indiscriminately to the very “political and social changes desired by the people”—that is, to those government programs which the “unfettered interchange of ideas” has sought to achieve.  Meyer, 486 U. S., at 421 (internal quotation marks omitted).  Otherwise, our democratic system would fail, not through the inability of the people to speak or to transmit their views to government, but because of an elected government’s inability to translate those views into action.
+
+															Thus, once again, it is not surprising that this Court has applied less strict standards when reviewing speech restrictions embodied in government regulatory programs.  This Court, for example, has applied a “rational basis” standard for reviewing those restrictions when they have only indirect impacts on speech.  See Glickman v. Wileman Brothers & Elliott, Inc.,
+
+521 U.S. 457, 469–470, 477 (1997).  And it has applied a mid-level standard of review—often termed “intermediate scrutiny”—when the government directly restricts protected commercial speech.  See Central Hudson Gas & Elec. Corp. v. Public Serv. Comm’n of N. Y.,
+
+447 U.S. 557, 561–564 (1980).
+
+															This account of well-established principles at the core of the
+ 
+First Amendment demonstrates the problem with the plurality’s approach.  To reflexively treat all content-based distinctions as subject to strict scrutiny regardless of context or practical effect is to engage in an analysis untethered from the
+ 
+First Amendment’s objectives.  And in this case, strict scrutiny is inappropriate.  Recall that the exception at issue here concerns debt collection—specifically a method for collecting government-owned or -backed debt.  Regulation of debt collection does not fall on the first side of the democratic equation.  It has next to nothing to do with the free marketplace of ideas or the transmission of the people’s thoughts and will to the government.  It has everything to do with the second side of the equation, that is, with government response to the public will through ordinary commercial regulation.  To apply the strictest level of scrutiny to the economically based exemption here is thus remarkable.
+
+															I recognize that the underlying cell phone robocall restriction primarily concerns a means of communication.  And that fact, as I discuss below, triggers some heightened scrutiny, reflected in an intermediate scrutiny standard.  Strict scrutiny and its strong presumption of unconstitutionality, however, have no place here.
+
+															The plurality claims that its approach, which categorically applies strict scrutiny to content-based distinctions, will not “affect traditional or ordinary economic regulation of commercial activity.” Ante, at 9.  But how is that so?  Much of human life involves activity that takes place through speech.  And much regulatory activity turns upon speech content.  See, e.g., Reed, 576 U. S., at 177–178 (Breyer, J., concurring in judgment) (giving examples).  Consider, for example, the regulation of securities sales, drug labeling, food labeling, false advertising, workplace safety warnings, automobile airbag instructions, consumer electronic labels, tax forms, debt collection, and so on.  All of those regulations necessarily involve content-based speech distinctions.  What are the differences between regulatory programs themselves other than differences based on content?  After all, the regulatory spheres in which the Securities and Exchange Commission or the Federal Trade Commission operate are defined by content.  Put simply, treating all content-based distinctions on speech as presumptively unconstitutional is unworkable and would obstruct the ordinary workings of democratic governance.  
+
+															That conclusion is true here notwithstanding the plurality’s effort to bring political speech into the
+ 
+First Amendment analysis.  See ante, at 7, 25 (characterizing Congress as having “favored debt-collection speech over plaintiffs’ political speech”).  It is true that the underlying cell phone robocall restriction generally prohibits political speakers from making robocalls.  But that has little to do with the government-debt exception or its practical effect.  Nor does it justify the application of strict scrutiny.
+
+															Consider prescription drug labels, securities forms, and tax statements.  A government agency might reasonably specify just what information the form or label must contain and further provide that the form or label may not contain other information (thereby excluding political statements).  No one would think that the exclusion of political speech, say, from a drug label, means that courts must examine all other regulatory exceptions with strict scrutiny.  Put differently, it is hard to imagine that such exceptions threaten political speech in the marketplace of ideas, or have any significant impact on the free exchange of ideas.  To treat those exceptions as presumptively unconstitutional would work a significant transfer of authority from legislatures and agencies to courts, potentially inhibiting the creation of the very government programs for which the people (after debate) have voiced their support, despite those programs’ minimal speech-related harms.  See Sorrell, 564 U. S., at 584–585 (Breyer, J., dissenting).  Given the values at the heart of the
+ 
+First Amendment, see supra, at 3–5, that interpretation threatens to stand that Amendment on its head.  It could also lead the Court to water down the strict scrutiny standard, which would limit speech protections in situations where strict scrutiny’s strong protections should properly apply.  Reed, 576 U. S., at 178 (Breyer, J., concurring in judgment).
+
+															If, as I have argued, the
+ 
+First Amendment does not support the mechanical conclusion that content discrimination automatically triggers strict scrutiny, what role might content discrimination play?  The plurality is correct when it quotes this Court as having said that the government may not discriminate “ ‘in the regulation of expression on the basis of the content of that expression.’ ”  Ante, at 6 (quoting Hudgens v. NLRB,
+
+424 U.S. 507, 520 (1976)).  If, however, this Court is to apply the
+ 
+First Amendment consistently with the democratic values embodied within that Amendment, that kind of statement must reflect a rule of thumb applicable only in certain circumstances.  See Reed, 576 U. S., at 176 (Breyer, J., concurring in judgment); id., at 183 (Kagan, J., concurring in judgment) (“We can administer our content-regulation doctrine with a dose of common sense, so as to leave standing laws that in no way implicate its intended function”).
+
+															Indeed, that must be so given that this Court’s
+ 
+First Amendment jurisprudence itself ties the constitutional protection speech receives to the content or purpose of that speech.  The Court has held that entire categories of speech—for example, obscenity, fraud, and speech integral to criminal conduct—are generally unprotected by the
+ 
+First Amendment entirely because of their content.  See Miller v. California,
+
+413 U.S. 15, 23 (1973) (obscenity); Virginia Bd. of Pharmacy v. Virginia Citizens Consumer Council, Inc.,
+
+425 U.S. 748, 771 (1976) (fraud); Giboney v. Empire Storage & Ice Co.,
+
+336 U.S. 490, 498 (1949) (speech integral to criminal conduct).  As Justice Stevens pointed out, “our entire
+ 
+First Amendment jurisprudence creates a regime based on the content of speech.”  R. A. V. v. St. Paul,
+
+505 U.S. 377, 420 (1992) (opinion concurring in judgment); see id., at 420–422 (providing examples).  Given that this Court looks to the nature and content of speech to determine whether, or to what extent, the
+ 
+First Amendment protects it, it makes little sense to treat every content-based distinction Congress has made as presumptively unconstitutional.
+
+															Moreover, it is no answer to claim that this Court’s precedents categorically require such an analysis.  See ante, at 9, n. 5 (plurality opinion).  Our
+ 
+First Amendment jurisprudence has always been contextual and has defied straightforward reduction to unyielding categorical rules.  The idea that broad language in any one case (even Reed) has categorically determined how content discrimination should be applied in every single context is both wrong and reflects an oversimplification and over-reading of our precedent.  The diversity of approaches in this very case underscores the point that the law here is far from settled.  Indeed, the plurality itself disclaims the idea that its rule would apply to unsettle “traditional or ordinary economic regulation of commercial activity,” indicating that the plurality presumably thinks there are some outer bounds to its broad language.  Ante, at 9.  The question here is whether the Court’s general statements about content discrimination triggering strict scrutiny, including in Reed, make sense as applied in this context.  As I have explained, they do not.
+
+															That said, I am not arguing for the abolition of the concept of “content discrimination.”  There are times when using content discrimination to trigger scrutiny is eminently reasonable.  Specifically, when content-based distinctions are used as a method for suppressing particular viewpoints or threatening the neutrality of a traditional public forum, content discrimination triggering strict scrutiny is generally appropriate.  See Reed, 576 U. S., at 176 (Breyer, J., concurring in judgment); id., at 182–183 (Kagan, J., concurring in judgment).
+
+															Neither of those situations is present here.  Outside of these circumstances, content discrimination can at times help determine the strength of a government justification or identify a potential interference with the free marketplace of ideas.  See id., at 176–177 (Breyer, J., concurring in judgment).  But, as I have explained, this case is not about protecting the marketplace of ideas.  It is not about the formation of public opinion or the transmission of the people’s will to elected representatives.  It is fundamentally about a method of regulating debt collection.
+
+															III
+
+															I would examine the validity of the regulation at issue here using a
+ 
+First Amendment standard that (unlike strict scrutiny) does not strongly presume that a regulation that affects speech is unconstitutional.  However, given that the government-debt exception does directly impact a means of communication, the appropriate standard requires a closer look at the restriction than does a traditional “rational basis” test.  A proper inquiry should examine the seriousness of the speech-related harm, the importance of countervailing objectives, the likelihood that the restriction will achieve those objectives, and whether there are other, less restrictive ways of doing so.  Narrow tailoring in this context, however, does not necessarily require the use of the least-restrictive means of furthering those objectives.  Cf. Ward v. Rock Against Racism,
+
+491 U.S. 781, 797–799, and n. 6 (1989) (explaining that outside of strict scrutiny review, narrow tailoring does not require the use of least-restrictive-means analysis).  That inquiry ultimately evaluates a restriction’s speech-related harms in light of its justifications.  We have typically called this approach “intermediate scrutiny,” though we have sometimes referred to it as an assessment of “fit,” sometimes called it “proportionality,” and sometimes just applied it without using a label.  See United States v. Alvarez,
+
+567 U.S. 709, 730–731 (2012) (Breyer, J., concurring in judgment); Reed, 576 U. S., at 179 (Breyer, J., concurring in judgment).
+
+															Applying this Court’s intermediate scrutiny analysis, I would begin by asking just what the
+ 
+First Amendment harm is here.  As Justice Kavanaugh notes, the government-debt exception provides no basis for undermining the general cell phone robocall restriction.  Ante, at 10–11.  Indeed, looking at the government-debt exception in context, we can see that the practical effect of the exception, taken together with the rest of the statute, is to put non-government debt collectors at a disadvantage.  Their speech operates in the same sphere as government-debt collection speech, communicates comparable messages, and yet does not have the benefit of a particular instrument of communication (robocalls).  While this is a speech-related harm, debt-collection speech is both commercial and highly regulated.  See Brief for Petitioners 20–21 (describing multiple restrictions imposed by the Fair Debt Collection Practices Act on communications by debt collectors in the course of debt collection).  The speech-related harm at issue here—and any related effect on the marketplace of ideas—is modest.
+
+															What, then, is the justification for this harm?  The purpose of the exception is to further the protection of the public fisc.  See supra, at 2.  That protection is an important governmental interest.  Private debt typically involves private funds; public debt typically involves funds that, in principle, belong to all of us, and help to implement numerous governmental policies that the people support.
+
+															Finally, is the exception narrowly tailored?  Its limited scope shows that it is.  Congress has minimized any speech-related harm by tying the exception directly to the Government’s interest in preserving the public fisc.  The statutory text makes clear that calls will only fall within the bounds of that exception if they are “made solely to collect” Government debt.
+
+47 U. S. C. §227(b)(1)(A)(iii) (emphasis added).  Thus, the exception cannot be used to permit communications unrelated or less directly related to that public fiscal interest.
+
+															The upshot is that the government-debt exception, taken in context, inflicts some speech-related harm.  But the harm, as I have explained, is related not to public efforts to develop ideas or transmit them to the Government, but to the Government’s response to those efforts, which here takes the form of highly regulated commercial communications.  Moreover, there is an important justification for that harm, and the exception is narrowly tailored to further that goal.  Given those facts, the government-debt exception should survive intermediate
+ 
+First Amendment scrutiny.
+
+															IV
+
+															For the reasons described above, I would find that the government-debt exception does not violate the
+ 
+First Amendment.  A majority of the Court, however, has concluded the contrary.  It must thus decide whether that provision is severable from the rest of the statute.  As to that question, I agree with Justice Kavanaugh’s conclusion that the provision is severable.  Accordingly, I respectfully concur in the judgment with respect to severability and dissent in part.
+													

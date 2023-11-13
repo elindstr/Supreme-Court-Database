@@ -1,0 +1,148 @@
+::SCDB_caseID:: 2015-050
+::decision_cite:: 15-138
+::decision_name::  RJR Nabisco, Inc. v. European Cmty.
+::decision_year:: 2016
+::opinion_author:: Ginsburg
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–138
+
+															_________________
+
+															RJR NABISCO, INC., et al., PETITIONERS v.EUROPEAN COMMUNITY, et al.
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															[June 20, 2016]
+
+															
+
+															Justice Ginsburg, with whom Justice Breyer and Justice Kagan join, concurring in Parts I, II, and III and dissenting from Part IV and from the judgment.
+
+															In enacting the Racketeer Influenced and Corrupt Organizations Act (RICO),
+
+18 U. S. C. §1961 et seq., Congress sought to provide a new tool to combat “organized crime and its economic roots.”  Russello v. United States,
+
+464 U. S. 16,
+26 (1983)
+.  RICO accordingly proscribes various ways in which an “enterprise,” §1961(4), might be controlled, operated, or funded by a “pattern of racketeering activity,” §1961(1), (5).  See §1962.[1]  RICO builds on predicate statutes, many of them applicable extraterritorially.  App. to Brief for United States as Amicus Curiae 27a–33a.  Congress not only armed the United States with authority to initiate criminal and civil proceedings to enforce RICO, §§1963, 1964(b), Congress also created in §1964(c) a private right of action for “[a]ny person injured in his business or property by reason of a violation of [RICO’s substantive provision].”
+
+															Invoking this right, respondents, the European Community and 26 member states, filed suit against petitioners, RJR Nabisco, Inc., and related entities.  Alleging that petitioners orchestrated from their U. S. headquarters a complex money-laundering scheme in violation of RICO, respondents sought to recover for various injuries, including losses sustained by financial institutions and lost opportunities to collect duties.  See ante, at 4–7.  Denying respondents a remedy under RICO, the Court today reads into §1964(c) a domestic-injury requirement for suits by private plaintiffs nowhere indicated in the statute’s text.  Correctly, the Court imposes no such restriction on the United States when it initiates a civil suit under §1964(b).  Unsupported by RICO’s text, inconsistent with its pur-poses, and unnecessary to protect the comity interests the Court emphasizes, the domestic-injury requirement for private suits replaces Congress’ prescription with one of the Court’s own invention.  Because the Court has no authority so to amend RICO, I dissent.
+
+															I
+
+															As the Court recounts, ante, at 7, “Congress ordinarily legislates with respect to domestic, not foreign, matters.”  Morrison v. National Australia Bank Ltd.,
+
+561 U. S. 247,
+255 (2010)
+.  So recognizing, the Court employs a presumption that “ ‘legislation . . . is meant to apply only within the territorial jurisdiction of the United States.’ ”  Ibid. (quoting EEOC v. Arabian American Oil Co.,
+
+499 U. S. 244,
+248 (1991)
+ (Aramco)).  But when a statute demonstrates Congress’ “affirmative inten[t]” that the law should apply beyond the borders of the United States, as numerous RICO predicate statutes do, the presumption is rebutted, and the law applies extraterritorially to the extent Congress prescribed.  See Morrison, 561 U. S., at 255 (quoting Aramco, 499 U. S., at 248).  The presumption, in short, aims to distinguish instances in which Congress con-sciously designed a statute to reach beyond U. S. borders, from those in which nothing plainly signals that Congress directed extraterritorial application.
+
+															In this case, the Court properly holds that Congress signaled its “affirmative inten[t],” Morrison, 561 U. S., at 255, that RICO, in many instances, should apply extraterritorially.  See ante, at 10–18; App. to Brief for United States as Amicus Curiae 27a–33a.  As the Court relates, see ante, at 10–14, Congress deliberately included within RICO’s compass predicate federal offenses that manifestly reach conduct occurring abroad.  See, e.g., §§1956–1957 (money laundering); §2339B (material support to foreign terrorist organizations).  Accordingly, the Court concludes, when the predicate crimes underlying invocation of §1962 thrust extraterritorially, so too does §1962.  I agree with that conclusion. 
+
+															I disagree, however, that the private right of action authorized by §1964(c) requires a domestic injury to a person’s business or property and does not allow recovery for foreign injuries.  One cannot extract such a limitation from the text of §1964(c), which affords a right of action to “[a]ny person injured in his business or property by reason of a violation of section 1962.”  Section 1962, at least subsections (b) and (c), all agree, encompasses foreign injuries.  How can §1964(c) exclude them when, by its express terms, §1964(c) is triggered by “a violation of section 1962”?  To the extent RICO reaches injury abroad when the Government is the suitor pursuant to §1962 (specifying prohibited activities) and §1963 (criminal penalties) or §1964(b) (civil remedies), to that same extent, I would hold, RICO reaches extraterritorial injury when, pursuant to §1964(c), the suitor is a private plaintiff.
+
+															II
+
+															A
+
+															I would not distinguish, as the Court does, between the extraterritorial compass of a private right of action and that of the underlying proscribed conduct.  See ante, at 18–22, 23, 26.  Instead, I would adhere to precedent addressing RICO, linking, not separating, prohibited activities and authorized remedies.  See Sedima, S. P.  R.  L. v. Imrex Co.,
+
+473 U. S. 479,
+495 (1985)
+ (“If the defendant engages in a pattern of racketeering activity in a manner forbidden by [§1962], and the racketeering activities injure the plaintiff in his business or property, the plaintiff has a claim under §1964(c).”); ibid. (refusing to require a “distinct ‘racketeering injury’ ” for private RICO actions under §1964(c) where §1962 imposes no such requirement).[2]
+
+															To reiterate, a §1964(c) right of action may be maintained by “[a]ny person injured in his business or property by reason of a violation of section 1962” (emphasis added).  “[I]ncorporating one statute . . . into another,” the Court has long understood, “serves to bring into the latter all that is fairly covered by the reference.”  Panama R. Co. v. Johnson,
+
+264 U. S. 375,
+392 (1924)
+.  RICO’s private right of action, it cannot be gainsaid, expressly incorporates §1962, whose extraterritoriality, the Court recognizes, is coextensive with the underlying predicate offenses charged.  See ante, at 10–18.  See also ante, at 12 (“[I]t is hard to imagine how Congress could have more clearly indicated that it intended RICO to have (some) extraterritorial effect.”).  The sole additional condition §1964(c) imposes on access to relief is an injury to one’s “business or property.”  Nothing in that condition should change the extraterritoriality assessment.  In agreement with the Second Circuit, I would hold that “[i]f an injury abroad was proximately caused by the violation of a statute which Congress intended should apply to injurious conduct performed abroad, [there is] no reason to import a domestic injury requirement simply because the victim sought redress through the RICO statute.”  764 F. 3d 149, 151 (2014).
+
+															What §1964(c)’s text conveys is confirmed by its history.  As this Court has repeatedly observed, Congress modeled §1964(c) on §4 of the Clayton Act,
+
+15 U. S. C. §15, the private civil-action provision of the federal antitrust laws, which employs nearly identical language: “[A]ny person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue therefor.”  See Klehr v. A. O. Smith Corp.,
+
+521 U. S. 179
+–190 (1997); Holmes v. Securities Investor Protection Corporation,
+
+503 U. S. 258
+–268 (1992); Sedima, 473 U. S., at 485, 489.  Clayton Act §4, the Court has held, provides a remedy for injuries both foreign and domestic.  Pfizer Inc. v. Government of India,
+
+434 U. S. 308
+–314 (1978) (“Congress did not intend to make the [Clayton Act’s] treble-damages remedy available only to consumers in our own country.”); Continental Ore Co. v. Union Carbide & Carbon Corp.,
+
+370 U. S. 690
+–708 (1962) (allowing recovery in Clayton Act §4 suit for injuries in Canada).
+
+															“The similarity of language in [the two statutes] is, of course, a strong indication that [they] should be interpreted pari passu,” Northcross v. Board of Ed. of Memphis City Schools,
+
+412 U. S. 427,
+428 (1973)
+ (per curiam), and I see no contradictory indication here.[3]  Indeed, when the Court has addressed gaps in §1964(c), it has aligned the RICO private right of action with the private right afforded by Clayton Act §4.  See, e.g., Klehr, 521 U. S., at 188–189 (adopting for private RICO actions Clayton Act §4’s ac-crual rule—that a claim accrues when a defendant commits an act that injures a plaintiff’s business—rather than criminal RICO’s “most recent, predicate act” rule); Holmes, 503 U. S., at 268 (requiring private plaintiffs under §1964(c), like private plaintiffs under Clayton Act §4, to show proximate cause); Agency Holding Corp. v. Malley-Duff & Associates, Inc.,
+
+483 U. S. 143
+–156 (1987) (applying to §1964(c) actions Clayton Act §4’s shorter statute of limitations instead of “catchall” federal statute of limitations applicable to RICO criminal prosecutions).
+
+															This very case illustrates why pinning a domestic-injury requirement onto §1964(c) makes little sense.  All defendants are U. S. corporations, headquartered in the United States, charged with a pattern of racketeering activity directed and managed from the United States, involving conduct occurring in the United States.  In particular, according to the complaint, defendants received in the United States funds known to them to have been gener-ated by illegal narcotics trafficking and terrorist activity, conduct violative of §1956(a)(2); traveled using the facilities of interstate commerce in furtherance of unlawful activity, in violation of §1952; provided material support to foreign terrorist organizations “in the United States and elsewhere,” in violation of §2339B; and used U. S. mails and wires in furtherance of a “scheme or artifice to defraud,” in violation of §§1341 and 1343.  App. to Pet. for Cert. 238a–250a.  In short, this case has the United States written all over it.
+
+															B
+
+															The Court nevertheless deems a domestic-injury requirement for private RICO plaintiffs necessary to avoid international friction.  See ante, at 20–22.  When the United States considers whether to initiate a prosecution or civil suit, the Court observes, it will take foreign-policy considerations into account, but private parties will not.  It is far from clear, however, that the Court’s blanket rule would ordinarily work to ward off international discord.  Invoking the presumption against extraterritoriality as a bar to any private suit for injuries to business or property abroad, this case suggests, might spark, rather than quell, international strife.  Making such litigation available to domestic but not foreign plaintiffs is hardly solicitous of international comity or respectful of foreign interests.  Cf. Pfizer, 434 U. S., at 318–319 (“[A] foreign nation is generally entitled to prosecute any civil claim in the courts of the United States upon the same basis as a domestic corporation or individual might do.  To deny him this privilege would manifest a want of comity and friendly feeling.”  (internal quotation marks omitted)).
+
+															RICO’s definitional provisions exclude “[e]ntirely foreign activity.”  783 F. 3d 123, 143 (Lynch, J., dissenting from denial of rehearing en banc).  Thus no suit under RICO would lie for injuries resulting from “[a] pattern of murders of Italian citizens committed by members of an Italian organized crime group in Italy.”  Ibid.  That is so because “murder is a RICO predicate only when it is ‘chargeable under state law’ or indictable under specific federal statutes.”  Ibid. (citing §1961(1)(A), (G)).
+
+															To the extent extraterritorial application of RICO could give rise to comity concerns not present in this case, those concerns can be met through doctrines that serve to block litigation in U. S. courts of cases more appropriately brought elsewhere.  Where an alternative, more appropriate forum is available, the doctrine of forum non conveniens enables U. S. courts to refuse jurisdiction.  See Piper Aircraft Co. v. Reyno,
+
+454 U. S. 235 (1981)
+ (dismissing wrongful-death action arising out of air crash in Scotland involving only Scottish victims); Restatement (Second) of Conflict of Laws §84 (1969).  Due process constraints on the exercise of general personal jurisdiction shelter foreign corporations from suit in the United States based on conduct abroad unless the corporation’s “affiliations with the [forum] in which suit is brought are so constant and pervasive ‘as to render it essentially at home [there].’ ”  Daimler AG v. Bauman, 571 U. S. ___, ___–___ (2014) (slip op., at 2–3) (quoting Goodyear Dunlop Tires Operations, S. A. v. Brown,
+
+564 U. S. 915,
+919 (2011)
+; alterations omitted).  These controls provide a check against civil RICO litigation with little or no connection to the United States.
+
+															*  *  *
+
+															The Court hems in RICO out of concern about establishing a “double standard.”  Ante, at 22.  But today’s decision does exactly that.  U. S. defendants commercially engaged here and abroad would be answerable civilly to U. S. victims of their criminal activities, but foreign parties similarly injured would have no RICO remedy.  “ ‘Sauce for the goose’ ” should indeed serve the gander as well.  See ibid. (quoting Heffernan v. City of Paterson, 578 U. S. ___, ___ (2016) (slip op., at 6)).  I would resist reading into §1964(c) a domestic-injury requirement Congress did not prescribe.  Instead, I would affirm the Second Circuit’s sound judgment:
+
+															“To establish a compensable injury under §1964(c), a private plaintiff must show that (1) the defendant ‘engage[d] in a pattern of racketeering activity in a manner forbidden by’ §1962, and (2) that these ‘racketeering activities’ were the proximate cause of some injury to the plaintiff’s business or property.”  764 F. 3d, at 151 (quoting Sedima, 473 U. S., at 495; Holmes, 503 U. S., at 268)).
+
+															Because the Court overturns that judgment, I dissent.Notes
+
+1
+
+
+		 The Racketeer Influenced and Corrupt Organizations Act (RICO),
+
+18 U. S. C. §1961 et seq., makes it unlawful “to . . . invest” in an enterprise income derived from a pattern of racketeering activity, §1962(a), “to acquire or maintain” an interest in an enterprise through a pattern of racketeering activity, §1962(b), “to conduct or participate . . . in the conduct” of an enterprise through a pattern of racketeering activity, §1962(c), or “to conspire” to violate any of those provisions, §1962(d).
+	
+
+
+2
+
+
+		 Insisting that the presumption against extraterritoriality should “apply to §1964(c) independently of its application to §1962,” ante, at 18–19, the Court cites Kiobel v. Royal Dutch Petroleum Co., 569 U. S. ___ (2013).  That decision will not bear the weight the Court would place on it.  As the Court comprehends, the statute there at issue, the Alien Tort Statute,
+
+28 U. S. C. §1350, is a spare jurisdictional grant that itself does not “regulate conduct or afford relief.”  Kiobel, 569 U. S., at ___ (slip op., at 5).  With no grounding for extraterritorial application in the statute, Kiobel held, courts have no warrant to fashion, on their own initiative, claims for relief that operate extraterritorially.  See ibid. (“[T]he question is not what Congress has done but instead what courts may do.”).
+	
+
+
+3
+
+
+		 The Court asserts that “[t]here is good reason not to interpret §1964(c) to cover foreign injuries just because the Clayton Act does.”  Ante, at 25.  The Clayton Act’s definition of “person,”
+
+15 U. S. C. §12, the Court observes, “explicitly includes ‘corporations and associations existing under or authorized by . . . the laws of any foreign country.’ ”  Ante, at 25 (some internal quotation marks omitted).  RICO, the Court stresses, lacks this “critical” language.  Ibid.  The Court’s point is underwhelming.  RICO’s definition of “persons” is hardly confining: “any individual or entity capable of holding a legal or beneficial interest in property.”
+
+18 U. S. C. §1961(3).  Moreover, there is little doubt that Congress anticipated §1964(c) plaintiffs like the suitors here.  See 147 Cong. Rec. 20676, 20710 (2001) (remarks of Sen. Kerry) (“Since some of the money-laundering conducted in the world today also defrauds foreign governments, it would be hostile to the intent of [the USA PATRIOT Act, which added as RICO predicates additional money laundering offenses,] for us to interject into the statute any rule of construction of legislative language which would in any way limit our foreign allies access to our courts to battle against money laundering.”).
+	
+
+

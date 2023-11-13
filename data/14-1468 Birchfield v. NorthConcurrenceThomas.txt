@@ -1,0 +1,92 @@
+::SCDB_caseID:: 2015-068
+::decision_cite:: 14-1468
+::decision_name::  Birchfield v. North Dakota
+::decision_year:: 2016
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 14–1468, 14–1470, and 14–1507
+
+															_________________
+
+															DANNY BIRCHFIELD, PETITIONER
+
+															14–1468v.
+
+															NORTH DAKOTA;
+
+															on writ of certiorari to the supreme court ofnorth dakota
+
+															
+
+															WILLIAM ROBERT BERNARD, Jr., PETITIONER
+
+															14–1470v.
+
+															MINNESOTA; AND
+
+															on writ of certiorari to the supreme court ofminnesota
+
+															
+
+															STEVE MICHAEL BEYLUND, PETITIONER
+
+															14–1507v.
+
+															GRANT LEVI, DIRECTOR, NORTH DAKOTA DEPARTMENT OF TRANSPORTATION
+
+															on writ of certiorari to the supreme court ofnorth dakota
+
+															
+
+															[June 23, 2016]
+
+															
+
+															Justice Thomas, concurring in judgment in part and dissenting in part.
+
+															The compromise the Court reaches today is not a good one.  By deciding that some (but not all) warrantless tests revealing the blood alcohol concentration (BAC) of an arrested driver are constitutional, the Court contorts the search-incident-to-arrest exception to the
+ 
+Fourth Amendment’s warrant requirement.  The far simpler answer to the question presented is the one rejected in Missouri v. McNeely, 569 U. S. ___ (2013).  Here, the tests revealing the BAC of a driver suspected of driving drunk are constitutional under the exigent-circumstances exception to the warrant requirement.  Id., at ___–___ (Thomas, J., dissenting) (slip op., at 3–4).
+
+															I
+
+															Today’s decision chips away at a well-established exception to the warrant requirement.  Until recently, we have admonished that “[a] police officer’s determination as to how and where to search the person of a suspect whom he has arrested is necessarily a quick ad hoc judgment which the
+ 
+Fourth Amendment does not require to be broken down in each instance into an analysis of each step in the search.”  United States v. Robinson,
+
+414 U. S. 218,
+235 (1973)
+.  Under our precedents, a search incident to lawful arrest “require[d] no additional justification.”  Ibid.  Not until the recent decision in Riley v. California, 573 U. S. ___ (2014), did the Court begin to retreat from this categorical approach because it feared that the search at issue, the “search of the information on a cell phone,” bore “little resemblance to the type of brief physical search” contemplated by this Court’s past search-incident-to-arrest decisions.  Id., at ___ (slip op., at 10).  I joined Riley, however, because the Court resisted the temptation to permit searches of some kinds of cell-phone data and not others, id., at ___–___ (slip op., at 23–25), and instead asked more generally whether that entire “category of effects” was searchable without a warrant, id., at ___ (slip op., at 10).
+
+															Today’s decision begins where Riley left off.  The Court purports to apply Robinson but further departs from its categorical approach by holding that warrantless breath tests to prevent the destruction of BAC evidence are constitutional searches incident to arrest, but warrantless blood tests are not.  Ante, at 35 (“Because breath tests are significantly less intrusive than blood tests and in most cases amply serve law enforcement interests, we conclude that a breath test, but not a blood test, may be administered as a search incident to a lawful arrest for drunk driving”).  That hairsplitting makes little sense.  Either the search-incident-to-arrest exception permits bodily searches to prevent the destruction of BAC evidence, or it does not.
+
+															The Court justifies its result—an arbitrary line in the sand between blood and breath tests—by balancing the invasiveness of the particular type of search against the government’s reasons for the search.  Ante, at 20–36.  Such case-by-case balancing is bad for the People, who “through ratification, have already weighed the policy tradeoffs that constitutional rights entail.”  Luis v. United States, 578 U. S. ___, ___ (2016) (Thomas, J., concurring in judgment) (slip op., at 10); see also Crawford v. Washington,
+
+541 U. S. 36
+–68 (2004).  It is also bad for law enforcement officers, who depend on predictable rules to do their job, as Members of this Court have exhorted in the past.  See Arizona v. Gant,
+
+556 U. S. 332,
+359 (2009)
+ (Alito, J., dissenting); see also id., at 363 (faulting the Court for “leav[ing] the law relating to searches incident to arrest in a confused and unstable state”).
+
+															Today’s application of the search-incident-to-arrest exception is bound to cause confusion in the lower courts.  The Court’s choice to allow some (but not all) BAC searches is undeniably appealing, for it both reins in the perni-cious problem of drunk driving and also purports to preserve some
+ 
+Fourth Amendment protections.  But that compromise has little support under this Court’s existing precedents.
+
+															II
+
+															The better (and far simpler) way to resolve these cases is by applying the per se rule that I proposed in McNeely.  Under that approach, both warrantless breath and blood tests are constitutional because “the natural metabolization of [BAC] creates an exigency once police have probable cause to believe the driver is drunk.  It naturally follows that police may conduct a search in these circumstances.”  569 U. S., at ___–___ (dissenting opinion) (slip op., at 3–4).
+
+															The Court in McNeely rejected that bright-line rule and instead adopted a totality-of-the-circumstances test examining whether the facts of a particular case presented exigent circumstances justifying a warrantless search.  Id., at ___ (slip op., at 1).  The Court ruled that “the natural dissipation of alcohol in the blood” could not “categorically” create an “exigency” in every case.  Id., at ___ (slip op., at 13).  The destruction of “BAC evidence from a drunk-driving suspect” that “naturally dissipates over time in a gradual and relatively predictable manner,” according to the Court, was qualitatively different from the destruction of evidence in “circumstances in which the suspect has control over easily disposable evidence.”  Id., at ___ (slip op., at 10).
+
+															Today’s decision rejects McNeely’s arbitrary distinction between the destruction of evidence generally and the destruction of BAC evidence.  But only for searches incident to arrest.  Ante, at 31–33.  The Court declares that such a distinction “between an arrestee’s active destruction of evidence and the loss of evidence due to a natural process makes little sense.”  Ante, at 31.  I agree.  See McNeely, supra, at ___–___ (Thomas, J., dissenting) (slip op., at 5–6).  But it also “makes little sense” for the Court to reject McNeely’s arbitrary distinction only for searches incident to arrest and not also for exigent-circumstances searches when both are justified by identical concerns about the destruction of the same evidence.  McNeely’s distinction is no less arbitrary for searches justified by exigent circumstances than those justified by search inci-dent to arrest.
+
+															The Court was wrong in McNeely, and today’s compromise is perhaps an inevitable consequence of that error.  Both searches contemplated by the state laws at issue in these cases would be constitutional under the exigent-circumstances exception to the warrant requirement.  I respectfully concur in the judgment in part and dissent in part.
+													

@@ -1,0 +1,88 @@
+::SCDB_caseID:: 2019-060
+::decision_cite:: 19-431
+::decision_name::  Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania
+::decision_year:: 2020
+::opinion_author:: Kagan
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–431 and 19–454
+
+															_________________
+
+															LITTLE SISTERS OF THE POOR SAINTS PETER  AND PAUL HOME, PETITIONER
+
+															19–431v.
+
+															PENNSYLVANIA, et al.
+
+															
+
+															DONALD J. TRUMP, PRESIDENT OF THE  UNITED STATES, et al., PETITIONERS
+
+															19–454v.
+
+															PENNSYLVANIA, et al.
+
+															on writs of certiorari to the united states court of appeals for the third circuit
+
+															[July 8, 2020]
+
+															
+
+															Justice Kagan, with whom Justice Breyer joins, concurring in the judgment.
+
+															I would uphold HRSA’s statutory authority to exempt certain employers from the contraceptive-coverage mandate, but for different reasons than the Court gives.  I also write separately because I question whether the exemptions can survive administrative law’s demand for reasoned decisionmaking.  That issue remains open for the lower courts to address.
+
+															The majority and dissent dispute the breadth of the delegation in the Women’s Health Amendment to the ACA.  The Amendment states that a health plan or insurer must offer coverage for “preventive care and screenings . . . as provided for in comprehensive guidelines supported by [HRSA] for purposes of this paragraph.”
+
+42 U. S. C. §300gg–13(a)(4).  The disputed question is just what HRSA can “provide for.”  Both the majority and the dissent agree that HRSA’s guidelines can differentiate among preventive services, mandating coverage of some but not others.  The opinions disagree about whether those guidelines can also differentiate among health plans, exempting some but not others from the contraceptive-coverage requirement.  On that question, all the two opinions have in common is equal certainty they are right.  Compare ante, at 16 (majority opinion) (Congress “enacted expansive language offer[ing] no indication whatever that the statute limits what HRSA can designate as preventive care and screenings or who must provide that coverage” (internal quotation marks omitted)), with post, at 9 (Ginsburg, J., dissenting) (“Nothing in [the statute] accord[s] HRSA authority” to decide “who must provide coverage” (internal quotation marks omitted; emphasis in original)).
+
+															Try as I might, I do not find that kind of clarity in the statute.  Sometimes when I squint, I read the law as giving HRSA discretion over all coverage issues: The agency gets to decide who needs to provide what services to women.  At other times, I see the statute as putting the agency in charge of only the “what” question, and not the “who.”  If I had to, I would of course decide which is the marginally better reading.  But Chevron deference was built for cases like these.  See Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+
+467 U.S. 837, 842–843 (1984); see also Arlington v. FCC,
+
+569 U.S. 290, 301 (2013) (holding that Chevron applies to questions about the scope of an agency’s statutory authority).  Chevron instructs that a court facing statutory ambiguity should accede to a reasonable interpretation by the implementing agency.  The court should do so because the agency is the more politically accountable actor.  See 467 U. S., at 865–866.  And it should do so because the agency’s expertise often enables a sounder assessment of which reading best fits the statutory scheme.  See id., at 865.
+
+															Here, the Departments have adopted the majority’s reading of the statutory delegation ever since its enactment.  Over the course of two administrations, the Departments have shifted positions on many questions involving the Women’s Health Amendment and the ACA more broadly.  But not on whether the Amendment gives HRSA the ability to create exemptions to the contraceptive-coverage mandate.  HRSA adopted the original church exemption on the same capacious understanding of its statutory authority as the Departments endorse today.  See 76 Fed. Reg. 46623 (2011) (“In the Departments’ view, it is appropriate that HRSA, in issuing these Guidelines, takes into account the effect on the religious beliefs of certain religious employers if coverage of contraceptive services were required”).[1]  While the exemption itself has expanded, the Departments’ reading of the statutory delegation—that the law gives HRSA discretion over the “who” question—has remained the same.  I would defer to that longstanding and reasonable interpretation.
+
+															But that does not mean the Departments should prevail when these cases return to the lower courts.  The States challenged the exemptions not only as outside HRSA’s statutory authority, but also as “arbitrary [and] capricious.”  5 U. S. C. §706(2)(A).  Because the courts below found for the States on the first question, they declined to reach the second.  That issue is now ready for resolution, unaffected by today’s decision.  An agency acting within its sphere of delegated authority can of course flunk the test of “reasoned decisionmaking.”  Michigan v. EPA,
+
+576 U.S. 743, 750 (2015).  The agency does so when it has not given “a satisfactory explanation for its action”—when it has failed to draw a “rational connection” between the problem it has identified and the solution it has chosen, or when its thought process reveals “a clear error of judgment.”  Motor Vehicle Mfrs. Assn. of United States, Inc. v. State Farm Mut. Automobile Ins. Co.,
+
+463 U.S. 29, 43 (1983) (internal quotation marks omitted).  Assessed against that standard of reasonableness, the exemptions HRSA and the Departments issued give every appearance of coming up short.[2]
+
+															Most striking is a mismatch between the scope of the religious exemption and the problem the agencies set out to address.  In the Departments’ view, the exemption was “necessary to expand the protections” for “certain entities and individuals” with “religious objections” to contraception.  83 Fed. Reg. 57537 (2018).  Recall that under the old system, an employer objecting to the contraceptive mandate for religious reasons could avail itself of the “self-certification accommodation.”  Ante, at 6.  Upon making the certification, the employer no longer had “to contract, arrange, [or] pay” for contraceptive coverage; instead, its insurer would bear the services’ cost.  78 Fed. Reg. 39874 (2013).  That device dispelled some employers’ objections—but not all.  The Little Sisters, among others, maintained that the accommodation itself made them complicit in providing contraception.  The measure thus failed to “assuage[ ]” their “sincere religious objections.”  82 Fed. Reg. 47799 (2017).  Given that fact, the Departments might have chosen to exempt the Little Sisters and other still-objecting groups from the mandate.  But the Departments went further still.  Their rule exempted all employers with objections to the mandate, even if the accommodation met their religious needs.  In other words, the Departments exempted employers who had no religious objection to the status quo (because they did not share the Little Sisters’ views about complicity).  The rule thus went beyond what the Departments’ justification supported—raising doubts about whether the solution lacks a “rational connection” to the problem described.  State Farm, 463 U. S., at 43.[3]
+
+															And the rule’s overbreadth causes serious harm, by the Departments’ own lights.  In issuing the rule, the Departments chose to retain the contraceptive mandate itself.  See 83 Fed. Reg. 57537.  Rather than dispute HRSA’s prior finding that the mandate is “necessary for women’s health and well-being,” the Departments left that determination in place.  HRSA, Women’s Preventive Services Guidelines (Dec. 2019), www.hrsa.gov/womens-guidelines-2019; see 83 Fed. Reg. 57537.  The Departments thus committed themselves to minimizing the impact on contraceptive coverage, even as they sought to protect employers with continuing religious objections.  But they failed to fulfill that commitment to women.  Remember that the accommodation preserves employees’ access to cost-free contraceptive coverage, while the exemption does not.  See ante, at 5–6.  So the Departments (again, according to their own priorities) should have exempted only employers who had religious objections to the accommodation—not those who viewed it as a religiously acceptable device for complying with the mandate.  The Departments’ contrary decision to extend the exemption to those without any religious need for it yielded all costs and no benefits.  Once again, that outcome is hard to see as consistent with reasoned judgment.  See State Farm, 463 U. S., at 43.[4]
+
+															Other aspects of the Departments’ handiwork may also prove arbitrary and capricious.  For example, the Departments allow even publicly traded corporations to claim a religious exemption.  See 83 Fed. Reg. 57562–57563.  That option is unusual enough to raise a serious question about whether the Departments adequately supported their choice.  Cf. Burwell v. Hobby Lobby Stores, Inc.,
+
+573 U.S. 682, 717 (2014) (noting the oddity of “a publicly traded corporation asserting RFRA rights”).  Similarly, the Departments offer an exemption to employers who have moral, rather than religious, objections to the contraceptive mandate.  Perhaps there are sufficient reasons for that decision—for example, a desire to stay neutral between religion and non-religion.  See 83 Fed. Reg. 57603–57604.  But RFRA cast a long shadow over the Departments’ rulemaking, see ante, at 19–22, and that statute does not apply to those with only moral scruples.  So a careful agency would have weighed anew, in this different context, the benefits of exempting more employers from the mandate against the harms of depriving more women of contraceptive coverage.  In the absence of such a reassessment, it seems a close call whether the moral exemption can survive.
+
+															None of this is to say that the Departments could not issue a valid rule expanding exemptions from the contraceptive mandate.  As noted earlier, I would defer to the Departments’ view of the scope of Congress’s delegation.  See supra, at 3.  That means the Departments (assuming they act hand-in-hand with HRSA) have wide latitude over exemptions, so long as they satisfy the requirements of reasoned decisionmaking.  But that “so long as” is hardly nothing.  Even in an area of broad statutory authority—maybe especially there—agencies must rationally account for their judgments.
+Notes
+1
+ The
+ 
+First Amendment cannot have separately justified the church exemption, as the dissent suggests.  See post, at 12–13 (opinion of Ginsburg, J.).  That exemption enables a religious institution to decline to provide contraceptive coverage to all its employees, from a minister to a building custodian.  By contrast, the so-called ministerial exception of the
+ 
+First Amendment (which the dissent cites, see post, at 13) extends only to select employees, having ministerial status.  See Our Lady of Guadalupe School v. Morrissey-Berru, 591 U. S. ___, ___ (2020) (slip op., at 14–16); Hosanna-Tabor Evangelical Lutheran Church and School v. EEOC,
+
+565 U.S. 171, 190 (2012).  (Too, this Court has applied the ministerial exception only to protect religious institutions from employment discrimination suits, expressly reserving whether the exception excuses their non-compliance with other laws.  See id., at 196.)  And there is no general constitutional immunity, over and above the ministerial exception, that can protect a religious institution from the law’s operation. 
+
+2
+ I speak here only of the substantive validity of the exemptions.  I agree with the Court that the final rules issuing the exemptions were procedurally valid. 
+
+3
+ At oral argument, the Solicitor General argued that the rule’s overinclusion is harmless because the accommodation remains available to all employers who qualify for the exemption.  See Tr. of Oral Arg. 20–23.  But in their final rule, the Departments themselves acknowledged the prospect that some employers without a religious objection to the accommodation would switch to the exemption.  See 83 Fed. Reg. 57576–57577 (“Of course, some of the[ ] religious” institutions that “do not conscientiously oppose participating” in the accommodation “may opt for the expanded exemption[,] but others might not”); id., at 57561 (“[I]t is not clear to the Departments” how many of the religious employers who had used the accommodation without objection “will choose to use the expanded exemption instead”).  And the Solicitor General, when pressed at argument, could offer no evidence that, since the rule took effect, employers without the Little Sisters’ complicity beliefs had declined to avail themselves of the new exemption.  Tr. of Oral Arg. 22. 
+
+4
+ In a brief passage in the interim final rule, the Departments suggested that an exemption is “more workable” than the accommodation in addressing religious objections to the mandate.  82 Fed. Reg. 47806.  But the Departments continue to provide the accommodation to any religious employers who request that option, thus maintaining a two-track system.  See ante, at 10; n. 3, supra.  So ease of administration cannot support, at least without more explanation, the Departments’ decision to offer the exemption more broadly than needed. 
+
+

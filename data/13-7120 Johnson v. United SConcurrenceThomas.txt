@@ -1,0 +1,330 @@
+::SCDB_caseID:: 2014-016
+::decision_cite:: 13-7120
+::decision_name::  Johnson v. United States
+::decision_year:: 2015
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–7120
+
+															_________________
+
+															SAMUEL JAMES JOHNSON, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eighth circuit
+
+															[June 26, 2015]
+
+															
+
+															Justice Thomas, concurring in the judgment.
+
+															I agree with the Court that Johnson’s sentence cannot stand.  But rather than use the
+ 
+Fifth Amendment’s Due Process Clause to nullify an Act of Congress, I would resolve this case on more ordinary grounds.  Under conventional principles of interpretation and our precedents, the offense of unlawfully possessing a short-barreled shotgun does not constitute a “violent felony” under the residual clause of the Armed Career Criminal Act (ACCA).
+
+															The majority wants more.  Not content to engage in the usual business of interpreting statutes, it holds this clause to be unconstitutionally vague, notwithstanding the fact that on four previous occasions we found it determinate enough for judicial application.  As Justice Alito explains, that decision cannot be reconciled with our precedents concerning the vagueness doctrine.  See post, at 13–17 (dissenting opinion).  But even if it were a closer case under those decisions, I would be wary of holding the residual clause to be unconstitutionally vague.  Although I have joined the Court in applying our modern vagueness doctrine in the past, see FCC v. Fox Television Stations, Inc., 567 U. S. ___, ___–___ (2012) (slip op., at 16–17), I have become increasingly concerned about its origins and application.  Simply put, our vagueness doctrine shares an uncomfortably similar history with substantive due process, a judicially created doctrine lacking any basis in the Constitution.
+
+															I
+
+															We could have easily disposed of this case without nullifying ACCA’s residual clause.  Under ordinary principles of statutory interpretation, the crime of unlawfully possessing a short-barreled shotgun does not constitute a “violent felony” under ACCA.  In relevant part, that Act defines a “violent felony” as a “crime punishable by imprisonment for a term exceeding one year” that either
+
+															“(i) has as an element the use, attempted use, or threatened use of physical force against the person of another; or
+
+															“(ii) is burglary, arson, or extortion, involves use of explosives, or otherwise involves conduct that presents a serious potential risk of physical injury to another.”
+
+18 U. S. C. §924(e)(2)(B).
+
+															The offense of unlawfully possessing a short-barreled shotgun neither satisfies the first clause of this definition nor falls within the enumerated offenses in the second.  It therefore can constitute a violent felony only if it falls within ACCA’s so-called “residual clause”—i.e., if it “involves conduct that presents a serious potential risk of physical injury to another.”  §924(e)(2)(B)(ii).
+
+															To determine whether an offense falls within the residual clause, we consider “whether the conduct encompassed by the elements of the offense, in the ordinary case, presents a serious potential risk of injury to another.”  James v. United States,
+
+550 U. S. 192,
+208 (2007)
+.  The specific crimes listed in §924(e)(2)(B)(ii)—arson, extortion, bur-glary, and an offense involving the use of explosives—offer a “baseline against which to measure the degree of risk” a crime must present to fall within that clause.  Id., at 208.  Those offenses do not provide a high threshold, see id., at 203, 207–208, but the crime in question must still present a “ ‘serious’ ”—a “ ‘significant’ or ‘important’ ”—risk of physical injury to be deemed a violent felony, Begay v. United States,
+
+553 U. S. 137,
+156 (2008)
+ (Alito, J., dissenting); accord, Chambers v. United States,
+
+555 U. S. 122,
+128 (2009)
+.
+
+															To qualify as serious, the risk of injury generally must be closely related to the offense itself.  Our precedents provide useful examples of the close relationship that must exist between the conduct of the offense and the risk presented.  In Sykes v. United States,
+
+564 U. S. 1 (2011)
+, for instance, we held that the offense of intentional vehicular flight constitutes a violent felony because that conduct always triggers a dangerous confrontation, id., at ___ (slip op., at 8).  As we explained, vehicular flights “by definitional necessity occur when police are present” and are done “in defiance of their instructions . . . with a vehicle that can be used in a way to cause serious potential risk of physical injury to another.”  Ibid.  In James, we likewise held that attempted burglary offenses “requir[ing] an overt act directed toward the entry of a structure” are violent felonies because the underlying conduct often results in a dangerous confrontation.  550 U. S., at 204, 206.  But we distinguished those crimes from “the more attenuated conduct encompassed by” attempt offenses “that c[an] be satisfied by preparatory conduct that does not pose the same risk of violent confrontation,” such as “ ‘possessing burglary tools.’ ”  Id., at 205, 206, and n. 4.  At some point, in other words, the risk of injury from the crime may be too attenuated for the conviction to fall within the residual clause, such as when an additional, voluntary act (e.g., the use of burglary tools to enter a structure) is necessary to bring about the risk of physical injury to another.
+
+															In light of the elements of and reported convictions for the unlawful possession of a short-barreled shotgun, this crime does not “involv[e] conduct that presents a serious potential risk of physical injury to another,” §924(e)(2)(B)(ii).  The acts that form the basis of this offense are simply too remote from a risk of physical injury to fall within the residual clause.
+
+															Standing alone, the elements of this offense—(1) unlawfully (2) possessing (3) a short-barreled shotgun—do not describe inherently dangerous conduct.  As a conceptual matter, “simple possession [of a firearm], even by a felon, takes place in a variety of ways (e.g., in a closet, in a storeroom, in a car, in a pocket) many, perhaps most, of which do not involve likely accompanying violence.”  United States v. Doe, 960 F. 2d 221, 225 (CA1 1992).  These weapons also can be stored in a manner posing a danger to no one, such as unloaded, disassembled, or locked away.  By themselves, the elements of this offense indicate that the ordinary commission of this crime is far less risky than ACCA’s enumerated offenses.
+
+															Reported convictions support the conclusion that mere possession of a short-barreled shotgun does not, in the ordinary case, pose a serious risk of injury to others.  A few examples suffice.  In one case, officers found the sawed-off shotgun locked inside a gun cabinet in an empty home.  State v. Salyers, 858 N. W. 2d 156, 157–158 (Minn. 2015).  In another, the firearm was retrieved from the trunk of the defendant’s car.  State v. Ellenberger, 543 N. W. 2d 673, 674 (Minn. App. 1996).  In still another, the weapon was found missing a firing pin.  State v. Johnson, 171 Wis. 2d 175, 178, 491 N. W. 2d 110, 111 (App. 1992).  In these instances and others, the offense threatened no one.
+
+															The Government’s theory for why this crime should nonetheless qualify as a “violent felony” is unpersuasive.  Although it does not dispute that the unlawful possession of a short-barreled shotgun can occur in a nondangerous manner, the Government contends that this offense poses a serious risk of physical injury due to the connection between short-barreled shotguns and other serious crimes.  As the Government explains, these firearms are “weapons not typically possessed by law-abiding citizens for lawful purposes,” District of Columbia v. Heller,
+
+554 U. S. 570,
+625 (2008)
+, but are instead primarily intended for use in criminal activity.  In light of that intended use, the Government reasons that the ordinary case of this possession offense will involve the use of a short-barreled shotgun in a serious crime, a scenario obviously posing a serious risk of physical injury.
+
+															But even assuming that those who unlawfully possess these weapons typically intend to use them in a serious crime, the risk that the Government identifies arises not from the act of possessing the weapon, but from the act of using it.  Unlike attempted burglary (at least of the type at issue in James) or intentional vehicular flight—conduct that by itself often or always invites a dangerous confrontation—possession of a short-barreled shotgun poses a threat only when an offender decides to engage in additional, voluntary conduct that is not included in the elements of the crime.  Until this weapon is assembled, loaded, or used, for example, it poses no risk of injury to others in and of itself.  The risk of injury to others from mere possession of this firearm is too attenuated to treat this offense as a violent felony.  I would reverse the Court of Appeals on that basis.
+
+															II
+
+															As the foregoing analysis demonstrates, ACCA’s resid-ual clause can be applied in a principled manner.  One would have thought this proposition well established given that we have already decided four cases addressing this clause.  The majority nonetheless concludes that the operation of this provision violates the
+ 
+Fifth Amendment’s Due Process Clause.
+
+															Justice Alito shows why that analysis is wrong under our precedents.  See post, at 13–17 (dissenting opinion).  But I have some concerns about our modern vagueness doctrine itself.  Whether that doctrine is defensible under the original meaning of “due process of law” is a difficult question I leave for the another day, but the doctrine’s history should prompt us at least to examine its constitutional underpinnings more closely before we use it to nullify yet another duly enacted law.
+
+															A
+
+															We have become accustomed to using the Due Process Clauses to invalidate laws on the ground of “vagueness.”  The doctrine we have developed is quite sweeping: “A statute can be impermissibly vague . . . if it fails to provide people of ordinary intelligence a reasonable opportunity to understand what conduct it prohibits” or “if it authorizes or even encourages arbitrary and discriminatory enforcement.”  Hill v. Colorado,
+
+530 U. S. 703,
+732 (2000)
+.  Using this framework, we have nullified a wide range of enactments.  We have struck down laws ranging from city ordinances, Papachristou v. Jacksonville,
+
+405 U. S. 156
+–171 (1972), to Acts of Congress, United States v. L. Cohen Grocery Co.,
+
+255 U. S. 81
+–93 (1921).  We have struck down laws whether they are penal, Lanzetta v. New Jersey,
+
+306 U. S. 451,
+452,
+458 (1939)
+, or not, Keyishian v. Board of Regents of Univ. of State of N. Y.,
+
+385 U. S. 589
+–604 (1967).[1]  We have struck down laws addressing subjects ranging from abortion, Colautti v. Franklin,
+
+439 U. S. 379,
+390 (1979)
+, and obscenity, Winters v. New York,
+
+333 U. S. 507
+–520 (1948), to the minimum wage, Connally v. General Constr. Co.,
+
+269 U. S. 385
+–395 (1926), and antitrust, Cline v. Frink Dairy Co.,
+
+274 U. S. 445
+–465 (1927).  We have even struck down a law using a term that has been used to describe criminal conduct in this country since before the Constitution was ratified.  Chicago v. Morales,
+
+527 U. S. 41,
+51 (1999)
+ (invalidating a “loitering” law); see id., at 113, and n. 10 (Thomas, J., dissenting) (discussing a 1764 Georgia law requiring the apprehension of “all able bodied persons . . . who shall be found loitering”).
+
+															That we have repeatedly used a doctrine to invalidate laws does not make it legitimate.  Cf., e.g., Dred Scott v. Sandford, 19 How. 393, 450–452 (1857) (stating that an Act of Congress prohibiting slavery in certain Federal Territories violated the substantive due process rights of slaveowners and was therefore void).  This Court has a history of wielding doctrines purportedly rooted in “due process of law” to achieve its own policy goals, substantive due process being the poster child.  See McDonald v. Chicago,
+
+561 U. S. 742,
+811 (2010)
+ (Thomas, J., concurring in part and concurring in judgment) (“The one theme that links the Court’s substantive due process precedents together is their lack of a guiding principle to distinguish ‘fundamental’ rights that warrant protection from nonfundamental rights that do not”).  Although our vagueness doctrine is distinct from substantive due process, their histories have disquieting parallels.
+
+															1
+
+															The problem of vague penal statutes is nothing new.  The notion that such laws may be void under the Constitution’s Due Process Clauses, however, is a more recent development.
+
+															Before the end of the 19th century, courts addressed vagueness through a rule of strict construction of penal statutes, not a rule of constitutional law.  This rule of construction—better known today as the rule of lenity—first emerged in 16th-century England in reaction to Parliament’s practice of making large swaths of crimes capital offenses, though it did not gain broad acceptance until the following century.  See Hall, Strict or Liberal Construction of Penal Statutes, 48 Harv. L. Rev. 748, 749–751 (1935); see also 1 L. Radzinowicz, A History of English Criminal Law and Its Administration From 1750, pp. 10–11 (1948) (noting that some of the following crimes triggered the death penalty: “marking the edges of any current coin of the kingdom,” “maliciously cutting any hop-binds growing on poles in any plantation of hops,” and “being in the company of gypsies”).  Courts relied on this rule of construction in refusing to apply vague capital-offense statutes to prosecutions before them.  As an example of this rule, William Blackstone described a notable instance in which an English statute imposing the death penalty on anyone convicted of “stealing sheep, or other cattle” was “held to extend to nothing but mere sheep” as “th[e] general words, ‘or other cattle,’ [were] looked upon as much too loose to create a capital offence.”  1 Commentaries on the Laws of England 88 (1765).[2]
+
+															Vague statutes surfaced on this side of the Atlantic as well.  Shortly after the First Congress proposed the Bill of Rights, for instance, it passed a law providing “[t]hat every person who shall attempt to trade with the Indian tribes, or be found in the Indian country with such merchandise in his possession as are usually vended to the Indians, without a license,” must forfeit the offending goods.  Act of July 22, 1790, ch. 33, §3,
+
+1Stat.
+137–138.  At first glance, punishing the unlicensed possession of “merchandise . . . usually vended to the Indians,” ibid., would seem far more likely to “invit[e] arbitrary enforcement,” ante, at 5, than does the residual clause.
+
+															But rather than strike down arguably vague laws under the
+ 
+Fifth Amendment Due Process Clause, antebellum American courts—like their English predecessors—simply refused to apply them in individual cases under the rule that penal statutes should be construed strictly.  See, e.g., United States v. Sharp, 27 F. Cas. 1041 (No. 16,264) (CC Pa. 1815) (Washington, J.).  In Sharp, for instance, several defendants charged with violating an Act rendering it a capital offense for “any seaman” to “make a revolt in [a] ship,” Act of Apr. 30, 1790, §8,
+
+1Stat.
+114, objected that “the offence of making a revolt, [wa]s not sufficiently defined by this law, or by any other standard, to which reference could be safely made; to warrant the court in passing a sentence upon [them].”  27 F. Cas., at 1043.  Justice Washington, riding circuit, apparently agreed, observing that the common definitions for the phrase “make a revolt” were “so multifarious, and so different” that he could not “avoid feeling a natural repugnance, to selecting from this mass of definitions, one, which may fix a crime upon these men, and that too of a capital nature.”  Ibid.  Remarking that “[l]aws which create crimes, ought to be so explicit in themselves, or by reference to some other standard, that all men, subject to their penalties, may know what acts it is their duty to avoid,” he refused to “recommend to the jury, to find the prisoners guilty of making, or endeavouring to make a revolt, however strong the evidence may be.”  Ibid.
+
+															Such analysis does not mean that federal courts believed they had the power to invalidate vague penal laws as unconstitutional.  Indeed, there is good evidence that courts at the time understood judicial review to consist “of a refusal to give a statute effect as operative law in resolving a case,” a notion quite distinct from our modern practice of “ ‘strik[ing] down’ legislation.”  Walsh, Partial Unconstitutionality, 85 N. Y. U. L. Rev. 738, 756 (2010).  The process of refusing to apply such laws appeared to occur on a case-by-case basis.  For instance, notwithstanding his doubts expressed in Sharp, Justice Washington, writing for this Court, later rejected the argument that lower courts could arrest a judgment under the same ship-revolt statute because it “does not define the offence of endeavouring to make a revolt.”  United States v. Kelly, 11 Wheat. 417, 418 (1826).  The Court explained that “it is . . . competent to the Court to give a judicial definition” of “the offence of endeavouring to make a revolt,” and that such definition “consists in the endeavour of the crew of a vessel, or any one or more of them, to overthrow the legitimate authority of her commander, with intent to remove him from his command, or against his will to take possession of the vessel by assuming the government and navigation of her, or by transferring their obedience from the lawful commander to some other person.”  Id., at 418–419.  In dealing with statutory indeterminacy, federal courts saw themselves engaged in construction, not judicial review as it is now understood. [3]
+
+															2
+
+															Although vagueness concerns played a role in the strict construction of penal statutes from early on, there is little indication that anyone before the late 19th century believed that courts had the power under the Due Process Clauses to nullify statutes on that ground.  Instead, our modern vagueness doctrine materialized after the rise of substantive due process.  Following the ratification of the
+ 
+Fourteenth Amendment, corporations began to use that Amendment’s Due Process Clause to challenge state laws that attached penalties to unauthorized commercial conduct.  In addition to claiming that these laws violated their substantive due process rights, these litigants began—with some success—to contend that such laws were unconstitutionally indefinite.  In one case, a railroad company challenged a Tennessee law authorizing penalties against any railroad that demanded “more than a just and reasonable compensation” or engaged in “unjust and unreasonable discrimination” in setting its rates.  Louisville & Nashville R. Co. v. Railroad Comm’n of Tenn., 19 F. 679, 690 (CC MD Tenn. 1884) (internal quotation marks deleted).  Without specifying the constitutional authority for its holding, the Circuit Court concluded that “[n]o citizen . . . can be constitutionally subjected to penalties and despoiled of his property, in a criminal or quasi criminal proceeding, under and by force of such indefinite legislation.”  Id., at 693 (emphasis deleted). 
+
+															Justice Brewer—widely recognized as “a leading spokesman for ‘substantized’ due process,” Gamer, Justice Brewer and Substantive Due Process: A Conservative Court Revisited, 18 Vand. L. Rev. 615, 627 (1965)—employed similar reasoning while riding circuit, though he did not identify the constitutional source of judicial authority to nullify vague laws.  In reviewing an Iowa law authorizing fines against railroads for charging more than a “reasonable and just” rate, Justice Brewer mentioned in dictum that “no penal law can be sustained unless its mandates are so clearly expressed that any ordinary person can determine in advance what he may and what he may not do under it.”  Chicago & N. W. R. Co. v. Dey, 35 F. 866, 876 (CC SD Iowa 1888).
+
+															Constitutional vagueness challenges in this Court initially met with some resistance.  Although the Court appeared to acknowledge the possibility of unconstitutionally indefinite enactments, it repeatedly rejected vagueness challenges to penal laws addressing railroad rates, Railroad Comm’n Cases,
+
+116 U. S. 307
+–337 (1886), liquor sales, Ohio ex rel. Lloyd v. Dollison,
+
+194 U. S. 445
+–451 (1904), and anticompetitive conduct, Nash v. United States,
+
+229 U. S. 373
+–378 (1913); Waters-Pierce Oil Co. v. Texas (No. 1),
+
+212 U. S. 86
+–111 (1909).
+
+															In 1914, however, the Court nullified a law on vagueness grounds under the Due Process Clause for the first time.  In International Harvester Co. of America v. Kentucky,
+
+234 U. S. 216 (1914)
+, a tobacco company brought a
+ 
+Fourteenth Amendment challenge against several Kentucky antitrust laws that had been construed to render unlawful “any combination [made] . . . for the purpose or with the effect of fixing a price that was greater or less than the real value of the article,” id., at 221.  The com-pany argued that by referring to “real value,” the laws pro-vided “no standard of conduct that it is possible to know.”  Ibid.  The Court agreed.  Id., at 223–224.  Although it did not specify in that case which portion of the
+ 
+Fourteenth Amendment served as the basis for its holding, ibid., it explained in a related case that the lack of a knowable standard of conduct in the Kentucky statutes “violated the fundamental principles of justice embraced in the conception of due process of law.”  Collins v. Kentucky,
+
+234 U. S. 634,
+638 (1914)
+.
+
+															3
+
+															Since that time, the Court’s application of its vagueness doctrine has largely mirrored its application of substantive due process.  During the Lochner era, a period marked by the use of substantive due process to strike down economic regulations, e.g., Lochner v. New York,
+
+198 U. S. 45,
+57 (1905)
+, the Court frequently used the vagueness doctrine to invalidate economic regulations penalizing commercial activity.[4]  Among the penal laws it found to be impermissibly vague were a state law regulating the production of crude oil, Champlin Refining Co. v. Corporation Comm’n of Okla.,
+
+286 U. S. 210
+–243 (1932), a state antitrust law, Cline, 274 U. S., at 453–465, a state minimum-wage law, Connally, 269 U. S., at 390–395, and a federal price-control statute, L. Cohen Grocery Co., 255 U. S., at 89–93.[5]
+
+															Around the time the Court began shifting the focus of its substantive due process (and equal protection) jurisprudence from economic interests to “discrete and insular minorities,” see United States v. Carolene Products Co.,
+
+304 U. S. 144
+, n. 4 (1938), the target of its vagueness doctrine changed as well.  The Court began to use the vagueness doctrine to invalidate noneconomic regulations, such as state statutes penalizing obscenity, Winters, 333 U. S., at 517–520, and membership in a gang, Lanzetta, 306 U. S., at 458.
+
+															Successful vagueness challenges to regulations penalizing commercial conduct, by contrast, largely fell by the wayside.  The Court, for instance, upheld a federal regulation punishing the knowing violation of an order instructing drivers transporting dangerous chemicals to “ ‘avoid, so far as practicable . . . driving into or through congested thoroughfares, places where crowds are assembled, street car tracks, tunnels, viaducts, and dangerous crossings,’ ” Boyce Motor Lines, Inc. v. United States,
+
+342 U. S. 337
+, 338–339, 343 (1952).  And notwithstanding its earlier conclusion that an Oklahoma law requiring state employees and contractors to be paid “ ‘not less than the current rate of per diem wages in the locality where the work is performed’ ” was unconstitutionally vague, Connally, supra, at 393, the Court found sufficiently definite a federal law forbidding radio broadcasting companies from attempting to compel by threat or duress a licensee to hire “ ‘persons in excess of the number of employees needed by such licensee to perform actual services,’ ” United States v. Petrillo,
+
+332 U. S. 1
+–7 (1947).
+
+															In more recent times, the Court’s substantive due process jurisprudence has focused on abortions, and our vagueness doctrine has played a correspondingly significant role.  In fact, our vagueness doctrine served as the basis for the first draft of the majority opinion in Roe v. Wade,
+
+410 U. S. 113 (1973)
+, on the theory that laws prohibiting all abortions save for those done “for the purpose of saving the life of the mother” forced abortionists to guess when this exception would apply on penalty of conviction.  See B. Schwartz, The Unpublished Opinions of the Burger Court 116–118 (1988) (reprinting first draft of Roe).  Roe, of course, turned out as a substantive due process opinion.  See 410 U. S., at 164.  But since then, the Court has repeatedly deployed the vagueness doctrine to nullify even mild regulations of the abortion industry.  See Akron v. Akron Center for Reproductive Health, Inc.,
+
+462 U. S. 416
+–452 (1983) (nullifying law requiring “ ‘that the remains of the unborn child [be] disposed of in a humane and sanitary manner’ ”); Colautti, 439 U. S., at 381 (nullifying law mandating abortionists adhere to a prescribed standard of care if “ there is ‘sufficient reason to believe that the fetus may be viable’ ”).[6]
+
+															In one of our most recent decisions nullifying a law on vagueness grounds, substantive due process was again lurking in the background.  In Morales, a plurality of this Court insisted that “the freedom to loiter for innocent purposes is part of the ‘liberty’ protected by the Due Process Clause of the
+ 
+Fourteenth Amendment,” 527 U. S., at 53, a conclusion that colored its analysis that an ordinance prohibiting loitering was unconstitutionally indeterminate, see id., at 55 (“When vagueness permeates the text of” a penal law “infring[ing] on constitutionally protected rights,” “it is subject to facial attack”).
+
+															I find this history unsettling.  It has long been understood that one of the problems with holding a statute “void for ‘indefiniteness’ ” is that “ ‘indefiniteness’ . . . is itself an indefinite concept,” Winters, supra, at 524 (Frankfurter, J., dissenting), and we as a Court have a bad habit of using indefinite concepts—especially ones rooted in “due process”—to invalidate democratically enacted laws.
+
+															B
+
+															It is also not clear that our vagueness doctrine can be reconciled with the original understanding of the term “due process of law.”  Our traditional justification for this doctrine has been the need for notice: “A conviction fails to comport with due process if the statute under which it is obtained fails to provide a person of ordinary intelligence fair notice of what is prohibited.”  United States v. Williams,
+
+553 U. S. 285,
+304 (2008)
+; accord, ante, at 3.  Presumably, that justification rests on the view expressed in Murray’s Lessee v. Hoboken Land & Improvement Co., 18 How. 272 (1856), that “due process of law” constrains the legislative branch by guaranteeing “usages and modes of proceeding existing in the common and statute law of England, before the emigration of our ancestors, and which are shown not to have been unsuited to their civil and political condition by having been acted on by them after the settlement of this country,” id., at 277.  That justification assumes further that providing “a person of ordinary intelligence [with] fair notice of what is prohib-ited,” Williams, supra, at 304, is one such usage or mode.[7]
+
+															To accept the vagueness doctrine as founded in our Constitution, then, one must reject the possibility “that the Due Process Clause requires only that our Government must proceed according to the ‘law of the land’—that is, according to written constitutional and statutory provisions,” which may be all that the original meaning of this provision demands.  Hamdi v. Rumsfeld,
+
+542 U. S. 507,
+589 (2004)
+ (Thomas, J., dissenting) (some internal quotation marks omitted); accord, Turner v. Rogers, 564 U. S. ___, ___ (2011) (Thomas, J., dissenting) (slip op., at 2).  Although Murray’s Lessee stated the contrary, 18 How., at 276, a number of scholars and jurists have concluded that “considerable historical evidence supports the position that ‘due process of law’ was a separation-of-powers concept designed as a safeguard against unlicensed executive action, forbidding only deprivations not authorized by legislation or common law.”  D. Currie, The Constitution in the Supreme Court: The First Hundred Years 1789–1888, p. 272 (1985); see also, e.g., In re Winship,
+
+397 U. S. 358
+–382 (1970) (Black, J., dissenting).  Others have disagreed.  See, e.g., Chapman & McConnell, Due Process as Separation of Powers, 121 Yale L. J. 1672, 1679 (2012) (arguing that, as originally understood, “the principle of due process” required, among other things, that “statutes that purported to empower the other branches to deprive persons of rights without adequate procedural guarantees [be] subject to judicial review”).
+
+															I need not choose between these two understandings of “due process of law” in this case.  Justice Alito explains why the majority’s decision is wrong even under our precedents.  See post, at 13–17 (dissenting opinion).  And more generally, I adhere to the view that “ ‘[i]f any fool would know that a particular category of conduct would be within the reach of the statute, if there is an unmistakable core that a reasonable person would know is forbidden by the law, the enactment is not unconstitutional on its face,’ ” Morales, supra, at 112 (Thomas, J., dissenting), and there is no question that ACCA’s residual clause meets that description, see ante, at 10 (agreeing with the Government that “there will be straightforward cases under the residual clause”).
+
+															*  *  *
+
+															I have no love for our residual clause jurisprudence: As I observed when we first got into this business, the Sixth Amendment problem with allowing district courts to conduct factfinding to determine whether an offense is a “violent felony” made our attempt to construe the residual clause “ ‘an unnecessary exercise.’ ”  James, 550 U. S., at 231 (Thomas, J., dissenting).  But the Court rejected my argument, choosing instead to begin that unnecessary exercise.  I see no principled way that, four cases later, the Court can now declare that the residual clause has become too indeterminate to apply.  Having damaged the residual clause through our misguided jurisprudence, we have no right to send this provision back to Congress and ask for a new one.  I cannot join the Court in using the Due Process Clause to nullify an Act of Congress that contains an unmistakable core of forbidden conduct, and I concur only in its judgment.Notes
+
+1
+
+
+		 By “penal,” I mean laws “authoriz[ing] criminal punishment” as well as those “authorizing fines or forfeitures . . . [that] are enforced through civil rather than criminal process.”  Cf. C. Nelson, Statutory Interpretation 108 (2011) (discussing definition of “penal” for purposes of rule of lenity).  A law requiring termination of employment from public institutions, for instance, is not penal.  See Keyishian, 385 U. S., at 597–604.  Nor is a law creating an “obligation to pay taxes.”  Milwaukee County v. M. E. White Co.,
+
+296 U. S. 268,
+271 (1935)
+.  Conversely, a law imposing a monetary exaction as a punishment for noncompliance with a regulatory mandate is penal.  See National Federation of Independent Business v. Sebelius, 567 U. S. ___, ___–___ (2012) (Scalia, Kennedy, Thomas, and Alito, JJ., dissenting) (slip op., at 16–26).
+	
+
+
+2
+
+
+		 At the time, the ordinary meaning of the word “cattle” was not limited to cows, but instead encompassed all “[b]easts of pasture; not wild nor domestick.”  1 S. Johnson, A Dictionary of the English Language (4th ed. 1773).  Parliament responded to the judicial refusal to apply the provision to “cattle” by passing “another statute, 15 Geo. II. c. 34, extending the [law] to bulls, cows, oxen, steers, bullocks, heifers, calves, and lambs, by name.”  1 Blackstone, Commentaries on the Laws of England, at 88.
+	
+
+
+3
+
+
+		 Early American state courts also sometimes refused to apply a law they found completely unintelligible, even outside of the penal context.  In one antebellum decision, the Pennsylvania Supreme Court did not even attempt to apply a statute that gave the Pennsylvania state treasurer “ ‘as many votes’ ” in state bank elections as “ ‘were held by individuals’ ” without providing guidance as to which individuals it was referring.  Commonwealth v. Bank of Pennsylvania, 3 Watts & Serg. 173, 177 (1842).  Concluding that it had “seldom, if ever, found the language of legislation so devoid of certainty,” the court withdrew the case.  Ibid.; see also Drake v. Drake, 15 N. C. 110, 115 (1833) (“Whether a statute be a public or a private one, if the terms in which it is couched be so vague as to convey no definite meaning to those whose duty it is to execute it, either ministerially or judicially, it is necessarily inoperative”).  This practice is distinct from our modern vagueness doctrine, which applies to laws that are intelligible but vague.
+	
+
+
+4
+
+
+		 During this time, the Court would apply its new vagueness doctrine outside of the penal context as well.  In A. B. Small Co. v. American Sugar Refining Co.,
+
+267 U. S. 233 (1925)
+, a sugar dealer raised a defense to a breach-of-contract suit that the contracts themselves were unlawful under several provisions of the Lever Act, including one making it “ ‘unlawful for any person . . . to make any unjust or unreasonable . . . charge in . . . dealing in or with any necessaries,’ or to agree with another ‘to exact excessive prices for any necessaries,’ ” id., at 238.  Applying United States v. L. Cohen Grocery Co.,
+
+255 U. S. 81 (1921)
+, which had held that provision to be unconstitutionally vague, the Court rejected the dealer’s argument.  267 U. S., at 238–239.  The Court explained that “[i]t was not the criminal penalty that was held invalid, but the exaction of obedience to a rule or standard which was so vague and indefinite as really to be no rule or standard at all.”  Id., at 239.  That doctrine thus applied to penalties as well as “[a]ny other means of exaction, such as declaring the transaction unlawful or stripping a participant of his rights under it.”  Ibid.
+
+
+
+5
+
+
+		 Vagueness challenges to laws regulating speech during this period were less successful.  Among the laws the Court found to be sufficiently definite included a state law making it a misdemeanor to publish, among other things, materials “ ‘which shall tend to encourage or advocate disrespect for law or for any court or courts of justice,’ ” Fox v. Washington,
+
+236 U. S. 273
+–277 (1915), a federal statute criminalizing candidate solicitation of contributions for “ ‘any political purpose whatever,’ ” United States v. Wurzbach,
+
+280 U. S. 396
+–399 (1930), and a state prohibition on becoming a member of any organization that advocates using unlawful violence to effect “ ‘any political change,’ ” Whitney v. California,
+
+274 U. S. 357
+–360, 368–369 (1927).  But see Stromberg v. California,
+
+283 U. S. 359
+–370 (1931) (holding state statute punishing the use of any symbol “ ‘of opposition to organized government’ ” to be impermissibly vague).
+	
+
+
+6
+
+
+		 All the while, however, the Court has rejected vagueness challenges to laws punishing those on the other side of the abortion debate.  When it comes to restricting the speech of abortion opponents, the Court has dismissed concerns about vagueness with the observation that “ ‘we can never expect mathematical certainty from our language,’ ” Hill v. Colorado,
+
+530 U. S. 703,
+733 (2000)
+, even though such restrictions are arguably “at least as imprecise as criminal prohibitions on speech the Court has declared void for vagueness in past decades,” id., at 774 (Kennedy, J., dissenting).
+	
+
+
+7
+
+
+		 As a general matter, we should be cautious about relying on general theories of “fair notice” in our due process jurisprudence, as they have been exploited to achieve particular ends.  In BMW of North America, Inc. v. Gore,
+
+517 U. S. 559 (1996)
+, for instance, the Court held that the Due Process Clause imposed limits on punitive damages because the Clause guaranteed “that a person receive fair notice not only of the conduct that will subject him to punishment, but also of the severity of the penalty that a State may impose,” id., at 574.  That was true even though “when the
+ 
+Fourteenth Amendment was adopted, punitive damages were undoubtedly an established part of the American common law of torts,” and “no particular procedures were deemed necessary to circumscribe a jury’s discretion regarding the award of such damages, or their amount.”  Pacific Mut. Life Ins. Co. v. Haslip,
+
+499 U. S. 1
+–27 (1991) (Scalia, J., concurring in judgment).  Even under the view of the Due Process Clause articulated in Murray’s Lessee, then, we should not allow nebulous principles to supplant more specific, historically grounded rules.  See 499 U. S., at 37–38 (opinion of Scalia, J.).
+	
+
+

@@ -1,0 +1,85 @@
+::SCDB_caseID:: 2020-021
+::decision_cite:: 19-416
+::decision_name::  Nestlé USA, Inc. v. Doe
+::decision_year:: 2021
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–416 and 19–453
+
+															_________________
+
+															NESTLE USA, INC., PETITIONER
+
+															19–416v.
+
+															JOHN DOE I, et al.
+
+															
+
+															CARGILL, INC., PETITIONER
+
+															19–453v.
+
+															JOHN DOE I, et al.
+
+															on writs of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 17, 2021]
+
+															
+
+															Justice Gorsuch, with whom Justice Alito joins as to Part I, and with whom Justice Kavanaugh joins as to Part II, concurring.
+
+															I write separately to add two points.  First, this Court granted certiorari to consider the petitioners’ argument that the Alien Tort Statute (ATS) exempts corporations from suit.  Rather than resolve that question, however, the Court rests its decision on other grounds.  That is a good thing:  The notion that corporations are immune from suit under the ATS cannot be reconciled with the statutory text and original understanding.  Second, the time has come to jettison the misguided notion that courts have discretion to create new causes of action under the ATS—for the reasons Justice Thomas offers and others as well.
+
+															I
+
+															The First Congress enacted what we today call the ATS as part of the Judiciary Act of 1789.  At the time, the ATS occupied only a paragraph in the larger statute, providing federal courts jurisdiction “concurrent with the courts of the several States” over “all causes where an alien sues for a tort only in violation of the law of nations or a treaty of the United States.”  §9,
+
+1Stat.
+77.  The law has hardly changed since and it remains similarly succinct:  “The district courts shall have original jurisdiction of any civil action by an alien for a tort only, committed in violation of the law of nations or a treaty of the United States.”
+
+28 U. S. C. §1350.
+
+															Nothing in the ATS supplies corporations with special protections against suit.  The statute specifies which plaintiffs may sue (“alien[s]”).  It speaks of the sort of claims those plaintiffs can bring (“tort[s]” in “violation of the law of nations or a treaty of the United States”).  But nowhere does it suggest that anything depends on whether the defendant happens to be a person or a corporation.
+
+															Understandably too.  Causes of action in tort normally focus on wrongs and injuries, not who is responsible for them.  When the First Congress passed the ATS, a “tort” meant simply an “injury or wrong” whoever committed it.  G. Jacob, O. Ruffhead, & J. Morgan, A Law Dictionary (10th ed. 1773).  Nothing has changed in the intervening centuries.  See, e.g., Black’s Law Dictionary 1717 (10th ed. 2014) (a tort is a “civil wrong . . . for which a remedy may be obtained”).  Generally, too, the law places corporations and individuals on equal footing when it comes to assigning rights and duties.  Even before the ATS’s adoption, Blackstone explained that, “[a]fter a corporation is so formed and named, it acquires many powers, rights, capacities, and incapacities,” including “[t]o sue or be sued, implead or be impleaded, grant or receive, by its corporate name, and do all other acts as natural persons may.”  1 W. Blackstone, Commentaries on the Laws of England 463 (1765).
+
+															If more evidence were necessary to prove the point, plenty would seem available.  Case after case makes plain that, “[a]t a very early period, it was decided in Great Britain, as well as in the United States, that actions might be maintained against corporations for torts . . . of nearly every variety.”  Philadelphia, W., & B. R. Co. v. Quigley, 21 How. 202, 210 (1859); see also, e.g., Chestnut Hill & Spring House Turnpike Co. v. Rutter, 4 Serg. & Rawle 6, 17 (Pa. 1818) (“[F]rom the earliest times to the present, corporations have been held liable for torts”).  Justice Story deemed the point “unquestionable.”  United States v. Amedy, 11 Wheat. 392, 412 (1826).  And by the late 19th century, the proposition that tort actions could be brought against corporations was “so well settled as not to require the citation of any authorities.”  Baltimore & Potomac R. Co. v. Fifth Baptist Church,
+
+108 U.S. 317, 330 (1883).
+
+															More evidence yet lies in the circumstances surrounding the ATS’s adoption.  It seems Congress enacted the statute as part of a comprehensive effort to ensure judicial recourse for tortious conduct that otherwise could have provided foreign nations “with just cause for reprisals or war.”  Bellia & Clark, The Alien Tort Statute and the Law of Nations, 78 U. Chi. L. Rev. 445, 476–477 (2011); see Jesner v. Arab Bank, PLC, 584 U. S. ___, ___–___ (2018) (Gorsuch, J., concurring in part and concurring in judgment).  In particular, Congress may have had an eye on three specific problems:  violations of safe conduct, interference with ambassadors, and piracy.  On the view of many, Blackstone included, these three offenses entailed not just injuries to the affected individuals but to their nation-states.  4 Commentaries on the Laws of England 68 (1769).  So, if Americans engaged in them, and if American courts provided foreigners no recourse of any kind, European powers would have had just cause to bully the new Nation.  Id., at 68–69.
+
+															In that context, distinguishing between individuals and corporations would seem to make little sense.  If early Americans assaulted or abducted the French Ambassador, what difference would it have made if the culprits acted individually or corporately?  Either way, this Nation’s failure to “oblige the guilty to repair the damage” would have provided just cause for reprisals or worse.  1 E. de Vattel,  The Law of Nations, bk. II, §76, p. 145 (1760).  Founding-era cases involving piracy seem to confirm the point too.  Injured plaintiffs routinely brought in rem proceedings against ships involved in piracy regardless of the owner’s personal involvement or liability.  See, e.g., Harmony v. United States, 2 How. 210, 233–234 (1844).  In fact, one of the earliest ATS cases involved an action against a vessel.  See Jansen v. The Vrow Christina Magdalena, 13 F. Cas. 356, 358–359 (No. 7,216) (SC 1794).  All of which underscores the ATS has never distinguished between defendants.  
+
+															II
+
+															The real problem with this lawsuit and others like it thus isn’t whether the defendant happens to be a corporation.  To my mind, it’s this:  Just as the ATS nowhere privileges corporations, it nowhere deputizes the Judiciary to create new causes of action.  Rather, the statute confers “jurisdiction” on federal courts to adjudicate “tort” claims by aliens for violations “of the law of nations.”  Perhaps this language was originally understood to furnish federal courts with authority to entertain a limited number of specific and existing intentional tort claims that, if left unremedied, could give rise to reprisals or war.  See Jesner, 584 U. S., at ___–___ (opinion of Gorsuch, J.); Bellia, 78 U. Chi. L. Rev., at 515–521.  Perhaps, too, the law affords federal courts jurisdiction to hear any other tort claims Congress chooses to create.  But nothing in the statute’s terse terms obviously authorizes federal courts to invent new causes of action on their own.
+
+															Nor would I find such an extraordinary authority lingering latent after all this time.  This Court has never—not once in 230 years—invoked the ATS to create a new cause of action.  Of course, courts at common law may have enjoyed the power to create (or “recognize”) causes of action.  But the power to create a cause of action is in every meaningful sense the power to enact a new law that assigns new rights and new legally enforceable duties.  And our Constitution generally assigns that power to Congress.  A self-governing people depends on elected representatives—not judges—to make its laws.  So what may have been a “ ‘proper function for common-law courts’ ” in England is no longer generally appropriate “ ‘for federal tribunals’ ” in this country.  Alexander v. Sandoval,
+
+532 U.S. 275, 287 (2001).  And it’s not as if we have ever, in over two centuries, faced congressional rebuke for being asleep at the ATS switch.  Just the opposite:  The one time Congress deemed a new ATS action worth having, it created that action itself in the Torture Victim Protection Act of 1991.  See 
+
+106Stat.
+73.
+
+															To be sure, the Court recently complicated this picture in Sosa v. Alvarez-Machain,
+
+542 U.S. 692 (2004).  There, the Court recognized that federal judges usually may not invoke the ATS to create new causes of action.  The Court also refused to create the new cause of action the plaintiff proposed.  Id., at 725.  But Sosa also proceeded to speculate that—in some future case—this Court might invoke the ATS to create a new cause of action.  “The door,” Sosa said, is “ajar subject to vigilant doorkeeping.”  Id., at 729.
+
+															To what end?  We have witnessed nearly two decades of ATS litigation since Sosa.  During that period, plaintiffs have presented for this Court’s consideration one new potential cause of action after another.  Each time, the lawyering has been thoughtful and able.  Always, too, the proposed cause of action is potentially worthy.  Yet, in every case, we have turned up our noses.  I would stop feigning some deficiency in these offerings.  However vigilant the doorkeeper, the truth is this is a door Sosa should not have cracked.  Whether and which international norms ought to be carried into domestic law—and how best to accomplish that goal while advancing this country’s foreign policy interests—poses “delicate” and “complex” questions involving “large elements of prophecy . . . for which the Judiciary has neither aptitude, facilities nor responsibility.”  Chicago & Southern Air Lines, Inc. v. Waterman S. S. Corp.,
+
+333 U.S. 103, 111 (1948) (Jackson, J., for the Court).  Were we to create new causes of action, we would risk doing exactly what Congress adopted the ATS to avoid:  complicating or even rupturing this Nation’s foreign relationships.  When it comes to responsibility in this area, the Constitution could not be clearer.  It invests Congress with the power to “define and punish . . . Offences against the Law of Nations” and to “regulate Commerce with foreign Nations.”  Art. I, §8.  To the President belongs the responsibility of resolving diplomatic disputes and commanding the Armed Forces.  Art. II, §§2–3.  The Judiciary is assigned no comparable role.  See Jesner, 584 U. S., at ___ (opinion of Gorsuch, J.).  Respecting all this, the Court has never purported to create a new cause of action under the guise of the ATS.  Now would be an exceedingly strange time to start.
+
+															Admitting this much would make cases like the one before us easy.  The plaintiffs seek a new cause of action.  There may be compelling reasons for adopting one, or perhaps some diplomatic concern militating against it.  But no one suggests that the plaintiffs’ cause of action was among those the ATS was originally understood to allow.  Nor does anyone suggest that Congress has authorized it.  To know that should be enough to know that any debate over the plaintiffs’ proposed cause of action belongs before lawmakers, not judges.
+
+															Making this clear would have other virtues too.  It would get this Court out of the business of having to parse out ever more convoluted reasons why it declines to exercise its assumed discretion to create new ATS causes of action.  It would absolve future parties from years of expensive and protracted litigation destined to yield nothing.  It would afford everyone interested in these matters clear guidance about whom they should lobby for new laws.  It would avoid the false modesty of adhering to a precedent that seized power we do not possess in favor of the truer modesty of ceding an ill-gotten gain.  And it would clarify where accountability lies when a new cause of action is either created or refused:  With the people’s elected representatives.
+													

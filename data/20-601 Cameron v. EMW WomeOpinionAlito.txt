@@ -1,0 +1,133 @@
+::SCDB_caseID:: 2021-006
+::decision_cite:: 20-601
+::decision_name::  Cameron v. EMW Women's Surgical Center, P. S. C.
+::decision_year:: 2022
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–601
+
+															_________________
+
+															DANIEL CAMERON, ATTORNEY GENERAL OF KENTUCKY, PETITIONER v. EMW WOMEN’S SURGICAL CENTER, P. S. C., et al.
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[March 3, 2022]
+
+															
+
+															Justice Alito delivered the opinion of the Court.
+
+															This case concerns a state attorney general’s attempt to intervene in a federal appellate proceeding for the purpose of defending the constitutionality of a state law.  The issue arose after a panel of the United States Court of Appeals for the Sixth Circuit affirmed a decision holding a Kentucky statute unconstitutional.  The Kentucky official who had been defending the law decided not to seek any further review, but the Kentucky attorney general then moved to intervene for the purpose of taking up the defense.  The panel denied that motion, but we granted review.
+
+															I
+
+															In April 2018, the Kentucky Legislature adopted House Bill 454 (HB 454), which regulates the abortion procedure known as dilation and evacuation.  See Ky. Rev. Stat. Ann. §§311.787(1)–(2) (West 2021).  EMW Women’s Surgical Center, a clinic that performs abortions, and two of its doctors filed this action in Federal District Court and sought to enjoin the enforcement of the new law.  Their complaint named four defendants, and two of these, the attorney general and the cabinet secretary for Health and Family Services, played pivotal roles in the events that followed.  The attorney general is a “[c]onstitutional State office[r]” who is independently elected and serves until a successor is elected and qualified.  Ky. Const. §91.  The secretary, on the other hand, is appointed by the Governor and serves at his pleasure.  See Ky. Rev. Stat. Ann. §§11.065, 12.020, 63.080.
+
+															The plaintiffs agreed to the dismissal without prejudice of the claims against the attorney general (at that time Andrew Beshear) and one other defendant.[1]  In agreeing to the dismissal of these claims, the attorney general reserved “all rights, claims, and defenses that [might] be available to him” and “specifically reserve[d] all rights, claims, and defenses relating to whether he is a proper party in this action and in any appeals arising out of this action.”  App. 28–30 (emphasis added).  It was also stipulated “that any final judgment in this action concerning the constitutionality of HB 454 [would] be binding on the Office of the Attorney General, subject to any modification, reversal or vacation of the judgment on appeal.”  Id., at 29–30 (emphasis added).
+
+															After the dismissal of these parties, the secretary remained in the case and conducted the defense of the challenged law.[2]  Following a bench trial, the District Court held that HB 454 unconstitutionally burdens a woman’s right to an abortion, EMW Women’s Surgical Center, P.S.C. v. Meier, 373 F. Supp. 3d 807 (WD Ky. 2019), and it issued a permanent injunction against the law’s enforcement.  The secretary then filed a notice of appeal.  App. 19.
+
+															While the appeal was pending, Kentucky held its 2019 general elections.  Andrew Beshear won the race for Governor, and petitioner Daniel Cameron was elected to replace him as attorney general.  On January 20, Governor Beshear appointed a new secretary for Health and Family Services, and the new secretary, represented by lawyers from the attorney general’s office, continued the defense of the challenged law.  On January 28, one day before the appeal was argued, Attorney General Cameron also entered an appearance as counsel for the secretary.  Id., at 82–83.
+
+															On June 2, 2020, a divided panel of the Sixth Circuit affirmed the District Court’s judgment.  EMW Women’s Surgical Center, P.S.C. v. Friedlander, 960 F.3d 785, 790–812.  In dissent, Judge Bush argued that the plaintiffs lacked third-party standing and criticized the majority for refusing to wait for our decision on that issue in June Medical Services L. L. C. v. Russo, 591 U. S. ___ (2020).  Within a week after the panel’s decision, the secretary informed the attorney general’s office that he would not file a petition for rehearing en banc or a petition for a writ of certiorari, App. 153, 161, but the secretary agreed not to oppose the attorney general if he moved to intervene for the purpose of seeking further review.  Id., at 153–154.  Two days later, the attorney general moved to withdraw as counsel for the secretary and to intervene as a party on behalf of the Commonwealth.  Id., at 152.  The secretary did not oppose that motion, but respondents did.  Id., at 170–172.  Five days later, and within the 14-day deadline for an existing party to seek rehearing, the attorney general tendered a petition for rehearing en banc.  Id., at 210–227; Fed. Rules App. Proc. 35(c) and 40(a)(1).
+
+															By the same divided vote as before, the panel denied the attorney general’s motion to intervene, citing Circuit precedent under which intervention on appeal is judged by essentially the same standard as intervention in district court.  See Blount-Hill v. Zelman, 636 F.3d 278, 283 (CA6 2011).  Applying that standard, the panel majority held, first, that the attorney general’s motion was untimely because it was not filed until years of litigation had passed and the panel had already decided the appeal; second, that no “ ‘substantial legal interest’ ” was at stake because the attorney general was pursuing “ ‘extraordinary’ ” forms of review (rehearing en banc and certiorari) to which litigants are not generally entitled; and third, that allowing intervention would prejudice respondents because the attorney general’s rehearing petition included an argument (that respondents lacked third-party standing) that the secretary’s briefs had not raised.[3]  EMW Women’s Surgical Center, P.S.C. v. Friedlander, 831 Fed. Appx. 748, 749–753 (CA6 2020).
+
+															We granted certiorari limited to the question whether the Sixth Circuit should have permitted the attorney general to intervene.  592 U. S. ___ (2021).
+
+															II
+
+															In considering this question, we begin with respondents’ contention that the attorney general’s motion to intervene was jurisdictionally barred.  Respondents never advanced this argument below, and the Sixth Circuit did not consider it.  Nevertheless, we must assure ourselves that jurisdictional requirements are met at all stages of the cases that come before us for review, see Arbaugh v. Y & H Corp., 546 U.S. 500, 506 (2006).
+
+															A
+
+															Respondents’ argument is narrow and somewhat complicated.  While implicitly conceding that a court of appeals generally has jurisdiction to consider a non-party’s motion to intervene in a pending appeal, they claim that one narrow sub-set of non-parties is jurisdictionally barred: those non-parties that are bound by the district court judgment.  Respondents’ argument goes like this.  Non-parties who are bound by a judgment can obtain appellate review by filing a notice of appeal within the time prescribed by law.  See 28 U. S. C. §2107(a); Fed. Rule App. Proc. 4(a)(1).  These time limits are jurisdictional, see Bowles v. Russell, 551 U.S. 205, 209 (2007); Torres v. Oakland Scavenger Co., 487 U.S. 312, 315 (1988); Griggs v. Provident Consumer Discount Co., 459 U.S. 56, 61 (1982) (per curiam).  And because non-parties who are bound by a judgment can seek appellate review in this way, they cannot circumvent the jurisdictional time limits for filing a notice of appeal by filing a motion to intervene after the deadline for filing a notice of appeal has passed.
+
+															Applying this theory, respondents contend that the Court of Appeals lacked jurisdiction to entertain the attorney general’s motion.  Because the attorney general agreed to be bound by the judgment, respondents maintain, he could have filed a notice of appeal, but since he failed to do so within the time allowed by law, his motion for intervention should be treated like an untimely notice of appeal.
+
+															B
+
+															This argument fails for the simple reason that no provision of law limits the jurisdiction of the courts of appeals in the way respondents suggest.  We do not read a statute or rule to impose a jurisdictional requirement unless its language clearly does so.  See Henderson v. Shinseki, 562 U.S. 428, 439 (2011) (a provision is not jurisdictional when its language “provides no clear indication that Congress wanted that provision to be treated as having jurisdictional attributes”).  Here, respondents cite no provision of law that deprives a court of appeals of jurisdiction to entertain a motion for intervention that is filed by a non-party who is bound by the judgment that is appealed.  No such language can be found in either 28 U. S. C. §2107, the Federal Rules of Appellate Procedure 3 and 4, or any other provision of law.  We therefore see no basis for holding that petitioner’s motion was jurisdictionally barred.
+
+															C
+
+															What respondents ask us to recognize is essentially a mandatory claims-processing rule.  Such rules are not jurisdictional, and if a non-jurisdictional argument was not raised below, we generally will not consider it as an alternative ground for affirmance.  See, e.g., Granfinanciera,  S. A. v. Nordberg, 492 U.S. 33, 38 (1989).  In this case, however, we do not rest our decision on respondents’ failure to raise this argument in the Court of Appeals.  Even if that argument had been preserved, we would not find it persuasive.
+
+															Assuming for the sake of argument that parties bound by a judgment are generally permitted to appeal that judgment, we do not think it follows that a party may do so regardless of the ground on which the party is bound.  Here, respondents rely on the proposition that “[t]he Attorney General, like any other ‘person who agrees to be bound by the determination of issues in an action between others is bound in accordance with the terms of his agreement.’ ”  Brief for Respondents 15 (quoting Taylor v. Sturgell, 553 U.S. 880, 893 (2008); emphasis added and alteration omitted).  And when a non-party is bound by a judgment for this reason, it is hard to see why the non-party should be precluded from seeking intervention on appeal if the agreement preserves that opportunity.
+
+															That is the situation here.  In agreeing to be bound, the attorney general specifically “reserve[d] all rights, claims, and defenses . . . in any appeals arising out of this action,” App. 28–29, and this language easily covers the right to seek rehearing en banc and the right to file a petition for a writ of certiorari.  In addition, the stipulation of dismissal made clear that the judgment to which the attorney general agreed to be bound was the judgment that emerged after all appellate review concluded.  See id., at 30 (judgment binding on attorney general’s office “subject to any modification, reversal or vacation of the judgment on appeal”).
+
+															For these reasons, we refuse to adopt a categorical claims-processing rule that bars consideration of the attorney general’s motion.  In doing so, we do not attempt to set out a general rule governing the right of non-parties to appeal or to move for appellate intervention.
+
+															III
+
+															Having concluded that neither a jurisdictional requirement nor a mandatory claims-processing rule barred consideration of the attorney general’s motion, we turn to the question whether the Court of Appeals properly denied that motion.  No statute or rule provides a general standard to apply in deciding whether intervention on appeal should be allowed.  The Federal Rules of Appellate Procedure make only one passing reference to intervention, and that reference concerns the review of agency action.  See Rule 15(d); Amalgamated Transit Union Int’l, AFL–CIO v. Donovan, 771 F.2d 1551, 1553, n. 3 (CADC 1985).  Without any rule that governs appellate intervention, we have looked elsewhere for guidance.  Thus we have considered the “policies underlying intervention” in the district courts, Automobile Workers v. Scofield, 382 U.S. 205, 217, n. 10 (1965), including the legal “interest” that a party seeks to “protect” through intervention on appeal.  Fed. Rule Civ. Proc. 24(a)(2).
+
+															A
+
+															In defending the Kentucky law, the attorney general asserts a substantial legal interest that sounds in deeper, constitutional considerations.  As we have observed, our Constitution “ ‘spli[t] the atom of sovereignty.’ ”  Alden v. Maine, 527 U.S. 706, 751 (1999) (quoting Saenz v. Roe, 526 U.S. 489, 504, n. 17 (1999)).  “The Constitution limited but did not abolish the sovereign powers of the States, which retained ‘a residuary and inviolable sovereignty.’ ”  Murphy v. National Collegiate Athletic Assn., 584 U. S. ___, ___ (2018) (slip op., at 14) (quoting The Federalist No. 39, p. 245 (C. Rossiter ed. 1961)).  Paramount among the States’ retained sovereign powers is the power to enact and enforce any laws that do not conflict with federal law.  See U. S. Const., Art. VI, §2.  Therefore, a State “clearly has a legitimate interest in the continued enforceability of its own statutes,” Maine v. Taylor, 477 U.S. 131, 137 (1986), and a federal court must “respect . . . the place of the States in our federal system,” Arizonans for Official English v. Arizona, 520 U.S. 43, 75 (1997).  This means that a State’s opportunity to defend its laws in federal court should not be lightly cut off.
+
+															Respect for state sovereignty must also take into account the authority of a State to structure its executive branch in a way that empowers multiple officials to defend its sovereign interests in federal court.  See Virginia House of Delegates v. Bethune-Hill, 587 U. S. ___, ___ (2019) (slip op., at 5).  In this case, although the secretary for Health and Family Services apparently enjoyed the authority under state law to defend the constitutionality of HB 454, the secretary shared that authority with the attorney general.  See Ky. Rev. Stat. Ann. §15.020; see also Commonwealth ex rel. Hancock v. Paxton, 516 S.W.2d 865, 868 (Ky. 1974) (“There is no question as to the right of the Attorney General to appear and be heard in a suit brought by someone else in which the constitutionality of a statute is involved”).  Indeed, it is the attorney general who is deemed Kentucky’s “chief law officer” with the authority to represent the Commonwealth “in all cases.”  Ky. Rev. Stat. Ann. §§15.020(1), (3).
+
+															The importance of ensuring that States have a fair opportunity to defend their laws in federal court has been recognized by Congress.  Under 28 U. S. C. §2403(b), when a state law “affecting the public interest is drawn in question” in any “court of the United States” and neither the State nor any state agency or officer is a party, the court must notify the state attorney general, and the State must be allowed to intervene.  See also Fed. Rule Civ. Proc. 24(a)(1).  Even if this provision is not directly applicable in this case because the secretary for Health and Family Services was still a party when the intervention motion was filed, it nevertheless reflects the weighty interest that a State has in protecting its own laws.  The way in which Kentucky divides executive authority and the unusual course that this litigation took should not obscure the important constitutional consideration at stake.[4]
+
+															Resolution of a motion for permissive intervention is committed to the discretion of the court before which intervention is sought, see Automobile Workers, 382 U. S., at 217,  n. 10; Fed. Rule Civ. Proc. 24(b)(1)(a).  But a court fails to exercise its discretion soundly when it “base[s] its ruling on an erroneous view of the law,” Cooter & Gell v. Hartmarx Corp., 496 U.S. 384, 405 (1990), and that is what happened here.  The Sixth Circuit panel failed to account for the strength of the Kentucky attorney general’s interest in taking up the defense of HB 454 when the secretary for Health and Family Services elected to acquiesce.[5]
+
+															B
+
+															The panel also erred in its evaluation of the other factors that bear on all applications for appellate intervention.  The panel found that the attorney general’s motion was not timely because it came after years of litigation in the District Court and after the panel had issued its decision, but its assessment of timeliness was mistaken.  Timeliness is an important consideration in deciding whether intervention should be allowed, see, e.g., Fed. Rules Civ. Proc. 24 (a) and (b)(1), but “[t]imeliness is to be determined from all the circumstances,” and “the point to which [a] suit has progressed is . . . not solely dispositive,”  NAACP v. New York, 413 U.S. 345, 365–366 (1973).
+
+															Here, the most important circumstance relating to timeliness is that the attorney general sought to intervene “as soon as it became clear” that the Commonwealth’s interests “would no longer be protected” by the parties in the case.  United Airlines, Inc. v. McDonald, 432 U.S. 385, 394 (1977).  Our decision in McDonald addressed a similar situation. There, a member of a putative plaintiff class moved to intervene for the purpose of appealing the District Court’s denial of class certification.  Id., at 396.  The District Court denied that request because the class member had not “seen fit to come in here and seek any relief from this Court in any way” during “five years” of litigation.  Id., at 390.  We held, however, that the motion was timely because it was filed soon after the movant learned that the class representatives would not appeal.
+
+															The same logic applies here.  The attorney general sought to intervene two days after learning that the secretary would not continue to defend HB 454.  The motion was also filed within a week after the Sixth Circuit issued its decision and within the 14-day time limit for petitioning for rehearing en banc.  Although the litigation by that time had proceeded for years, that factor is not dispositive.  The attorney general’s need to seek intervention did not arise until the secretary ceased defending the state law, and the timeliness of his motion should be assessed in relation to that point in time.
+
+															Respondents argue that the attorney general should have realized as soon as Governor Beshear took office that his secretary for Health and Family Services might abandon the defense of HB 454.  Respondents state that Governor Beshear ran “on a pro-choice platform and . . . had repeatedly withdrawn from the defense of abortion restrictions when serving as Attorney General.”  Brief for Respondents 28.  But the new secretary whom he appointed after taking office as Governor had continued to defend the law on appeal, and respondents do not explain why the attorney general should have known that the secretary would change course after the panel’s decision was handed down.
+
+															In arguing to the contrary, respondents point to our decision in NAACP v. New York, 413 U.S. 345, but they misread that decision. In that case, several parties unsuccessfully sought to intervene in a Voting Rights Act case after the United States, which had brought the action, consented to the entry of judgment in favor of the defendant.  The District Court found that this request was untimely, and we affirmed, noting that the United States’ answer to the complaint, which had been filed almost a month earlier, had revealed that the Government “was without information with which it could oppose the motion for summary judgment.”  Id., at 367.  That response, we concluded, should have alerted the would-be intervenors about the United States’ likely course of action.  Ibid.  We also observed, among other things, that intervention had “the potential for seriously disrupting” the approaching elections.  Id., at 368–369.
+
+															The situation here is starkly different.  As discussed, the attorney general’s motion was timely, and intervention would not have produced anything like the disruption that the Court cited in NAACP v. New York.  Thus, the panel was mistaken in finding that the attorney general’s motion was untimely.
+
+															C
+
+															The panel’s finding on prejudice was similarly flawed.  The panel argued that intervention would prejudice respondents because the attorney general’s rehearing petition pressed an issue (third-party standing) that had not been raised in the secretary’s briefs.  831 Fed. Appx., at 751, 752.  But the lack of third-party standing was not the only argument advanced in the rehearing petition, App. 221–227, and in any event, allowing the attorney general to intervene would not have necessitated that the third-party standing issue be entertained.  If the secretary for Health and Family Services had not retired from the field, he could have raised that same argument in a petition for rehearing or in a petition for certiorari.  In that event, the relevant court (the Sixth Circuit in deciding whether to grant en banc review and this Court in deciding whether to grant certiorari) could have considered whether the third-party standing argument should be considered despite the secretary’s failure to raise the issue at an earlier point in the litigation.  That the issue was raised in the attorney general’s rehearing petition, as opposed to one filed by the secretary, was immaterial.
+
+															Our decision in McDonald illustrates the panel’s error.  In that case, we held that the defendant was not “unfairly prejudiced simply because an appeal on behalf of putative class members was brought by [an unnamed class member] rather than by one of the original” parties, 432 U. S., at 394.  The situation here is similar.
+
+															Respondents advance one additional argument on the issue of prejudice.  They claim that intervention would unfairly deprive them of a “reasonable expectation” stemming from Governor Beshear’s election.  Brief for Respondents 31.  Respondents contend that Governor Beshear had a “history of refusing to defend abortion restrictions” and that they therefore reasonably thought that the secretary, who was appointed by the Governor, would not pursue “extraordinary forms of relief if they prevailed in their appeal.”  Ibid.
+
+															The loss of this sort of claimed expectation does not amount to unfair prejudice in the sense relevant here.  Respondents may have hoped that the new Governor would appoint a secretary who would give up the defense of HB 454, but they had no legally cognizable expectation that the secretary he chose or the newly elected attorney general would do so before all available forms of review had been exhausted.
+
+															*  *  *
+
+															For these reasons, the Court of Appeals erred in denying the attorney general’s motion to intervene.  That court’s judgment is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ The executive director of the Kentucky Board of Medical Licensure. 
+
+2
+ The fourth defendant was the Commonwealth’s attorney for the 30th Judicial Circuit.  He did not join the secretary’s appeal.  EMW Women’s Surgical Center, P.S.C. v. Friedlander, 960 F.3d 785, 792 (CA6 2020). 
+
+3
+ In the District Court, an attorney representing the secretary had raised the issue during argument on the secretary’s motion for a directed verdict, but the District Court refused to consider the issue on the ground that it should have been raised much earlier.  Tr. 105 (Nov. 15, 2018). 
+
+4
+ Justice Kagan argues that the Court need not address the constitutional basis for Kentucky’s interest in the defense of its laws, but that interest was a primary focus of the briefs and oral argument.  And indeed, Justice Kagan agrees that “a State has a significant interest in enforcing its own laws.”  Post, at 5 (opinion concurring in judgment).  Such an interest depends on States’ status as “separate sovereigns.”  Maine v. Taylor, 477 U.S. 131, 137 (1986). 
+
+5
+ The dissent argues that the Court of Appeals did not abuse its discretion by denying the attorney general’s intervention motion because his predecessor in office had argued that he had no interest in the litigation.  Post, at 5–6.  The dissent argues that we should hold the attorney general to that representation.  But the Court of Appeals did not rely on this argument, and for good reason.  The attorney general was sued in his role as a state official who could enforce HB 454, and the attorney general had disclaimed any such enforcement authority.  See Ex parte Young, 209 U.S. 123, 159–160 (1908).  The attorney general now seeks to intervene not to defend a right to exercise enforcement powers under HB 454, but in his role as the Commonwealth’s “chief law officer,” Ky. Rev. Stat. Ann. §15.020(1), who has the authority to defend Kentucky’s interests in federal court when no other official is willing to do so. 
+
+

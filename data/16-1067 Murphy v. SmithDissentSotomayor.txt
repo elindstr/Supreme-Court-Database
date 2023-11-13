@@ -1,0 +1,168 @@
+::SCDB_caseID:: 2017-026
+::decision_cite:: 16-1067
+::decision_name::  Murphy v. Smith
+::decision_year:: 2018
+::opinion_author:: Sotomayor
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 16–1067
+
+															_________________
+
+															CHARLES MURPHY, PETITIONER v.  ROBERT SMITH, et al.
+
+															on writ of certiorari to the united states court of appeals for the seventh circuit
+
+															[February 21, 2018]
+
+															
+
+															Justice Sotomayor, with whom Justice Ginsburg, Justice Breyer, and Justice Kagan join, dissenting.
+
+															The Court concludes that the attorney’s fee apportionment provision of the Prison Litigation Reform Act of 1995 (PLRA),
+
+42 U. S. C. §1997e(d)(2), requires that a district court endeavor to fulfill the entirety of an attorney’s fee award from the monetary judgment awarded to a prevailing prisoner-plaintiff, and only if 25 percent of the judgment is inadequate to cover the fee award can the court require contribution from the defendant.  Ante, at 8.  I cannot agree.  The text of §1997e(d)(2)—“a portion of the judgment (not to exceed 25 percent) shall be applied to satisfy the amount of attorney’s fees awarded against the defendant”—and its statutory context make clear that the provision permits district courts to exercise discretion in choosing the portion of a prisoner-plaintiff’s monetary judgment that must be applied toward an attorney’s fee award, so long as that portion is not greater than 25 percent.  I therefore respectfully dissent.
+
+															I
+
+															In approaching this case, it helps to understand the background of the fee award at issue.  On July 25, 2011, petitioner Charles Murphy, a prisoner at the Vandalia Correctional Center in Illinois, reported that his assigned seat at mealtime had food and water on it, which resulted in Murphy being handcuffed and escorted to a segregation building.  Once there, Murphy taunted respondent Correctional Officer Robert Smith, who responded by hitting Murphy in the eye and applying a choke hold, causing Murphy to lose consciousness.  When Murphy woke up, Officer Smith and respondent Lieutenant Gregory Fulk were pushing him into a cell.  His hands were still cuffed behind his back and he fell face-first into the cell and hit his head on a metal toilet.  Officer Smith and Lieutenant Fulk then stripped Murphy of his clothes, removed his handcuffs, and left him in the cell without checking his condition.  Thirty or forty minutes passed until a nurse arrived to attend to Murphy, who was sent to a hospital.  Part of his eye socket had been crushed and required surgery.  Despite the procedure, Murphy did not fully recover; almost five years later, his vision remained doubled and blurred.
+
+															Murphy sued respondents under
+
+42 U. S. C. §1983 and state-law causes of action.  After trial, a jury found Officer Smith liable for state-law battery and unconstitutional use of force under the
+ 
+Eighth Amendment, and found Lieutenant Fulk liable for deliberate indifference to a serious medical need in violation of the
+ 
+Eighth Amendment.  The jury awarded Murphy $409,750.00 in compensatory and punitive damages, which the District Court reduced to $307,733.82.  The District Court also awarded Murphy’s attorney $108,446.54 in fees for the several hundred hours he spent on the case and, pursuant to §1997e(d)(2), ordered Murphy to contribute 10 percent of his money judgment toward the attorney’s fee award and respondents to pay the rest.
+
+															Respondents appealed, arguing that §1997e(d)(2) required Murphy to contribute 25 percent of his judgment toward payment of the attorney’s fee award.  The Court of Appeals for the Seventh Circuit agreed and reversed.  In so doing, it acknowledged that its interpretation of §1997e(d)(2) was at odds with that of all the other Courts of Appeals to have considered the question.  See 844 F. 3d 653, 660 (2016) (citing Boesing v. Spiess, 540 F. 3d 886, 892 (CA8 2008); Parker v. Conway, 581 F. 3d 198, 205 (CA3 2009)).
+
+															II
+
+															A
+
+															The relevant provision in the PLRA provides:
+
+															“Whenever a monetary judgment is awarded in [a civil-rights action brought by a prisoner], a portion of the judgment (not to exceed 25 percent) shall be applied to satisfy the amount of attorney’s fees awarded against the defendant.  If the award of attorney’s fees is not greater than 150 percent of the judgment, the excess shall be paid by the defendant.”
+
+42 U. S. C. §1997e(d)(2).
+
+															The crux of the majority’s reasoning is its definition of the infinitive “to satisfy.”  The majority contends that “when you purposefully seek or aim ‘to satisfy’ an obligation, especially a financial obligation, that usually means you intend to discharge the obligation in full.”  Ante, at 3.  To meet its duty to act with the purpose of fully discharging the fee award, the majority reasons, “a district court must apply as much of the judgment as necessary to sat- isfy the fee award, without of course exceeding the 25% cap.”  Ibid.
+
+															But the phrase “to satisfy” as it is used in §1997e(d)(2) does not bear the weight the majority places on it.  Its neighboring text and the realities of prisoner-civil-rights litigation rebut the conclusion that “to satisfy” compels a district court always to maximize the amount of the prisoner-plaintiff’s judgment to be contributed to the fee award, and instead indicate that the only work “to satisfy” does in the statute is to direct a district court to contribute some amount of the judgment toward payment of the fee award.
+
+															Beginning with the neighboring text, it may well be that, standing alone, “to satisfy” is often used to mean “to completely fulfill an obligation.”  But the statutory provision here does not simply say “to satisfy”; it says “applied to satisfy.”  As a matter of everyday usage, the phrase “applied to satisfy” often means “applied toward the satisfaction of,” rather than “applied in complete fulfillment of.”  Thus, whereas an action undertaken “to satisfy” an obligation might, as the majority suggests, naturally be understood as an effort to discharge the obligation in full, ante, at 3, a contribution that is “applied to satisfy” an obligation need not be intended to discharge the obligation in full.
+
+															Take a few examples: A consumer makes a payment on her credit card, which her agreement with the card company provides shall be “applied to satisfy” her debt.  A student enrolls in a particular type of math class, the credits from which her university registrar earlier announced shall be “applied to satisfy” the requirements of a physics degree.  And a law firm associate contributes hours to a pro bono matter that her firm has provided may be “applied to satisfy” the firm’s overall billable-hours requirement.  In each case, pursuant to the relevant agreement, the payment, credits, and hours are applied toward the satisfaction of a larger obligation, but the inference is not that the consumer, student, or associate had to contribute or even necessarily did contribute the maximum possible credit card payment, classroom credits, or hours toward the fulfillment of those obligations.  The consumer may have chosen to make the minimum credit card payment because she preferred to allocate her other funds elsewhere; the student may have chosen the four-credit version of the math course over the six-credit one because the former had a better instructor; and the associate may have been judicious about the hours she dedicated to the pro bono matter because she knew her firm more highly valued paid over pro bono work.  So, too, here.  Section 1997e(d)(2), like the credit card agreement, university registrar announcement, and law firm policy, sets out the relevant rule—“a portion of the judgment (not to exceed 25 percent) shall be applied to satisfy” the fee award—and the district court, like the consumer, student, and law firm associate, decides how much of the judgment to apply.
+
+															As a practical matter, moreover, a district court will almost never be able to discharge fully a fee award from 25 percent of a prisoner-plaintiff’s judgment.  In the vast majority of prisoner-civil-rights cases, the attorney’s fee award exceeds the monetary judgment awarded to the prevailing prisoner-plaintiff.  In fiscal year 2012, for instance, the median damages award in a prisoner-civil-rights action litigated to victory (i.e., not settled or decided against the prisoner) was a mere $4,185.  See Schlanger, Trends in Prisoner Litigation, as the PLRA Enters Adulthood, 5 U. C. Irvine L. Rev. 153, 168 (2015) (Table 7) (Trends in Prisoner Litigation).  Therefore, in 2012, the maximum amount (25 percent) of the median judgment that could be applied toward an attorney’s fee award was $1,046.25.  The PLRA caps the hourly rate that may be awarded to a prisoner-plaintiff’s attorney at 150 percent of the rate for court-appointed counsel under
+
+18 U. S. C. §3006A, which in 2012 was $125.
+
+42 U. S. C. §1997e(d)(3); App. to Pet. for Cert. 21a. Thus, a prisoner’s attorney was entitled to up to $187.50 per hour worked.  Even if a district court were to apply an hourly rate of just $100, well below the cap, unless the attorney put in fewer than 10.5 hours in the ordinary case—a virtually unimaginable scenario—25 percent of the judgment will not come close to discharging fully the attorney’s fee award.[1]
+
+															Such low judgments are not a new phenomenon in prisoner-civil-rights suits; they were the norm even before Congress enacted the PLRA.  In fiscal year 1993, for example, the median damages award for prisoner-plaintiffs in cases won at trial was $1,000.  See Trends in Prisoner Litigation 167; Schlanger, Inmate Litigation, 116 Harv. L. Rev. 1555, 1602–1603, and Table II.C (2003).[2]
+
+															Given the very small judgment awards in successfully litigated prisoner-civil-rights cases, it is hard to believe, as the majority contends, that Congress used “applied to satisfy” to command an effort by district courts to “discharge . . . in full,” ante, at 3, when in most cases, full discharge will never be possible.[3]  Rather, taking into account both the realities of prisoner-civil-rights litigation and the most natural reading of “applied to satisfy,” the more logical inference is that §1997e(d)(2) simply requires that a portion of the prevailing prisoner-plaintiff’s judgment be applied toward the satisfaction of the attorney’s fee award.[4]  It does not, however, demand that the district court always order the prisoner-plaintiff to pay the maximum possible portion of the judgment (up to 25 percent) needed to discharge fully the fee award.  Under that interpretation, applying any amount of Murphy’s judgment toward payment of his attorney’s fee award complies with §1997e(d)(2), whether that amount is 10 percent of the judgment as ordered by the District Court or 25 percent as ordered by the Court of Appeals.
+
+															B
+
+															The majority suggests that if Congress had wanted to permit judges to pursue something other than full discharge of the fee award from the judgment, it could have replaced “to satisfy” with “to reduce” or “against.”  Ante, at 3.  But the majority ignores that Congress also easily could have written §1997e(d)(2) to more clearly express the meaning it and respondents champion.  The statute, for example, simply could have said: “Twenty-five percent of the plaintiff’s judgment shall be applied to satisfy the amount of attorney’s fees awarded against the defendant.  If the award of attorney’s fees is not greater than 150 percent of the judgment, the excess shall be paid by the defendant.”
+
+															In fact, Congress considered and rejected language prior to enacting the current attorney’s fee apportionment provision that would have done just what the majority claims.  An earlier version of §1997e(d)(2) provided:
+
+															“Whenever a monetary judgment is awarded in an action described in paragraph (1), a portion of the judgment (not to exceed 25 percent) shall be applied to satisfy the amount of attorney’s fees awarded against the defendant.  If the award of attorney’s fees is greater than 25 percent of the judgment, the excess shall be paid by the defendant.”  Prison Litigation Reform Act of 1995, S. 1279, 104th Cong., 1st Sess., §3(d), p. 16 (1995) (emphasis added).
+
+															The italicized clause plainly expressed what the major- ity contends the current provision means, i.e., that a defendant’s liability for the attorney’s fee award begins only if any portion of the award remains unpaid after the prevailing prisoner-plaintiff has contributed 25 percent of the judgment.  But Congress removed this clause before finalizing the bill, thus electing to keep the 25-percent ceiling for the prisoner-plaintiff’s contribution to the fee award and rejecting a 25-percent floor for the defendant’s contribution.  See H. R. Conf. Rep. No. 104–378, p. 71 (1995).
+
+															The majority alternatively disclaims the ability to discern what motivated the deletion and pronounces that “[i]t shows that, at some stage of the bill’s consideration, its proponents likely shared [the majority’s] understanding” of how the first sentence works.  Ante, at 8–9, n. 2.  In the majority’s view, it is more likely that Congress drafted two redundant sentences than two conflicting ones.  Ibid.  That supposition, however, is purely speculative.  Here is what is known for certain: Congress had before it language that would have accomplished exactly the statutory function the majority today endorses and Congress chose to excise that language from the text.  Our precedent instructs that “[w]here Congress includes limiting language in an earlier version of a bill but deletes it prior to enactment, it may be presumed that the limitation was not intended.”  Russello v. United States,
+
+464 U. S. 16
+–24 (1983).  See also INS v. Cardoza-Fonseca,
+
+480 U. S. 421
+–443 (1987) (“ ‘Few principles of statutory construction are more compelling than the proposition that Congress does not intend sub silentio to enact statutory language that it has earlier discarded in favor of other language’ ”).
+
+															C
+
+															The rest of the statutory text confirms that district courts have discretion to choose the amount of the judgment that must be applied toward the attorney’s fee award.  Specifically, that grant of discretion is evident from Congress’ use of two discretion-conferring terms, “portion” and “not to exceed.”
+
+															The first word, “portion,” is defined as “[a] share or allotted part (as of an estate).”  Black’s Law Dictionary 1182 (7th ed. 1999).  “Portion” thus inherently conveys an indeterminate amount.  Take, for instance, the following sentence: “My dinner guest has requested a portion of apple pie for dessert.”  How much is a “portion” of pie?  For a marathon runner, a “portion” might mean a hearty serving, perhaps an eighth of a whole pie; for someone on a diet, however, a “portion” might mean a tiny sliver.  The dinner host can figure it out based on the circumstances.  Similarly, in this context, referencing a “portion” of the judgment tells us that some amount of the judgment up to 25 percent of the whole is to be applied to the attorney’s fee award, but not exactly what amount.  That decision is left to the sound discretion of the district court, depending again on the circumstances.
+
+															The majority dismisses as insignificant Congress’ use of this discretion-conferring term, arguing that under either side’s reading of the statute, the “portion” of fees taken from the prisoner-plaintiff’s judgment will vary.  See ante, at 5.  True enough,[5] but that fact does not justify the majority’s brushoff.  Congress’ deliberate choice to use the indeterminate, discretion-conferring term “portion” in §1997e(d)(2) reveals much about the statute’s meaning.
+
+															To illustrate the significance of Congress’ use of the word “portion,” imagine that §1997e(d)(2) contained no qualifying “not to exceed” parenthetical, and instead provided only that “a portion of the judgment shall be applied to satisfy the amount of attorney’s fees awarded against the defendant.”  As applied to the typical scenario, i.e., where the attorney’s fee award exceeds the prisoner-plaintiff’s money judgment, the most natural reading of the statute absent the limiting parenthetical is that the amount of the judgment applied to the fee award must be more than zero and less than 100 percent.  That is because, as explained above, “portion” means something less than the whole but does not have a fixed value.[6]  If the majority were correct in its reading of “to satisfy,” how- ever—that it requires the district court to endeavor to discharge fully the attorney’s fee award from the prisoner-plaintiff’s judgment before turning to the defendant for a contribution—then, in the typical case, absent the parenthetical, we would have to conclude that “a portion of the judgment” always means “all of the judgment” or perhaps “all of the judgment save a nominal amount.”  I do not think it reasonable to conclude that Congress intended to ascribe such a strained meaning to “portion.”  That the majority’s reading of one term—“to satisfy”—forces an implausible reading of another term—“portion”—strongly suggests that its reading is incorrect.
+
+															Congress’ use of the word “portion,” therefore, does not merely instruct that there are a range of possible portions that can be paid out of the judgment.  “Portion” makes evident that the district court is afforded the discretion to choose the amount of the judgment to be paid toward the fee award.  The addition of the “not to exceed 25 percent” parenthetical only enhances this conclusion.  The phrase “not to exceed,” which is itself discretion conferring, sets an upper, but not a lower, limit and thus cabins, but does not eliminate, the exercise of discretion that “portion” confers.
+
+															D
+
+															The distinction between cabining and eliminating discretion is also key to understanding the relationship between §1997e(d) and
+
+42 U. S. C. §1988(b), as well as between §1997e(d)(2) and its surrounding statutory provisions.
+
+															Section 1988(b), the Civil Rights Attorney’s Fees Awards Act of 1976, authorizes a district court to award “a reasonable attorney’s fee” to a prevailing party in an action to enforce one or more of several federal civil rights laws.  Section 1997e(d) in turn imposes limits on the attorney’s fees available under §1988(b) when the prevailing plaintiff in one of the specified civil-rights actions is a prisoner.  In particular, the district court may award attorney’s fees to the prisoner only if “the fee was directly and reasonably incurred in proving an actual violation of the plaintiff’s rights protected by a statute pursuant to which a fee may be awarded under section 1988,” and “the amount of the fee is proportionately related to the court ordered relief for the violation” or “the fee was directly and reasonably incurred in enforcing the relief ordered for the violation.”  §1997e(d)(1).  In addition, as noted supra, at 5, the district court may not base an award of attorney’s fees “on an hourly rate greater than 150 percent of the hourly rate established under [
+
+18 U. S. C. §3006A] for payment of court-appointed counsel” and, if the prisoner-plaintiff was awarded damages, may not award attorney’s fees in excess of 150 percent of the monetary judgment.  §§1997e(d)(2)–(3).
+
+															These provisions, of course, do not eliminate a district court’s discretion when it comes to the award of attorney’s fees to a prevailing prisoner-plaintiff; they merely compress the range of permissible options.  A district court still has the discretion to decide whether to award attorney’s fees, just as it ordinarily would under §1988(b); it simply must first ensure that the threshold conditions set out in §1997e(d)(1) are satisfied.  A district court likewise still has the discretion to determine what constitutes a reasonable amount of fees to award; it simply must abide by the two 150-percent caps in doing so.
+
+															Just as these surrounding statutory provisions in §1997e(d) set outward bounds on a district court’s exercise of discretion while still preserving the exercise of discretion within those bounds, so, too, does §1997e(d)(2).  A district court is not free to require the defendant to pay the entire attorney’s fee award, nor is it free to require the prisoner-plaintiff to give up more than 25 percent of his judgment to pay the fee award.  But within those boundaries, the district court is free to decide which party should pay what portion of the fee award.
+
+															The majority suggests that affording discretion to district courts when it comes to the apportionment of attorney’s fee awards is in tension with our adoption of the lodestar method as the presumptive means of calculating a reasonable fee award under §1988.  Ante, at 7.  Prior to the lodestar’s development, several lower courts utilized 12 “sometimes subjective factors.”  Pennsylvania v. Delaware Valley Citizens’ Council for Clean Air,
+
+478 U. S. 546,
+563 (1986)
+.  Because that method “placed unlimited discretion in trial judges and produced disparate results,” ibid., this Court endorsed the lodestar approach, pursuant to which a court multiplies “the number of hours reasonably expended on the litigation times a reasonable hourly rate,” Blum v. Stenson,
+
+465 U. S. 886,
+888 (1984)
+, and then considers whether to make adjustments to that amount, see id., at 898–901; Hensley v. Eckerhart,
+
+461 U. S. 424,
+435 (1983)
+.  The majority asserts that adopting Murphy’s reading of §1997e(d)(2) would lead to “exactly the sort of unguided and freewheeling choice” this Court sought to leave behind when it sanctioned the lodestar approach.  Ante, at 7.  That analogy, however, is inapt.
+
+															First, the question before us is whether §1997e(d)(2) affords district courts any discretion in the apportionment of responsibility for payment of an attorney’s fee award, not how district courts reasonably should exercise that discretion.  When this Court embraced the lodestar approach, it did so to provide guideposts to district courts as they exercised the discretion granted to them by §1988(b) to “allow the prevailing party . . . a reasonable attorney’s fee.”  By no means did this Court eliminate that exercise of discretion.  Rather, the Court has “reemphasize[d] that the district court has discretion in determining the amount of a fee award.”  Hensley, 461 U. S., at 437; see also Blum, 465 U. S., at 902, n. 19 (“A district court is expressly empowered to exercise discretion in determining whether an award is to be made and if so its reasonableness”); id., at 896 (explaining that the proper standard of review of an attorney’s fee award is abuse of discretion).  As was the case for the District Court here, that exercise of discretion can include, for example, whether a defendant is entitled to a reduction in hours where a plaintiff did not succeed on all his claims, and whether certain claimed expenses are reasonable.  See App. to Pet. for Cert. 22a–26a.
+
+															If the majority is concerned that district courts are exercising the apportionment discretion afforded to them by §1997e(d)(2) in an uneven or unguided manner, the solution is not to read the conferral of discretion out of the statute entirely.  Instead, as occurred in the §1988(b) context, the Court could endorse a method for apportioning attorney’s fee awards that can consistently be applied across cases.[7]  Just as courts ultimately were capable, through trial-and-error, of discerning an appropriate formula for assessing the reasonableness of a given fee award, see Delaware Valley, 478 U. S., at 562–565, so, too, are they capable of determining a sound approach to the apportionment decision envisioned by §1997e(d)(2).[8]
+
+															Second, even absent an equivalent method to the lodestar inquiry, §1997e(d)(2) does not, unlike the old 12-factor analysis for calculating fee awards, afford unlimited discretion.  Congress provided express bounds on a district court’s apportionment discretion, requiring that it order the prevailing prisoner-plaintiff to contribute at least some part of his money judgment to the fee award but no more than 25 percent.
+
+															Finally, it is not obvious that the need for a more regimented approach with respect to calculating the amount of an attorney’s fee award under §1988(b) should dictate the need for a similarly regimented approach with respect to the apportionment of responsibility for that award under §1997e(d)(2).  The two decisions involve fundamentally different inquiries: The first is focused on the prevailing-plaintiff’s attorney and is concerned with determining a reasonable value for services rendered in pursuing the action, and the second is focused on the parties and is concerned with assessing the extent to which each party should bear responsibility for payment of those services (within the bounds set by Congress).  In light of these distinctions, the Court should hesitate to extrapolate wholesale from the considerations that drove the adoption of the lodestar rule to constrain the apportionment discretion afforded by §1997e(d)(2).
+
+															III
+
+															On my reading of the plain text of §1997e(d)(2) and its surrounding statutory provisions and context, the proper interpretation of the provision is clear: District courts may exercise discretion in choosing the portion of the prisoner-plaintiff’s monetary judgment that must go toward the attorney’s fee award, so long as that choice is not greater than 25 percent of the judgment.  Because the majority holds that a prevailing prisoner-plaintiff must always yield 25 percent of his monetary judgment or, if less, the full amount of the fee award in every case, I respectfully dissent.
+Notes
+1
+ A similar conclusion obtains if one considers the average, rather than the median, damages award in a prisoner-civil-rights action litigated to victory, which in 2012 was $20,815.  See Trends in Prisoner Litigation 168 (Table 7).
+
+2
+ The average such award in 1993, excluding one extreme outlier of $6.5 million, was $18,800.  See Trends in Prisoner Litigation 167; Schlanger, 116 Harv. L. Rev., at 1603.
+
+3
+ In fact, even here, where the monetary judgment awarded to Murphy was well above the average award in prisoner-civil-rights cases, 25 percent of the judgment cannot fully discharge the fees awarded to his attorney.
+
+4
+ Irrespective of what portion of the judgment the district court ultimately requires the prisoner-plaintiff to contribute to the fee award, the award will always be satisfied, i.e., paid in full, for once the prisoner-plaintiff provides his contribution from the judgment, the defendant will be called upon to contribute the remainder.
+
+5
+ Notably, such variation will be far less common under the majority’s reading.  Given that the fee awards in prisoner-civil-rights victories almost always exceed the monetary judgments, see Part II–A, supra, on the majority’s reading, it will be the rare case indeed when the “portion” of the judgment applied to the fee award will be anything other than 25 percent.
+
+6
+ Of course, “portion” can gain a more determinate meaning by its surrounding context, as the majority’s examples illustrate.  See ante, at 5.  But §1997e(d)(2) is not like the recipe that quantifies the initial portion of sugar to be doubled or the statutory provision that describes with geographic precision the lands to be made part of the National Elk Refuge.  “[T]o satisfy” simply instructs that some portion of the prisoner-plaintiff ’s judgment “not to exceed 25 percent” be applied toward the satisfaction of the fee award.  See supra, at 6.  Section 1997e(d)(2) therefore lacks the clarifying details present in the majority’s examples that would give fixed meaning to the word “portion.”
+
+7
+ Such an apportionment method could, for example, account for a defendant’s conduct during the litigation, just as the lodestar method considers the prevailing-plaintiff ’s conduct in prosecuting the action.  A defendant that acts in ways that unnecessarily prolong or complicate the litigation so as to increase the plaintiff ’s fees reasonably could be asked to bear a greater share of that expense.
+
+8
+ Relatedly, the majority indicates concern with the District Court’s lack of explanation for its choice of 10 percent.  See ante, at 8.  That procedural failure can easily be remedied by requiring district courts to explain their apportionment decisions so as to facilitate meaningful appellate review.
+
+

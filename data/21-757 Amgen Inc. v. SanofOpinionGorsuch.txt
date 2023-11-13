@@ -1,0 +1,787 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-757
+::decision_name::  Amgen Inc. v. Sanofi
+::decision_year:: 2023
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to formal
+revision before publication in the United States Reports. Readers
+are requested to notify the Reporter of Decisions, Supreme Court of
+the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–757
+
+															_________________
+
+															AMGEN INC., et al., PETITIONERS v.
+SANOFI, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the federal circuit
+
+															[May 18, 2023]
+
+															
+
+															Justice Gorsuch delivered the opinion of the
+Court.
+
+															The development of antibody drugs has yielded
+life-changing therapies. Individuals across the world now rely on
+antibody drugs to treat conditions ranging from Crohn’s
+disease to cancer. This case concerns patents covering antibodies
+that help reduce levels of low-density lipoprotein cholesterol,
+sometimes called LDL cholesterol (for the obvious reason) or bad
+cholesterol (because it can lead to cardiovascular disease, heart
+attacks, and strokes).
+
+															The case comes to us this way. Several years
+ago, petitioners (Amgen) obtained two patents. Together, these
+patents claim a monopoly over all antibodies that (1) bind to
+specific amino acids on a naturally occurring protein known as
+PCSK9, and (2) block PCSK9 from impairing the body’s
+mechanism for removing LDL cholesterol from the bloodstream. Soon
+after receiving these patents, Amgen sued respondents (Sanofi) for
+infringement. In response, Sanofi argued that the patents were
+invalid under §112 of the Patent Act. That provision requires
+a patent applicant to describe its invention “in such full,
+clear, concise, and exact terms as to enable any person skilled in
+the art . . . to make and use the [invention].” 35
+U. S. C. §112(a). Sanofi contended that
+
+															
+
+															Amgen’s patents failed to meet this
+standard because they sought to claim for Amgen’s exclusive
+use potentially millions more antibodies than the company had
+taught scientists to make. In the end, both the district court and
+Federal Circuit sided with Sanofi. The question we face is whether
+to disturb their judgment.
+
+															I
+
+															A
+
+															The immune system produces antibodies as a
+defense to foreign agents called antigens. When a particular
+antigen—a virus, for example—enters the body, the
+immune system generates antibodies to attack it. In a successful
+attack, the antibodies target and bind to the antigen, stopping it
+from causing harm to the body. See Brief for Sir Gregory Paul
+Winter et al. as Amici Curiae 8 (Winter Brief );
+M. Lemley & J. Sherkow, The Antibody Patent Paradox,
+132 Yale L. J. 994, 1001–1002 (2023).
+
+															Antibodies are incredibly diverse. Some
+scientists estimate that there may be as many unique antibodies as
+there are stars in the galaxy. See id., at 1003; see also B.
+Briney, A. Inderbitzin, C. Joyce, & D. Burton, Commonality
+Despite Exceptional Diversity in the Baseline Human Antibody
+Repertoire, 566 Nature 393, 397 (No. 7744, Feb. 2019) (estimating
+that the immune system could potentially generate up to a
+quintillion unique antibodies). This diversity shows up in both
+structure and function.
+
+															Start with structure. “When scientists
+refer to an antibody’s ‘structure,’ ”
+they may have in mind “several related concepts,” each
+of which describes “what an antibody is.” Winter
+Brief 10. Antibodies are made up of amino acids, and scientists
+commonly identify a particular antibody according to its specific
+sequence of amino acids—what they call an antibody’s
+“ ‘primary structure.’ ”
+Id., at 9–10. But antibodies are not just linear
+chains of amino acids. As the atoms of the amino acids interact
+with each other, they create folds that result in complex
+three-dimensional shapes. Ibid. Scientists refer to an
+antibody’s intricate topography as its “tertiary
+structure.” Id., at 10.
+
+															An antibody’s structure does much to
+dictate its function—its ability to bind to an antigen and,
+in some instances, to block other molecules in the body from doing
+the same. “For an antibody to bind to an antigen, the two
+surfaces have to fit together and contact each other at multiple
+points.” Id., at 11. But just because an antibody can
+bind to an antigen does not mean that it can also block. To bind
+and block, the antibody must establish a sufficiently broad,
+strong, and stable bond to the antigen. See ibid. Different
+antibodies have different binding and blocking capacities based on
+the amino acids that compose them and their three-dimensional
+shapes. See id., at 11–12.
+
+															Despite recent advances, aspects of antibody
+science remain unpredictable. For example, scientists understand
+that changing even one amino acid in the sequence can alter an
+antibody’s structure and function. See id., at 14. But
+scientists cannot always accurately predict exactly how trading one
+amino acid for another will affect an antibody’s structure
+and function. Ibid. As Amgen’s expert testified at
+trial: “ ‘[T]he way in which you get from sequence
+to that three-dimensional structure isn’t fully understood
+today. It’s going to get a Nobel Prize for somebody at some
+point, but translating that sequence into a known three-dimensional
+structure is still not possible.’ ” Id., at
+14–15.
+
+															B
+
+															While the immune system naturally produces an
+army of antibodies to protect us from various harms, scientists are
+now able to engineer antibodies to assist in treating diseases.
+Some of these lab-made antibodies target not foreign agents but the
+body’s own proteins, receptors, and ligands. “While
+naturally occurring in our bodies, these [proteins, receptors, and
+ligands] can also be involved in inflammatory disorders,
+uncontrolled cell growth, or other biological pathways that may be
+associated with disease.” Id., at 8.
+
+															One part of this effort has focused on the
+creation of antibodies to treat patients with high LDL cholesterol.
+A silent killer, LDL cholesterol can contribute to the formation of
+plaque in the arteries that may lead to cardiovascular disease,
+heart attacks, and strokes. For many people with high LDL
+cholesterol, drugs called statins offer an effective treatment. For
+others, statins do not work well or come with unwelcome side
+effects. In those cases, a relatively new antibody-based treatment
+known as a PCSK9 inhibitor may be appropriate. See Amgen
+Inc. v. Sanofi, 872 F.3d 1367, 1371 (CA Fed. 2017).
+
+															PCSK9 is a naturally occurring protein that
+binds to and degrades LDL receptors. That can pose a problem
+because the body produces LDL receptors to perform the beneficial
+function of extracting LDL cholesterol from the bloodstream. See
+ibid. Scientists have understood this much for some time.
+But it wasn’t until fairly recently that they began exploring
+how antibodies might be used to inhibit PCSK9 from binding to and
+degrading LDL receptors as a way to treat patients with high LDL
+cholesterol.
+
+															In the mid-2000s, a number of pharmaceutical
+companies began looking into the possibility of making antibodies
+to target PCSK9. See Brief for Respondents 7; Brief for Arnold
+Ventures et al. as Amici Curiae 17–20. More
+precisely, they sought to create antibodies that could bind to a
+particular region of PCSK9 called the “sweet spot.” See
+Brief for Petitioners 10–11. The sweet spot is a sequence of
+15 amino acids out of PCSK9’s 692 total amino acids.
+Id., at 11. By binding to the sweet spot, scientists found,
+an antibody could prevent PCSK9 from binding to and degrading LDL
+receptors. See id., at 10–11; Amgen, 872
+F. 3d, at 1371.
+
+															Eventually, Amgen developed a PCSK9-inhibiting
+drug that it marketed under the name Repatha, and Sanofi produced
+one it labeled Praluent. Each drug employs a distinct antibody with
+its own unique amino acid sequence. See id., at
+1371–1372; Brief for Respondents 8–10. In 2011, Amgen
+obtained a patent for the antibody employed in Repatha, and Sanofi
+received one covering the antibody used in Praluent. See
+id., at 8, 9. Each patent describes the relevant antibody by
+its amino acid sequence. See ibid. Neither of these patents
+is at issue in this case.
+
+															Instead, our dispute focuses on two additional
+patents Amgen obtained in 2014 that relate back to the
+company’s 2011 patent. See U. S. Patent No. 8,829,165
+(Sept. 9, 2014); U. S. Patent No. 8,859,741
+(Oct. 14, 2014). We refer to them as the ’165 and
+’741 patents. In particular, this case revolves around claims
+19 and 29 of the ’165 patent and claim 7 of the ’741
+patent. See 987 F.3d 1080, 1082 (CA Fed. 2021). In these claims,
+Amgen did not seek protection for any particular antibody described
+by amino acid sequence. Instead, Amgen purported to claim for
+itself “the entire genus” of antibodies that
+(1) “bind to specific amino acid residues on
+PCSK9,” and (2) “block PCSK9 from binding to [LDL
+receptors].” Amgen, 872 F. 3d, at 1372.
+
+															As part of its submission to the patent office,
+Amgen identified the amino acid sequences of 26 antibodies that
+perform these two functions, and it depicted the three-dimensional
+structures of two of these 26 antibodies. 987 F. 3d, at 1083.
+But beyond that, Amgen only offered scientists two methods to make
+other antibodies that perform the binding and blocking functions it
+described. The first method is what Amgen calls the
+“roadmap.” Brief for Petitioners 13. At a high level,
+the roadmap directs scientists to: (1) generate a range of
+antibodies in the lab; (2) test those antibodies to determine
+whether any bind to PCSK9; (3) test those antibodies that bind
+to PCSK9 to determine whether any bind to the sweet spot as
+described in the claims; and (4) test those antibodies that
+bind to the sweet spot as described in the claims to determine
+whether any block PCSK9 from binding to LDL receptors. See
+id., at 13–14. The second method is what Amgen calls
+“conservative substitution.” Id., at 14, 17.
+This technique requires scientists to: (1) start with an
+antibody known to perform the described functions; (2) replace
+select amino acids in the antibody with other amino acids known to
+have similar properties; and (3) test the resulting antibody
+to see if it also performs the described functions. See id.,
+at 14–15.
+
+															C
+
+															Soon after receiving the ’165 and
+’741 patents, Amgen sued Sanofi for infringing them. Sanofi
+replied that it was not liable to Amgen because the relevant claims
+were invalid as a matter of law. Invalid, Sanofi said, because
+Amgen had not enabled a person skilled in the art to make and use
+all of the antibodies that perform the two functions Amgen
+described in its claims. See 987 F. 3d, at 1083–1085.
+While Amgen had identified the amino acid sequences of 26
+antibodies that bind to PCSK9 and block it from binding to LDL
+receptors, Sanofi observed that Amgen’s claims cover
+potentially millions more undisclosed antibodies that perform these
+same functions. And, Sanofi argued, neither of the two methods
+Amgen had outlined for generating additional antibodies with the
+same functions enable a person skilled in the art to do so
+reliably. Instead, Sanofi submitted, those methods require
+scientists to engage in little more than a trial-and-error process
+of discovery. See id., at 1085.
+
+															After lengthy proceedings, the district court
+granted Sanofi judgment as a matter of law, concluding that the
+claims at issue “are not enabled.” 2019 WL 4058927, *13
+(Del., Aug. 28, 2019). The Federal Circuit affirmed. 987
+F. 3d, at 1088. It determined that “no reasonable
+factfinder could conclude” that Amgen had provided
+“adequate guidance” to make and use the claimed
+antibodies “beyond the narrow scope of the [26] working
+examples” it had identified by their amino acid sequences.
+Ibid. In response to Amgen’s petition for certiorari,
+we agreed to take up the case. 598 U. S. ___ (2022).
+
+															II
+
+															The Constitution vests Congress with the power
+to “promote the Progress of Science and useful Arts, by
+securing for limited Times to Authors and Inventors the exclusive
+Right to their respective Writings and Discoveries.” Art. I,
+§8, cl. 8. Right there in the text, one finds the outline
+of what this Court has called the patent “bargain.”
+Bonito Boats, Inc. v. Thunder Craft Boats,
+Inc., 489 U.S.
+141, 150 (1989). In exchange for bringing “new designs
+and technologies into the public domain through disclosure,”
+so they may benefit all, an inventor receives a limited term of
+“protection from competitive exploitation.” Id.,
+at 151; see also The Federalist No. 43, p. 272 (C. Rossiter
+ed. 1961) (J. Madison) (explaining that in such cases “[t]he
+public good fully coincides . . . with the claims of
+individuals”).
+
+															Congress has exercised this authority from the
+start. The Patent Act of 1790 promised up to a 14-year monopoly to
+any applicant who “invented or discovered any useful art,
+manufacture, . . . or device, or any improvement therein
+not before known or used.” Act of Apr. 10, 1790,
+§1, 1 Stat. 110. Reflecting the quid-pro-quo
+premise of patent law, the statute required the applicant to
+deposit with the Secretary of State a “specification
+. . . so particular . . . as not only to
+distinguish the invention or discovery from other things before
+known and used, but also to enable a workman or other person
+skilled in the art or manufacture . . . to make,
+construct, or use the same.” §2, ibid. The
+statute made clear that this disclosure would ensure “the
+public may have the full benefit [of the invention or discovery],
+after the expiration of the patent term.” Ibid.
+
+															Even as Congress has revised the patent laws
+over time, it has left this “enablement” obligation
+largely intact. See 35 U. S. C. §§111, 112.
+Section 111 of the current Patent Act provides that a patent
+application “shall include . . . a
+specification as prescribed by section 112.”
+§111(a)(2)(A). Section 112, in turn, requires a specification
+to include “a written description of the invention, and of
+the manner and process of making and using it, in such full, clear,
+concise, and exact terms as to enable any person skilled in the
+art . . . to make and use the same.”
+§112(a). So today, just as in 1790, the law secures for the
+public its benefit of the patent bargain by ensuring that,
+“upon the expiration of [the patent], the knowledge of the
+invention [i]nures to the people, who are thus enabled without
+restriction to practice it.” United States v.
+Dubilier Condenser Corp., 289 U.S.
+178, 187 (1933); see also Grant v. Raymond, 6
+Pet. 218, 247 (1832) (Marshall, C. J.) (“This is
+necessary in order to give the public, after the privilege shall
+expire, the advantage for which the privilege is allowed, and is
+the foundation of the power to issue a patent.”);
+Whittemore v. Cutter, 29 F. Cas. 1120, 1122
+(No. 17,600) (CC Mass. 1813) (Story, J.) (“If therefore
+[the disclosure] be so obscure, loose, and imperfect, that this
+cannot be done, it is defrauding the public of all the
+consideration, upon which the monopoly is granted.”).
+
+															This Court has addressed the enablement
+requirement on many prior occasions. See, e.g., Wood
+v. Underhill, 5 How. 1 (1846); O’Reilly v.
+Morse, 15 How. 62 (1854); The Incandescent Lamp
+Patent, 159 U.S.
+465 (1895); Minerals Separation, Ltd. v.
+Hyde, 242 U.S.
+261 (1916); Holland Furniture Co. v. Perkins Glue
+Co., 277 U.S.
+245 (1928). While the technologies in these older cases may
+seem a world away from the antibody treatments of today, the
+decisions are no less instructive for it.
+
+															Begin with Morse. While crossing the
+Atlantic Ocean in 1832 aboard a ship named Sully, Samuel
+Morse found himself in conversation with other passengers about
+“experiments and discoveries” around electromagnetism.
+15 How., at 68. “In the course of this discussion, it
+occurred to [Morse] that, by means of electricity, signs
+representing figures, letters, or words, might be legibly written
+down at any distance.” Id., at 69. So clear was the
+idea in Morse’s mind that, “[b]efore he landed in the
+United States, he had . . . drawn out in his sketch book
+. . . the form of an instrument for an electro-magnetic
+telegraph.” Ibid.
+
+															Immediately upon his arrival in New York, Morse
+showed his brothers his sketches. See id., at 69–70.
+He spent the next few years refining his invention. See id.,
+at 70–76. The “great difficulty” he faced was
+that “the galvanic current, however strong in the beginning,
+became gradually weaker as it advanced on the wire[,] and was not
+strong enough to produce a mechanical effect, after a certain
+distance.” Id., at 107. By 1837, Morse had a solution:
+“combining two or more electric or galvanic circuits, with
+independent batteries for the purpose of overcoming the diminished
+force of electro-magnetism in long circuits.” Id., at
+109. Morse demonstrated his telegraph the following year at the
+Franklin Institute in Philadelphia, and he displayed it soon after
+in Congress. See id., at 76. He received a patent in 1840,
+which reissued in 1848. See id., at 81–83.
+
+															The litigation that brought Morse before this
+Court concerned a telegraphic system that Henry O’Reilly had
+installed between Louisville and Nashville. See id., at 65.
+Morse sued O’Reilly for infringement, alleging that
+O’Reilly’s system was “identical with”
+Morse’s own. Id., at 66. O’Reilly mounted a
+number of defenses, including that Morse’s patent was void
+because it lacked an adequate specification. See id., at
+99–101, 112.
+
+															Morse’s patent included eight claims, and
+this Court had no trouble upholding seven of them—those
+limited to the telegraphic structures and systems he had designed.
+See id., at 85–86, 112, 117. But the Court paused on
+the eighth. That claim covered “the essence” of the
+invention, which Morse described as “the use of the motive
+power of the electric or galvanic current . . . however
+developed for marking or printing intelligible characters, signs,
+or letters, at any distances.” Id., at 112 (internal
+quotation marks omitted). Leaving no doubt about this claim’s
+scope, Morse stated plainly: “ ‘I do not propose
+to limit myself to the specific machinery or parts of machinery
+described in the foregoing specification and
+claims.’ ” Ibid.
+
+															The Court held the eighth claim “too
+broad, and not warranted by law.” Id., at 113. The
+problem was that it covered all means of achieving
+telegraphic communication, yet Morse had not described how to make
+and use them all. See id., at 113–117; see also 3
+Chisum on Patents §7.03[1], pp. 7–18 to 7–19
+(2021). “[I]f the eighth claim . . . can be
+maintained,” the Court concluded, “there was no
+necessity for any specification, further than to say that he had
+discovered that, by using the motive power of electro-magnetism, he
+could print intelligible characters at any distance.” 15
+How., at 119. “[I]t will be admitted on all hands, that no
+patent could have issued on such a specification.”
+Ibid.
+
+															Consider, too, Incandescent Lamp. For
+much of the 19th century, gas lamps helped illuminate streets and
+supplemented candles inside homes, factories, offices, and
+theaters. But gas lighting had drawbacks. It took effort to ignite
+lamps each night and extinguish them each morning. Then there were
+the problems of soot and fumes. See R. Stross, The Wizard of Menlo
+Park 84–85 (2007) (Stross). By the 1870s, many had
+experimented with other forms of lighting, including incandescence
+and the arc light. 159 U. S., at 470. But these alternatives
+burned unreliably or with unbearable brightness. See id., at
+470–471. The latter problem in particular led one
+observer to lament this “new sort of urban star,” which
+shines “horrible, unearthly, obnoxious” light.
+R. L. Stevenson, A Plea for Gas Lamps, in Virginibus Puerisque
+and Other Papers 295 (1881).
+
+															Enter Thomas Edison. From his laboratory in
+Menlo Park, Edison and a team toiled to improve upon the prevailing
+method of incandescent lighting, which tended to employ carbon
+filaments. 159 U. S., at 471–473. The problem with
+carbon filaments was that they disintegrated rapidly. In a sense,
+“carbon contained in itself the elements of its own
+destruction.” Id., at 471. Seeking an alternative,
+Edison tinkered for a time with platinum, but it was expensive and
+difficult to bring to the point of incandescence without melting.
+Stross 78, 82. Eventually, Edison dispatched men across the globe
+to collect specimens of bamboo. Id., at 109–110. One
+sample from Japan worked brilliantly because “[its] fibres
+[ran] more nearly parallel than in other species of wood.”
+159 U. S., at 473. Satisfied, Edison arranged to have a
+Japanese farmer supply all of the bamboo he would ever need. Stross
+110.
+
+															But there was a catch. William Sawyer and Albon
+Man had obtained a patent for an “ ‘electric
+lamp’ ” with an “ ‘incandescing
+conductor’ ” made of
+“ ‘carbonized fibrous or textile
+material,’ ” which they claimed was an improvement
+over conductors made of “ ‘mineral or gas
+carbon.’ ” 159 U. S., at 466, 468. Sawyer and
+Man’s patent had not won them commercial success. They had
+designed a lamp with a conductor made of carbonized paper, but the
+lamp proved defective and quickly fell out of use. See id.,
+at 471–472. Still, their failure did not stop them from
+seeking to share in some of Edison’s success. Sawyer and Man
+alleged that Edison’s lamp infringed their patent because it
+“made use of a fibrous or textile material, covered by the
+patent.” Id., at 471. What was that offending
+material? Bamboo.
+
+															This Court sided with Edison. It held that
+Sawyer and Man’s patent claimed much but enabled little.
+“Sawyer and Man supposed they had discovered in carbonized
+paper the best material for an incandescent conductor.”
+Id., at 472. But “[i]nstead of confining themselves to
+carbonized paper, as they might properly have done, and in fact did
+in their third claim, they made a broad claim for every fibrous and
+textile material.” Ibid. Even that broad claim
+“might” have been permissible, the Court allowed, if
+Sawyer and Man had disclosed “a quality common” to
+fibrous and textile substances that made them
+“peculiarly” adapted to incandescent lighting.
+Ibid. Had they done so, others would have known how to
+select among such materials to make an operable lamp. But the
+record showed that most fibrous and textile materials failed to
+work. Only through “painstaking experimentation” did
+Edison discover that bamboo “answered the required
+purpose.” Id., at 475–476. The Court summed up
+things this way: “[T]he fact that paper happens to belong to
+the fibrous kingdom did not invest [Sawyer and Man] with
+sovereignty over this entire kingdom.” Id., at
+476.
+
+															The Court returned to these principles in
+Holland Furniture. There, the evidence indicated that animal
+glue has properties that have long made it excellent for wood
+veneering. See 277 U. S., at 247. Seeking a substitute,
+Perkins Glue Company had developed and patented a starch glue
+similar enough to animal glue that craftsmen could also use it for
+wood veneering. See ibid. Yet Perkins’s patent
+included a claim that went beyond the specific starch glue it
+manufactured. See id., at 250–251. This claim covered
+all “starch glue which, [when] combined with about three
+parts or less by weight of water, will have substantially the same
+properties as animal glue.” Id., at 251.
+Perkins’s specification instructed gluemakers to choose a
+“starch ingredient” with “such qualities”
+that it would yield a product “ ‘as good as animal
+glue’ ” for wood veneering “when combined
+with three parts of water and with alkali.” Id., at
+256.
+
+															The Court held this broad claim invalid for lack
+of enablement. Id., at 258. The specification described the
+key input—the “starch ingredient”—in terms
+of its “use or function” rather than its
+“physical characteristics or chemical properties.”
+Id., 256. And that left gluemakers in a bind. As the Court
+put it: “One attempting to use or avoid the use of
+Perkins’ discovery as so claimed and described functionally
+could do so only after elaborate experimentation” with
+different starches. Id., at 257. To be sure, the Court held,
+Perkins was entitled to its patent on the specific starch glue it
+had invented. See id., at 255. The specification described
+that glue’s “characteristic ingredient” with
+“particularity.” Ibid. But just as Morse could
+not claim all means of telegraphic communication, and Sawyer and
+Man could not claim all fibrous and textile materials for
+incandescence, Perkins could not claim all starch glues made from
+whatever starch happened to perform as well as animal glue. To hold
+otherwise, the Court said, “would extend the monopoly beyond
+the invention.” Id., at 258.
+
+															Our decisions in Morse, Incandescent
+Lamp, and Holland Furniture reinforce the simple
+statutory command. If a patent claims an entire class of processes,
+machines, manufactures, or compositions of matter, the
+patent’s specification must enable a person skilled in the
+art to make and use the entire class. In other words, the
+specification must enable the full scope of the invention as
+defined by its claims. The more one claims, the more one must
+enable. See §112(a); see also Continental Paper Bag Co.
+v. Eastern Paper Bag Co., 210 U.S.
+405, 419 (1908) (“[T]he claims measure the
+invention.”).
+
+															That is not to say a specification always must
+describe with particularity how to make and use every single
+embodiment within a claimed class. For instance, it may suffice to
+give an example (or a few examples) if the specification also
+discloses “some general quality . . . running
+through” the class that gives it “a peculiar fitness
+for the particular purpose.” Incandescent Lamp, 159
+U. S., at 475. In some cases, disclosing that general quality
+may reliably enable a person skilled in the art to make and use all
+of what is
+
+															
+
+															claimed, not merely a subset. See id., at
+475–476.[1]
+
+															Nor is a specification necessarily inadequate
+just because it leaves the skilled artist to engage in some measure
+of adaptation or testing. In Wood, a patent claimed a
+process for making bricks by mixing coal dust into clay. 5 How., at
+4. The patent included “a general rule” about the
+proportion of dust and clay to use and offered two alternative
+proportions “where the clay has some peculiarity.”
+Id., at 5. The Court upheld the claim, recognizing that
+“some small difference in the proportions must occasionally
+be required” given the varieties of clay. Ibid.
+Similarly, in Minerals Separation, the Court dismissed a
+challenge to a claimed process for separating metal from mineral
+ores. 242 U. S., at 270. The record showed that
+“preliminary tests” were required to adapt the process
+to any particular ore. Ibid. Once more, the Court explained
+that “the certainty which the law requires in patents is not
+greater than is reasonable.” Ibid. And because the
+“composition of ores varies infinitely,” it was
+“impossible to specify in a patent the precise treatment
+which would be most successful and economical in each case.”
+Id., at 271.[2]
+
+															Decisions such as Wood and Minerals
+Separation establish that a specification may call for a
+reasonable amount of experimentation to make and use a patented
+invention. What is reasonable in any case will depend on the nature
+of the invention and the underlying art. See Minerals
+Separation, 242 U. S., at 270–271; see also
+Mowry v. Whitney, 14 Wall. 620, 644 (1872)
+(“[T]he definiteness of a specification must vary with the
+nature of its subject. Addressed as it is to those skilled in the
+art, it may leave something to their skill in applying the
+invention.”). But in allowing that much tolerance, courts
+cannot detract from the basic statutory requirement that a
+patent’s specification describe the invention “in such
+full, clear, concise, and exact terms as to enable any person
+skilled in the art” to “make and use” the
+invention. §112(a). Judges may no more subtract from the
+requirements for obtaining a patent that Congress has prescribed
+than they may add to them. See Bilski v. Kappos,
+561 U.S.
+593, 602–603, 612 (2010).
+
+															III
+
+															With these principles in mind, we return to
+claims 19 and 29 of the ’165 patent and claim 7 of the
+’741 patent. In doing so, we do not doubt that Amgen’s
+specification enables the 26 exemplary antibodies it identifies by
+their amino acid sequences. Even Sanofi concedes that description
+is enough to allow a person skilled in the art to make and use
+those embodiments. See Tr. of Oral Arg. 68. But the claims before
+us sweep much broader than those 26 antibodies. And we agree with
+the lower courts that Amgen has failed to enable all that it has
+claimed, even allowing for a reasonable degree of
+experimentation.
+
+															While the technology at the heart of this case
+is thoroughly modern, from the law’s perspective
+Amgen’s claims bear more than a passing resemblance to those
+this Court faced long ago in Morse, Incandescent
+Lamp, and Holland Furniture. Amgen seeks to monopolize
+an entire class of things defined by their function—every
+antibody that both binds to particular areas of the sweet spot of
+PCSK9 and blocks PCSK9 from binding to LDL receptors. The record
+reflects that this class of antibodies does not include just the 26
+that Amgen has described by their amino acid sequences, but a
+“vast” number of additional antibodies that it has not.
+987 F. 3d, at 1085, 1088; see 2019 WL 4058927, *8 (“at
+least millions of candidates”); see also Tr. of Oral Arg.
+52–53. Much as Morse sought to claim all telegraphic forms of
+communication, Sawyer and Man sought to claim all fibrous and
+textile materials for incandescence, and Perkins sought to claim
+all starch glues that work as well as animal glue for wood
+veneering, Amgen seeks to claim “sovereignty over [an] entire
+kingdom” of antibodies. Incandescent Lamp, 159
+U. S., at 476.
+
+															That poses Amgen with a challenge. For if our
+cases teach anything, it is that the more a party claims, the
+broader the monopoly it demands, the more it must enable. That
+holds true whether the case involves telegraphs devised in the 19th
+century, glues invented in the 20th, or antibody treatments
+developed in the 21st. To be fair, Amgen does not dispute this
+much. It freely admits that it seeks to claim for itself an entire
+universe of antibodies. Still, it says, its broad claims are
+enabled because scientists can make and use every undisclosed but
+functional antibody if they simply follow the company’s
+“roadmap” or its proposal for “conservative
+substitution.”
+
+															We cannot agree. These two approaches amount to
+little more than two research assignments. The first merely
+describes step-by-step Amgen’s own trial-and-error method for
+finding functional antibodies—calling on scientists to create
+a wide range of candidate antibodies and then screen each to see
+which happen to bind to PCSK9 in the right place and block it from
+binding to LDL receptors. See Part I–B, supra; 987
+F. 3d, at 1088; 2019 WL 4058927, *10–*13. The second
+isn’t much different. It requires scientists to make
+substitutions to the amino acid sequences of antibodies known to
+work and then test the resulting antibodies to see if they do
+too—an uncertain prospect given the state of the art. See
+Parts I–A, I–B, supra; 987 F. 3d, at 1088;
+2019 WL 4058927, *10–*13. Whether methods like a
+“roadmap” or “conservative substitution”
+might suffice to enable other claims in other patents—perhaps
+because, as this Court suggested in Incandescent Lamp, the
+inventor identifies a quality common to every functional
+embodiment, supra, at 13—they do not here. They leave
+a scientist about where Sawyer and Man left Edison: forced to
+engage in “painstaking experimentation” to see what
+works. 159 U. S., at 475. That is not enablement. More nearly,
+it is “a hunting license.” Brenner v.
+Manson, 383 U.S.
+519, 536 (1966).
+
+															Think about it this way. “Imagine a
+combination lock with 100 tumblers, each of which can be set to 20
+different positions.” Brief for Intellectual Property Law
+Professors and Scholars as Amici Curiae 20. “Through
+trial and error, imagine that an inventor finds and discloses 26
+different successful lock combinations.” Ibid. But
+imagine, too, “that the inventor tries to claim much more,
+namely all successful combinations,” while instructing others
+“to randomly try a large set of combinations and then record
+the successful ones.” Id., at 21. Sure enough,
+that kind of “roadmap” would produce functional
+combinations. Ibid. But it would not enable others to make
+and use functional combinations; it would instead leave them to
+“random trial-and-error discovery.” Ibid. Like
+many analogies, this one may oversimplify a bit, but it captures
+the gist of the problem.
+
+															Failing in its primary argument that it has
+enabled all of the antibodies it claims, Amgen tries a few
+alternative lines of attack. First, it suggests that the Federal
+Circuit erred by applying an enablement test unmoored from the
+statutory text. As Amgen sees it, that court conflated the question
+whether an invention is enabled with the question how long may it
+take a person skilled in the art to make every embodiment within a
+broad claim. See Brief for Petitioners 24–29; see also
+id., at 2, 19–20, 30–36. We do not see it that
+way. While we agree with Amgen that enablement is not measured
+against the cumulative time and effort it takes to make every
+embodiment within a claim, we are not so sure the Federal Circuit
+thought otherwise. That court went out of its way to say that it
+“do[es] not hold that the effort required to exhaust a genus
+is dispositive.” 987 F. 3d, at 1088 (emphasis deleted).
+Instead, the court stressed, the problem it saw is the same problem
+we see: Amgen offers persons skilled in the art little more than
+advice to engage in “trial and error.” Ibid.
+(internal quotation marks omitted). In any event, we review
+judgments of the lower courts, not statements in their opinions.
+See Black v. Cutter Laboratories, 351 U.S.
+292, 297 (1956).
+
+															Taking a similar tack, Amgen next argues that
+the Federal Circuit erroneously “raise[d] the bar” for
+enablement of claims that, like Amgen’s, encompass an entire
+“genus” of embodiments defined by their function. Brief
+for Petitioners 25 (internal quotation marks omitted). This is
+impermissible, Amgen argues, because the Patent Act “provides
+a single, universal enablement standard for all
+invention[s].” Ibid. (internal quotation marks
+omitted). Here, too, we agree with Amgen in principle: There is one
+statutory enablement standard. But, once more, we do not understand
+the Federal Circuit to have thought differently. Instead, we
+understand that court to have recognized only that the more a party
+claims for itself the more it must enable. As we have seen, that
+much is entirely consistent with Congress’s directive and
+this Court’s precedents.
+
+															Finally, Amgen warns that an affirmance risks
+“destroy[ing] incentives for breakthrough inventions.”
+Id., at 38. But striking the proper balance between
+incentivizing inventors and ensuring the public receives the full
+benefit of their innovations is a policy judgment that belongs to
+Congress. Since 1790, Congress has included an enablement mandate
+as one feature among many designed to achieve the balance it
+wishes. Our only duty in this case lies in applying that mandate
+faithfully.
+
+															*
+
+															Section 112 of the Patent Act reflects
+Congress’s judgment that if an inventor claims a lot, but
+enables only a little, the public does not receive its benefit of
+the bargain. For more than 150 years, this Court has enforced the
+statutory enablement requirement according to its terms. If the
+Court had not done so in Incandescent Lamp, it might have
+been writing decisions like Holland Furniture in the dark.
+Today’s case may involve a new technology, but the legal
+principle is the same. The judgment is
+
+															Affirmed.
+
+Notes
+1
+ See also
+Béné v. Jeantet, 129 U.S.
+683, 684–686 (1889) (rejecting claim to method of
+shrinking coarse hair because the specification failed to give
+“one skilled in chemistry such an idea of the particular
+kinds and character of the chemicals, or combination of chemicals,
+with the relative proportions of each, as would enable him to use
+the invention without having to resort to experiments of his own to
+discover those ingredients”); Corona Cord Tire Co. v.
+Dovan Chemical Corp., 276 U.S.
+358, 385 (1928) (rejecting claims to process of treating rubber
+with “ ‘a disubstituted
+guanidine’ ” because “between fifty and one
+hundred substances” fit that description and the
+specification did not disclose “any general quality common to
+disubstituted guanidines which makes them all
+effective”).
+2
+ See also, e.g.,
+Ives v. Hamilton, 92 U.S.
+426, 429, 432 (1876) (upholding claim “for an improvement
+in sawmills” based on “curved guides at the upper end
+of the saw,” even though the specification did not
+“stat[e] the nature of the curve,” because a
+“good mechanic acquainted with the construction of sawmills,
+and having the patent and diagram before him, would have no
+difficulty in adopting the improvement, and making suitable
+curves”); Tilghman v. Proctor, 102 U.S.
+707, 732–733 (1881) (upholding claim for process of
+separating fats and oils even though the specification
+“suggests a trial . . . with different degrees of
+heat so as to ascertain that which is best for each particular kind
+of fat”).
+
+

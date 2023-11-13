@@ -1,0 +1,63 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-984
+::decision_name::  Helix Energy Solutions Group, Inc. v. Hewitt
+::decision_year:: 2023
+::opinion_author:: Kavanaugh
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–984
+
+															_________________
+
+															HELIX ENERGY SOLUTIONS GROUP, INC., et al., PETITIONERS v. MICHAEL J. HEWITT
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[February 22, 2023]
+
+															
+
+															Justice Kavanaugh, with whom Justice Alito joins, dissenting.
+
+															Michael Hewitt earned about $200,000 per year as a supervisor for Helix, a firm that provides services on offshore oil rigs.  After being fired, Hewitt sued Helix under the Fair Labor Standards Act and sought hundreds of thousands of dollars in retroactive overtime pay.  The Court today rules for Hewitt.  I respectfully dissent.  Unlike the Court, I would hold that Hewitt was a “bona fide executive” for Helix and therefore not entitled to overtime pay.
+
+															Under the Fair Labor Standards Act, many American workers are legally entitled to overtime pay when they work more than 40 hours per week.  But the Act contains several exceptions, including an exception for employees who work in a “bona fide executive . . . capacity.”
+
+29 U. S. C. §213(a)(1).  To determine whether an employee works in a bona fide executive capacity, the Department of Labor’s implementing regulations look to, among other things, (i) the employee’s duties, (ii) how much the employee is paid, and (iii) how the employee is paid—for example, by salary, wage, commission, or bonus.  
+
+															Under the regulations, an employee who performs executive duties and earns at least $100,000 per year with a “predetermined” weekly salary of at least $455 for any week that he works is a bona fide executive and not entitled to overtime pay.  29 CFR §§541.601, 541.602 (2015).
+
+															Per those regulations, Hewitt readily qualified as a bona fide executive.  As everyone agrees, Hewitt performed executive duties, earned about $200,000 per year, and received a predetermined salary of at least $963 per week for any week that he worked.
+
+															Despite all that, the Court holds that Hewitt was not a bona fide executive and therefore was entitled to overtime pay under the regulations.  The Court relies on two alternative rationales.
+
+															First, the Court reasons that Hewitt’s pay was calculated on a daily-rate basis, while §602 of the regulations requires a certain minimum “predetermined amount” calculated on a weekly or less frequent basis—specifically at least $455 per week.  That is known as the salary-basis test.  But Hewitt’s daily “predetermined” rate ($963 per day) was higher than the weekly minimum requirement of $455 per week specified in the regulations.  If a worker is guaranteed at least $455 for any day that he works, that worker by definition is guaranteed at least $455 for any week that he works.  As Helix rightly explains, a supervisor whose “pay is calculated based on a day rate above the weekly minimum receives more than enough on a salary basis to satisfy” the regulation.  Reply Brief 7.
+
+															To be sure, if Hewitt worked multiple days in a week, then his $963 guaranteed weekly salary would only be part of his total weekly compensation.  But under the salary-basis test specified in the regulations, an employee’s guaranteed weekly salary of at least $455 need only constitute “all or part” of his total weekly compensation.  §541.602(a) (emphasis added).  
+
+															The Court’s opinion never satisfactorily accounts for §602’s use of the phrase “or part.”  Stated simply, the regulations require only that an employee be guaranteed a “predetermined amount” of at least $455 per week as “part” of his total compensation for any week that he works.  Ibid.  Hewitt was guaranteed a “predetermined amount” of at least $455 per week (in fact, $963 per week) as part of his total compensation for any week that he worked.  And that predetermined minimum amount of $963 was “not subject to reduction because of variations in the quality or quantity of the work performed.”  Ibid.  Hewitt always received at least $963 per week that he worked.   
+
+															Of course, this case would be different if Hewitt had been guaranteed, say, only $250 per day that he worked.  Under those circumstances, Hewitt would not have been guaranteed at least $455 for any week that he worked.  But here, Hewitt was guaranteed $963 for any day that he worked.  Therefore, he was guaranteed at least $963 for any week that he worked.  
+
+															The Court’s contrary conclusion boils down to the head-scratching assertion that Hewitt was somehow not guaranteed to receive at least $455 for any week that he worked even though (as all agree) he was in fact guaranteed to receive $963 for any day that he worked.  
+
+															Second, and alternatively, the Court relies on a separate section of the regulations—§604—that applies to executives who (unlike Hewitt) make less than $100,000 per year.   
+
+															Under the overtime-pay regulations, as I have noted, executives who earn at least $100,000 per year and who are guaranteed a salary of at least $455 per week that they work are not entitled to overtime pay.  §541.601.  Under §604, some executives who make less than $100,000 per year are likewise not entitled to overtime pay if they are guaranteed at least $455 per week that they work and at least two-thirds of their total compensation comes in the form of a weekly guarantee.  See §541.100; §541.604; Dept. of Labor, Wage and Hour Div., Opinion Letter (FLSA 2018–25, 2018).
+
+															Because Hewitt earned more than $100,000 per year and qualified as a highly compensated employee, the two-thirds requirement of §604 did not apply to him.  The Court’s opinion nonetheless suggests that the two-thirds requirement may apply even to executives such as Hewitt who earn more than $100,000 per year.  That is incorrect.  To begin with, the introductory statement to the overtime regulations indicates that the two-thirds requirement does not apply to “highly compensated employees”—that is, those like Hewitt who earn at least $100,000 per year.  See §541.0.  Moreover, the regulation for highly compensated employees (§601) does not refer to or incorporate §604, which contains the two-thirds requirement, whereas §601 now does refer to other provisions of the regulations.  29 CFR §541.601(b)(1) (2020).  In addition, the regulation for highly compensated employees (§601) expressly authorizes an employer to make a catch-up payment to an employee near a year’s end in order to push the employee over the $100,000 per year threshold.  That regulation simultaneously makes clear that, for such a highly compensated employee, only about $25,000 of his compensation needs to be guaranteed in weekly salary.  That express authorization for significant catch-up payments directly contravenes any suggestion that highly compensated employees who earn at least $100,000 per year are subject to the two-thirds requirement.  In short, §604’s two-thirds requirement did not apply to Hewitt, who earned about $200,000 per year.
+
+															To sum up, neither of the Court’s two rationales holds up in light of the text of the regulations and the undisputed terms of Hewitt’s pay.  Because Hewitt performed executive duties, earned at least $100,000 per year, and received a guaranteed weekly salary of at least $455 for any week that he worked, I would hold that Hewitt was not legally entitled to overtime pay under the regulations. 
+
+															One last point:  Although the Court holds that Hewitt is entitled to overtime pay under the regulations, the regulations themselves may be inconsistent with the Fair Labor Standards Act.  See, e.g., Brief for State of Mississippi et al. as Amici Curiae 7–10; Ante, at 1–2 (Gorsuch, J., dissenting).  Recall that the Act provides that employees who work in a “bona fide executive . . . capacity” are not entitled to overtime pay.
+
+29 U. S. C. §213(a)(1).  The Act focuses on whether the employee performs executive duties, not how much an employee is paid or how an employee is paid.  So it is questionable whether the Department’s regulations—which look not only at an employee’s duties but also at how much an employee is paid and how an employee is paid—will survive if and when the regulations are challenged as inconsistent with the Act.  It is especially dubious for the regulations to focus on how an employee is paid (for example, by salary, wage, commission, or bonus) to determine whether the employee is a bona fide executive.  An executive employee’s duties (and perhaps his total compensation) may be relevant to assessing whether the employee is a bona fide executive.  But I am hard-pressed to understand why it would matter for assessing executive status whether an employee is paid by salary, wage, commission, bonus, or some combination thereof.  In any event, I would leave it to the Fifth Circuit on remand to determine whether Helix forfeited the statutory issue.  But whether in Hewitt’s case on remand or in another case, the statutory question remains open for future resolution in the lower courts and perhaps ultimately in this Court.   
+
+															I respectfully dissent.
+													

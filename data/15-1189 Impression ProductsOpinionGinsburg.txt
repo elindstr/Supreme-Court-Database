@@ -1,0 +1,73 @@
+::SCDB_caseID:: 2016-054
+::decision_cite:: 15-1189
+::decision_name::  Impression Products, Inc. v. Lexmark International, Inc.
+::decision_year:: 2017
+::opinion_author:: Ginsburg
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–1189
+
+															_________________
+
+															IMPRESSION PRODUCTS, INC., PETITIONER v. LEXMARK INTERNATIONAL, INC.
+
+															on writ of certiorari to the united states court of appeals for the federal circuit
+
+															[May 30, 2017]
+
+															
+
+															Justice Ginsburg, concurring in part and dissenting in part.
+
+															I concur in the Court’s holding regarding domestic exhaustion—a patentee who sells a product with an express restriction on reuse or resale may not enforce that restriction through an infringement lawsuit, because the U. S. sale exhausts the U. S. patent rights in the product sold.  See ante, at 5–13.  I dissent, however, from the Court’s holding on international exhaustion.  A foreign sale, I would hold, does not exhaust a U. S. inventor’s U. S. patent rights.
+
+															Patent law is territorial.  When an inventor receives a U. S. patent, that patent provides no protection abroad.  See Deepsouth Packing Co. v. Laitram Corp.,
+
+406 U. S. 518,
+531 (1972)
+ (“Our patent system makes no claim to extraterritorial effect.”).  See also
+
+35 U. S. C. §271(a) (establishing liability for acts of patent infringement “within the United States” and for “import[ation] into the United States [of] any patented invention”).  A U. S. pat-entee must apply to each country in which she seeks the exclusive right to sell her invention.  Microsoft Corp. v. AT&T Corp.,
+
+550 U. S. 437,
+456 (2007)
+ (“[F]oreign law alone, not United States law, currently governs the manufacture and sale of components of patented inventions in foreign countries.”).  See also Convention at Brussels, An Additional Act Modifying the Paris Convention for the Protection of Industrial Property of Mar. 20, 1883, Dec. 14, 1900, Art. I,
+
+32Stat.
+1940 (“Patents applied for in the different contracting States . . . shall be independent of the patents obtained for the same invention in the other States.”).  And patent laws vary by country; each country’s laws “may embody different policy judgments about the relative rights of inventors, competitors, and the public in patented inventions.”  Microsoft, 550 U. S., at 455 (internal quotation marks omitted).
+
+															Because a sale abroad operates independently of the U. S. patent system, it makes little sense to say that such a sale exhausts an inventor’s U. S. patent rights.  U. S. patent protection accompanies none of a U. S. patentee’s sales abroad—a competitor could sell the same patented product abroad with no U. S.-patent-law consequence.  Accordingly, the foreign sale should not diminish the protections of U. S. law in the United States.
+
+															The majority disagrees, in part because this Court decided, in Kirtsaeng v. John Wiley & Sons, Inc.,
+
+568 U. S. 519,
+525 (2013)
+, that a foreign sale exhausts U. S. copyright protections.  Copyright and patent exhaustion, the majority states, “share a strong similarity.”  Ante, at 14 (internal quotation marks omitted).  I dissented from our decision in Kirtsaeng and adhere to the view that a foreign sale should not exhaust U. S. copyright protections.  See 568 U. S., at 557.
+
+															But even if I subscribed to Kirtsaeng’s reasoning with respect to copyright, that decision should bear little weight in the patent context.  Although there may be a “historical kinship” between patent law and copyright law, Sony Corp. of America v. Universal City Studios, Inc.,
+
+464 U. S. 417,
+439 (1984)
+, the two “are not identical twins,” id, at 439, n. 19.  The Patent Act contains no analogue to
+
+17 U. S. C. §109(a), the Copyright Act first-sale provision analyzed in Kirtsaeng.  See ante, at 13–14.  More importantly, copyright protections, unlike patent protections, are harmonized across countries.  Under the Berne Convention, which 174 countries have joined,[1] members “agree to treat authors from other member countries as well as they treat their own.”  Golan v. Holder,
+
+565 U. S. 302,
+308 (2012)
+ (citing Berne Convention for the Protection of Literary and Artistic Works, Sept. 9, 1886, as revised at Stockholm on July 14, 1967, Arts. 1, 5(1), 828 U. N. T. S. 225, 231–233).  The copyright protections one receives abroad are thus likely to be similar to those received at home, even if provided under each country’s separate copyright regime.
+
+															For these reasons, I would affirm the Federal Circuit’s judgment with respect to foreign exhaustion.Notes
+
+1
+
+
+		 See WIPO-Administered Treaties: Contracting Parties: Berne Convention, www.wipo.int/treaties/en/ShowResults.jsp?lang=en&treaty_id=5 (as last visited May 25, 2017).
+	
+
+

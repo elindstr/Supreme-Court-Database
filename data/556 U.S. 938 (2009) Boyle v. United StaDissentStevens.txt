@@ -1,0 +1,92 @@
+::SCDB_caseID:: 2008-067
+::decision_cite:: 556 U.S. 938 (2009)
+::decision_name::  Boyle v. United States
+::decision_year:: 2009
+::opinion_author:: Stevens
+::opinion_type:: Dissent
+::opinion:: 
+
+
+STEVENS, J., DISSENTING
+BOYLE V. UNITED STATES
+556 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NO. 07-1309
+
+
+
+
+
+															EDMUND BOYLE, PETITIONER v. UNITED
+STATES
+
+															on writ of certiorari to the united states court of
+appeals for the second circuit
+
+															[June 8, 2009]
+
+
+
+															   Justice Stevens, with whom Justice Breyer joins, dissenting.
+
+															
+   In my view, Congress intended the term “enterprise” as it is used in the Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U. S. C. §1961 et seq., to refer only to business-like entities that have an existence apart from the predicate acts committed by their employees or associates.  The trial judge in this case committed two significant errors relating to the meaning of that term.  First, he instructed the jury that “an association of individuals, without structural hierarchy, form[ed] solely for the purpose of carrying out a pattern of racketeering acts” can constitute an enterprise.  App. 112.  And he allowed the jury to find that element satisfied by evidence showing a group of criminals with no existence beyond its intermittent commission of racketeering acts and related offenses.  Because the Court’s decision affirming petitioner’s conviction is inconsistent with the statutory meaning of the term enterprise and serves to expand RICO liability far beyond the bounds Congress intended, I respectfully dissent.
+
+															I
+
+															
+   RICO makes it “unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise’s affairs through a pattern of racketeering activity.”  §1962(c).  The statute defines “enterprise” to include “any individual, partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity.”  §1961(4).
+
+															   It is clear from the statute and our earlier decisions construing the term that Congress used “enterprise” in these provisions in the sense of “a business organization,” Webster’s Third New International Dictionary 757 (1976), rather than “a ‘venture,’ ‘undertaking,’ or ‘project,’ ” ante, at 6 (quoting Webster’s Third New International Dictionary, at 757).  First, the terms “individual, partnership, corporation, association, or other legal entity” describe entities with formal legal structures most commonly established for business purposes.  §1961(4).  In context, the subsequent reference to any “union or group of individuals associated in fact although not a legal entity” reflects an intended commonality between the legal and nonlegal entities included in the provision.  Ibid. (emphasis added). “The juxtaposition of the two phrases suggests that ‘associated in fact’ just means structured without the aid of legally defined structural forms such as the business corporation.”  Limestone Development Corp. v. Lemont, 520 F. 3d 797, 804–805 (CA7 2008).[Footnote 1]
+
+															
+
+   That an enterprise must have business-like characteristics is confirmed by the text of §1962(c) and our decision in Reves v. Ernst & Young, 507 U. S. 170 (1993).  Section 1962(c) creates liability for “conduct[ing] or participat[ing] … in the conduct of [an] enterprise’s affairs through a pattern of racketeering activity.”  In Reves, we examined that provision’s meaning and held that, “[i]n order to ‘participate, directly or indirectly, in the conduct of such enterprise’s affairs,’ one must have some part in directing those affairs.”  Id., at 179 (quoting §1962(c)).  It is not enough for a defendant to “carry on” or “participate in” an enterprise’s affairs through a pattern of racketeering activity; instead, evidence that he operated, managed, or directed those affairs is required.  See id., at 177–179.  This requirement confirms that the enterprise element demands evidence of a certain quantum of business-like organization—i.e., a system of processes, dealings, or other affairs that can be “directed.”
+
+															
+
+   Our cases also make clear that an enterprise “is an entity separate and apart from the pattern of activity in which it engages.”  United States v. Turkette, 452 U. S. 576, 583 (1981).  As with the requirement that an enterprise have business-like characteristics, that an enterprise must have a separate existence is confirmed by §1962(c) and Reves.  If an entity’s existence consisted solely of its members’ performance of a pattern of racketeering acts, the “enterprise’s affairs” would be synonymous with the “pattern of racketeering activity.”  Section 1962(c) would then prohibit an individual from conducting or participating in “the conduct of [a pattern of racketeering activity] through a pattern of racketeering activity”—a reading that is unbearably redundant, particularly in a case like this one in which a single pattern of activity is alleged.  The only way to avoid that result is to require that an “enterprise’s affairs” be something other than the pattern of racketeering activity undertaken by its members.[Footnote 2]
+
+															
+
+   Recognizing an enterprise’s business-like nature and its distinctness from the pattern of predicate acts, however, does not answer the question of what proof each element requires.  In cases involving a legal entity, the matter of proving the enterprise element is straightforward, as the entity’s legal existence will always be something apart from the pattern of activity performed by the defendant or his associates.  Cf. Cedric Kushner Promotions, Ltd. v. King, 533 U. S. 158, 163 (2001).  But in the case of an association-in-fact enterprise, the Government must adduce other evidence of the entity’s “separate” existence and “ongoing organization.”  Turkette, 452 U. S., at 583.  There may be cases in which a jury can infer that existence and continuity from the evidence used to establish the pattern of racketeering activity.  Ibid.  But that will be true only when the pattern of activity is so complex that it could not be performed in the absence of structures or processes for planning or concealing the illegal conduct beyond those inherent in performing the predicate acts.  More often, proof of an enterprise’s separate existence will require different evidence from that used to establish the pattern of predicate acts.
+
+															
+
+   Precisely what proof is required in each case is a more difficult question, largely due to the abundant variety of RICO predicates and enterprises.  Because covered enterprises are necessarily business-like in nature, however, proof of an association-in-fact enterprise’s separate existence will generally require evidence of rules, routines, or processes through which the entity maintains its continuing operations and seeks to conceal its illegal acts.  As petitioner suggests, this requirement will usually be satisfied by evidence that the association has an “ascertainable structure beyond that inherent in the pattern of racketeering activity in which it engages.”  Pet. for Cert. i.  Examples of such structure include an organizational hierarchy, a “framework for making decisions,” an “internal discipline mechanism,” “regular meetings,” or a practice of “reinvest[ing] proceeds to promote and expand the enterprise.”  Reply Brief for Petitioner 31–34.  In other cases, the enterprise’s existence might be established through evidence that it provides goods or services to third parties, as such an undertaking will require organizational elements more comprehensive than those necessary to perform a pattern of predicate acts.  Thus, the evidence needed to establish an enterprise will vary from case to case, but in every case the Government must carry its burden of proving that an alleged enterprise has an existence separate from the pattern of racketeering activity undertaken by its constituents.
+
+															II
+
+															
+   In some respects, my reading of the statute is not very different from that adopted by the Court.  We agree that “an association-in-fact enterprise must have at least three structural features: a purpose, relationships among those associated with the enterprise, and longevity sufficient to permit these associates to pursue the enterprise’s purpose.”  Ante, at 6.  But the Court stops short of giving content to that requirement.  It states only that RICO “demands proof that the enterprise had ‘affairs’ of sufficient duration to permit an associate to ‘participate’ in those affairs through ‘a pattern of racketeering activity,’ ” before concluding that “[a] trial judge has considerable discretion in choosing the language of an instruction” and need not use the term “structure.”  Ante, at 7.  While I agree the word structure is not talismanic, I would hold that the instructions must convey the requirement that the alleged enterprise have an existence apart from the alleged pattern of predicate acts.  The Court’s decision, by contrast, will allow juries to infer the existence of an enterprise in every case involving a pattern of racketeering activity undertaken by two or more associates.
+
+															   By permitting the Government to prove both elements with the same evidence, the Court renders the enterprise requirement essentially meaningless in association-in-fact cases.  It also threatens to make that category of §1962(c) offenses indistinguishable from conspiracies to commit predicate acts, see §371, as the only remaining difference is §1962(c)’s pattern requirement.  The Court resists this criticism, arguing that §1962(c) “demands much more” than the inchoate offense defined in §371.  Ante, at 10.  It states that the latter “may be completed in the brief period needed for the formation of the agreement and the commission of a single overt act in furtherance of the conspiracy,” whereas the former requires the creation of “a group with a common purpose and course of conduct—and the actual commission of a pattern of predicate offenses.”  Ibid.  Given that it is also unlawful to conspire to violate §1962(c), see §1962(d), this comment provides no assurance that RICO and §371 offenses remain distinct.  Only if proof of the enterprise element—the “group with a common purpose and course of conduct”—requires evidence of activity or organization beyond that inherent in the pattern of predicate acts will RICO offenses retain an identity distinct from §371 offenses.
+
+															
+
+   This case illustrates these concerns.  The trial judge instructed the jury that an enterprise need have only the degree of organization necessary “for carrying out its objectives” and that it could “find an enterprise where an association of individuals, without structural hierarchy, forms solely for the purpose of carrying out a pattern of racketeering acts.”  App. 112.[Footnote 3]  These instructions were plainly deficient, as they did not require the Government to prove that the alleged enterprise had an existence apart from the pattern of predicate acts.  Instead, they permitted the Government’s proof of the enterprise’s structure and continuing nature—requirements on which all agree—to consist only of evidence that petitioner and his associates performed a pattern of racketeering activity.
+
+															
+
+   Petitioner’s requested instruction would have required the jury to find that the alleged enterprise “had an ongoing organization, a core membership that functioned as a continuing unit, and an ascertainable structural hierarchy distinct from the charged predicate acts.”  Id., at 95.  That instruction does not precisely track my understanding of the statute; although evidence of “structural hierarchy” can evidence an enterprise, it is not necessary to establish that element.  Nevertheless, the proposed instruction would have better directed the jury to consider whether the alleged enterprise possessed the separate existence necessary to expose petitioner to liability under §1962(c), and the trial judge should have considered an instruction along those lines.
+
+															
+
+   The trial judge also erred in finding the Government’s evidence in this case sufficient to support petitioner’s RICO convictions.  Petitioner was alleged to have participated and conspired to participate in the conduct of an enterprise’s affairs through a pattern of racketeering activity consisting of one act of bank robbery and three acts of interstate transportation of stolen funds.  Id., at 15–19.  The “primary goals” of the alleged enterprise “included generating money for its members and associates through the commission of criminal activity, including bank robberies, bank burglaries and interstate transportation of stolen money.”  Id., at 14.  And its modus operandi was to congregate periodically when an associate had a lead on a night-deposit box that the group could break into.  Whoever among the associates was available would bring screwdrivers, crowbars, and walkie-talkies to the location.  Some acted as lookouts, while others retrieved the money.  When the endeavor was successful, the participants would split the proceeds.  Thus, the group’s purpose and activities, and petitioner’s participation therein, were limited to sporadic acts of taking money from bank deposit boxes.  There is no evidence in RICO’s text or history that Congress intended it to reach such ad hoc associations of thieves.
+
+															III
+
+															
+   Because the instructions and evidence in this case did not satisfy the requirement that an alleged enterprise have an existence separate and apart from the pattern of activity in which it engages, I respectfully dissent.
+
+Footnote 1
+															 To be sure, we have read RICO’s enterprise term broadly to include entities with exclusively noneconomic motives or wholly unlawful purposes.  See National Organization for Women, Inc. v. Scheidler, 510 U. S. 249, 252 (1994) (NOW); United States v. Turkette, 452 U. S. 576, 580–581 (1981).  But those holdings are consistent with the conclusion that an enterprise is a business-like entity.  Indeed, the examples of qualifying associations cited in Turkette—including loan-sharking, property-fencing, drug-trafficking, and counterfeiting operations—satisfy that criterion, as each describes an organization with continuing operations directed toward providing goods or services to its customers.  See id., at 589–590 (citing 84 Stat. 923; 116 Cong. Rec. 592 (1970)).  Similarly, the enterprise at issue in NOW was a nationwide network of antiabortion groups that had a leadership counsel and regular conferences and whose members undertook an extensive pattern of extortion, arson, and other racketeering activity for the purpose of “shut[ting] down abortion clinics.”  510 U. S., at 253.
+
+Footnote 2
+															 The other subsections of 18 U. S. C. §1962 further demonstrate the business-like nature of the enterprise element and its necessary distinctness from the pattern of racketeering activity.  Subsection (a) prohibits anyone who receives income derived from a pattern of racketeering activity from “us[ing] or invest[ing], directly or indirectly, any part of such income … in acquisition of any interest in, or the establishment or operation of, any enterprise.”  And subsection (b) prohibits anyone from “acquir[ing] or maintain[ing]” any interest in or control of an enterprise through a pattern of racketeering activity.  We noted in NOW that the term enterprise “plays a different role in the structure” of those subsections than it does in subsection (c) because the enterprise in those subsections is the victim.  510 U. S., at 258–259.  We did not, however, suggest that the term has a substantially different meaning in each subsection.  To the contrary, our observation that the enterprise in subsection (c) is “the vehicle through which the unlawful pattern of racketeering activity is committed,” id., at 259, indicates that, as in subsections (a) and (b), the enterprise must have an existence apart from the pattern of racketeering activity.
+
+Footnote 3
+															 For the full text of the relevant portion of the instructions, see ante, at 3, n. 1.
+
+
+

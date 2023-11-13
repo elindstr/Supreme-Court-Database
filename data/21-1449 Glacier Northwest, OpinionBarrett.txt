@@ -1,0 +1,486 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1449
+::decision_name::  Glacier Northwest, Inc. v. International Brotherhood of Teamsters
+::decision_year:: 2023
+::opinion_author:: Barrett
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1449
+
+															_________________
+
+															GLACIER NORTHWEST, INC., dba CALPORTLAND,
+PETITIONER v. INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL
+UNION NO. 174
+
+															on writ of certiorari to the supreme court of
+washington
+
+															[June 1, 2023]
+
+															
+
+															Justice Barrett delivered the opinion of the
+Court.
+
+															Glacier Northwest, a concrete company, depends
+on its truck drivers to deliver concrete to customers in a timely
+manner. But when relations between Glacier and its drivers soured,
+the drivers went on strike. Their labor union allegedly designed
+the strike with the intent to sabotage Glacier’s property.
+Although Glacier managed to avoid damage to its delivery trucks by
+deploying emergency maneuvers, the concrete that it had already
+produced that day went to waste. Glacier sued the union in state
+court for destroying its property. But the company did not get very
+far: The state court dismissed Glacier’s tort claims on the
+ground that they were preempted by the National Labor Relations
+Act. We reverse.
+
+															I
+
+															A
+
+															Enacted in 1935, the National Labor Relations
+Act (NLRA) “encourag[es] the practice and procedure of
+collective bargaining” between labor and management to
+resolve “industrial disputes arising out of differences as to
+wages, hours, or other working conditions.” 49Stat. 449, 29
+U. S. C. §151. Section 7 of the NLRA protects
+employees’ rights “to self-organization, to form, join,
+or assist labor organizations, to bargain collectively through
+representatives of their own choosing, and to engage in other
+concerted activities for the purpose of collective bargaining or
+other mutual aid or protection.” §157. Section 8, in
+turn, prohibits employers and unions from engaging in certain
+“unfair labor practice[s],” such as interfering with
+employees’ exercise of their §7 rights.
+§§158(a), (b).
+
+															To enforce the NLRA, Congress created the
+National Labor Relations Board. The Board is authorized “to
+prevent any person from engaging in any unfair labor
+practice” that “affect[s] commerce.”
+§160(a). Its authority kicks in when a person files a charge
+with the agency alleging that an unfair labor practice is afoot. 29
+CFR §101.2 (2021). Agency staff investigate the charge, and if
+it “appears to have merit,” the agency issues a
+complaint against the offending party. §§101.4, 101.8.
+After taking evidence and conducting a hearing, the Board makes the
+final call. 29 U. S. C. §§160(b), (c); see also
+29 CFR §§101.10–101.12. If it determines that a
+party has engaged in an unfair labor practice, the Board orders it
+to “cease and desist” from that practice. 29
+U. S. C. §160(c). The Board may seek enforcement of
+its order in a federal court of appeals. §160(e). And a party
+aggrieved by the order may ask the court to set it aside.
+§160(f ).
+
+															B
+
+															Sometimes a party to a labor dispute goes
+directly to a court—raising the specter that state law will
+say one thing about the conduct underlying the dispute while the
+NLRA says another. It is a bedrock rule, of course, that federal
+law preempts state law when the two conflict. U. S. Const.,
+Art. VI, cl. 2. Preemption under the NLRA is unusual,
+though, because our precedent maintains that the NLRA preempts
+state law even when the two only arguably conflict. San
+Diego Building Trades Council v. Garmon, 359 U.S.
+236, 245 (1959) (“When an activity is arguably subject to
+§7 or §8 of the [NLRA], the States as well as the federal
+courts must defer to the exclusive competence of the National Labor
+Relations Board”). This doctrine—named Garmon
+preemption after the case that originated it—thus goes beyond
+the usual preemption rule. Under Garmon, States cannot
+regulate conduct “that the NLRA protects, prohibits, or
+arguably protects or prohibits.” Wisconsin Dept. of
+Industry v. Gould Inc., 475 U.S.
+282, 286 (1986).
+
+															Though broad, this standard has teeth.
+Longshoremen v. Davis, 476 U.S.
+380, 394 (1986) (“The precondition for pre-emption, that
+the conduct be ‘arguably’ protected or prohibited, is
+not without substance”). It requires more than “a
+conclusory assertion” that the NLRA arguably protects or
+prohibits conduct. Ibid. “[A] party asserting
+pre-emption must advance an interpretation of the [NLRA] that is
+not plainly contrary to its language and that has not been
+‘authoritatively rejected’ by the courts or the
+Board.” Id., at 395. The party must then “put
+forth enough evidence to enable the court to find that the Board
+reasonably could uphold a claim based on such an
+interpretation.” Ibid.
+
+															If the court determines that the party has met
+its burden to show that “there is an arguable case for
+pre-emption,” it generally must grant the party’s
+preemption defense and await the Board’s resolution of the
+legal status of the relevant conduct. Id., at 397.[1] After that, “only if the Board
+decides that the conduct is not protected or prohibited [by the
+NLRA] may the court entertain the litigation.” Ibid.
+“[W]hen properly invoked,” Garmon thus
+“tells us not just what law applies (federal law, not state
+law) but who applies it (the National Labor Relations Board, not
+the state courts or federal district courts).”
+Trollinger v. Tyson Foods, Inc., 
+370 F.3d 602, 608 (CA6 2004).
+
+															C
+
+															We relay the facts as alleged in the
+complaint. Glacier Northwest sells ready-mix concrete to customers
+in Washington State. Each batch must be mixed to the
+customer’s specifications. After Glacier combines the raw
+ingredients—cement, sand, aggregate, admixture, and
+water—in a hopper, it transfers the resulting concrete to one
+of its trucks for prompt delivery.
+
+															In this business, time is of the essence.
+Concrete is highly perishable—it begins to harden immediately
+once at rest. Ready-mix trucks can preserve concrete in a rotating
+drum located on the back of the truck, but only for a limited time.
+If concrete remains in the rotating drum for too long, it will
+harden and cause significant damage to the truck. Worse still, the
+hardening begins right away if the drum stops revolving.
+
+															The International Brotherhood of Teamsters Local
+Union No. 174 (Union) serves as the exclusive bargaining
+representative for Glacier’s truck drivers. After the
+collective-bargaining agreement between Glacier and the Union
+expired in the summer of 2017, the parties negotiated in an attempt
+to reach a new deal. Things did not go smoothly.
+
+															Tensions came to a head on the morning of August
+11. According to the allegations in Glacier’s complaint, a
+Union agent signaled for a work stoppage when the Union knew that
+Glacier was in the midst of mixing substantial amounts of concrete,
+loading batches into ready-mix trucks, and making deliveries.
+Although Glacier quickly instructed drivers to finish deliveries in
+progress, the Union directed them to ignore Glacier’s orders.
+At least 16 drivers who had already set out for deliveries returned
+with fully loaded trucks. Seven parked their trucks, notified a
+Glacier representative, and either asked for instructions or took
+actions to protect their trucks. But at least nine drivers
+abandoned their trucks without a word to anyone.
+
+															Glacier faced an emergency. The company could
+not leave the mixed concrete in the trucks because the
+concrete’s inevitable hardening would cause significant
+damage to the vehicles. At the same time, the company could not
+dump the concrete out of the trucks at random because concrete
+contains environmentally sensitive chemicals. To top it all off,
+Glacier had limited time to solve this conundrum.
+
+															A mad scramble ensued. Glacier needed to
+determine which trucks had concrete in them, how close the concrete
+in each truck was to hardening, and where to dump that concrete in
+an environmentally safe manner. Over the course of five hours,
+nonstriking employees built special bunkers and managed to offload
+the concrete. When all was said and done, Glacier’s emergency
+maneuvers prevented damage to its trucks. But the concrete that it
+had already mixed that day hardened in the bunkers and became
+useless.
+
+															Glacier sued the Union for damages in Washington
+state court. Relying on the allegations detailed above, Glacier
+claimed that the Union intentionally destroyed the company’s
+concrete and that this conduct amounted to common-law conversion
+and trespass to chattels.
+
+															The Union moved to dismiss Glacier’s tort
+claims on the ground that the NLRA preempted them. In the
+Union’s view, the NLRA at least arguably protected the
+drivers’ conduct, so the State was powerless to hold the
+Union accountable for any of the strike’s consequences.
+
+															The trial court agreed with the Union. After the
+appellate court reversed, the Washington Supreme Court reinstated
+the trial court’s decision. In its view, “the NLRA
+preempts Glacier’s tort claims related to the loss of its
+concrete product because that loss was incidental to a strike
+arguably protected by federal law.” 198 Wash. 2d 768, 774,
+500 P.3d 119, 123 (2021).
+
+															We granted certiorari to resolve whether the
+NLRA preempts Glacier’s tort claims alleging that the Union
+intentionally destroyed its property during a labor dispute. 598
+U. S. ___ (2022).
+
+															II
+
+															As the party asserting preemption, the Union
+bears the burden of (1) advancing “an interpretation of the
+[NLRA] that is not plainly contrary to its language and that has
+not been ‘authoritatively rejected’ by the courts or
+the Board,” and then (2) putting forth “enough evidence
+to enable the court to find that” the NLRA arguably protects
+the drivers’ conduct. Davis, 476 U. S., at 395.
+The Union passes the first test but fails the second.
+
+															All agree that the NLRA protects the right to
+strike but that this right is not absolute. Brief for Petitioner
+18; Brief for Respondent 21, 46, n. 14. The Board has long
+taken the position—which both the Union and Glacier
+accept—that the NLRA does not shield strikers who fail to
+take “reasonable precautions” to protect their
+employer’s property from foreseeable, aggravated, and
+imminent danger due to the sudden cessation of work. Bethany
+Medical Center, 328 N. L. R. B. 1094 (1999)
+(“concerted activity” is “indefensible where
+employees fail to take reasonable precautions to protect the
+employer’s plant, equipment, or products from foreseeable
+imminent danger due to sudden cessation of work”); see also
+Brief for Petitioner 14, 30–31; Brief for Respondent
+28–29; Reply Brief 6–7; Tr. of Oral Arg. 68, 86. Given
+this undisputed limitation on the right to strike, we proceed to
+consider whether the Union has demonstrated that the statute
+arguably protects the drivers’ conduct. Davis, 476
+U. S., at 395. We conclude that it has not.[2]
+
+															The drivers engaged in a sudden cessation of
+work that put Glacier’s property in foreseeable and imminent
+danger. The Union knew that concrete is highly perishable and that
+it can last for only a limited time in a delivery truck’s
+rotating drum. It also knew that concrete left to harden in a
+truck’s drum causes significant damage to the truck. The
+Union nevertheless coordinated with truck drivers to initiate the
+strike when Glacier was in the midst of batching large quantities
+of concrete and delivering it to customers. Predictably, the
+company’s concrete was destroyed as a result. And though
+Glacier’s swift action saved its trucks in the end, the risk
+of harm to its equipment was both foreseeable and serious. See
+NLRB v. Special Touch Home Care Services, Inc., 708
+F.3d 447, 460 (CA2 2013) (“The appropriate inquiry is focused
+on the risk of harm, not its realization”).
+
+															The Union failed to “take reasonable
+precautions to protect” against this foreseeable and imminent
+danger. Bethany Medical Center, 328
+N. L. R. B., at 1094. It could have initiated the
+strike before Glacier’s trucks were full of wet
+concrete—say, by instructing drivers to refuse to load their
+trucks in the first place. Once the strike was underway, nine of
+the Union’s drivers abandoned their fully loaded trucks
+without telling anyone—which left the trucks on a path to
+destruction unless Glacier saw them in time to unload the concrete.
+Yet the Union did not take the simple step of alerting Glacier that
+these trucks had been returned. Nor, after the trucks were in the
+yard, did the Union direct its drivers to follow Glacier’s
+instructions to facilitate a safe transfer of equipment. To be
+clear, the “reasonable precautions” test does not
+mandate any one action in particular. But the Union’s failure
+to take even minimal precautions illustrates its failure to fulfill
+its duty.
+
+															Indeed, far from taking reasonable precautions
+to mitigate foreseeable danger to Glacier’s property, the
+Union executed the strike in a manner designed to compromise the
+safety of Glacier’s trucks and destroy its concrete. Such
+conduct is not “arguably protected” by the NLRA; on the
+contrary, it goes well beyond the NLRA’s protections. See
+NLRB v. Marshall Car Wheel & Foundry Co., 218
+F.2d 409, 411, 413 (CA5 1955) (strike unprotected when employees
+abandoned their posts without warning “when molten iron in
+the plant cupola was ready to be poured off,” even though
+“a lack of sufficient help to carry out the critical pouring
+operation might well have resulted in substantial property
+damage”).
+
+															Thus, accepting the complaint’s
+allegations as true, the Union did not take reasonable precautions
+to protect Glacier’s property from imminent danger resulting
+from the drivers’ sudden cessation of work. The state court
+thus erred in dismissing Glacier’s tort claims as preempted
+on the pleadings.
+
+															III
+
+															The Union resists this conclusion. First, it
+emphasizes that the NLRA’s protection of the right to strike
+should “ ‘be given a generous
+interpretation.’ ” Brief for Respondent 21
+(quoting NLRB v. Erie Resistor Corp., 373 U.S.
+221, 234–235 (1963)). A strike, it points out, consists
+of a “concerted stoppage of work.” §142(2). So,
+the argument goes, by engaging in a concerted stoppage of work to
+support their economic demands, the drivers engaged in conduct
+arguably protected by §7 of the NLRA.
+
+															This argument oversimplifies the NLRA. As we
+explained, the right to strike is limited by the requirement that
+workers “take reasonable precautions to protect the
+employer’s plant, equipment, or products from foreseeable
+imminent danger due to sudden cessation of work.” Bethany
+Medical Center, 328 N. L. R. B., at 1094. So the
+mere fact that the drivers engaged in a concerted stoppage of work
+to support their economic demands does not end the analysis. We
+must also ask whether the strike exceeded the limits of the
+statute.
+
+															Second, the Union argues that “workers do
+not forfeit the Act’s protections simply by commencing a work
+stoppage at a time when the loss of perishable products is
+foreseeable.” Brief for Respondent 22. It points out that the
+Board has found strikers’ conduct protected even when their
+decision not to work created a risk that perishable goods would
+spoil. See, e.g., Lumbee Farms Coop., 285
+N. L. R. B. 497 (1987) (raw poultry processing
+workers), enf ’d, 850 F.2d 689 (CA4 1988); Central
+Oklahoma Milk Producers Assoc., 125 N. L. R. B.
+419 (1959) (milk-truck drivers), enf ’d, 285 F.2d 495
+(CA10 1960); Leprino Cheese Co., 170
+N. L. R. B. 601 (1968) (cheese factory employees),
+enf ’d, 424 F.2d 184 (CA10 1970). If the mere risk of
+spoilage is enough to render a strike illegal, the Union insists,
+then workers who deal with perishable goods will have no meaningful
+right to strike.
+
+															The Union is swinging at a straw man. It casts
+this case as one involving nothing more than a foreseeable risk
+that the employer’s perishable products would spoil. But
+given the lifespan of wet concrete, Glacier could not batch it
+until a truck was ready to take it. So by reporting for duty and
+pretending as if they would deliver the concrete, the drivers
+prompted the creation of the perishable product. Then, they
+waited to walk off the job until the concrete was mixed and poured
+in the trucks. In so doing, they not only destroyed the concrete
+but also put Glacier’s trucks in harm’s way. This case
+therefore involves much more than “a work stoppage at a time
+when the loss of perishable products is foreseeable.” Brief
+for Respondent 22.
+
+															Third, the Union maintains that the timing of
+the strike and Glacier’s lack of notice cannot render the
+drivers’ conduct unprotected. Id., at 26–28. It
+argues that workers are not required to time their strikes to
+minimize economic harm to their employer, see Lumbee Farms,
+285 N. L. R. B., at 506, and that the NLRA does not
+impose a legal requirement that workers give specific notice of a
+strike’s timing, see Columbia Portland Cement Co. v.
+NLRB, 915 F.2d 253, 257 (CA6 1990).
+
+															We agree that the Union’s decision to
+initiate the strike during the workday and failure to give Glacier
+specific notice do not themselves render its conduct unprotected.
+Still, they are relevant considerations in evaluating whether
+strikers took reasonable precautions, whether harm to property was
+imminent, and whether that danger was foreseeable. See
+International Protective Services, Inc., 339
+N. L. R. B. 701, 702–703 (2003) (attempt
+“ ‘to capitalize on the element of
+surprise’ ” stemming from a lack of notice weighed
+in favor of concluding that a union failed to take reasonable
+precautions). In this instance, the Union’s choice to call a
+strike after its drivers had loaded a large amount of wet
+concrete into Glacier’s delivery trucks strongly suggests
+that it failed to take reasonable precautions to avoid foreseeable,
+aggravated, and imminent harm to Glacier’s property.
+
+															Finally, the Union points out that the drivers
+returned the trucks to Glacier’s facility. And it maintains
+that all of the drivers left the drums of their trucks rotating,
+which delayed the concrete’s hardening process. In the
+Union’s view, this establishes that the drivers took
+reasonable precautions to protect the trucks. Brief for Respondent
+28–30.
+
+															We see it differently. That the drivers returned
+the trucks to Glacier’s facility does not do much for the
+Union—refraining from stealing an employer’s vehicles
+does not demonstrate that one took reasonable precautions to
+protect them. And Glacier’s allegations do not support the
+Union’s assertion that all of the drivers left the drums
+rotating. The Union relies on a vague remark by an unspecified
+Union agent to another unspecified person to leave a truck running.
+See id., at 9, 30; Brief for Petitioner 8; App. 34. This
+snippet does not show that all of the drivers left their trucks
+running, and even if it did, that would not necessarily mean that
+the delivery trucks’ drums continued rotating. In any event,
+Glacier alleged that if concrete remains in a ready-mix truck for
+too long, it will harden and cause significant damage to the truck.
+The rotating drum forestalls that hardening for a time, but not
+indefinitely. And the Union concedes that the NLRA does not
+arguably protect its actions if they posed a material risk of harm
+to the trucks. Tr. of Oral Arg. 78.[3]
+
+															*  *  *
+
+															Glacier alleges that the drivers’
+conduct created an emergency in which it had to devise a way to
+offload concrete “in a timely manner to avoid costly damage
+to [its] mixer trucks.” App. 72. The Union’s actions
+not only resulted in the destruction of all the concrete Glacier
+had prepared that day; they also posed a risk of foreseeable,
+aggravated, and imminent harm to Glacier’s trucks. Because
+the Union took affirmative steps to endanger Glacier’s
+property rather than reasonable precautions to mitigate that risk,
+the NLRA does not arguably protect its conduct. We reverse the
+judgment of the Washington Supreme Court and remand the case for
+further proceedings not inconsistent with this opinion.
+
+															It is so ordered.
+
+Notes
+1
+ We have recognized
+exceptions to this rule. One allows a court to resolve a claim if
+the party raising it lacks a “reasonable opportunity”
+to secure a Board decision on the legal status of the conduct at
+issue. Sears, Roebuck & Co. v. Carpenters,
+436 U.S.
+180, 201 (1978); see also Davis, 476 U. S., at 393,
+n. 10. Another applies if the conduct in question is “a
+merely peripheral concern” of the NLRA. San Diego Building
+Trades Council v. Garmon, 359 U.S.
+236, 243 (1959). A third covers situations“where the
+regulated conduct touche[s] interests so deeply rooted in local
+feeling and responsibility that, in the absence of compelling
+congressional direction,” a court cannot conclude that
+Congress “deprived the States of the power to act.”
+Id., at 244. Because we conclude that the NLRA does not
+arguably protect the Union’s conduct, we need not address
+these exceptions.
+2
+ The Union moved to
+dismiss Glacier’s claims for failure to state a claim and for
+lack of subject matter jurisdiction. Like the Washington Supreme
+Court, we treat both motions together and accept the allegations in
+the complaint as true at the motion-to-dismiss stage. 198 Wash. 2d
+768, 782–783, 500 P.3d 119, 127 (2021); see also
+Kinney v. Cook, 159 Wash. 2d 837, 842, 154 P.3d 206,
+209 (2007). Pursuant to Washington law, we also may consider
+additional factual allegations made by Glacier that support its
+complaint. See Bravo v. Dolsen Companies, 
+125 Wash. 2d 745, 750, 
+888 P.2d 147, 150 (1995).
+3
+ After the Washington
+Supreme Court affirmed the dismissal of Glacier’s tort
+claims, the Board’s general counsel issued a complaint
+alleging that Glacier engaged in unfair labor practices in relation
+to its labor dispute with the drivers, including by disciplining
+some of those involved in the strike. The lower courts have not
+addressed the significance, if any, of the Board’s complaint
+with respect to Garmon preemption. We will not do so in the
+first instance. Cutter v. Wilkinson, 544 U.S.
+709, 718, n. 7 (2005) (“[W]e are a court of review,
+not of first view”). The Board’s general counsel agrees
+that this issue is not properly before us. See Brief for United
+States as Amicus Curiae 28.
+
+

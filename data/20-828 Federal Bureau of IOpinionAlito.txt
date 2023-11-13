@@ -1,0 +1,171 @@
+::SCDB_caseID:: 2021-014
+::decision_cite:: 20-828
+::decision_name::  Federal Bureau of Investigation v. Fazaga
+::decision_year:: 2022
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–828
+
+															_________________
+
+															Federal Bureau of Investigation, et al., PETITIONERS v. Yassir Fazaga, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[March 4, 2022]
+
+															
+
+															Justice Alito delivered the opinion of the Court.
+
+															In this case, we consider the relationship between the longstanding “state secrets” privilege and a provision of the Foreign Intelligence Surveillance Act of 1978 (FISA),
+
+92Stat.
+1783,
+
+50 U. S. C. §1801 et seq., that provides a procedure under which a trial-level court or other authority may consider the legality of electronic surveillance conducted under FISA and may thereafter order specified forms of relief.  See §1806(f ).  This case was brought in federal court by three Muslim residents of Southern California who  allege that the Federal Bureau of Investigation illegally surveilled them and others under FISA because of their religion.  In response, the defendants (hereinafter Government) invoked the state secrets privilege and asked the District Court to dismiss most of respondents’ claims because the disclosure of counter-intelligence information that was vital to an evaluation of those claims would threaten national-security interests.
+
+															The District Court agreed with the Government’s argument and dismissed the claims in question, but the Ninth Circuit reversed, reasoning that §1806(f ) “displaced” the state secrets privilege.  We now hold that §1806(f ) has no such effect, and we therefore reverse.
+
+															I
+
+															A
+
+															This Court has repeatedly recognized “a Government privilege against court-ordered disclosure of state and military secrets,” General Dynamics Corp. v. United States,
+
+563 U.S. 478, 484 (2011); see also United States v. Zubaydah, ___ U. S. ___, ___ (2022) (slip op., at 7); Tenet v. Doe,
+
+544 U.S. 1, 11 (2005); United States v. Reynolds,
+
+345 U.S. 1, 6–7 (1953); Totten v. United States,
+
+92 U.S. 105, 107 (1876).  The present case requires us to determine whether FISA affects the availability or scope of that long-established privilege.
+
+															Electronic surveillance for ordinary criminal law enforcement purposes is governed by Title III of the Omnibus Crime Control and Safe Streets Act of 1968, 18 U. S. C. §§2510–2522, but foreign intelligence surveillance presents special national-security concerns, and Congress therefore enacted FISA to provide special procedures for use when the Government wishes to conduct such surveillance.  See Clapper v. Amnesty Int’l USA,
+
+568 U.S. 398, 402 (2013).  FISA established the Foreign Intelligence Surveillance Court to entertain applications for and, where appropriate, to issue orders authorizing such surveillance.  See id., at 402–403; 50 U. S. C. §§1803–1805.
+
+															When information is lawfully gathered pursuant to such an order, §1806 permits its use in judicial and administrative proceedings and specifies the procedure that must be followed before that is done.
+
+															Under §1806(c), “[w]henever the Government intends to enter into evidence or otherwise use or disclose . . . against an aggrieved person” [1] in any court proceeding[2] any information obtained under FISA, the United States must “notify” both “the aggrieved person and the court.”  Subsection (e) then allows anyone against whom the Government intends to use such information to move to suppress that evidence on the ground that it was “unlawfully acquired” or that “the surveillance was not made in conformity with an order of authorization or approval.”  §1806(e).
+
+															The specific provision at issue here, subsection (f ) of §1806, establishes procedures for determining the lawfulness and admissibility of such information.[3]  That subsection permits a court to make that determination “in camera and ex parte” if the “Attorney General files an affidavit under oath that disclosure or an adversary hearing would harm the national security of the United States.”  §1806(f ).
+
+															Three circumstances trigger these procedures: first, where the United States or a state authority gives notice under §1806(c) or (d) that it intends to “enter into evidence or otherwise use or disclose” FISA information; second, where an aggrieved person files a motion to suppress such information under subsection (e); and third, where “any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to electronic surveillance or to discover, obtain, or suppress evidence or information obtained or derived from electronic surveillance under this chapter.”  §1806(f ).
+
+															Once §1806(f )’s in camera and ex parte procedures are triggered, the court must review the “application, order, and such other materials relating to the surveillance as may be necessary to determine whether the surveillance of the aggrieved person was lawfully authorized and conducted.”  Ibid.  If the court finds that the evidence was unlawfully obtained, it must “suppress” the evidence or “otherwise grant the motion of the aggrieved person.”  §1806(g).  But if the court finds that the evidence was lawfully obtained, it must “deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.”  Ibid.
+
+															B
+
+															Respondents Yassir Fazaga, Ali Malik, and Yasser Abdel Rahim are members of Muslim communities in southern California who claim that the Federal Bureau of Investigation illegally surveilled them because of their religion.  Respondents allege that the FBI directed a confidential informant to “gather information on Muslims in an indiscriminate manner.”  App. 97, First Amended Complaint ¶99.  This informant purportedly infiltrated a Muslim community and gathered “hundreds of phone numbers and thousands of email addresses of Muslims”; “hundreds of hours of video recordings” made inside mosques, homes, and other private locations; and “thousands of hours of audio recording of conversations” and of “public discussion groups, classes, and lectures.”  Id., at 194, Decl. of Craig Monteilh ¶71.  Respondents allege that the surveillance operation ended when the informant, at the FBI’s instruction, began asking members of the community about violent jihad, and some of those individuals reported the informant to the FBI and local police.
+
+															In 2011, respondents filed this putative class action against the United States, the FBI, and two FBI officials in their official capacities.[4]  Respondents claimed that the Government’s unlawful information-gathering operation violated their rights under the Establishment Clause; the Free Exercise Clause; the
+ 
+Fourth Amendment; the equal protection component of the
+ 
+Fifth Amendment’s Due Process Clause; the Religious Freedom Restoration Act,
+
+42 U. S. C. §2000bb et seq.; the Federal Tort Claims Act,
+
+28 U. S. C. §1346; FISA,
+
+50 U. S. C. §1810; the Privacy Act,
+
+5 U. S. C. §552a; and California law.
+
+															The Government moved to dismiss all those claims and argued, among other things, that the state secrets privilege required dismissal of most of them.  To that end, Attorney General Holder filed a declaration asserting a “formal claim of the state secrets privilege in order to protect the national security interests of the United States.”  App. 26, Decl. of Eric H. Holder ¶1.  This claim applied to the following categories of information: information that could “confirm or deny whether a particular individual was or was not the subject of an FBI counterterrorism investigation,” information that could reveal the “initial reasons” for or the “status and results” of an “FBI counterterrorism investigation,” and information that could reveal the “sources and methods” used in such an investigation.  Id., at 28, ¶4.  An Assistant Director of the FBI filed a public declaration explaining why disclosure “reasonably could be expected to cause significant harm to national security,” id., at 60, Decl. of Mark F. Giuliano ¶32, along with a more detailed classified declaration.
+
+															After reviewing both “the public and classified filings,” the  District Court held that the state secrets privilege required dismissal of all respondents’ claims against the Government, except for the claim under FISA,
+
+50 U. S. C. §1810, which it dismissed on sovereign-immunity grounds.  884 F. Supp. 2d 1022, 1049 (CD Cal. 2012); 885 F. Supp. 2d 978, 982–984 (CD Cal. 2012).  The District Court concluded that litigation of the claims it dismissed “would require or unjustifiably risk disclosure of secret and classified information.”  884 F. Supp. 2d, at 1028–1029.
+
+															The Ninth Circuit reversed in relevant part and held that “Congress intended FISA to displace the state secrets privilege and its dismissal remedy with respect to electronic surveillance.”  965 F.3d 1015, 1052 (2020).  That holding depended on two subsidiary conclusions.  First, the Court of Appeals held that “§1806(f ) procedures are to be used when an aggrieved person affirmatively challenges, in any civil case, the legality of electronic surveillance or its use in litigation, whether the challenge is under FISA itself, the Constitution, or any other law.”  Ibid.  Second, the Court of Appeals held that, where §1806(f )’s procedures apply, it “speak[s] quite directly to the question otherwise answered by the dismissal remedy sometimes required by the common law state secrets privilege.”  Id., at 1045.  That is so, the Court of Appeals reasoned, because §1806(f )’s procedures are “animated by the same concerns” as the state secrets privilege and “triggered” by a “nearly identical" process.  Id., at 1046.  It thus reversed the District Court’s dismissal of respondents’ claims on state secrets grounds.
+
+															The Ninth Circuit denied rehearing en banc over the dissent of Judge Bumatay and nine other judges.  We granted certiorari to decide whether §1806(f ) displaces the state secrets privilege.  594 U. S. ___ (2021).
+
+															II
+
+															A
+
+															Much of the parties’ argumentation in this Court concerns the correct interpretation of §1806(f ).  The Government contends that the Ninth Circuit erred because §1806(f ) is “ ‘relevant only when a litigant challenges the admissibility of the government’s surveillance evidence.’ ”  Reply Brief for Petitioners 2 (quoting Wikimedia Foundation v. NSA, 14 F. 4th 276, 294 (CA4 2021)).  But respondents interpret that provision more broadly.
+
+															Respondents do not dispute that §1806(f ) applies when the Government seeks to introduce evidence and a private party seeks to prevent such use, but they argue that §1806(f ) is also sometimes triggered when “a civil litigant seeks to obtain such secret information.”  Brief for Respondents 34.  And they say that §1806(f ) applies in this case for two reasons.  First, they note that §1806(f ) is triggered not only when the Government gives notice that it intends to “enter into evidence” information obtained by means of covered surveillance but also when it  notifies the  court that it “intends to . . . otherwise use” such information.  §1806(c).  Respondents argue that the Government “use[d]” information gathered under FISA when it invoked the state secrets privilege and asked the District Court to dismiss some of respondents’ claims pursuant to that privilege.  In respondents’ view, the attempt to leverage a claim of privilege into a dismissal constitutes a “use” of FISA information against them.  See Brief for Respondents 35–38; Tr. of Oral Arg. 71–73.  Second, respondents note that §1806(f ) applies when an “aggrieved person” makes “any motion or request” to “discover or obtain” electronic-surveillance evidence, and they say that their complaint’s request for an injunction ordering the Government to “destroy or return any information gathered through the unlawful surveillance program” triggered that provision.  App. 146; see also Brief for Respondents 39–40.[5]  That prayer for relief, they maintain, constituted a “request” to “discover or obtain” the information.
+
+															The Government disagrees with both of these theories.  It argues that the assertion of the state secrets privilege did not constitute a “use” of “information obtained or derived from an electronic surveillance.”  On the contrary, the Government contends, the assertion of the privilege represented an attempt to prevent the use of that information.  Reply Brief for Petitioners 2–3.  In addition, the Government maintains that respondents never filed a “ ‘motion or request . . . to discover [or] obtain’ ” information derived from or materials relating to FISA surveillance because their complaint’s prayer for relief did not constitute a “ ‘motion or request.’ ”  Id., at 5.
+
+															We need not resolve this dispute about the meaning of §1806(f ) because we reverse the Ninth Circuit on an alternative ground—namely, that even as interpreted by respondents, §1806(f ) does not displace the state secrets privilege.
+
+															B
+
+															We reach this conclusion for two reasons.
+
+															1
+
+															First, the text of FISA weighs heavily against respondents’ displacement argument.  FISA makes no reference to the state secrets privilege.  It neither mentions the privilege by name nor uses any identifiable synonym, and its only reference to the subject of privilege reflects a desire to avoid the alteration of privilege law.  See §1806(a).[6]
+
+															The absence of any statutory reference to the state secrets privilege is strong evidence that the availability of the privilege was not altered in any way.  Regardless of whether the state secrets privilege is rooted only in the common law (as respondents argue) or also in the Constitution (as the Government argues), the privilege should not be held to have been abrogated or limited unless Congress has at least used clear statutory language.  See Norfolk Redevelopment and Housing Authority v. Chesapeake & Potomac Telephone Co. of Va.,
+
+464 U.S. 30, 35 (1983) (presumption against repeal of the common law); Jennings v. Rodriguez, 583 U. S. ___, ___ (2018) (slip op., at 12) (canon of constitutional avoidance).
+
+															2
+
+															Even if respondents’ interpretation of §1806(f ) is accepted, nothing about the operation of that provision is at all incompatible with the state secrets privilege.  The Ninth Circuit thought that §1806(f ) and the privilege are “animated by the same concerns,” 965 F. 3d, at 1046, and respondents argue that they operate in “fundamentally similar” ways, Brief for Respondents 54, but that is simply wrong.
+
+															As an initial matter, it seems clear that the state secrets privilege will not be invoked in the great majority of cases in which §1806(f ) is triggered.  Section 1806(f ) is most likely to come into play when the Government seeks to use FISA evidence in a judicial or administrative proceeding, and the Government will obviously not invoke the state secrets privilege to block disclosure of information that it wishes to use.  Section 1806(f ) is much more likely to be invoked in cases of this sort than in cases in which an aggrieved person takes the lead and seeks to obtain or disclose FISA information for a simple reason: individuals affected by FISA surveillance are very often unaware of the surveillance unless it is revealed by the Government.  See 2 D. Kris & J. Wilson, National Security Investigations & Prosecutions §30:4 (3d ed. 2019).
+
+															With these cases out of the way, what is left are cases in which an aggrieved party, rather than the Government, triggers the application of §1806(f ), but even under respondents’ interpretation of that provision, there is no clash between §1806(f ) and the state secrets privilege.  The statute and the privilege (1) require courts to conduct different inquiries, (2) authorize courts to award different forms of relief, and (3) direct the parties and the courts to follow different procedures.  First and most importantly, the inquiries required by §1806(f ) and our state secrets jurisprudence are fundamentally different.  Under §1806(f ), the central question is the lawfulness of surveillance.  Courts are instructed to determine “whether the surveillance of the aggrieved person was lawfully authorized and conducted.”  §1806(f ) (emphasis added).
+
+															By contrast, when the state secrets privilege is asserted, the central question is not whether the evidence in question was lawfully obtained but whether its disclosure would harm national-security interests.  As the Court explained in Reynolds, the privilege applies where “there is a reasonable danger that compulsion of the evidence will expose military matters which, in the interest of national security, should not be divulged.”  345 U. S., at 10; see also, e.g., Zubaydah, ___ U. S., at ___ (slip op., at 7) (“The state-secrets privilege permits the Government to prevent disclosure of information when that disclosure would harm national security interests”); General Dynamics, 563 U. S., at 484 (noting that the privilege exists to serve the “sometimes-compelling necessity of governmental secrecy” over “military, intelligence, and diplomatic” information).  We have never suggested that an assertion of the state secrets privilege can be defeated by showing that the evidence was unlawfully obtained.
+
+															Second, in accordance with the fundamentally different inquiries called for under §1806(f ) and the state secrets privilege, the available relief also differs.  Under §1806, a court has no authority to award any relief to an aggrieved person if it finds that the evidence was lawfully obtained, whereas a court considering an assertion of the state secrets privilege may order the disclosure of lawfully obtained evidence if it finds that disclosure would not affect national security (assuming that the information is otherwise subject to disclosure).  And under §1806(f ), as interpreted by respondents, a court must award relief to an aggrieved person if it finds that the evidence was unlawfully obtained, but under the state secrets privilege, lawfulness is not determinative.
+
+															In addition, the state secrets privilege, unlike §1806, sometimes authorizes district courts to dismiss claims on the pleadings.  We need not delineate the circumstances in which dismissal is appropriate (or determine whether dismissal was proper in this case), but even respondents concede that dismissal is available in a “spy-contracting case” when a case’s “very subject matter is secret.”  Brief for Respondents 25; see also Tenet, 544 U. S., at 11; Totten, 92 U. S., at 107; General Dynamics, 563 U. S., at 492.  The availability of dismissal pursuant to the state secrets privilege in at least some circumstances shows that the privilege and §1806(f ) operate differently.
+
+															Third, the inquiries under §1806(f ) and the state secrets privilege are procedurally different.  Section 1806(f ) allows the Attorney General to obtain in camera and ex parte review of the relevant surveillance evidence if he “files an affidavit under oath that disclosure or an adversary hearing would harm the national security of the United States.”  §1806(f ).  By contrast, the state secrets privilege may be invoked not just by the Attorney General but by “the head of the department which has control over the matter, after actual personal consideration by that officer.”  Reynolds, 345 U. S., at 8.  In Reynolds, for example, the Judge Advocate General for the United States Air Force asserted the privilege.  See id., at 4; see also Zubaydah, ___ U. S., at ___ (slip op., at 5) (asserted by the Director of the Central Intelligence Agency); General Dynamics, 563 U. S., at 482 (asserted by the Acting Secretary of the Air Force).
+
+															The procedures used to evaluate assertions of the state secrets privilege may also, in some circumstances, be more protective of information than the procedures prescribed by §1806(f ).  Subsection (f ) allows “review in camera and ex parte” of materials that are “necessary to determine” whether the surveillance was lawful.  Nothing in that subsection expressly provides that the Government may shield highly classified information from review by the judge if the information is “necessary” to the determination of the legality of surveillance.  Reynolds, on the other hand, expressly states that examination of the evidence at issue, “even by the judge alone, in chambers,” should not be required if the Government shows “a reasonable danger that compulsion of the evidence” will expose information that “should not be divulged” in “the interest of national security.”  345 U. S., at 10.  Thus, the state secrets privilege, unlike §1806(f ), may sometimes preclude even in camera, ex parte review of the relevant evidence.
+
+															For those reasons, we conclude that Congress did not eliminate, curtail, or modify the state secrets privilege when it enacted §1806(f ).
+
+															III
+
+															We reiterate that today’s decision addresses only the narrow question whether §1806(f ) displaces the state secrets privilege.  Because we conclude that §1806(f ) does not have that effect under either party’s interpretation of the statute, we do not decide which interpretation is correct.  Nor do we decide whether the Government’s evidence is privileged or whether the District Court was correct to dismiss respondents’ claims on the pleadings.  According to respondents, the state secrets privilege authorizes dismissal only where the case concerns a Government contract or where the very subject of the action is secret.  See Brief for Respondents 23–34.  The Government, by contrast, relies on lower court cases permitting dismissal in other circumstances.  See Reply Brief for Petitioners 19, n. 2 (citing cases).  The Ninth Circuit did not decide those questions, and we do not resolve them here.
+
+															*  *  *
+
+															The judgment of the United States Court of Appeals for the Ninth Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ An “aggrieved person” is “a person who is the target of an electronic surveillance or any other person whose communications or activities were subject to electronic surveillance.”
+
+50 U. S. C. §1801(k). 
+
+2
+ Section 1806 applies to proceedings in both federal and state court.  See §§1806(c), (d).  It also applies to proceeding before any “department, officer, agency, regulatory body, or other authority.”  Ibid. 
+
+3
+ The provision in its entirety reads: “Whenever a court or other authority is notified pursuant to subsection (c) or (d), or whenever a motion is made pursuant to subsection (e), or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to electronic surveillance or to discover, obtain, or suppress evidence or information obtained or derived from electronic surveillance under this chapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority, shall, notwithstanding any other law, if the Attorney General files an affidavit under oath that disclosure or an adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the surveillance as may be necessary to determine whether the surveillance of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the surveillance only where such disclosure is necessary to make an accurate determination of the legality of the surveillance.” 
+
+4
+ Respondents also sued five named FBI agents and 20 unnamed agents in their individual capacities, but we need not discuss those claims or those parties (who are also respondents in this Court and who filed briefs supporting the Government) in order to resolve the question presented. 
+
+5
+ The Circuits disagree about the correct interpretation of §1806(f ).  Compare Wikimedia Foundation v. NSA, 14 F. 4th 276, 294 (CA4 2021) (“[W]e conclude that §1806(f ) is relevant only when a litigant challenges the admissibility of the government's surveillance evidence”), with 965 F.3d 1015, 1052 (CA9 2020) (“§1806(f ) procedures are to be used when any aggrieved person affirmatively challenges, in any civil case, the legality of electronic surveillance or its use in litigation, whether the challenge is under FISA itself, the Constitution, or any other law”). 
+
+6
+ That provision states: “No otherwise privileged communication obtained in accordance with, or in violation of, the provisions of this subchapter shall lose its privileged character.” 
+
+

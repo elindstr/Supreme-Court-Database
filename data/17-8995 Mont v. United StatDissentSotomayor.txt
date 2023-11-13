@@ -1,0 +1,170 @@
+::SCDB_caseID:: 2018-049
+::decision_cite:: 17-8995
+::decision_name::  Mont v. United States
+::decision_year:: 2019
+::opinion_author:: Sotomayor
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–8995
+
+															_________________
+
+															JASON J. MONT, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[June 3, 2019]
+
+															
+
+															Justice Sotomayor, with whom Justice Breyer, Justice Kagan, and Justice Gorsuch join, dissenting.
+
+															A term of supervised release is tolled when an offender “is imprisoned in connection with a conviction.”
+
+18 U. S. C. §3624(e).  The question before the Court is whether pretrial detention later credited as time served for a new offense has this tolling effect.  The Court concludes that it does, but it reaches that result by adopting a backward-looking approach at odds with the statute’s language and by reading the terms “imprisoned” and “in connection with” in unnatural isolation.  Because I cannot agree that a person “is imprisoned in connection with a conviction” before any conviction has occurred, I respectfully dissent.
+
+															I
+
+															A
+
+															The Sentencing Reform Act of 1984 empowers a court to impose a term of supervised release following imprisonment.  See 18 U. S. C. §§3583(a), (b).
+
+															The clock starts running on a supervised release term when the offender exits the jailhouse doors.  §3624(e).  During the term, offenders are bound to follow court-imposed conditions.  Some apply to all supervised release terms, such as a requirement to refrain from committing other crimes.  §3583(d).  Others apply only at a sentencing court’s discretion, such as a condition that the offender allow visits from a probation officer.  See §3563(b)(16); §3583(d).  The probation officer, in turn, is tasked with monitoring and seeking to improve the offender’s “conduct and condition” and reporting to the sentencing court, among other duties.  §3603.  During the supervised release term, the court has the power to change its conditions and to extend the term if less than the maximum term was previously imposed.  §3583(e)(2).  If an offender violates any of the conditions of release, the court can revoke supervised release and require the person to serve all or part of the supervised release term in prison, without giving credit for time previously served on postrelease supervision.  §3583(e)(3).
+
+															In the normal course, a supervised release term ends after the term specified by the district court.  But, crucially, the term “does not run during any period in which the person is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than 30 consecutive days.”  §3624(e).  In other words, certain periods of “imprisonment” postpone the expiration of the supervised release term.
+
+															A district court’s revocation power generally lasts only as long as the supervised release term.  If the court issues a warrant or summons for an alleged violation before the term expires, however, the court’s revocation power can extend for a “reasonably necessary” period beyond the term’s expiration.  §3583(i).
+
+															B
+
+															Though the mechanics of supervised release tolling may seem arcane, these calculations can have weighty consequences.  For petitioner Jason Mont, tolling enabled a court to order an additional 31∕2 years of federal imprisonment after he serves his current state sentence.
+
+															Mont was convicted in 2005 for federal drug and gun crimes.  The District Court sentenced him to prison time and to five years of supervised release.  In 2012, Mont was released from prison and his supervised release term began.  Left to run its course, the term would have ended on March 6, 2017.[1]
+
+															Mont’s time on supervised release did not go well.  In January 2016, his probation officer informed the District Court that Mont had failed two drug tests and tried to pass two further drug tests by using an “ ‘unknown’ ” liquid.  723 Fed. Appx. 325, 326 (CA6 2018).  The officer noted that Mont also had been charged with state marijuana-trafficking offenses.  Upon learning of these alleged  violations of the supervised release conditions, the District Court could have issued a warrant for Mont’s arrest, but it did not do so at that time.
+
+															On June 1, 2016, Mont was arrested on a new state indictment for trafficking cocaine, and the State took him into custody.  The probation officer reported the arrest to the District Court, but the record does not reflect any action by the court in response.  After several months in custody, Mont pleaded guilty to certain of the state charges.  He also admitted to the District Court that he had violated the terms of his supervised release, and he requested a hearing.  The District Court set a November hearing to consider his alleged supervised release violation, but continuances delayed that hearing.  Months more passed as Mont, still detained, awaited sentencing.  In the meantime, the original end date of his federal supervised release term—March 6, 2017—came and went.  On March 21, 2017, the state court sentenced Mont to six years in prison and retroactively credited the approximately 10 months he had spent in pretrial detention toward his sentence.
+
+															At that point, Mont’s probation officer reported Mont’s state convictions and sentences to the Federal District Court, which—after its many earlier opportunities—finally issued a warrant for Mont’s arrest on March 30, 2017.  Mont objected, claiming that the court had no power to issue the warrant because his supervised release term had expired on March 6.  The District Court rejected that contention and sentenced Mont to 42 months in prison, to run consecutively to his state sentence.[2]
+
+															The United States Court of Appeals for the Sixth Circuit affirmed.  In its view, the District Court had jurisdiction to revoke Mont’s supervised release because his pretrial detention triggered the tolling provision in §3624(e) and thus shifted back the end date of his supervised release term.  The Sixth Circuit construed the tolling provision to apply to Mont’s detention because his state-court indictment ultimately led to a conviction and Mont subsequently received credit for the period of detention as time served for that conviction.
+
+															II
+
+															The majority errs by affirming the Sixth Circuit’s construction of the tolling statute.  Most naturally read, a person “is imprisoned in connection with a conviction” only while he or she serves a prison term after a conviction.  The statute does not allow for tolling when an offender is in pretrial detention and a conviction is no more than a possibility.
+
+															The first clue to the meaning of §3624(e) is its present-tense construction.  In normal usage, no one would say that a person “is imprisoned in connection with a conviction” before any conviction has occurred, because the phrase would convey something that is not yet—and, indeed, may never be—true: that the detention has the requisite connection to a conviction.  After all, many detained individuals are never convicted because they ultimately are acquitted or have their cases dismissed.[3]  Until a conviction happens, it is impossible to tell whether any given pretrial detention is “connect[ed] with” a conviction or not.
+
+															Reading the phrase “is imprisoned” to require a real-time assessment of the character of a conviction does not just match the colloquial sense of the phrase; it also gives meaning to the tense of the words Congress chose.  The Court generally “look[s] to Congress’ choice of verb tense to ascertain a statute’s temporal reach.”  Carr v. United States,
+
+560 U.S. 438, 448 (2010).  Doing so abides by the Dictionary Act, which provides that “words used in the present tense include the future as well as the present” absent contextual clues to the contrary,
+
+1 U. S. C. §1, and thus “the present tense generally does not include the past,” Carr, 560 U. S., at 448.  Applying this presumption here leads to the straightforward result that the phrase “is imprisoned” does not mean “was imprisoned.”  Adhering to the present-tense framework of the statute, then, pretrial detention does not meet the statutory definition, no matter what later happens.
+
+															The other language in §3624(e)—“imprisoned in connection with a conviction”—confirms this result.  Had Congress wanted to toll supervised release during pretrial confinement, it could have chosen an alternative to the word “imprisoned” that more readily conveys that intent, such as “confined” or “detained.”  See Black’s Law Dictionary 362 (10th ed. 2014) (defining “confinement” as “the quality, state, or condition of being imprisoned or restrained”); id., at 543 (defining “detention” as “[t]he act or an instance of holding a person in custody; confinement or compulsory delay”).  Instead, Congress selected a word—“imprisoned”—that is most naturally understood in context to mean postconviction incarceration.
+
+															Congress regularly uses the word “imprisoned” (or “imprisonment”) to refer to a prison term following a conviction.  The United States Code is littered with statutes providing that an individual shall be “imprisoned” following a conviction for a specific offense.  See, e.g., 18 U. S. C. §§1832, 2199, 2344.  Congress also classifies crimes as felonies, misdemeanors, or infractions based on “the maximum term of imprisonment authorized.”  §3559(a).  And even in the Sentencing Reform Act itself, which added the tolling provision at issue, Congress used the word “imprisonment” to refer to incarceration after a conviction.  See §3582(a) (describing the factors courts consider when imposing “a term of imprisonment”); §3582(b) (referring to “a sentence to imprisonment”); §3582(c)(1)(B) (discussing when courts may “modify an imposed term of imprisonment”).
+
+															This Court also has previously equated the word “imprisonment” with a “prison term” or a “sentence”—phrases that imply post-trial detention.  See Tapia v. United States,
+
+564 U.S. 319, 327 (2011) (referring in passing to “imprisonment” as a “prison term”); Barber v. Thomas,
+
+560 U.S. 474, 484 (2010) (“[T]erm of imprisonment” can refer “to the sentence that the judge imposes” or “the time that the prisoner actually serves” of such a sentence); see also Argersinger v. Hamlin,
+
+407 U.S. 25, 37 (1972) (“[N]o person may be imprisoned for any offense . . . unless he was represented by counsel at his trial”).
+
+															To be sure, dictionary definitions of the word “imprison” sweep more broadly than just post-trial incarceration.  See ante, at 6.  But the word “imprisoned” does not appear in this statute in isolation; Congress referred to imprisonment “in connection with a conviction.”  As part of that phrase and given its usual meaning, the word “imprisoned” is best read as referring to the state of an individual serving time following a conviction.
+
+															The present tense of the statute and the phrase “imprisoned in connection with a conviction” thus lead to the same conclusion: Pretrial detention does not toll supervised release.[4]
+
+															III
+
+															The majority justifies a contrary interpretation of the tolling provision only by jettisoning the present-tense view of the statute and affording snippets of text broader meaning than they merit in context.
+
+															The majority’s first error is its conclusion that courts can take a wait-and-see approach to tolling.  If a conviction ultimately materializes and a court credits the offender’s pretrial custody toward the resulting sentence, the majority reasons, then the pretrial detention retroactively will toll supervised release.  If not, then there will be no tolling.  See ante, at 6–8.  The offender’s supervised release status thus will be uncertain until the court calculates tolling either “upon the defendant’s release from custody or upon entry of judgment.”  Ante, at 8.
+
+															The majority’s retrospective approach cannot be squared with the language of §3624(e).  Because Congress phrased the provision in the present tense, the statute calls for a contemporaneous assessment of whether a person “is imprisoned” with the requisite connection to a conviction.  The majority erroneously shifts the statute’s frame of reference from that present-tense assessment (what is) to a backward-looking review (what was or what has been).[5]
+
+															The majority’s textual argument hinges on what the majority perceives to be an advantage of the retrospective approach: It accounts for the fact that the statute provides for tolling only if a period of imprisonment lasts longer than 30 days.  §3624(e).  According to the majority, the 30-day provision shows Congress’ expectation that courts look backwards when evaluating whether tolling is appropriate.  If Congress anticipated such an analysis as to the length of the detention, the majority implies, surely it provided more generally for backward-looking review of the relationship between the detention and any ensuing conviction.  See ante, at 8.
+
+															This argument, however, assumes a problem of the majority’s own making.  The 30-day minimum creates no anomalies if the statute is read to toll supervised release only during detention following a conviction.  Under that more natural reading, courts in most cases will not be left in the dark about the length of a period of detention or its relationship to a conviction; the conviction and sentence of imprisonment at the time imposed will answer both questions.[6]
+
+															Under the majority’s approach, however, this language creates a dilemma.  Unlike a term of imprisonment following a conviction, the duration of pretrial confinement is uncertain at its outset.  Thus if (as the majority contends) Congress meant to toll such periods of detention, the 30-day limitation means that every single time a person on supervised release enters detention, it will be unclear for up to a month whether the supervised release term is being tolled or not.  See ante, at 8 (conceding that there will be “no way for a court to know on day 5 of a defendant’s pretrial detention whether the period of custody will extend beyond 30 days”).  If pretrial detention lasts longer than 30 days, the uncertainty will continue until a judgment of conviction is entered and credit for pretrial detention is computed.
+
+															But the difficulties inherent in predicting how long pretrial detention will last (and whether that detention eventually will turn out to have any connection to a conviction, see supra, at 4–5, and n. 3) most naturally compel the conclusion that Congress never intended to force district courts to grapple with them in the first place.  These uncertainties generally would not arise—and courts thus would not need to rely on hindsight—if the Court were to adopt Mont’s reading.  Yet the majority instead takes as a given that the statute tolls supervised release during pretrial detention, and then uses the uncertainties inherent in that process to justify a backward-looking analysis.
+
+															The majority’s error is compounded by the centerpiece of its textual analysis, which relies on artificially isolating the terms “imprisoned” and “in connection with.”  The majority says that imprisonment is a term so capacious as to encompass pretrial detention, ante, at 6–7, and that the phrase “in connection with” sweeps broadly enough to include pretrial detention that is ultimately credited to a new sentence, ante, at 7.
+
+															Whether or not these phrases independently have the far-reaching meaning that the majority ascribes to them—a conclusion that is by no means inevitable—the terms are still limited by their relationship to each other and by the present-tense framework of the statute.  Individual phrases must not be taken “ ‘in a vacuum,’ ” because doing so overrides the “ ‘fundamental canon of statutory construction that the words of a statute must be read in their context and with a view to their place in the overall statutory scheme.’ ”  Home Depot U. S. A., Inc. v. Jackson, ante, at ___ (slip op., at 5) (quoting Davis v. Michigan Dept. of Treasury,
+
+489 U.S. 803, 809 (1989)).  As discussed, in the context of a phrase referring to conviction, the term “imprisoned” most naturally means imprisonment following a conviction.  Supra, at 5–7.  And seen from the point at which a person is detained and awaiting a verdict, his confinement is not “in connection with” a conviction that has not happened and may never occur.
+
+															IV
+
+															The majority’s approach has the further flaw of treating tolling as the only meaningful avenue to preserve a district court’s revocation power when an offender is detained pretrial.  But the statute already provides a way for a court to extend its revocation power: If a court issues a warrant or summons while the supervised release term is running, that action triggers an extension of the court’s revocation authority “beyond” the supervised release term “for any period reasonably necessary for the adjudication” of the matters that led to the warrant or summons.  See §3583(i).
+
+															In this very case, the District Court had at least three opportunities to issue a warrant prior to the expiration of Mont’s original supervised release term.  Mont’s probation officer notified the District Court of Mont’s potential supervised release violations in January 2016, more than a year before Mont’s supervised release was set to expire.  723 Fed. Appx. 325, 326 (CA6 2018).  In June 2016, the probation officer alerted the District Court to Mont’s arrest.  Ibid.  And in October 2016, Mont filed a written admission with the District Court that he had violated supervised release.  Id., at 326–327.  The District Court was empowered at each step of this process to issue a warrant.  Indeed, the court apparently intended to do just that after Mont’s written admission, though the Sixth Circuit later found that there was no evidence of such a warrant in the record.  See id., at 329, n. 5.
+
+															In sum, the delayed revocation process provides a straightforward, and statutorily prescribed, path for district courts to decide which charges are significant enough to justify a warrant and thus to extend the court’s revocation power.  The majority’s overly broad reading of the tolling provision is thus unnecessary as well as a distortion of the clear statutory text.
+
+															V
+
+															Lacking a strong textual basis for its backward-looking analysis, the majority is left to rely on intuitions about how best to fulfill the statute’s purpose.
+
+															To begin with, the majority emphasizes that supervised release and incarceration have different aims.  See ante, at 8–10.  True enough.  The Court has explained that supervised release is intended “to assist individuals in their transition to community life,” and as a result is not “interchangeable” with periods of incarceration.  United States v. Johnson,
+
+529 U.S. 53, 58–60 (2000).  But the goals of supervised release can be fulfilled to some degree even when an offender is detained.  Cf. Burns v. United States,
+
+287 U.S. 216, 223 (1932) (noting that a probationer is still “subject to the conditions of” probation “even in jail”).  Offenders on supervised release may well be able to comply with several mandatory conditions of supervised release while detained, such as submitting to a DNA sample or taking drug tests.  See §3583(d).  And probation officers have experience coordinating with correctional facilities in the prerelease context.  See §3624(c)(3) (providing that the probation system “shall, to the extent practicable, offer assistance to a prisoner during prerelease custody”).
+
+															Even if an offender’s detention does make it meaningfully harder to fulfill the goals of supervised release, moreover, the majority’s reading permits the same incongruities.  Under the majority’s interpretation, supervised release continues to run for offenders who are confined pretrial for less than 30 days and for those who are detained pretrial but are later acquitted or released after charges are dropped.  See Tr. of Oral Arg. 34.[7]  At best, the majority offers a half-a-loaf policy rationale that cannot justify departing from the best reading of the statute’s text.
+
+															The majority also invokes the general principle against double-counting sentences, see, e.g., §3585(b), and objects that Mont’s reading of the statute would give defendants a “windfall.”  Ante, at 9–10.  This argument, however, fails to recognize the distinct character of pretrial detention.  Its purpose is to ensure that an alleged offender attends trial and is incapacitated if he or she is a danger to the community, not to punish the offender for a conviction.  See United States v. Morales-Alejo, 193 F.3d 1102, 1105 (CA9 1999) (citing §3142(c); United States v. Salerno,
+
+481 U.S. 739, 748 (1987)).  A State or the Federal Government may later choose to credit an equivalent period of time toward a new sentence, but that credit does not retroactively transform the character of the detention itself into “imprison[ment] in connection with a conviction,” §3624(e)—particularly in the context of this present-tense statute.
+
+															In any event, the majority’s approach creates a serious risk of unfairness.  Offenders in pretrial detention will have no notice of whether they are bound by the terms of supervised release.  This effectively compels all offenders to comply with the terms of their release, even though only some will ultimately get credit for that compliance, because otherwise they risk being charged with a violation if their supervised release term is not tolled.[8]  Although the majority indicates that offenders generally will comply with the terms of their release simply by following prison rules, the range of supervised release conditions is too broad to guarantee complete overlap with prison directives.  See, e.g., Doherty, Indeterminate Sentencing Returns: The Invention of Supervised Release, 88 N. Y. U. L. Rev. 958, 1012–1013 (2013) (describing mandatory condition of cooperating in DNA collection and special conditions of taking prescribed medications and undergoing periodic polygraph testing).  Altogether, I am not nearly as sanguine as the majority that the uncertainty created by the majority’s expansive tolling rule “matters little from either the court’s or the defendant’s perspective.”  Ante, at 11.
+
+															*  *  *
+
+															The Court errs by treating Mont’s pretrial detention as tolling his supervised release term.  Because its approach misconstrues the operative text and fosters needless uncertainty and unfairness, I respectfully dissent.
+Notes
+1
+ I accept the dates as given in the Sixth Circuit’s opinion, although that opinion notes some immaterial discrepancies in the record.  See 723 Fed. Appx. 325, 326, nn. 1–2 (2018). 
+
+2
+ The District Court held that it had jurisdiction because of a summons it issued on November 1, 2016, which would have given the court power to sanction a supervised release violation even after the term expired.  See
+
+18 U. S. C. §3583(i).  The Sixth Circuit did not affirm on this ground, however, because it “failed to detect any . . . evidence in the record” of a November 2016 summons.  723 Fed. Appx., at 329, n. 5. 
+
+3
+ See Dept. of Justice, Office of Justice Programs, Bureau of Justice Statistics, T. Cohen & B. Reaves, Pretrial Release of Felony Defendants in State Courts; State Court Processing Statistics, 1990–2004, p. 7 (Nov. 2007) (roughly one in five defendants held in pretrial detention forstate felony charges conclude their cases without a conviction), https://www.bjs.gov/content/pub/pdf/prfdsc.pdf (as last visited May 30, 2019). 
+
+4
+ I note that rejecting the Sixth Circuit’s contrary interpretation of the statute would not necessarily resolve this case in Mont’s favor.  The Government views Mont’s guilty plea as a “conviction” and thus argues that his supervised release should, at the least, have been tolled during the five months he was detained between his plea and sentencing.  See Brief for United States 39–44.  Because the Sixth Circuit did not directly address whether a guilty plea constitutes a “conviction,” the appropriate course would be to remand to the Sixth Circuit to consider this argument in the first instance.  See, e.g., Cutter v. Wilkinson,
+
+544 U.S. 709, 718, n. 7 (2005). 
+
+5
+ Although Congress did not use a phrase like “was imprisoned” or “has been imprisoned” in this provision, it did employ such formulations in several other tolling provisions.  See
+
+38 U. S. C. §3103(b)(3) (eligibility period “shall not run” during any period in which a veteran “was . . . prevented” from accessing a rehabilitation program); §3031(b) (time period “shall not run” during a period in which an individual “had not met” a discharge requirement);
+
+29 U. S. C. §1854(f ) (statute of limitations for a federal claim “shall be tolled” for the period in which a related state-law claim “was pending”). 
+
+6
+ The Government gestures to some uncertainties inherent in predicting the length of imprisonment even following a conviction, such as the presence of indeterminate sentencing schemes and the possibility that a determinate sentence can be shortened or interrupted temporarily.  See Brief for United States 34–35 (citing 18 U. S. C. §§3621(e)(2)(B), 3622).  However, these provisions in no way suggest that a court regularly would find itself unsure whether a prisoner’s sentence will extend past 30 days. 
+
+7
+ Imagine two offenders on supervised release and detained pending trial on similar charges who receive precisely the same supervision during their detention.  One ultimately is convicted and the other’s charges are dismissed on statute of limitations grounds.  Today’s decision means that the detention time for the convicted person will not count toward his or her supervised release term, even though the detention of the other person—who was detained for similar conduct and received the same monitoring and supervision—will count down the supervised release clock.  The better practice is to read the statute on its plain terms and rely on a district court’s power to clarify any ambiguity in its authority by issuing a warrant when an alleged supervised release violation is sufficiently serious.  See §3583(i). 
+
+8
+ The majority suggests that offenders will not necessarily face punishment for a failure to comply with supervision conditions while in detention.  Ante, at 12, n. 2.  Given the consequences of revocation, however, offenders may well be unwilling to take that chance.  See supra, at 2; §3583(e)(3). 
+
+

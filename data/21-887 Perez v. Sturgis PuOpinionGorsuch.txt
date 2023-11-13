@@ -1,0 +1,97 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-887
+::decision_name::  Perez v. Sturgis Public Schools
+::decision_year:: 2023
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–887
+
+															_________________
+
+															MIGUEL LUNA PEREZ, PETITIONER v. STURGIS PUBLIC SCHOOLS, et al.
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[March 21, 2023]
+
+															
+
+															Justice Gorsuch delivered the opinion of the Court.
+
+															The Individuals with Disabilities Education Act (IDEA),
+
+84Stat.
+175, as amended,
+
+20 U. S. C. §1400 et seq., seeks to ensure children with disabilities receive a free and appropriate public education.  Toward that end, the law sets forth a number of administrative procedures for children, their parents, teachers, and school districts to follow when disputes arise.  The question we face in this case concerns the extent to which children with disabilities must exhaust these administrative procedures under IDEA before seeking relief under other federal antidiscrimination statutes, such as the Americans with Disabilities Act of 1990 (ADA),
+
+104Stat.
+327,
+
+42 U. S. C. §12101 et seq.
+
+															*
+
+															From ages 9 through 20, Miguel Luna Perez attended schools in Michigan’s Sturgis Public School District (Sturgis).  Because Mr. Perez is deaf, Sturgis provided him with aides to translate classroom instruction into sign language.  For years, Mr. Perez and his parents allege, Sturgis assigned aides who were either unqualified (including one who attempted to teach herself sign language) or absent from the classroom for hours on end.  Along the way, Sturgis allegedly misrepresented Mr. Perez’s educational progress too, awarding him inflated grades and advancing him from grade to grade regardless of his progress.  Based on Sturgis’s misrepresentations, Mr. Perez and his parents say, they believed he was on track to graduate from high school with his class.  But then, months before graduation, Sturgis revealed that it would not award him a diploma.
+
+															In response to these developments, Mr. Perez and his family filed a complaint with the Michigan Department of Education.  They alleged that Sturgis had failed its duties under IDEA and other laws.  App. 16–45.  Shortly before an administrative hearing, the parties reached a settlement.  Under its terms, Sturgis promised to provide Mr. Perez all the forward-looking equitable relief he sought, including additional schooling at the Michigan School for the Deaf.
+
+															After settling his administrative complaint, Mr. Perez filed a lawsuit in federal district court under the ADA seeking backward-looking relief in the form of compensatory damages.  Id., at 56–57.  That complaint drew a motion to dismiss from Sturgis.  The school district argued that a provision in IDEA,
+
+20 U. S. C. §1415(l), barred Mr. Perez from bringing an ADA claim without first exhausting all of IDEA’s administrative dispute resolution procedures.  Ultimately, the district court agreed with Sturgis and dismissed the suit.  Perez ex rel. Perez v. Sturgis Public Schools, 2019 WL 6907138, *3–*4 (WD Mich. Dec. 19, 2019).  Bound by circuit precedent already addressing the question, the Sixth Circuit affirmed.  Perez v. Sturgis Public Schools, 3 F. 4th 236, 241 (2021) (citing Covington v. Knox Cty. School System, 205 F.3d 912, 916–917 (CA6 2000)).
+
+															Whether §1415(l) bars lawsuits like ours holds consequences not just for Mr. Perez but for a great many children with disabilities and their parents.  Because our colleagues on the courts of appeals have disagreed about how best to read the statute, we agreed to take up the question.  Compare Perez, 3 F. 4th, at 241–242; McMillen v. New Caney Independent School Dist., 939 F.3d 640, 647–648 (CA5 2019), with D. D. ex rel. Ingram v. Los Angeles Unified School Dist., 18 F. 4th 1043, 1059–1061 (CA9 2021) (Bumatay, J., concurring in part and dissenting in part); Doucette v. Georgetown Public Schools, 936 F.3d 16, 31 (CA1 2019).
+
+															*
+
+															Section 1415(l) contains two salient features.  First, the statute sets forth this general rule:  “Nothing in [IDEA] shall be construed to restrict” the ability of individuals to seek “remedies” under the ADA or “other Federal laws protecting the rights of children with disabilities.”  Second, the statute offers a qualification, prohibiting certain suits with this language:  “[E]xcept that before the filing of a civil action under such [other federal] laws seeking relief that is also available under this subchapter, the procedures under subsections (f) and (g) shall be exhausted.”  In turn, subsections (f) and (g) provide affected children and their parents with the right to a “due process hearing” before a local or state administrative official, §1415(f)(1)(A), followed by an “appeal” to the state education agency, §1415(g)(1).
+
+															The parties offer very different interpretations of §1415(l).  Mr. Perez reads the statute to require a plaintiff to exhaust the administrative processes found in subsections (f) and (g) only to the extent he pursues a suit under another federal law for remedies IDEA also provides.  None of this, Mr. Perez contends, forecloses his current claim because his ADA complaint seeks only compensatory damages, a remedy everyone before us agrees IDEA cannot supply.  By contrast, Sturgis reads §1415(l) as requiring a plaintiff to exhaust subsections (f) and (g) before he may pursue a suit under another federal law if that suit seeks relief for the same underlying harm IDEA exists to address.  On this view, the law bars Mr. Perez’s ADA suit because it seeks relief for harms flowing from Sturgis’s alleged past shortcomings in providing a free and appropriate public education—a harm IDEA exists to address—and Mr. Perez chose to settle his administrative complaint rather than exhaust §1415(f) and (g)’s remedial processes.
+
+															If both views are plausible ones, we believe Mr. Perez’s better comports with the statute’s terms.  Start with §1415(l)’s first clause.  It focuses our attention on “remedies.”  A “remedy” denotes “the means of enforcing a right,” and may come in the form of, say, money damages, an injunction, or a declaratory judgment.  Black’s Law Dictionary 1320 (8th ed. 2004); see also 13 Oxford English Dictionary 584–585 (2d ed. 1991) (defining “remedy” as “[l]egal redress”).  The statute then proceeds to instruct that “[n]othing” in IDEA shall be construed as “restrict[ing] or limit[ing]” the availability of any of these things “under” other federal statutes like the ADA.
+
+															Of course, §1415(l) carves out an exception to this rule.  The second clause bars individuals from “seeking relief” under other federal laws unless they first exhaust “the procedures under subsections (f) and (g).”  But, by its terms, this limiting language does not apply to all suits seeking relief that other federal laws provide.  The statute’s administrative exhaustion requirement applies only to suits that “see[k] relief . . . also available under” IDEA.  And that condition simply is not met in situations like ours, where a plaintiff brings a suit under another federal law for compensatory damages—a form of relief everyone agrees IDEA does not provide.
+
+															Admittedly, our interpretation treats “remedies” (the key term in the first clause) as synonymous with the “relief” a plaintiff “seek[s]” (the critical phrase found in the second clause).  But a number of contextual clues persuade us that is exactly how an ordinary reader would understand this particular provision.  Not only does §1415(l) begin by directing a reader to the subject of remedies, offering first a general and then a qualifying rule on the subject.  In at least two other places, IDEA treats “remedies” and “relief” as synonyms, and we cannot conceive a persuasive reason why the statute would operate differently only here.  Section 1415(i)(2)(C)(iii) directs courts in IDEA cases to “grant such relief as the court determines is appropriate.”  (Emphasis added.)  That statutory instruction, we have said, authorizes courts to grant “as an available remedy” the “reimbursement” of past educational expenses.  School Comm. of Burlington v. Department of Ed. of Mass.,
+
+471 U.S. 359, 369–370 (1985) (emphasis added).  Elsewhere, IDEA sometimes bars those who reject a school district’s settlement offer from recovering attorney’s fees for later work if “the relief finally obtained . . . is not more favorable . . . than the offer.”  §1415(i)(3)(D)(i)(III) (emphasis added).  Once more, relief means remedy.
+
+															Nor is IDEA particularly unusual in treating remedies and relief as synonyms.  Other provisions in the U. S. Code do too.  By way of example,
+
+18 U. S. C. §3626(d) provides that “[t]he limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law.”  (Emphases added.)  Likewise,
+
+28 U. S. C. §3306(a)(2)–(3) indicate that “the United States . . . may obtain . . . a remedy under this chapter . . . or . . . any other relief the circumstances may require.”  (Emphases added.)
+
+															Influencing our thinking as well is the fact that the second clause in §1415(l) refers to claims “seeking relief” available under IDEA.  To “seek” is “[t]o ask for” or “request.”  14 Oxford English Dictionary, at 877.  And often enough the phrase “seeking relief” or some variant of it is used in the law to refer to the remedies a plaintiff requests.  Under the Federal Rules of Civil Procedure, for example, a plaintiff’s complaint must include a list of requested remedies, or what the law calls “a demand for the relief sought.”  Fed. Rule Civ. Proc. 8(a)(3) (emphasis added); see also Fed. Rule Civ. Proc. 54(c) (similar).  Many of our opinions as well similarly speak of the “relief” a plaintiff “seeks” as the remedies he requests.  See, e.g., South Carolina v. North Carolina,
+
+558 U.S. 256, 260 (2010) (describing the “relief” South Carolina “seeks” as the remedies demanded in its “Prayer for Relief”); New York State Rifle & Pistol Assn., Inc. v. City of New York, 590 U. S. ___, ___ (2020) (per curiam) (slip op., at 1) (describing “the precise relief that petitioners requested in the prayer” as two remedies, a declaration and an injunction); Bowen v. Massachusetts,
+
+487 U.S. 879, 893 (1988) (discussing
+
+5 U. S. C. §702’s reference to an “action . . . seeking relief other than money damages”).
+
+															Faced with all this, Sturgis replies that, whatever the merits of our interpretation, precedent forecloses it.  Brief for Respondents 19–20, 26–27.  Specifically, the school district points to Fry v. Napoleon Community Schools,
+
+580 U.S. 154 (2017).  But the Court in Fry went out of its way to reserve rather than decide the question we now face.  See id., at 165, n. 4; id., at 168, n. 8.  And what the Court did say in Fry about the question presented there hardly advances the school district’s cause here.  In Fry, the Court held that §1415(l)’s exhaustion requirement does not apply unless the plaintiff “seeks relief for the denial of” a free and appropriate public education “because that is the only ‘relief’ ” IDEA’s administrative processes can supply.  Id., at 165, 168.  This case presents an analogous but different question—whether a suit admittedly premised on the past denial of a free and appropriate education may nonetheless proceed without exhausting IDEA’s administrative processes if the remedy a plaintiff seeks is not one IDEA provides.  In both cases, the question is whether a plaintiff must exhaust administrative processes under IDEA that cannot supply what he seeks.  And here, as in Fry, we answer in the negative.
+
+															Failing all else, Sturgis closes with an appeal to congressional purpose.  Brief for Respondents 22–24.  The school district worries that our understanding of §1415(l) would frustrate Congress’s wish to route claims about educational services to administrative agencies with “ ‘special expertise’ ” in such matters.  Id., at 22.  But “it is . . . our job to apply faithfully the law Congress has written,” and “ ‘[w]e cannot replace the actual text with speculation as to Congress’ intent.’ ”  Henson v. Santander Consumer USA Inc.,
+
+582 U.S. 79, 89 (2017) (quoting Magwood v. Patterson,
+
+561 U.S. 320, 334 (2010)).  Even on its own terms, it is unclear what the school district’s argument proves.  Either interpretation of §1415(l) operates to preclude some unexhausted claims.  Under our view, for example, a plaintiff who files an ADA action seeking both damages and the sort of equitable relief IDEA provides may find his request for equitable relief barred or deferred if he has yet to exhaust §1415(f) and (g).  Brief for United States as Amicus Curiae 22.  It is “quite mistaken to assume,” too, that any interpretation of a law that does more to advance a statute’s putative goal “must be the law.”  Henson, 582 U. S., at 89.  Laws are the product of “compromise,” and no law “ ‘pursues its . . . purpose[s] at all costs.’ ”  Ibid.  And it isn’t exactly difficult to imagine that a rational Congress might have sought to temper a demand for administrative exhaustion when a plaintiff seeks a remedy IDEA can supply with a rule excusing exhaustion when a plaintiff seeks a remedy IDEA cannot provide.
+
+															*
+
+															The parties pose a number of additional questions they would like us to answer—including whether IDEA’s exhaustion requirement is susceptible to a judge-made futility exception and whether the compensatory damages Mr. Perez seeks in his ADA suit are in fact available under that statute.  But today, we have no occasion to address any of those things.  In proceedings below, the courts held that §1415(l) precluded Mr. Perez’s ADA lawsuit.  We clarify that nothing in that provision bars his way.  The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															So ordered.
+													

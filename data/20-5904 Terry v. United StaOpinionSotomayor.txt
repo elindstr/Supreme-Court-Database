@@ -1,0 +1,93 @@
+::SCDB_caseID:: 2020-066
+::decision_cite:: 20-5904
+::decision_name::  Terry v. United States
+::decision_year:: 2021
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20– 5904
+
+															_________________
+
+															TARAHRICK TERRY, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 14, 2021]
+
+															Justice Sotomayor, concurring in part and concurring in the judgment.
+
+															I agree with the Court’s interpretation of the First Step Act, join Part II of its opinion, and concur in the judgment.[1]  I write separately to clarify the consequences of today’s decision.  While the Fair Sentencing Act of 2010 and First Step Act of 2018 brought us a long way toward eradicating the vestiges of the 100-to-1 crack-to-powder disparity, some people have been left behind.  
+
+															Among them are people like petitioner Tarahrick Terry, who was convicted under
+
+21 U. S. C. §841(b)(1)(C) for possessing with intent to distribute a small amount of crack cocaine and was sentenced as a career offender.  If Terry had been convicted under §841(b)(1)(A) or §841(b)(1)(B), which require larger quantities of drugs, he would be eligible for resentencing under the First Step Act (even if sentenced as a career offender).  Similarly, despite being convicted under subparagraph (C), if Terry’s Sentencing Guidelines range had been calculated like that of a noncareer offender, he would have been eligible for a sentence reduction when the United States Sentencing Commission retroactively reduced the amount of crack cocaine necessary to trigger higher Guidelines ranges.  But because Terry was both convicted under subparagraph (C) and sentenced as a career offender, he has never had a chance to ask for a sentence that reflects today’s understanding of the lesser severity of his crime.  Absent action from the political branches, he never will.
+
+															I
+
+															Section 841(b) provides three tiers of statutory “[p]enalties” for federal drug offenses under §841(a).  As a baseline, §841(b)(1)(C) specifies a maximum penalty of 20 years imprisonment, with no mandatory minimum.  Sections 841(b)(1)(A) and (B) then authorize enhanced penalty ranges, including mandatory minimums, for those dealing in higher quantities of narcotics.
+
+															As enacted in 1986, §841(b) created a 100-to-1 ratio between the amounts of powder and crack cocaine necessary to trigger the mandatory minimums in §§841(b)(1)(A) and (B).  Subparagraph (A)’s 10-year minimum was triggered by 5,000 grams of powder cocaine (about the weight of a gallon of paint), but only 50 grams of crack cocaine (about half a stick of butter).  Subparagraph (B)’s 5-year minimum required 500 grams of powder (heavier than a football) but just five grams of crack (the weight of a nickel).
+
+															The United States Sentencing Commission (USSC) incorporated the 100-to-1 ratio into the Sentencing Guidelines.  The Guidelines include a “Drug Quantity Table,” which sets “base offense level[s]” that correspond to various ranges of weights for each drug type.  USSC, Guidelines Manual §2D1.1 (Nov. 2018) (USSG).  A defendant’s base offense level, together with his criminal history, determines the “Guidelines range” of sentences.  The more drugs possessed, the higher the base offense level, and the higher the Guidelines range.  Because the drug quantity tables are keyed to the statutory minimums, selling a given weight of crack cocaine would lead to the same base offense level as selling 100 times as much powder cocaine.  Street-level crack dealers could thus receive significantly longer sentences than wholesale importers of powder cocaine.  
+
+															Under the 1986 law, crack cocaine sentences were about 50 percent longer than those for powder cocaine.  USSC, Report to the Congress: Cocaine and Federal Sentencing Policy 13 (May 2007) (2007 Report).  Black people bore the brunt of this disparity.  Around 80 to 90 percent of those convicted of crack offenses between 1992 and 2006 were Black, while Black people made up only around 30 percent of powder cocaine offenders in those same years.  Id., at 16.  
+
+															There was no meaningful policy justification for such unequal sentences.  The 100-to-1 ratio “rested on assumptions about the relative harmfulness of the two drugs and the relative prevalence of certain harmful conduct associated with their use and distribution that . . . research and data no longer support.”  Kimbrough v. United States,
+
+552 U.S. 85, 97 (2007) (internal quotation marks omitted).  This was obvious to the public, which came “to understand sentences embodying the 100-to-1 ratio as reflecting unjustified race-based differences.”  Dorsey v. United States,
+
+567 U.S. 260, 268 (2012).
+
+															The Sentencing Commission published detailed reports in 1995, 1997, 2002, and 2007 asking Congress to reduce the disparity, which it found to be unjustified standing alone, and particularly unjustified in light of its disparate impact.  See Kimbrough, 552 U. S., at 97–100.  Each report “unanimously and strongly urge[d] Congress to act promptly” to “[i]ncrease the five-year and ten-year statutory mandatory minimum threshold quantities for crack cocaine offenses.”  2007 Report 8.
+
+															II
+
+															Congress eventually responded with the Fair Sentencing Act of 2010.
+
+124Stat.
+2372.  Section 2 of the Act increased the amounts of crack cocaine necessary to trigger minimum sentences, reducing the crack-to-powder ratio to 18 to 1.  §2(a), ibid.  The Sentencing Commission, in turn, quickly revised the drug quantity tables to reflect that new ratio.  USSG App. C, Amdt. 748 (Nov. 2010).  It later made those amendments retroactive, thus making reduced sentences available to thousands of crack offenders who were serving prison sentences based on unduly high Guidelines ranges.  USSG App. C, Amdt. 759 (Nov. 2011). 
+
+															These amendments, however, had two principal shortcomings.  First, the Fair Sentencing Act’s changes to the mandatory minimums were not retroactive.  Even if an offender’s new Guidelines range was below the applicable minimum, the court could go no lower.  Second, not all offenders could move for reduced sentences.  Such motions are available only to individuals whose original sentences were “based on a sentencing range that has subsequently been lowered by the Sentencing Commission.”
+
+18 U. S. C. §3582(c)(2).  Offenders whose Guidelines ranges were not based on the drug quantity tables were ineligible, even if the 100-to-1 ratio clearly affected their actual sentence.
+
+															Take so-called “career offenders” like Terry.  A defendant is a career offender if he commits a felony “controlled substance offense” or “crime of violence” when he is over 18 and when he already has two prior such felony convictions.  USSG §4B1.1(a).  The offense level for career offenders is based on the statutory maximum for their crime of conviction, not the drug quantity tables.  USSG §4B1.1(b).  
+
+															Terry possessed just 3.9 grams of crack.  His Guidelines range would normally have been about three to four years.  But Terry was sentenced as a career offender because of two prior drug convictions committed when he was a teenager and for which he spent a total of only 120 days in jail.  That enhancement caused Terry’s Guidelines range to skyrocket to about 15 to 20 years.  He received a sentence of 188 months (at the bottom of the Guidelines range).  Because the Fair Sentencing Act and the following Guidelines amendments did not change their Guidelines ranges, career offenders like Terry were categorically ineligible for relief, regardless of the severity or circumstances of their crimes.
+
+															Career offenders were not, however, free from the harsh effects of the 100-to-1 ratio.  Prior to applying the career offender enhancement, district courts still calculated the offender’s base offense level using the drug quantity tables.  That preenhancement base offense level is a significant indicator of an offense’s gravity, and thus of the sentence it merits.  A career offender with a higher base offense level closer to the statutory minimum would likely receive a harsher punishment than one with a lower base offense level further from the minimum.  
+
+															In some cases, the 100-to-1 ratio played an even more direct role.  Especially for less serious offenders, courts sometimes entirely departed from the career offender Guidelines and instead sentenced defendants based on the more lenient drug quantity tables.[2]  But offenders were only eligible for sentence reductions if retroactive amendments changed their Guidelines range as “determined before consideration of any departure . . . or any variance.”  USSG §1B1.10, comment., n. 1(A).  Hence, even career offenders whose sentences were based expressly on the 100-to-1 ratio in the drug quantity tables could not obtain reduced sentences when that ratio was retroactively lowered.
+
+															The law’s assessment of these offenders’ culpability radically changed with the Fair Sentencing Act.  For example, Terry’s 3.9 grams of crack cocaine (less than the weight of four paperclips) led to a preenhancement base offense level of 20 and was just shy of the five grams that triggered a 5-year mandatory minimum.  He would have received the same base offense level for selling 390 grams of powder cocaine (about the weight of a full can of soda).  After the Guidelines amendments, those 3.9 grams are nowhere near the 28 grams that now trigger the mandatory minimum, and his preenhancement base offense level would be just 16, the same as for selling 70 grams of powder cocaine (about the weight of two lightbulbs).  His preenhancement Guidelines range dropped from 41 to 51 months to 27 to 33 months.  In short, the law now treats Terry’s offense as a far less serious crime.
+
+															The career offender Guidelines, like all the Guidelines, are merely advisory.  See United States v. Booker,
+
+543 U.S. 220, 246 (2005).  Terry possessed a very small amount of crack cocaine, and he was a teenager when he committed the two prior drug offenses that made him a career offender.  Free of the arbitrary influence of the 100-to-1 ratio, he would be a much stronger candidate for a downward departure.
+
+															III
+
+															The First Step Act of 2018 partially filled the gaps left by the Fair Sentencing Act.  As the Court explains, everyone with a pre-August 3, 2010, crack conviction under §841(b)(1)(A) or §841(b)(1)(B), including career offenders, has a “covered offense” and is eligible for resentencing.  This corrects the Fair Sentencing Act’s first shortcoming, as individuals who would not be subject to the same minimums today can now seek resentencing without those floors.
+
+															But, as the Court also explains, no one convicted under §841(b)(1)(C) has a covered offense.  The First Step Act therefore only partly addresses the Fair Sentencing Act’s second shortcoming.  While career offenders convicted under subparagraph (A) or subparagraph (B) can now seek resentencing, that door remains closed to career offenders convicted under subparagraph (C).
+
+															This is no small injustice.  Career offenders made up more than half of the 2,387 defendants who obtained retroactive sentence reductions in just the first year of the First Step Act’s implementation.  USSC, The First Step Act of 2018: One Year of Implementation 44 (Aug. 2020).  In part because there were so many career offenders who were previously ineligible, the average sentence reduction under the First Step Act was almost six years.  Id., at 43.  
+
+															Between 2005 and 2010, around 15 percent of offenders who possessed less than five grams of crack were sentenced as career offenders.  USSC, Report to Congress: Impact of the Fair Sentencing Act of 2010, p. A–32 (Aug. 2015).  In courts that permitted their motions before today’s decision, many such offenders obtained dramatically lower sentences after the First Step Act.  See App. to Reply Brief 1a–2a (collecting cases).  “Decisions like these, from courts that have actually had to apply the statute, demonstrate that the Fair Sentencing Act amendments have a meaningful effect on the sentences that defendants receive under §841(b)— including for defendants sentenced under subsection (b)(1)(C)” as career offenders.  Brief for Retired Federal Judges et al. as Amici Curiae 15.
+
+															There is no apparent reason that career offenders sentenced under subparagraph (C) should be left to serve out sentences that were unduly influenced by the 100-to-1 ratio.  Indeed, the bipartisan lead sponsors of the First Step Act have urged this Court to hold that the Act “makes retroactive relief broadly available to all individuals sentenced for crack-cocaine offenses before the Fair Sentencing Act.”  Brief for Sen. Richard Durbin et al. as Amici Curiae 11.  Unfortunately, the text will not bear that reading.  Fortunately, Congress has numerous tools to right this injustice.
+Notes
+1
+ I do not join Part I of the Court’s opinion because it includes an unnecessary, incomplete, and sanitized history of the 100-to-1 ratio.  The full history is far less benign.  The Court, ante, at 2, n. 2, emphasizes Black leaders’ support for “tough-on-crime” policies, but ignores that these leaders “also called for federal investment in longer-term, root-cause solutions such as welfare, education, and job training programs.”  J. Forman, Locking Up Our Own 157 (2017) (Forman).  But “[t]he help never arrived,” leaving Black communities with “just the tough-on-crime laws” and little else.  Id., at 12.  Nor does the Court mention that the “ ‘careful deliberative practices of the Congress were set aside’ ” for the 1986 omnibus crime bill that included the 100-to-1 ratio, as part of a “rush to pass dramatic drug legislation before the midterm elections.”  Sklansky, Cocaine, Race, and Equal Protection, 47 Stan. L. Rev. 1283, 1294, and n. 55 (1996) (Sklansky).  Indeed, the “legislative history offers no explanation for the selection of a ratio of 100:1,” save that it “was the highest ratio proposed.”  Id., at 1297.  There is, by contrast, an extensive record of race-based myths about crack cocaine that the media “branded onto the public mind and the minds of legislators,” United States v. Clary, 846 F. Supp. 768, 783 (ED Mo. 1994), and that appear in the Congressional Record, see Sklansky 1291–1295, and nn. 49–60.  Most egregiously, the Court barely references the ratio’s real-world impact (discussed infra, at 3–4), and disregards the fact that, “as the racial effects of mandatory minimums and the crack/cocaine disparity became apparent, the [Congressional Black Caucus] came together in unanimous and increasingly vocal opposition to the law.”  Forman 205.  Bills to mitigate the disparity were introduced almost every year from 1993 to 2009.  Yet Congress did nothing until 2010. 
+
+2
+ This practice was common enough to give rise to a split among the Courts of Appeals over whether such offenders were eligible for sentence reductions.  See, e.g., United States v. Munn, 595 F.3d 183, 194–195 (CA4 2010); United States v. Sharkey, 543 F.3d 1236, 1239 (CA10 2008). 
+
+

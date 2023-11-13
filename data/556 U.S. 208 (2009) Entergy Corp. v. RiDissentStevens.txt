@@ -1,0 +1,179 @@
+::SCDB_caseID:: 2008-040
+::decision_cite:: 556 U.S. 208 (2009)
+::decision_name::  Entergy Corp. v. Riverkeeper, Inc.
+::decision_year:: 2009
+::opinion_author:: Stevens
+::opinion_type:: Dissent
+::opinion:: 
+
+
+STEVENS, J., DISSENTING
+ENTERGY CORP. V. RIVERKEEPER, INC.
+556 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NOS. 07-588, 07-589 AND 07-597
+
+
+
+
+
+															
+ENTERGY CORPORATION, PETITIONER
+
+															
+07–588   v.
+
+															
+RIVERKEEPER, INC., et al.
+
+															
+PSEG FOSSIL LLC, et al., PETITIONERS
+
+															
+07–589   v.
+
+															
+RIVERKEEPER, INC., et al.
+
+															
+UTILITY WATER ACT GROUP, PETITIONER
+
+															
+07–597   v.
+
+															
+RIVERKEEPER, INC., et al.
+
+															on writs of certiorari to the united states court of appeals for the second circuit
+
+															[April 1, 2009]
+
+
+
+															   Justice Stevens, with whom Justice Souter and Justice Ginsburg join, dissenting.
+
+															
+   Section 316(b) of the Clean Water Act (CWA), 33 U. S. C. §1326(b), which governs industrial powerplant water intake structures, provides that the Environmental Protection Agency (EPA or Agency) “shall require” that such structures “reflect the best technology available for minimizing adverse environmental impact.”  The EPA has interpreted that mandate to authorize the use of cost-benefit analysis in promulgating regulations under §316(b).  For instance, under the Agency’s interpretation, technology that would otherwise qualify as the best available need not be used if its costs are “significantly greater than the benefits” of compliance.  40 CFR §125.94(a)(5)(ii) (2008).
+
+															
+
+   Like the Court of Appeals, I am convinced that the EPA has misinterpreted the plain text of §316(b).  Unless costs are so high that the best technology is not “available,” Congress has decided that they are outweighed by the benefits of minimizing adverse environmental impact.  Section 316(b) neither expressly nor implicitly authorizes the EPA to use cost-benefit analysis when setting regulatory standards; fairly read, it prohibits such use.
+
+															I
+
+															
+   As typically performed by the EPA, cost-benefit analysis requires the Agency to first monetize the costs and benefits of a regulation, balance the results, and then choose the regulation with the greatest net benefits.  The process is particularly controversial in the environmental context in which a regulation’s financial costs are often more obvious and easier to quantify than its environmental benefits.  And cost-benefit analysis often, if not always, yields a result that does not maximize environmental protection.
+
+															   For instance, although the EPA estimated that water intake structures kill 3.4 billion fish and shellfish each year,[Footnote 1] see 69 Fed. Reg. 41586, the Agency struggled to calculate the value of the aquatic life that would be protected under its §316(b) regulations, id., at 41661.  To compensate, the EPA took a shortcut: Instead of monetizing all aquatic life, the Agency counted only those species that are commercially or recreationally harvested, a tiny slice (1.8 percent to be precise) of all impacted fish and shellfish.  This narrow focus in turn skewed the Agency’s calculation of benefits.  When the EPA attempted to value all aquatic life, the benefits measured $735 million.[Footnote 2]  But when the EPA decided to give zero value to the 98.2 percent of fish not commercially or recreationally harvested, the benefits calculation dropped dramatically—to $83 million.  Id., at 41666.  The Agency acknowledged that its failure to monetize the other 98.2 percent of affected species “ ‘could result in serious misallocation of resources,’ ” id., at 41660, because its “comparison of complete costs and incomplete benefits does not provide an accurate picture of net benefits to society.”[Footnote 3]
+
+															
+
+   Because benefits can be more accurately monetized in some industries than in others, Congress typically decides whether it is appropriate for an agency to use cost-benefit analysis in crafting regulations.  Indeed, this Court has recognized that “[w]hen Congress has intended that an agency engage in cost-benefit analysis, it has clearly indicated such intent on the face of the statute.”  American Textile Mfrs. Institute, Inc. v. Donovan, 452 U. S. 490, 510 (1981).  Accordingly, we should not treat a provision’s silence as an implicit source of cost-benefit authority, particularly when such authority is elsewhere expressly granted and it has the potential to fundamentally alter an agency’s approach to regulation.  Congress, we have noted, “does not alter the fundamental details of a regulatory scheme in vague terms or ancillary provisions—it does not, one might say, hide elephants in mouseholes.”  Whitman v. American Trucking Assns., Inc., 531 U. S. 457, 467–468 (2001).
+
+															
+
+   When interpreting statutory silence in the past, we have sought guidance from a statute’s other provisions.  Evidence that Congress confronted an issue in some parts of a statute, while leaving it unaddressed in others, can demonstrate that Congress meant its silence to be decisive.  We concluded as much in American Trucking.  In that case, the Court reviewed the EPA’s claim that §109 of the Clean Air Act (CAA), 42 U. S. C. §7409(a) (2000 ed.), authorized the Agency to consider implementation costs in setting ambient air quality standards.  We read §109, which was silent on the matter, to prohibit Agency reliance on cost considerations.  After examining other provisions in which Congress had given the Agency authority to consider costs, the Court “refused to find implicit in ambiguous sections of the CAA an authorization to consider costs that has elsewhere, and so often, been expressly granted.”  531 U. S., at 467.  Studied silence, we thus concluded, can be as much a prohibition as an explicit “no.”
+
+															
+
+   Further motivating the Court in American Trucking was the fact that incorporating implementation costs into the Agency’s calculus risked countermanding Congress’ decision to protect public health.  The cost of implementation, we said, “is both so indirectly related to public health and so full of potential for canceling the conclusions drawn from direct health effects that it would surely have been expressly mentioned in [the text] had Congress meant it to be considered.”  Id., at 469.
+
+															
+
+   American Trucking’s approach should have guided the Court’s reading of §316(b).  Nowhere in the text of §316(b) does Congress explicitly authorize the use of cost-benefit analysis as it does elsewhere in the CWA.  And the use of cost-benefit analysis, like the consideration of implementation costs in American Trucking, “pad[s]” §316(b)’s environmental mandate with tangential economic efficiency concerns.  Id., at 468.  Yet the majority fails to follow American Trucking despite that case’s obvious relevance to our inquiry.
+
+															II
+
+															
+   In 1972, Congress amended the CWA to strike a careful balance between the country’s energy demands and its desire to protect the environment.  The Act required industry to adopt increasingly advanced technology capable of mitigating its detrimental environmental impact.  Not all point sources were subject to strict rules at once.  Existing plants were granted time to retrofit with the best technology while new plants were required to incorporate such technology as a matter of design.  Although Congress realized that technology standards would necessarily put some firms out of business, see EPA v. National Crushed Stone Assn., 449 U. S. 64, 79 (1980), the statute’s steady march was toward stricter rules and potentially higher costs.
+
+															   Section §316(b) was an integral part of the statutory scheme.  The provision instructs that “[a]ny standard established pursuant to section 1311 of this title or section 1316 of this title and applicable to a point source shall require that the location, design, construction, and capacity of cooling water intake structures reflect the best technology available for minimizing adverse environmental impact.”  33 U. S. C. §1326(b) (2006 ed.) (emphasis added).[Footnote 4]  The “best technology available,” or “BTA,” standard delivers a clear command: To minimize the adverse environmental impact of water intake structures, the
+EPA must require industry to adopt the best technology available.
+
+															
+
+   Based largely on the observation that §316(b)’s text offers little guidance and therefore delegates some amount of gap-filling authority to the EPA, the Court concludes that the Agency has discretion to rely on cost-benefit analysis.  See ante, at 11–12. The Court assumes that, by not specifying how the EPA is to determine BTA, Congress intended to give considerable discretion to the EPA to decide how to proceed.  Silence, in the majority’s view, represents ambiguity and an invitation for the Agency to decide for itself which factors should govern its regulatory approach.
+
+															
+
+   The appropriate analysis requires full consideration of the CWA’s structure and legislative history to determine whether Congress contemplated cost-benefit analysis and, if so, under what circumstances it directed the EPA to utilize it.  This approach reveals that Congress granted the EPA authority to use cost-benefit analysis in some contexts but not others, and that Congress intend to control, not delegate, when cost-benefit analysis should be used.  See Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837, 842–843 (1984).[Footnote 5]
+
+															
+
+   Powerful evidence of Congress’ decision not to authorize cost-benefit analysis in the BTA standard lies in the series of standards adopted to regulate the outflow, or effluent, from industrial powerplants.  Passed at the same time as the BTA standard at issue here, the effluent limitation standards imposed increasingly strict technology requirements on industry.  In each effluent limitation provision, Congress distinguished its willingness to allow the EPA to consider costs from its willingness to allow the Agency to conduct a cost-benefit analysis.  And to the extent Congress permitted cost-benefit analysis, its use was intended to be temporary and exceptional.
+
+															
+
+   The first tier of technology standards applied to existing plants—facilities for which retrofitting would be particularly costly.  Congress required these plants to adopt “effluent limitations … which shall require the application of the best practicable control technology currently available.”  33 U. S. C. §1311(b)(1)(A).  Because this “best practicable,” or “BPT,” standard was meant to ease industry’s transition to the new technology-based regime, Congress gave BPT two unique features: First, it would be temporary, remaining in effect only until July 1, 1983.[Footnote 6]  Second, it specified that the EPA was to conduct a cost-benefit analysis in setting BPT requirements by considering “the total cost of application of technology in relation to the effluent reduction benefits to be achieved from such application.”[Footnote 7]  §1314(b)(1)(B).  Permitting cost-benefit analysis in BPT gave the EPA the ability to cushion the new technology requirement.  For a limited time, a technology with costs that exceeded its benefits would not be considered “best.”
+
+															
+
+   The second tier of technology standards required existing powerplants to adopt the “best available technology economically achievable” to advance “the national goal of eliminating the discharge of all pollutants.”  §1311(b)(2)(A).  In setting this “best available technology,” or “BAT,”[Footnote 8] standard, Congress gave the EPA a notably different command for deciding what technology would qualify as “best”: The EPA was to consider, among other factors, “the cost of achieving such effluent reduction,” but Congress did not grant it authority to balance costs with the benefits of stricter regulation.  §1314(b)(2)(B).  Indeed, in Crushed Stone this Court explained that the difference between BPT and BAT was the existence of cost-benefit authority in the first and the absence of that authority in the second.  See 449 U. S., at 71 (“Similar directions are given the Administrator for determining effluent reductions attainable from the BAT except that in assessing BAT total cost is no longer to be considered in comparison to effluent reduction benefits”).
+
+															
+
+   The BAT standard’s legislative history strongly supports the view that Congress purposefully withheld cost-benefit authority for this tier of regulation.  See ibid., n. 10.  The House of Representatives and the Senate split over the role cost-benefit analysis would play in the BAT provision.  The House favored the tool, see H. R. Rep. No. 92–911, p. 107 (1972), 1 Leg. Hist. 794, while the Senate rejected it, see 2 id., at 1183; id., at 1132.  The Senate view ultimately prevailed in the final legislation, resulting in a BAT standard that was “not subject to any test of cost in relation to effluent reduction benefits or any form of cost/benefit analysis.”  3 Legislative History of the Clean Water Act of 1977: A Continuation of the Legislative History of the Federal Water Pollution Control Act (Committee Print compiled for the Senate Committee on Environment and Public Works by the Library of Congress), Ser. No. 95–14, p. 427 (1978).
+
+															
+
+   The third and strictest regulatory tier was reserved for new point sources—facilities that could incorporate technology improvements into their initial design.  These new facilities were required to adopt “the best available demonstrated control technology,” or “BADT,” which Congress described as “a standard … which reflect[s] the greatest degree of effluent reduction.”  §1316(a)(1).  In administering BADT, Congress directed the EPA to consider “the cost of achieving such effluent reduction.”  §1316(b)(1)(B).  But because BADT was meant to be the most stringent standard of all, Congress made no mention of cost-benefit analysis.  Again, the silence was intentional.  The House’s version of BADT originally contained an exemption for point sources for which “the economic, social, and environmental costs bear no reasonable relationship to the economic, social, and environmental benefit to be obtained.”  1 Leg. Hist. 798.  That this exemption did not appear in the final legislation demonstrates that Congress considered, and rejected, reliance on cost-benefit analysis for BADT.
+
+															
+
+   It is in this light that the BTA standard regulating water intake structures must be viewed.  The use of cost-benefit analysis was a critical component of the CWA’s structure and a key concern in the legislative process.  We should therefore conclude that Congress intended to forbid cost-benefit analysis in one provision of the Act in which it was silent on the matter when it expressly authorized its use in another.[Footnote 9]  See, e.g., Allison Engine Co. v. United States ex rel. Sanders, 553 U. S. ___, ___ (2008) (slip op., at 7–8); Russello v. United States, 464 U. S. 16, 23 (1983) (“[W]here Congress includes particular language in one section of a statute but omits it in another … , it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion” (internal quotation marks omitted)).  This is particularly true given Congress’ decision that cost-benefit analysis would play a temporary and exceptional role in the CWA to help existing plants transition to the Act’s ambitious environmental standards.[Footnote 10]  Allowing cost-benefit analysis in the BTA standard, a permanent mandate applicable to all powerplants, serves no such purpose and instead fundamentally weakens the provision’s mandate.[Footnote 11]
+
+															
+
+   Accordingly, I would hold that the EPA is without authority to perform cost-benefit analysis in setting BTA standards.  To the extent the EPA relied on cost-benefit analysis in establishing its BTA regulations,[Footnote 12] that action was contrary to law, for Congress directly foreclosed such reliance in the statute itself.[Footnote 13]  Chevron, 467 U. S., at 843.  Because we granted certiorari to decide only whether the EPA has authority to conduct cost-benefit analysis, there is no need to define the universe of considerations upon which the EPA can properly rely in administering the BTA standard.  I would leave it to the Agency to decide how to proceed in the first instance.
+
+															III
+
+															
+   Because the Court unsettles the scheme Congress established, I respectfully dissent.
+
+Footnote 1
+															 To produce energy, industrial powerplants withdraw billions of
+gallons of water daily from our Nation’s waterways.  Thermo-
+electric powerplants alone demand 39 percent of all freshwater withdrawn nationwide.  See Dept. of Energy, Addressing the Critical
+Link Between Fossil Energy and Water 2 (Oct. 2005), http://
+www.netl.doe.gov/technologies/coalpower/ewr/pubs/NETL_Water_Paper_Final_Oct.2005.pdf (all Internet materials as visited Mar. 18, 2009, and available in Clerk of Court’s case file).  The fish and shellfish are killed by “impingement” or “entrainment.”  Impingement occurs when aquatic organisms are trapped against the screens and grills of water intake structures.  Entrainment occurs when these organisms are drawn into the intake structures.  See Riverkeeper, Inc. v. EPA, 475 F. 3d 83, 89 (CA2 2007); 69 Fed. Reg. 41586 (2004).
+
+Footnote 2
+															 EPA, Economic and Benefits Analysis for the Proposed Section 316(b) Phase II Existing Facilities Rule, p. D1–4 (EPA–821–R–02–001, Feb. 2002), http://www.epa.gov/waterscience/316b/phase2/econbenefits.
+
+Footnote 3
+															 EPA, Economic and Benefits Analysis for the Final Section 316(b) Phase II Existing Facilities Rule, p. D1–5 (EPA–821–R–04–005, Feb. 2004), http://www.epa.gov/waterscience/316b/phase2/econbenefits/final.
+htm.
+
+Footnote 4
+															 The two cross-referenced provisions, §§1311 and 1316, also establish “best technology” standards, the first applicable to existing point sources and the second to new facilities.  The reference to these provisions in §316(b) merely requires any rule promulgated under those provisions, when applied to a point source with a water intake structure, to incorporate §316(b) standards.
+
+Footnote 5
+															 The majority announces at the outset that the EPA’s reading of the BTA standard “governs if it is a reasonable interpretation of the statute—not necessarily the only possible interpretation, nor even the interpretation deemed most reasonable by the courts.”  Ante, at 7.  This observation is puzzling in light of the commonly understood practice that, as a first step, we ask “whether Congress has directly spoken to the precise question at issue.”  Chevron, 467 U. S., at 842.  Only later, if Congress’ intent is not clear, do we consider the reasonableness of the agency’s action.  Id., at 843.  Assuming ambiguity and moving to the second step reflects the Court’s reluctance to consider the possibility, which it later laments is “more complex,” ante, at 9, that Congress’ silence may have meant to foreclose cost-benefit analysis.
+
+Footnote 6
+															 Congress later extended the deadline to March 31, 1989.
+
+Footnote 7
+															 Senator Muskie, the Senate sponsor of the legislation, described the cost-benefit analysis permitted under BPT as decidedly narrow, asserting that “[t]he balancing test between total cost and effluent reduction benefits is intended to limit the application of technology only where the additional degree of effluent reduction is wholly out of proportion to the costs of achieving such marginal level of reduction for any class or category of sources.”  1 Legislative History of the Water Pollution Control Act Amendments of 1972 (Committee Print compiled for the Senate Committee on Public Works by the Library of Congress), Ser. No. 93–1, p. 170 (1973) (hereinafter Leg. Hist.)
+
+Footnote 8
+															 Although the majority calls this “BATEA,” the parties refer to the provision as “BAT,” and for simplicity, so will I.
+
+Footnote 9
+															 The Court argues that, if silence in §316(b) signals the prohibition of cost-benefit analysis, it must also foreclose the consideration of all other potentially relevant discretionary factors in setting BTA standards.  Ante, at 12.  This all-or-nothing reasoning rests on the deeply flawed assumption that Congress treated cost-benefit analysis as just one among many factors upon which the EPA could potentially rely to establish BTA.  Yet, as explained above, the structure and legislative history of the CWA demonstrate that Congress viewed cost-benefit analysis with special skepticism and controlled its use accordingly.  The Court’s assumption of equivalence is thus plainly incorrect.  Properly read, Congress’ silence in §316(b) forbids reliance on the cost-benefit tool but does not foreclose reliance on all other considerations, such as a determination whether a technology is so costly that it is not “available” for industry to adopt.     
+
+Footnote 10
+															 In 1977, Congress established an additional technology-based standard, commonly referred to as “best conventional pollutant control technology,” or “BCT,” to govern conventional pollutants previously covered by the BAT standard.  See 33 U. S. C. §1311(b)(2)(E).  The BCT standard required the EPA to consider, among other factors, “the relationship between the costs of attaining a reduction in effluents and the effluent reduction benefits derived.”  §1314(b)(4)(B).  That Congress expressly authorized cost-benefit analysis in BCT further confirms that Congress treated cost-benefit analysis as exceptional and reserved for itself the authority to decide when it would be used in the Act.  
+
+Footnote 11
+															 The Court attempts to cabin its holding by suggesting that a “rigorous form of cost-benefit analysis,” such as the form “prescribed under the statute’s former BPT standard,” may not be permitted for setting BTA regulations.  Ante, at 13.  Thus the Court has effectively instructed the Agency that it can perform a cost-benefit analysis so long as it does not resemble the kind of cost-benefit analysis Congress elsewhere authorized in the CWA.  The majority’s suggested limit on the Agency’s discretion can only be read as a concession that cost-benefit analysis, as typically performed, may be inconsistent with the BTA mandate.
+
+Footnote 12
+															 The “national performance standards” the EPA adopted were shaped by economic efficiency concerns at the expense of finding the technology that best minimizes adverse environmental impact.  In its final rulemaking, the Agency declined to require industrial plants to adopt closed-cycle cooling technology, which by recirculating cooling water requires less water to be withdrawn and thus fewer aquatic organisms to be killed.  Riverkeeper, Inc. v. EPA, 358 F. 3d 174, 182, n. 5 (CA2 2004); 69 Fed. Reg. 41601, and n. 44. This the Agency decided despite its acknowledgment that “closed-cycle, recirculating cooling systems … can reduce mortality from impingement by up to 98 percent and entrainment by up to 98 percent.”  Id., at 41601.  The EPA instead permitted individual plants to resort to a “suite” of options so long as the method used reduced impingement and entrainment by the more modest amount of 80 and 60 percent, respectively.  See 40 CFR §125.94(b).  The Agency also permitted individual plants to obtain a site-specific variance from the national performance standards if they could prove (1) that compliance costs would be “significantly greater than” those the Agency considered when establishing the standards, or (2) that compliance costs “would be significantly greater than the benefits of complying with the applicable performance standards,” §125.94(a)(5).
+
+Footnote 13
+															 Thus, the Agency’s past reliance on a “wholly disproportionate” standard, a mild variant of cost-benefit analysis, is irrelevant.  See ante, at 14.  Because “Congress has directly spoken to the precise question at issue,” Chevron, 467 U. S., at 842, longstanding yet impermissible agency practice cannot ripen into permissible agency practice.
+
+
+

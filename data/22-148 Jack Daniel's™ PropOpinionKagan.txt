@@ -1,0 +1,784 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-148
+::decision_name::  Jack Daniel's™ Properties, Inc. v. VIP Products LLC
+::decision_year:: 2023
+::opinion_author:: Kagan
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–148
+
+															_________________
+
+															JACK DANIEL’S PROPERTIES, INC.,
+PETITIONER v. VIP PRODUCTS LLC
+
+															on writ of certiorari to the united states
+court of appeals for the ninth circuit
+
+															[June 8, 2023]
+
+															
+
+															Justice Kagan delivered the opinion of the
+Court.
+
+															This case is about dog toys and whiskey, two
+items seldom appearing in the same sentence. Respondent VIP
+Products makes a squeaky, chewable dog toy designed to look like a
+bottle of Jack Daniel’s whiskey. Though not entirely. On the
+toy, for example, the words “Jack Daniel’s”
+become “Bad Spaniels.” And the descriptive phrase
+“Old No. 7 Brand Tennessee Sour Mash Whiskey” turns
+into “The Old No. 2 On Your Tennessee Carpet.” The
+jokes did not impress petitioner Jack Daniel’s Properties. It
+owns trademarks in the distinctive Jack Daniel’s bottle and
+in many of the words and graphics on the label. And it believed Bad
+Spaniels had both infringed and diluted those trademarks. Bad
+Spaniels had infringed the marks, the argument ran, by leading
+consumers to think that Jack Daniel’s had created, or was
+otherwise responsible for, the dog toy. And Bad Spaniels had
+diluted the marks, the argument went on, by associating the famed
+whiskey with, well, dog excrement.
+
+															The Court of Appeals, in the decision we review,
+saw things differently. Though the federal trademark statute makes
+infringement turn on the likelihood of consumer confusion, the
+Court of Appeals never got to that issue. On the court’s
+view, the First Amendment compels a stringent threshold test when
+an infringement suit challenges a so-called expressive
+work—here (so said the court), the Bad Spaniels toy. And that
+test knocked out Jack Daniel’s claim, whatever the likelihood
+of confusion. Likewise, Jack’s dilution claim
+failed—though on that issue the problem was statutory. The
+trademark law provides that the “noncommercial” use of
+a mark cannot count as dilution. 15 U. S. C.
+§1125(c)(3)(C). The Bad Spaniels marks, the court held, fell
+within that exemption because the toy communicated a
+message—a kind of parody—about Jack Daniel’s.
+
+															Today, we reject both conclusions. The
+infringement issue is the more substantial. In addressing it, we do
+not decide whether the threshold inquiry applied in the Court of
+Appeals is ever warranted. We hold only that it is not appropriate
+when the accused infringer has used a trademark to designate the
+source of its own goods—in other words, has used a trademark
+as a trademark. That kind of use falls within the heartland of
+trademark law, and does not receive special First Amendment
+protection. The dilution issue is more simply addressed. The use of
+a mark does not count as noncommercial just because it parodies, or
+otherwise comments on, another’s products.
+
+															I
+
+															A
+
+															Start at square 1, with what a trademark is
+and does. The Lanham Act, the core federal trademark statute,
+defines a trademark as follows: “[A]ny word, name, symbol, or
+device, or any combination thereof ” that a person uses
+“to identify and distinguish his or her goods . . .
+from those manufactured or sold by others and to indicate the
+source of the goods.” §1127. The first part of that
+definition, identifying the kind of things covered, is broad: It
+encompasses words (think “Google”), graphic designs
+(Nike’s swoosh), and so-called trade dress, the overall
+appearance of a product and its packaging (a Hershey’s Kiss,
+in its silver wrapper). See Wal-Mart Stores, Inc. v.
+Samara Brothers, Inc., 529 U.S.
+205, 209–210 (2000). The second part of the definition
+describes every trademark’s “primary” function:
+“to identify the origin or ownership of the article to which
+it is affixed.” Hanover Star Milling Co. v.
+Metcalf, 240 U.S.
+403, 412 (1916). Trademarks can of course do other things:
+catch a consumer’s eye, appeal to his fancies, and convey
+every manner of message. But whatever else it may do, a trademark
+is not a trademark unless it identifies a product’s source
+(this is a Nike) and distinguishes that source from others (not any
+other sneaker brand). See generally 1 J. McCarthy, Trademarks and
+Unfair Competition §3:1 (5th ed. 2023). In other words, a mark
+tells the public who is responsible for a product.
+
+															In serving that function, trademarks benefit
+consumers and producers alike. A source-identifying mark enables
+customers to select “the goods and services that they wish to
+purchase, as well as those they want to avoid.” Matal
+v. Tam, 582 U.S. 218, 224 (2017). The mark “quickly
+and easily assures a potential customer that this
+item—the item with this mark—is made by the same
+producer as other similarly marked items that he or she liked (or
+disliked) in the past.” Qualitex Co. v. Jacobson
+Products Co., 514 U.S.
+159, 164 (1995). And because that is so, the producer of a
+quality product may derive significant value from its marks. They
+ensure that the producer itself—and not some “imitating
+competitor”—will reap the financial rewards associated
+with the product’s good reputation. Ibid.
+
+															To help protect marks, the Lanham Act sets up a
+voluntary registration system. Any mark owner may apply to the
+Patent and Trademark Office to get its mark placed on a federal
+register. Consistent with trademark law’s basic purpose, the
+lead criterion for registration is that the mark “in fact
+serve as a ‘trademark’ to identify and distinguish
+goods.” 3 McCarthy §19:10 (listing the principal
+register’s eligibility standards). If it does, and the
+statute’s other criteria also are met, the registering
+trademark owner receives certain benefits, useful in infringement
+litigation. See, e.g., Iancu v. Brunetti, 588
+U. S. ___, ___ (2019) (slip op., at 2) (noting that
+“registration constitutes ‘prima facie evidence’
+of the mark’s validity”). But the owner of even an
+unregistered trademark can “use [the mark] in commerce and
+enforce it against infringers.” Ibid.
+
+															The Lanham Act also creates a federal cause of
+action for trademark infringement. In the typical case, the owner
+of a mark sues someone using a mark that closely resembles its own.
+The court must decide whether the defendant’s use is
+“likely to cause confusion, or to cause mistake, or to
+deceive.” §§1114(1)(A), 1125(a)(1)(A). The
+“keystone” in that statutory standard is
+“likelihood of confusion.” See 4 McCarthy §23:1.
+And the single type of confusion most commonly in trademark
+law’s sights is confusion “about the source of a
+product or service.” Moseley v. V Secret Catalogue,
+Inc., 537 U.S.
+418, 428 (2003); see 4 McCarthy §23:5. Confusion as to
+source is the bête noire of trademark law—the thing
+that stands directly opposed to the law’s twin goals of
+facilitating consumers’ choice and protecting
+producers’ good will.
+
+															Finally, the Lanham Act creates a cause of
+action for the dilution of famous marks, which can succeed without
+likelihood of confusion. See §1125(c); Moseley, 537
+U. S., at 431. A famous mark is one “widely
+recognized” by the public as “designati[ng the]
+source” of the mark owner’s goods. §1125(c)(2)(A).
+Dilution of such a mark can occur “by tarnishment” (as
+well as by “blurring,” not relevant here).
+§1125(c)(1). As the statute describes the idea, an
+“association arising from the similarity between” two
+marks—one of them famous—may “harm[ ] the
+reputation of the famous mark,” and thus make the other
+mark’s owner liable. §1125(c)(2)(C). But there are
+“[e]xclusions”—categories of activity not
+“actionable as dilution.” §1125(c)(3). One
+exclusion protects any “noncommercial use of a mark.”
+§1125(c)(3)(C). Another protects a “fair use” of a
+mark “in connection with . . . parodying,
+criticizing, or commenting upon the famous mark owner or [its]
+goods.” §1125(c)(3)(A)(ii). The fair-use exclusion,
+though, comes with a caveat. A defendant cannot get its
+benefit—even if engaging in parody, criticism, or
+commentary—when using the similar-looking mark “as a
+designation of source for the [defendant’s] own goods.”
+§1125(c)(3)(A). In other words, the exclusion does not apply
+if the defendant uses the similar mark as a mark.
+
+															B
+
+															A bottle of Jack Daniel’s—no, Jack
+Daniel’s Old No. 7 Tennessee Sour Mash Whiskey—boasts a
+fair number of trademarks. Recall what the bottle looks like (or
+better yet, retrieve a bottle from wherever you keep liquor;
+it’s probably there):
+
+															
+
+															“Jack Daniel’s” is a
+registered trademark, as is “Old No. 7.” So too the
+arched Jack Daniel’s logo. And the stylized label with
+filigree (i.e., twirling white lines). Finally, what might
+be thought of as the platform for all those marks—the
+whiskey’s distinctive square bottle—is itself
+registered.
+
+															VIP is a dog toy company, making and selling a
+product line of chewable rubber toys that it calls “Silly
+Squeakers.” (Yes, they squeak when bitten.) Most of the toys
+in the line are designed to look like—and to
+parody—popular beverage brands. There are, to take a
+sampling, Dos Perros (cf. Dos Equis), Smella Arpaw (cf. Stella
+Artois), and Doggie Walker (cf. Johnnie Walker). VIP has registered
+trademarks in all those names, as in the umbrella term “Silly
+Squeakers.”
+
+															In 2014, VIP added the Bad Spaniels toy to the
+line. VIP did not apply to register the name, or any other feature
+of, Bad Spaniels. But according to its complaint (further addressed
+below), VIP both “own[s]” and “use[s]” the
+“ ‘Bad Spaniels’ trademark and trade
+dress.” App. 3, 11; see infra, at 8, 17. And Bad
+Spaniels’ trade dress, like the dress of many Silly Squeakers
+toys, is designed to evoke a distinctive beverage
+bottle-with-label. Even if you didn’t already know,
+you’d probably not have much trouble identifying which
+one.
+
+															
+
+															Bad Spaniels is about the same size and shape
+as an ordinary bottle of Jack Daniel’s. The faux bottle, like
+the original, has a black label with stylized white text and a
+white filigreed border. The words “Bad Spaniels”
+replace “Jack Daniel’s” in a like font and arch.
+Above the arch is an image of a spaniel. (This is a dog toy, after
+all.) Below the arch, “The Old No. 2 On Your Tennessee
+Carpet” replaces “Old No. 7 Tennessee Sour Mash
+Whiskey” in similar graphic form. The small print at the
+bottom substitutes “43% poo by vol.” and “100%
+smelly” for “40% alc. by vol. (80
+proof ).”
+
+															The toy is packaged for sale with a cardboard
+hangtag (so it can be hung on store shelves). Here is the back of
+the hangtag:
+
+															
+
+															At the bottom is a disclaimer: “This
+product is not affiliated with Jack Daniel Distillery.” In
+the middle are some warnings and guarantees. And at the top, most
+relevant here, are two product logos—on the left for the
+Silly Squeakers line, and on the right for the Bad Spaniels
+toy.
+
+															Soon after Bad Spaniels hit the market, Jack
+Daniel’s sent VIP a letter demanding that it stop selling the
+product. VIP responded by bringing this suit, seeking a declaratory
+judgment that Bad Spaniels neither infringed nor diluted Jack
+Daniel’s trademarks. The complaint alleged, among other
+things, that VIP is “the owner of all rights in its
+‘Bad Spaniels’ trademark and trade dress for its
+durable rubber squeaky novelty dog toy.” App. 3; see
+supra, at 6. Jack Daniel’s counterclaimed under the
+Lanham Act for both trademark infringement and trademark dilution
+by tarnishment.
+
+															VIP moved for summary judgment on both claims.
+First, VIP argued that Jack Daniel’s infringement claim
+failed under a threshold test derived from the First Amendment to
+protect “expressive works”—like (VIP said) the
+Bad Spaniels toy. When those works are involved, VIP contended, the
+so-called Rogers test requires dismissal of an infringement
+claim at the outset unless the complainant can show one of two
+things: that the challenged use of a mark “has no artistic
+relevance to the underlying work” or that it
+“explicitly misleads as to the source or the content of the
+work.” Rogers v. Grimaldi, 875 F.2d 994, 999
+(CA2 1989) (Newman, J.). Because Jack Daniel’s could make
+neither showing, VIP argued, the likelihood-of-confusion issue
+became irrelevant. Second, VIP urged that Jack Daniel’s could
+not succeed on a dilution claim because Bad Spaniels was a
+“parody[ ]” of Jack Daniel’s, and therefore
+made “fair use” of its famous marks.
+§1125(c)(3)(A)(ii).
+
+															The District Court rejected both contentions for
+a common reason: because VIP had used the cribbed Jack
+Daniel’s features as trademarks—that is, to identify
+the source of its own products. In the court’s view, when
+“another’s trademark is used for source
+identification”—as the court thought was true
+here—the threshold Rogers test does not apply. App. to
+Pet. for Cert. 89a. Instead, the suit must address the
+“standard” infringement question: whether the use is
+“likely to cause consumer confusion.” Ibid. And
+likewise, VIP could not invoke the dilution provision’s
+fair-use exclusion. Parodies fall within that exclusion, the court
+explained, only when the uses they make of famous marks do not
+serve as “a designation of source for the [alleged
+diluter’s] own goods.” Id., at 104a (quoting
+§1125(c)(3)(A)).
+
+															The case thus proceeded to a bench trial, where
+Jack Daniel’s prevailed. The District Court found, based
+largely on survey evidence, that consumers were likely to be
+confused about the source of the Bad Spaniels toy. See 291
+F. Supp. 3d 891, 906–911 (D Ariz. 2018). And the court
+thought that the toy, by creating “negative
+associations” with “canine excrement,” would
+cause Jack Daniel’s “reputational harm.”
+Id., at 903, 905.
+
+															But the Court of Appeals for the Ninth Circuit
+reversed, ruling that the District Court had gotten the pretrial
+legal issues wrong. In the Ninth Circuit’s view, the
+infringement claim was subject to the threshold Rogers test
+because Bad Spaniels is an “expressive work”: Although
+just a dog toy, and “surely not the equivalent of the Mona
+Lisa,” it “communicates a humorous message.”
+953 F.3d 1170, 1175 (2020) (internal quotation marks omitted). The
+Court of Appeals therefore returned the case to the District Court
+to decide whether Jack Daniel’s could satisfy either of
+Rogers’ two prongs. And the Ninth Circuit awarded
+judgment on the dilution claim to VIP. The court did not address
+the statutory exclusion for parody and other fair use, as the
+District Court had. Instead, the Court of Appeals held that the
+exclusion for “noncommercial use” shielded VIP from
+liability. §1125(c)(3)(C). The “use of a mark may be
+‘noncommercial,’ ” the court reasoned,
+“even if used to sell a product.” 953 F. 3d, at
+1176 (internal quotation marks omitted). And here it was so, the
+court found, because it “parodies” and “comments
+humorously” on Jack Daniel’s. Id., at 1175; see
+id., at 1176.
+
+															On remand, the District Court found that Jack
+Daniel’s could not satisfy either prong of Rogers, and
+so granted summary judgment to VIP on infringement. Jack
+Daniel’s appealed, and the Ninth Circuit summarily
+affirmed.
+
+															We then granted certiorari to consider the Court
+of Appeals’ rulings on both infringement and dilution. 598
+U. S. ___ (2022).
+
+															II
+
+															Our first and more substantial question
+concerns Jack Daniel’s infringement claim: Should the company
+have had to satisfy the Rogers threshold test before the
+case could proceed to the Lanham Act’s
+likelihood-of-confusion inquiry?[1] The parties address that issue in the broadest possible
+way, either attacking or defending Rogers in all its
+possible applications. Today, we choose a narrower path. Without
+deciding whether Rogers has merit in other contexts, we hold
+that it does not when an alleged infringer uses a trademark in the
+way the Lanham Act most cares about: as a designation of source for
+the infringer’s own goods. See §1127; supra, at
+2–3. VIP used the marks derived from Jack Daniel’s in
+that way, so the infringement claim here rises or falls on
+likelihood of confusion. But that inquiry is not blind to the
+expressive aspect of the Bad Spaniels toy that the Ninth Circuit
+highlighted. Beyond source designation, VIP uses the marks at issue
+in an effort to “parody” or “make fun” of
+Jack Daniel’s. Tr. of Oral Arg. 58, 66. And that kind of
+message matters in assessing confusion because consumers are not so
+likely to think that the maker of a mocked product is itself doing
+the mocking.
+
+															A
+
+															To see why the Rogers test does not
+apply here, first consider the case from which it emerged. The
+defendants there had produced and distributed a film by Federico
+Fellini titled “Ginger and Fred” about two fictional
+Italian cabaret dancers (Pippo and Amelia) who imitated Ginger
+Rogers and Fred Astaire. When the film was released in the United
+States, Ginger Rogers objected under the Lanham Act to the use of
+her name. The Second Circuit rejected the claim. It reasoned that
+the titles of “artistic works,” like the works
+themselves, have an “expressive element” implicating
+“ First Amendment values.” 875 F. 2d, at 998. And
+at the same time, such names posed only a “slight risk”
+of confusing consumers about either “the source or the
+content of the work.” Id., at 999–1000. So, the
+court concluded, a threshold filter was appropriate. When a title
+“with at least some artistic relevance” was not
+“explicitly misleading as to source or content,” the
+claim could not go forward. Ibid. But the court made clear
+that it was not announcing a general rule. In the typical case, the
+court thought, the name of a product was more likely to indicate
+its source, and to be taken by consumers in just that way. See
+id., at 1000.
+
+															Over the decades, the lower courts adopting
+Rogers have confined it to similar cases, in which a
+trademark is used not to designate a work’s source, but
+solely to perform some other expressive function. So, for example,
+when the toymaker Mattel sued a band over the song “Barbie
+Girl”—with lyrics including “Life in plastic,
+it’s fantastic” and “I’m a blond bimbo
+girl, in a fantasy world”—the Ninth Circuit applied
+Rogers. Mattel, Inc. v. MCA Records, Inc.,
+
+296 F.3d 894, 901 (2002). That was because, the court reasoned,
+the band’s use of the Barbie name was “not [as] a
+source identifier”: The use did not “speak[ ] to
+[the song’s] origin.” Id., at 900, 902; see
+id., at 902 (a consumer would no more think that the song
+was “produced by Mattel” than would, “upon
+hearing Janis Joplin croon ‘Oh Lord, won’t you buy me a
+Mercedes Benz?,’ . . . suspect that she and the
+carmaker had entered into a joint venture”). Similarly, the
+Eleventh Circuit dismissed a suit under Rogers when a sports
+artist depicted the Crimson Tide’s trademarked football
+uniforms solely to “memorialize” a notable event in
+“football history.” University of Ala. Bd. of
+Trustees v. New Life Art, Inc., 683 F.3d 1266, 1279
+(2012). And when Louis Vuitton sued because a character in the film
+The Hangover: Part II described his luggage as a “Louis
+Vuitton” (though pronouncing it Lewis), a district
+court dismissed the complaint under Rogers. See Louis
+Vuitton Mallatier S. A. v. Warner Bros. Entertainment
+Inc., 868 F. Supp. 2d 172 (SDNY 2012). All parties agreed that
+the film was not using the Louis Vuitton mark as its “own
+identifying trademark.” Id., at 180 (internal
+quotation marks omitted). When that is so, the court reasoned,
+“confusion will usually be unlikely,” and the
+“interest in free expression” counsels in favor of
+avoiding the standard Lanham Act test. Ibid.
+
+															The same courts, though, routinely conduct
+likelihood-of-confusion analysis, without mentioning Rogers,
+when trademarks are used as trademarks—i.e., to
+designate source. See, e.g., JL Beverage Co., LLC v.
+Jim Beam Brands Co., 828 F.3d 1098, 1102–1103, 1106
+(CA9 2016); PlayNation Play Systems, Inc. v. Velex
+Corp., 924 F.3d 1159, 1164–1165 (CA11 2019). And the
+Second Circuit—Rogers’ home court—has made
+especially clear that Rogers does not apply in that context.
+For example, that court held that an offshoot political
+group’s use of the trademark “United We Stand
+America” got no Rogers help because the use was as a
+source identifier. See United We Stand Am., Inc. v.
+United We Stand, Am. New York, Inc., 
+128 F.3d 86, 93 (1997). True, that slogan had expressive
+content. But the defendant group, the court reasoned, was using it
+“as a mark,” to suggest the “same source
+identification” as the original “political
+movement.” Ibid. And similarly, the Second Circuit
+(indeed, the judge who authored Rogers) rejected a
+motorcycle mechanic’s view that his modified version of
+Harley Davidson’s bar-and-shield logo was an expressive
+parody entitled to Rogers’ protection. See
+Harley-Davidson, Inc. v. Grottanelli, 
+164 F.3d 806, 812–813 (1999). The court acknowledged that
+the mechanic’s adapted logo conveyed a “somewhat
+humorous[ ]” message. Id., at 813. But his use of
+the logo was a quintessential “trademark use”: to brand
+his “repair and parts business”—through signage,
+a newsletter, and T-shirts—with images “similar”
+to Harley-Davidson’s. Id., at 809, 812–813.
+
+															The point is that whatever you make of
+Rogers—and again, we take no position on that
+issue—it has always been a cabined doctrine. If we put this
+case to the side, the Rogers test has applied only to cases
+involving “non-trademark uses”—or otherwise said,
+cases in which “the defendant has used the mark” at
+issue in a “non-source-identifying way.” S. Dogan &
+M. Lemley, Grounding Trademark Law Through Trademark Use, 92 Iowa
+L. Rev. 1669, 1684 (2007); see id., at 1683–1684,
+and n. 58. The test has not insulated from ordinary trademark
+scrutiny the use of trademarks as trademarks, “to identify or
+brand [a defendant’s] goods or services.” Id.,
+at 1683.
+
+															We offer as one last example of that limitation
+a case with a striking resemblance to this one. It too involved dog
+products, though perfumes rather than toys. Yes, the defendant sold
+“a line of pet perfumes whose names parody elegant brands
+sold for human consumption.” Tommy Hilfiger Licensing,
+Inc. v. Nature Labs, LLC, 
+221 F. Supp. 2d 410, 412 (SDNY 2002) (Mukasey, J.). The product
+at issue was named Timmy Holedigger—which Tommy Hilfiger
+didn’t much like. The defendant asked for application of
+Rogers. The court declined it, relying on
+Harley-Davidson. See 221 F. Supp. 2d, at 414.
+Rogers, the court explained, kicks in when a suit involves
+solely “nontrademark uses of [a] mark—that is, where
+the trademark is not being used to indicate the source or
+origin” of a product, but only to convey a different kind of
+message. 221 F. Supp. 2d, at 414. When, instead, the use is
+“at least in part” for “source
+identification”—when the defendant may be
+“trading on the good will of the trademark owner to market
+its own goods”—Rogers has no proper role. 221
+F. Supp. 2d, at 414–415. And that is so, the court
+continued, even if the defendant is also “making an
+expressive comment,” including a parody of a different
+product. Id., at 415. The defendant is still “mak[ing]
+trademark use of another’s mark,” and must meet an
+infringement claim on the usual battleground of “likelihood
+of confusion.” Id., at 416.
+
+															That conclusion fits trademark law, and reflects
+its primary mission. From its definition of “trademark”
+onward, the Lanham Act views marks as source identifiers—as
+things that function to “indicate the source” of goods,
+and so to “distinguish” them from ones
+“manufactured or sold by others.” §1127; see
+supra, at 2–3. The cardinal sin under the law, as
+described earlier, is to undermine that function. See supra,
+at 3. It is to confuse consumers about source—to make (some
+of ) them think that one producer’s products are
+another’s. And that kind of confusion is most likely to arise
+when someone uses another’s trademark as a
+trademark—meaning, again, as a source identifier—rather
+than for some other expressive function. To adapt one of the cases
+noted above: Suppose a filmmaker uses a Louis Vuitton suitcase to
+convey something about a character (he is the kind of person who
+wants to be seen with the product but doesn’t know how to
+pronounce its name). See supra, at 12. Now think about a
+different scenario: A luggage manufacturer uses an ever-so-slightly
+modified LV logo to make inroads in the suitcase market. The
+greater likelihood of confusion inheres in the latter use, because
+it is the one conveying information (or misinformation) about who
+is responsible for a product. That kind of use “implicate[s]
+the core concerns of trademark law” and creates “the
+paradigmatic infringement case.” G. Dinwoodie & M. Janis,
+Confusion Over Use: Contextualism in Trademark Law, 92 Iowa
+L. Rev. 1597, 1636 (2007). So the Rogers
+test—which offers an escape from the likelihood-of-confusion
+inquiry and a shortcut to dismissal—has no proper
+application.[2]
+
+															Nor does that result change because the use of a
+mark has other expressive content—i.e., because it
+conveys some message on top of source. Here is where we most
+dramatically part ways with the Ninth Circuit, which thought that
+because Bad Spaniels “communicates a humorous message,”
+it is automatically entitled to Rogers’ protection.
+953 F. 3d, at 1175 (internal quotation marks omitted). On that
+view, Rogers might take over much of the world. For
+trademarks are often expressive, in any number of ways. Consider
+how one liqueur brand’s trade dress (beyond identifying
+source) tells a story, with a bottle in the shape of a
+friar’s habit connoting the product’s olden monastic
+roots:
+
+															
+
+															Or take a band name that “not only
+identifies the band but expresses a view about social
+issues.” Tam, 582 U. S., at 245 (opinion of
+Alito, J.) (discussing “The Slants”). Or note how a
+mark can both function as a mark and have parodic content—as
+the court found in the Hilfiger/Holedigger litigation. See
+supra, at 13–14. The examples could go on and on. As a
+leading treatise puts the point, the Ninth Circuit’s
+expansion of Rogers “potentially encompasses just
+about everything” because names, phrases, symbols, designs,
+and their varied combinations often “contain some
+‘expressive’ message” unrelated to source. 6
+McCarthy §31:144.50. That message may well be relevant in
+assessing the likelihood of confusion between two marks, as we
+address below. See infra, at 18–19. But few cases
+would even get to the likelihood-of-confusion inquiry if all
+expressive content triggered the Rogers filter. In that
+event, the Rogers exception would become the general rule,
+in conflict with courts’ longstanding view of trademark
+law.
+
+															The Ninth Circuit was mistaken to believe that
+the First Amendment demanded such a result. The court
+thought that trademark law would otherwise “fail[ ] to
+account for the full weight of the public’s interest in free
+expression.” 953 F. 3d, at 1174. But as the
+Mattel (i.e., Barbie) court noted, when a challenged
+trademark use functions as “source-identifying,”
+trademark rights “play well with the First Amendment”:
+“Whatever first amendment rights you may have in calling the
+brew you make in your bathtub ‘Pepsi’ ” are
+“outweighed by the buyer’s interest in not being fooled
+into buying it.” 296 F. 3d, at 900. Or in less colorful
+terms: “[T]o the extent a trademark is confusing” as to
+a product’s source “the law can protect consumers and
+trademark owners.” Tam, 582 U. S., at 252
+(Kennedy, J., concurring in part and concurring in judgment); see
+Friedman v. Rogers, 440 U.S.
+1, 15 (1979) (rejecting a First Amendment challenge to a law
+restricting trade names because of the “substantial”
+interest in “protecting the public from [their] deceptive and
+misleading use”). Or yet again, in an especially clear
+rendering: “[T]he trademark law generally prevails over the
+First Amendment” when “another’s trademark (or a
+confusingly similar mark) is used without permission” as a
+means of “source identification.” Yankee Publishing
+Inc. v. News Am. Publishing Inc., 
+809 F. Supp. 267, 276 (SDNY 1992) (Leval, J.) (emphasis
+deleted). So for those uses, the First Amendment does not demand a
+threshold inquiry like the Rogers test. When a mark is used
+as a mark (except, potentially, in rare situations), the
+likelihood-of-confusion inquiry does enough work to account for the
+interest in free expression.
+
+															B
+
+															Here, the District Court correctly held that
+“VIP uses its Bad Spaniels trademark and trade dress as
+source identifiers of its dog toy.” See App. to Pet. for
+Cert. 105a. In fact, VIP conceded that point below. In its
+complaint, VIP alleged that it both “own[s] and
+“use[s]” the “ ‘Bad Spaniels’
+trademark and trade dress for its durable rubber squeaky novelty
+dog toy.” App. 3, 11. The company thus represented in this
+very suit that the mark and dress, although not registered, are
+used to “identify and distinguish [VIP’s] goods”
+and to “indicate [their] source.” §1127.
+(Registration of marks, you’ll recall, is optional. See
+supra, at 3–4.)
+
+															In this Court, VIP says the complaint was a mere
+“form allegation”—a matter of “rote.”
+Tr. of Oral Arg. 73. But even if we knew what that meant, VIP has
+said and done more in the same direction. First, there is the way
+the product is marketed. On the hangtag, the Bad Spaniels logo sits
+opposite the concededly trademarked Silly Squeakers logo, with both
+appearing to serve the same source-identifying function. See
+supra, at 7. And second, there is VIP’s practice as to
+other products in the Silly Squeakers line. The company has
+consistently argued in court that it owns, though has never
+registered, the trademark and trade dress in dog toys like
+“Jose Perro” (cf. Jose Cuervo) and
+“HeinieSniff ’n” (cf. Heineken).[3] And it has chosen to register the
+names of still other dog toys, including Dos Perros (#6176781),
+Smella Arpaw (#6262975), and Doggie Walker (#6213816). See
+supra, at 6. Put all that together, and more than
+“form” or “rote” emerges: VIP’s
+conduct is its own admission that it is using the Bad Spaniels
+(née Jack Daniel’s) trademarks as trademarks, to
+identify product source.
+
+															Because that is so, the only question in this
+suit going forward is whether the Bad Spaniels marks are likely to
+cause confusion. There is no threshold test working to kick out all
+cases involving “expressive works.” But a
+trademark’s expressive message—particularly a parodic
+one, as VIP asserts—may properly figure in assessing the
+likelihood of confusion. See, e.g., Louis Vuitton
+Malletier S. A. v. Haute Diggity Dog, LLC, 507 F.3d 252,
+265 (CA4 2007) (Parody “influences the way in which the
+[likelihood-of-confusion] factors are applied”); Brief for
+United States as Amicus Curiae 17–22 (same). A parody
+must “conjure up” “enough of [an] original to
+make the object of its critical wit recognizable.”
+Campbell v. Acuff-Rose Music, Inc., 510 U.S.
+569, 588 (1994) (internal quotation marks omitted). Yet to
+succeed, the parody must also create contrasts, so that its message
+of ridicule or pointed humor comes clear. And once that is done
+(if that is done), a parody is not often likely to create
+confusion. Self-deprecation is one thing; self-mockery far less
+ordinary. So although VIP’s effort to ridicule Jack
+Daniel’s does not justify use of the Rogers test, it
+may make a difference in the standard trademark analysis.
+Consistent with our ordinary practice, we remand that issue to the
+courts below. See Cutter v. Wilkinson, 544 U.S.
+709, 718, n. 7 (2005) (noting that this Court is generally
+“a court of review, not of first view”).
+
+															III
+
+															Our second question, more easily dispatched,
+concerns Jack Daniel’s claim of dilution by tarnishment (for
+the linkage of its whiskey to less savory substances). Recall that
+the Ninth Circuit dismissed that claim based on one of the Lanham
+Act’s “[e]xclusions” from dilution
+liability—for “[a]ny noncommercial use of a
+mark.” §1125(c)(3)(C); see supra, at 9. On the
+court’s view, the “use of a mark may be
+‘noncommercial’ even if used to sell a product.”
+953 F. 3d, at 1176 (internal quotation marks omitted). And
+VIP’s use is so, the court continued, because it
+“parodies” and “convey[s] a humorous
+message” about Jack Daniel’s. Id., at
+1175–1176. We need not express a view on the first step of
+that reasoning because we think the second step wrong. However wide
+the scope of the “noncommercial use” exclusion, it
+cannot include, as the Ninth Circuit thought, every parody or
+humorous commentary.
+
+															To begin to see why, consider the scope of
+another of the Lanham Act’s exclusions—this one for
+“[a]ny fair use.” As described earlier, the “fair
+use” exclusion specifically covers uses “parodying,
+criticizing, or commenting upon” a famous mark owner.
+§1125(c)(3)(A)(ii); see supra, at 5. But not in every
+circumstance. Critically, the fair-use exclusion has its own
+exclusion: It does not apply when the use is “as a
+designation of source for the person’s own goods or
+services.” §1125(c)(3)(A). In that event, no parody,
+criticism, or commentary will rescue the alleged dilutor. It will
+be subject to liability regardless.
+
+															The problem with the Ninth Circuit’s
+approach is that it reverses that statutorily directed result, as
+this case illustrates. Given the fair-use provision’s
+carve-out, parody (and criticism and commentary, humorous or
+otherwise) is exempt from liability only if not used to
+designate source. Whereas on the Ninth Circuit’s view, parody
+(and so forth) is exempt always—regardless whether it
+designates source. The expansive view of the “noncommercial
+use” exclusion effectively nullifies Congress’s express
+limit on the fair-use exclusion for parody, etc. Just consider how
+the Ninth Circuit’s construction played out here. The
+District Court had rightly concluded that because VIP used the
+challenged marks as source identifiers, it could not benefit from
+the fair-use exclusion for parody. See App. to Pet. for Cert. 105a;
+supra, at 8–9, 17–18. The Ninth Circuit took no
+issue with that ruling. But it shielded VIP’s parodic uses
+anyway. In doing so, the court negated Congress’s judgment
+about when—and when not—parody (and criticism and
+commentary) is excluded from dilution liability.
+
+															IV
+
+															Today’s opinion is narrow. We do not
+decide whether the Rogers test is ever appropriate, or how
+far the “noncommercial use” exclusion goes. On
+infringement, we hold only that Rogers does not apply when
+the challenged use of a mark is as a mark. On dilution, we hold
+only that the noncommercial exclusion does not shield parody or
+other commentary when its use of a mark is similarly
+source-identifying. It is no coincidence that both our holdings
+turn on whether the use of a mark is serving a source-designation
+function. The Lanham Act makes that fact crucial, in its effort to
+ensure that consumers can tell where goods come from.
+
+															For the reasons stated, we vacate the judgment
+below and remand for further proceedings consistent with this
+opinion.
+
+															It is so ordered.
+
+Notes
+1
+ To be clear, when we
+refer to “the Rogers threshold test,” we mean
+any threshold First Amendment filter.
+2
+ That is not to say (far
+from it) that every infringement case involving a
+source-identifying use requires full-scale litigation. Some of
+those uses will not present any plausible likelihood of
+confusion—because of dissimilarity in the marks or various
+contextual considerations. And if, in a given case, a plaintiff
+fails to plausibly allege a likelihood of confusion, the district
+court should dismiss the complaint under Federal Rule of Civil
+Procedure 12(b)(6). See 6 McCarthy §32:121.75 (providing
+examples).
+3
+ See, e.g., VIP
+Products, LLC v. Tequila Cuervo La Rojena, S. A. de
+C. V., No. 20–cv–0319 (D Ariz., Feb. 11,
+2020), ECF Doc. 1, p. 3 (“Jose Perro”); VIP
+Products, LLC v. Heineken USA, Inc., No.
+13–cv–0319 (D Ariz., Feb. 13, 2013), ECF Doc. 1, pp.
+3–4 (“HeinieSniff ’n”); VIP
+Products, LLC v. Pabst Brewing Co., No.
+14–cv–2084 (D Ariz., Sept. 19, 2014), ECF Doc. 1,
+pp. 3–4 (“Blue Cats Trippin”) (cf. Pabst
+Blue Ribbon); VIP Products, LLC v. Champagne Louis
+Roederer, S. A., No. 13–cv–2365 (D Ariz., Nov. 18,
+2013), ECF Doc. 1, pp. 3–4 (“Crispaw”) (cf.
+Cristal).
+
+

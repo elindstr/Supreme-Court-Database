@@ -1,0 +1,151 @@
+::SCDB_caseID:: 2020-002
+::decision_cite:: 19-309
+::decision_name::  Carney v. Adams
+::decision_year:: 2020
+::opinion_author:: Breyer
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–309
+
+															_________________
+
+															JOHN C. CARNEY, GOVERNOR OF DELAWARE, PETITIONER v. JAMES R. ADAMS
+
+															on writ of certiorari to the united states court  of appeals for the third circuit
+
+															[December 10, 2020]
+
+															
+
+															Justice Breyer delivered the opinion of the Court.
+
+															This case concerns a Delaware constitutional provision that requires that appointments to Delaware’s major courts reflect a partisan balance.  Delaware’s Constitution states that no more than a bare majority of members of any of its five major courts may belong to any one political party.  Art. IV, §3.  It also requires, with respect to three of those courts, that the remaining members belong to “the other major political party.”  Ibid.
+
+															The plaintiff, a Delaware lawyer, brought this lawsuit in federal court.  He claimed that Delaware’s party-membership requirements for its judiciary violate the Federal Constitution.  We agreed to consider the constitutional question, but only if the plaintiff has standing to raise that question.  We now hold that he does not.
+
+															I
+
+															The Delaware Constitution contains a political balance requirement applicable to membership on all five of its courts: the Supreme Court, the Chancery Court, the Superior Court, the Family Court, and the Court of Common Pleas.  The provision says that no more than a bare majority of judges on any of these courts “shall be of the same political party.”  Ibid.  (We shall call this requirement the “bare majority” requirement.)  The Delaware Constitution also contains a second requirement applicable only to the Supreme Court, the Chancery Court, and the Superior Court.  It says that the remaining members of those three courts (those not in the bare majority) “shall be of the other major political party.”  Ibid.  (We shall call this the “major party” requirement.)  Thus, all five courts are subject to the “bare majority” requirement, and three of the five courts are additionally subject to the “major party” requirement.
+
+															On February 21, 2017, plaintiff-respondent James R. Adams sued Delaware’s Governor, John Carney, in Federal District Court.  Adams, then a newly registered political independent, claimed that both of Delaware’s political balance requirements violated his
+ 
+First Amendment right to freedom of association by making him ineligible to become a judge unless he rejoined a major political party.
+
+															Governor Carney moved to dismiss for lack of standing, and Adams filed an amended complaint in an attempt to rectify the problem.  App. 1–2, 17–18.  After discovery largely centered on Adams’ history and intentions in seeking a judgeship, the parties cross-moved for summary judgment.  Governor Carney argued (1) that Adams lacked standing to assert his constitutional claim, and (2) that, in any event, the requirements were constitutional.  Adams argued only that he was entitled to summary judgment on the merits because the political balance requirements made independents like him ineligible for a judgeship.
+
+															The District Court denied Governor Carney’s summary judgment motion.  Id., at 165; App. to Pet. for Cert. 83a.  It held that Adams had standing to challenge both the “major party” requirement for membership on the Supreme Court, the Chancery Court, and the Superior Court and the “bare majority” requirement for membership on the Family Court and the Court of Common Pleas.  App. 173–175; App. to Pet. for Cert. 70a–72a.  It then granted summary judgment to Adams on the merits, App. 165; App. to Pet. for Cert. 83a, holding that Delaware’s balancing scheme as a whole was unconstitutional, App. 175–181; App. to Pet. for Cert. 75a–81a.
+
+															Governor Carney appealed to the United States Court of Appeals for the Third Circuit.  The appellate court affirmed in part and reversed in part.  Adams v. Governor of Del., 922 F.3d 166 (2019).  Like the District Court, it held that Adams had standing to challenge the major party requirement, id., at 175, but unlike the District Court, it held that Adams did not have standing to challenge the bare majority requirement (in any of the five courts), id., at 174–175.  The court held that the bare majority requirement itself does not preclude independents from eligibility for any vacancy.  Ibid.
+
+															The court then focused on the major party requirement, which applies only to three of the five courts.  Did that constitutional provision bar independent voters from becoming judges on those courts?  If so, was that bar constitutional?  If not, was that provision severable from the rest of the Delaware Constitution’s political balance provisions, in particular, from the bare majority requirement as applied to the Supreme Court, the Chancery Court, and the Superior Court?
+
+															The Third Circuit concluded that the major party requirement categorically excludes independents and members of third parties from becoming judges on the Supreme Court, the Chancery Court, and the Superior Court.  922 F. 3d, at 182–183.  It held that the major party requirement consequently violates the Federal Constitution’s
+ 
+First Amendment.  Ibid.  And it held that the major party requirement is not severable from the bare majority requirement.  Id., at 183–184.  The Circuit concluded that both requirements (as applied to those three courts) are invalid.  Ibid.
+
+															Governor Carney then filed a petition for a writ of certiorari.  He asked us to consider, first, whether the major party requirement is constitutional and, then, if it is not, whether it is severable from the bare majority requirement.  Pet. for Cert. i.  We granted his petition but asked that the parties first address the question whether Adams has demonstrated Article III standing to bring this lawsuit.
+
+															II
+
+															A
+
+															This case begins and ends with standing.  The Constitution grants Article III courts the power to decide “Cases” or “Controversies.”  Art. III, §2.  We have long understood that constitutional phrase to require that a case embody a genuine, live dispute between adverse parties, thereby preventing the federal courts from issuing advisory opinions.  See Flast v. Cohen,
+
+392 U.S. 83, 96–97 (1968); Coleman v. Miller,
+
+307 U.S. 433, 460 (1939) (opinion of Frankfurter, J.) (“[I]t was not for courts to pass upon . . . abstract, intellectual problems but only if a concrete, living contest between adversaries called for the arbitrament of law”).  The doctrine of standing implements this requirement by insisting that a litigant “prove that he has suffered a concrete and particularized injury that is fairly traceable to the challenged conduct, and is likely to be redressed by a favorable judicial decision.”  Hollingsworth v. Perry,
+
+570 U.S. 693, 704 (2013); Lujan v. Defenders of Wildlife,
+
+504 U.S. 555, 560–561 (1992).
+
+															Two aspects of standing doctrine are relevant here.  First, standing requires an “ ‘injury in fact’ ” that must be “concrete and particularized,” as well as “ ‘actual or imminent.’ ”  Id., at 560.  It cannot be “ ‘ “conjectural or hypothetical.” ’ ”  Ibid.  Second, a grievance that amounts to nothing more than an abstract and generalized harm to a citizen’s interest in the proper application of the law does not count as an “injury in fact.”  And it consequently does not show standing.  Hollingsworth, supra, at 706; see also Lance v. Coffman,
+
+549 U.S. 437, 439–441 (2007) (per curiam) (describing this Court’s “lengthy pedigree” in refusing to serve as a forum for generalized grievances).
+
+															In other words, a plaintiff cannot establish standing by asserting an abstract “general interest common to all members of the public,” id., at 440, “no matter how sincere” or “deeply committed” a plaintiff is to vindicating that general interest on behalf of the public, Hollingsworth, supra, at 706–707.  Justice Powell explained the reasons for this limitation.  He found it “inescapable” that to find standing based upon that kind of interest “would significantly alter the allocation of power at the national level, with a shift away from a democratic form of government.”  United States v. Richardson,
+
+418 U.S. 166, 188 (1974) (concurring opinion).  He added that “[w]e should be ever mindful of the contradictions that would arise if a democracy were to permit general oversight of the elected branches of government by a nonrepresentative, and in large measure insulated, judicial branch.”  Ibid.; see also Schlesinger v. Reservists Comm. to Stop the War,
+
+418 U.S. 208, 222 (1974); Warth v. Seldin,
+
+422 U.S. 490, 500 (1975).  Cf. Federal Election Comm’n v. Akins,
+
+524 U.S. 11, 21–25 (1998) (finding standing where a group of voters suffered concrete, though widespread, harm when they were prevented from accessing publicly disclosable voting-related material).
+
+															B
+
+															We here must ask whether Adams established that, at the time he filed suit, Delaware’s major party provision caused him a concrete, particularized “injury in fact” over and above the abstract generalized grievance suffered by all citizens of Delaware who (if Adams is right) must live in a State subject to an unconstitutional judicial selection criterion.  We have examined the record that was before the District Court at summary judgment, keeping in mind that Adams bears the burden of establishing standing as of the time he brought this lawsuit and maintaining it thereafter.  Lujan, supra, at 561 (plaintiff bears the burden of proving standing); Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.,
+
+528 U.S. 167, 191 (2000) (standing is assessed “at the time the action commences”); id., at 189 (“ ‘The requisite personal interest that must exist at the commencement of the litigation . . . must continue throughout its existence’ ”); see also Lujan, supra, at 569, n. 4.  And we conclude that Adams did not show the necessary “injury in fact.”
+
+															Adams suffered a “generalized grievance” of the kind we have just described.  He, like all citizens of Delaware, must live and work within a State that (in his view) imposes unconstitutional requirements for eligibility on three of its courts.  Lawyers, such as Adams, may feel sincerely and strongly that Delaware’s laws should comply with the Federal Constitution.  Accord, Hollingsworth, 570 U. S., at 706.  But that kind of interest does not create standing.  Rather, the question is whether Adams will suffer a “ ‘personal and individual’ ” injury beyond this generalized grievance—an injury that is concrete, particularized, and imminent rather than “conjectural or hypothetical.”  Id., at 705–706.
+
+															Adams says he has.  He claims that Delaware’s major party requirement in fact prevents him, a political independent, from having his judicial application considered for three of Delaware’s courts.  To prove this kind of harm, however, Adams must at least show that he is likely to apply to become a judge in the reasonably foreseeable future if Delaware did not bar him because of political affiliation.  And our cases make clear that he can show this only if he is “ ‘able and ready’ ” to apply.  See Gratz v. Bollinger,
+
+539 U.S. 244, 262 (2003); Northeastern Fla. Chapter, Associated Gen. Contractors of America v. Jacksonville, 508 U.S. 656, 666 (1993).  We have examined the summary judgment record to determine whether Adams made this showing.  And, as we have said, we conclude that he has not.
+
+															The only evidence supporting Adams is two statements he made in his deposition and in his answer to interrogatories that he wants to be, and would apply to be, a judge on any of Delaware’s five courts.  He said:
+
+															“I would apply for any judicial position that I thought I was qualified for, and I believe I’m qualified for any position that would come up . . . [o]n any of the courts.  I would feel less comfortable on Chancery than any other court.  I would feel most comfortable on Superior Court, Family Court, Court of Common Pleas, state Supreme Court based on my background, experience, and what I have done in my career.”  App. 34.
+
+															He added in his answer to interrogatories:
+
+															“Adams . . . would seriously consider and apply for any judicial position for which he feels he is qualified. . . . Adams believes that he meets the minimum qualifications to apply for any judicial officer position.”  Id., at 62–63.
+
+															Those statements, however, must be considered in the context of the record, which contains evidence showing that, at the time he brought this lawsuit, Adams was not “able and ready” to apply.
+
+															First, the record showed that, between 2012 and 2016, during which time Adams was a practicing lawyer and a registered Democrat, Delaware’s five courts had a combined total of 14 openings for which Adams, then a Democrat, would have been eligible.  Id., at 51–56, 144–164.  Yet he did not apply for any of them.  When deposed during discovery, Adams said that in 2014 he had wanted to apply for a Supreme Court or Superior Court judgeship.  Id., at 35, 43–46, 62.  Adams said that he could not do so because only Republicans were eligible for those positions that year.  Ibid.  He was wrong about that.  In particular, there were three vacancies on those two courts in 2014 for which he, as a Democrat, was eligible.  Id., at 51–54.  Adams later conceded that he had indeed been eligible to apply for those vacancies, but he had not done so.  Id., at 43–46.
+
+															Second, on December 31, 2015, after roughly 12 years as a lawyer for the Delaware Department of Justice, Adams retired.  Id., at 32, 58.  In February 2016, Adams changed his bar membership from “Active” to “Emeritus” status.  Id., at 61.  He then returned to “Active” status in January 2017.  Ibid.  In his deposition, he stated that at about that same time in the “[b]eginning of the year, January/February,” he read a law review article arguing that Delaware’s judicial eligibility requirements were unconstitutional because they excluded independents.  Id., at 38; see Friedlander, Is Delaware’s “Other Major Political Party” Really Entitled to Half of Delaware’s Judiciary? 58 Ariz. L. Rev. 1139 (2016).  Adams called the article’s author and said, “ ‘I just read your Law Review . . . article.  I’d like to pursue this.’ ”  App. 38.  The author suggested several attorneys who might handle the matter.  Ibid.
+
+															Third, shortly thereafter, on February 13, 2017, Adams changed his political affiliation from Democrat to unaffiliated independent.  Id., at 67.  Before that, he had been a Democrat his “whole life” and actively involved in the Delaware Democratic Party.  Id., at 41.  Leaving the party made it less likely that he would become a judge.  But doing so made it possible for him to vindicate his view of the law as set forth in the article.
+
+															Fourth, after Adams became a political independent on February 13, 2017, he filed this lawsuit eight days later on February 21.  Id., at 1.
+
+															Fifth, Adams said in his answer to interrogatories that he “has no knowledge of what judicial positions may become open in the next year.”  Id., at 62.
+
+															Sixth, other than the act of filing the lawsuit itself, the summary judgment record contains no evidence of conversations or other actions taken by Adams suggesting that he was “able and ready” to apply for a judgeship.
+
+															During his deposition, Adams provided explanations for this negative evidence.  He said that his failure to apply for available judgeships at the time when he was eligible reflected his lack of interest in being a judge at that time.  He was then content to work at the Department of Justice.  Id., at 35; Brief for Respondent 17–18.  Adams added that his return from retirement to “Active” bar membership in 2017 showed that he decided on becoming a judge later in life and after a change in administration at the Delaware Department of Justice.  App. 33.  (Adams did not explain his failure to apply in 2014, though, when, he said, he was interested in a judgeship.)  Adams further explained that his contemporaneous change of political affiliation was because he “tend[s] to be much more progressive and liberal than [D]emocrats in Delaware.”  Id., at 41.  Although he had been a lifelong Democrat, and actively involved with the Delaware Democratic Party, he said then that he “probably consider[s]” himself “more of a Bernie [Sanders] independent.”  Id., at 42.  Finally, in Adams’ view, the lack of other evidence proves little or nothing about his intentions.
+
+															C
+
+															This is a highly fact-specific case.  In our view, three considerations, taken together, convince us that the record evidence fails to show that, at the time he commenced the lawsuit, Adams was “able and ready” to apply for a judgeship in the reasonably foreseeable future.  First, as we have just laid out, Adams’ words “I would apply . . . ” stand alone without any actual past injury, without reference to an anticipated timeframe, without prior judgeship applications, without prior relevant conversations, without efforts to determine likely openings, without other preparations or investigations, and without any other supporting evidence.
+
+															Second, the context offers Adams no support.  It suggests an abstract, generalized grievance, not an actual desire to become a judge.  Indeed, Adams’ failure to apply previously when he was eligible, his reading of the law review article, his change of party affiliation, and his swift subsequent filing of the complaint show a desire to vindicate his view of the law, as articulated in the article he read.
+
+															Third, if we were to hold that Adams’ few words of general intent—without more and against all contrary evidence—were sufficient here to show an “injury in fact,” we would significantly weaken the longstanding legal doctrine preventing this Court from providing advisory opinions at the request of one who, without other concrete injury, believes that the government is not following the law.  Adams did not show that he was “able and ready” to apply for a vacancy in the reasonably imminent future.  Adams has not sufficiently differentiated himself from a general population of individuals affected in the abstract by the legal provision he attacks.  We do not decide whether a statement of intent alone under other circumstances could be enough to show standing.  But we are satisfied that Adams’ words alone are not enough here when placed in the context of this particular record.
+
+															Precedent supports the conclusion that an injury in fact requires an intent that is concrete.  In Lujan, for example, organizations dedicated to wildlife conservation sought to enjoin enforcement of a federal regulation that they believed would unlawfully harm endangered species.  Lujan, 504 U. S., at 563–564.  The organizations’ members had previously visited the species’ habitats abroad, and they said that they intended to return to those foreign habitats in the future.  Ibid.  This Court recognized that having to view a species-impoverished habitat could constitute a cognizable injury.  Id., at 562–563.  But it pointed out that the plaintiffs had not described any concrete plans to visit those habitats, nor had they said when they would do so.  Id., at 563–564.  The Court said that the organizations had set forth only “ ‘some day’ intentions.”  Id., at 564.  And “some day intentions” do “not support a finding of the ‘actual or imminent’ injury that our cases require.”  Ibid.
+
+															For another thing, arguably similar cases in which this Court has found standing all contained more evidence that the plaintiff was “able and ready” than Adams has provided here.  In Adarand Constructors, Inc. v. Peña,
+
+515 U.S. 200 (1995), for example, a subcontractor challenging a race-based program for allocating contracts established standing by showing that it “bids on every guardrail project in Colorado,” that the defendant “is likely to let contracts involving guardrail work . . . at least once per  year in Colorado,” and that the plaintiff “is very likely to bid on each such contract.”  Id., at 212.
+
+															In Associated Gen. Contractors, 508 U. S., at 666, the Court held that an association of contractors had standing to attack as unlawful a race-based set-aside program for awarding contracts.  The contractors showed that they were “able and ready to bid on [future] contracts,” for it was undisputed that they had “regularly bid on construction contracts in Jacksonville, and that they would have bid on contracts set aside pursuant to the city’s ordinance were they so able.”  Id., at 666, 668.  The Court noted that it “must assume that [these allegations] are true” because they were not challenged in any way.  Id., at 668–669.
+
+															In Gratz, 539 U. S., at 262, we held that a plaintiff had standing to attack as unlawful a university’s affirmative action admissions policy.  The plaintiff had applied for admission to the university as a freshman applicant in the recent past and been rejected.  Ibid.  He said he intended to apply to transfer to the university in the near future, should the university cease using affirmative action in its transfer admissions process.  Ibid.  And the university had a “rolling” transfer program open for application each year, so there was no doubt that the plaintiff ’s injury was imminent.  Id., at 256.  The Court therefore concluded that he was “ ‘able and ready’ ” to apply as a transfer student.  Id., at 262.  Unlike Adams, none of these plaintiffs relied on a bare statement of intent alone against the context of a record that shows nothing more than an abstract generalized grievance.  Rather, each introduced at least some evidence that, e.g., they had applied in the past, there were regular opportunities available with relevant frequency, and they were “able and ready” to apply for them.
+
+															By way of contrast, our precedents have also said that a plaintiff need not “translat[e ]” his or her “desire for a job . . . into a formal application” where that application would be merely a “futile gesture.”  Teamsters v. United States,
+
+431 U.S. 324, 365–366 (1977); see also Sporhase v. Nebraska ex rel. Douglas,
+
+458 U.S. 941, 944, n. 2 (1982).  And we have said that an “aggrieved party ‘need not allege that he would have obtained the benefit but for the [unlawful] barrier in order to establish standing.’ ”  Adarand Constructors, supra, at 211; see also Gratz, supra, at 262; Associated Gen. Contractors, supra, at 666.  We do not here depart from or modify these or any other of the precedents to which we have referred.
+
+															Rather, our holding follows from a straightforward application of precedent to the particular summary judgment record before us.  And, as we have explained, in the context set forth by the evidence, Adams has not shown that he was “able and ready” to apply in the imminent future.  Consequently, he has failed to show that “personal,” “concrete,” and “imminent” injury upon which our standing precedents insist.
+
+															For these reasons, we reverse the Third Circuit’s decision in respect to standing, vacate the judgment, and remand with instructions to dismiss the case.
+
+															It is so ordered.
+
+															Justice Barrett took no part in the consideration or decision of this case.
+													

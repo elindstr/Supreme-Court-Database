@@ -1,0 +1,222 @@
+::SCDB_caseID:: 2021-007
+::decision_cite:: 20-659
+::decision_name::  Thompson v. Clark
+::decision_year:: 2022
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–659
+
+															_________________
+
+															LARRY THOMPSON, PETITIONER v. PAGIEL CLARK, et al.
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															[April 4, 2022]
+
+															
+
+															Justice Alito, with whom Justice Thomas and Justice Gorsuch join, dissenting.
+
+															Homer described the mythical chimera as a “grim monster” made of “all lion in front, all snake behind, all goat between.” The Iliad p. 201 (R. Fagles trans. 1990).  Today, the Court creates a chimera of a constitutional tort by stitching together elements taken from two very different claims: a
+ 
+Fourth Amendment unreasonable seizure claim and a common-law malicious-prosecution claim.
+
+															The Court justifies this creation on the ground that malicious prosecution is the common-law tort that is most analogous to an unreasonable seizure claim.  And because a common-law malicious-prosecution claim demanded proof of a favorable termination, the Court holds that its new creation includes that element.  But this Court has never held that the
+ 
+Fourth Amendment houses a malicious-prosecution claim, and the Court defends its analogy with just two sentences of independent analysis and a reference to a body of lower court cases.
+
+															I cannot agree with that approach.  The Court’s independent analysis of this important question is far too cursory, and its reliance on lower court cases is particularly ill-advised here because that body of case law appears to have been heavily influenced by a mistaken reading of the plurality opinion in Albright v. Oliver, 
+510 U.S. 266 (1994).
+
+															What the Court has done is to recognize a novel hybrid claim of uncertain scope that has no basis in the Constitution and is almost certain to lead to confusion.
+
+															I
+
+															The Court asserts that malicious prosecution is the common-law tort that is most analogous to petitioner’s
+ 
+Fourth Amendment claim, ante, at 5, but in fact the
+ 
+Fourth Amendment and malicious prosecution have almost nothing in common.
+
+															A
+
+															The
+ 
+Fourth Amendment prohibits “unreasonable searches and seizures.”  And a
+ 
+Fourth Amendment claim based on  an unreasonable seizure has two indispensable elements: (i) there must have been a “seizure,” i.e., an arrest or some other use of “ ‘physical force’ or a ‘show of authority’ that ‘in some way restrain[s] the liberty’ of [a] person,” Torres v. Madrid, 592 U. S. ___, ___ (2021) (slip op., at 3), and (ii) the seizure must have been “unreasonable,” which means, in the case of a full-blown arrest, that the officers making the arrest must have lacked probable cause.  District of Columbia v. Wesby, 583 U. S. ___, ___ (2018) (slip op., at 7).
+
+															Malicious prosecution, on the other hand, requires proof that “(i) the suit or proceeding was ‘instituted without any probable cause;’ (ii) the ‘motive in instituting’ the suit ‘was malicious . . . ; and (iii) the prosecution ‘terminated in the acquittal or discharge of the accused.’ ”  Ante, at 6 (quoting T. Cooley, Law of Torts 180 (1880) (Cooley)); see also Manuel v. Joliet, 
+
+580 U.S. 357, 378 (2017) (Alito, J., dissenting).
+
+															A comparison of the elements of the malicious-prosecution tort with the elements of a
+ 
+Fourth Amendment unreasonable-seizure claim shows that there is no overlap.  That is, a plaintiff suing for unreasonable seizure need not prove any of the elements of common-law malicious prosecution, and a plaintiff suing for common-law malicious prosecution need not prove any of the elements required to establish an unreasonable seizure.  
+
+															Start with the elements of an unreasonable-seizure claim.  Such a claim does not require proof that there was a “prosecution”—i.e., a criminal proceeding that is initiated by the filing of charges in the form of a criminal complaint, information, or indictment—while a malicious-prosecution claim obviously requires a prosecution.  See, e.g., 1 F. Hilliard, The Law of Torts or Private Wrongs §2, pp. 413–414 (1866) (Hilliard) (“The general principle is laid down, that an action lies for maliciously causing one to be indicted, whereby he is damnified, either in person, reputation, or property” (emphasis added)); Cooley 180 (“[I]t is a duty which every man owes to every other not to institute proceedings maliciously, which he has no good reason to believe are justified by the facts and the law” (emphasis added)); M. Newell, Law of Malicious Prosecution, False Imprisonment, and Abuse of Process §1, p. 3 (1892) (Newell) (same); see also W. Prosser, Law of Torts 860 (1941) (“The interest in freedom from unjustifiable litigation is protected by an action for malicious prosecution” (boldface deleted and emphasis added)).  A person who is arrested without probable cause may have a viable unreasonable-seizure claim even if he or she is released before any charges are filed.
+
+															An unreasonable-seizure claim also does not require “malice.”  The Court has “almost uniformly rejected invitations to probe subjective intent” in
+ 
+Fourth Amendment cases.  Ashcroft v. al-Kidd,
+
+563 U.S. 731, 737 (2011).  If a law enforcement officer makes an arrest without probable cause, the arrest is unreasonable and therefore unconstitutional even if the officer harbors no ill will for the arrestee.  Likewise, if an officer makes an arrest with probable cause, there is no
+ 
+Fourth Amendment violation regardless of the “actual motivations of the individual officers involved.”  Whren v. United States,
+
+517 U.S. 806, 813 (1996); see also Cordova v. Albuquerque, 816 F.3d 645, 664 (CA10 2016) (Gorsuch, J., concurring in judgment).
+
+															Finally, the validity of an unreasonable-seizure claim is not dependent on the outcome of any prosecution that happens to follow a seizure.  A person who is arrested without probable cause but then convicted based on evidence discovered after the arrest is not barred from recovering simply because he or she cannot show a favorable termination to the proceeding.  See Wallace v. Kato,
+
+549 U.S. 384, 389–392 (2007); cf. Heck v. Humphrey,
+
+512 U.S. 477, 487, n. 7 (1994) (a person may bring “a suit for damages attributable to an allegedly unreasonable search” even if he or she was convicted).  Thus, an unreasonable-seizure claim may be shown without proving any of the elements of a common-law malicious-prosecution claim.
+
+															Turning now to the elements of malicious prosecution, we see that all of those may be established without proving either of the two elements that the constitutional text and our precedents require in order to establish an unreasonable seizure.
+
+															First, the tort of malicious prosecution does not require a seizure within the meaning of the
+ 
+Fourth Amendment.  There are cases in which defendants charged with non- violent crimes agree to appear for arraignment and are then released pending trial on their own recognizance.  These defendants are prosecuted, and they may bring a common-law suit for malicious prosecution if the other elements of that tort can be shown, but they are not seized.  See, e.g., 1 Hilliard §1, at 412 (noting that malicious prosecution may involve “injury to the person, as connected with false imprisonment,” but is “primarily . . . a wrong to character or reputation”); 3 D. Dobbs, The Law of Torts §586, p. 388 (2011) (the “prosecution does not necessarily involve any detention of the plaintiff at all”).  The term seizure would have to be given a novel and extravagant interpretation in order to reach a “defendant awaiting trial on his own recognizance” or one who simply receives a “summons to appear at trial.”  Cordova, 816 F. 3d, at 663 (opinion of Gorsuch, J.).
+
+															Second, since a malicious-prosecution claim does not require a seizure, it obviously does not require proof that the person bringing suit was seized without probable cause.  The claim does demand proof that the person bringing suit was prosecuted without probable cause, but probable cause at the time of arrest is a different question from probable cause at the time at which a prosecution is initiated.
+
+															In light of the differences between these two claims, it is apparent that a
+ 
+Fourth Amendment unreasonable-seizure claim is not analogous to a claim for malicious prosecution.  Much more analogous are the common-law torts of false arrest and false imprisonment, which protect against “[e]very confinement of the person,” including one effected by “forcibly detaining [someone] in the public streets.”  Wallace, 549 U. S., at 388–389 (internal quotation marks omitted); see also Dobbs, Law of Torts §41 (describing elements of false imprisonment and false arrest); Restatement (Second) of Torts §35 (1964) (same).
+
+															B
+
+															The Court does not make a serious effort to justify its analogy between unreasonable seizure and malicious prosecution.  Instead, the Court largely relies on the fact that “most of the Courts of Appeals to consider the question” have drawn that analogy, ante, at 6, but the Court ignores contrary lower court authority.  See, e.g., Manuel v. Joliet, 903 F.3d 667, 670 (CA7 2018); Jones v. Clark County, 959 F.3d 748, 776–777 (CA6 2020) (Murphy, J., concurring in part); Pagan-Gonzalez v. Moreno, 919 F.3d 582, 608–617 (CA1 2019) (Barron, J., concurring).  But in any event, we should not decide this important question without independent analysis, and the Court’s own cursory analysis is erroneous.
+
+															The Court claims that the “gravamen” of petitioner’s
+ 
+Fourth Amendment claim is the same as that of a malicious-prosecution claim: the “wrongful initiation of charges without probable cause.”  Ante, at 6.  But what the Court describes is not a
+ 
+Fourth Amendment violation at all.  As explained, that Amendment protects against “unreasonable searches and seizures”—not the unreasonable “initiation of charges.”  In fact, “the specific provisions of the Bill of Rights neither impose a standard for the initiation of a prosecution” nor “require a pretrial hearing to weigh evidence according to a given standard.”  Albright, 510 U. S., at 282 (Kennedy, J., concurring in judgment); see also 4 W. LaFave, J. Israel, N. King, & O. Kerr, Criminal Procedure §14.2(a), pp. 329, 331 (4th ed. 2015) (noting that the Constitution does not require “screening” of the decision to prosecute “by some neutral body” to ensure “some minimal evidence supporting the charge,” and “the sole constitutional protection” is “what the
+ 
+Fourth Amendment requires to justify physical restraints”).
+
+															The Court also says that the initiation of charges must be “wrongful,” but it is not clear what that means.  If that term  simply refers to the lack of probable cause, then the Court has failed to capture the “gravamen” of malicious prosecution because that tort requires not just that the defendant initiated charges “without probable cause” but also—as the name of the tort suggests—that this was done with “malice.”  See 1 Hilliard §4, at 416 (“want of probable cause” is not enough “without malice”); 1 Newell §6, at 7 (“The plaintiff must show that the defendant acted from malicious motives in prosecuting him”).  Cf. ante, at 6, n. 5 (claiming to reserve the question whether the claim requires malice).
+
+															If, on the other hand, the Court uses the term “wrongful” to require “malice,” then the claim it has endorsed is even more incompatible with the
+ 
+Fourth Amendment, which almost always imposes a purely objective standard.  See supra, at 4.
+
+															II
+
+															 The Court’s recognition of a
+ 
+Fourth Amendment malicious-prosecution claim has no basis in our precedents.
+
+															A
+
+															The Court relies on certain lower court decisions that accepted the strange concept of a
+ 
+Fourth Amendment malicious-prosecution claim, but that line of cases developed in large part because of a misunderstanding of the tersely worded plurality opinion in Albright,
+
+510 U.S. 266.  See Hernandez-Cuevas v. Taylor, 723 F.3d 91, 99 (CA1 2013) (noting that “dicta” in Albright led many jurisdictions to “recogniz[e] a
+ 
+Fourth Amendment malicious prosecution claim”).  Instead of simply accepting that misreading, we should explain what Albright actually decided and what the plurality said.
+
+															In that case, Kevin Albright was arrested and bound over for trial without probable cause.  The prosecution was dismissed before trial, and Albright then sued under
+
+42 U. S. C. §1983.  The District Court dismissed his suit; the Court of Appeals affirmed the dismissal; and when the case was argued in this Court, the only claim that Albright pressed was that his prosecution without probable cause violated substantive due process.  510 U. S., at 268 (plurality opinion).  He did not advance either a
+ 
+Fourth Amendment claim or a malicious-prosecution claim.
+
+															This Court affirmed the dismissal of Albright’s substantive due process claim, and while no opinion gained majority approval, both the four Justices who joined the plurality opinion and the three justices who concurred in the judgment agreed that substantive due process  does not include the right to be free from prosecution without probable cause.  Id., at 268, 275 (plurality opinion); id., at 282 (opinion of Kennedy, J.); id., at 286 (Souter, J., concurring in judgment).  That is all that Albright actually decided.
+
+															The terse plurality opinion did make comments about the
+ 
+Fourth Amendment and malicious prosecution, and those comments have led to confusion in the lower courts.  But a careful reading of the plurality opinion shows that it in no way suggested that the
+ 
+Fourth Amendment protects against malicious prosecution.
+
+															When the plurality commented on the
+ 
+Fourth Amendment, it was addressing Albright’s prosecution-without-probable-cause claim, not malicious prosecution.  And in connection with the prosecution-without-probable-cause claim, the plurality made the following two points.  First, the plurality noted that “[w]here a particular Amendment ‘provides an explicit textual source of constitutional protection’ against a particular sort of government behavior, ‘that Amendment, not the more generalized notion of “substantive due process,” must be the guide for analyzing [the] claims.’ ”  Id., at 273.  Second, the plurality observed that the
+ 
+Fourth Amendment is the constitutional provision that deals with “pretrial deprivations of liberty.”  Id., at 274.
+
+															What this discussion suggested was that if any provision of the Constitution provided a home for Albright’s prosecution-without-probable-cause claim, the
+ 
+Fourth Amendment was a better bet than the
+ 
+Fourteenth Amendment’s Due Process Clause.  But the plurality did not conclude or even suggest that a prosecution-without-probable-cause claim could be brought under the
+ 
+Fourth Amendment.  See id., at 274–275 (expressly declining to express a view on the question).  Indeed, the plurality expressly reiterated that “the accused is not ‘entitled to judicial oversight or review of the decision to prosecute,’ ” suggesting instead that the harm to Albright—if any—was that he was “not merely charged” but also “submitted himself to arrest.”  Id., at 274 (quoting Gerstein v. Pugh,
+
+420 U.S. 103, 114 (1975)).
+
+															As for malicious prosecution, the plurality did not even hint that such a claim could be brought under the
+ 
+Fourth Amendment.  The plurality’s only two references to malicious prosecution appeared in the portion of the opinion that set out what had occurred in the lower courts.  Footnote 3 recounted that Albright’s complaint contained a common-law malicious-prosecution claim but that this claim had been dismissed without prejudice and that this issue was not before the Court.  510 U. S., at 269, n. 3.  Footnote 4 then observed that there was an “ ‘embarrassing diversity of judicial opinion’ ” in the lower courts as to whether a malicious-prosecution claim was actionable under §1983, and the footnote added that substantive due process did not “furnish the constitutional peg on which to hang such a ‘tort.’ ”  Id., at 270–271, n. 4.  But the plurality opinion did not suggest that the
+ 
+Fourth Amendment could provide such a “peg,” and neither did any other Justice who concurred in the judgment.[1]*
+
+															B
+
+															Manuel v. Joliet,
+
+580 U.S. 357, also provides no support for a
+ 
+Fourth Amendment malicious-prosecution claim.  There, petitioner Elijah Manuel brought suit under the
+ 
+Fourth Amendment, alleging that he was arrested without probable cause and then held for seven weeks without probable cause after a judge ordered him detained.  Id., at 359–360.  The Court reasoned that the
+ 
+Fourth Amendment prohibits “government officials from detaining a person in the absence of probable cause.”  Id., at 367.  A violation of that prohibition, the Court continued, may occur both “before the formal onset of a criminal proceeding” and “when legal process itself goes wrong—when, for example, a judge’s probable-cause determination is predicated solely on a police officer’s false statements.”  Ibid.  Accordingly, the Court concluded that the plaintiff in that case could state a
+ 
+Fourth Amendment claim because the “judge’s order holding [him] for trial” was not supported by probable cause.  Id., at 368.
+
+															Although the majority asserts that Manuel authorized
+ 
+Fourth Amendment malicious-prosecution claims, see ante, at 4, Manuel did no such thing.  That decision expressly declined to determine “whether (and, if so, how) [petitioner’s
+ 
+Fourth Amendment claim] should resemble the malicious prosecution tort.”  Id., at 372, n. 10.  Indeed, the majority’s analysis here is incompatible with the analysis in Manuel, where the gravamen of the wrong was that petitioner was “detain[ed] . . . in the absence of probable cause.”  Id., at 367.  Manuel thus provides no support for the Court’s suggestion that the
+ 
+Fourth Amendment prohibits the “initiation of charges without probable cause.”  Ante, at 6.
+
+															III
+
+															Instead of clarifying the law regarding §1983 malicious-prosecution claims, today’s decision, I fear, will sow more confusion.  The Court endorses a
+ 
+Fourth Amendment claim for malicious prosecution that appears to have the following elements: (1) the defendant “initiat[ed]” charges against the plaintiff in a way that was “wrongful” and “without probable cause,” (2) the “malicious prosecution resulted in a seizure of the plaintiff,” and (3) the prosecution must not have ended in conviction.  Ante, at 5–6, and n. 2.  This tort has no precedent in
+ 
+Fourth Amendment law.  It is markedly different from the common-law tort of malicious prosecution, and its dimensions are uncertain.
+
+															First, it is not clear why this tort requires both a seizure and a prosecution.  As noted, the two do not always go together, and if the aim is to permit the victims of malicious prosecution to sue under §1983, it is not clear why detention should be required.  While pretrial detention certainly increases the harm inflicted by a malicious prosecution, such a prosecution can be very damaging even if the victim is never detained.  See, e.g., M. Bigelow, The Law of Torts 204 (1875) (a plaintiff may show damage to “his person by imprisonment, his reputation by the scandal, or . . . his property by the expense”).  The majority’s only answer to the question why the claim requires a seizure is that it is “housed in the
+ 
+Fourth Amendment,” ante, at 5, n. 2, but that response begs the antecedent question whether the
+ 
+Fourth Amendment houses a malicious-prosecution suit at all.
+
+															Second, where the person bringing suit under §1983 is arrested and then prosecuted, it is not clear whether both the arrest and the prosecution must have been done without probable cause and without a legitimate law enforcement purpose.  An arrest made without probable cause may be followed by a prosecution based on new evidence that clearly establishes probable cause.  And by the same token, the evidence that establishes probable cause at the time of arrest may be thoroughly discredited at some point well before the termination of a prosecution.
+
+															Third and most important, it is not clear what the Court means when it says that the “gravamen” of the claim is “wrongful initiation of charges without probable cause.”  Ante, at 6.  Since the Court refers repeatedly to “malicious prosecution,” one might think that this requires a guilty mental state, but in a footnote, the Court raises the possibility that the constitutional tort it recognizes may require nothing more than the absence of probable cause.  See ibid., n. 3.
+
+															If that turns out to be so, it is hard to see even the slightest connection between the Court’s new tort and common-law malicious prosecution.  Malice is the hallmark of a  malicious-prosecution claim.  Even if a prosecution is brought and maintained without probable cause, a  malicious-prosecution claim cannot succeed without proof of malice.  See supra, at 6.  And if the Court’s new tort has nothing to do with malicious prosecution, what possible reason can there be for borrowing that tort’s favorable-termination element?
+
+															IV
+
+															Instead of creating a new hybrid claim, we should simply hold that a malicious-prosecution claim may not be brought under the
+ 
+Fourth Amendment. Such a holding would not leave a person in petitioner’s situation without legal protection.  Petitioner brought
+ 
+Fourth Amendment claims against respondents for false arrest, excessive force, and unlawful entry, but after trial a jury ruled against him on all those claims.  See App. 142–146.  Petitioner could have also sought relief under state law.  See, e.g., Cordova, 816 F. 3d, at 662 (opinion of Gorsuch, J.).  New York law appears to recognize a malicious-prosecution tort with an element very much like the favorable-termination element that the Court adopts today, see Lanning v. Glens Falls, 908 F.3d 19, 24–25 (CA2 2018), but petitioner chose not to bring such a claim.  See Tr. of Oral Arg. 40–41.
+
+															For these reasons, I would affirm the judgment below, and I therefore respectfully dissent.
+Notes
+1
+*Justice Scalia’s concurring opinion made no mention of malicious prosecution.  Justice Ginsburg mentioned malicious prosecution only when describing Albright’s claims, see 510 U. S., at 277, n. 1, and to note that it was “anomalous” that Albright sought to hold a police officer (rather than a prosecutor) liable under a malicious-prosecution theory, id., at 279, n. 5. Justice Kennedy, joined by Justice Thomas, filed an opinion concurring in the judgment and argued that “if a State did not provide a tort remedy for malicious prosecution, there would be force to the argument that the malicious initiation of a baseless criminal prosecution infringes an interest protected by the Due Process Clause.”  Id., at 286.  But he did not suggest that a malicious-prosecution claim could be brought under the
+ 
+Fourth Amendment. 
+
+
