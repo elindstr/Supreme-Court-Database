@@ -4,14 +4,12 @@ A script to download all decisions by the United States Supreme Court.
 
 ## Code Description
 
-"scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports). Decisions are scraped from public domain<sup>1</sup> content on [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/).
+"scrape.py" is a python script that downloads to text files the complete set of Supreme Court decisions published in the [United States Reports](https://en.wikipedia.org/wiki/United_States_Reports). Decisions are scraped from public domain content on [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/). (See copyright note section [below](#copyright-information).)
 
 Statistics:
 * output files: 33,627
 * output file size: ~835 MB
 * runtime: ~4.5 hours
-
-<sup>1 See copyright note section [below](#copyright-information).</sup>
 
 ## Database Information
  
@@ -19,7 +17,7 @@ U.S. Reports is the official reporter of Supreme Court decisions. Congress didn'
 
 Decisions before 1874 were reported in volumes by a series of quasi-official private publishers. The first Supreme Court decisions were included in "Dallas Reports," a publication that predated the Supreme Court, and Supreme Court decisions were published alongside decisions from other courts. Beginning in 1801, Supreme Court decisions were published in stand-alone volumes. In 1874, U.S. Reports adopted the volume numbering and organization of the previous publishers, included the entirety of the Dallas Reports with its decisions from other courts. Indeed, U.S. Reports volume 1 doesn't contain any Supreme Court decisions; the first Supreme Court decision, <i>West v. Barnes</i> (1791), doesn't appear until near the end of U.S Reports (Dallas Reports) volume 2.
 
-Modernly, U.S. Reports publishes decisions from each court term in volumes that are around 1,000 pages. Final pagination is not established for several years after decisions are issued, during which changes the decisions themselves is still possible.<sup>[2]</sup> Thus, while citation to the U.S. Reports volume and page number is the standard citation in legal writing, very recent decisions do not yet have a U.S. Reports page number and must be cited in other ways.    
+Modernly, U.S. Reports publishes decisions from each court term in volumes that are around 1,000 pages. Final pagination is not established for several years after decisions are issued, during which changes the decisions themselves is still possible.<sup>[1](#note_1)</sup> Thus, while citation to the U.S. Reports volume and page number is the standard citation in legal writing, very recent decisions do not yet have a U.S. Reports page number and must be cited in other ways.    
 
 "scrape.py" crawls U.S Reports iteratively by volume beginning with the first Supreme Decisions near the end of volume 2, scraping each decision as hosted by [Wikisource.com](https://en.wikisource.org/wiki/United_States_Reports/Volume_2) and [Justia.com](https://supreme.justia.com/cases/federal/us/volume/). Other than beginning at the end of volume 2, "scrape.py" makes no effort to remove the non-Supreme Court decisions in volumes 3 and 4.
 
@@ -44,7 +42,7 @@ I have documented a few issues with the Justia database:
 
 3. At least one Justia case has no U.S Reports metadata: Republican National Committee v. Democratic National Committee (2020): https://supreme.justia.com/cases/federal/us/589/19a1016/. 
 
-<sup>2 Richard J. Lazarus, "[The (Non)Finality of Supreme Court Opinions](https://harvardlawreview.org/print/vol-128/the-nonfinality-of-supreme-court-opinions/)," 128 Harv. L. Rev. 540 (2014).</sup>
+<a name="note_1"></a><sup><sup>1</sup> Richard J. Lazarus, "[The (Non)Finality of Supreme Court Opinions](https://harvardlawreview.org/print/vol-128/the-nonfinality-of-supreme-court-opinions/)," 128 Harv. L. Rev. 540 (2014).</sup>
 
 ## Copyright Information
 
