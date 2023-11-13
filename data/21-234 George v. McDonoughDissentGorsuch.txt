@@ -1,0 +1,79 @@
+::SCDB_caseID:: 2021-055
+::decision_cite:: 21-234
+::decision_name::  George v. McDonough
+::decision_year:: 2022
+::opinion_author:: Gorsuch
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–234
+
+															_________________
+
+															KEVIN R. GEORGE, PETITIONER v. DENIS R. McDONOUGH, SECRETARY OF VETERANS AFFAIRS
+
+															on writ of certiorari to the united states court of appeals for the federal circuit
+
+															[June 15, 2022]
+
+															Justice Gorsuch, with whom Justice Breyer joins, and with whom Justice Sotomayor joins as to all but Part II–C, dissenting.
+
+															A young recruit to the United States Marines left the ranks after military doctors found his service aggravated a preexisting mental illness.  Eventually, he applied for service-related benefits.  The Veterans Administration refused his application.  It turns out the agency did so based on a badly mistaken reading of the law.  On discovering the error years later, the Marine petitioned the agency to revisit its decision.  Congress has expressly allowed veterans to do exactly that, providing that they may “at any time” petition the agency to cure “clear and unmistakable error[s]” in its past administrative decisions.  38 U. S. C. §§ 5109A, 7111.  Despite this statutory command, the agency refused to reopen the case.  Today, the Court upholds the agency’s decision.  Respectfully, I would not.
+
+															I
+
+															When Kevin George enlisted in the Marines in 1975, doctors conducted an entrance exam and found him fit to serve.  But shortly after training began, he was hospitalized and diagnosed with an “Acute Schizophrenic Reaction” that occurred “[i]n line of duty.”  Record in No. 16–2174 (Ct. Vet. App.), p. 1275.  Later, after a period of resumed training, Mr. George again required medical attention and a military psychiatrist diagnosed him with “Paranoid Schizophrenia” that was “Aggravated by Service.”  App. to Brief for Petitioner 3a.  A military medical board agreed, concluding that Mr. George’s condition predated his service but was “aggrav[a]ted by a period of active duty.”  Id., at 8a.  Ultimately, at the medical board’s recommendation, Mr. George was discharged.
+
+															When Mr. George filed a claim for veteran benefits a few months later, he had cause for optimism.  Congress has provided that veterans are entitled to “compensation” for any “disability resulting from [the] aggravation of a preexisting injury suffered or disease contracted in [the] line of duty.”  38 U. S. C. § 1110.  Congress has bolstered that right with a presumption that individuals are in “sound condition” when they enter service and are entitled to benefits later unless the government demonstrates by “clear and unmistakable evidence . . . that [their] injury or disease existed before acceptance and enrollment and was not aggravated by such service.”  § 1111 (emphasis added).  Relying on those provisions, Mr. George claimed that his military service aggravated his schizophrenia, meaning the government had the burden to disprove his claim.
+
+															The Veterans Administration, the precursor to today’s Department of Veterans Affairs (together, the Department or VA), denied Mr. George’s application.  In the process, the agency neglected to apply § 1111’s statutory presumption of soundness that attached to his entry into military service.  It also failed to follow § 1111’s command requiring the agency to prove that Mr. George’s condition “was not aggravated by such service.”  Instead, the VA relied on a very different set of rules of its own creation.  Under them, the agency said, all it had to show was that Mr. George suffered “an injury or disease [that] existed prior [to service].”  38 CFR § 3.304(b) (1976).  And after determining that Mr. George indeed suffered from schizophrenia before he joined the military, the agency denied his claim.  To make matters worse, the agency even faulted Mr. George for failing to carry his supposed burden of “support[ing] a claim for aggravation.”  App. to Pet. for Cert. 86a.
+
+															Eventually, virtually everyone came to agree that the administrative regulations on which the VA relied in deciding Mr. George’s case defied the statutory terms Congress prescribed in § 1111.  In 2003, the agency’s General Counsel admitted as much.  See VA Op. Gen. Counsel Precedent 3–2003, ¶¶ 3, 9.  The following year, the Federal Circuit held that the statute “clear[ly]” forbade the VA’s rules.  Wagner v. Principi, 370 F.3d 1089, 1094 (2004).
+
+															After the Federal Circuit’s decision in Wagner, Mr. George asked the agency to reconsider his case under the correct standard set forth in § 1111.  Understandably so.  Congress has directed the VA to revise any prior administrative benefits decision infected with “clear and unmistakable error.”  38 U. S. C. §§ 5109A (regional office), 7111 (veterans board).  Congress has further instructed that veterans may petition for review under this standard “at any time.”  §§ 5109A(d), 7111(d).  Yet, despite these directions, the agency in 2016 refused to reopen Mr. George’s case.  To justify its decision, the agency reasoned that “judicial decisions that offer new interpretations of the law subsequent to a VA decision cannot be the basis of a” claim for clear and unmistakable error under the terms of §§ 5109A and 7111.  App. to Pet. for Cert. 71a.  A divided panel of the Veterans Court, a non-Article III tribunal, affirmed.  See George v. Wilkie, 30 Vet. App. 364 (2019). So did the Federal Circuit.  991 F.3d 1227 (2021).
+
+															II
+
+															A
+
+															I would reverse.  In § 1111, Congress provided veterans with a presumption of soundness and required the government to prove by clear and convincing evidence that any condition a veteran suffered was not aggravated by service. Today, however, everyone accepts that the regulations the agency relied on to reject Mr. George’s initial claim impermissibly failed to implement these statutory commands.  On any reasonable account, that amounts to a clear and unmistakable agency error entitling Mr. George to a new hearing.  Regardless whether he can prevail under the test Congress actually prescribed in § 1111, he is at least entitled to a hearing consistent with the law’s terms.  The agency’s failure to provide him that simple (and legally compelled) courtesy is inexcusable.
+
+															Of course, just how badly the agency’s regulations departed from Congress’s commands in § 1111 may not have been widely appreciated until the Federal Circuit highlighted the problem in Wagner.  But a “judicial construction of a statute is an authoritative statement of what the statute meant before as well as after the decision.”  Rivers v. Roadway Express, Inc.,
+
+511 U.S. 298, 311–313 (1994).  And an agency’s “ ‘regulation which . . . operates to create a rule out of harmony with the statute, is a mere nullity.’ ”  Dixon v. United States,
+
+381 U.S. 68, 74 (1965).  From these premises, it follows that the agency’s ruling in this case, depending as it did on a statutorily impermissible regulation, was infected by “clear and unmistakable error” that Mr. George is entitled to have corrected “at any time.”  §§ 5109A, 7111.
+
+															B
+
+															What is the Court’s reply?  It highlights the fact that the agency’s regulations bound its own internal administrative decisionmakers when they ruled on Mr. George’s initial claim.  Given that, the Court says, the agency’s ruling was perfectly sound at the time, infected by no error of any kind, let alone clear and unmistakable error.  Of course, the Federal Circuit in Wagner later held that the agency’s regulations “clear[ly]” defied its statutory charge from Congress.  370 F. 3d, at 1094.  But, on the Court’s view today, that decision represented a change in governing law.  See ante, at 7, 9.
+
+															A clear and unmistakable agency error cannot be made to vanish so easily.  Even if an agency’s unlawful regulations may bind its own employees until a court says otherwise, that does not mean its decisions applying those regulations to others are error-free.  The regulations on which the VA relied in this case always defied Congress’s express command in § 1111.  In that sense, they were always a “ ‘nullity.’ ”  Dixon, 381 U. S., at 74.  Nor does it make a difference that Wagner recognized as much only some time later.  Once more, when a court interprets a statute and declares contrary regulations invalid, it cannot and does not change the law; it can only explain what the law has “always meant.”  Rivers, 511 U. S., at 313, n. 12.  The Court today errs badly by excusing an obvious error simply because it was once enshrined by the agency in a statutorily defiant regulation.
+
+															What is more, the Court’s reading is at odds with the plain terms of §§ 5109A and 7111.  Under those statutes, an initial administrative ruling denying benefits “is subject” to later “revision . . . [i]f evidence establishes the [clear and unmistakable] error.”  §§ 5109A(a), 7111(a) (emphasis added).  Notice the tense.  The law does not ask if the agency’s error was “clear and unmistakable” at the time of its original decision.  Instead, it commands the agency to correct any clear and unmistakable error presently established.  The same statutes further instruct that a petition “to determine whether clear and unmistakable error exists in a case may be instituted” in various ways.  §§ 5109A(c), 7111(c) (emphasis added). More present tense.  Congress easily could have said that a decision is reviewable only where an error was “clear and unmistakable” from the outset.  It did not.  Instead, Congress instructed the agency to assess whether—from its present vantage—one of its prior administrative rulings suffers from a “clear and unmistakable error.”
+
+															C
+
+															Perhaps sensing these problems with its primary theory, the Court offers a second and slightly different one.  Now it insists that the phrase “clear and unmistakable error” is a term of art that originated in (still other) agency regulations.  Ante, at 5.  Under those regulations, the Court observes, an error did not qualify as “clear and unmistakable” if it was based on a “change in law or . . . a change in interpretation of law.”  38 CFR § 3.105 (Cum. Supp. 1963); see ante, at 6.  On the Court’s telling, Congress meant to incorporate this same standard when it adopted §§ 5109A and 7111.  And, the Court continues, that standard precludes relief in this case because the error here is apparent only thanks to the Federal Circuit’s intervening Wagner decision, which represented a “change in interpretation of law.”  See ante, at 6–8.
+
+															This argument is no more persuasive than the last.  When Congress “transform[s] . . . a regulatory procedure [in]to a statutory form of relief,” we enforce only those components Congress actually “codif[ied]” in the statutory text.  Kucana v. Holder,
+
+558 U.S. 233, 249–250 (2010) (internal quotation marks omitted).  And here Congress did not codify the part of the old agency regulation on which the Court relies.  Nothing in the text of § 5109A or § 7111 says that errors resulting from “changes in law” or “changes in interpretation” are immune from correction.  To the contrary, Congress omitted this language from the agency’s prior regulations when it adopted §§ 5109A and 7111.  Under the law Congress actually wrote, prior agency decisions are “subject to revision on the grounds of clear and unmistakable error.”  Full stop.  This Court should not be in the business of adding words to the law, let alone to insulate badly mistaken agency decisions from any chance of correction.
+
+															III
+
+															In the end, it is hard to avoid the impression that the Court thinks an old agency ruling in Mr. George’s case just isn’t worth revisiting.  See ante, at 10. Maybe, too, that might seem an understandable impulse on first encounter.  After all, in civil and criminal litigation new judicial interpretations about a law’s meaning normally do not apply to old cases after they have reached final judgment.  See, e.g., Harper v. Virginia Dept. of Taxation,
+
+509 U.S. 86, 94–97 (1993).
+
+															But it turns out that impulse is doubly misguided here.  For one thing, it is a mistake to equate veteran benefits cases with ordinary civil and criminal litigation.  Recognizing the sacrifices of those who have left private life to serve their country, Congress has ordained that a veteran may petition for review of clear and unmistakable errors in past administrative decisions “at any time.”  §§ 5109A(d), 7111(d).  Congress’s “whole purpose” in setting up this scheme was “to make an exception to [the usual rule of] finality” for our veterans in recognition of their service to the Nation.  Gonzalez v. Crosby,
+
+545 U.S. 524, 529 (2005).
+
+															For another thing, this case doesn’t just affect Mr. George.  It risks insulating countless other decisions in which the Department has wrongly denied veteran benefits based on self-serving regulations inconsistent with Congress’s instructions.  See, e.g., Brief for National Veterans Legal Services Program et al. as Amici Curiae 15–27; Brief for Swords to Plowshares et al. as Amici Curiae 19–20.  Veterans already face challenges enough in dealing with the Department.  On average, the agency takes seven years to process their administrative appeals.  See Brief for National Law School Veterans Clinic Consortium as Amicus Curiae 18.  Over the past five years, it seems that the Veterans Court has affirmed less than 10 percent of the agency’s decisions.  See ibid.  Internal audits have revealed massive numbers of improperly denied claims.  See id., at 19.  I would not add to these problems by shielding the Department from the inconvenience of having to answer for its own clear and unmistakable errors.  Respectfully, I dissent.
+													

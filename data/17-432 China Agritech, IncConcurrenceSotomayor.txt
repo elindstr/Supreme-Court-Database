@@ -1,0 +1,86 @@
+::SCDB_caseID:: 2017-066
+::decision_cite:: 17-432
+::decision_name::  China Agritech, Inc. v. Resh
+::decision_year:: 2018
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–432
+
+															_________________
+
+															CHINA AGRITECH, INC., PETITIONER v. MICHAEL H. RESH, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 11, 2018]
+
+															
+
+															Justice Sotomayor, concurring in the judgment.
+
+															I agree with the Court that in cases governed by the Private Securities Litigation Reform Act of 1995 (PSLRA),
+
+15 U. S. C. §78u–4, like this one, a plaintiff who seeks to bring a successive class action may not rely on the tolling rule established by American Pipe & Constr. Co. v. Utah,
+
+414 U. S. 538 (1974).  I cannot, however, join the majority in going further by holding that the same is true for class actions not subject to the PSLRA.
+
+															I
+
+															A
+
+															To understand why the PSLRA is essential to the conclusion the Court reaches here, recall that this case involves a putative class-action lawsuit brought by a plaintiff with a timely individual claim, joined by coplaintiffs with timely individual claims, on behalf of a putative class of absent class members with timely individual claims.  See ante, at 4.  One might naturally think, then, that the class claims in the lawsuit are timely.  The majority, however, concludes that the named plaintiffs’ and putative class members’ class claims are time barred.
+
+															At first blush, this result might seem surprising, for the Court has rejected the idea that class claims are categorically different from individual claims.  See Shady Grove Orthopedic Associates, P. A. v. Allstate Ins. Co.,
+
+559 U. S. 393, 398 (2010).  Although it did not hold that class claims may never be treated differently from individual claims, Shady Grove indicates that there must be a special reason for doing so.
+
+															Here, the PSLRA supplies that special reason.  The PSLRA imposes significant procedural requirements on securities class actions that do not apply to individual or traditionally joined securities claims.  See §78u–4(a)(1).
+
+															Foremost among these requirements is a process for the “[a]ppointment of lead plaintiff.”  §78u–4(a)(3).  Under the PSLRA, the named plaintiff in a putative class action must publish within 20 days of filing the complaint a nationwide notice alerting putative class members to the filing of the suit and informing them that, “not later than 60 days after the date on which the notice is published, any member of the purported class may move the court to serve as lead plaintiff.”  §78u–4(a)(3)(A)(i).  The district court then must evaluate all prospective lead plaintiffs and choose the “most adequate” one based on a set of enumerated considerations.  §78u–4(a)(3)(B).  The PSLRA thus contemplates a process by which all prospective class representatives come forward in the first-filed class action and make their arguments to the court for lead-plaintiff status.  See H. R. Conf. Rep. No. 104–369, p. 32 (1995).
+
+															Respondents here bypassed that statutory process.  They do not dispute that notice was published in the two earlier-filed putative class actions concerning the same securities claims as here, as required by the PSLRA.  Yet they did not seek to be chosen lead plaintiffs in either of those actions.  See ante, at 3–4, 8.  For that reason alone, I agree with the majority that respondents “can hardly qualify as diligent in asserting [class] claims and pursuing relief.”  Ante, at 9.  Respondents’ failure to utilize the PSLRA’s lead-plaintiff selection procedure distinguishes them from the American Pipe absent class members, who were subject only to the traditional Federal Rule of Civil Procedure 23 class procedure, which is “designed to avoid, rather than encourage, unnecessary filing of repetitious papers and motions.”  414 U. S., at 550.
+
+															Unlike the PSLRA, Rule 23 contains no requirement of precertification notice to absent putative class members; it provides only for postcertification notice.  See Fed. Rule Civ. Proc. 23(c)(2).  There thus is no mechanism for absent putative class members to learn that a putative class action is pending, much less that they are entitled to seek to displace the named plaintiff in that lawsuit as class representative.  Also unlike the PSLRA, Rule 23 contains no process for a district court to choose from among the various candidates for lead plaintiff, nor does it specify what would make a person the most adequate representative of the class.  See 7A C. Wright, A. Miller, & M. Kane, Federal Practice and Procedure §1765, p. 321 (3d ed. 2005).  In class actions not subject to the PSLRA, the class representative is generally the first person who files the suit, and so is self-selected (subject to an adequacy determination), rather than selected by the court.[1]  See Rule 23(a)(4) (“One or more members of a class may sue or be sued as representative parties on behalf of all members only if . . . the representative parties will fairly and adequately protect the interests of the class”); Rule 23(c)(1)(A) (“At an early practicable time after a person sues or is sued as a class representative, the court must determine by order whether to certify the action as a class action”); H. R. Conf. Rep. No. 104–369, at 33–35.
+
+															The majority points to Rule 23(c)’s requirement that the determination whether to certify a class be made at “ ‘an early practicable time,’ ” ante, at 7, but there is no significance to that requirement with respect to the diligence of would-be class representatives.  The Advisory Committee notes accompanying the 2003 amendment to Rule 23(c), which changed the recommended timing for a certification determination from “as soon as practicable” to “at an early practicable time,” explained that the change would permit time for “controlled discovery into the ‘merits,’ ” efforts by defendants “to win dismissal or summary judgment as to the individual plaintiffs without certification,” and the considered “designation of class counsel.”  Advisory Committee’s 2003 Notes on subd. (c)(1)(A) of Fed. Rule Civ. Proc. 23, 28 U. S. C. App., p. 815.  The notes say nothing about lead-plaintiff selection, and Rule 23(c) in no way ensures that potential lead plaintiffs know about the putative class action or about their opportunity to represent the class.
+
+															Given these important differences between Rule 23’s general class procedures and the specific procedures imposed by the PSLRA, the majority’s conclusion that absent class members were not diligent because they failed to ask to be the class representative in a prior suit makes sense only in the PSLRA context.  The same conclusion simply does not follow in the generic Rule 23 context, where absent class members are most likely unaware of the existence of a putative class action.  Cf. American Pipe, 414 U. S., at 551–552 (explaining that even absent class members who are unaware of the putative class action are entitled to tolling).
+
+															B
+
+															In addition to its focus on plaintiff diligence, the majority offers a separate line of reasoning to support its broad holding.  It explains that its limitation on American Pipe tolling is necessary to prevent a “limitless” series of class actions, each rendered timely by the tolling effect of the previous ones.  Ante, at 10.  As the majority acknowledges, however, there is no such risk in this case, see ibid., because the applicable statute of repose puts a 5-year “outer limit on the right to bring a civil action.”  CTS Corp. v. Waldburger, 573 U. S. ___, ___ (2014) (slip op., at 6).  The majority is right, of course, that in many other types of cases, no statute of repose will apply.  See ante, at 10–11.  But the Court has elsewhere pointed to the power of “comity among courts to mitigate the sometimes substantial costs of similar litigation brought by different plaintiffs.”  Smith v. Bayer Corp.,
+
+564 U. S. 299, 317 (2011).  There is no reason to assume that this existing safeguard will prove inadequate if the Court holds that American Pipe tolling is available for successive class actions outside the PSLRA context.
+
+															Even if principles of comity prove insufficient such that some modification to the American Pipe rule is necessary to prevent indefinite tolling, a narrower form of redress is available.  Instead of adopting a blanket no-tolling-of-class-claims-ever rule outside the PSLRA context, the Court might hold, as a matter of equity, that tolling only becomes unavailable for future class claims where class certification is denied for a reason that bears on the suit- ability of the claims for class treatment.  Where, by contrast, class certification is denied because of the deficiencies of the lead plaintiff as class representative, or because of some other nonsubstantive defect, tolling would remain available.[2]  See Yang v. Odom, 392 F. 3d 97, 112 (CA3 2004).  This approach would, for instance, ensure that in cases where the only problem with the first suit was the identity of the named plaintiff, a new and more adequate representative could file another suit to represent the class.  Preserving the opportunity for such a fix may seem unimportant in a PSLRA case like this one, where the court in the first-filed case will usually have a choice among possible lead plaintiffs.  See ante, at 8–9, n. 3.  But, as just explained, in class actions not subject to the PSLRA, the certifying court often will have no choice as to the class representative.
+
+															Whether this or another rule ultimately is the right one, there is no need for the Court today to reach beyond the facts of this case, where the specter of indefinite tolling is merely hypothetical, and foreclose the possibility of a more tailored approach.
+
+															C
+
+															Finally, the majority suggests that its broader approach will encourage multiple potential class representatives to come forward early, which may “aid a district court” in making class certification decisions.  Ante, at 14.  This may well be so in the PSLRA context, given the statute’s notice requirement and built-in mechanism for selecting the most adequate lead plaintiff.  But in suits not covered by the PSLRA, absent class members may not know of the pending class action early enough to “aid” the court, and will likely have to file a completely separate lawsuit if what they seek is lead-plaintiff status.
+
+															In addition to increasing the number of unnecessary filings, a result at odds with American Pipe’s concern with avoiding “needless duplication,” 414 U. S., at 554, the existence of multiple putative class actions covering the same harm to the same class may lead to a “race toward judgment or settlement.”  Wasserman, Dueling Class Actions, 80 B. U. L. Rev. 461, 472 (2000).  Each class lawyer knows that only the lawyers in the first-resolved case will get paid, because the other suits will then be dismissed on claim-preclusion grounds.  Ibid.  Defense lawyers know this, too, so they are “able to engage in a ‘reverse auction,’ pitting the various class counsel against one another and agreeing to settle with the lawyer willing to accept the lowest bid on behalf of the class.”  Id., at 473.  This gamesmanship is not in class members’ interest, nor in the interest of justice.  I therefore think it unwise to encourage the filing of such dueling class actions outside the PSLRA context.
+
+															II
+
+															Although there is ample support for denying American Pipe tolling to successive class actions subject to the PSLRA, the majority’s reasoning does not justify denying American Pipe tolling to other successive class actions.  The majority could have avoided this error by limiting its decision to the issues presented by the facts of this case.
+
+															Despite the Court’s misstep in adopting an unnecessarily broad rule, district courts can help mitigate the potential unfairness of denying American Pipe tolling to class claims not subject to the PSLRA.  Where appropriate, district courts should liberally permit amendment of the pleadings or intervention of new plaintiffs and counsel.
+
+															Because I agree with the majority’s conclusion just as applied to class actions governed by the PSLRA, like this one, I concur only in the judgment.
+Notes
+1
+ There may, of course, be competition among putative class members to proceed on behalf of the putative class in an action not governed by the PSLRA, and the district court generally considers their relative qualities.  But the point is that the court is not required by Rule 23 to identify and designate as lead plaintiff the person most capable of adequately representing the class; it is only required to determine for certification purposes whether the class representative adequately represents the class.  See 7A Wright, Federal Practice and Procedure §1765, at 321. 
+
+2
+ Such an approach would, of course, be “grounded in the traditional equitable powers of the judiciary,” which are “the source of the tolling rule applied in American Pipe,” and not Rule 23, which “does not so much as mention the extension or suspension of statutory time bars.”  California Public Employees’ Retirement System v. ANZ Securities, Inc., 582 U. S. ___, ___ (2017) (slip op., at 10); see ante, at 11, n. 5. 
+
+

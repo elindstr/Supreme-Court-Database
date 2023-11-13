@@ -1,0 +1,755 @@
+::SCDB_caseID:: 2018-005
+::decision_cite:: 17-647
+::decision_name::  Knick v. Township of Scott
+::decision_year:: 2019
+::opinion_author:: Kagan
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–647
+
+															_________________
+
+															ROSE MARY KNICK, PETITIONER v. TOWNSHIP
+OF SCOTT, PENNSYLVANIA, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the third circuit
+
+															[June 21, 2019]
+
+															
+
+															Justice Kagan, with whom Justice Ginsburg,
+Justice Breyer, and Justice Sotomayor join, dissenting.
+
+															Today, the Court formally overrules
+Williamson County Regional Planning Comm’n v.
+Hamilton Bank of Johnson City, 473 U.S.
+172 (1985). But its decision rejects far more than that single
+case. Williamson County was rooted in an understanding of
+the Fifth Amendment’s Takings Clause stretching back to the
+late 1800s. On that view, a government could take property so long
+as it provided a reliable mechanism to pay just compensation, even
+if the payment came after the fact. No longer. The majority today
+holds, in conflict with precedent after precedent, that a
+government violates the Constitution whenever it takes property
+without advance compensation—no matter how good its
+commitment to pay. That conclusion has no basis in the Takings
+Clause. Its consequence is to channel a mass of quintessentially
+local cases involving complex state-law issues into federal courts.
+And it transgresses all usual principles of stare decisis. I
+respectfully dissent.
+
+															I
+
+															Begin with the basics—the meaning of the
+Takings Clause. The right that Clause confers is not to be free
+from government takings of property for public purposes. Instead,
+the right is to be free from those takings when the government
+fails to provide “just compensation.” In other words,
+the government can take private property for public
+purposes, so long as it fairly pays the property owner. That
+precept, which the majority does not contest, comes straight out of
+the constitutional text: “[P]rivate property [shall not] be
+taken for public use, without just compensation.” Amdt. 5.
+“As its language indicates, [the Takings Clause] does not
+prohibit the taking of private property, but instead places a
+condition on the exercise of that power.” First English
+Evangelical Lutheran Church of Glendale v. County of Los
+Angeles, 482
+U.S. 304, 314 (1987). And that constitutional choice accords
+with ancient principles about what governments do. The eminent
+domain power—the capacity to “take private property for
+public uses”—is an integral “attribute of
+sovereignty.” Boom Co. v. Patterson, 98 U.S.
+403, 406 (1879); see Kohl v. United States,
+91 U.S.
+367, 371 (1876) (The power is “essential to [the
+Government’s] independent existence and perpetuity”).
+Small surprise, then, that the Constitution does not prohibit
+takings for public purposes, but only requires the government to
+pay fair value.
+
+															In that way, the Takings Clause is unique among
+the Bill of Rights’ guarantees. It is, for example, unlike
+the Fourth Amendment’s protection against excessive
+force—which the majority mistakenly proposes as an analogy.
+See ante, at 8. Suppose a law enforcement officer uses
+excessive force and the victim recovers damages for his injuries.
+Did a constitutional violation occur? Of course. The Constitution
+prohibits what the officer did; the payment of damages merely
+remedied the constitutional wrong. But the Takings Clause is
+different because it does not prohibit takings; to the contrary, it
+permits them provided the government gives just compensation. So
+when the government “takes and pays,” it is not
+violating the Constitution at all. Put another way, a Takings
+Clause violation has two necessary elements. First, the government
+must take the property. Second, it must deny the property owner
+just compensation. See Horne v. Department of
+Agriculture, 569 U.S.
+513, 525–526 (2013) (“[A] Fifth Amendment claim is
+premature until it is clear that the Government has both taken
+property and denied just compensation” (emphasis in
+original)). If the government has not done both, no constitutional
+violation has happened. All this is well-trod ground. See,
+e.g., United States v. Jones, 109 U.S.
+513, 518 (1883); Albert Hanson Lumber Co. v. United
+States, 261 U.S.
+581, 586 (1923). Even the majority (despite its faulty analogy)
+does not contest it.
+
+															Similarly well-settled—until the
+majority’s opinion today—was the answer to a follow-on
+question: At what point has the government denied a property owner
+just compensation, so as to complete a Fifth Amendment violation?
+For over a hundred years, this Court held that advance or
+contemporaneous payment was not required, so long as the government
+had established reliable procedures for an owner to later obtain
+just compensation (including interest for any time elapsed). The
+rule got its start in Cherokee Nation v. Southern Kansas
+R. Co., 135 U.S.
+641 (1890), where the Tribe argued that a federal statute
+authorizing condemnation of its property violated the Fifth
+Amendment because the law did not require advance payment. The
+Court disagreed. It held that the Takings Clause “does not
+provide or require that compensation shall be actually paid in
+advance of the occupancy of the land to be taken” so long as
+the government made available to the owner “reasonable,
+certain and adequate provision for obtaining compensation”
+afterward. Id., at 659. Decade after decade, the Court
+repeated that principle.[1] As
+another case put the point: The Takings Clause does not demand
+“that compensation should be made previous to the
+taking” so long as “adequate means [are] provided for a
+reasonably just and prompt ascertainment and payment of the
+compensation.” Crozier v. Krupp A. G.,
+224 U.S.
+290, 306 (1912). And the Court also made clear that a statute
+creating a right of action against the responsible government
+entity generally qualified as a constitutionally adequate
+compensatory mechanism. See, e.g., Williams v.
+Parker, 188 U.S.
+491, 502 (1903); Yearsley v. W. A. Ross Constr.
+Co., 309 U.S.
+18, 20–21 (1940).[2]
+
+															Williamson County followed from those
+decisions as night the day. The case began when a local planning
+commission rejected a property owner’s development proposal.
+The owner chose not to seek compensation through the procedure the
+State had created—an “inverse condemnation”
+action against the commission. Instead, the owner sued in federal
+court alleging a Takings Clause violation under 42
+U. S. C. §1983. Consistent with the century’s
+worth of precedent I have recounted above, the Court found that no
+Fifth Amendment violation had yet occurred. See 473 U. S., at
+195. The Court first recognized that “[t]he Fifth Amendment
+does not proscribe the taking of property; it proscribes taking
+without just compensation.” Id., at 194. Next, the
+Court stated (citing no fewer than five precedents) that the
+Amendment does not demand that “compensation be paid in
+advance of, or contemporaneously with, the taking.”
+Ibid. “[A]ll that is required,” the Court
+continued, is that the State have provided “a
+‘reasonable, certain and adequate provision for obtaining
+compensation.’ ” Ibid. (quoting Cherokee
+Nation, 135 U. S., at 659). Here, the State had done so:
+Nothing suggested that the inverse condemnation procedure was
+inadequate. 473 U. S., at 196–197. So the property
+owner’s claim was “not yet ripe”: The owner could
+not “claim a violation of the [Takings] Clause until it [had]
+used the procedure and been denied.” Id., at
+194–195.
+
+															So contrary to the majority’s portrayal,
+Williamson County did not result from some inexplicable
+confusion about “how the Takings Clause works.”
+Ante, at 8. Far from it. Williamson County built on a
+long line of decisions addressing the elements of a Takings Clause
+violation. The Court there said only two things remotely new.
+First, the Court found that the State’s inverse condemnation
+procedure qualified as a “reasonable, certain and
+adequate” procedure. But no one in this case disputes
+anything to do with that conclusion—including that the
+equivalent Pennsylvania procedure here is similarly adequate.
+Second, the Court held that a §1983 suit could not be brought
+until a property owner had unsuccessfully invoked the State’s
+procedure for obtaining payment. But that was a direct function of
+the Court’s prior holdings. Everyone agrees that a §1983
+suit cannot be brought before a constitutional violation has
+occurred. And according to the Court’s repeated decisions, a
+Takings Clause violation does not occur until an owner has used the
+government’s procedures and failed to obtain just
+compensation. All that Williamson County did was to put the
+period on an already-completed sentence about when a takings claim
+arises.[3]
+
+															Today’s decision thus overthrows the
+Court’s long-settled view of the Takings Clause. The majority
+declares, as against a mountain of precedent, that a government
+taking private property for public purposes must pay compensation
+at that moment or in advance. See ante, at 6–7. If the
+government fails to do so, a constitutional violation has occurred,
+regardless of whether “reasonable, certain and
+adequate” compensatory mechanisms exist. Cherokee
+Nation, 135 U. S., at 659. And regardless of how many
+times this Court has said the opposite before. Under cover of
+overruling “only” a single decision, today’s
+opinion smashes a hundred-plus years of legal rulings to
+smithereens.
+
+															II
+
+															So how does the majority defend taking down
+Williamson County and its many precursors? Its decision
+rests on four ideas: a comparison between takings claims and other
+constitutional claims, a resort to the Takings Clause’s text,
+and theories about two lines of this Court’s precedent. All
+are misguided. The majority uses the term “shaky
+foundations.” Ante, at 21. It knows whereof it
+speaks.
+
+															The first crack comes from the repeated
+assertion (already encountered in the majority’s Fourth
+Amendment analogy, see supra, at 2) that Williamson
+County treats takings claims worse than other claims founded in
+the Bill of Rights. See ante, at 6, 8, 11–12, 20. That
+is not so. The distinctive aspects of litigating a takings claim
+merely reflect the distinctive aspects of the constitutional right.
+Once again, a Fourth Amendment claim arises at the moment a police
+officer uses excessive force, because the Constitution prohibits
+that thing and that thing only. (Similarly, for the
+majority’s other analogies, a bank robber commits his offense
+when he robs a bank and a tortfeasor when he acts
+negligently—because that conduct, and it alone, is what the
+law forbids.) Or to make the same point a bit differently, even if
+a government could compensate the victim in advance—as the
+majority requires here—the victim would still suffer
+constitutional injury when the force is used. But none of that is
+true of Takings Clause violations. That kind of infringement, as
+explained, is complete only after two things occur: (1) the
+government takes property, and (2) it fails to pay just
+compensation. See supra, at 2–3. All Williamson
+County and its precursors do is recognize that fact, by saying
+that a constitutional claim (and thus a §1983 suit) arises
+only after the second condition is met—when the property
+owner comes away from the government’s compensatory procedure
+empty-handed. That is to treat the Takings Clause exactly as its
+dual elements require—and because that is so, neither worse
+nor better than any other right.
+
+															Second, the majority contends that its rule
+follows from the constitutional text, because the Takings Clause
+does not say “[n]or shall private property be taken for
+public use, without an available procedure that will result in
+compensation.” Ante, at 6. There is a reason the
+majority devotes only a few sentences to that argument. Because
+here’s another thing the text does not say: “Nor shall
+private property be taken for public use, without advance or
+contemporaneous payment of just compensation, notwithstanding
+ordinary procedures.” In other words, the text no more states
+the majority’s rule than it does Williamson
+County’s (and its precursors’). As constitutional
+text often is, the Takings Clause is spare. It says that a
+government taking property must pay just compensation—but
+does not say through exactly what mechanism or at exactly what
+time. That was left to be worked out, consistent with the
+Clause’s (minimal) text and purpose. And from 1890 until
+today, this Court worked it out Williamson County’s
+way, rather than the majority’s. See supra, at
+3–4. Under our caselaw, a government could use reliable
+post-taking compensatory mechanisms (with payment calculated from
+the taking) without violating the Takings Clause.
+
+															Third, the majority tries to explain away that
+mass of precedent, with a theory so, well, inventive that it
+appears in neither the petitioner’s nor her 15-plus
+amici’s briefs. Don’t read the decisions
+“too broadly,” the majority says. Ante, at 16.
+Yes, the Court in each rejected a takings claim, instructing the
+property owner to avail herself instead of a government-created
+compensatory mechanism. But all the Court meant (the majority says)
+was that the plaintiffs had sought the wrong kind of relief: They
+could not get injunctions because the available compensatory
+procedures gave an adequate remedy at law. The Court still believed
+(so says the majority) that the cases involved constitutional
+violations. Or said otherwise (again, according to the majority),
+the Court still understood the Takings Clause to prohibit delayed
+payment.
+
+															Points for creativity, but that is just not what
+the decisions say. Most of the cases involved requests for
+injunctions, but the equity/law distinction played little or no
+role in our analyses. Instead, the decisions addressed directly
+what the Takings Clause requires (or not). And as already shown,
+supra, at 3–4, they held that the Clause does not
+demand advance payment. Beginning again at the beginning,
+Cherokee Nation decided that the Takings Clause “does
+not provide or require that compensation shall be actually paid in
+advance.” 135 U. S., at 659. In Backus v. Fort
+Street Union Depot Co., 169 U.S.
+557, 567–568 (1898), the Court declared that a property
+owner had no “constitutional right to have the amount of his
+compensation finally determined and paid before yielding
+possession.” By the time of Williams v. Parker,
+188 U. S., at 502, the Court could state that “it is
+settled by repeated decisions” that the Constitution allows
+the taking of property “prior to any payment.”
+Similarly, in Joslin Mfg. Co. v. Providence,
+262 U.S.
+668, 677 (1923), the Court noted that “[i]t has long been
+settled that the taking of property . . . need not be
+accompanied or preceded by payment, but that the requirement of
+just compensation is satisfied when” there is a pledge of
+“reasonably prompt ascertainment and payment.” In
+Hurley v. Kincaid, 285 U.S.
+95, 104 (1932), the Court repeated that the “ Fifth
+Amendment does not entitle [a property owner] to be paid in advance
+of the taking.” I could go on—there are eighty more
+years to cover, and more decisions in the early years too—but
+by now you probably get the idea.
+
+															Well, just one more especially good
+demonstration. In Yearsley v. W. A. Ross Constr. Co.,
+309 U.S.
+18 (1940), the plaintiffs sought money damages for an alleged
+Takings Clause violation. For that reason, the Court’s theory
+about suits seeking injunctions has no possible application. Still,
+the Court rejected the claim: The different remedy requested made
+no difference in the result. And yet more important: In refusing to
+find a Takings Clause violation, the Court used the exact same
+reasoning as it had in all the cases requesting injunctions. Once
+again, the Court did not focus on the nature of the relief sought.
+It simply explained that the government had provided a procedure
+for obtaining post-taking compensation—and that was enough.
+“The Fifth Amendment does not entitle him [the owner] to be
+paid in advance of the taking,” held the Court, quoting the
+last injunction case described above. Id., at 21 (quoting
+Hurley, 285 U. S., at 104; brackets in original).
+Because the government had set up an adequate compensatory
+mechanism, the taking was “within [the government’s]
+constitutional power.” 309 U. S., at 22. Once again, the
+opposite of what the majority pronounces today.[4]
+
+															Fourth and finally, the majority lays claim to
+another line of decisions—involving the Tucker Act—but
+with no greater success. The Tucker Act waives the Federal
+Government’s sovereign immunity and grants the Court of
+Federal Claims jurisdiction over suits seeking compensation for
+takings. See 28 U. S. C. §1491(a)(1). According to
+the majority, this Court’s cases establish that such an
+action “is a claim for a violation of the Fifth
+Amendment”—that is, for a constitutional offense that
+has already happened because of the absence of advance payment.
+Ante, at 19, n. 7 (emphasis in original); see
+ante, at 13. But again, the precedents say the opposite. The
+Tucker Act is the Federal Government’s equivalent of a
+State’s inverse condemnation procedure, by which a property
+owner can obtain just compensation. The former, no less than the
+latter, forestalls any constitutional violation by ensuring
+that an owner gets full and fair payment for a taking. The Court,
+for example, stated in United States v. Riverside Bayview
+Homes, Inc., 474 U.S.
+121, 128 (1985), that “so long as [post-taking Tucker
+Act] compensation is available for those whose property is in fact
+taken, the governmental action is not unconstitutional.”
+Similarly, we held in Preseault v. ICC, 494 U.S.
+1, 4–5 (1990) that when “compensation is available
+to [property owners] under the Tucker Act[,] the requirements of
+the Fifth Amendment are satisfied.” And again, in
+Ruckelshaus v. Monsanto Co., 467
+U.S. 986, 1016 (1984) we rejected a takings claim because the
+plaintiff could “seek just compensation under the Tucker
+Act” and “[t]he Fifth Amendment does not require that
+compensation precede the taking.” All those decisions (and
+there are others) rested on the premise, merely reiterated in
+Williamson County, that the “availability of a suit
+for compensation against the sovereign will defeat a contention
+that the action is unconstitutional as a violation of the Fifth
+Amendment.” Larson v. Domestic and Foreign Commerce
+Corp., 337 U.S.
+682, 697, n. 18 (1949).[5]
+
+															To the extent it deals with these cases (mostly,
+it just ignores them), the majority says only that they (like
+Williamson County) were “confused” or wrong. See
+ante, at 13, 19, n. 7. But maybe the majority should
+take the hint: When a theory requires declaring precedent after
+precedent after precedent wrong, that’s a sign the theory
+itself may be wrong. The majority’s theory is just that.
+
+															III
+
+															And not only wrong on prior law. The
+majority’s overruling of Williamson County will have
+two damaging consequences. It will inevitably turn even
+well-meaning government officials into lawbreakers. And it will
+subvert important principles of judicial federalism.
+
+															To begin with, today’s decision means that
+government regulators will often have no way to avoid violating the
+Constitution. There are a “nearly infinite variety of
+ways” for regulations to “affect property
+interests.” Arkansas Game and Fish Comm’n v.
+United States, 568 U.S.
+23, 31 (2012). And under modern takings law, there is “no
+magic formula” to determine “whether a given government
+interference with property is a taking.” Ibid. For
+that reason, a government actor usually cannot know in advance
+whether implementing a regulatory program will effect a taking,
+much less of whose property. Until today, such an official could do
+his work without fear of wrongdoing, in any jurisdiction that had
+set up a reliable means for property owners to obtain compensation.
+Even if some regulatory action turned out to take someone’s
+property, the official would not have violated the Constitution.
+But no longer. Now, when a government undertakes land-use
+regulation (and what government doesn’t?), the responsible
+employees will almost inescapably become constitutional
+malefactors. That is not a fair position in which to place persons
+carrying out their governmental duties.
+
+															Still more important, the majority’s
+ruling channels to federal courts a (potentially massive) set of
+cases that more properly belongs, at least in the first instance,
+in state courts—where Williamson County put them. The
+regulation of land use, this Court has stated, is “perhaps
+the quintessential state activity.” FERC v.
+Mississippi, 456 U.S.
+742, 768, n. 30 (1982). And a claim that a land-use
+regulation violates the Takings Clause usually turns on state-law
+issues. In that respect, takings claims have little in common with
+other constitutional challenges. The question in takings cases is
+not merely whether a given state action meets federal
+constitutional standards. Before those standards can come into
+play, a court must typically decide whether, under state law, the
+plaintiff has a property interest in the thing regulated. See
+Phillips v. Washington Legal Foundation, 524 U.S.
+156, 164 (1998); see also Sterk, The Demise of Federal Takings
+Litigation, 48 Wm. & Mary L. Rev. 251, 288 (2006) (“[I]f
+background state law did not recognize or create property in the
+first instance, then a subsequent state action cannot take
+property”). Often those questions—how does pre-existing
+state law define the property right?; what interests does that law
+grant?; and conversely what interests does it deny?—are
+nuanced and complicated. And not a one of them is familiar to
+federal courts.
+
+															This case highlights the difficulty. The
+ultimate constitutional question here is: Did Scott
+Township’s cemetery ordinance “go[ ] too
+far” (in Justice Holmes’s phrase), so as to effect a
+taking of Rose Mary Knick’s property? Pennsylvania Coal
+Co. v. Mahon, 260 U.S.
+393, 415 (1922). But to answer that question, it is first
+necessary to address an issue about background state law. In the
+Township’s view, the ordinance did little more than codify
+Pennsylvania common law, which (the Township says) has long
+required property owners to make land containing human remains open
+to the public. See Brief for Respondents 48; Brief for Cemetery Law
+Scholars as Amici Curiae 6–26. If the Township is
+right on that state-law question, Knick’s constitutional
+claim will fail: The ordinance, on that account, didn’t go
+far at all. But Knick contends that no common law rule of that kind
+exists in Pennsylvania. See Reply Brief 22. And if she is right,
+her takings claim may yet have legs. But is she? Or is the
+Township? I confess: I don’t know. Nor, I would venture, do
+my colleagues on the federal bench. But under today’s
+decision, it will be the Federal District Court for the Middle
+District of Pennsylvania that will have to resolve this question of
+local cemetery law.
+
+															And if the majority thinks this case is an
+outlier, it’s dead wrong; indeed, this case will be easier
+than many. Take Lucas v. South Carolina Coastal
+Council, 505 U.S.
+1003 (1992). There, this Court held that a South Carolina ban
+on development of beachfront property worked a taking of the
+plaintiff’s land—unless the State’s nuisance law
+already prohibited such development. See id., at
+1027–1030. The Court then—quite sensibly—remanded
+the case to the South Carolina Supreme Court to resolve that
+question. See id., at 1031–1032. (And while spotting
+the nuisance issue, the Court may have overlooked other state-law
+constraints on development. In some States, for example, the public
+trust doctrine or public prescriptive easements limit the
+development of beachfront land. See Sterk, The Federalist Dimension
+of Regulatory Takings Jurisprudence, 114 Yale L. J. 203, 227
+(2004).) Or consider Stop the Beach Renourishment, Inc. v.
+Florida Dept. of Environmental Protection, 560 U.S.
+702 (2010). The federal constitutional issue there was whether
+a decision of the Florida Supreme Court relating to beachfront
+property constituted a taking. To resolve that issue, though, the
+Court first had to address whether, under pre-existing Florida
+property law, “littoral-property owners had rights to future
+accretions and contact with the water superior to the State’s
+right to fill in its submerged land.” Id., at 730. The
+Court bit the bullet and decided that issue itself, as it sometimes
+has to (though thankfully with the benefit of a state high
+court’s reasoning). But there is no such necessity
+here—and no excuse for making complex state-law issues part
+of the daily diet of federal district courts.
+
+															State courts are—or at any rate, are
+supposed to be—the “ultimate expositors of state
+law.” Mullaney v. Wilbur, 421 U.S.
+684, 691 (1975). The corollary is that federal courts should
+refrain whenever possible from deciding novel or difficult
+state-law questions. That stance, as this Court has long
+understood, respects the “rightful independence of the state
+governments,” “avoid[s] needless friction with state
+policies,” and promotes “harmonious relation[s] between
+state and federal authority.” Railroad Comm’n of
+Tex. v. Pullman Co., 312 U.S.
+496, 500–501 (1941). For that reason, this Court has
+promoted practices of certification and abstention to put difficult
+state-law issues in state judges’ hands. See, e.g.,
+Arizonans for Official English v. Arizona, 520 U.S.
+43, 77 (1997) (encouraging certification of “novel or
+unsettled questions of state law” to “hel[p] build a
+cooperative judicial federalism”); Louisiana Power &
+Light Co. v. City of Thibodaux, 360 U.S.
+25, 28 (1959) (approving federal-court abstention in an eminent
+domain proceeding because such cases “turn on legislation
+with much local variation interpreted in local settings”). We
+may as well not have bothered. Today’s decision sends a flood
+of complex state-law issues to federal courts. It makes federal
+courts a principal player in local and state land-use disputes. It
+betrays judicial federalism.
+
+															IV
+
+															Everything said above aside, Williamson
+County should stay on the books because of stare
+decisis. Adherence to precedent is “a foundation stone of
+the rule of law.” Michigan v. Bay Mills Indian
+Community, 572 U.S. 782, 798 (2014). “[I]t promotes the
+evenhanded, predictable, and consistent development of legal
+principles, fosters reliance on judicial decisions, and contributes
+to the actual and perceived integrity of the judicial
+process.” Payne v. Tennessee, 501 U.S.
+808, 827 (1991). Stare decisis, of course, is “not
+an inexorable command.” Id., at 828. But it is not
+enough that five Justices believe a precedent wrong. Reversing
+course demands a “special justification—over and above
+the belief that the precedent was wrongly decided.”
+Kimble v. Marvel Entertainment, LLC, 576 U. S.
+___, ___ (2015) (slip op., at 8) (internal quotation marks
+omitted). The majority offers no reason that qualifies.
+
+															In its only real stab at a special
+justification, the major- ity focuses on what it calls the
+“San Remo preclusion trap.” Ante, at 2.
+As the majority notes, this Court held in a post-Williamson
+County decision interpreting the full faith and credit statute,
+28 U. S. C. §1738, that a state court’s
+resolution of an inverse condemnation proceeding has preclusive
+effect in a later federal suit. See San Remo Hotel, L. P. v.
+City and County of San Francisco, 545
+U.S. 323 (2005); ante, at 1–2, 5–6, 22. The
+interaction between San Remo and Williamson County
+means that “many takings plaintiffs never have the
+opportunity to litigate in a federal forum.” Ante, at
+22. According to the majority, that unanticipated result makes
+Williamson County itself “unworkable.”
+Ibid.
+
+															But in highlighting the preclusion concern, the
+majority only adds to the case for respecting stare
+decisis—because that issue can always be addressed by
+Congress. When “correction can be had by legislation,”
+Justice Brandeis once stated, the Court should let stand even
+“error[s on] matter[s] of serious concern.” Square D
+Co. v. Niagara Frontier Tariff Bureau, Inc., 476 U.S.
+409, 424 (1986) (quoting Burnet v. Coronado Oil &
+Gas Co., 285 U.S.
+393, 406 (1932) (dissenting)). Or otherwise said, stare
+decisis then “carries enhanced force.”
+Kimble, 576 U. S., at ___ (slip op., at 8); see
+South Dakota v. Wayfair, Inc., 585 U. S. ___,
+___ (2018) (Roberts, C. J., dissenting) (slip op., at 2) (The
+stare decisis “bar is even higher” when Congress
+“can, if it wishes, override this Court’s decisions
+with contrary legislation”). Here, Congress can reverse the
+San Remo preclusion rule any time it wants, and thus give
+property owners an opportunity—after a state-court
+proceeding—to litigate in federal court. The San Remo
+decision, as noted above, interpreted the federal full faith and
+credit statute; Congress need only add a provision to that law to
+flip the Court’s result. In fact, Congress has already
+considered proposals responding to San Remo—though so
+far to no avail. See Brief for Congressman Steve King et al. as
+Amici Curiae 7. Following this Court’s normal rules of
+practice means leaving the San Remo “ball[ in]
+Congress’s court,” so that branch can decide whether to
+pick it up. Kimble, 576 U. S., at ___ (slip op., at
+8).[6]
+
+															And the majority has no other special
+justification. It says Williamson County did not create
+“reliance interests.” Ante, at 23. But even if
+so, those interests are a plus-factor in the doctrine; when
+they exist, stare decisis becomes
+“superpowered.” Kimble, 576 U. S., at ___
+(slip op., at 10); Payne, 501 U. S., at 828 (Stare
+decisis concerns are “at their acme” when
+“reliance interests are involved”). The absence of
+reliance is not itself a reason for overruling a decision. Next,
+the majority says that the “justification for [Williamson
+County’s] state-litigation requirement” has
+“evolve[d].” Ante, at 22. But to start with, it
+has not. The original rationale—in the majority’s
+words, that the requirement “is an element of a takings
+claim,” ante, at 22—has held strong for 35 years
+(including in the cases the majority cites), and is the same one I
+rely on today. See, e.g., Horne, 569 U. S., at
+525–526 (quoting Williamson County’s rationale);
+Suitum v. Tahoe Regional Planning Agency, 520 U.S.
+725, 734 (1997) (same); supra, at 2–3. And anyway,
+“evolution” in the way a decision is described has
+never been a ground for abandoning stare decisis. Here, the
+majority’s only citation is to last Term’s decision
+overruling a 40-year-old precedent. See ante, at 22 (citing
+Janus v. State, County, and Municipal Employees, 585
+U. S. ___, ___ (2018) (slip op., at 23)). If that is the way
+the majority means to proceed—relying on one subversion of
+stare decisis to support another—we may as well not
+have principles about precedents at all.
+
+															What is left is simply the majority’s view
+that Williamson County was wrong. The majority repurposes
+all its merits arguments—all its claims that Williamson
+County was “ill founded”—to justify its
+overruling. Ante, at 20–21. But the entire idea of
+stare decisis is that judges do not get to reverse a
+decision just because they never liked it in the first instance.
+Once again, they need a reason other than the idea
+“that the precedent was wrongly decided.”
+Halliburton Co. v. Erica P. John Fund, Inc., 573 U.S.
+258, 266 (2014); see supra, at 16. For it is hard to
+overstate the value, in a country like ours, of stability in the
+law.
+
+															Just last month, when the Court overturned
+another longstanding precedent, Justice Breyer penned a dissent.
+See Franchise Tax Bd. of Cal. v. Hyatt, 587
+U. S. ___, ___ (2019). He wrote of the dangers of reversing
+legal course “only because five Members of a later
+Court” decide that an earlier ruling was incorrect.
+Id., at ___ (slip op., at 13). He concluded:
+“Today’s decision can only cause one to wonder which
+cases the Court will overrule next.” Ibid. Well, that
+didn’t take long. Now one may wonder yet again.
+
+Notes
+1
+ See also, e.g.,
+Yearsley v. W. A. Ross Constr. Co., 309 U.S.
+18, 21–22 (1940); Hurley v. Kincaid,
+285 U.S.
+95, 104 (1932); Dohany v. Rogers, 281 U.S.
+362, 365 (1930); Joslin Mfg. Co. v. Providence,
+262 U.S.
+668, 677 (1923); Albert Hanson Lumber Co. v. United
+States, 261 U.S.
+581, 587 (1923); Hayes v. Port of Seattle,
+251 U.S.
+233, 238 (1920); Bragg v. Weaver, 251 U.S.
+57, 62 (1919); Madisonville Traction Co. v. Saint
+Bernard Mining Co., 196 U.S.
+239, 251–252 (1905); Williams v. Parker,
+188 U.S.
+491, 502 (1903); Backus v. Fort Street Union Depot
+Co., 169 U.S.
+557, 568 (1898); Sweet v. Rechel, 159 U.S.
+380, 400–402 (1895).
+2
+ In many of these cases,
+the Court held as well that if payment occurs later, it must
+include interest. See, e.g., id., at 407; Albert
+Hanson Lumber Co., 261 U. S., at 586. That requirement
+flows from the constitutional demand for “just”
+compensation: As one of the early cases explained, the property
+owner must be placed “in as good position pecuniarily as he
+would have been if his property had not been taken.”
+Ibid.
+3
+ Contrary to the
+majority’s description, see ante, at 15, and
+n. 6, the respondents have exactly this view of Williamson
+County (and of the cases preceding it). The respondents discuss
+(as I do, see supra, at 3–4) the “long line of
+precedent” holding that “the availability of a
+reason-able, certain, and adequate inverse-condemnation procedure
+fulfills the duty” of a government to pay just compensation
+for a taking. Brief for Respondents 22–23. The respondents
+then conclude (again, as I do, see supra, at 4–6) that
+Williamson County “sound[ly]” and
+“straightforwardly applied that precedent to hold that a
+property owner who forgoes an available and adequate
+inverse-condemnation remedy has not been deprived of any
+constitutional right and thus cannot proceed under Section
+1983.” Brief for Respondents 22. (Again contra the majority,
+the respondents’ only theory of §1983 is the one
+everyone agrees with—that a §1983 suit cannot be brought
+before a constitu-tional violation has occurred.) So while I
+appreciate the compliment, I cannot claim to argue anything novel
+or “dar[ing]” here. Ante, at 15. My argument is
+the same as the respondents’, which is the same as
+Williamson County’s, which is the same as all the
+prior precedents’.
+4
+ The majority’s
+supposed best case to the contrary, First English Evangelical
+Lutheran Church of Glendale v. County of Los Angeles,
+482 U.S.
+304 (1987), is not so good, as is apparent from its express
+statement that it accords with Williamson County. See 482
+U. S., at 320, n. 10. In First English, the Court
+held that a property owner was entitled to compensation for the
+temporary loss of his property, occurring while a (later-repealed)
+regulation was in effect. See id., at 321. The Court made
+clear that a government’s duty to compensate for a
+taking—including a temporary taking—arises from the
+Fifth Amendment, as of course it does. See id., at 315. But
+the Court nowhere suggested that a Fifth Amendment violation
+happens even before a government denies the required compensation.
+(You will scan the majority’s description of First
+English in vain for a quote to that effect—because no
+such quote exists. See ante, at 9–11.) To the
+contrary, the Court went out of its way to recognize the
+Williamson County principle that “no constitutional
+violation occurs until just compensation has been denied.”
+482 U. S., at 320, n. 10 (internal quotation marks
+omitted).
+5
+ Jacobs v.
+United States, 290 U.S.
+13 (1933), the Tucker Act case the majority cites to support
+its argument, says nothing different. The majority twice notes
+Jacobs’ statement that a Tucker Act claim
+“rest[s] upon the Fifth Amendment.” Ante, at
+7–8 (quoting 290 U. S., at 16). And so it does, because
+the compensatory obligation that the Tucker Act vindicates arises
+from—or “rests upon”—the Fifth Amendment.
+But that is a far cry from saying, as the majority does, that
+theGovernment has already violated the Fifth Amendment when the
+Tucker Act claim is brought—before the Government has denied
+fair compensation.
+6
+ Confronted with that
+point, the majority shifts ground. It notes that even if Congress
+eliminated the San Remo rule, takings plaintiffs would still
+have to comply with Williamson County’s
+“unjustified” demand that they bring suit in state
+court first. See ante, at 22. But that argument does not
+even purport to state a special justification. It merely reiterates
+the majority’s view on the merits.
+
+

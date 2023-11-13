@@ -1,0 +1,1099 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1449
+::decision_name::  Glacier Northwest, Inc. v. International Brotherhood of Teamsters
+::decision_year:: 2023
+::opinion_author:: Jackson
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1449
+
+															_________________
+
+															GLACIER NORTHWEST, INC., dba CALPORTLAND,
+PETITIONER v. INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL
+UNION NO. 174
+
+															on writ of certiorari to the supreme court of
+washington
+
+															[June 1, 2023]
+
+															
+
+															Justice Jackson, dissenting.
+
+															The right to strike is fundamental to American
+labor law. Congress enshrined that right in the National Labor
+Relations Act (NLRA) and simultaneously established the National
+Labor Relations Board to adjudicate disputes that arise between
+workers and management. That decision reflected Congress’s
+judgment that an agency with specialized expertise should develop
+and enforce national labor law in a uniform manner, through
+case-by-case adjudication. For its part, this Court has
+scrupulously guarded the Board’s authority for more than half
+a century. See San Diego Building Trades Council v.
+Garmon, 359 U.S.
+236 (1959). Under Garmon, and as relevant here, a court
+presented with a tort suit based on strike conduct generally must
+pause proceedings and permit the Board to determine in the first
+instance whether the union’s conduct is lawful if the conduct
+at issue is even “arguably” protected by the NLRA.
+Id., at 245.
+
+															Today, the Court falters. As the majority
+acknowledges, the Board’s General Counsel has filed a
+complaint with the Board after a thorough factual investigation,
+and that complaint alleges that the NLRA protects the strike
+conduct at the center of this state-court tort suit. The logical
+implication of a General Counsel complaint under Garmon is
+that the union’s conduct is at least arguably
+protected by the NLRA. Consequently, where (as here) there is a
+General Counsel complaint pending before the Board,
+courts—including this Court—should suspend their
+examination. Garmon makes clear that we have no business
+delving into this particular labor dispute at this time.
+
+															But instead of modestly standing down, the
+majority eagerly inserts itself into this conflict, proceeding to
+opine on the propriety of the union’s strike activity based
+on the facts alleged in the employer’s state-court complaint.
+As part of this mistaken expedition, the majority tries its own
+hand at applying the Board’s decisions to a relatively novel
+scenario that poses difficult line-drawing
+questions—fact-sensitive issues that Congress plainly
+intended for the Board to address after an investigation. And in
+the course of inappropriately weighing in on the merits of those
+questions at this stage, the majority also misapplies the
+Board’s cases in a manner that threatens to both impede the
+Board’s uniform development of labor law and erode the right
+to strike.
+
+															In my view, today’s misguided foray
+underscores the wisdom of Congress’s decision to create an
+agency that is uniquely positioned to evaluate the facts and apply
+the law in cases such as this one. This case is Exhibit A as to why
+the Board—and not the courts—should ordinarily take the
+first crack at resolving contentious, fact-bound labor disputes of
+this nature. Because the majority’s ruling suggests
+otherwise, I respectfully dissent.
+
+															I
+
+															The majority’s brief opinion quotes
+Garmon’s “arguably protected” test and
+endeavors to apply it. Ante, at 3–4, 6–11. But
+the opinion devotes relatively little space to the origins and
+purpose of that longstanding precedent. That omission is telling. A
+proper understanding of Garmon’s foundation sheds
+considerable light on the majority’s sequential missteps in
+this case.
+
+															A
+
+															Congress’s passage of the NLRA
+“marked a fundamental change in the Nation’s labor
+policies.” Sears, Roebuck & Co. v.
+Carpenters, 436 U.S.
+180, 190 (1978). Prior to that point, union activity had been
+viewed as “a species of
+‘conspiracy,’ ” prompting substantial
+conflict between labor and management. Ibid. With the
+enactment of the NLRA in 1935, “Congress expressly recognized
+that collective organization of segments of the labor force into
+bargaining units capable of exercising economic power comparable to
+that possessed by employers may produce benefits for the entire
+economy in the form of higher wages, job security, and improved
+working conditions.” Ibid.
+
+															The heart of the NLRA is §7, which
+safeguards workers’ rights “to self-organization, to
+form, join, or assist labor organizations, to bargain collectively
+through representatives of their own choosing, and to engage in
+other concerted activities for the purpose of collective bargaining
+or other mutual aid or protection.” 29 U. S. C.
+§157. Among the “ ‘concerted
+activities’ ” that the Act unquestionably protects
+is “the vital, economic instrumen[t] of the strike.”
+Garmon, 359 U. S., at 241; see §163.
+
+															Section 8 of the NLRA provides a list of
+“unfair labor practice[s]” that employers and unions
+are prohibited from engaging in. §158. For example, it is an
+unfair labor practice for an employer to “interfere with,
+restrain, or coerce employees in the exercise of ” their
+§7 rights, including the right to strike. §158(a)(1). And
+it is an unfair labor practice for a union to “refuse to
+bargain collectively with an employer.” §158(b)(3).
+Taken together, §7 and §8 establish certain conduct that
+Congress has deemed protected (§7) and prohibited
+(§8).
+
+															B
+
+															Congress could have stopped there. But
+“Congress did not merely lay down a substantive rule of law
+to be enforced by any tribunal competent to apply law generally to
+the parties.” Garner v. Teamsters, 346 U.S.
+485, 490 (1953). Rather, Congress “went on to confide
+primary interpretation and application of its rules to a specific
+and specially constituted tribunal”Ibid.; see
+generally §§153–156.
+
+															By statutory mandate, the Board is composed of
+five members who are appointed by the President with the advice and
+consent of the Senate. §153(a). Congress also provided for an
+independent General Counsel, who is likewise presidentially
+appointed and Senate confirmed. §153(d); see NLRB v.
+Food & Commercial Workers, 484 U.S.
+112, 117–118 (1987). The General Counsel conducts
+investigations into unfair labor practices and brings complaints
+before the Board through a “particular procedure” that
+Congress has prescribed “for investigation, complaint and
+notice, and hearing and decision, including judicial relief pending
+a final administrative order” from the Board. Garner,
+346 U. S., at 490; see §§153, 160.
+
+															The Board has fleshed out this process via
+rulemaking authority that Congress has delegated. §156. If a
+person believes that an employer or union has committed an unfair
+labor practice, the person may file a charge with a regional
+director, who acts on behalf of the General Counsel. 29 CFR
+§101.2 (2022). The regional director investigates the charge.
+§101.4. If “the charge appears to have merit and efforts
+to dispose of it by informal adjustment are unsuccessful,”
+the regional director issues a complaint on behalf of the General
+Counsel. §101.8. When a General Counsel’s complaint
+issues, an administrative law judge (ALJ) holds a hearing and
+issues a decision, which the Board reviews if any party files an
+exception. §§101.8–101.12. If the Board finds that
+a party has engaged in an unfair labor practice, it must order the
+party to “cease and desist” and to take “such
+affirmative action . . . as will effectuate the
+policies” of the NLRA. 29 U. S. C.
+§160(c).
+
+															C
+
+															The history and structure of the NLRA make
+clear that Congress “entrusted administration of the labor
+policy for the Nation to a centralized administrative
+agency”—the Board—“armed with its own
+procedures, and equipped with its specialized knowledge and
+cumulative experience.” Garmon, 359 U. S., at
+242. Congress thought the Board’s primary role was
+“necessary to obtain uniform application of [the
+NLRA’s] substantive rules and to avoid th[e] diversities and
+conflicts likely to result from a variety of local procedures and
+attitudes toward labor controversies.” Garner, 346
+U. S., at 490. That judgment makes perfect sense. The
+NLRA’s substantive principles are intrinsically broad and
+potentially conflicting, leaving much for future articulation
+through case-by-case adjudication. Drawing the line between
+activities that constitute a protected strike, on the one hand, and
+unprotected actions for which employers may validly discipline
+employees, on the other, is a legally and factually complex task.
+Moreover, that task implicates important economic policy
+considerations about the relative bargaining power of labor and
+management that affect not only the parties to a particular labor
+dispute but also our broader national economy.
+
+															To effect Congress’s intent, this Court
+has consistently recognized that “courts are not primary
+tribunals to adjudicate [these] issues.” Garmon, 359
+U. S., at 244. Rather, “it is to the Board that Congress
+entrusted the task of applying the Act’s general
+. . . language in the light of the infinite combinations
+of events which might be charged as violative of its terms.”
+Beth Israel Hospital v. NLRB, 437
+U.S. 483, 500–501 (1978) (internal quotation marks
+omitted). And the Board, “if it is to accomplish the task
+which Congress set for it, necessarily must have authority
+. . . to fill the interstices of the broad statutory
+provisions.” Id., at 501. So, while the Board’s
+decision “is not the last word” on these complex
+matters—given that its decisions are subject to review in
+federal court—“it must assuredly be the
+first.” Marine Engineers v. Interlake S. S.
+Co., 370 U.S.
+173, 185 (1962) (emphasis added).
+
+															For that reason, this Court has long held that
+courts presented with claims arising out of a labor dispute must
+sometimes pause their proceedings to permit the Board to consider
+the dispute in the first instance. As relevant here, we have held
+that if §7—including its protection of the right to
+strike—“arguably” protects the conduct at issue
+in a state-court suit, then the court must await the Board’s
+word as to whether the conduct is, in fact, protected.
+Garmon, 359 U. S., at 245.
+
+															To determine whether conduct is “arguably
+protected,” a state court examines the showing of the party
+invoking Garmon and seeking to pause the litigation. The
+court asks whether that party has (1) “advance[d] an
+interpretation of the [NLRA] that is not plainly contrary to its
+language and that has not been ‘authoritatively
+rejected’ by the courts or the Board,” and (2)
+“put forth enough evidence to enable the court to find that
+the Board reasonably could uphold a claim based on such an
+interpretation.” Longshoremen v. Davis,
+476 U.S.
+380, 395 (1986). If so, the state court must pause proceedings
+to allow the Board to consider the complex legal and factual
+contours of the question whether the union’s conduct is
+actually protected by the NLRA.
+
+															The majority refers to this as
+“Garmon preemption,” in keeping with historical
+practice. Ante, at 3. But the term “preemption”
+is something of a misnomer. Rather than entirely and automatically
+precluding the state-court suit, the rule instead requires state
+courts to take a “jurisdictional hiatus” while the
+Board considers the dispute in the first instance. Sears,
+Roebuck & Co., 436 U. S., at 203. If the Board
+determines (subject to judicial review) that §7 protects the
+union’s conduct, normal conflict preemption kicks in: A state
+court may not hold a union liable on state-law claims for conduct
+that is protected by the NLRA. See Brown v. Hotel
+Employees, 468 U.S.
+491, 503 (1984). But “if the Board decides that the
+conduct is not protected,” the state court may proceed to
+“entertain the litigation.” Davis, 476
+U. S., at 397.[1]
+
+															With these general principles in mind, I now
+turn to the particulars of this case.
+
+															II
+
+															This suit arises out of a union-organized
+strike. Petitioner Glacier Northwest is a concrete-delivery
+company, and respondent International Brotherhood of Teamsters
+Local Union No. 174 (Union) represents Glacier’s
+concrete-delivery truckdrivers. After the drivers went on strike,
+Glacier sent disciplinary letters to some of the drivers. The Union
+filed an unfair labor practice charge with the Board, alleging that
+the disciplinary letters were unlawful retaliation against the
+drivers for engaging in strike conduct that is protected by the
+NLRA.
+
+															Glacier then filed a complaint in Washington
+state court, alleging that the Union engaged in tortious conduct
+when it instructed the drivers to strike at a time when there was
+wet concrete in some of the company’s delivery trucks. In
+response, the Union filed another Board charge, maintaining that
+Glacier’s lawsuit constituted additional unlawful
+retaliation.
+
+															With respect to Glacier’s tort suit, the
+Washington courts engaged in the standard Garmon inquiry,
+ultimately resulting in a determination by the Washington Supreme
+Court that the lawsuit could not proceed because the Union’s
+strike conduct was arguably protected by the NLRA. Glacier sought,
+and we granted, certiorari to review that decision. Notably,
+however, after the Washington Supreme Court issued its decision,
+the regional director acting on behalf of the Board’s General
+Counsel filed an administrative complaint against Glacier. In my
+view, for the reasons explained below, that subsequent event has
+greatly simplified the Garmon question.
+
+															A
+
+															The filing of the General Counsel’s
+administrative complaint necessarily suffices to establish that the
+Union’s strike conduct is “arguably protected”
+within the meaning of Garmon. Thus, the General
+Counsel’s complaint should have marked the end of any court
+involvement in this matter at this time.
+
+															The General Counsel’s complaint alleges
+that Glacier interfered with strike conduct protected by §7
+when it disciplined its drivers for walking off the job and when it
+filed this tort suit. That complaint represents the General
+Counsel’s conclusion—reached after an extensive
+independent investigation involving collecting testimony and other
+evidence, and after careful consideration of the competing legal
+principles and policy concerns—that the Union’s claim
+that its strike conduct was protected “appears to have
+merit.” 29 CFR §§101.4, 101.8. One “cannot
+credibly contend that a claim that makes it through this gauntlet
+does not concern conduct ‘arguably’ protected by the
+NLRA.” Davis Supermarkets, Inc. v. NLRB,
+
+2 F.3d 1162, 1179 (CADC 1993); accord, Makro, Inc., 305
+N. L. R. B. 663, 670 (1991).
+
+															A court presented with a General Counsel
+complaint should therefore find Garmon inherently satisfied.
+This is so because the entire point of Garmon’s
+arguably-protected test is to permit the court to assess the facts
+and relevant labor law in service of a gatekeeping function.
+The answer to the Garmon question simply (and solely)
+establishes whether the court can continue to entertain a lawsuit
+that relates to the challenged strike conduct, or whether the legal
+action must be suspended to allow the Board to make an initial
+assessment of the matter. The court evaluates the existing evidence
+and the law for a specific reason: to determine whether the lawsuit
+attacks arguably-protected conduct such that entertaining the legal
+action will interfere with the Board’s prerogative to develop
+the facts and adjudicate the merits of the dispute as part of the
+Board’s broader authority to develop national labor law.
+
+															If the General Counsel investigates the matter
+and files a complaint with the Board alleging that the
+union’s conduct is protected, it becomes indisputable that
+the pending legal action might interfere with the Board’s
+authority. Thus, a General Counsel complaint relieves the court of
+the burden of having to make the arguably-protected assessment
+based on its own understanding of the evidence and labor
+law—it is “arguable” that the union’s
+conduct is protected because the General Counsel is arguing just
+that. To be sure, we have said that the arguably-protected test is
+“not without substance” and is “not satisfied by
+a conclusory assertion of pre-emption.” Davis, 476
+U. S., at 394. But an allegation from the Board’s
+General Counsel after a thorough investigation is a far cry from a
+“conclusory assertion” of protection.[2]
+
+															What is more, by virtue of the General
+Counsel’s complaint, the Board is, at this very moment,
+exercising its authority to adjudicate the merits of this dispute.
+On January 12, 2023, an ALJ denied Glacier’s motion to
+postpone the ALJ hearing on the General Counsel’s complaint
+pending this Court’s decision in this case. As the ALJ
+explained, the General Counsel’s pleading “constituted
+a determination that the strikers’ conduct was at least
+arguably protected by [the NLRA] and that this agency became the
+exclusive forum for adjudicating whether the strikers’
+conduct was protected.”[3] A nine-day hearing ensued, and the parties completed
+posthearing briefing last week. We have said that “the need
+for protecting the exclusivity of [the Board’s] jurisdiction
+is obviously greatest when the precise issue brought before a court
+is in the process of litigation through procedures originating in
+the Board.” Marine Engineers, 370 U. S., at 185.
+That is exactly the situation here.
+
+															For these reasons, I believe that the filing of
+the General Counsel’s complaint is more than sufficient to
+trigger Garmon’s pause, and that it must be so if
+consistency with Congress’s intent to give the Board primary
+authority to interpret and enforce the NLRA is to be maintained. In
+circumstances like these, “the States as well as the federal
+courts must defer to the exclusive competence of the National Labor
+Relations Board.” Garmon, 359 U. S., at 245.
+
+															And this Court is no exception. Because the
+General Counsel has now filed a complaint with the Board concerning
+the labor dispute at issue in this case, all courts—including
+this one—should stand down.
+
+															B
+
+															The majority does not take issue with my
+conclusion that the General Counsel’s complaint triggers a
+Garmon hiatus; instead, it takes no position on the matter,
+leaving the question open for the Washington courts to decide on
+remand. Ante, at 11, n. 3.
+
+															The majority’s reason for declining to
+address this argument is noteworthy. It explains that, because the
+General Counsel’s complaint was filed after the Washington
+Supreme Court had affirmed the dismissal of Glacier’s
+complaint on Garmon grounds, “[t]he lower courts have
+not addressed the significance, if any, of the Board’s
+complaint with respect to Garmon preemption.”
+Ante, at 11, n. 3. And since we are
+“ ‘a court of review, not of first
+view,’ ” ibid. (quoting Cutter v.
+Wilkinson, 544 U.S.
+709, 718, n. 7 (2005)), the majority declines to “do
+so in the first instance.” Ante, at 11,
+n. 3.
+
+															This rationale is inconsistent with the broader
+approach that the majority takes in this case. It would be one
+thing if the Court simply noted the filing of the General
+Counsel’s complaint and authorized the lower courts to
+evaluate the impact of that complaint on the Garmon question
+in the first instance. But it goes further: The majority also
+inserts itself into the midst of this labor dispute now
+(despite the General Counsel’s complaint), proceeding to
+apply the Board’s cases to novel and difficult line-drawing
+questions and ultimately concluding that the strike conduct alleged
+in Glacier’s complaint is not even arguably protected.
+
+															The majority cannot have it both ways. A concern
+about the Court’s institutional role justifies, at most,
+vacating the judgment below and remanding for the lower court to
+consider the import of the General Counsel’s complaint. The
+same observation that compels the majority to allow for such
+lower-court consideration—that we are “ ‘a
+court of review, not of first view,’ ”
+ante, at 11, n. 3—should have likewise led it to
+decline to intrude into this labor dispute while it is pending
+before the Board.
+
+															III
+
+															For the reasons discussed above, I would have
+vacated the Washington Supreme Court’s judgment and remanded
+with directions to stay proceedings or dismiss Glacier’s
+complaint without prejudice, on the straightforward ground that the
+General Counsel’s complaint triggers the jurisdictional
+hiatus that Garmon requires.[4]
+
+															The majority sidesteps my preferred resolution
+of this matter and instead proceeds to engage in
+Garmon’s “arguably protected” test by
+applying a series of fact-intensive Board decisions to the bare
+allegations in Glacier’s state-court complaint. To do this,
+the majority invokes the Board’s “reasonable
+precautions” principle. Ante, at 6–8. That
+principle (discussed in Part IV, infra) is derived from the
+Board’s determination that striking workers must take
+reasonable precautions to protect persons, the employer’s
+premises, and its equipment from foreseeable, aggravated, and
+imminent harm due to the sudden cessation of work. The majority has
+taken it upon itself to apply the Board’s
+reasonable-precautions principle to the factual allegations about
+the Union’s conduct that Glacier alleges in this lawsuit, and
+it thereby concludes that the drivers’ conduct is not even
+arguably protected by the NLRA.
+
+															This course of action (which is already
+confounding given that the Board itself is currently considering
+the challenged strike conduct with the benefit of developed facts
+and labor law expertise) reflects an analytical approach to the
+issues presented that cannot be squared with Garmon.
+
+															A
+
+															Whether the NLRA protects particular strike
+conduct often turns on subtle factual disputes and nuanced legal
+distinctions. Here, for example, whether the Union’s strike
+conduct is protected or unprotected might well depend on whether
+the drivers left the concrete-delivery trucks’ revolving
+drums turning when they walked off the job. So, too, might it
+depend on fine legal gradations concerning how imminent or how
+aggravated the risk of harm must be to trigger the duty to take
+reasonable precautions. These kinds of determinations cry out for
+evidentiary hearings, and in this highly fact-sensitive area of the
+law, which generally develops on a case-by-case basis, the scope of
+NLRA protection in a given set of circumstances is typically
+determined once the facts have been established—through
+discovery, debate, and sometimes the tedious work of making
+contentious credibility determinations.
+
+															Fortunately, in this regard, Congress has gifted
+our legal system with an expert agency that thoroughly investigates
+what happened—i.e., the facts of strike-related labor
+disputes—and then engages in the initial task of answering
+the sometimes complex, always fact-bound question whether the NLRA
+protects the strike conduct at issue. Meanwhile, a court that is
+undertaking Garmon’s arguably-protected analysis is
+engaged in a fundamentally different inquiry. As explained in Part
+II–A, supra, while the court is most certainly
+considering strike conduct arising from a labor dispute, it is not
+meant to address the merits of these complex questions. Under the
+NLRA and Garmon, courts must take as a given that the Board
+is the entity to which Congress has assigned responsibility for
+initially determining what happened and taking the first crack at
+deciding whether the NLRA protects the union’s conduct. And
+far from usurping that Board function, Garmon tasks the
+court with merely conducting a threshold, gatekeeping assessment of
+whether the lawsuit before it must be paused, or whether the suit
+can proceed because it is not even arguable that the conduct
+at issue in the lawsuit is protected by the NLRA.
+
+															To avoid veering into the Board’s assigned
+territory, it is crucial that the courts have a clear understanding
+of the nature of the Garmon assessment and what it requires.
+The court asks, first of all, whether the party invoking
+Garmon has “advance[d] an interpretation of the [NLRA]
+that is not plainly contrary to its language and that has not been
+‘authoritatively rejected’ by the courts or the
+Board.” Davis, 476 U. S., at 395. This inquiry
+involves merely comparing the union’s claim about the scope
+of its protection to the broad protective language of the statute
+and deciding whether the union’s interpretation has already
+been definitively rejected either by courts or by the Board.
+
+															The second task is to determine whether the
+party invoking Garmon has “put forth enough evidence
+to enable the court to find that the Board reasonably could uphold
+a claim based on such an interpretation.” Davis, 476
+U. S., at 395. Again, this is not an invitation to
+supplant the Board’s factfinding role or to usurp the
+authority that Congress has given the Board to make the initial
+underlying protected-or-unprotected determination. Rather, the
+point of this part of the Garmon assessment is simply to
+determine whether it is arguable that the Board—in the
+exercise of its discretion to develop labor law and aided by its
+investigation into the facts—could conclude that the strike
+conduct at issue is protected by the NLRA. See 359 U. S., at
+245.
+
+															Thus, consistent with a statutory scheme that
+gives primacy to the agency’s expertise, a court’s task
+under Garmon is unmistakably modest. It must merely assess
+whether, in light of existing law and the evidence that has been
+amassed related to this strike, it is possible that the
+union could prevail before the Board. Put another way, instead of
+stepping into the Board’s shoes as primary factfinder, or
+even prognosticating about what the Board is likely to decide
+concerning the extent of NLRA coverage, a court that stands down
+upon a proper Garmon analysis has simply determined (1) that
+existing law does not plainly and authoritatively prohibit the
+strike conduct at issue, and (2) that evidence exists concerning
+how the strike was conducted that might ultimately favor the union,
+such that the lawsuit should pause to allow the Board to gather the
+facts and apply its expertise to determine whether the strike was
+lawful.
+
+															B
+
+															The majority seems to misunderstand all this
+in the context of this case. It correctly concludes that the Union
+has carried its burden of “advancing an interpretation of the
+[NLRA] that is not plainly contrary to its language and that has
+not been authoritatively rejected by the courts or the
+Board.” Ante, at 6 (internal quotation marks omitted).
+But it finds that the Union has failed to satisfy the second
+Garmon step, and it does so after undertaking its own
+assessment of the facts alleged in Glacier’s complaint and
+endeavoring to apply the Board’s fact-bound
+reasonable-precautions precedents. See, e.g., ante,
+at 7 (determining, based on alleged facts, that “[t]he
+drivers engaged in a sudden cessation of work that put
+Glacier’s property in foreseeable and imminent danger”
+and that the risk of harm to the concrete-delivery trucks was
+“both foreseeable and serious”); ibid.
+(concluding that “[t]he Union failed to ‘take
+reasonable precautions,’ ” after hypothesizing
+various steps that, according to the majority, the Union should
+have taken but did not).
+
+															Given what I have already said about
+Garmon’s purpose and what it calls for, the
+majority’s error in proceeding in this fashion is obvious. To
+my mind, if a court that is evaluating what to do per Garmon
+finds itself weighing in on such fact-bound matters as whether the
+strike posed a risk of harm that was aggravated enough or imminent
+enough to remove NLRA protection, or starts contemplating whether
+the precautions that the striking employees took to address any
+such risk were reasonable enough to allow them to retain the right
+to strike, it has unwittingly wandered into a domain that Congress
+intentionally assigned to the Board to address in the first
+instance.[5]
+
+															It is clear to me that Congress plainly intended
+for the Board’s factfinding function to be at the forefront
+of this kind of legal evaluation. Thus, in my view, when a court
+undertakes the Garmon analysis in a context such as this
+one, it should take care to limit itself to its own assigned
+responsibility: the mere determination of whether, given the
+union’s evidence and legal interpretation, the Board
+could possibly conclude that the union had taken reasonable
+precautions. If yes, the court should suspend the pending legal
+action to let the Board decide the question. To conclude no, given
+the fact-bound nature of the reasonable-precautions analysis, a
+court in all but the most exceptional circumstances will need to be
+able to point to a reasonable-precautions case from the Board that
+is on all fours with the facts of the case before it and that found
+the conduct unprotected. In that circumstance, the court can
+proceed with the suit, without breaking new legal ground on the
+scope of the right to strike.
+
+															In all events, then, courts can properly decide
+the Garmon issue without making law in this area, precisely
+as Congress intended. Indeed, I think we best respect congressional
+intent regarding the Board’s authority to develop uniform
+labor law by leaving the application of the Board’s
+reasonable-precautions principle to the Board itself. The
+majority’s contrary approach opens up the possibility that
+courts around the country will now act on bare allegations to
+generate conflicting results about the contours of the venerated
+right to strike, which, ironically, was the primary concern that
+motivated Congress to create the Board in the first place.
+
+															IV
+
+															For what it’s worth, even if the
+majority’s approach to deciding the Garmon question
+were the correct one, the majority misapplies the
+reasonable-precautions principle to the allegations here in a
+manner that threatens to impinge on the right to strike and on the
+orderly development of labor law.
+
+															A
+
+															1
+
+															A strike, by definition, is a “concerted
+stoppage of work by employees,” or “any concerted
+slowdown or other concerted interruption of operations by
+employees.” §142(2). When employees stop working,
+production may halt, deliveries may be delayed, and services may be
+canceled. At the risk of stating the obvious, this means that the
+workers’ right to strike inherently includes the right to
+impose economic harm on their employer.
+
+															Congress was well aware that organized
+labor’s exercise of the right to strike risks harm to an
+employer’s economic interests. See §151; NLRB v.
+Erie Resistor Corp., 373 U.S.
+221, 234 (1963) (Congress’s protection of the right to
+strike reflects its understanding that strikes are authorized
+“economic weapon[s]”). Yet, Congress protected that
+right anyway. In fact, the threat of economic harm posed by the
+right to strike is a feature, not a bug, of the NLRA. The potential
+pain of a work stoppage is a powerful tool, and one that
+unquestionably advances Congress’s codified goal of achieving
+“equality of bargaining power between employers and
+employees.” §151. Unions leverage a
+strike’s economic harm (or the threat of it) into bargaining
+power, and then wield that power to demand improvement of
+employees’ wages and working conditions—goals that,
+according to Congress, benefit the economy writ large. See
+Sears, Roebuck & Co., 436 U. S., at 190.
+
+															Still, the right to strike is, of course, not
+unlimited. But when “Congress chose to qualify the use of the
+strike, it did so by prescribing the limits and conditions of the
+abridgment in exacting detail.” Erie Resistor, 373
+U. S., at 234. Section 8 enumerates several limitations. For
+example, a union must notify an employer that it intends to
+terminate or modify its contract—and thus that a strike is
+possible—at least 60 days before striking. §158(d). A
+union cannot strike for unlawful purposes, such as putting economic
+pressure on parties other than the primary employer.
+§158(b)(4)(i)(B). And, in certain healthcare settings, unions
+must provide at least 10 days’ notice of the precise date and
+time of a strike. §158(g).
+
+															Additionally, §163 of the NLRA (which
+Congress added via the 1947 Taft-Hartley Amendments, 61Stat. 151)
+states that “nothing in this subchapter, except as
+specifically provided for herein, shall be construed so as either
+to interfere with or impede or diminish in any way the right to
+strike, or to affect the limitations or qualifications on that
+right.”
+
+															Thus, the text of the NLRA allows for only two
+kinds of limitations on the right to strike: those enumerated in
+the Act itself, and the “limitations or qualifications”
+on the right that existed when the Taft-Hartley Amendments were
+enacted. See NLRB v. Drivers, 362
+U.S. 274, 281–282 (1960). The only relevant limitation
+here is the one set out in NLRB v. Fansteel Metallurgical
+Corp., 306 U.S.
+240 (1939).[6]
+
+															Our Fansteel decision stands for the
+principle that “employees ha[ve] the right to strike but they
+ha[ve] no license to commit acts of violence or to seize their
+employer’s plant.” Id., at 253. The facts of
+that case involved 95 striking employees who effected a
+“sit-down strike by taking over and holding two of [their
+employer’s] key buildings.” Id., at 248
+(internal quotation marks omitted). The employees subsequently
+engaged in “a pitched battle” in which they
+“resisted the attempt by the sheriff to evict and arrest
+them.” Id., at 249. We held that the NLRA did not
+condone this conduct, which would “put a premium on resort to
+force” and would “subvert the principles of law and
+order which lie at the foundations of society.” Id.,
+at 253.
+
+															Congress’s incorporation of
+Fansteel’s limitation into the NLRA establishes that,
+while employees have the right to withhold their labor peaceably,
+subsequent affirmative acts of violence, or seizure of an
+employer’s premises, are not protected labor practices.
+
+															2
+
+															As a general matter, the dispute in this case
+is over whether employees can withhold their labor if doing so
+risks damage to their employer’s property. As explained
+above, by carefully restricting limitations on the right to strike
+in the NLRA itself, Congress has indicated that the act of
+peacefully walking off the job is protected strike conduct even if
+economic harm incidentally results. What is not protected is
+any subsequent affirmative step to destroy or seize the
+employer’s property. This is the statutory backdrop against
+which the Board has developed the narrow requirement that striking
+employees must take reasonable precautions before or when they
+strike in order to forestall or address foreseeable, imminent, and
+aggravated injury to persons, premises, and equipment that might
+otherwise be caused by their sudden cessation of work.
+
+															The Board first applied this “reasonable
+precautions” principle to rank-and-file employees in
+Marshall Car Wheel & Foundry Co., Inc., 107
+N. L. R. B. 314, 315 (1953), enf. denied on other
+grounds, 218 F.2d 409 (CA5 1955). There, employees at a foundry
+walked off the job at a time when the foundry’s furnace was
+full of hot molten iron, threatening severe damage to the
+employer’s plant and equipment. 107
+N. L. R. B., at 315. The Board concluded that the
+employees’ strike conduct was not protected by the NLRA,
+because the employees had a “duty to take reasonable
+precautions to protect the employer’s physical plant from
+such imminent damage as for[e]seeably would result from their
+sudden cessation of work.” Ibid.
+
+															The Board has also applied this principle in
+other similar cases. It determined, for example, that strikers who
+walked out of a certain kind of chemical plant—a plant that
+handled “extremely hazardous” chemicals that were
+“a hazard not only to employees but also to individuals
+living in the vicinity”—without shutting down the
+equipment had engaged in unprotected conduct. General Chemical
+Corp., 290 N. L. R. B. 76, 77, 83 (1988).
+Similarly, the Board held that the strike conduct of security
+guards whose walkout exposed a federal building’s occupants
+to “imminent” danger was not protected by the NLRA.
+International Protective Servs., Inc., 339
+N. L. R. B. 701, 703 (2003).
+
+															But the narrow duty that Marshall Car
+Wheel and its progeny impose does not—and
+cannot—displace the general rule that labor strikes are
+protected even when the workers’ withdrawal of their labor
+inflicts economic harm on the employer. So the Board has also
+repeatedly held that employees have no duty to prevent the loss of
+perishable goods caused by their sudden cessation of work.
+
+															In a leading case, employees at a raw poultry
+plant decided to walk out at 8 a.m. “because by that time all
+employees would have reported to work and [the employer] would be
+in full operation with its largest number of chickens on the
+line.” Lumbee Farms Co-op., 285
+N. L. R. B. 497, 503 (1987). The Board affirmed the
+ALJ’s reasoning that “[t]he fact that the strike
+occurred during the workday when chickens were on the line and
+vulnerable to loss does not mean employees automatically lost
+protection under the Act,” because “[s]trikers are not
+required under the Act to institute the strike at a specific time
+of day.” Id., at 506. Indeed, it is
+“[n]orma[l]” for “planned employee strikes [to
+be] timed to ensure the greatest impact on an employer.”
+Ibid.
+
+															The Board has applied this same reasoning in
+cases involving, for example, cheese and milk. See Leprino
+Cheese Co., 170 N. L. R. B. 601, 605 (1968);
+Central Okla. Milk Producers Assn., 125
+N. L. R. B. 419, 435 (1959). In those cases, the
+Board also explained that the reasonable-precautions principle is
+“limited to situations involving a danger of
+‘aggravated’ injury to persons or
+premises”—a danger “[o]bviously” not posed
+by the loss of, for example, cheese. Leprino Cheese, 170
+N. L. R. B., at 607 (emphasis added). The Board has
+consistently reiterated that “[l]oss is not uncommon when a
+strike occurs.” Central Okla. Milk Producers, 125
+N. L. R. B., at 435.
+
+															In short, it is indisputable that workers have a
+statutory right to strike despite the fact that exercising that
+right risks economic harm to employers. Congress has, in effect,
+drawn a line between those economic harms that are inherent in the
+act of peacefully walking off the job (which do not render the
+strike unprotected), and those that result from workers taking
+subsequent affirmative steps to seize the employer’s premises
+or engage in acts of violence (strike conduct that is not protected
+by the NLRA). The Board has further recognized a narrow duty that
+arises if a sudden cessation of work risks foreseeable, imminent,
+and aggravated harm to persons, premises, or equipment. Beyond this
+narrow reasonable-precautions requirement, however, employees have
+no obligation to protect their employer’s economic interests
+when they exercise the right to withhold their labor.
+
+															B
+
+															Glacier does not allege that the cement
+truckdrivers committed acts of violence or seized its plant or
+property as part of the strike the Union orchestrated. Instead, the
+thrust of its complaint is that the Union was aware of “the
+perishable nature of batched concrete,” App. 9, and that the
+drivers’ walkout was intentionally timed so as to risk harm
+to that product. See id., at 10 (alleging “sabotage,
+ruination and destruction of Glacier’s batched
+concrete”).
+
+															I agree with the majority that the risk of
+losing the batched concrete alone would not be sufficient to divest
+the striking drivers of statutory protection. As Glacier
+acknowledges, wet concrete is a perishable good. Ibid. And
+the Board has repeatedly reaffirmed that the loss of such
+perishable goods due to a mere work stoppage does not render a
+strike unprotected.
+
+															There is also no duty to take reasonable
+precautions to prevent this kind of economic loss,
+which—standing alone—posed no risk to persons,
+premises, or equipment, let alone a risk of aggravated harm. While
+it seems that the drivers were in a position to save the batched
+concrete that was inside their trucks when the strike was called
+(by, for instance, continuing to deliver it to the intended
+customers), that is beside the point. Employees have a protected
+right to withhold their labor. And it would undercut that right if
+they could be held liable for the incidental loss of the perishable
+goods (which includes concrete no less than raw poultry, cheese, or
+milk) that they tend to as part of their job.[7]
+
+															Where I disagree with the majority is the
+conclusion it draws from the fact that the batched concrete also
+risked harm to the drivers’ trucks, at least as alleged in
+Glacier’s complaint. The majority repeatedly ties the loss of
+the concrete—in particular, the risk that it would harden in
+the trucks—to the alleged risk of harm to the delivery trucks
+themselves.[8] But, to me, the
+alleged risk of harm to Glacier’s trucks involves a
+relatively complex factual analysis under the Board’s
+reasonable-precautions principle.
+
+															Glacier alleges that, “[o]nce at rest,
+concrete begins hardening immediately, and depending on the mix can
+begin to set within 20 to 30 minutes.” Id., at 8. Its
+complaint also asserts that “[i]f batched concrete remains in
+the revolving drum of the ready-mix truck beyond its useful life
+span, the batched concrete is certain or substantially certain to
+harden in the revolving drum and cause significant damage to the
+concrete ready-mix truck.” Id., at 9. But
+Glacier’s own submissions in Washington state court suggest
+that the Union instructed the drivers to return their trucks to
+Glacier’s yard after the strike began and to keep the
+ready-mix trucks running. See id., at 34, 77.
+Glacier’s submissions also suggest that those precautions
+actually provided the company’s managers and nonstriking
+employees with sufficient time to decide how to address the
+situation to prevent any harm to the trucks. See id., at 13,
+72, 77, 82–83.
+
+															Was any risk of harm to the trucks here
+“imminent,” given the allegation that the Union
+instructed the drivers to keep the trucks running? Is the risk of
+concrete hardening in a delivery truck “aggravated,” in
+the way Marshall Car Wheel contemplates? Was returning the
+trucks to the employer’s premises and leaving them running a
+sufficient “reasonable” precaution, because it gave the
+employer sufficient time to address any risk of harm? Making the
+call about whether the NLRA protects the Union’s conduct
+raises these questions and others. Importantly, these kinds of
+questions not only involve making nuanced factual distinctions but
+also demonstrate that applying the Board’s
+reasonable-precautions precedents is, at bottom, a line-drawing
+exercise. Under circumstances like these, a court can confidently
+declare that a union’s conduct is not even arguably protected
+for Garmon purposes only where the allegations make out a
+clear Fansteel claim or where the alleged facts implicate a
+reasonable-precautions case that is directly on point. Because
+neither is true here, the Court should have concluded that the
+Union’s conduct was at least arguably protected.
+
+															Even if the Court’s task under
+Garmon were to apply the Board’s
+reasonable-precautions principle to the allegations of
+Glacier’s complaint and decide whether or not the Union
+engaged in unprotected conduct (to reiterate: that is not the
+assignment, see Part III–A, supra), I cannot agree
+with the majority’s conclusion that the risk to the trucks
+rendered the drivers’ strike unprotected by the NLRA.
+Instead, I would have credited Glacier’s own account, and
+thus would have concluded that the Union took reasonable
+precautions when it instructed the drivers to return the trucks and
+leave them running to avoid the concrete hardening imminently in
+the drums. The majority reaches the opposite conclusion by giving
+far too little weight to the allegation that the drivers returned
+the trucks, and also by substantially discounting the allegations
+that support the Union’s claim that the drivers left their
+trucks and revolving drums running. See ante, at 11.
+
+															Fortunately, the pending Board determination of
+what actually happened in connection with this particular strike
+will establish—as a matter of fact and not mere
+allegation—what precautions (if any) the drivers actually
+took and what harm (if any) the Union’s conduct actually
+posed to Glacier’s trucks.[9] But our different takes on these allegations only
+underscore the potential for variable outcomes when courts apply
+the Board’s fact-dependent principles to bare assertions.
+
+															To the extent that the majority’s
+conclusion rests on the alleged fact that “by reporting for
+duty and pretending as if they would deliver the concrete, the
+drivers prompted the creation of the perishable
+product” that “put Glacier’s trucks in
+harm’s way,” ante, at 10, I see nothing
+aggravated or even untoward about that conduct. Glacier is a
+concrete-delivery company whose drivers are responsible for
+delivering wet concrete, so it is unremarkable that the drivers
+struck at a time when there was concrete in the trucks. While
+selling perishable products may be risky business, the perishable
+nature of Glacier’s concrete did not impose some obligation
+on the drivers to strike in the middle of the night or before the
+next day’s jobs had started. To the contrary, it was entirely
+lawful for the drivers to start their workday per usual, and for
+the Union to time the strike to put “maximum pressure on the
+employer at minimum economic cost to the union.” NLRB
+v. Insurance Agents, 361 U.S.
+477, 496 (1960); see also Lumbee Farms Co-op., 285
+N. L. R. B., at 506.
+
+															Nor was the onus of protecting Glacier’s
+economic interests if a strike was called in the middle of the day
+on the drivers—it was, instead, on Glacier, which could have
+taken any number of prophylactic, mitigating measures.[10] What Glacier seeks to do here is
+to shift the duty of protecting an employer’s property from
+damage or loss incident to a strike onto the striking workers,
+beyond what the Board has already permitted via the
+reasonable-precautions principle. In my view, doing that places a
+significant burden on the employees’ exercise of their
+statutory right to strike, unjustifiably undermining
+Congress’s intent. Workers are not indentured servants, bound
+to continue laboring until any planned work stoppage would be as
+painless as possible for their master. They are employees whose
+collective and peaceful decision to withhold their labor is
+protected by the NLRA even if economic injury results.
+
+															*  *  *
+
+															Today, the majority fails, in multiple
+respects, to heed Congress’s intent with respect to the
+Board’s primary role in adjudicating labor disputes, despite
+ostensibly applying Garmon, the bedrock case on that issue.
+The Court’s ruling is likely to cause considerable confusion
+among the lower courts about what Garmon requires. And any
+such confusion not only threatens to encroach upon the
+Board’s prerogatives, as Congress has assigned them, but also
+risks erosion of the right to strike.
+
+															Yet, the posture of this case provides an
+opportunity to mitigate the results of the majority’s errors.
+On remand, the state court should dismiss Glacier’s complaint
+without prejudice or stay its proceedings in view of the General
+Counsel’s complaint. Meanwhile, the Board—which is not
+bound by the allegations in Glacier’s complaint when making
+its assessment, and is well equipped to make findings of fact
+concerning the strike conduct at issue—should proceed to
+determine whether Glacier has interfered with strike conduct that
+is protected by the NLRA, as alleged by the General Counsel.
+
+Notes
+1
+ Justice Thomas seeks to
+undercut our Garmon precedent by describing it as
+“od[d]” and “strang[e]” relative to
+“ ‘the usual preemption rule.’ ”
+Ante, at 1, 3 (opinion concurring in judgment). But, as
+discussed, the Garmon rule is not a standard preemption
+doctrine; it is different because it is doing different work.
+Garmon protects Congress’s judgment that the Board,
+not state or federal courts, should be generally responsible for
+the development of our Nation’s labor law. The required pause
+when Garmon’s “arguably protected” test is
+satisfied allows for efficient resolution of the dispute prior to
+the expenditure of state judicial resources, and the temporary
+nature of the pause makes it narrower, not broader, in effect than
+ordinary preemption.
+2
+ This is not to suggest
+that the General Counsel’s complaint is the end of the story,
+as the Board may ultimately disagree with the factual or legal
+basis of that pleading. But the complaint is surely sufficient to
+establish arguable protection, such that a court should stay
+its hand.
+3
+ Order Denying Motion for
+Postponement of Hearing in Glacier Northwest, Inc., Nos.
+19–CA–203068, 19–CA–211776,
+p. 7.
+4
+ The Washington Supreme
+Court affirmed the dismissal of Glacier’s claims. Because
+only a pause of the state-court litigation is necessary under
+Garmon, the proper disposition is either a stay of
+proceedings or dismissal without prejudice.
+5
+ Justice Blackmun warned
+that a formulation of the Garmon test that directs attention
+to a party’s evidence might lead some courts to make such an
+errant assessment, “under the guise of weighing the
+sufficiency of the evidence.” Longshoremen v.
+Davis, 476 U.S.
+380, 404 (1986) (opinion concurring in part and dissenting in
+part) (expressing the concern that a future court might
+misunderstand its role and mistakenly undertake “[to] mak[e]
+precisely the determination that Garmon makes clear is for
+the Board, and only the Board, to make”). That warning was
+prescient.
+6
+ The Senate Report
+accompanying the Taft-Hartley Amendments explained the four kinds
+of pre-existing “limitations or qualifications” on the
+right to strike that Congress had in mind in §163, which were
+drawn from decisions of the Board and this Court. See S. Rep. No.
+105, 80th Cong., 1st Sess., 28 (1947); Drivers, 362
+U. S., at 281–282. The three other exceptions concern
+strikes for illegal objectives, strikes in breach of contract, and
+strikes in breach of other federal law. See S. Rep. No. 105, at
+28.
+7
+ Justice Alito, relying on
+the rule from NLRB v. Fansteel Metallurgical Corp.,
+306 U.S.
+240 (1939), gleans more from the loss of concrete than either
+the majority or I do. He concludes that the NLRA’s right to
+strike does not protect the drivers’ alleged conduct because
+Glacier has alleged that the drivers purposefully caused the
+batched concrete to be destroyed. In my view, that approach fails
+to appreciate the distinction Fansteel drew between
+purposefully but peacefully stopping work (and the economic
+consequences that flow from that decision), which is protected, and
+taking subsequent, affirmative steps of violence or property
+seizure, which is unprotected. To be sure, Fansteel would
+have rendered the drivers’ actions here patently unprotected
+if they had taken the affirmative steps of stealing the trucks,
+slashing the trucks’ tires, or dumping out the concrete after
+they went on strike. But nothing like that is alleged in
+Glacier’s complaint.
+8
+ See, e.g.,
+ante, at 8 (“[T]he Union executed the strike in a
+manner designed to compromise the safety of Glacier’s trucks
+and destroy its concrete”); ante, at 10 (“[The
+drivers] not only destroyed the concrete but also put
+Glacier’s trucks in harm’s way. This case therefore
+involves much more than ‘a work stoppage at a time when the
+loss of perishable products is foreseeable’ ”);
+ante, at 12 (“The Union’s actions not only
+resulted in the destruction of all the concrete Glacier had
+prepared that day; they also posed a risk of foreseeable,
+aggravated, and imminent harm to Glacier’s
+trucks”).
+9
+ For the same reason, the
+state court would not be bound by the majority’s recitation
+of the facts at this motion-to-dismiss stage in any future
+proceedings on this matter in state court.
+10  For
+example, Glacier could have instituted a lockout, see American
+Ship Building Co. v. NLRB, 380 U.S.
+300, 310 (1965), used nonstriking employees to deliver the
+batched concrete, or had temporary replacement drivers lined up and
+ready to go. Glacier was on notice that a strike was possible
+because the Union was statutorily required to give 60-days advance
+notice of the proposed termination or modification of the
+collective-bargaining agreement, §158(d), and because
+negotiations had broken down.
+
+

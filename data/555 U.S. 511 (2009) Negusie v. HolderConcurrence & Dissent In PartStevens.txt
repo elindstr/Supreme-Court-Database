@@ -1,0 +1,126 @@
+::SCDB_caseID:: 2008-028
+::decision_cite:: 555 U.S. 511 (2009)
+::decision_name::  Negusie v. Holder
+::decision_year:: 2009
+::opinion_author:: Stevens
+::opinion_type:: Concurrence & Dissent In Part
+::opinion:: 
+
+
+STEVENS, J., DISSENTING
+NEGUSIE V. HOLDER
+555 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NO. 07-499
+
+
+
+
+
+															DANIEL GIRMAI NEGUSIE, PETITIONER v. ERIC
+H. HOLDER, Jr., ATTORNEY GENERAL
+
+															on writ of certiorari to the united states court of
+appeals for the fifth circuit
+
+															[March 3, 2009]
+
+
+
+															   Justice Stevens, with whom Justice Breyer joins, concurring in part and dissenting in part.
+
+															
+   The narrow question of statutory construction presented by this case is whether the so-called “persecutor bar,” 8 U. S. C. §§1101(a)(42), 1158(b)(2)(A)(i), 1231(b)(3)(B), disqualifies from asylum or withholding of removal an alien whose conduct was coerced or otherwise the product of duress.  If the answer to that threshold question is “no,” courts should defer to the Attorney General’s evaluation of particular circumstances that may or may not establish duress or coercion in individual cases.  But the threshold question the Court addresses today is a “pure question of statutory construction for the courts to decide.”  INS v. Cardoza-Fonseca, 480 U. S. 421, 446 (1987).  For that reason, while I agree with the Court’s cogent explanation of why its misguided decision in Fedorenko v. United States, 449 U. S. 490 (1981), does not govern our interpretation of the persecutor bar, I would provide a definite answer to the question presented and then remand for further proceedings.
+
+															I
+
+															
+   Judicial deference to agencies’ views on statutes they administer was not born in Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984), nor did the “singularly judicial role of marking the boundaries of agency choice,” Young v. Community Nutrition Institute, 476 U. S. 974, 988 (1986) (Stevens, J., dissenting), die with that case.  In the years before Chevron, this Court recognized that statutory interpretation is a multifaceted enterprise, ranging from a precise construction of statutory language to a determination of what policy best effectuates statutory objectives.  We accordingly acknowledged that a complete interpretation of a statutory provision might demand both judicial construction and administrative explication.  E.g., NLRB v. Hearst Publications, Inc., 322 U. S. 111 (1944) (construing the term “employee” in the National Labor Relations Act but deferring to the National Labor Relations Board’s finding that newsboys were employees); see Nathanson, Administrative Discretion in the Interpretation of Statutes, 3 Vand. L. Rev. 470 (1950).
+
+															   Chevron adhered to this approach.  There, we recognized that the Clean Air Act did not define “stationary source,” 42 U. S. C. §7502(b)(6) (1982 ed.), but rather implicitly delegated to the Environmental Protection Agency (EPA) the policy question whether States could treat entire plants or only their discrete pollution-emitting devices as sources of pollution for purposes of the Act’s permit program.  Congress left a gap for the agency to fill, and the agency brought its expertise, political acuity, and information-gathering abilities to bear in doing so. See Chevron, 467 U. S., at 865–866.[Footnote 1]  In keeping with precedent, see id., at 843–845, and nn. 9, 11–14, our opinion reaffirmed both that “[t]he judiciary is the final authority on issues of statutory construction,” id., at 843, n. 9, and that courts should defer to an agency’s reasonable formulation of policy in response to an explicit or implicit congressional delegation of authority.  The Chevron framework thus accounts for the different institutional competencies of agencies and courts: Courts are expert at statutory construction, while agencies are expert at statutory implementation.  That the distinction can be subtle does not lessen its importance.
+
+															
+
+   In the 25 years since Chevron was decided, this Court has continued to recognize that courts and agencies play complementary roles in the project of statutory interpretation.  We have repeatedly held that “ambiguities in statutes within an agency’s jurisdiction to administer are delegations of authority to the agency to fill the statutory gap in reasonable fashion.”  National Cable & Telecommunications Assn. v. Brand X Internet Services, 545 U. S. 967, 980 (2005).  But even when confronted with a statute that involves a degree of ambiguity—as most statutes do—we have not abdicated our judicial role.  The fact that Congress has left a gap for the agency to fill means that courts should defer to the agency’s reasonable gap-filling decisions, not that courts should cease to mark the bounds of delegated agency choice.[Footnote 2]
+
+															
+
+   In cases involving agency adjudication, we have sometimes described the court’s role as deciding pure questions of statutory construction and the agency’s role as applying law to fact.  See, e.g., Cardoza-Fonseca, 480 U. S. 421; NLRB v. Food & Commercial Workers, 484 U. S. 112 (1987); see also Republic of Austria v. Altmann, 541 U. S. 677, 701–702 (2004).  While this phrasing is peculiar to the adjudicatory context, the principle applies to Chevron’s domain more broadly.  In the context of agency rulemaking, for instance, we might distinguish between pure questions of statutory interpretation and policymaking, or between central legal issues and interstitial questions.  See Barnhart v. Walton, 535 U. S. 212, 222 (2002).[Footnote 3]  The label is immaterial.  What matters is the principle: Certain aspects of statutory interpretation remain within the purview of the courts, even when the statute is not entirely clear, while others are properly understood as delegated by Congress to an expert and accountable administrative body.  Statutory language may thus admit of both judicial construction and agency exposition.
+
+															II
+
+															
+   Two of this Court’s cases construing the Immigration and Nationality Act (INA), 66 Stat. 166, 8 U. S. C. §1101 et seq., illustrate the proper division of responsibility between courts and agencies and highlight when Chevron deference is appropriate and when it is not.  In Cardoza-Fonseca, the question was whether the standard of INA §243(h), 8 U. S. C. §1253(h) (1982 ed.), which requires an alien to show that she is more likely than not to be subject to persecution if she is deported, also governs applications for asylum under §208(a), 8 U. S. C. §1158(a) (1982 ed.), which authorizes the Attorney General to grant asylum to an alien who has a well-founded fear of persecution in her home country.  After considering the INA’s language, its legislative history, and the United Nations Protocol that Congress had implemented, the Court determined that the two standards are not the same.
+
+															   In so holding, we decisively rejected the Government’s contention, echoed by Justice Scalia’s concurrence in the judgment, that the Board of Immigration Appeals’ (BIA) interpretation of the statute merited deference under our then-recent decision in Chevron.  “The question whether Congress intended the two standards to be identical is a pure question of statutory construction for the courts to decide,” we stated.  480 U. S., at 446.  We therefore did not defer to the BIA’s interpretation of the two standards as equivalent but instead employed traditional tools of statutory construction and “concluded that Congress did not intend the two standards to be identical.”  Ibid.[Footnote 4]
+
+															
+
+   Importantly, we recognized that Chevron deference need not be an all-or-nothing venture.  Even after the question of the standards’ equivalency was resolved, there remained the question of their application.  We explained, “The narrow legal question whether the two standards are the same is, of course, quite different from the question of interpretation that arises in each case in which the agency is required to apply either or both standards to a particular set of facts.”  480 U. S., at 448.  And we noted that applying the INA was a task particularly suited to the agency’s unique competencies: “There is obviously some ambiguity in a term like ‘well-founded fear’ which can only be given concrete meaning through a process of case-by-case adjudication.  In that process of filling ‘ “any gap left, implicitly or explicitly by Congress,” ’ the courts must respect the interpretation of the agency to which Congress has delegated the responsibility for administering the statutory program.”  Ibid. (quoting Chevron, 467 U. S., at 843, in turn quoting Morton v. Ruiz, 415 U. S. 199, 231 (1974)).
+
+															
+
+   In INS v. Aguirre-Aguirre, 526 U. S. 415 (1999), the Court encountered just the type of agency decision Cardoza-Fonseca indicated would warrant Chevron deference.  The BIA had denied withholding of deportation because it found that the respondent had “committed a serious nonpolitical crime” before he entered the United States, 8 U. S. C. §1253(h)(2)(C) (1994 ed.).  The Court of Appeals reversed the agency’s decision and required it to supplement its balancing test with specific additional factors (such as whether the respondent’s acts were grossly out of proportion to their objective and whether the acts were politically necessary and successful).
+
+															
+
+   We reversed the Court of Appeals, concluding that Chevron deference should be accorded to the BIA “as it gives ambiguous statutory terms ‘concrete meaning through a process of case-by-case adjudication.’ ”  526 U. S., at 425 (quoting Cardoza-Fonseca, 480 U. S., at 448).  The BIA’s formulation of a test to apply the statutory standard in individual cases and its application of that test in respondent’s case were precisely the sort of agency actions that merited judicial deference.
+
+															III
+
+															
+   The threshold question the Court addresses today is the kind of “pure question of statutory construction for the courts to decide” that we answered in Cardoza-Fonseca, id., at 446, rather than a fact-intensive question of the kind we addressed in Aguirre-Aguirre.  Just as we decided the narrow legal question presented in Cardoza-Fonseca but did not “attempt to set forth a detailed description of how the ‘well-founded fear’ test should be applied,” 480 U. S., at 448, I would decide the narrow legal question now before us and remand for the agency to determine how the persecutor bar applies in individual cases.[Footnote 5]
+
+															   For reasons similar to those set forth in my dissent in Fedorenko, I think it plain that the persecutor bar does not disqualify from asylum or withholding of removal an alien whose conduct was coerced or otherwise the product of duress.  Although I agree in full with the Court’s conclusion that the majority opinion in Fedorenko does not govern our interpretation of the persecutor bar, the differences the Court highlights between the Displaced Persons Act of 1948 (DPA), 62 Stat. 1009, and the Refugee Act of 1980, 94 Stat. 102, only strengthen my conclusion that voluntary assistance in persecution is required and that duress and coercion vitiate voluntariness.
+
+															
+
+   The Fedorenko Court’s construction of the DPA threatened to exclude from the United States concentration camp prisoners who were forced to assist the Nazis in the persecution of other prisoners.  In my view, this construction was insupportable—the DPA’s exclusion of persons who “assisted the enemy in persecuting civil populations,” Constitution of the International Refugee Organization, Annex I, Part II, §2(a), 62 Stat. 3051, did not extend to concentration camp prisoners who did so involuntarily.  These prisoners were victims, not persecutors.
+
+															
+
+   Without an exception for involuntary action, the Refugee Act’s bar would similarly treat entire classes of victims as persecutors.  The Act does not support such a reading.  The language of the persecutor bar is most naturally read to denote culpable conduct, and this reading is powerfully supported by the statutory context and legislative history.
+
+															
+
+   As this Court has previously recognized—and as the majority acknowledges again today—Congress passed the Refugee Act to implement the United Nations Convention Relating to the Status of Refugees, 189 U. N. T. S. 150 (July 28, 1951) (hereinafter Convention), reprinted in 19 U. S. T. 6259, and the 1967 United Nations Protocol Relating to the Status of Refugees, Jan. 31, 1967, [1968] 19 U. S. T. 6223, T. I. A. S. No. 6577 (hereinafter Protocol).  These treaties place a mandatory obligation on signatory states not to “expel or return (‘refouler’) a refugee in any manner whatsoever to … territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion.”  Convention, Art. 33(1), 19 U. S. T., at 6276; Protocol, Art. I, 19 U. S. T., at 6225.  The Refugee Act’s withholding of removal provision specifically tracks this language.  8 U. S. C. §1231(b)(3)(A); see H. R. Rep. No. 96–608, p. 18 (1979) (withholding of removal provision “clearly reflects our legal obligations under international agreements,” specifically Convention Article 33).[Footnote 6]
+
+															
+
+   The Convention excludes from the nonrefoulement obligation of Article 33 persons who have “committed a crime against peace, a war crime, or a crime against humanity.”  Convention, Art. 1(F)(a), 19 U. S. T., at 6263.  It is this exception that the persecutor bar reflects.  See, e.g., H. R. Rep. No. 96–608, at 18 (persecutor bar encompasses “exceptions … provided in the Convention relating to aliens who have themselves participated in persecution”); H. R. Conf. Rep. No. 96–781, p. 20 (1980).  The language of the Convention’s exception is critical: We do not normally convict individuals of crimes when their actions are coerced or otherwise involuntary.  Indeed, the United Nations Handbook, to which the Court has looked for guidance in the past, states that all relevant factors, including “mitigating circumstances,” must be considered in determining whether an alien’s acts are of a “criminal nature” as contemplated by Article 1(F).  Office of the United Nations High Commissioner for Refugees, Handbook on Procedures and Criteria for Determining Refugee Status ¶¶157, 162 (reedited Jan. 1992).  Other states parties to the Convention and Protocol likewise read the Convention’s exception as limited to culpable conduct.[Footnote 7]  When we interpret treaties, we consider the interpretations of the courts of other nations, and we should do the same when Congress asks us to interpret a statute in light of a treaty’s language.  See Zicherman v. Korean Air Lines Co., 516 U. S. 217, 226–228 (1996).     Congress’ effort to conform United States law to the standard set forth in the U. N. Convention and Protocol shows that it intended the persecutor bar to apply only to culpable, voluntary acts—and it underscores that Congress did not delegate the question presented by this case to the agency.
+
+															
+
+   While I would hold that the persecutor bar does not automatically disqualify from asylum or withholding of removal an alien who acted involuntarily,[Footnote 8] I would leave for the Attorney General—and, through his own delegation, the BIA—the question how the voluntariness standard should be applied.  The agency would retain the ability, for instance, to define duress and coercion; to determine whether or not a balancing test should be employed; and, of course, to decide whether any individual asylum-seeker’s acts were covered by the persecutor bar.  Those are the sorts of questions suited to the agency’s unique competencies in administering the INA.  The threshold question before the Court is not.
+
+															IV
+
+															
+   Because I remain convinced that the narrower interpretation of Chevron endorsed by the Court in Cardoza-Fonseca was more faithful to the rationale of that case than the broader view the Court adopts today, I am unable to join its opinion.  I would answer the question of law that this case presents with an unequivocal “no” and remand to the agency for further proceedings.
+
+Footnote 1
+															 Notably, the EPA cast its activity not as statutory construction but as public administration; its rulemaking sought to achieve policy goals, such as reducing regulatory complexity and promoting plant modernization.  See 46 Fed. Reg. 50766 (1981).  To be sure, the EPA argued that its regulation defining “stationary source” as an entire plant was permissible under the Clean Air Act, but the agency treated its rulemaking as a matter of fashioning sound policy, not of discerning the meaning of “stationary source” in the statute.
+
+Footnote 2
+															 Cf. United States v. Mead Corp., 533 U. S. 218, 236–238 (2001); Barnhart v. Walton, 535 U. S. 212, 222 (2002) (noting that Mead “indicated that whether a court should give [Chevron] deference depends in significant part upon the interpretive method used and the nature of the question at issue”).
+
+Footnote 3
+															 The Administrative Procedure Act draws a similar distinction in providing that courts “shall decide all relevant questions of law [and] interpret constitutional and statutory provisions” but shall review “agency action, findings, and conclusions” under the arbitrary and capricious/abuse of discretion standard.  5 U. S. C. §706.
+
+Footnote 4
+															 Justice Scalia objected in particular to the majority’s holding that pure questions of statutory construction are for the courts, not agencies, to decide; he insisted this was unfaithful to Chevron, “since in Chevron the Court deferred to the Environmental Protection Agency’s abstract interpretation of the phrase ‘stationary source.’ ”  480 U. S., at 455 (opinion concurring in judgment).  The majority rejected Justice Scalia’s argument, recognizing that Chevron involved an agency’s complex policy judgment about how to fill a statutory gap, not a pure question of statutory construction.  See 480 U. S., at 445–448, and n. 29 (quoting extensively from Chevron).
+
+Footnote 5
+															 The majority suggests that this approach is inconsistent with the “ ‘ordinary “remand” rule’ ” articulated in Gonzales v. Thomas, 547 U. S. 183 (2006) (per curiam), and INS v. Orlando Ventura, 537 U. S. 12 (2002) (per curiam).  Ante, at 11–12.  But those cases involved exactly the sort of application of law to fact that is within the agency’s purview.  In Thomas, the Court of Appeals decided that the family at issue “fell within the scope of the statutory term ‘particular social group.’ ”  547 U. S., at 185.  We noted that the BIA had not considered this question, which “require[d] determining the facts and deciding whether the facts as found f[e]ll within a statutory term.”  Id., at 186.  Accordingly, we held that the court should have remanded to the agency.  Similarly, in Ventura, the Court of Appeals addressed an issue that the BIA had not reached and concluded that conditions in Guatemala had so improved that no realistic threat of persecution currently existed.  The Government argued that the court had not respected “the BIA’s role as fact-finder,” 537 U. S., at 16, and we agreed, reversing the court’s judgment insofar as it had not remanded to the agency.
+
+Footnote 6
+															 Asylum and withholding of removal address concerns different from those addressed by the Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment (CAT) and its implementing regulations.  CAT, Dec. 10, 1984, S. Treaty Doc. No. 100–20 (1988), 1465 U. N. T. S. 85; 8 CFR §§1208.16–1208.18 (2008).  The CAT prohibits a state party from returning any person to a country where there is substantial reason to believe he might be tortured, but its definition of torture covers a narrower class of harms, imposed by a narrower class of actors, than the asylum and witholding of removal provisions.  Most importantly, the CAT limits its definition of torture to acts “inflicted by or at the instigation of or with the consent or acquiescence of a public official or other person acting in an official capacity,” Pt. I, Art. 1, ¶1, p. 19, while asylum and withholding of removal are available to victims of harm inflicted by private actors, without regard to state involvement, see, e.g., In re Kasinga, 21 I. & N. Dec. 357, 365 (BIA 1996); In re H—, 21 I. & N. Dec. 337, 343–344 (BIA 1996).
+
+Footnote 7
+															 See, e.g., Canada v. Asghedom, [2001] F. C. T. 972, ¶28 (Can. Fed. Ct.); Gurung v. Secretary of State for Home Dept., [2002] UKIAT 4870, ¶¶108–110 (U. K. Immigr. App. Trib.); SRYYY v. Minister for Immigration & Multicultural & Indigenous Affairs, [2005] 147 F. C. R. 1, ¶¶126–128 (Austl. Fed. Ct.); Refugee Appeal No. 2142/94, pp. 12–14 (N. Z. Refugee Status App. Auth., Mar. 20, 1997).  Notions of culpability have deep roots in asylum law.  See generally 2 H. Grotius, De Jure Belli ac Pacis Libri Tres ch. XXI, §V(1), p. 530 (J. Scott ed., F. Kelsey et al. transl., 1925) (“[P]laces of asylum were available [in ancient times] for those from whose hands a chance missile had slain a man” and for those with “innocent” minds).
+
+Footnote 8
+															 Other considerations that are not presented in this case, such as an alien’s lack of knowledge that he was involved in a persecutory act, could likewise indicate that he did not act with the requisite culpability.  See, e.g., Casta&nacute;eda-Castillo v. Gonzales, 488 F. 3d 17, 20–22 (CA1 2007) (en banc); Hernandez v. Reno, 258 F. 3d 806, 814 (CA8 2001).
+
+
+

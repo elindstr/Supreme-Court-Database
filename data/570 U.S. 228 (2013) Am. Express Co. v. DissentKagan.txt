@@ -1,0 +1,581 @@
+::SCDB_caseID:: 2012-066
+::decision_cite:: 570 U.S. 228 (2013)
+::decision_name::  Am. Express Co. v. Italian Colors Rest.
+::decision_year:: 2013
+::opinion_author:: Kagan
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 12–133
+
+															_________________
+
+															AMERICAN EXPRESS COMPANY, et al.,
+PETITIONERS v. ITALIAN COLORS RESTAURANT et al.
+
+															on writ of certiorari to the united states
+court of appeals for the second circuit
+
+															[June 20, 2013]
+
+															
+
+															     Justice Kagan, with
+whom Justice Ginsburg and Justice Breyer join, dissenting.
+
+															     Here is the nutshell
+version of this case, unfortunately obscured in the Court’s
+decision. The owner of a small restaurant (Italian Colors) thinks
+that American Express (Amex) has used its monopoly power to force
+merchants to accept a form contract violating the antitrust laws.
+The restaurateur wants to challenge the allegedly unlawful
+provision (imposing a tying arrangement), but the same
+contract’s arbitration clause prevents him from doing so.
+That term imposes a variety of procedural bars that would make
+pursuit of the antitrust claim a fool’s errand. So if the
+arbitration clause is enforceable, Amex has insulated itself from
+antitrust liability—even if it has in fact violated the law.
+The monopolist gets to use its monopoly power to insist on a
+contract effectively depriving its victims of all legal
+recourse.
+
+															     And here is the
+nutshell version of today’s opinion, admirably flaunted
+rather than camouflaged: Too darn bad.
+
+															     That answer is a
+betrayal of our precedents, and of federal statutes like the
+antitrust laws. Our decisions have developed a
+mechanism—called the effective-vindication rule—to
+prevent arbitration clauses from choking off a plaintiff’s
+ability to enforce congressionally created rights. That doctrine
+bars applying such a clause when (but only when) it operates to
+confer immunity from potentially meritorious federal claims. In so
+doing, the rule reconciles the Federal Arbitration Act (FAA) with
+all the rest of federal law—and indeed, promotes the most
+fundamental purposes of the FAA itself. As applied here, the rule
+would ensure that Amex’s arbitration clause does not
+foreclose Italian Colors from vindicating its right to redress
+antitrust harm.
+
+															     The majority barely
+tries to explain why it reaches a contrary result. It notes that we
+have not decided this exact case before—neglecting that the
+principle we have established fits this case hand in glove. And it
+concocts a special exemption for class-arbitration
+waivers—ignoring that this case concerns much more than that.
+Throughout, the majority disregards our decisions’ central
+tenet: An arbitration clause may not thwart federal law,
+ir-respective of exactly how it does so. Because the Court today
+prevents the effective vindication of federal statutory rights, I
+respectfully dissent.
+
+															I
+
+															     Start with an
+uncontroversial proposition: We would refuse to enforce an
+exculpatory clause insulating a company from antitrust
+liability—say, “Merchants may bring no Sherman Act
+claims”—even if that clause were contained in an
+arbitration agreement. See ante, at 6. Congress created the Sherman
+Act’s private cause of action not solely to compensate
+individuals, but to promote “the public interest in vigilant
+enforcement of the antitrust laws.” Lawlor v. National Screen
+Service Corp., 349 U. S. 322, 329 (1955) . Accordingly, courts
+will not enforce a prospective waiver of the right to gain redress
+for an antitrust injury, whether in an arbitration agreement or any
+other contract. See Mitsubishi Motors Corp. v. Soler
+Chrysler-Plymouth, Inc., 473 U. S. 614 , and n. 19 (1985). The
+same rule applies to other important federal statutory rights. See
+14 Penn Plaza LLC v. Pyett, 556 U. S. 247, 273 (2009) (Age
+Discrimination in Employment Act); Brooklyn Savings Bank v.
+O’Neil, 324 U. S. 697, 704 (1945) (Fair Labor Standards
+Act). But its necessity is nowhere more evident than in the
+antitrust context. Without the rule, a company could use its
+monopoly power to protect its monopoly power, by coercing agreement
+to contractual terms eliminating its antitrust liability.
+
+															     If the rule were
+limited to baldly exculpatory provi-sions, however, a monopolist
+could devise numerous ways around it. Consider several alternatives
+that a party drafting an arbitration agreement could adopt to avoid
+antitrust liability, each of which would have the identical effect.
+On the front end: The agreement might set outlandish filing fees or
+establish an absurd (e.g., one-day) statute of limitations, thus
+preventing a claimant from gaining access to the arbitral forum. On
+the back end: The agreement might remove the arbitrator’s
+authority to grant meaningful relief, so that a judgment gets the
+claimant nothing worthwhile. And in the middle: The agreement might
+block the claimant from presenting the kind of proof that is
+necessary to establish the defendant’s liability—say,
+by prohibiting any economic testimony (good luck proving an
+antitrust claim without that!). Or else the agreement might appoint
+as an arbitrator an obviously biased person—say, the CEO of
+Amex. The possibilities are endless—all less direct than an
+express exculpatory clause, but no less fatal. So the rule against
+prospective waivers of federal rights can work only if it applies
+not just to a contract clause explicitly barring a claim, but to
+others that operate to do so.
+
+															     And sure enough, our
+cases establish this proposition: An arbitration clause will not be
+enforced if it prevents the effective vindication of federal
+statutory rights, however it achieves that result. The rule
+originated in Mitsubishi, where we held that claims brought under
+the Sherman Act and other federal laws are generally subject to
+arbitration. 473 U. S., at 628. By agreeing to arbitrate such
+a claim, we explained, “a party does not forgo the
+substantive rights afforded by the statute; it only submits to
+their resolution in an arbitral, rather than a judicial,
+forum.” Ibid. But crucial to our decision was a limiting
+principle, designed to safeguard federal rights: An arbitration
+clause will be enforced only “so long as the prospective
+litigant effectively may vindicate its statutory cause of action in
+the arbitral forum.” Id., at 637. If an arbitration provision
+“operated . . . as a prospective waiver of a
+party’s right to pursue statutory remedies,” we
+emphasized, we would “condemn[ ]” it. Id., at 637,
+n. 19. Similarly, we stated that such a clause should be
+“set[ ] aside” if “proceedings in the
+contractual forum will be so gravely difficult” that the
+claimant “will for all practical purposes be deprived of his
+day in court.” Id., at 632 (internal quotation marks
+omitted). And in the decades since Mitsubishi, we have repeated its
+admonition time and again, instructing courts not to enforce an
+arbitration agreement that effectively (even if not explicitly)
+forecloses a plaintiff from remedying the violation of a federal
+statutory right. See Gilmer v. Interstate/Johnson Lane Corp., 500
+U. S. 20, 28 (1991) ; Vimar Seguros y Reaseguros, S. A. v. M/V
+Sky Reefer, 515 U. S. 528, 540 (1995) ; 14 Penn Plaza, 556
+U. S., at 266, 273–274.
+
+															     Our decision in Green
+Tree Financial Corp.-Ala. v. Randolph, 531 U. S. 79 (2000) ,
+confirmed that this principle applies when an agreement thwarts
+federal law by making arbitration prohibitively expensive. The
+plaintiff there (seeking relief under the Truth in Lending Act)
+argued that an arbitration agreement was unenforceable be- cause it
+“create[d] a risk” that she would have to “bear
+prohibitive arbitration costs” in the form of high filing and
+administrative fees. Id., at 90 (internal quotation marks omitted).
+We rejected that contention, but not because we doubted that such
+fees could prevent the effective vindication of statutory rights.
+To the contrary, we invoked our rule from Mitsubishi, making clear
+that it applied to the case before us. See 538 U. S., at 90.
+Indeed, we added a burden of proof: “[W]here, as here,”
+we held, a party asserting a federal right “seeks to
+invalidate an arbitration agreement on the ground that arbitration
+would be prohibitively expensive, that party bears the burden of
+showing the likelihood of incurring such costs.” Id., at 92.
+Randolph, we found, had failed to meet that burden: The evidence
+she offered was “too speculative.” Id., at 91. But even
+as we dismissed Randolph’s suit, we reminded courts to
+protect against arbitration agreements that make federal claims too
+costly to bring.
+
+															     Applied as our
+precedents direct, the effective-vindication rule furthers the
+purposes not just of laws like the Sherman Act, but of the FAA
+itself. That statute reflects a federal policy favoring actual
+arbitration—that is, arbitration as a streamlined
+“method of resolving disputes,” not as a foolproof way
+of killing off valid claims. Rodriguez de Quijas v.
+Shearson/American Express, Inc., 490 U. S. 477, 481 (1989) .
+Put otherwise: What the FAA prefers to litigation is arbitration,
+not de facto immunity. The effective-vindication rule furthers
+the statute’s goals by ensuring that arbitration remains a
+real, not faux, method of dispute resolution. With the rule,
+companies have good reason to adopt arbitral procedures that
+facilitate efficient and accurate handling of complaints. Without
+it, companies have every incentive to draft their agreements to
+extract backdoor waivers of statutory rights, making arbitration
+unavailable or pointless. So down one road: More arbitration,
+better enforcement of federal statutes. And down the other: Less
+arbitration, poorer enforcement of federal statutes. Which would
+you prefer? Or still more aptly: Which do you think Congress
+would?
+
+															     The answer becomes all
+the more obvious given the limits we have placed on the rule, which
+ensure that it does not diminish arbitration’s benefits. The
+rule comes into play only when an agreement “operate[s]
+. . . as a prospective waiver”—that is,
+forecloses (not diminishes) a plaintiff’s opportunity to gain
+relief for a statutory violation. Mitsubishi, 473 U. S., at
+637, n. 19. So, for example, Randolph assessed whether fees in
+arbitration would be “prohibitive” (not high,
+excessive, or extravagant). 531 U. S., at 90. Moreover, the
+plaintiff must make that showing through concrete proof:
+“[S]peculative” risks, “unfounded
+assumptions,” and “unsupported statements” will
+not suffice. Id., at 90–91, and n. 6. With the inquiry
+that confined and the evidentiary requirements that high, courts
+have had no trouble assessing the matters the rule makes relevant.
+And for almost three decades, courts have followed our edict that
+arbitration clauses must usually prevail, declining to enforce them
+in only rare cases. See Brief for United States as Amicus Curiae
+26–27. The effective-vindication rule has thus operated year
+in and year out without undermining, much less
+“destroy[ing],” the prospect of speedy dispute
+resolution that arbitration secures. Ante, at 9.
+
+															     And this is just the
+kind of case the rule was meant to address. Italian Colors, as I
+have noted, alleges that Amex used its market power to impose a
+tying arrangement in violation of the Sherman Act. The antitrust
+laws, all parties agree, provide the restaurant with a cause of
+action and give it the chance to recover treble damages. Here, that
+would mean Italian Colors could take home up to $38,549. But a
+problem looms. As this case comes to us, the evidence shows that
+Italian Colors cannot prevail in arbitration without an economic
+analysis defining the relevant markets, establishing Amex’s
+monopoly power, showing anticompetitive effects, and measuring
+damages. And that expert report would cost between several hundred
+thousand and one million dollars. [ 1 ] So the expense involved in proving the claim in
+arbitration is ten times what Italian Colors could hope to gain,
+even in a best-case scenario. That counts as a
+“prohibitive” cost, in Randolph’s terminology, if
+anything does. No rational actor would bring a claim worth tens of
+thousands of dollars if doing so meant incurring costs in the
+hundreds of thousands.
+
+															     An arbitration
+agreement could manage such a mismatch in many ways, but
+Amex’s disdains them all. As the Court makes clear, the
+contract expressly prohibits class arbitration. But that is only
+part of the problem. [ 2 ] The
+agreement also disallows any kind of joinder or consolidation of
+claims or parties. And more: Its confidentiality provision prevents
+Italian Colors from informally arranging with other merchants to
+produce a common expert report. And still more: The agreement
+precludes any shifting of costs to Amex, even if Italian Colors
+prevails. And beyond all that: Amex refused to enter into any
+stipulations that would obviate or mitigate the need for the
+economic analysis. In short, the agreement as applied in this case
+cuts off not just class arbitration, but any avenue for sharing,
+shifting, or shrinking necessary costs. Amex has put Italian Colors
+to this choice: Spend way, way, way more money than your claim is
+worth, or relinquish your Sherman Act rights.
+
+															     So contra the majority,
+the court below got this case right. Italian Colors proved what the
+plaintiff in Randolph could not—that a standard-form
+agreement, taken as a whole, renders arbitration of a claim
+“prohibitively expensive.” 531 U. S., at 92. The
+restaurant thus established that the contract “operate[s]
+. . . as a prospective waiver,” and prevents the
+“effective[ ] . . . vindicat[ion]” of
+Sherman Act rights. Mitsubishi, 473 U. S., at 637, and n. 19.
+I would follow our precedents and decline to compel
+arbitration.
+
+															II
+
+															     The majority is quite
+sure that the effective-vindication rule does not apply here, but
+has precious little to say about why. It starts by disparaging the
+rule as having “originated as dictum.” Ante, at 6. But
+it does not rest on that swipe, and for good reason. As I have
+explained, see supra, at 3–4, the rule began as a core part
+of Mitsubishi: We held there that federal statutory claims are
+subject to arbitration “so long as” the claimant
+“effectively may vindicate its [rights] in the arbitral
+forum.” 473 U. S., at 637 (emphasis added). The rule
+thus served as an essential condition of the decision’s
+holding. [ 3 ] And in Randolph,
+we provided a standard for applying the rule when a claimant
+alleges “prohibitive costs” (“Where, as
+here,” etc., see supra, at 5), and we then applied that
+standard to the parties before us. So whatever else the majority
+might think of the effective-vindication rule, it is not
+dictum.
+
+															     The next paragraph of
+the Court’s decision (the third of Part IV) is the key: It
+contains almost the whole of the majority’s effort to explain
+why the effective-vindication rule does not stop Amex from
+compelling arbitration. The majority’s first move is to
+describe Mitsubishi and Randolph as covering only discrete
+situations: The rule, the majority asserts, applies to arbitration
+agreements that eliminate the “right to pursue statutory
+remedies” by “forbidding the assertion” of the
+right (as addressed in Mitsubishi) or imposing filing and
+administrative fees “so high as to make access to the forum
+impracticable” (as addressed in Randolph). Ante, at 6
+(emphasis deleted; internal quotation marks omitted). Those cases
+are not this case, the majority says: Here, the agreement’s
+provisions went to the possibility of “proving a statutory
+rem-edy.” Ante, at 7.
+
+															     But the distinction the
+majority proffers, which excludes problems of proof, is one
+Mitsubishi and Randolph (and our decisions reaffirming them)
+foreclose. Those decisions establish what in some quarters is known
+as a principle: When an arbitration agreement prevents the
+effective vindication of federal rights, a party may go to court.
+That principle, by its nature, operates in diverse
+circumstances—not just the ones that happened to come before
+the Court. See supra, at 3–4. It doubtless covers the baldly
+exculpatory clause and prohibitive fees that the majority
+acknowledges would preclude an arbitration agreement’s
+enforcement. But so too it covers the world of other provisions a
+clever drafter might devise to scuttle even the most meritorious
+federal claims. Those provisions might deny entry to the forum in
+the first instance. Or they might deprive the claimant of any
+remedy. Or they might prevent the claimant from offering the
+necessary proof to prevail, as in my “no economic
+testimony” hypothetical—and in the actual circumstances
+of this case. See supra, at 3. The variations matter not at all.
+Whatever the precise mechanism, each “operate[s] . . . as a
+prospective waiver of a party’s [federal]
+right[s]”—and so confers immunity on a wrongdoer.
+Mitsubishi, 473 U. S., at 637, n. 19. And that is what
+counts under our decisions. [ 4
+]
+
+															     Nor can the majority
+escape the principle we have established by observing, as it does
+at one point, that Amex’s agreement merely made arbitration
+“not worth the expense.” Ante, at 7. That suggestion,
+after all, runs smack into Randolph, which likewise involved an
+allegation that arbitration, as specified in a contract,
+“would be prohibitively expensive.” 531 U. S., at
+92. Our decision there made clear that a provision raising a
+plaintiff’s costs could foreclose consideration of federal
+claims, and so run afoul of the effective-vindication rule. The
+expense at issue in Randolph came from a filing fee combined with a
+per-diem payment for the arbitrator. But nothing about those
+particular costs is distinctive; and indeed, a rule confined to
+them would be weirdly idiosyncratic. Not surprisingly, then,
+Randolph gave no hint of distinguishing among the different ways an
+arbitration agreement can make a claim too costly to bring. Its
+rationale applies whenever an agreement makes the vindication of
+federal claims impossibly expensive—whether by imposing fees
+or proscribing cost-sharing or adopting some other device.
+
+															     That leaves the three
+last sentences in the majority’s core paragraph. Here, the
+majority conjures a special reason to exclude “class-action
+waiver[s]” from the effective-vindication rule’s
+compass. Ante, at 7–8, and n. 4. Rule 23, the majority notes,
+became law only in 1938—decades after the Sherman Act. The
+majority’s conclusion: If federal law in the interim decades
+did not eliminate a plaintiff’s rights under that Act, then
+neither does this agreement.
+
+															     But that notion, first
+of all, rests on a false premise: that this case is only about a
+class-action waiver. See ante, at 7, n. 4 (confining the case
+to that issue). It is not, and indeed could not sensibly be. The
+effective-vindication rule asks whether an arbitration agreement as
+a whole precludes a claimant from enforcing federal statutory
+rights. No single provision is properly viewed in isolation,
+because an agreement can close off one avenue to pursue a claim
+while leaving others open. In this case, for example, the agreement
+could have prohibited class arbitration without offending the
+effective-vindication rule if it had provided an alternative
+mechanism to share, shift, or reduce the necessary costs. The
+agreement’s problem is that it bars not just class actions,
+but also all mechanisms—many existing long before the Sherman
+Act, if that matters—for joinder or consolidation of claims,
+informal coordination among individual claimants, or amelioration
+of arbitral expenses. See supra, at 7. And contrary to the
+majority’s assertion, the Second Circuit well understood that
+point: It considered, for example, whether Italian Colors could
+shift expert expenses to Amex if its claim prevailed (no) or could
+join with merchants bringing similar claims to produce a common
+expert report (no again). See 554 F. 3d 300, 318 (2009). It is
+only in this Court that the case has become strangely narrow, as
+the majority stares at a single provision rather than considering,
+in the way the effective-vindication rule demands, how the entire
+contract operates. [ 5 ]
+
+															     In any event, the age
+of the relevant procedural mechanisms (whether class actions or any
+other) does not matter, because the effective-vindication rule asks
+about the world today, not the world as it might have looked when
+Congress passed a given statute. Whether a particular procedural
+device preceded or post-dated a particular statute, the question
+remains the same: Does the arbi-tration agreement foreclose a
+party—right now—from effectively vindicating the
+substantive rights the statute provides? This case exhibits a whole
+raft of changes since Congress passed the Sherman Act, affecting
+both parties to the dispute—not just new procedural rules
+(like Rule 23), but also new evidentiary requirements (like the
+demand here for an expert report) and new contract provisions
+affecting arbitration (like this agreement’s confidentiality
+clause). But what has stayed the same is this: Congress’s
+intent that antitrust plaintiffs should be able to enforce their
+rights free of any prior waiver. See supra, at 2–3;
+Mitsubishi, 473 U. S., at 637, n. 19. The
+effective-vindication rule carries out that purpose by ensuring
+that any arbitration agreement operating as such a waiver is
+unenforceable. And that requires courts to determine in the here
+and now—rather than in ye olde glory days—whether an
+agreement’s provisions foreclose even meritorious antitrust
+claims.
+
+															     Still, the majority
+takes one last stab: “Truth to tell,” it claims,
+AT&T Mobility LLC v. Concepcion, 563 U. S. ___ (2011),
+“all but resolves this case.” Ante, at 8. In that
+decision, the majority recounts, this Court held that the FAA
+preempted a state “law conditioning enforcement of
+arbitration on the availability of class procedure.” Ibid.;
+see 563 U. S., at ___ (slip op., at 9). According to the
+majority, that decision controls here because “[w]e
+specifically rejected the argument that class arbitration was
+necessary.” Ante, at 9.
+
+															     Where to begin? Well,
+maybe where I just left off: Italian Colors is not claiming that a
+class action is necessary—only that it have some means of
+vindicating a meritorious claim. And as I have shown, non-class
+options abound. See supra, at 11. The idea that AT&T Mobility
+controls here depends entirely on the majority’s view that
+this case is “class action or bust.” Were the majority
+to drop that pretense, it could make no claim for AT&T
+Mobility’s relevance.
+
+															     And just as this case
+is not about class actions, AT&T Mobility was not—and
+could not have been—about the effective-vindication rule.
+Here is a tip-off: AT&T Mobility nowhere cited our
+effective-vindication precedents. That was so for two reasons. To
+begin with, the state law in question made class-action waivers
+unenforceable even when a party could feasibly vindicate her claim
+in an individual arbitration. The state rule was designed to
+preserve the broad-scale “deterrent effects of class
+actions,” not merely to protect a particular
+plaintiff’s right to assert her own claim. 563 U. S., at
+___ (slip op., at 3). Indeed, the Court emphasized that the
+complaint in that case was “most unlikely to go
+unresolved” because AT&T’s agreement contained a
+host of features ensuring that “aggrieved customers who filed
+claims would be essentially guaranteed to be made whole.”
+Id., at ___ (slip op., at 17–18) (internal quotation marks
+and brackets omitted). So the Court professed that AT&T
+Mobility did not implicate the only thing (a party’s ability
+to vindicate a meritorious claim) this case involves.
+
+															     And if that is not
+enough, AT&T Mobility involved a state law, and therefore could
+not possibly implicate the effective-vindication rule. When a state
+rule allegedly conflicts with the FAA, we apply standard preemption
+principles, asking whether the state law frustrates the FAA’s
+purposes and objectives. If the state rule does so—as the
+Court found in AT&T Mobility—the Supremacy Clause
+requires its invalidation. We have no earthly interest (quite the
+contrary) in vindicating that law. Our effective-vindication rule
+comes into play only when the FAA is alleged to conflict with
+another federal law, like the Sherman Act here. In that all-federal
+context, one law does not automatically bow to the other, and the
+effective-vindication rule serves as a way to reconcile any tension
+between them. Again, then, AT&T Mobility had no occasion to
+address the issue in this case. The relevant decisions are instead
+Mitsubishi and Randolph.
+
+															*  *  *
+
+															     The Court today
+mistakes what this case is about. To a hammer, everything looks
+like a nail. And to a Court bent on diminishing the usefulness of
+Rule 23, everything looks like a class action, ready to be
+dismantled. So the Court does not consider that Amex’s
+agreement bars not just class actions, but “other forms of
+cost-sharing . . . that could provide effective
+vindication.” Ante, at 7, n. 4. In short, the Court does
+not consider—and does not decide—Italian Colors’s
+(and similarly situated litigants’) actual argument about why
+the effective-vindication rule precludes this agreement’s
+enforcement.
+
+															     As a result,
+Amex’s contract will succeed in depriving Italian Colors of
+any effective opportunity to challenge monopolistic conduct
+allegedly in violation of the Sherman Act. The FAA, the majority
+says, so requires. Do not be fooled. Only the Court so requires;
+the FAA was never meant to produce this outcome. The FAA conceived
+of arbitration as a “method of resolving
+disputes”—a way of using tailored and streamlined
+procedures to facilitate redress of injuries. Rodriguez de Quijas,
+490 U. S., at 481 (emphasis added). In the hands of
+today’s majority, arbitration threatens to become more nearly
+the opposite—a mechanism easily made to block the vindication
+of meritorious federal claims and insulate wrongdoers from
+liability. The Court thus undermines the FAA no less than it does
+the Sherman Act and other federal statutes providing rights of
+action. I respectfully dissent.
+
+Notes
+1
+ The evidence relating to
+these costs comes from an affidavit submitted by an economist
+experienced in proving similar antitrust claims. The Second Circuit
+found that Amex “ha[d] brought no serious challenge” to
+that factual showing. See, e.g., 667 F. 3d 204, 210 (2012).
+And in this Court, Amex conceded that Italian Colors would need an
+expert economic report to prevail in arbitration. See Tr. of Oral
+Arg. 15. Perhaps that is not really true. A hallmark of arbitration
+is its use of procedures tailored to the type of dispute and amount
+in controversy; so arbitrators might properly decline to demand
+such a rigorous evidentiary showing in small antitrust cases. But
+that possibility cannot disturb the factual premise on which this
+case comes to us, and which the majority accepts: that Italian
+Colors’s tying claim is an ordinary kind of antitrust claim;
+and that it is worth about a tenth the cost of
+arbitration.
+2
+ The majority contends
+that the class-action waiver is the only part we should consider.
+See ante, at 7–8, n. 4. I explain below why that
+assertion is wrong. See infra, at 11–12.
+3
+ The majority is dead
+wrong when it says that Mitsubishi reserved judgment on
+“whether the arbitration agreement’s potential
+deprivation of a claimant’s right to pursue federal remedies
+may render that agreement unenforceable.” Ante, at 6,
+n. 2. What the Mitsubishi Court had “no occasion to
+speculate on” was whether a particular agreement in fact
+eliminated the claimant’s federal rights. 473 U. S., at
+673, n. 19. But we stated expressly that if the agreement did
+so (as Amex’s does), we would invalidate it. Ibid.; see
+supra, at 4.
+4
+ Gilmer and Vimar Seguros,
+which the majority relies on, see ante, at 8, fail to advance its
+argument. The plaintiffs there did not claim, as Italian Colors
+does, that an arbitration clause altogether precluded them from
+vindicating their federal rights. They averred only that
+arbitration would be less convenient or effective than a proceeding
+in court. See Gilmer v. Interstate/Johnson Lane Corp., –32
+(1991); Vimar Seguros y Reaseguros, S. A. v. M/V Sky Reefer, . As I
+have explained, that kind of showing does not meet the
+effective-vindication rule’s high bar. See supra, at
+6.
+5
+ In defense of this focus,
+the majority quotes the Second Circuit as concluding that
+“the only economically feasible means” for Italian
+Colors to enforce its statutory rights “is via a class
+action.” Ante, at 7–8, n. 4 (quoting 667
+F. 3d, at 218; internal quotation marks omitted; emphasis
+added by the Court). But the Court of Appeals reached that
+conclusion only after finding that the agreement prohibited all
+other forms of cost-sharing and cost-shifting. See 554 F. 3d
+300, 318 (2009). (That opinion was vacated on other grounds, but
+its analysis continued to inform—indeed, was essential
+to—the Second Circuit’s final decision in the case. See
+667 F. 3d, at 218.) The Second Circuit therefore did exactly
+what the majority refuses to do—look to the agreement as a
+whole to determine whether it permits the vindication of federal
+rights.
+
+

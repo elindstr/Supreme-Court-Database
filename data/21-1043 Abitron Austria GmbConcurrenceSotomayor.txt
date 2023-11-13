@@ -1,0 +1,679 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1043
+::decision_name::  Abitron Austria GmbH v. Hetronic International, Inc.
+::decision_year:: 2023
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1043
+
+															_________________
+
+															ABITRON AUSTRIA GmbH, et al., PETITIONERS
+v. HETRONIC INTERNATIONAL, INC.
+
+															on writ of certiorari to the united states
+court of appeals for the tenth circuit
+
+															[June 29, 2023]
+
+															
+
+															Justice Sotomayor, with whom The Chief
+Justice, Justice Kagan, and Justice Barrett join, concurring in the
+judgment.
+
+															Sections 32(1)(a) and 43(a)(1)(A) of the Lanham
+Act prohibit trademark infringement and unfair competition
+activities that are “likely to cause confusion, or to cause
+mistake, or to deceive.” 60Stat. 437, 441, as amended, 15
+U. S. C. §§1114(1)(a), 1125(a)(1)(A).[1] The issue in this case is whether,
+and to what extent, these provisions apply to activities that occur
+in a foreign country. I agree with the majority’s conclusion
+that the decision below must be vacated. I disagree, however, with
+the extraterritoriality framework that the Court adopts today. In
+my view, §§32(1)(a) and 43(a)(1)(A) of the Lanham Act
+extends to activities carried out abroad when there is a likelihood
+of consumer confusion in the United States.
+
+															I
+
+															This Court previously considered the
+extraterritoriality of the Lanham Act in Steele v. Bulova
+Watch Co., 344 U.S.
+280 (1952). There, the Court applied the Lanham Act to
+trademark infringement and unfair competition activities that
+occurred abroad but confused consumers in the United States. See
+id., at 281, 286–287. Because the Court decided
+Steele 70 years ago, it had no occasion to apply the
+two-step framework that the Court has since developed for
+evaluating the extraterritorial reach of a statute. A proper
+application of that framework, however, leads to a result
+consistent with Steele: Although there is no clear
+indication that the Lanham Act provisions at issue rebut the
+presumption against extraterritoriality at step one, a domestic
+application of the statute can implicate foreign conduct at step
+two, so long as the plaintiff proves a likelihood of consumer
+confusion domestically.
+
+															A
+
+															In Steele, the Bulova Watch Company,
+Inc., a New York corporation that marketed watches under the
+registered U. S. mark “Bulova,” sued Sidney
+Steele, a U. S. citizen and resident of Texas with a watch
+business in Mexico City. Id., at 281, 284. Upon discovering
+that the mark “Bulova” was not registered in Mexico,
+Steele obtained the Mexican registration of the mark, assembled
+watches in Mexico using component parts he had procured from the
+United States and Switzerland, and “stamped his watches with
+‘Bulova’ and sold them as such.” Id., at
+281, 284–285. As a result, “spurious
+‘Bulovas’ filtered through the Mexican border into this
+country,” causing a Bulova Watch Company’s sales
+representative in the United States to “receiv[e] numerous
+complaints from retail jewelers in the Mexican border area [of
+Texas] whose customers brought in for repair defective
+‘Bulovas’ which upon inspection often turned out not to
+be products of that company.” Id., at 285–286.
+Steele “committed no illegal acts within the United
+States.” Id., at 282.
+
+															The Court held that, because Steele’s
+“operations and their effects were not confined within the
+territorial limits of a foreign nation,” the Lanham Act
+applied to Steele’s activities. Id., at 286. The Court
+emphasized that Steele’s conduct had the potential to
+“reflect adversely on Bulova Watch Company’s trade
+reputation” in the United States. Ibid. By contrast,
+the fact that Steele “affixed the mark ‘Bulova’
+in Mexico City rather than here” was not
+“material.” Id., at 287.
+
+															B
+
+															Following Steele, the Courts of Appeals
+developed various tests, modeled after Steele’s facts,
+to address the Lanham Act’s extraterritorial reach.[2] This Court also subsequently adopted
+a two-step framework for determining when a statute can apply
+extraterritorially to foreign conduct. That framework implements
+“a canon of statutory construction known as the presumption
+against extraterritoriality.” RJR Nabisco, Inc. v.
+European Community, 579 U.S. 325, 335 (2016). The presumption
+reflects the “longstanding principle of American law that
+legislation of Congress, unless a contrary intent appears, is meant
+to apply only within the territorial jurisdiction of the United
+States.” Morrison v. National Australia Bank
+Ltd., 561 U.S.
+247, 255 (2010) (internal quotation marks omitted). That is,
+courts presume that, “in general, ‘United States law
+governs domestically but does not rule the
+world.’ ” RJR Nabisco, 579 U. S., at
+335 (quoting Microsoft Corp. v. AT&T Corp.,
+550 U.S.
+437, 454 (2007)).
+
+															Under this framework, the Court first asks
+“whether the presumption against extraterritoriality has been
+rebutted” by “a clear, affirmative indication that [the
+statute] applies extraterritorially.” RJR Nabisco, 579
+U. S., at 337. If the presumption is not rebutted at that
+first step, the Court then proceeds to determine at step two
+“whether the case involves a domestic application of the
+statute.” Ibid. To determine whether a domestic
+application exists, the Court must ascertain the statute’s
+“focus,” i.e., “the objec[t] of the
+statute’s solicitude.” Morrison, 561 U. S.,
+at 266–267.
+
+															As I explain below, although I agree with the
+result the Court reaches with respect to the first step, I disagree
+with its analysis at step two.
+
+															1
+
+															Sections 32(1)(a) and 43(a)(1)(A) of the
+Lanham Act impose civil liability on a defendant who “use[s]
+in commerce” a trademark in a manner that is “likely to
+cause confusion, or to cause mistake, or to deceive.” 15
+U. S. C. §§1114(1)(a), 1125(a)(1)(A). The Act
+in turn defines “commerce” as “all commerce which
+may lawfully be regulated by Congress.” §1127.
+
+															Under this Court’s precedents, this
+language is insufficient to rebut the presumption against
+extraterritoriality at step one. The Court has “repeatedly
+held that even statutes that contain broad language in their
+definitions of ‘commerce’ that expressly refer to
+‘foreign commerce’ do not apply abroad” to
+all foreign conduct. Morrison, 561 U. S., at
+262–263 (internal quotation marks omitted); see also RJR
+Nabisco, 579 U. S., at 344 (a statute’s reference to
+“foreign commerce” does not “mean literally all
+commerce occurring abroad”). The Court has also explained
+“that generic terms like ‘any’ or
+‘every’ do not rebut the presumption.”
+Kiobel v. Royal Dutch Petroleum Co., 569
+U.S. 108, 118 (2013). The term “all” is not
+meaningfully different. While “the word conveys
+breadth,” Peter v. NantKwest, Inc., 589
+U. S. ___, ___ (2019) (slip op., at 7), it does not rebut the
+presumption either.
+
+															2
+
+															The Court’s inquiry at step two centers
+on the “focus” of the statutory provisions. Like the
+Court’s analysis at step one, this inquiry is contextual; the
+Court “do[es] not analyze the provision at issue in a
+vacuum.” WesternGeco LLC v. ION Geophysical
+Corp., 585 U. S. ___, ___ (2018) (slip op., at 6). Rather,
+the Court looks at the provision “in concert” with
+other relevant provisions and considers “how the statute has
+actually been applied.” Ibid. The aim of determining
+the statutory focus is to assess what constitutes a domestic
+application of the statute. An application is domestic when the
+object of the statute’s focus is found in, or occurs in, the
+United States. See, e.g., Morrison, 561 U. S.,
+at 266–267, 273 (where the “focus of the Exchange
+Act” is “purchases and sales of securities,”
+there is no domestic application of the statute when those
+purchases and securities “occurred outside the United
+States,” regardless of “the place where the deception
+originated”).
+
+															The parties offer different interpretations of
+the focus of §§32(1)(a) and 43(a)(1)(A). Petitioners
+argue that the focus of the statute is the “use” of the
+mark “in commerce.” Brief for Petitioners 39. Under
+petitioners’ theory, the Lanham Act does not reach any
+infringing products sold abroad; instead, the defendant must sell
+the products directly into the United States. Id., at
+44–45. Respondent, by contrast, argues that the Act has two
+distinct focuses: protecting mark owners from reputational harm and
+protecting consumers from confusion. Brief for Respondent
+45–48. Under respondent’s view, reputational harm to
+the mark owner “is not necessarily tied to the locus of
+[consumer] confusion or the locus of the [defendant’s]
+conduct.” Id., at 47. Instead, respondent asserts,
+harm to a mark owner’s reputation “is felt where [the
+mark owner] resides.” Ibid. The Government, as
+amicus curiae supporting neither party, offers a middle
+ground. In its view, the focus of the statute is consumer
+confusion. See Brief for United States as Amicus Curiae 14
+(United States Brief ). Accordingly, “[w]here such
+effects are likely to occur in the United States, application of
+Sections 32(1)(a) and 43(a)(1)(A) is a permissible domestic
+application of the Act, even if the defendant’s own conduct
+occurred elsewhere.” Ibid.
+
+															I agree with the Government’s position.
+Sections 32(1)(a) and 43(a)(1)(A) of the Act prohibit specific
+types of “use[s] in commerce”: uses that are
+“likely to cause confusion, or to cause mistake, or to
+deceive.” 15 U. S. C. §§1114(1)(a),
+1125(a)(1)(A). The statute thus makes clear that prohibiting the
+use in commerce is “merely the means by which the statute
+achieves its end” of protecting consumers from confusion.
+WesternGeco LLC, 585 U. S., at ___ (slip op., at 8).
+Stated differently, “a competitor’s use does not
+infringe a mark unless it is likely to confuse consumers.”
+Patent and Trademark Office v. Booking.com B.V., 591
+U. S. ___, ___ (2020) (slip op., at 12); see 4 J. McCarthy,
+Trademarks and Unfair Competition §23:1, p. 23–9
+(5th ed. 2023) (McCarthy) (“[L]ikelihood of confusion is the
+keystone of trademark infringement”). Because the
+statute’s focus is protection against consumer confusion, the
+statute covers foreign infringement activities if there is a
+likelihood of consumer confusion in the United States and all other
+conditions for liability are established. See infra, at
+12.
+
+															Treating consumer confusion as the focus of the
+Act is consistent with Steele, which focused on the domestic
+“effects” of the defendant’s foreign conduct. 344
+U. S., at 286. Steele emphasized that, although the
+defendant did not affix the mark or sell the products in the United
+States, “spurious ‘Bulovas’ filtered through the
+Mexican border into this country,” causing consumer confusion
+here. Id., at 285–287. These domestic effects, the
+Court reasoned, could “reflect adversely on Bulova Watch
+Company’s trade reputation” in the United States.
+Id., at 286. In other words, consistent with the statutory
+text, Steele focused on the impact of the defendant’s
+foreign conduct on the consumer market in the United States (in
+accord with the Government’s view here), not the location of
+the original sale of the infringing product or the location of the
+trademark owner’s business (contrary to petitioners’
+and respondent’s views here).
+
+															The Court’s precedent also supports the
+view that an application of a statute can be considered domestic
+even when foreign conduct is implicated. In Morrison, for
+example, the Court concluded that §10(b) of the Securities
+Exchange Act of 1934, 48Stat. 891, “does not punish deceptive
+conduct, but only deceptive conduct ‘in connection with the
+purchase or sale of ’ ” securities in the
+United States. 561 U. S., at 266 (quoting 15
+U. S. C. §78j(b)). Thus, “the focus of the
+Exchange Act is not upon the place where the deception originated,
+but upon purchases and sales of securities in the United
+States.” 561 U. S., at 266. “Those
+purchase-and-sale transactions are the objects of the
+statute’s solicitude.” Id., at 267. Under
+Morrison, a domestic application of §10(b) covers
+misrepresentations made abroad, so long as the deceptive conduct
+bears the requisite connection to the statute’s focus: the
+domestic purchase or sale of a security. Similarly, under
+§§32(1)(a) and 43(a)(1)(A) of the Lanham Act, uses of a
+mark in commerce are actionable when they cause a likelihood of
+consumer confusion in the United States, even when the conduct
+originates abroad.
+
+															II
+
+															The Court agrees with petitioners’
+bottom line that the Lanham Act requires a domestic “use in
+commerce.” See ante, at 7–10. According to the
+majority, the “ ‘use in commerce’ provides
+the dividing line between foreign and domestic applications of
+these Lanham Act provisions.” Ante, at 10. Yet the
+majority does not actually take a stance on the focus of the Act or
+apply this Court’s settled law. Instead, to reach its
+conclusion, the majority transforms the Court’s
+extraterritoriality framework into a myopic conduct-only test.
+
+															Specifically, instead of discerning the
+statute’s focus and assessing whether that focus is found
+domestically, as the Court’s precedents command, the majority
+now requires a third step: an assessment of whether the
+“conduct relevant to the focus” occurred domestically,
+even when the focus of the statute is not conduct. Ante, at
+9. Making matters even more confusing, the majority skips over the
+middle step of this new framework, concluding that it is
+unnecessary to discern the focus of the Lanham Act because
+“the conduct relevant to any potential focus” that
+“the parties have proffered” must be “use in
+commerce,” since that is conduct mentioned in the statute.
+Ibid.[3] In other words,
+under the Court’s unprecedented three-step framework, no
+statute can reach relevant conduct abroad, no matter the true
+object of the statute’s solicitude.
+
+															The Court’s novel approach transforms the
+traditional inquiry at step two into a conduct-only test, in direct
+conflict with this Court’s jurisprudence. The Court has
+expressly recognized that a statute’s “focus” can
+be “conduct,” “parties,” or
+“interests” that Congress sought to protect or
+regulate. WesternGeco LLC, 585 U. S., at ___ (slip op.,
+at 8) (internal quotation marks omitted); see also Morrison,
+561 U. S., at 266 (“the focus of the Exchange Act is not
+upon the place where the deception originated”). After all,
+not every federal statute subject to an extraterritoriality
+analysis “directly regulate[s] conduct.” Kiobel,
+569 U. S., at 116.
+
+															Because precedent does not support the
+Court’s recitation of the extraterritoriality framework, the
+majority retreats to a distorted reading of the Court’s past
+decisions. The majority relies on RJR Nabisco, see
+ante, at 9, but that case does not support the
+majority’s course. The Court in RJR Nabisco noted that
+the Racketeer Influenced and Corrupt Organizations Act’s
+civil suit provision requires an “injury to business or
+property.” 579 U. S., at 354. The Court then concluded
+that there is a domestic application of that provision so long as
+there is a “domestic injury.” Ibid. In other
+words, the Court held that the focus of the statute had to occur
+domestically. It did not require a third step.
+
+															The Court also repeatedly quotes from cases
+where the Court has said that a domestic application requires that
+“the conduct relevant to the statute’s focus occurred
+in the United States.” Ante, 4–5, 10. In those
+cases, however, the Court first concluded (or assumed without
+deciding) that the focus of the provision at issue was
+conduct, and only then proceeded to consider whether the relevant
+conduct occurred domestically. In WesternGeco, for example,
+the Court considered the extraterritorial application of
+§271(f )(2) of the Patent Act, which formed “the
+basis for [the plaintiff ’s] infringement claim.”
+585 U. S., at ___ (slip op., at 7). The “focus” of
+that provision, the Court concluded, is the “act of
+‘suppl[ying] in or from the United
+States,’ ” so the conduct “relevant to that
+focus” was the defendant’s “domestic act of
+supplying the components that infringed [the
+plaintiff ’s] patents.” Id., at
+___–___ (slip op., at 7–8); see also Nestlé
+USA, Inc. v. Doe, 593 U. S. ___, ___–___
+(2021) (slip op., at 4–5) (assuming without deciding that
+“the ‘focus’ of the [statute] is conduct that
+violates international law” and then concluding that conduct
+relevant to that focus “occurred in Ivory Coast”). In
+other words, the Court looked to whether the focus of the statute
+at issue occurred domestically.
+
+															In sum, none of the cases upon which the
+majority relies establish categorically that there must be domestic
+conduct in order for there to be a domestic application of a
+statute. Calling this requirement “straightforward,”
+“established precedent” does not make it so.
+Ante, at 10–11.[4]
+
+															The Court’s transformative approach
+thwarts Congress’ ability to regulate important
+“interests” or “parties” that Congress has
+the power to regulate. WesternGeco LLC, 585 U. S., at
+___ (slip op., at 6). Some statutes may have a statutory
+focus that is not strictly conduct and that implicates some conduct
+abroad. Cf., e.g., F. Hoffmann-La Roche Ltd
+v. Empagran S. A., 542 U.S.
+155, 165 (2004) (recognizing the long-established view that U.
+S. antitrust laws “reflect a legislative effort to redress
+domestic antitrust injury that foreign anticompetitive conduct has
+caused” (emphasis deleted)). Under the Court’s new
+categorical rule, those statutes may not cover relevant conduct
+occurring abroad, even if that conduct impacts domestic interests
+that Congress sought to protect. At bottom, by reframing the
+inquiry at step two as a conduct-only test, the Court’s new
+rule frustrates a key function of the presumption against
+extraterritoriality: to discern congressional meaning and
+“preserv[e] a stable background against which Congress can
+legislate with predictable effects” to protect domestic
+interests, Morrison, 561 U. S., at 261, including those
+of U. S. trademark owners and consumers.
+
+															The Court’s analysis is also inconsistent
+with Steele. Ac-
+
+															
+
+															cording to the Court, “Steele
+implicated both domestic conduct and a likelihood of domestic
+confusion,” so it offers no guidance in resolving this case.
+Ante, at 8. No court of appeals has read
+Steele that way, and for good reason: Steele clearly
+recognized that infringing acts consummated abroad fall under the
+purview of the Lanham Act when they generate consumer confusion in
+the United States. See supra, at 2–3,
+6–7.[5] Finding
+Steele “of little assistance” to its blinkered
+approach, the majority reduces Steele to a
+“narrow” case with no application beyond its facts.
+Ante, at 8. Steele is no such thing. It
+addressed the weighty question whether the Lanham Act
+“extend[s] beyond the boundaries of the United States,”
+344 U. S., at 285, and has guided the lower courts’
+extraterritoriality analysis for more than 70 years. The Court
+should not “put aside” the Court’s precedent
+merely because it is convenient to do so. Ante, at 8.
+
+															Because the Court cannot ground its holding in
+precedent, it turns to abstract policy considerations. According to
+the majority, the focus of the Lanham Act cannot center on consumer
+confusion, despite Steele and the statute’s clear
+textual clues, because any focus other than conduct is too
+uncertain and “would create headaches for lower
+courts.” Ante, at 11. The Court’s conclusion,
+however, is based on the incorrect assumption that “merely a
+likelihood of an effect in this country” would be sufficient
+to hold a defendant liable under the Act. Ante, at 12
+(emphasis deleted). What the Lanham Act requires is a likelihood of
+confusion in the United States, not some abstract and undefined
+“effect.” The likelihood-of-confusion test comes
+straight from the statute’s text. As petitioners and the
+Court acknowledge, it is at the very core of the inquiry under
+§§32(1)(a) and 43(a)(1)(A). See Brief for Petitioners
+47–48; ante, at 9. Assessing likelihood of confusion
+may require a nuanced test, but it is the test that Congress chose
+and that courts already apply.
+
+															In addition, any plaintiff would need to do more
+than point to mere likelihood of confusion; as with any cause of
+action, the plaintiff must establish all necessary elements for
+recovery. For example, although “use in commerce” is
+not the statute’s focus, the statute still requires that the
+plaintiff establish a “use in commerce.”
+§§1114(1)(a), 1125(a)(1)(A). As Steele shows,
+because “commerce” includes all commerce that Congress
+has the power to regulate, §1127, some foreign sales can fall
+under the statute’s reach. See also RJR Nabisco, 579
+U. S., at 344 (the term “ ‘foreign
+commerce’ ” does not “mean literally all
+commerce occurring abroad,” but it includes “commerce
+directly involving the United States,” including
+“commerce between the United States and a foreign
+country”).[6] Plaintiffs
+must also generally show, for example, that their “injuries
+are proximately caused by violations of the statute.”
+Lexmark Int’l, Inc. v. Static Control Components,
+Inc., 572 U.S.
+118, 132 (2014). The Court is thus mistaken that
+“abstract consumer confusion is sufficient” to recover
+under the Lanham Act. Ante, at 14.
+
+															The Court also incorrectly concludes that a test
+that focuses on domestic consumer confusion conflicts with the
+territoriality principle of trademark law. See ante, at
+12–14. That principle recognizes that a trademark has
+separate legal existence in each country where the mark “is
+registered or legally recognized.” 5 McCarthy §29:1, at
+29–5; see Ingenohl v. Olsen & Co.,
+273 U.S.
+541, 544 (1927) (noting that a trademark secured in one country
+“depend[s] for its protection” there and
+“confer[s] no rights” elsewhere). Thus, to obtain the
+benefits that flow from trademark rights, such as the “right
+to a non-confused public,” the plaintiff must secure those
+rights in the country where it wants protection. 1 McCarthy
+§2:10, at 2–24.
+
+															A focus on consumer confusion in the United
+States is consistent with that international system. That focus
+properly cabins the Act’s reach to foreign conduct that
+results in infringing products causing consumer confusion
+domestically while “leaving to foreign jurisdictions the
+authority to remedy confusion within their territories.”
+United States Brief 25–26; see Brief for European Commission
+on Behalf of the European Union as Amicus Curiae 6
+(“The test for infringement in the European Union, including
+in Germany, like the United States, assesses whether there is a
+likelihood of consumer confusion”). In other words, applying
+the Lanham Act to domestic consumer confusion promotes the benefits
+of U. S. trademark rights in the territory of the United
+States.
+
+															The Court’s approach, by contrast, would
+absolve from liability those defendants who sell infringing
+products abroad that reach the United States and confuse consumers
+here. That resulting consumer confusion in the United States,
+however, falls squarely within the scope of the interests that the
+Lanham Act seeks to protect.[7]
+
+															The Court’s arguments about the impending
+“ international discord” that will result from the
+Government’s approach are simply overblown. Ante, at
+12 (internal quotation marks omitted). There is no evidence
+that Steele, which is consistent with a focus on domestic
+consumer confusion, has created any international tension since it
+was decided more than 70 years ago. Moreover, as even petitioners
+acknowledge, purely foreign sales with no connection to the United
+States are unlikely to confuse consumers domestically. See Brief
+for Petitioners 44. Foreign companies with purely foreign
+operations also have at their disposal important defenses grounded
+in due process and international comity principles, including the
+ability to dismiss a case in the United States for lack of personal
+jurisdiction or on the ground of forum non conveniens. See,
+e.g., Piper Aircraft Co. v. Reyno, 454 U.S.
+235, 257–261 (1981).[8]
+
+															Finally, the Court relies upon the amicus
+brief filed by the European Commission in support of its concern
+about the risk of international “tension” that the
+Government’s position supposedly creates. Ante, at
+14. The European Commission filed its brief in support of
+neither party, however, in line with the Solicitor General’s
+view that a focus on consumer confusion provides a more balanced
+approach that respects international relations while protecting
+against trademark infringement domestically. No “sovereign
+nation” filed its brief in support of petitioners’ (and
+the Court’s) restricted view of step two of the
+extraterritoriality analysis. Ibid. And there is no
+“tension” in any event. What the European Commission
+“warns this Court against,” ibid., is adopting
+respondent’s sweeping view that all foreign uses that confuse
+consumers abroad fall under the scope of the Act. See Brief for
+European Commission on Behalf of the European Union as Amicus
+Curiae 6 (explaining that “infringement” occurs in
+the European Union when there is “a likelihood of consumer
+confusion” there).
+
+															*  *  *
+
+															The Lanham Act covers petitioners’
+activities abroad so long as respondent can show that those
+activities are “likely to cause confusion, or to cause
+mistake, or to deceive” in the United States and can prove
+all elements necessary to establish liability under the Act. 15
+U. S. C. §§1114(1)(a), 1125(a)(1)(A). Because
+the courts below did not apply that test, I agree vacatur and
+remand is required. The Court’s opinion, however, instructs
+the Court on remand to apply a test that is not supported by either
+the Lanham Act or this
+
+															Court’s traditional two-step
+extraterritoriality framework. I therefore concur only in the
+judgment.[9]
+
+Notes
+1
+ For simplicity, this
+opinion refers to this likelihood of “confusion,”
+“mistake,” or “decei[t]” as likelihood of
+consumer confusion.
+2
+ See, e.g.,
+Trader Joe’s Co. v. Hallatt, 835 F.3d 960, 969
+(CA9 2016); McBee v. Delica Co., 
+417 F.3d 107, 111 (CA1 2005); International Cafe, S. A.
+L. v. Hard Rock Cafe Int’l (U. S. A.),
+Inc., 
+252 F.3d 1274, 1278 (CA11 2001); Aerogroup Int’l,
+Inc. v. Marlboro Footworks, Ltd., 152 F.3d 948 (CA Fed.
+1998); Nintendo of Am., Inc. v. Aeropower Co.,
+
+34 F.3d 246, 250 (CA4 1994); American Rice, Inc. v.
+Arkansas Rice Growers Cooperative Assn., 701 F.2d 408, 414,
+n. 8 (CA5 1983); Vanity Fair Mills, Inc. v. T. Eaton
+Co., 234 F.2d 633, 642–643 (CA2 1956).
+3
+ Even more confusing
+still, “use in commerce” is all that matters under the
+majority’s conduct-only analysis even though other conduct is
+also listed as actionable in at least one of the provisions at
+issue. 15 U. S. C. §1114(1)(a) (“the sale,
+offering for sale, distribution, or advertising of any goods or
+services”).
+4
+ Relying on RJR
+Nabisco, Inc. v. European Community, 579 U.S. 325
+(2016), the majority argues that the Court has already
+“acknowledged that courts do not need to determine [a]
+statute’s ‘focus’ when all conduct regarding the
+violations took place outside the United States. ”
+Ante, at 11 (some internal quotation marks omitted).
+The portion of RJR Nabisco that the majority relies upon
+merely described the Court’s holding in Kiobel v.
+Royal Dutch Petroleum Co., 569 U.S.
+108 (2013), a case that did not involve step two. In
+Kiobel, the Court held that the statute did not rebut the
+presumption against extraterritoriality at step one and declined to
+address step two of the analysis (including determining the
+statute’s focus) because the claims at issue did not
+“touch and concern the territory of the United States”
+other than through “mere corporate presence.”
+Id., at 124–125. Kiobel does not offer any
+guidance on what constitutes a domestic application of a statute at
+step two.
+5
+ It is true that
+Steele involved domestic conduct insofar as the defendant
+exported watch parts from the United States into Mexico in
+preparing to affix the infringing mark abroad. See 344 U. S.,
+at 286. Yet the act of exporting those watch parts with no affixed
+mark did not, without more, constitute an “illegal ac[t]
+within the United States.” Id., at 282, 287. In
+contrast, the defendant committed infringing acts abroad:
+“[I]n Mexico City [he] stamped his watches with
+‘Bulova’ and sold them as such.” Id., at
+285. The Court also did not hold that domestic exportation of
+unmarked product parts is necessary for the Lanham Act to cover
+foreign sales.
+6
+ Here, there is no dispute
+that the Lanham Act covers the products that petitioners sold
+directly into the United States. See Brief for Petitioners 11, 41,
+44–45. The dispute centers on products that petitioners sold
+abroad to foreign buyers. For a portion of those products, the
+foreign buyer designated the United States as the location where
+the products were intended to be used. Like the watches in
+Steele, those products thus “ended up in the United
+States.” Pet. for Cert. 6.
+7
+ In today’s
+increasingly global marketplace, where goods travel through
+different countries, multinational brands have an online presence,
+and trademarks are not protected uniformly around the world,
+limiting the Lanham Act to purely domestic activities leaves
+U. S. trademark owners without adequate protection. Cf.
+McBee, 417 F. 3d, at 119 (noting that “global
+piracy of American goods is a major problem for American
+companies,” and absent some enforcement over foreign
+activities, “there is a risk” that “violators
+will either take advantage of international coordination problems
+or hide in countries without efficacious . . . trademark
+laws, thereby avoiding legal authority”). To be sure, the
+Court today does not address whether a defendant operating abroad
+who sells goods that reach the United States can be held liable
+under the Lanham Act pursuant to contributory liability principles.
+See Tr. of Oral Arg. 7–8, 20–21. Still,
+today’s decision significantly waters down protections for
+U. S. trademark owners. It is now up to Congress to correct
+the Court’s limited reading of the Act.
+8
+ The Court incorrectly
+suggests that the Government’s position will sweep in foreign
+defendants with only a minimal connection to the United States.
+Ante, at 12. In this case, for example, the District Court
+concluded that personal jurisdiction was proper based on a forum
+selection clause in the parties’ distribution agreement,
+which named Okla- homa as the forum of choice, and because
+petitioners purposefully directed their activities at the United
+States. Hetronic Int’l, Inc. v. Hetronic Germany
+GmbH, 2015 WL 5569035, *1–*3 (WD Okla., Sept. 22, 2015);
+Hetronic Int’l, Inc. v. Hetronic Germany GmbH,
+2015 WL 6835428, *2 (WD Okla., Nov. 6, 2015). The Tenth Circuit
+affirmed that determination, Hetronic Int’l, Inc.
+v. Hetronic Germany GmbH, 10 F. 4th 1016,
+1027–1032 (2021), which petitioners do not challenge before
+this Court.
+9
+ The jury returned a
+verdict for respondent on all counts in the complaint, including
+the breach of contract and tort claims under state law, and awarded
+respondent more than $115 million in damages. See App. to Pet. for
+Cert. 8a, 134a–137a. The Court’s decision today on the
+claims under the Lanham Act does not affect the relief granted on
+other claims, which petitioners do not challenge before this
+Court.
+
+

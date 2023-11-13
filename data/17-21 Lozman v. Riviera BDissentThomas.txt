@@ -1,0 +1,106 @@
+::SCDB_caseID:: 2017-049
+::decision_cite:: 17-21
+::decision_name::  Lozman v. Riviera Beach
+::decision_year:: 2018
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–21
+
+															_________________
+
+															FANE LOZMAN, PETITIONER v. CITY OF RIVIERA BEACH, FLORIDA
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 18, 2018]
+
+															
+
+															Justice Thomas, dissenting.
+
+															We granted certiorari to decide “whether the existence of probable cause defeats a
+ 
+First Amendment claim for retaliatory arrest under [42 U. S. C.] §1983.”  Ante, at 5.  Instead of resolving that question, the Court decides that probable cause should not defeat a “unique class of retaliatory arrest claims.”  Ante, at 12.  To fall within this unique class, a claim must involve objective evidence, of an official municipal policy of retaliation, formed well before the arrest, in response to highly protected speech, that has little relation to the offense of arrest.  See ante, at 11–12.  No one briefed, argued, or even hinted at the rule that the Court announces today.  Instead of dreaming up our own rule, I would have answered the question presented and held that plaintiffs must plead and prove a lack of prob- able cause as an element of a
+ 
+First Amendment retaliatory-arrest claim.  I respectfully dissent.
+
+															I
+
+															The petition for certiorari asked us to resolve whether “the existence of probable cause defeat[s] a
+ 
+First Amendment retaliatory-arrest claim as a matter of law.”  Pet. for Cert. i.  That question has divided the federal courts for decades.  See id., at 10–13.  We granted certiorari to consider it six years ago in Reichle v. Howards,
+
+566 U. S. 658, 663 (2012).  But we did not resolve it then because the petitioner’s second question presented—whether qualified immunity applied—fully resolved the case.  Ibid.  Since Reichle, the split in the federal courts has widened.  See Pet. for Cert. 12–13.  In this case, we again granted certiorari, 538 U. S. ___ (2017), this time only on the question of probable cause, see Pet. for Cert. i.
+
+															Yet the Court chooses not to resolve that question, leaving in place the decades-long disagreement among the federal courts.  The parties concentrated all their arguments on this question in their briefs and at oral argument.  Neither party suggested that there was something special about Fane Lozman’s claim that would justify a narrower rule.  See, e.g., Tr. of Oral Arg. 15–16 (refusing to take the “fallback position” that this “is some special kind of case”).  Yet the Court does that work for them by defining a “unique class of retaliatory arrest claims” that do not require plaintiffs to plead and prove a lack of probable cause.  Ante, at 12.
+
+															By my count, the Court has identified five conditions that are necessary to trigger its new rule.  First, there must be “an ‘official municipal policy’ of intimidation.”  Ante, at 11 (quoting Monell v. New York City Dept. of Social Servs.,
+
+436 U. S. 658, 691 (1978)).  Second, the policy must be “premeditated” and formed well before the arrest—here, for example, the policy was formed “months earlier.”  Ante, at 11.[1]  Third, there must be “objective evidence” of such a policy.  Ante, at 12.  Fourth, there must be “little relation” between the “protected speech” that prompted the retaliatory policy and “the criminal offense for which the arrest is made.”  Ante, at 11.  Finally, the protected speech that provoked the retaliatory policy must be “high in the hierarchy of
+ 
+First Amendment values.”  Ante, at 12.  Where all these features are present, the Court explains, there is not the same “causation problem” that exists for other retaliatory-arrest claims.  Ante, at 11.
+
+															I find it hard to believe that there will be many cases where this rule will even arguably apply, and even harder to believe that the plaintiffs in those cases will actually prove all five requirements.  Not even Lozman’s case is a good fit, as the Court admits when it discusses the relevant considerations for remand.  See ante, at 12–13.  In my view, we should not have gone out of our way to fashion a complicated rule with no apparent applicability to this case or any other.
+
+															II
+
+															Turning to the question presented, I would hold that plaintiffs bringing a
+ 
+First Amendment retaliatory-arrest claim must plead and prove an absence of probable cause.[2]  This Court has “repeatedly noted that
+
+42 U. S. C. §1983 creates ‘ “a species of tort liability.” ’ ”  Memphis Commu- nity School Dist. v. Stachura,
+
+477 U. S. 299, 305 (1986) (footnote omitted).  Accordingly, we “defin[e] the contours and prerequisites of a §1983 claim” by “look[ing] first to the common law of torts.”  Manuel v. Joliet, 580 U. S. ___, ___ (2017) (slip op., at 12); see, e.g., Heck v. Humphrey,
+
+512 U. S. 477, 484 (1994) (analogizing to the “common-law cause of action for malicious prosecution”); id., at 491 (Thomas, J., concurring) (emphasizing that the decision was “consistent . . . with the state of the common law at the time §1983 was enacted”).
+
+															When §1983 was enacted, there was no common-law tort for retaliatory arrest in violation of the freedom of speech.  See Hartman v. Moore,
+
+547 U. S. 250, 259 (2006).  I would therefore look to the common-law torts that “provid[e] the closest analogy” to this claim.  Heck, supra, at 484.  The closest analogs here are the three arrest-based torts under the common law: false imprisonment, malicious prosecution, and malicious arrest.  In defining the elements of these three torts, 19th-century courts emphasized the importance of probable cause.
+
+															Consider first the tort of false imprisonment.  Common-law courts stressed the need to shape this tort with an “indulgence” for peace officers, who are “specially charged with a duty in the enforcement of the laws.”  T. Cooley, Law of Torts 175 (1880) (Cooley); see, e.g., Hogg v. Ward, 3 H. & N. 417, 423, 157 Eng. Rep. 533, 536 (Ex. 1858) (opinion of Watson, B.) (stressing “the utmost importance that the police throughout the country should be supported in the execution of their duty”).  Accordingly, private citizens were always liable for false imprisonment if the arrestee had not actually committed a felony, but constables were “excused” if they had “made [the arrest] on reasonable grounds of belief”—i.e., probable cause.  Cooley 175; accord, 2 C. Addison, Law of Torts §803, p. 18 (1876); 1 F. Hilliard, The Law of Torts or Private Wrongs §18, pp. 207–208, and n. (a) (1866).  As Lord Mansfield explained, it was “of great consequence to the police” that probable cause shield officers from false-imprisonment claims, as “it would be a terrible thing” if the threat of liability dissuaded them from performing their official duties.  Ledwith v. Catchpole, 2 Cald. 291, 295 (K. B. 1783). This concern outweighed “the mischief and inconvenience to the public” from the reality that “[m]any an innocent man has and may be taken up upon suspicion.”  Ibid.  Many State Supreme Courts agreed with Lord Mansfield’s reasoning.  See, e.g., Burns v. Erben, 40 N. Y. 463, 469 (1869) (opinion of Woodruff, J.) (quoting Ledwith); Brockway v. Crawford, 48 N. C. 433, 437 (1856) (“[The] exempt[ion] for responsibility” for arrests based on probable cause “encourages . . . a sharp look-out for the apprehension of felons”).  As one court put it, “How, in the great cities of this land, could police power be exercised, if every peace officer is liable to civil action for false imprisonment” whenever “persons arrested upon probable cause shall afterwards be found innocent?”  Hawley v. Butler, 54 Barb. 490, 496 (N. Y. Sup. 1868).
+
+															Courts also stressed the importance of probable cause when defining the torts of malicious prosecution and malicious arrest.  See, e.g., Ahern v. Collins, 39 Mo. 145, 150 (1866) (holding that “malice and want of probable cause are necessary ingredients of both”).  For the tort of malicious prosecution, courts emphasized the “necessity” of both the “allegation” and “proof” of probable cause, in light of the public interest “that criminals should be brought to justice.”  Hogg v. Pinckney, 16 S. C. 387, 393 (1882); see also Chrisman v. Carney, 33 Ark. 316, 326 (1878) (“The existence of probable cause is of itself alone a complete defense . . . . The interest which society has in the enforcement of the criminal laws requires this rule”).  Similarly, if the element of probable cause were not “strictly guarded,” “ill consequences would ensue to the public, for no one would willingly undertake to vindicate a breach of the public law and discharge his duty to society, with the prospect of an annoying suit staring him in the face.”  Ventress v. Rosser, 73 Ga. 534, 541 (1884); accord, Cardival v. Smith, 109 Mass. 158 (1872).  The element of probable cause also played an evidentiary role for both torts.  Lack of probable cause provided “evidence of malice, though inconclusive,” Herman v. Brookerhoff, 8 Watts 240, 241 (Pa. 1839), because “[m]alice may be inferred from a total want of probable cause,” Ventress, supra, at 541; accord, Ahern, supra, at 150.
+
+															In sum, when §1983 was enacted, the common law recognized probable cause as an important element for ensuring that arrest-based torts did not unduly interfere with the objectives of law enforcement.  Common-law courts were wary of “throw[ing] down the bars which protect public officers from suits for acts done within the scope of their duty and authority, by recognizing the right of every one who chooses to imagine or assert that he is aggrieved by their doings, to make use of an allegation that they were malicious in motive to harass them with suits on that ground.”  Chelsey v. King, 74 Me. 164, 175–176 (1882).
+
+															Applying that principle here, it follows that plaintiffs bringing a
+ 
+First Amendment retaliatory-arrest claim under §1983 should have to plead and prove a lack of probable cause.  I see no justification for deviating from the historical practice simply because an arrest claim is framed in terms of the
+ 
+First Amendment.  Even under a
+ 
+First Amendment theory, “the significance of probable cause or the lack of it looms large.”  Hartman, 547 U. S., at 265.  The presence of probable cause will tend to disprove that the arrest was done out of retaliation for the plaintiff’s speech, and the absence of probable cause will tend to prove the opposite.  See id., at 261.  Because “[p]robable cause or its absence will be at least an evidentiary issue in practically all such cases” and “[b]ecause showing [its] absence . . . will have high probative force, and can be made mandatory with little or no added cost,” the absence of probable cause should be an “element” of the plaintiff’s case.  Id., at 265–266; see also id., at 264, n. 10 (refusing to carve out an exception for unusual cases).
+
+															Moreover, as with the traditional arrest-based torts, police officers need the safe harbor of probable cause in the
+ 
+First Amendment context to be able to do their jobs effectively.  Police officers almost always exchange words with suspects before arresting them.  And often a suspect’s “speech provides evidence of a crime or suggests a potential threat.”  Reichle, 566 U. S., at 668.  If probable cause were not required, the threat of liability might deter an officer from arresting a suspected criminal who, for example, has a political bumper sticker on his car, cf. Kilpatrick v. United States, 432 Fed. Appx. 937 (CA11 2011); is participating in a politically tinged protest, Morse v. San Francisco Bay Area Rapid Transit Dist., 2014 WL 572352 (ND Cal., Feb. 11, 2014); or confronts and criticizes the officer during the arrest of a third party, Holland v. San Francisco, 2013 WL 968295 (ND Cal., Mar. 12, 2013).  Allowing plaintiffs to bring a retaliatory-arrest claim in such circumstances, without pleading and proving a lack of probable cause, would permit plaintiffs to harass offi- cers with the kind of suits that common-law courts deemed intolerable.
+
+															*  *  *
+
+															Because we should have answered the question presented and held that probable cause necessarily defeats
+ 
+First Amendment retaliatory-arrest claims, I respectfully dissent.
+Notes
+1
+ This requirement suggests that the Court’s rule does not apply when the “policy” that the plaintiff challenges is an on-the-spot decision by a single official with final policymaking authority, like the “policy” that this Court recognized in Pembaur v. Cincinnati,
+
+475 U. S. 469 (1986).  See id., at 484–485 (holding that a county prosecutor’s order to forcibly enter the plaintiff’s clinic was a “municipal policy”). 
+
+2
+ I am skeptical that
+
+42 U. S. C. §1983 recognizes a claim for retaliatory arrests under the
+ 
+First Amendment.  I adhere to the view that “no ‘intent-based’ constitutional tort would have been actionable under the §1983 that Congress enacted.”  Crawford-El v. Britton,
+
+523 U. S. 574, 612 (1998) (Scalia, J., dissenting).  But because no party presses this argument, I assume that such claims are actionable under §1983. 
+
+

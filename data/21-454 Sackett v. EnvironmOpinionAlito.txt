@@ -1,0 +1,1177 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-454
+::decision_name::  Sackett v. Environmental Protection Agency
+::decision_year:: 2023
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–454
+
+															_________________
+
+															MICHAEL SACKETT, et ux., PETITIONERS v.
+ENVIRONMENTAL PROTECTION AGENCY, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the ninth circuit
+
+															[May 25, 2023]
+
+															
+
+															Justice Alito delivered the opinion of the
+Court.
+
+															This case concerns a nagging question about the
+outer reaches of the Clean Water Act (CWA), the principal federal
+law regulating water pollution in the United States.[1] By all accounts, the Act has been a great
+success. Before its enactment in 1972, many of the Nation’s
+rivers, lakes, and streams were severely polluted, and existing
+federal legislation had proved to be inadequate. Today, many
+formerly fetid bodies of water are safe for the use and enjoyment
+of the people of this country.
+
+															There is, however, an unfortunate footnote to
+this success story: the outer boundaries of the Act’s
+geographical reach have been uncertain from the start. The Act
+applies to “the waters of the United States,” but what
+does that phrase mean? Does the term encompass any backyard that is
+soggy enough for some minimum period of time? Does it reach
+“mudflats, sandflats, wetlands, sloughs, prairie potholes,
+wet meadows, [or] playa lakes?”[2] How about ditches, swimming pools, and puddles?
+
+															For more than a half century, the agencies
+responsible for enforcing the Act have wrestled with the problem
+and adopted varying interpretations. On three prior occasions, this
+Court has tried to clarify the meaning of “the waters of the
+United States.” But the problem persists. When we last
+addressed the question 17 years ago, we were unable to agree on an
+opinion of the Court.[3] Today,
+we return to the problem and attempt to identify with greater
+clarity what the Act means by “the waters of the United
+States.”
+
+															I
+
+															A
+
+															For most of this Nation’s history, the
+regulation of water pollution was left almost entirely to the
+States and their subdivisions. The common law permitted aggrieved
+parties to bring nuisance suits against polluters. But as
+industrial production and population growth increased the quantity
+and toxicity of pollution, States gradually shifted to enforcement
+by regulatory agencies.[4]
+Conversely, federal regulation was largely limited to ensuring that
+“traditional navigable waters”—that is,
+interstate waters that were either navigable in fact and used in
+commerce or readily susceptible of being used in this
+way—remained free of impediments. See, e.g., Rivers
+and Harbors Act of 1899, 30Stat. 1151; see also United
+States v. Appalachian Elec. Power Co., 311 U.S.
+377, 406–407 (1940); The Daniel Ball, 10 Wall.
+557, 563 (1871).
+
+															Congress’s early efforts at directly
+regulating water pollution were tepid. Although the Federal Water
+Pollution Control Act of 1948 allowed federal officials to seek
+judicial abatement of pollution in interstate waters, it imposed
+high hurdles, such as requiring the consent of the State where the
+pollution originated. See 62Stat. 1156–1157. Despite repeated
+amendments over the next two decades, few actions were brought
+under this framework.[5]
+
+															Congress eventually replaced this scheme in 1972
+with the CWA. See 86Stat. 816. The Act prohibits “the
+discharge of any pollutant” into “navigable
+waters.” 33 U. S. C. §§1311(a),
+1362(12)(A). It broadly defines the term
+“ ‘pollutant’ ” to include not
+only contaminants like “chemical wastes,” but also more
+mundane materials like “rock, sand,” and “cellar
+dirt.” §1362(6).
+
+															The CWA is a potent weapon. It imposes what have
+been described as “crushing” consequences “even
+for inadvertent violations.” Army Corps of Engineers
+v. Hawkes Co., 578 U.S. 590, 602 (2016) (Kennedy, J.,
+concurring). Property owners who negligently discharge
+“pollutants” into covered waters may face severe
+criminal penalties including imprisonment. §1319(c). These
+penalties increase for knowing violations. Ibid. On the
+civil side, the CWA imposes over $60,000 in fines per day for each
+violation. See Note following 28 U. S. C. §2461; 33
+U. S. C. §1319(d); 88 Fed. Reg. 989 (2023) (to be
+codified in 40 CFR §19.4). And due to the Act’s 5-year
+statute of limitations, 28 U. S. C. §2462, and
+expansive interpretations of the term “violation,”
+these civil penalties can be nearly as crushing as their criminal
+counterparts, see, e.g., Borden Ranch Partnership v.
+United States Army Corps of Engineers, 
+261 F.3d 810, 813, 818 (CA9 2001) (upholding Agency decision to
+count each of 348 passes of a plow by a farmer through
+“jurisdictional” soil on his farm as a separate
+violation), aff ’d by an equally divided Court,
+537 U.S.
+99 (2002) (per curiam).
+
+															The Environmental Protection Agency (EPA) and
+the Army Corps of Engineers (Corps) jointly enforce the CWA. The
+EPA is tasked with policing violations after the fact, either by
+issuing orders demanding compliance or by bringing civil actions.
+§1319(a). The Act also authorizes private plaintiffs to sue to
+enforce its requirements. §1365(a). On the front end, both
+agencies are empowered to issue permits exempting activity that
+would otherwise be unlawful under the Act. Relevant here, the Corps
+controls permits for the discharge of dredged or fill material into
+covered waters. See §1344(a). The costs of obtaining such a
+permit are “significant,” and both agencies have
+admitted that “the permitting process can be arduous,
+expensive, and long.” Hawkes Co., 578 U. S., at
+594–595, 601. Success is also far from guaranteed, as the
+Corps has asserted discretion to grant or deny permits based on a
+long, nonexclusive list of factors that ends with a catchall
+mandate to consider “in general, the needs and welfare of the
+people.” 33 CFR §320.4(a)(1) (2022).
+
+															Due to the CWA’s capacious definition of
+“pollutant,” its low mens rea, and its severe
+penalties, regulated parties have focused particular attention on
+the Act’s geographic scope. While its predecessor encompassed
+“interstate or navigable waters,” 33 U. S. C.
+§1160(a) (1970 ed.), the CWA prohibits the discharge of
+pollutants into only “navigable waters,” which it
+defines as “the waters of the United States, including the
+territorial seas,” 33 U. S. C. §§1311(a),
+1362(7), (12)(A) (2018 ed.). The meaning of this definition is the
+persistent problem that we must address.
+
+															B
+
+															Michael and Chantell Sackett have spent well
+over a decade navigating the CWA, and their voyage has been bumpy
+and costly. In 2004, they purchased a small lot near Priest Lake,
+in Bonner County, Idaho. In preparation for building a modest home,
+they began backfilling their property with dirt and rocks. A few
+months later, the EPA sent the Sacketts a compliance order
+informing them that their backfilling violated the CWA because
+their property contained protected wetlands. The EPA demanded that
+the Sacketts immediately “ ‘undertake activities
+to restore the Site’ ” pursuant to a
+“ ‘Restoration Work Plan’ ” that
+it provided. Sackett v. EPA, 566
+U.S. 120, 125 (2012). The order threatened the Sacketts with
+penalties of over $40,000 per day if they did not comply.
+
+															At the time, the EPA interpreted “the
+waters of the United States” to include “[a]ll
+. . . waters” that “could affect interstate
+or foreign commerce,” as well as “[w]etlands
+adjacent” to those waters. 40 CFR §§230.3(s)(3),
+(7) (2008). “[A]djacent” was defined to mean not just
+“bordering” or “contiguous,” but also
+“neighboring.” §230.3(b). Agency guidance
+instructed officials to assert jurisdiction over wetlands
+“adjacent” to non-navigable tributaries when those
+wetlands had “a significant nexus to a traditional navigable
+water.”[6] A
+“significant nexus” was said to exist when
+“ ‘wetlands, either alone or in combination with
+similarly situated lands in the region, significantly
+affect the chemical, physical, and biological
+integrity’ ” of those waters. 2007 Guidance 8
+(emphasis added). In looking for evidence of a “significant
+nexus,” field agents were told to consider a wide range of
+open-ended hydrological and ecological factors. See id., at
+7.
+
+															According to the EPA, the “wetlands”
+on the Sacketts’ lot are “adjacent to” (in the
+sense that they are in the same neighborhood as) what it described
+as an “unnamed tributary” on the other side of a
+30-foot road. App. 33. That tributary feeds into a non-navigable
+creek, which, in turn, feeds into Priest Lake, an intrastate body
+of water that the EPA designated as traditionally navigable. To
+establish a significant nexus, the EPA lumped the Sacketts’
+lot together with the Kalispell Bay Fen, a large nearby wetland
+complex that the Agency regarded as “similarly
+situated.” According to the EPA, these properties, taken
+together, “significantly affect” the ecology of Priest
+Lake. Therefore, the EPA concluded, the Sacketts had illegally
+dumped soil and gravel onto “the waters of the United
+States.”
+
+															The Sacketts filed suit under the Administrative
+Procedure Act, 5 U. S. C. §702 et seq.,
+alleging that the EPA lacked jurisdiction because any wetlands on
+their property were not “waters of the United States.”
+The District Court initially dismissed the suit, reasoning that the
+compliance order was not a final agency action, but this Court
+ultimately held that the Sacketts could bring their suit under the
+APA. See Sackett, 566 U. S., at 131. After seven years
+of additional proceedings on remand, the District Court entered
+summary judgment for the EPA. 2019 WL 13026870 (D Idaho, Mar. 31,
+2019). The Ninth Circuit affirmed, holding that the CWA covers
+adjacent wetlands with a significant nexus to traditional navigable
+waters and that the Sacketts’ lot satisfied that standard. 8
+F. 4th 1075, 1091–1093 (2021).
+
+															We granted certiorari to decide the proper test
+for determining whether wetlands are “waters of the United
+States.” 595 U. S. ___ (2022).
+
+															II
+
+															A
+
+															In defining the meaning of “the waters
+of the United States,” we revisit what has been “a
+contentious and difficult task.” National Assn. of
+Mfrs. v. Department of Defense, 583 U. S. ___, ___
+(2018) (slip op., at 1). The phrase has sparked decades of agency
+action and litigation. In order to resolve the CWA’s
+applicability to wetlands, we begin by reviewing this history.
+
+															The EPA and the Corps initially promulgated
+different interpretations of “the waters of the United
+States.” The EPA defined its jurisdiction broadly to include,
+for example, intrastate lakes used by interstate travelers. 38 Fed.
+Reg. 13529 (1973). Conversely, the Corps, consistent with its
+historical authority to regulate obstructions to navigation,
+asserted jurisdiction over only traditional navigable waters. 39
+Fed. Reg. 12119 (1974). But the Corps’ narrow definition did
+not last. It soon promulgated new, much broader definitions
+designed to reach the outer limits of Congress’s commerce
+power. See 42 Fed. Reg. 37144, and n. 2 (1977); 40 Fed. Reg.
+31324–31325 (1975).
+
+															Eventually the EPA and Corps settled on
+materially identical definitions. See 45 Fed. Reg. 33424 (1980); 47
+Fed. Reg. 31810–31811 (1982). These broad definitions
+encompassed “[a]ll . . . waters” that
+“could affect interstate or foreign commerce.” 40 CFR
+§230.3(s)(3) (2008). So long as the potential for an
+interstate effect was present, the regulation extended the CWA to,
+for example, “intrastate lakes, rivers, streams (including
+intermittent streams), mudflats, sandflats, wetlands, sloughs,
+prairie potholes, wet meadows, playa lakes, or natural
+ponds.” Ibid. The agencies likewise took an expansive
+view of the CWA’s coverage of wetlands “adjacent”
+to covered waters. §230.3(s)(7). As noted, they defined
+“adjacent” to mean “bordering, contiguous, or
+neighboring” and clarified that “adjacent”
+wetlands include those that are separated from covered waters
+“by man-made dikes or barriers, natural river berms, beach
+dunes and the like.” §230.3(b). They also specified that
+“wetlands” is a technical term encompassing
+“those areas that are inundated or saturated by surface or
+ground water at a frequency and duration sufficient to support, and
+that under normal conditions do support, a prevalence of vegetation
+typically adapted for life in saturated soil conditions.”
+§230.3(t). The Corps released what would become a 143-page
+manual to guide officers when they determine whether property meets
+this definition.[7]
+
+															This Court first construed the meaning of
+“the waters of the United States” in United
+States v. Riverside Bayview Homes, Inc.,
+474 U.S.
+121 (1985). There, we were confronted with the Corps’
+assertion of authority under the CWA over wetlands that
+“actually abut[ted] on a navigable waterway.”
+Id., at 135. Although we expressed concern that wetlands
+seemed to fall outside “traditional notions of
+‘waters,’ ” we nonetheless deferred to the
+Corps, reasoning that “the transition from water to solid
+ground is not necessarily or even typically an abrupt one.”
+Id., at 132–133.
+
+															The agencies responded to Riverside
+Bayview by expanding their interpretations even further. Most
+notably, they issued the “migratory bird rule,” which
+extended jurisdiction to any waters or wetlands that “are or
+would be used as [a] habitat” by migratory birds or
+endangered species. See 53 Fed. Reg. 20765 (1988); 51 Fed. Reg.
+41217 (1986). As the Corps would later admit, “nearly all
+waters were jurisdictional under the migratory bird
+rule.”[8]
+
+															In Solid Waste Agency of Northern Cook
+Cty. v. Army Corps of Engineers, 531
+U.S. 159 (2001) (SWANCC), this Court rejected the
+migratory bird rule, which the Corps had used to assert
+jurisdiction over several isolated ponds located wholly within the
+State of Illinois. Disagreeing with the Corps’ argument that
+ecological interests supported its jurisdiction, we instead held
+that the CWA does not “exten[d] to ponds that are not
+adjacent to open water.” Id., at 168 (emphasis
+deleted).
+
+															Days after our decision, the agencies issued
+guidance that sought to minimize SWANCC’s impact. They
+took the view that this Court’s holding was “strictly
+limited to waters that are ‘nonnavigable, isolated, and
+intrastate’ ” and that “field staff should
+continue to exercise CWA jurisdiction to the full extent of their
+authority” for “any waters that fall outside of that
+category.”[9] The
+agencies never defined exactly what they regarded as the
+“full extent of their authority.” They instead
+encouraged local field agents to make decisions on a case-by-case
+basis.
+
+															What emerged was a system of “vague”
+rules that depended on “locally developed practices.”
+GAO Report 26. Deferring to the agencies’ localized
+decisions, lower courts blessed an array of expansive
+interpretations of the CWA’s reach. See, e.g.,
+United States v. Deaton, 
+332 F.3d 698, 702 (CA4 2003) (holding that a property owner
+violated the CWA by piling soil near a ditch 32 miles from
+navigable waters). Within a few years, the agencies had
+“interpreted their jurisdiction over ‘the waters of the
+United States’ to cover 270-to-300 million acres” of
+wetlands and “virtually any parcel of land containing a
+channel or conduit . . . through which rainwater or
+drainage may occasionally or intermittently flow.”
+Rapanos v. United States, 547
+U.S. 715, 722 (2006) (plurality opinion).
+
+															It was against this backdrop that we granted
+review in Rapanos v. United States. The lower court
+in the principal case before us had held that the CWA covered
+wetlands near ditches and drains that eventually emptied into
+navigable waters at least 11 miles away, a theory that had
+supported the petitioner’s conviction in a related
+prosecution. Id., at 720, 729. Although we vacated that
+decision, no position commanded a majority of the Court. Four
+Justices concluded that the CWA’s coverage did not extend
+beyond two categories: first, certain relatively permanent bodies
+of water connected to traditional interstate navigable waters and,
+second, wetlands with such a close physical connection to those
+waters that they were “as a practical matter
+indistinguishable from waters of the United States.”
+Id., at 742, 755 (emphasis deleted). Four Justices would
+have deferred to the Government’s determination that the
+wetlands at issue were covered under the CWA. Id., at 788
+(Stevens, J., dissenting). Finally, one Justice concluded that
+jurisdiction under the CWA requires a “significant
+nexus” between wetlands and navigable waters and that such a
+nexus exists where “the wetlands, either alone or in
+combination with similarly situated lands in the region,
+significantly affect the chemical, physical, and biological
+integrity” of those waters. Id., at 779–780
+(Kennedy, J., concurring in judgment).
+
+															In the decade following Rapanos, the EPA
+and the Corps issued guidance documents that “recognized
+larger grey areas and called for more fact-intensive individualized
+determinations in those grey areas.”[10] As discussed, they instructed agency
+officials to assert jurisdiction over wetlands
+“adjacent” to non-navigable tributaries based on
+fact-specific determinations regarding the presence of a
+significant nexus. 2008 Guidance 8. The guidance further advised
+officials to make this determination by considering a lengthy list
+of hydrological and ecological factors. Ibid. Echoing what
+they had said about the migratory bird rule, the agencies later
+admitted that “almost all waters and wetlands across the
+country theoretically could be subject to a case-specific
+jurisdictional determination” under this guidance. 80 Fed.
+Reg. 37056 (2015); see, e.g., Hawkes Co., 578
+U. S., at 596 (explaining that the Corps found a significant
+nexus between wetlands and a river “some 120 miles
+away”).
+
+															More recently, the agencies have engaged in a
+flurry of rulemaking defining “the waters of the United
+States.” In a 2015 rule, they offered a muscular approach
+that would subject “the vast majority of the nation’s
+water features” to a case-by-case jurisdictional
+analysis.[11] Although the
+rule listed a few examples of “waters” that were
+excluded from regulation like “[p]uddles” and
+“swimming pools,” it categorically covered other waters
+and wetlands, including any within 1,500 feet of interstate or
+traditional navigable waters. 80 Fed. Reg. 37116–37117. And
+it subjected a wider range of other waters, including any within
+4,000 feet of indirect tributaries of interstate or traditional
+navigable waters, to a case-specific determination for significant
+nexus. Ibid.
+
+															The agencies repealed this sweeping rule in
+2019. 84 Fed. Reg. 56626. Shortly afterwards, they replaced it with
+a narrower definition that limited jurisdiction to traditional
+navigable waters and their tributaries, lakes, and
+“adjacent” wetlands. 85 Fed. Reg. 22340 (2020). They
+also narrowed the definition of “[a]djacent,” limiting
+it to wetlands that “[a]but” covered waters, are
+flooded by those waters, or are separated from those waters by
+features like berms or barriers. Ibid. This rule too did not
+last. After granting the EPA’s voluntary motion to remand, a
+District Court vacated the rule. See Pascua Yaqui Tribe v.
+EPA, 557 F. Supp. 3d 949, 957 (D Ariz. 2021).
+
+															The agencies recently promulgated yet another
+rule attempting to define waters of the United States. 88 Fed. Reg.
+3004 (2023) (to be codified in 40 CFR §120.2). Under that
+broader rule, traditional navigable waters, interstate waters, and
+the territorial seas, as well as their tributaries and adjacent
+wetlands, are waters of the United States. 88 Fed. Reg. 3143. So
+are any “[i]ntrastate lakes and ponds, streams, or
+wetlands” that either have a continuous surface connection to
+categorically included waters or have a significant nexus to
+interstate or traditional navigable waters. Id., at 3006,
+3143. Like the post-Rapanos guidance, the rule states that a
+significant nexus requires consideration of a list of open-ended
+factors. 88 Fed. Reg. 3006, 3144. Finally, the rule returns to the
+broad pre-2020 definition of “adjacent.” Ibid.;
+see supra, at 7. Acknowledging that “[f ]ield
+work is often necessary to confirm the presence of a wetland”
+under these definitions, the rule instructs local agents to
+continue using the Corps’ Wetlands Delineation Manual. 88
+Fed. Reg. 3117.
+
+															B
+
+															With the benefit of a half century of practice
+under the CWA, it is worth taking stock of where things stand. The
+agencies maintain that the significant-nexus test has been and
+remains sufficient to establish jurisdiction over
+“adjacent” wetlands. And by the EPA’s own
+admission, “almost all waters and wetlands” are
+potentially susceptible to regulation under that test. 80 Fed. Reg.
+37056. This puts many property owners in a precarious position
+because it is “often difficult to determine whether a
+particular piece of property contains waters of the United
+States.” Hawkes Co., 578 U. S., at 594; see 40
+CFR §230.3(t) (2008). Even if a property appears dry,
+application of the guidance in a complicated manual ultimately
+decides whether it contains wetlands. See 88 Fed. Reg. 3117;
+Wetlands Delineation Manual 84–85 (describing “not
+. . . atypical” examples of wetlands that
+periodically lack wetlands indicators); see also Hawkes Co.
+v. United States Army Corps of Engineers, 782 F.3d 994, 1003
+(CA8 2015) (Kelly, J., concurring) (“This is a unique aspect
+of the CWA; most laws do not require the hiring of expert
+consultants to determine if they even apply to you or your
+property”). And because the CWA can sweep broadly enough to
+criminalize mundane activities like moving dirt, this unchecked
+definition of “the waters of the United States” means
+that a staggering array of landowners are at risk of criminal
+prosecution or onerous civil penalties.
+
+															What are landowners to do if they want to build
+on their property? The EPA recommends asking the Corps for a
+jurisdictional determination, which is a written decision on
+whether a particular site contains covered waters. Tr. of Oral Arg.
+86; see Corps, Regulatory Guidance Letter No. 16–01, at 1
+(2016) (RGL 16–01); 33 CFR §§320.1(a)(6), 331.2.
+But the Corps maintains that it has no obligation to provide
+jurisdictional determinations, RGL 16–01, at 2, and it has
+already begun announcing exceptions to the legal effect of some
+previous determinations, see 88 Fed. Reg. 3136. Even if the Corps
+is willing to provide a jurisdictional determination, a property
+owner may find it necessary to retain an expensive expert
+consultant who is capable of putting together a presentation that
+stands a chance of persuading the Corps.[12] And even then, a landowner’s chances of
+success are low, as the EPA admits that the Corps finds
+jurisdiction approximately 75% of the time. Tr. of Oral Arg.
+110.
+
+															If the landowner is among the vast majority who
+receive adverse jurisdictional determinations, what then? It would
+be foolish to go ahead and build since the jurisdictional
+determination might form evidence of culpability in a prosecution
+or civil action. The jurisdictional determination could be
+challenged in court, but only after the delay and expense required
+to exhaust the administrative appeals process. See 33 CFR
+§331.7(d). And once in court, the landowner would face an
+uphill battle under the deferential standards of review that the
+agencies enjoy. See 5 U. S. C. §706. Another
+alternative would be simply to acquiesce and seek a permit from the
+Corps. But that process can take years and cost an exorbitant
+amount of money. Many landowners faced with this unappetizing menu
+of options would simply choose to build nothing.
+
+															III
+
+															With this history in mind, we now consider the
+extent of the CWA’s geographical reach.
+
+															A
+
+															We start, as we always do, with the text of
+the CWA. Bartenwerfer v. Buckley, 598 U.S. 69, 74
+(2023). As noted, the Act applies to “navigable
+waters,” which had a well-established meaning at the time of
+the CWA’s enactment. But the CWA complicates matters by
+proceeding to define “navigable waters” as “the
+waters of the United States,” §1362(7), which was
+decidedly not a well-known term of art. This frustrating drafting
+choice has led to decades of litigation, but we must try to make
+sense of the terms Congress chose to adopt. And for the reasons
+explained below, we conclude that the Rapanos plurality was
+correct: the CWA’s use of “waters” encompasses
+“only those relatively permanent, standing or continuously
+flowing bodies of water ‘forming geographic[al]
+features’ that are described in ordinary parlance as
+‘streams, oceans, rivers, and lakes.’ ” 547
+U. S., at 739 (quoting Webster’s New International
+Dictionary 2882 (2d ed. 1954) (Webster’s Second); original
+alterations omitted).
+
+															This reading follows from the CWA’s
+deliberate use of the plural term “waters.” See 547
+U. S., at 732–733. That term typically refers to bodies
+of water like those listed above. See, e.g., Webster’s
+Second 2882; Black’s Law Dictionary 1426 (5th ed. 1979)
+(“especially in the plural, [water] may designate a body of
+water, such as a river, a lake, or an ocean, or an aggregate of
+such bodies of water, as in the phrases ‘foreign
+waters,’ ‘waters of the United States,’
+and the like” (emphasis added)); Random House Dictionary of
+the English Language 2146 (2d ed. 1987) (Random House Dictionary)
+(defining “waters” as “a. flowing water, or water
+moving in waves: The river’s mighty waters. b. the sea or
+seas bordering a particular country or continent or located in a
+particular part of the world” (emphasis deleted)). This
+meaning is hard to reconcile with classifying
+“ ‘ “lands,” wet or otherwise, as
+“waters.” ’ ” Rapanos, 547
+U. S., at 740 (plurality opinion) (quoting Riverside
+Bayview, 474 U. S., at 132).
+
+															This reading also helps to align the meaning of
+“the waters of the United States” with the term it is
+defining: “navigable waters.” See Bond v.
+United States, 572 U.S.
+844, 861 (2014) (“In settling on a fair reading of a
+statute, it is not unusual to consider the ordinary meaning of a
+defined term, particularly when there is dissonance between that
+ordinary meaning and the reach of the definition”). Although
+we have acknowledged that the CWA extends to more than traditional
+navigable waters, we have refused to read “navigable”
+out of the statute, holding that it at least shows that Congress
+was focused on “its traditional jurisdiction over waters that
+were or had been navigable in fact or which could reasonably be so
+made.” SWANCC, 531 U. S., at 172; see also
+Appalachian Electric, 311 U. S., at 406–407;
+The Daniel Ball, 10 Wall., at 563. At a minimum, then, the
+use of “navigable” signals that the definition
+principally refers to bodies of navigable water like rivers, lakes,
+and oceans. See Rapanos, 547 U. S., at 734 (plurality
+opinion).
+
+															More broadly, this reading accords with how
+Congress has employed the term “waters” elsewhere in
+the CWA and in other laws. The CWA repeatedly uses
+“waters” in contexts that confirm the term refers to
+bodies of open water. See 33 U. S. C. §1267(i)(2)(D)
+(“the waters of the Chesapeake Bay”);
+§1268(a)(3)(I) (“the open waters of each of the Great
+Lakes”); §1324(d)(4)(B)(ii) (“lakes and other
+surface waters”); §1330(g)(4)(C)(vii) (“estuarine
+waters”); §1343(c)(1) (“the waters of the
+territorial seas, the contiguous zone, and the oceans”);
+§§1346(a)(1), 1375a(a) (“coastal recreation
+waters”); §1370 (state “boundary waters”).
+The use of “waters” elsewhere in the U. S. Code
+likewise correlates to rivers, lakes, and oceans.[13]
+
+															Statutory history points in the same direction.
+The CWA’s predecessor statute covered “interstate or
+navigable waters” and defined “interstate waters”
+as “all rivers, lakes, and other waters
+that flow across or form a part of State boundaries.” 33
+U. S. C. §§1160(a), 1173(e) (1970 ed.)
+(emphasis added); see also Rivers and Harbors Act of 1899, 30Stat.
+1151 (codified, as amended, at 33 U. S. C. §403)
+(prohibiting unauthorized obstructions “to the navigable
+capacity of any of the waters of the United States”).
+
+															This Court has understood the CWA’s use of
+“waters” in the same way. Even as Riverside
+Bayview grappled with whether adjacent wetlands could fall
+within the CWA’s coverage, it acknowledged that wetlands are
+not included in “traditional notions of
+‘waters.’ ” 474 U. S., at 133. It
+explained that the term conventionally refers to
+“hydrographic features” like “rivers” and
+“streams.” Id., at 131. SWANCC went even
+further, repeatedly describing the “waters” covered by
+the Act as “open water” and suggesting that “the
+waters of the United States” principally refers to
+traditional navigable waters. 531 U. S., at 168–169,
+172. That our CWA decisions operated under this assumption is
+unsurprising. Ever since Gibbons v. Ogden, 9 Wheat. 1
+(1824), this Court has used “waters of the United
+States” to refer to similar bodies of water, almost always in
+relation to ships. Id., at 218 (discussing a vessel’s
+“conduct in the waters of the United States”).[14]
+
+															The EPA argues that “waters” is
+“naturally read to encompass wetlands” because the
+“presence of water is ‘universally regarded as the most
+basic feature of wetlands.’ ” Brief for
+Respondents 19. But that reading proves too much. Consider puddles,
+which are also defined by the ordinary presence of water even
+though few would describe them as “waters.” This
+argument is also tough to square with SWANCC, which held
+that the Act does not cover isolated ponds, see 531 U. S., at
+171, or Riverside Bayview, which would have had no need to
+focus so extensively on the adjacency of wetlands to covered waters
+if the EPA’s reading were correct, see 474 U. S., at
+131–135, and n. 8. Finally, it is also instructive that
+the CWA expressly “protect[s] the primary responsibilities
+and rights of States to prevent, reduce, and eliminate
+pollution” and “to plan the development and use
+. . . of land and water resources.” §1251(b).
+It is hard to see how the States’ role in regulating water
+resources would remain “primary” if the EPA had
+jurisdiction over anything defined by the presence of water. See
+County of Maui v. Hawaii Wildlife Fund, 590
+U. S. ___, ___ (2020) (slip op., at 7); Rapanos, 547
+U. S., at 737 (plurality opinion).
+
+															B
+
+															Although the ordinary meaning of
+“waters” in §1362(7) might seem to exclude all
+wetlands, we do not view that provision in isolation. The meaning
+of a word “may only become evident when placed in
+context,” FDA v. Brown & Williamson Tobacco
+Corp., 529 U.S.
+120, 132 (2000), and statutory context shows that some wetlands
+qualify as “waters of the United States.”
+
+															In 1977, Congress amended the CWA and added
+§1344(g)(1), which authorizes States to apply to the EPA for
+permission to administer programs to issue permits for the
+discharge of dredged or fill material into some bodies of water. In
+simplified terms, the provision specifies that state permitting
+programs may regulate discharges into (1) any waters of the United
+States, (2) except for traditional navigable waters, (3)
+“including wetlands adjacent thereto.”[15]
+
+															When this convoluted formulation is parsed, it
+tells us that at least some wetlands must qualify as “waters
+of the United States.” The provision begins with a broad
+category, “the waters of the United States,” which we
+may call category A. The provision provides that States may permit
+discharges into these waters, but it then qualifies that States
+cannot permit discharges into a subcategory of A: traditional
+navigable waters (category B). Finally, it states that a third
+category (category C), consisting of wetlands
+“adjacent” to traditional navigable waters, is
+“includ[ed]” within B. Thus, States may permit
+discharges into A minus B, which includes C. If C (adjacent
+wetlands) were not part of A (“the waters of the United
+States”) and therefore subject to regulation under the CWA,
+there would be no point in excluding them from that category. See
+Riverside Bayview, 474 U. S., at 138, n. 11
+(recognizing that §1344(g) “at least suggest[s] strongly
+that the term ‘waters’ as used in the Act does not
+necessarily exclude ‘wetlands’ ”);
+Rapanos, 547 U. S., at 768 (opinion of Kennedy, J.).
+Thus, §1344(g)(1) presumes that certain wetlands constitute
+“waters of the United States.”
+
+															But what wetlands does the CWA regulate? Section
+1344(g)(1) cannot answer that question alone because it is not the
+operative provision that defines the Act’s reach. See
+Riverside Bayview, 474 U. S., at 138, n. 11.
+Instead, we must harmonize the reference to adjacent wetlands in
+§1344(g)(1) with “the waters of the United
+States,” §1362(7), which is the actual term we are
+tasked with interpreting. The formulation discussed above tells us
+how: because the adjacent wetlands in §1344(g)(1) are
+“includ[ed]” within “the waters of the United
+States,” these wetlands must qualify as “waters of the
+United States” in their own right. In other words, they must
+be indistinguishably part of a body of water that itself
+constitutes “waters” under the CWA. See supra,
+at 14.
+
+															This understanding is consistent with
+§1344(g)(1)’s use of “adjacent.”
+Dictionaries tell us that the term “adjacent” may mean
+either “contiguous” or “near.” Random House
+Dictionary 25; see Webster’s Third New International
+Dictionary 26 (1976); see also Oxford American Dictionary &
+Thesaurus 16 (2d ed. 2009) (listing “adjoining” and
+“neighboring” as synonyms of “adjacent”).
+But “construing statutory language is not merely an exercise
+in ascertaining ‘the outer limits of a word’s
+definitional possibilities,’ ” FCC v.
+AT&T Inc., 562 U.S.
+397, 407 (2011) (alterations omitted), and here, “only
+one . . . meanin[g] produces a substantive effect that is
+compatible with the rest of the law,” United Sav. Assn. of
+Tex. v. Timbers of Inwood Forest Associates,
+Ltd., 484 U.S.
+365, 371 (1988). Wetlands that are separate from traditional
+navigable waters cannot be considered part of those waters, even if
+they are located nearby.
+
+															In addition, it would be odd indeed if Congress
+had tucked an important expansion to the reach of the CWA into
+convoluted language in a relatively obscure provision concerning
+state permitting programs. We have often remarked that Congress
+does not “hide elephants in mouseholes” by
+“alter[ing] the fundamental details of a regulatory scheme in
+vague terms or ancillary provisions.” Whitman v.
+American Trucking Assns., Inc., 531 U.S.
+457, 468 (2001). We cannot agree with such an implausible
+interpretation here.
+
+															If §1344(g)(1) were read to mean that the
+CWA applies to wetlands that are not indistinguishably part of
+otherwise covered “waters of the United States,” see
+supra, at 14, it would effectively amend and substantially
+broaden §1362(7) to define “navigable waters” as
+“waters of the United States and adjacent
+wetlands.” But §1344(g)(1)’s use of the term
+“including” makes clear that it does not purport to
+do—and in fact, does not do—any such thing. See
+National Assn. of Home Builders v. Defenders of
+Wildlife, 551 U.S.
+644, 662–664, and n. 8 (2007) (recognizing that
+implied amendments require “ ‘clear and
+manifest’ ” evidence of congressional intent). It
+merely reflects Congress’s assumption that certain
+“adjacent” wetlands are part of “waters of
+the United States.”
+
+															This is the thrust of observations in decisions
+going all the way back to Riverside Bayview. In that case,
+we deferred to the Corps’ decision to regulate wetlands
+actually abutting a navigable waterway, but we recognized
+“the inherent difficulties of defining precise bounds to
+regulable waters.” 474 U. S., at 134; see also
+id., at 132 (noting that “the transition from water to
+solid ground is not necessarily or even typically an abrupt
+one” due to semi-aquatic features like shallows and swamps).
+In such a situation, we concluded, the Corps could reasonably
+determine that wetlands “adjoining bodies of water”
+were part of those waters. Id., at 135, and n. 9; see
+also SWANCC, 531 U. S., at 167 (recognizing that
+Riverside Bayview “held that the Corps had
+. . . jurisdiction over wetlands that actually abutted on
+a navigable waterway”).
+
+															In Rapanos, the plurality spelled out
+clearly when adjacent wetlands are part of covered waters. It
+explained that “waters” may fairly be read to include
+only those wetlands that are “as a practical matter
+indistinguishable from waters of the United States,” such
+that it is “difficult to determine where the
+‘water’ ends and the ‘wetland’
+begins.” 547 U. S., at 742, 755 (emphasis deleted). That
+occurs when wetlands have “a continuous surface connection to
+bodies that are ‘waters of the United States’ in their
+own right, so that there is no clear demarcation between
+‘waters’ and wetlands.” Id., at 742; cf.
+33 U. S. C. §2802(5) (defining “coastal
+waters” to include wetlands “having unimpaired
+connection with the open sea up to the head of tidal
+influence”). We agree with this formulation of when wetlands
+are part of “the waters of the United States.” We also
+acknowledge that temporary interruptions in surface connection may
+sometimes occur because of phenomena like low tides or dry
+spells.[16]
+
+															In sum, we hold that the CWA extends to only
+those wetlands that are “as a practical matter
+indistinguishable from waters of the United States.”
+Rapanos, 547 U. S., at 755 (plurality opinion)
+(emphasis deleted). This requires the party asserting jurisdiction
+over adjacent wetlands to establish “first, that the adjacent
+[body of water constitutes] . . . ‘water[s] of the
+United States,’ (i.e., a relatively permanent body of
+water connected to traditional interstate navigable waters); and
+second, that the wetland has a continuous surface connection with
+that water, making it difficult to determine where the
+‘water’ ends and the ‘wetland’
+begins.” Id., at 742.
+
+															IV
+
+															The EPA resists this reading of §1362(7)
+and instead asks us to defer to its understanding of the
+CWA’s jurisdictional reach, as set out in its most recent
+rule defining “the waters of the United States.” See 88
+Fed. Reg. 3004. This rule, as noted, provides that “adjacent
+wetlands are covered by the Act if they ‘possess a
+“significant nexus” to’ traditional navigable
+waters.” Brief for Respondents 32 (quoting Rapanos,
+547 U. S., at 759 (opinion of Kennedy, J.)); see 88 Fed. Reg.
+3143. And according to the EPA, wetlands are “adjacent”
+when they are “neighboring” to covered waters, even if
+they are separated from those waters by dry land. Brief for
+Respondents 20; 88 Fed. Reg. 3144.
+
+															A
+
+															For reasons already explained, this
+interpretation is inconsistent with the text and structure of the
+CWA. Beyond that, it clashes with “background principles of
+construction” that apply to the interpretation of the
+relevant statutory provisions. Bond, 572 U. S., at 857.
+Under those presumptions, the EPA must provide clear evidence that
+it is authorized to regulate in the manner it proposes.
+
+															1
+
+															First, this Court “require[s] Congress
+to enact exceedingly clear language if it wishes to significantly
+alter the balance between federal and state power and the power of
+the Government over private property.” United States
+Forest Service v. Cowpasture River Preservation Assn.,
+590 U. S. ___, ___–___ (2020) (slip op., at
+15–16); see also Bond, 572 U. S., at 858.
+Regulation of land and water use lies at the core of traditional
+state authority. See, e.g., SWANCC, 531 U. S.,
+at 174 (citing Hess v. Port Authority Trans-Hudson
+Corporation, 513 U.S.
+30, 44 (1994)); Tarrant Regional Water Dist. v.
+Herrmann, 569 U.S.
+614, 631 (2013). An overly broad interpretation of the
+CWA’s reach would impinge on this authority. The area covered
+by wetlands alone is vast—greater than the combined surface
+area of California and Texas. And the scope of the EPA’s
+conception of “the waters of the United States” is
+truly staggering when this vast territory is supplemented by all
+the additional area, some of which is generally dry, over which the
+Agency asserts jurisdiction. Particularly given the CWA’s
+express policy to “preserve” the States’
+“primary” authority over land and water use,
+§1251(b), this Court has required a clear statement from
+Congress when determining the scope of “the waters of the
+United States.” SWANCC, 531 U. S., at 174;
+accord, Rapanos, 547 U. S., at 738 (plurality
+opinion).
+
+															The EPA, however, offers only a passing attempt
+to square its interpretation with the text of §1362(7), and
+its “significant nexus” theory is particularly
+implausible. It suggests that the meaning of “the waters of
+the United States” is so “broad and unqualified”
+that, if viewed in isolation, it would extend to all water in the
+United States. Brief for Respondents 32. The EPA thus turns to the
+“significant nexus” test in order to reduce the clash
+between its understanding of “the waters of the United
+States” and the term defined by that phrase, i.e.,
+“navigable waters.” As discussed, however, the meaning
+of “waters” is more limited than the EPA believes. See
+supra, at 14. And, in any event, the CWA never mentions the
+“significant nexus” test, so the EPA has no statutory
+basis to impose it. See Rapanos, 547 U. S., at
+755–756 (plurality opinion).
+
+															2
+
+															Second, the EPA’s interpretation gives
+rise to serious vagueness concerns in light of the CWA’s
+criminal penalties. Due process requires Congress to define penal
+statutes “ ‘with sufficient definiteness that
+ordinary people can understand what conduct is
+prohibited’ ” and “ ‘in a manner
+that does not encourage arbitrary and discriminatory
+enforcement.’ ” McDonnell v. United
+States, 579 U.S. 550, 576 (2016) (quoting Skilling v.
+United States, 561 U.S.
+358, 402–403 (2010)). Yet the meaning of “waters of
+the United States” under the EPA’s interpretation
+remains “hopelessly indeterminate.” Sackett, 566
+U. S., at 133 (Alito, J., concurring); accord, Hawkes
+Co., 578 U. S., at 602 (opinion of Kennedy, J.).
+
+															The EPA contends that the only thing preventing
+it from interpreting “waters of the United States” to
+“conceivably cover literally every body of water in the
+country” is the significant-nexus test. Tr. of Oral Arg.
+70–71; accord, Brief for Respondents 32. But the boundary
+between a “significant” and an insignificant nexus is
+far from clear. And to add to the uncertainty, the test introduces
+another vague concept—“similarly situated”
+waters—and then assesses the aggregate effect of that group
+based on a variety of open-ended factors that evolve as scientific
+understandings change. This freewheeling inquiry provides little
+notice to landowners of their obligations under the CWA. Facing
+severe criminal sanctions for even negligent violations, property
+owners are “left ‘to feel their way on a case-by-case
+basis.’ ” Sackett, 566 U. S., at 124
+(quoting Rapanos, 547 U. S., at 758 (Roberts,
+C. J., concurring)). Where a penal statute could sweep so
+broadly as to render criminal a host of what might otherwise be
+considered ordinary activities, we have been wary about going
+beyond what “Congress certainly intended the statute to
+cover.” Skilling, 561 U. S., at 404.
+
+															Under these two background principles, the
+judicial task when interpreting “the waters of the United
+States” is to ascertain whether clear congressional
+authorization exists for the EPA’s claimed power. The
+EPA’s interpretation falls far short of that standard.
+
+															B
+
+															While mustering only a weak textual argument,
+the EPA justifies its position on two other grounds. It primarily
+claims that Congress implicitly ratified its interpretation of
+“adjacent” wetlands when it adopted §1344(g)(1).
+Thus, it argues that “waters of the United States”
+covers any wetlands that are “bordering, contiguous, or
+neighboring” to covered waters. 88 Fed. Reg. 3143. The
+principal opinion concurring in the judgment adopts the same
+position. See post, at 10–12 (Kavanaugh, J.,
+concurring in judgment). The EPA notes that the Corps had
+promulgated regulations adopting that interpretation before
+Congress amended the CWA in 1977 to include the reference to
+“adjacent” wetlands in §1344(g)(1). See 42 Fed.
+Reg. 37144. This term, the EPA contends, was
+“ ‘ “obviously transplanted
+from” ’ ” the Corps’ regulations
+and thus incorporates the same definition. Brief for Respondents 22
+(quoting Taggart v. Lorenzen, 587 U. S. ___, ___
+(2019) (slip op., at 5)).
+
+															This argument fails for at least three reasons.
+First, as we have explained, the text of §§1362(7) and
+1344(g)(1) shows that “adjacent” cannot include
+wetlands that are not part of covered “waters.” See
+supra, at 22.
+
+															Second, this ratification theory cannot be
+reconciled with our cases. We have repeatedly recognized that
+§1344(g)(1) “ ‘does not conclusively
+determine the construction to be placed on . . . the
+relevant definition of “navigable
+waters.” ’ ” SWANCC, 531
+U. S., at 171 (quoting Riverside Bayview, 474
+U. S., at 138, n. 11); accord, Rapanos, 547
+U. S., at 747–748, n. 12 (plurality opinion).
+Additionally, SWANCC rejected the closely analogous argument
+that Congress ratified the Corps’ definition of “waters
+of the United States” by including “ ‘other
+. . . waters’ ” in §1344(g)(1). 531
+U. S., at 168–171. And yet, the EPA’s argument
+would require us to hold that §1344(g)(1) actually did amend
+the definition of “navigable waters” precisely for the
+reasons we rejected in SWANCC.
+
+															Third, the EPA cannot provide the sort of
+“overwhelming evidence of acquiescence” necessary to
+support its argument in the face of Congress’s failure to
+amend §1362(7). Id., at 169–170, n. 5. We
+will infer that a term was “ ‘transplanted from
+another legal source’ . . . only when a
+term’s meaning was ‘well-settled’ before the
+transplantation.” Kemp v. United States, 596
+U. S. ___, ___–___ (2022) (slip op., at 9–10). Far
+from being well settled, the Corps’ definition was
+promulgated mere months before the CWA became law, and when the
+Corps adopted that definition, it candidly acknowledged the
+“rapidly changing nature of [its] regulatory programs.”
+42 Fed. Reg. 37122. Tellingly, even the EPA would not adopt that
+definition for several more years. See 45 Fed. Reg. 85345 (1980).
+This situation is a far cry from any in which we have found
+ratification. See, e.g., George v. McDonough,
+596 U. S. ___, ___ (2022) (slip op., at 5) (finding
+ratification when “Congress used an unusual term that had a
+long regulatory history in [the] very regulatory context” at
+issue).
+
+															The EPA also advances various policy arguments
+about the ecological consequences of a narrower definition of
+adjacent. But the CWA does not define the EPA’s jurisdiction
+based on ecological importance, and we cannot redraw the
+Act’s allocation of authority. See Rapanos, 547
+U. S., at 756 (plurality opinion). “The Clean Water Act
+anticipates a partnership between the States and the Federal
+Government.” Arkansas v. Oklahoma, 503 U.S.
+91, 101 (1992). States can and will continue to exercise their
+primary authority to combat water pollution by regulating land and
+water use. See, e.g., Brief for Farm Bureau of Arkansas
+et al. as Amici Curiae 17–27.
+
+															V
+
+															Nothing in the separate opinions filed by
+Justice Kavanaugh and Justice Kagan undermines our analysis.
+Justice Kavanaugh claims that we have “rewrit[ten]” the
+CWA, post, at 12 (opinion concurring in judgment), and
+Justice Kagan levels similar charges, post, at 3–4
+(opinion concurring in judgment). These arguments are more than
+unfounded. We have analyzed the statutory language in detail, but
+the separate opinions pay no attention whatsoever to §1362(7),
+the key statutory provision that limits the CWA’s geographic
+reach to “the waters of the United States.”
+Thus, neither separate opinion even attempts to explain how the
+wetlands included in their interpretation fall within a fair
+reading of “waters.” Textualist arguments that ignore
+the operative text cannot be taken seriously.
+
+															VI
+
+															In sum, we hold that the CWA extends to only
+those “wetlands with a continuous surface connection to
+bodies that are ‘waters of the United States’ in their
+own right,” so that they are “indistinguishable”
+from those waters. Rapanos, 547 U. S., at 742, 755
+(plurality opinion) (emphasis deleted); see supra, at 22.
+This holding compels reversal here. The wetlands on the
+Sacketts’ property are distinguishable from any possibly
+covered waters.
+
+															*  *  *
+
+															We reverse the judgment of the United States
+Court of Appeals for the Ninth Circuit and remand the case for
+further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+
+Notes
+1
+  86Stat. 816, as amended,
+33 U. S. C. §1251
+et seq.
+2
+ 40 CFR §230.3(s)(3)
+(2008).
+3
+ See Rapanos v.
+United States, 547 U.S.
+715 (2006). Neither party contends that any opinion in
+Rapanos controls. We agree. See Nichols v. United
+States, 511 U.S.
+738, 745–746 (1994).
+4
+ See N. Hines, Nor Any
+Drop To Drink: Public Regulation of Water Quality, 52 Iowa
+L. Rev. 186, 196–207 (1966).
+5
+ See Hearings on
+Activities of the Federal Water Pollution Control Administration
+before the Subcommittee on Air and Water Pollution of the Senate
+Committee on Public Works, 90th Cong., 1st Sess., 674 (1967)
+(reporting only one abatement suit between 1948 and
+1967).
+6
+ EPA & Corps, Clean
+Water Act Jurisdiction Following the U. S. Supreme
+Court’s Decision in Rapanos v. United States
+& Carabell v. United States 7–11 (2007)
+(2007 Guidance).
+7
+ See Corps, Wetlands
+Delineation Manual (Tech. Rep. Y–87–1, 1987) (Wetlands
+Delineation Manual); see also, e.g., Corps, Regional
+Supplement to the Corps of Engineers Wetland Delineation Manual:
+Alaska Region (Version 2.0) (ERDC/EL Tr–07–24,
+2007).
+8
+ GAO, Waters and Wetlands:
+Corps of Engineers Needs To Evaluate Its District Office Practices
+in Determining Jurisdiction 26 (GAO–04–297, 2004) (GAO
+Report).
+9
+ EPA & Corps,
+Memorandum, Supreme Court Ruling Concerning CWA Jurisdiction Over
+Isolated Waters 3 (2001) (alteration omitted).
+10  N.
+Parrillo, Federal Agency Guidance and the Power To Bind: An
+Empirical Study of Agencies and Industries, 36 Yale J. on Reg. 165,
+231 (2019); see 2007 Guidance 7–11; EPA & Corps, Clean
+Water Act Jurisdiction Following the U. S. Supreme
+Court’s Decision in Rapanos v. United States
+& Carabell v. United States 8–12 (2008)
+(2008 Guidance).
+11  EPA
+& Dept. of the Army, Economic Analysis of the EPA-Army Clean
+Water Rule 11 (2015).
+12  See
+88 Fed. Reg. 3134; Corps, Questions and Answers for Rapanos
+and Carabell Decision 16 (2007); J. Finkle, Jurisdictional
+Determinations: An Important Battlefield in the Clean Water Act
+Fight, 43 Ecology L. Q. 301, 314–315 (2016); K. Gould,
+Drowning in Wetlands Jurisdictional Determination Process:
+Implementation of Rapanos v. United States, 30 U.
+Ark. Little Rock L. Rev. 413, 440 (2008).
+13  See,
+e.g., 16 U. S. C. §745 (“the waters of
+the seacoast . . . the waters of the lakes”);
+§4701(a)(7) (“waters of the Chesapeake Bay”); 33
+U. S. C. §4 (“the waters of the Mississippi
+River and its tributaries”); 43 U. S. C.
+§390h–8(a) (“the waters of Lake Cheraw, Colorado
+. . . the waters of the Arkansas River”); 46
+U. S. C. §70051 (allowing the Coast Guard to take
+control of particular vessels during an emergency in order to
+“prevent damage or injury to any harbor or waters of the
+United States”).
+14  See,
+e.g., United States v. Alvarez-Machain,
+504 U.S.
+655, 661, n. 7 (1992) (discussing a treaty “to allow
+British passenger ships to carry liquor while in the waters of the
+United States”); Kent v. Dulles, 357 U.S.
+116, 123 (1958) (discussing a prohibition on boarding
+“vessels of the enemy on waters of the United States”);
+New Jersey v. New York City, 290
+U.S. 237, 240
+(1933) (enjoining employees of New York City from dumping garbage
+“into the ocean, or waters of the United States, off the
+coast of New Jersey”); Cunard S. S. Co. v.
+Mellon, 262 U.S.
+100, 127 (1923) (holding that the National Prohibition Act did
+not apply to “merchant ships when outside the waters of the
+United States”); Keck v. United States,
+172 U.S.
+434, 444–445 (1899) (holding that concealing imported
+goods on vessels “at the time of entering the waters of the
+United States,” without more, did not constitute
+smuggling).
+15  This
+provision states in relevant part: “The Governor of any State
+desiring to administer its own individual and general permit
+program for the discharge of dredged or fill material into the
+navigable waters (other than those waters which are presently used,
+or are susceptible to use in their natural condition or by
+reasonable improvement as a means to transport interstate or
+foreign commerce shoreward to their ordinary high water mark,
+including all waters which are subject to the ebb and flow of the
+tide shoreward to their mean high water mark, or mean higher high
+water mark on the west coast, including wetlands adjacent thereto)
+within its jurisdiction may submit to the Administrator a full and
+complete description of the program it proposes to establish and
+administer under State law or under an interstate compact.”
+33 U. S. C. §1344(g)(1).
+16  Although a barrier separating a
+wetland from a water of the United States would ordinarily remove
+that wetland from federal jurisdiction, a landowner cannot carve
+out wetlands from federal jurisdiction by illegally constructing a
+barrier on wetlands otherwise covered by the CWA. Whenever the EPA
+can exercise its statutory authority to order a barrier’s
+removal because it violates the Act, see 33 U. S. C.
+§§1319(a)–(b), that unlawful barrier poses no bar
+to its jurisdiction.
+
+

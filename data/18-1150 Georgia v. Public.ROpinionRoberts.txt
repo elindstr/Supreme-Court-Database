@@ -1,0 +1,195 @@
+::SCDB_caseID:: 2019-020
+::decision_cite:: 18-1150
+::decision_name::  Georgia v. Public.Resource.Org, Inc.
+::decision_year:: 2020
+::opinion_author:: Roberts
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–1150
+
+															_________________
+
+															GEORGIA, et al., PETITIONERS v. PUBLIC.RESOURCE.ORG, INC.
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[April 27, 2020]
+
+															
+
+															Chief Justice Roberts delivered the opinion of the Court.
+
+															The Copyright Act grants potent, decades-long monopoly protection for “original works of authorship.”
+
+17 U. S. C. §102(a).  The question in this case is whether that protection extends to the annotations contained in Georgia’s official annotated code.
+
+															We hold that it does not.  Over a century ago, we recognized a limitation on copyright protection for certain government work product, rooted in the Copyright Act’s “authorship” requirement.  Under what has been dubbed the government edicts doctrine, officials empowered to speak with the force of law cannot be the authors of—and therefore cannot copyright—the works they create in the course of their official duties.
+
+															We have previously applied that doctrine to hold that non-binding, explanatory legal materials are not copyrightable when created by judges who possess the authority to make and interpret the law.  See Banks v. Manchester,
+
+128 U.S. 244 (1888).  We now recognize that the same logic applies to non-binding, explanatory legal materials created by a legislative body vested with the authority to make law.  Because Georgia’s annotations are authored by an arm of the legislature in the course of its legislative duties, the government edicts doctrine puts them outside the reach of copyright protection.
+
+															I
+
+															A
+
+															The State of Georgia has one official code—the “Official Code of Georgia Annotated,” or OCGA.  The first page of each volume of the OCGA boasts the State’s official seal and announces to readers that it is “Published Under Authority of the State.”
+
+															The OCGA includes the text of every Georgia statute currently in force, as well as various non-binding supplementary materials.  At issue in this case is a set of annotations that appear beneath each statutory provision.  The annotations generally include summaries of judicial decisions applying a given provision, summaries of any pertinent opinions of the state attorney general, and a list of related law review articles and similar reference materials.  In addition, the annotations often include editor’s notes that provide information about the origins of the statutory text, such as whether it derives from a particular judicial decision or resembles an older provision that has been construed by Georgia courts.  See, e.g., OCGA §§51–1–1, 53–4–2 (2019).
+
+															The OCGA is assembled by a state entity called the Code Revision Commission.  In 1977, the Georgia Legislature established the Commission to recodify Georgia law for the first time in decades.  The Commission was (and remains) tasked with consolidating disparate bills into a single Code for reenactment by the legislature and contracting with a third party to produce the annotations.  A majority of the Commission’s 15 members must be members of the Georgia Senate or House of Representatives.  The Commission receives funding through appropriations “provided for the legislative branch of state government.”  OCGA §28–9–2(c) (2018).  And it is staffed by the Office of Legislative Counsel, which is obligated by statute to provide services “for the legislative branch of government.”  §§28–4–3(c)(4), 28–9–4.  Under the Georgia Constitution, the Commission’s role in compiling the statutory text and accompanying annotations falls “within the sphere of legislative authority.”  Harrison Co. v. Code Revision Comm’n, 244 Ga. 325, 330, 260 S.E.2d 30, 34 (1979).
+
+															Each year, the Commission submits its proposed statutory text and accompanying annotations to the legislature for approval.  The legislature then votes to do three things: (1) “enact[ ]” the “statutory portion of the codification of Georgia laws”; (2) “merge[ ]” the statutory portion “with [the] annotations”; and (3) “publish[ ]” the final merged product “by authority of the state” as “the ‘Official Code of Georgia Annotated.’ ”  OCGA §1–1–1 (2019); see Code Revision Comm’n v. Public.Resource.Org, Inc., 906 F.3d 1229, 1245, 1255 (CA11 2018); Tr. of Oral Arg. 8.
+
+															The annotations in the current OCGA were prepared in the first instance by Matthew Bender & Co., Inc., a division of the LexisNexis Group, pursuant to a work-for-hire agreement with the Commission.  The agreement between Lexis and the Commission states that any copyright in the OCGA vests exclusively in “the State of Georgia, acting through the Commission.”  App. 567.  Lexis and its army of researchers perform the lion’s share of the work in drafting the annotations, but the Commission supervises that work and specifies what the annotations must include in exacting detail.  See 906 F. 3d, at 1243–1244; App. 269–278, 286–427 (Commission specifications).  Under the agreement, Lexis enjoys the exclusive right to publish, distribute, and sell the OCGA.  In exchange, Lexis has agreed to limit the price it may charge for the OCGA and to make an unannotated version of the statutory text available to the public online for free.  A hard copy of the complete OCGA currently retails for $412.00.
+
+															B
+
+															Public.Resource.Org (PRO) is a nonprofit organization that aims to facilitate public access to government records and legal materials.  Without permission, PRO posted a digital version of the OCGA on various websites, where it could be downloaded by the public without charge.  PRO also distributed copies of the OCGA to various organizations and Georgia officials.
+
+															In response, the Commission sent PRO several cease-and-desist letters asserting that PRO’s actions constituted unlawful copyright infringement.  When PRO refused to halt its distribution activities, the Commission sued PRO on behalf of the Georgia Legislature and the State of Georgia for copyright infringement.  The Commission limited its assertion of copyright to the annotations described above; it did not claim copyright in the statutory text or numbering.  PRO counterclaimed, seeking a declaratory judgment that the entire OCGA, including the annotations, fell in the public domain.
+
+															The District Court sided with the Commission.  The Court acknowledged that the annotations in the OCGA presented “an unusual case because most official codes are not annotated and most annotated codes are not official.”  Code Revision Comm’n v. Public.Resource.Org, Inc., 244 F. Supp. 3d 1350, 1356 (ND Ga. 2017).  But, ultimately, the Court concluded that the annotations were eligible for copyright protection because they were “not enacted into law” and lacked “the force of law.”  Ibid.  In light of that conclusion, the Court granted partial summary judgment to the Commission and entered a permanent injunction requiring PRO to cease its distribution activities and to remove the digital copies of the OCGA from the internet.
+
+															The Eleventh Circuit reversed.  906 F.3d 1229.  The Court began by reviewing the three 19th-century cases in which we articulated the government edicts doctrine.  See Wheaton v. Peters, 8 Pet. 591 (1834); Banks v. Manchester,
+
+128 U.S. 244 (1888); Callaghan v. Myers,
+
+128 U.S. 617 (1888).  The Court understood those cases to establish a “rule” based on an interpretation of the statutory term “author” that “works created by courts in the performance of their official duties did not belong to the judges” but instead fell “in the public domain.”  906 F. 3d, at 1239.  In the Court’s view, that rule “derive[s] from first principles about the nature of law in our democracy.”  Ibid.  In a democracy, the Court reasoned, “the People” are “the constructive authors” of the law, and judges and legislators are merely “draftsmen . . . exercising delegated authority.”  Ibid.  The Court therefore deemed the “ultimate inquiry” to be whether a work is “attributable to the constructive authorship of the People.”  Id., at 1242.  The Court identified three factors to guide that inquiry: “the identity of the public official who created the work; the nature of the work; and the process by which the work was produced.”  Id., at 1254.  The Court found that each of those factors cut in favor of treating the OCGA annotations as government edicts authored by the People.  It therefore rejected the Commission’s assertion of copyright, vacated the injunction against PRO, and directed that judgment be entered for PRO.
+
+															We granted certiorari.  588 U. S. ___ (2019).
+
+															II
+
+															We hold that the annotations in Georgia’s Official Code are ineligible for copyright protection, though for reasons distinct from those relied on by the Court of Appeals.  A careful examination of our government edicts precedents reveals a straightforward rule based on the identity of the author.  Under the government edicts doctrine, judges—and, we now confirm, legislators—may not be considered the “authors” of the works they produce in the course of their official duties as judges and legislators.  That rule applies regardless of whether a given material carries the force of law.  And it applies to the annotations here because they are authored by an arm of the legislature in the course of its official duties.
+
+															A
+
+															We begin with precedent.  The government edicts doctrine traces back to a trio of cases decided in the 19th century.  In this Court’s first copyright case, Wheaton v. Peters, 8 Pet. 591 (1834), the Court’s third Reporter of Decisions, Wheaton, sued the fourth, Peters, unsuccessfully asserting a copyright interest in the Justices’ opinions.  Id., at 617 (argument).  In Wheaton’s view, the opinions “must have belonged to some one” because “they were new, original,” and much more “elaborate” than law or custom required.  Id., at 615.  Wheaton argued that the Justices were the authors and had assigned their ownership interests to him through a tacit “gift.”  Id., at 614. The Court unanimously rejected that argument, concluding that “no reporter has or can have any copyright in the written opinions delivered by this court” and that “the judges thereof cannot confer on any reporter any such right.”  Id., at 668 (opinion).
+
+															That conclusion apparently seemed too obvious to adorn with further explanation, but the Court provided one a half century later in Banks v. Manchester,
+
+128 U.S. 244 (1888).  That case concerned whether Wheaton’s state-court counterpart, the official reporter of the Ohio Supreme Court, held a copyright in the judges’ opinions and several non-binding explanatory materials prepared by the judges.  Id., at 249–251.  The Court concluded that he did not, explaining that “the judge who, in his judicial capacity, prepares the opinion or decision, the statement of the case and the syllabus or head note” cannot “be regarded as their author or their proprietor, in the sense of [the Copyright Act].”  Id., at 253.  Pursuant to “a judicial consensus” dating back to Wheaton, judges could not assert copyright in “whatever work they perform in their capacity as judges.”  Banks, 128 U. S, at 253 (emphasis in original). Rather, “[t]he whole work done by the judges constitutes the authentic exposition and interpretation of the law, which, binding every citizen, is free for publication to all.”  Ibid. (citing Nash v. Lathrop, 142 Mass. 29, 6 N.E. 559 (1886)).
+
+															In a companion case decided later that Term, Callaghan v. Myers,
+
+128 U.S. 617 (1888), the Court identified an important limiting principle.  As in Wheaton and Banks, the Court rejected the claim that an official reporter held a copyright interest in the judges’ opinions.  But, resolving an issue not addressed in Wheaton and Banks, the Court upheld the reporter’s copyright interest in several explanatory materials that the reporter had created himself: headnotes, syllabi, tables of contents, and the like.  Callaghan, 128 U. S., at 645, 647.  Although these works mirrored the judge-made materials rejected in Banks, they came from an author who had no authority to speak with the force of law.  Because the reporter was not a judge, he was free to “obtain[ ] a copyright” for the materials that were “the result of his [own] intellectual labor.”  128 U. S., at 647.
+
+															These cases establish a straightforward rule: Because judges are vested with the authority to make and interpret the law, they cannot be the “author” of the works they prepare “in the discharge of their judicial duties.”  Banks, 128 U. S., at 253.  This rule applies both to binding works (such as opinions) and to non-binding works (such as headnotes and syllabi).  Ibid.  It does not apply, however, to works created by government officials (or private parties) who lack the authority to make or interpret the law, such as court reporters.  Compare ibid. with Callaghan, 128 U. S., at 647.
+
+															The animating principle behind this rule is that no one can own the law.  “Every citizen is presumed to know the law,” and “it needs no argument to show . . . that all should have free access” to its contents.  Nash, 142 Mass., at 35, 6 N. E., at 560 (cited by Banks, 128 U. S., at 253–254).  Our cases give effect to that principle in the copyright context through construction of the statutory term “author.”  Id., at 253.[1]  Rather than attempting to catalog the materials that constitute “the law,” the doctrine bars the officials responsible for creating the law from being considered the “author[s]” of “whatever work they perform in their capacity” as lawmakers.  Ibid. (emphasis added).  Because these officials are generally empowered to make and interpret law, their “whole work” is deemed part of the “authentic exposition and interpretation of the law” and must be “free for publication to all.”  Ibid.
+
+															If judges, acting as judges, cannot be “authors” because of their authority to make and interpret the law, it follows that legislators, acting as legislators, cannot be either.  Courts have thus long understood the government edicts doctrine to apply to legislative materials.  See, e.g., Nash, 142 Mass., at 35, 6 N. E., at 560 (judicial opinions and statutes stand “on substantially the same footing” for purposes of the government edicts doctrine); Howell v. Miller, 91 F. 129, 130–131, 137–138 (CA6 1898) (Harlan, J., Circuit Justice, joined by then-Circuit Judge Taft) (analyzing statutes and supplementary materials under Banks and Callaghan and concluding that the materials were copyrightable because they were prepared by a private compiler).
+
+															Moreover, just as the doctrine applies to “whatever work [judges] perform in their capacity as judges,” Banks, 128  
+
+															U. S., at 253, it applies to whatever work legislators perform in their capacity as legislators.  That of course includes final legislation, but it also includes explanatory and procedural materials legislators create in the discharge of their legislative duties.  In the same way that judges cannot be the authors of their headnotes and syllabi, legislators cannot be the authors of (for example) their floor statements, committee reports, and proposed bills.  These materials are part of the “whole work done by [legislators],” so they must be “free for publication to all.”  Ibid.
+
+															Under our precedents, therefore, copyright does not vest in works that are (1) created by judges and legislators (2) in the course of their judicial and legislative duties.
+
+															B
+
+															1
+
+															Applying that framework, Georgia’s annotations are not copyrightable.  The first step is to examine whether their purported author qualifies as a legislator.
+
+															As we have explained, the annotations were prepared in the first instance by a private company (Lexis) pursuant to a work-for-hire agreement with Georgia’s Code Revision Commission.  The Copyright Act therefore deems the Commission the sole “author” of the work.
+
+17 U. S. C. §201(b).  Although Lexis expends considerable effort preparing the annotations, for purposes of copyright that labor redounds to the Commission as the statutory author.  Georgia agrees that the author is the Commission.  Brief for Petitioners 25.
+
+															The Commission is not identical to the Georgia Legislature, but functions as an arm of it for the purpose of producing the annotations.  The Commission is created by the legislature, for the legislature, and consists largely of legislators.  The Commission receives funding and staff designated by law for the legislative branch.  Significantly, the annotations the Commission creates are approved by the legislature before being “merged” with the statutory text and published in the official code alongside that text at the legislature’s direction.  OCGA §1–1–1; see 906 F. 3d, at 1245, 1255; Tr. of Oral Arg. 8.
+
+															If there were any doubt about the link between the Commission and the legislature, the Georgia Supreme Court has dispelled it by holding that, under the Georgia Constitution, “the work of the Commission; i.e., selecting a publisher and contracting for and supervising the codification of the laws enacted by the General Assembly, including court interpretations thereof, is within the sphere of legislative authority.”  Harrison Co., 244 Ga., at 330, 260 S. E. 2d, at 34 (emphasis added).  That holding is not limited to the Commission’s role in codifying the statutory text.  The Commission’s “legislative authority” specifically includes its “codification of . . . court interpretations” of the State’s laws.  Ibid.  Thus, as a matter of state law, the Commission wields the legislature’s authority when it works with Lexis to produce the annotations.  All of this shows that the Commission serves as an extension of the Georgia Legislature in preparing and publishing the annotations.  And it helps explain why the Commission brought this suit asserting copyright in the annotations “on behalf of and for the benefit of ” the Georgia Legislature and the State of Georgia.  App. 20.[2]
+
+															2
+
+															The second step is to determine whether the Commission creates the annotations in the “discharge” of its legislative “duties.”  Banks, 128 U. S., at 253.  It does.  Although the annotations are not enacted into law through bicameralism and presentment, the Commission’s preparation of the annotations is under Georgia law an act of “legislative authority,” Harrison Co., 244 Ga., at 330, 260 S. E. 2d, at 34, and the annotations provide commentary and resources that the legislature has deemed relevant to understanding its laws.  Georgia and Justice Ginsburg emphasize that the annotations do not purport to provide authoritative explanations of the law and largely summarize other materials, such as judicial decisions and law review articles.  See post, at 3–4 (dissenting opinion).  But that does not take them outside the exercise of legislative duty by the Commission and legislature.  Just as we have held that the “statement of the case and the syllabus or head note” prepared by judges fall within the “work they perform in their capacity as judges,” Banks, 128 U. S., at 253, so too annotations published by legislators alongside the statutory text fall within the work legislators perform in their capacity as legislators.
+
+															In light of the Commission’s role as an adjunct to the legislature and the fact that the Commission authors the annotations in the course of its legislative responsibilities, the annotations in Georgia’s Official Code fall within the government edicts doctrine and are not copyrightable.
+
+															III
+
+															Georgia resists this conclusion on several grounds.  At the outset, Georgia advances two arguments for why, in its view, excluding the OCGA annotations from copyright protection conflicts with the text of the Copyright Act.  Both are unavailing.
+
+															First, Georgia notes that §101 of the Act specifically lists “annotations” among the kinds of works eligible for copyright protection.  But that provision refers only to “annotations . . . which . . . represent an original work of authorship.”  17 U. S. C.  §101 (emphasis added).  The whole point of the government edicts doctrine is that judges and legislators cannot serve as authors when they produce works in their official capacity.  While the reference to “annotations” in §101 may help explain why supplemental, explanatory materials are copyrightable when prepared by a private party, or a non-lawmaking official like the reporter in Callaghan, it does not speak to whether those same materials are copyrightable when prepared by a judge or a legislator.  In the same way that judicial materials are ineligible for protection even though they plainly qualify as “[l]iterary works . . . expressed in words,” ibid., legislative materials are ineligible for protection even if they happen to fit the description of otherwise copyrightable “annotations.”
+
+															Second, Georgia draws a negative inference from the fact that the Act excludes from copyright protection “work[s] prepared by an officer or employee of the United States Government as part of that person’s official duties” and does not establish a similar rule for the States.  §101; see also §105.  But the bar on copyright protection for federal works sweeps much more broadly than the government edicts doctrine does.  That bar applies to works created by all federal “officer[s] or employee[s],” without regard for the nature of their position or scope of their authority.  Whatever policy reasons might justify the Federal Government’s decision to forfeit copyright protection for its own proprietary works, that federal rule does not suggest an intent to displace the much narrower government edicts doctrine with respect to the States.  That doctrine does not apply to non-lawmaking officials, leaving States free to assert copyright in the vast majority of expressive works they produce, such as those created by their universities, libraries, tourism offices, and so on.
+
+															More generally, Georgia suggests that we should resist applying our government edicts precedents to the OCGA annotations because our 19th-century forebears interpreted the statutory term author by reference to “public policy”—an approach that Georgia believes is incongruous with the “modern era” of statutory interpretation.  Brief for Petitioners 21 (internal quotation marks omitted).  But we are particularly reluctant to disrupt precedents interpreting language that Congress has since reenacted.  As we explained last Term in Helsinn Healthcare S. A. v. Teva Pharmaceuticals USA, Inc., 586 U. S. ___ (2019), when Congress “adopt[s] the language used in [an] earlier act,” we presume that Congress “adopted also the construction given by this Court to such language, and made it a part of the enactment.”  Id., at ___ (slip op., at 7) (quoting Shapiro v. United States,
+
+335 U.S. 1, 16 (1948)).  A century of cases have rooted the government edicts doctrine in the word “author,” and Congress has repeatedly reused that term without abrogating the doctrine.  The term now carries this settled meaning, and “critics of our ruling can take their objections across the street, [where] Congress can correct any mistake it sees.”  Kimble v. Marvel Entertainment, LLC,
+
+576 U.S. 446, 456 (2015).[3]
+
+															Moving on from the text, Georgia invokes what it views as the official position of the Copyright Office, as reflected in the Compendium of U. S. Copyright Office Practices (Compendium).  But, as Georgia concedes, the Compendium is a non-binding administrative manual that at most
+
+															 
+
+															merits deference under Skidmore v. Swift & Co.,
+
+323 U.S. 134 (1944).  That means we must follow it only to the extent it has the “power to persuade.”  Id., at 140.  Because our precedents answer the question before us, we find any competing guidance in the Compendium unpersuasive.
+
+															In any event, the Compendium is largely consistent with our decision.  Drawing on Banks, it states that, “[a]s a matter of longstanding public policy, the U. S. Copyright Office will not register a government edict that has been issued by any state, local, or territorial government, including legislative enactments, judicial decisions, administrative rulings, public ordinances, or similar types of official legal materials.”  Compendium §313.6(C)(2) (rev. 3d ed. 2017) (emphasis added).  And, under Banks, what counts as a “similar” material depends on what kind of officer created the material (i.e., a judge) and whether the officer created it in the course of official (i.e., judicial) duties.  See Compendium §313.6(C)(2) (quoting Banks, 128 U. S., at 253, for the proposition that copyright cannot vest “in the products of the labor done by judicial officers in the discharge of their judicial duties”).
+
+															The Compendium goes on to observe that “the Office may register annotations that summarize or comment upon legal materials . . . unless the annotations themselves have the force of law.”  Compendium §313.6(C)(2).  But that broad statement—true of annotations created by officials such as court reporters that lack the authority to make or interpret the law—does not engage with the critical issue of annotations created by judges or legislators in their official capacities.  Because the Compendium does not address that question and otherwise echoes our government edicts precedents, it is of little relevance here.
+
+															Georgia also appeals to the overall purpose of the Copyright Act to promote the creation and dissemination of creative works.  Georgia submits that, without copyright protection, Georgia and many other States will be unable to induce private parties like Lexis to assist in preparing affordable annotated codes for widespread distribution.  That appeal to copyright policy, however, is addressed to the wrong forum.  As Georgia acknowledges, “[I]t is generally for Congress, not the courts, to decide how best to pursue the Copyright Clause’s objectives.”  Eldred v. Ashcroft,
+
+537 U.S. 186, 212 (2003).  And that principle requires adherence to precedent when, as here, we have construed the statutory text and “tossed [the ball] into Congress’s court, for acceptance or not as that branch elects.”  Kimble, 576 U. S., at 456.
+
+															Turning to our government edicts precedents, Georgia insists that they can and should be read to focus exclusively on whether a particular work has “the force of law.”  Brief for Petitioners 32 (capitalization deleted).  Justice Thomas appears to endorse the same view.  See post, at 4.  But that framing has multiple flaws.
+
+															Most obviously, it cannot be squared with the reasoning or results of our cases—especially Banks.  Banks, following Wheaton and the “judicial consensus” it inspired, denied copyright protection to judicial opinions without excepting concurrences and dissents that carry no legal force.  128 U. S., at 253 (emphasis deleted).  As every judge learns the hard way, “comments in [a] dissenting opinion” about legal principles and precedents “are just that: comments in a dissenting opinion.”  Railroad Retirement Bd. v. Fritz,
+
+449 U.S. 166, 177, n. 10 (1980).  Yet such comments are covered by the government edicts doctrine because they come from an official with authority to make and interpret the law.
+
+															Indeed, Banks went even further and withheld copyright protection from headnotes and syllabi produced by judges.  128 U. S., at 253.  Surely these supplementary materials do not have the force of law, yet they are covered by the doctrine.  The simplest explanation is the one Banks provided: These non-binding works are not copyrightable because of who creates them—judges acting in their judicial capacity.  See ibid.
+
+															The same goes for non-binding legislative materials produced by legislative bodies acting in a legislative capacity.  There is a broad array of such works ranging from floor statements to proposed bills to committee reports.  Under the logic of Georgia’s “force of law” test, States would own such materials and could charge the public for access to them.
+
+															Furthermore, despite Georgia’s and Justice Thomas’s purported concern for the text of the Copyright Act, their conception of the government edicts doctrine has less of a textual footing than the traditional formulation.  The textual basis for the doctrine is the Act’s “authorship” requirement, which unsurprisingly focuses on—the author.   Justice Thomas urges us to dig deeper to “the root” of our government edicts precedents.  Post, at 5.  But, in our view, the text is the root.  The Court long ago interpreted the word “author” to exclude officials empowered to speak with the force of law, and Congress has carried that meaning forward in multiple iterations of the Copyright Act.  This textual foundation explains why the doctrine distinguishes between some authors (who are empowered to speak with the force of law) and others (who are not).  Compare Callaghan, 128 U. S., at 647, with Banks, 128 U. S., at 253.  But the Act’s reference to “authorship” provides no basis for Georgia’s rule distinguishing between different categories of content with different effects.[4]
+
+															Georgia minimizes the OCGA annotations as non-binding and non-authoritative, but that description undersells their practical significance.  Imagine a Georgia citizen interested in learning his legal rights and duties.  If he reads the economy-class version of the Georgia Code available online, he will see laws requiring political candidates to pay hefty qualification fees (with no indigency exception), criminalizing broad categories of consensual sexual conduct, and exempting certain key evidence in criminal trials from standard evidentiary limitations—with no hint that important aspects of those laws have been held unconstitutional by the Georgia Supreme Court.  See OCGA §§21–2–131, 16–6–2, 16–6–18, 16–15–9 (available at www.legis.ga.gov).  Meanwhile, first-class readers with access to the annotations will be assured that these laws  are, in crucial respects, unenforceable relics that the legislature has not bothered to narrow or repeal.  See §§21–2–131, 16–6–2, 16–6–18, 16–15–9 (available at https://store. lexisnexis . com / products / official - code - of - georgia - annotated - skuSKU6647 for $412.00).
+
+															If everything short of statutes and opinions were copyrightable, then States would be free to offer a whole range of premium legal works for those who can afford the extra benefit.  A State could monetize its entire suite of legislative history.  With today’s digital tools, States might even launch a subscription or pay-per-law service.
+
+															There is no need to assume inventive or nefarious behavior for these concerns to become a reality.  Unlike other forms of intellectual property, copyright protection is both instant and automatic.  It vests as soon as a work is captured in a tangible form, triggering a panoply of exclusive  rights that can last over a century.  17 U. S. C. §§102, 106, 302.  If Georgia were correct, then unless a State took the affirmative step of transferring its copyrights to the public domain, all of its judges’ and legislators’ non-binding legal works would be copyrighted.  And citizens, attorneys, nonprofits, and private research companies would have to cease all copying, distribution, and display of those works or risk severe and potentially criminal penalties.  §§501–506.  Some affected parties might be willing to roll the dice with a potential fair use defense.  But that defense, designed to accommodate
+ 
+First Amendment concerns, is notoriously fact sensitive and often cannot be resolved without a trial.  Cf. Harper & Row, Publishers, Inc. v. Nation Enterprises,
+
+471 U.S. 539, 552, 560–561 (1985).  The less bold among us would have to think twice before using official legal works that illuminate the law we are all presumed to know and understand.
+
+															Thankfully, there is a clear path forward that avoids these concerns—the one we are already on.  Instead of examining whether given material carries “the force of law,” we ask only whether the author of the work is a judge or a legislator.  If so, then whatever work that judge or legislator produces in the course of his judicial or legislative duties is not copyrightable.  That is the framework our precedents long ago established, and we adhere to those precedents today.
+
+															*  *  *
+
+															For the foregoing reasons, we affirm the judgment of the Eleventh Circuit.
+
+															It is so ordered.
+Notes
+1
+ The Copyright Act of 1790 granted copyright protection to “the author and authors” of qualifying works.  Act of May 31, 1790, §1,
+
+1Stat.
+124.  This author requirement appears in the current Copyright Act at §102(a), which limits protection to “original works of authorship.”
+
+17 U. S. C. §102(a) (emphasis added); see also §201(a) (copyright “vests initially in the author or authors of the work”). 
+
+2
+ Justice Thomas does not dispute that the Commission is an extension of the legislature; he instead faults us for highlighting the multiple features of the Commission that make clear that this is so.  See post, at 16 (dissenting opinion). 
+
+3
+ Justice Thomas disputes the applicability of the Helsinn Healthcare presumption because States have asserted copyright in statutory annotations over the years notwithstanding our government edicts precedents.  Post, at 11–12.  In Justice Thomas’s view, those assertions prove that our precedents could not have provided clear enough guidance for Congress to incorporate.  But that inference from state behavior proves too much.  The same study cited by Justice Thomas to support a practice of claiming copyright in non-binding annotations also reports that “many states claim copyright interest in their primary law materials,” including statutes and regulations.  Dmitrieva, State Ownership of Copyrights in Primary Law Materials, 23 Hastings Com. & Entertainment L. J. 81, 109 (2000) (emphasis added).  Justice Thomas concedes that such assertions are plainly foreclosed by our government edicts precedents.  Post, at 4.  That interested parties have pursued ambitious readings of our precedents does not mean those precedents are incapable of providing meaningful guidance to us or to Congress. 
+
+4
+ Instead of accepting our predecessors’ textual reasoning at face value, Justice Thomas conjures a trinity of alternative “origin[s] and justification[s]” for the government edicts doctrine that the Court might have had in mind.  See post, at 5–7.  Without committing to one or all of these possibilities, Justice Thomas suggests that each would yield a rule that requires federal courts to pick out the subset of judicial and legislative materials that independently carry the force of law.  But a Court motivated by Justice Thomas’s three-fold concerns might just as easily have read them as supporting a rule that prevents the officials responsible for creating binding materials from qualifying as an “author.”  Regardless, it is more “[ ]consistent with the judicial role” to  apply the reasoning and results the Court voted on and committed to writing than to speculate about what practical considerations our predecessors “may have had . . . in mind,” what history “may [have] suggest[ed],” or what constitutional concerns “may have animated” our government edicts precedents.  Ibid. 
+
+

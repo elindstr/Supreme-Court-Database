@@ -1,0 +1,213 @@
+::SCDB_caseID:: 2018-071
+::decision_cite:: 18-457
+::decision_name::  North Carolina Department of Revenue v. Kimberley Rice Kaestner 1992 Family Trust
+::decision_year:: 2019
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–457
+
+															_________________
+
+															NORTH CAROLINA DEPARTMENT OF REVENUE, PETITIONER v. THE KIMBERLEY RICE  KAESTNER 1992 FAMILY TRUST
+
+															on writ of certiorari to the supreme court of  north carolina
+
+															[June 21, 2019]
+
+															
+
+															Justice Sotomayor delivered the opinion of the Court.
+
+															This case is about the limits of a State’s power to tax a trust.  North Carolina imposes a tax on any trust income that “is for the benefit of” a North Carolina resident.  N. C. Gen. Stat. Ann. §105–160.2 (2017).  The North Carolina courts interpret this law to mean that a trust owes income tax to North Carolina whenever the trust’s beneficiaries live in the State, even if—as is the case here—those beneficiaries received no income from the trust in the relevant tax year, had no right to demand income from the trust in that year, and could not count on ever receiving income from the trust.  The North Carolina courts held the tax to be unconstitutional when assessed in such a case because the State lacks the minimum connection with the object of its tax that the Constitution requires.  We agree and affirm.  As applied in these circumstances, the State’s tax violates the Due Process Clause of the
+ 
+Fourteenth Amendment.
+
+															I
+
+															A
+
+															In its simplest form, a trust is created when one person (a “settlor” or “grantor”) transfers property to a third party (a “trustee”) to administer for the benefit of another (a “beneficiary”).  A. Hess, G. Bogert, & G. Bogert, Law of Trusts and Trustees §1, pp.  8–10 (3d ed. 2007).  As traditionally understood, the arrangement that results is not a “distinct legal entity, but a ‘fiduciary relationship’ between multiple people.”  Americold Realty Trust v. ConAgra Foods, Inc., 577 U. S. ___, ___ (2016) (slip op., at 5).  The trust comprises the separate interests of the beneficiary, who has an “equitable interest” in the trust property, and the trustee, who has a “legal interest” in that property.  Greenough v. Tax Assessors of Newport,
+
+331 U.S. 486, 494 (1947).  In some contexts, however, trusts can be treated as if the trust itself has “a separate existence” from its constituent parts.  Id., at 493.[1]
+
+															The trust that challenges North Carolina’s tax had its first incarnation nearly 30 years ago, when New Yorker Joseph Lee Rice III formed a trust for the benefit of his children.  Rice decided that the trust would be governed by the law of his home State, New York, and he appointed a fellow New York resident as the trustee.[2]  The trust agreement provided that the trustee would have “absolute discretion” to distribute the trust’s assets to the beneficiaries “in such amounts and proportions” as the trustee might “from time to time” decide.  Art. I, §1.2(a), App. 46–47.
+
+															When Rice created the trust, no trust beneficiary lived in North Carolina.  That changed in 1997, when Rice’s daughter, Kimberley Rice Kaestner, moved to the State.  She and her minor children were residents of North Carolina from 2005 through 2008, the time period relevant for this case.
+
+															A few years after Kaestner moved to North Carolina, the trustee divided Rice’s initial trust into three subtrusts.  One of these subtrusts—the Kimberley Rice Kaestner 1992 Family Trust (Kaestner Trust or Trust)—was formed for the benefit of Kaestner and her three children.  The same agreement that controlled the original trust also governed the Kaestner Trust.  Critically, this meant that the trustee had exclusive control over the allocation and timing of trust distributions.
+
+															North Carolina explained in the state-court proceedings that the State’s only connection to the Trust in the relevant tax years was the in-state residence of the Trust’s beneficiaries.  App. to Pet. for Cert. 54a.  From 2005 through 2008, the trustee chose not to distribute any of the income that the Trust accumulated to Kaestner or her children, and the trustee’s contacts with Kaestner were “infrequent.”[3]  371 N. C. 133, 143, 814 S.E.2d 43, 50 (2018).  The Trust was subject to New York law, Art. X, App. 69, the grantor was a New York resident, App. 44, and no trustee lived in North Carolina, 371 N. C., at 134, 814 S. E. 2d, at 45.  The trustee kept the Trust documents and records in New York, and the Trust asset custodians were located in Massachusetts.  Ibid.  The Trust also maintained no physical presence in North Carolina, made no direct investments in the State, and held no real property there.  App. to Pet. for Cert. 52a–53a.
+
+															The Trust agreement provided that the Kaestner Trust would terminate when Kaestner turned 40, after the time period relevant here.  After consulting with Kaestner and in accordance with her wishes, however, the trustee rolled over the assets into a new trust instead of distributing them to her.  This transfer took place after the relevant tax years.  See N. Y. Est., Powers & Trusts Law Ann. §10–6.6(b) (West 2002) (authorizing this action).
+
+															B
+
+															North Carolina taxes any trust income that “is for the benefit of” a North Carolina resident.  N. C. Gen. Stat. Ann. §105–160.2.  The North Carolina Supreme Court interprets the statute to authorize North Carolina to tax a trust on the sole basis that the trust beneficiaries reside in the State.  371 N. C., at 143–144, 814 S. E. 2d, at 51.
+
+															Applying this statute, the North Carolina Department of Revenue assessed a tax on the full proceeds that the Kaestner Trust accumulated for tax years 2005 through 2008 and required the trustee to pay it.  See N. C. Gen. Stat. Ann. §105–160.2.  The resulting tax bill amounted to more than $1.3 million.  The trustee paid the tax under protest and then sued in state court, arguing that the tax as applied to the Kaestner Trust violates the Due Process Clause of the
+ 
+Fourteenth Amendment.
+
+															The trial court decided that the Kaestners’ residence in North Carolina was too tenuous a link between the State and the Trust to support the tax and held that the State’s taxation of the Trust violated the Due Process Clause.  App. to Pet. for Cert. 62a.[4]  The North Carolina Court of Appeals affirmed, as did the North Carolina Supreme Court.  A majority of the State Supreme Court reasoned that the Kaestner Trust and its beneficiaries “have legally separate, taxable existences” and thus that the contacts between the Kaestner family and their home State cannot establish a connection between the Trust “itself” and the State.  371 N. C., at 140–142, 814 S. E. 2d, at 49.
+
+															We granted certiorari to decide whether the Due Process Clause prohibits States from taxing trusts based only on the in-state residency of trust beneficiaries.  586 U. S. ___ (2019).
+
+															II
+
+															The Due Process Clause provides that “[n]o State shall . . . deprive any person of life, liberty, or property, without due process of law.”  Amdt. 14, §1.  The Clause “centrally concerns the fundamental fairness of governmental activ- ity.”  Quill Corp. v. North Dakota,
+
+504 U.S. 298, 312 (1992), overruled on other grounds, South Dakota v. Wayfair, Inc., 585 U. S. ___, ___ (2018) (slip op., at 10).
+
+															In the context of state taxation, the Due Process Clause limits States to imposing only taxes that “bea[r] fiscal relation to protection, opportunities and benefits given by the state.”  Wisconsin v. J. C. Penney Co.,
+
+311 U.S. 435, 444 (1940).  The power to tax is, of course, “essential to the very existence of government,” McCulloch v. Maryland, 4 Wheat. 316, 428 (1819), but the legitimacy of that power requires drawing a line between taxation and mere unjustified “confiscation.”  Miller Brothers Co. v. Maryland,
+
+347 U.S. 340, 342 (1954).  That boundary turns on the “[t]he simple but controlling question . . . whether the state has given anything for which it can ask return.”  Wisconsin, 311 U. S., at 444.
+
+															The Court applies a two-step analysis to decide if a state tax abides by the Due Process Clause.  First, and most relevant here, there must be “ ‘some definite link, some minimum connection, between a state and the person, property or transaction it seeks to tax.’ ”  Quill, 504 U. S., at 306.  Second, “the ‘income attributed to the State for tax purposes must be rationally related to “values connected with the taxing State.” ’ ”  Ibid.[5]
+
+															To determine whether a State has the requisite “minimum connection” with the object of its tax, this Court borrows from the familiar test of International Shoe Co. v. Washington,
+
+326 U.S. 310 (1945).  Quill, 504 U. S., at 307. A State has the power to impose a tax only when the taxed entity has “certain minimum contacts” with the State such that the tax “does not offend ‘traditional notions of fair play and substantial justice.’ ”  International Shoe Co., 326 U. S., at 316; see Quill, 504 U. S., at 308.  The “minimum contacts” inquiry is “flexible” and focuses on the reason- ableness of the government’s action.  Quill, 504 U. S., at 307.  Ultimately, only those who derive “benefits and protection” from associating with a State should have obligations to the State in question.  International Shoe, 326 U. S., at 319.
+
+															III
+
+															One can imagine many contacts with a trust or its constituents that a State might treat, alone or in combination, as providing a “minimum connection” that justifies a tax on trust assets.  The Court has already held that a tax on trust income distributed to an in-state resident passes muster under the Due Process Clause.  Maguire v. Trefry,
+
+253 U.S. 12, 16–17 (1920).  So does a tax based on a trustee’s in-state residence.  Greenough, 331 U. S., at 498.  The Court’s cases also suggest that a tax based on the site of trust administration is constitutional.  See Hanson v. Denckla,
+
+357 U.S. 235, 251 (1958); Curry v. McCanless,
+
+307 U.S. 357, 370 (1939).
+
+															A different permutation is before the Court today.  The Kaestner Trust made no distributions to any North Carolina resident in the years in question.  371 N. C., at 134–135, 814 S. E. 2d, at 45.  The trustee resided out of State, and Trust administration was split between New York (where the Trust’s records were kept) and Massachusetts (where the custodians of its assets were located).  Id., at 134, 814 S. E. 2d, at 45.  The trustee made no direct investments in North Carolina in the relevant tax years, App. to Pet. for Cert. 52a, and the settlor did not reside in North Carolina.  371 N. C., at 134, 814 S. E. 2d, at 45.  Of all the potential kinds of connections between a trust and a State, the State seeks to rest its tax on just one: the in-state residence of the beneficiaries.  Brief for Petitioner 34–36; see App. to Pet. for Cert. 54a.
+
+															We hold that the presence of in-state beneficiaries alone does not empower a State to tax trust income that has not been distributed to the beneficiaries where the beneficiaries have no right to demand that income and are uncertain ever to receive it.  In limiting our holding to the specific facts presented, we do not imply approval or disapproval of trust taxes that are premised on the residence of beneficiaries whose relationship to trust assets differs from that of the beneficiaries here.
+
+															A
+
+															In the past, the Court has analyzed state trust taxes for consistency with the Due Process Clause by looking to the relationship between the relevant trust constituent (settlor, trustee, or beneficiary) and the trust assets that the State seeks to tax.  In the context of beneficiary contacts specifically, the Court has focused on the extent of the in-state beneficiary’s right to control, possess, enjoy, or receive trust assets.
+
+															The Court’s emphasis on these factors emerged in two early cases, Safe Deposit & Trust Co. of Baltimore v. Virginia,
+
+280 U.S. 83 (1929), and Brooke v. Norfolk,
+
+277 U.S. 27 (1928), both of which invalidated state taxes premised on the in-state residency of beneficiaries.  In each case the challenged tax fell on the entirety of a trust’s property, rather than on only the share of trust assets to which the beneficiaries were entitled.  Safe Deposit, 280 U. S., at 90, 92; Brooke, 277 U. S., at 28.  In Safe Deposit, the Court rejected Virginia’s attempt to tax a trustee on the “whole corpus of the trust estate,” 280 U. S., at 90; see id., at 93, explaining that “nobody within Virginia ha[d] present right to [the trust property’s] control or possession, or to receive income therefrom,” id., at 91.  In Brooke, the Court rejected a tax on the entirety of a trust fund assessed against a resident beneficiary because the trust property “[wa]s not within the State, d[id] not belong to the [beneficiary] and [wa]s not within her possession or control.”  277 U. S., at 29.[6]
+
+															On the other hand, the same elements of possession, control, and enjoyment of trust property led the Court to uphold state taxes based on the in-state residency of beneficiaries who did have close ties to the taxed trust assets.  The Court has decided that States may tax trust income that is actually distributed to an in-state beneficiary.  In those circumstances, the beneficiary “own[s] and enjoy[s]” an interest in the trust property, and the State can exact a tax in exchange for offering the beneficiary protection.  Maguire, 253 U. S., at 17; see also Guaranty Trust Co. v. Virginia,
+
+305 U.S. 19, 21–23 (1938).
+
+															All of the foregoing cases reflect a common governing principle: When a State seeks to base its tax on the in-state residence of a trust beneficiary, the Due Process Clause demands a pragmatic inquiry into what exactly the beneficiary controls or possesses and how that interest relates to the object of the State’s tax.  See Safe Deposit, 280 U. S., at 91.
+
+															Although the Court’s resident-beneficiary cases are most relevant here, similar analysis also appears in the context of taxes premised on the in-state residency of settlors and trustees.  In Curry, for instance, the Court upheld a Tennessee trust tax because the settlor was a Tennessee resident who retained “power to dispose of” the property, which amounted to “a potential source of wealth which was property in her hands.”  307 U. S., at 370.  That practical control over the trust assets obliged the settlor “to contribute to the support of the government whose protection she enjoyed.”  Id., at 371; see also Graves v. Elliott,
+
+307 U.S. 383, 387 (1939) (a settlor’s “right to revoke [a] trust and to demand the transmission to her of the intangibles . . . was a potential source of wealth” subject to tax by her State of residence).[7]
+
+															A focus on ownership and rights to trust assets also featured in the Court’s ruling that a trustee’s in-state residence can provide the basis for a State to tax trust assets.  In Greenough, the Court explained that the relationship between trust assets and a trustee is akin to the “close relationship between” other types of intangible property and the owners of such property.  331 U. S., at 493.  The trustee is “the owner of [a] legal interest in” the trust property, and in that capacity he can incur obligations, become personally liable for contracts for the trust, or have specific performance ordered against him.  Id., at 494.  At the same time, the trustee can turn to his home State for “benefit and protection through its law,” id., at 496, for instance, by resorting to the State’s courts to resolve issues related to trust administration or to enforce trust claims, id., at 495.  A State therefore may tax a resident trustee on his interest in a share of trust assets.  Id., at 498.
+
+															In sum, when assessing a state tax premised on the in-state residency of a constituent of a trust—whether beneficiary, settlor, or trustee—the Due Process Clause demands attention to the particular relationship between the resident and the trust assets that the State seeks to tax.  Because each individual fulfills different functions in the creation and continuation of the trust, the specific features of that relationship sufficient to sustain a tax may vary depending on whether the resident is a settlor, beneficiary, or trustee.  When a tax is premised on the in-state residence of a beneficiary, the Constitution requires that the resident have some degree of possession, control, or enjoyment of the trust property or a right to receive that property before the State can tax the asset.  Cf. Safe Deposit, 280 U. S., at 91–92.[8]  Otherwise, the State’s relationship to the object of its tax is too attenuated to create the “minimum connection” that the Constitution requires.  See Quill, 504 U. S., at 306.
+
+															B
+
+															Applying these principles here, we conclude that the residence of the Kaestner Trust beneficiaries in North Carolina alone does not supply the minimum connection necessary to sustain the State’s tax.
+
+															First, the beneficiaries did not receive any income from the trust during the years in question.  If they had, such income would have been taxable.  See Maguire, 253 U. S., at 17; Guaranty Trust Co., 305 U. S., at 23.
+
+															Second, the beneficiaries had no right to demand trust income or otherwise control, possess, or enjoy the trust assets in the tax years at issue.  The decision of when, whether, and to whom the trustee would distribute the trust’s assets was left to the trustee’s “absolute discretion.”  Art. I, §1.2(a), App. 46–47.  In fact, the Trust agreement explicitly authorized the trustee to distribute funds to one beneficiary to “the exclusion of other[s],” with the effect of cutting one or more beneficiaries out of the Trust.  Art. I, §1.4, id., at 50.  The agreement also authorized the trustee, not the beneficiaries, to make investment decisions regarding Trust property.  Art. V, §5.2, id., at 55–60.  The Trust agreement prohibited the beneficiaries from assigning to another person any right they might have to the Trust property, Art. XII, id., at 70–71, thus making the beneficiaries’ interest less like “a potential source of wealth [that] was property in [their] hands.”  Curry, 307 U. S., at 370–371.[9]
+
+															To be sure, the Kaestner Trust agreement also instructed the trustee to view the trust “as a family asset and to be liberal in the exercise of the discretion conferred,” suggesting that the trustee was to make distributions generously with the goal of “meet[ing] the needs of the Beneficiaries” in various respects.  Art. I, §1.4(c), App. 51.  And the trustee of a discretionary trust has a fiduciary duty not to “act in bad faith or for some purpose or motive other than to accomplish the purposes of the discretionary power.”  2 Restatement (Third) of Trusts §50, Comment c, p. 262 (2003).  But by reserving sole discretion to the trustee, the Trust agreement still deprived Kaestner and her children of any entitlement to demand distributions or to direct the use of the Trust assets in their favor in the years in  question.
+
+															Third, not only were Kaestner and her children unable to demand distributions in the tax years at issue, but they also could not count on necessarily receiving any specific amount of income from the Trust in the future.  Although the Trust agreement provided for the Trust to terminate in 2009 (on Kaestner’s 40th birthday) and to distribute assets to Kaestner, Art. I, §1.2(c)(1), App. 47, New York law allowed the trustee to roll over the trust assets into a new trust rather than terminating it.  N. Y. Est., Powers & Trusts §10–6.6(b).  Here, the trustee did just that.  371 N. C., at 135, 814 S. E. 2d, at 45.[10]
+
+															Like the beneficiaries in Safe Deposit, then, Kaestner and her children had no right to “control or posses[s]” the trust assets “or to receive income therefrom.”  280 U. S., at 91.  The beneficiaries received no income from the Trust, had no right to demand income from the Trust, and had no assurance that they would eventually receive a specific share of Trust income.  Given these features of the Trust, the beneficiaries’ residence cannot, consistent with due process, serve as the sole basis for North Carolina’s tax on trust income.[11]
+
+															IV
+
+															The State’s counterarguments do not save its tax.
+
+															First, the State interprets Greenough as standing for the broad proposition that “a trust and its constituents” are always “inextricably intertwined.”  Brief for Petitioner 26.  Because trustee residence supports state taxation, the State contends, so too must beneficiary residence.  The State emphasizes that beneficiaries are essential to a trust and have an “equitable interest” in its assets.  Greenough, 331 U. S., at 494.  In Stone v. White,
+
+301 U.S. 532 (1937), the State notes, the Court refused to “shut its eyes to the fact” that a suit to recover taxes from a trust was in reality a suit regarding “the beneficiary’s money.”  Id., at 535.  The State also argues that its tax is at least as fair as the tax in Greenough because the Trust benefits from North Carolina law by way of the beneficiaries, who enjoy secure banks to facilitate asset transfers and also partake of services (such as subsidized public education) that obviate the need to make distributions (for example, to fund beneficiaries’ educations).  Brief for Petitioner 30–33.
+
+															The State’s argument fails to grapple with the wide variation in beneficiaries’ interests.  There is no doubt that a beneficiary is central to the trust relationship, and beneficiaries are commonly understood to hold “beneficial interests (or ‘equitable title’) in the trust property,” 2 Restatement (Third) of Trusts §42, Comment a, at 186.  In some cases the relationship between beneficiaries and trust assets is so close as to be beyond separation.  In Stone, for instance, the beneficiary had already received the trust income on which the government sought to recover tax.  See 301 U. S., at 533.  But, depending on the trust agreement, a beneficiary may have only a “future interest,” an interest that is “subject to conditions,” or an interest that is controlled by a trustee’s discretionary decisions.  2 Restatement (Third) of Trusts §49, Comment b, at 243.  By contrast, in Greenough, the requisite connection with the State arose from a legal interest that necessarily carried with it predictable responsibilities and liabilities.  See 331 U. S., at 494.  The different forms of beneficiary interests counsels against adopting the categorical rule that the State urges.
+
+															Second, the State argues that ruling in favor of the Trust will undermine numerous state taxation regimes.  Tr. of Oral Arg. 8, 68; Brief for Petitioner 6, and n. 1.  Today’s ruling will have no such sweeping effect.  North Carolina is one of a small handful of States that rely on beneficiary residency as a sole basis for trust taxation, and one of an even smaller number that will rely on the residency of beneficiaries regardless of whether the beneficiary is certain to receive trust assets.[12]  Today’s decision does not address state laws that consider the in-state residency of a beneficiary as one of a combination of factors, that turn on the residency of a settlor, or that rely only on the residency of noncontingent beneficiaries, see, e.g., Cal. Rev. & Tax. Code Ann. §17742(a).[13]  We express no opinion on the validity of such taxes.
+
+															Finally, North Carolina urges that adopting the Trust’s position will lead to opportunistic gaming of state tax systems, noting that trust income nationally exceeded $120 billion in 2014.  See Brief for Petitioner 39, and n. 13.  The State is concerned that a beneficiary in Kaestner’s position will delay taking distributions until she moves to a State with a lower level of taxation, thereby paying less tax on the funds she ultimately receives.  See id., at 40.
+
+															Though this possibility is understandably troubling to the State, it is by no means certain that it will regularly come to pass.  First, the power to make distributions to Kaestner or her children resides with the trustee.  When and whether to make distributions is not for Kaestner to decide, and in fact the trustee may distribute funds to Kaestner while she resides in North Carolina (or deny her distributions entirely).  Second, we address only the circumstances in which a beneficiary receives no trust income, has no right to demand that income, and is uncertain necessarily to receive a specific share of that income.  Settlors who create trusts in the future will have to weigh the potential tax benefits of such an arrangement against the costs to the trust beneficiaries of lesser control over trust assets.  In any event, mere speculation about negative consequences cannot conjure the “minimum connection” missing between North Carolina and the object of  its tax.
+
+															*  *  *
+
+															For the foregoing reasons, we affirm the judgment of the Supreme Court of North Carolina.
+
+															It is so ordered.
+Notes
+1
+ Most notably, trusts are treated as distinct entities for federal taxation purposes.  Greenough, 331 U. S., at 493; see Anderson v. Wilson,
+
+289 U.S. 20, 26–27 (1933). 
+
+2
+ This trustee later was succeeded by a new trustee who was a Connecticut resident during the relevant time period. 
+
+3
+ The state court identified only two meetings between Kaestner and the trustee in those years, both of which took place in New York.  371 N. C. 133, 143, 814 S.E.2d 43, 50 (2018).  The trustee also gave Kaestner accountings of trust assets and legal advice concerning the Trust.  Id., at 135, 814 S. E. 2d, at 45. 
+
+4
+ The trial court also held that North Carolina’s tax violates the dormant Commerce Clause.  The state appellate courts did not affirm on this basis, and we likewise do not address this challenge. 
+
+5
+ Because North Carolina’s tax on the Kaestner Trust does not meet Quill’s first requirement, we do not address the second. 
+
+6
+ The State contends that Safe Deposit is no longer good law under the more flexible approach in International Shoe Co. v. Washington, 
+326 U.S. 310 (1945), and also because it was premised on the view, later disregarded in Curry v. McCanless,
+
+307 U.S. 357, 363 (1939), that the Due Process Clause forbids “double taxation.”  Brief for Petitioner 27–28, and n. 12.  We disagree.  The aspects of the case noted here are consistent with the pragmatic approach reflected in International Shoe, and Curry distinguished Safe Deposit not because the earlier case incorrectly relied on concerns of double taxation but because the beneficiaries there had “[n]o comparable right or power” to that of the settlor in Curry.  307 U. S., at 371, n. 6. 
+
+7
+ Though the Court did not have occasion in Curry or Graves to explore whether a lesser degree of control by a settlor also could sustain a tax by the settlor’s domicile (and we do not today address that possibility), these cases nevertheless reinforce the logic employed by Safe Deposit, Brooke v. Norfolk, 
+277 U.S. 27 (1928), Maguire v. Trefry, 
+253 U.S. 12 (1920), and Guaranty Trust Co. v. Virginia, 
+305 U.S. 19 (1938), in the beneficiary context. 
+
+8
+ As explained below, we hold that the Kaestner Trust beneficiaries do not have the requisite relationship with the Trust property to justify the State’s tax.  We do not decide what degree of possession, control, or enjoyment would be sufficient to support taxation. 
+
+9
+ We do not address whether a beneficiary’s ability to assign a potential interest in income from a trust would afford that beneficiary sufficient control or possession over, or enjoyment of, the property to justify taxation based solely on his or her in-state residence. 
+
+10
+ In light of these features, one might characterize the interests of the beneficiaries as “contingent” on the exercise of the trustee’s discretion.  See Fondren v. Commissioner,
+
+324 U.S. 18, 21 (1945) (describing “the exercise of the trustee’s discretion” as an example of a contin-gency); see also United States v. O’Malley,
+
+383 U.S. 627, 631 (1966) (de-scribing a grantor’s power to add income to the trust principal instead of distributing it and “thereby den[y] to the beneficiaries the privilege of immediate enjoyment and conditio[n] their eventual enjoyment upon surviving the termination of the trust”); Commissioner v. Estate of Holmes,
+
+326 U.S. 480, 487 (1946) (the termination of a contingency changes “the mere prospect or possibility, even the probability, that one may have [enjoyment of property] at some uncertain future time or perhaps not at all” into a “present substantial benefit”).  We have no occasion to address, and thus reserve for another day, whether a different result would follow if the beneficiaries were certain to receive funds in the future.  See, e.g., Cal. Rev. & Tax. Code Ann. §17742(a) (West 2019); Commonwealth v. Stewart, 338 Pa. 9, 16–19, 12 A.2d 444, 448–449 (1940) (upholding a tax on the equitable interest of a beneficiary who had “a right to the income from [a] trust for life”), aff’d,
+
+312 U.S. 649 (1941). 
+
+11
+ Because the reasoning above resolves this case in the Trust’s favor, it is unnecessary to reach the Trust’s broader argument that the trustee’s contacts alone determine the State’s power over the Trust. Brief for Respondent 23–30.  The Trust relies for this proposition on Hanson v. Denckla,
+
+357 U.S. 235 (1958), which held that a Florida court lacked jurisdiction to adjudicate the validity of a trust agreement even though the trust settlor and most of the trust beneficiaries were domiciled in Florida.  Id., at 254.  The problem was that Florida law made the trustee “an indispensable party over whom the court [had to] acquire jurisdiction” before resolving a trust’s validity, and the trustee was a nonresident.  Ibid.  In deciding that the Florida courts lacked jurisdiction over the proceeding, the Court rejected the relevance of the trust beneficiaries’ residence and focused instead on the “acts of the trustee” himself, which the Court found insufficient to support jurisdiction.  Ibid. The State counters that Hanson is inapposite because the State’s tax applies to the trust rather than to the trustee and because Hanson arose in the context of adjudicative jurisdiction rather than tax jurisdiction.  Brief for Petitioner 21, n. 9; Reply Brief 16–17. There is no need to resolve the parties’ dueling interpretations of Hanson.  Even if beneficiary contacts—such as residence—could be sufficient in some circumstances to support North Carolina’s power to impose this tax, the residence alone of the Kaestner Trust beneficiaries cannot do so for the reasons given above. 
+
+12
+ The State directs the Court’s attention to 10 other state trust taxation statutes that also look to trust beneficiaries’ in-state residency, see Brief for Petitioner 6, and n. 1, but 5 are unlike North Carolina’s because they consider beneficiary residence only in combination with other factors, see Ala. Code §40–18–1(33) (2011); Conn. Gen. Stat. §12–701(a)(4) (2019 Cum. Supp.); Mo. Rev. Stat. §§143.331(2), (3) (2016); Ohio Rev. Code Ann. §5747.01(I)(3) (Lexis Supp. 2019); R. I. Gen. Laws §44–30–5(c) (2010).  Of the remaining five statutes, it is not clear that the flexible tests employed in Montana and North Dakota permit reliance on beneficiary residence alone.  See Mont. Admin. Rule 42.30.101(16) (2016); N. D. Admin. Code §81–03–02.1–04(2) (2018).  Similarly, Georgia’s imposition of a tax on the sole basis of beneficiary residency is disputed.  See Ga. Code Ann. §48–7–22(a)(1)(C) (2017); Brief for Respondent 52, n. 20.  Tennessee will be phasing out its income tax entirely by 2021.  H. B. 534, 110th Gen. Assem., Reg. Sess. (2017) (enacted); see Tenn. Code Ann. §67–2–110(a) (2013).  That leaves California, which (unlike North Carolina) applies its tax on the basis of beneficiary residency only where the beneficiary is not contingent.  Cal. Rev. & Tax. Code Ann. §17742(a); see also n. 10, supra. 
+
+13
+ The Trust also raises no challenge to the practice known as throwback taxation, by which a State taxes accumulated income at the time it is actually distributed.  See, e.g., Cal. Rev. & Tax. Code Ann. §17745(b). 
+
+

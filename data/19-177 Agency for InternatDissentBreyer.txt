@@ -1,0 +1,384 @@
+::SCDB_caseID:: 2019-052
+::decision_cite:: 19-177
+::decision_name::  Agency for International Development v. Alliance for Open Society International, Inc.
+::decision_year:: 2020
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–177
+
+															_________________
+
+															AGENCY FOR INTERNATIONAL DEVELOPMENT,  et al., PETITIONERS v. ALLIANCE FOR OPEN SOCIETY INTERNATIONAL, INC., et al.
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															[June 29, 2020]
+
+															
+
+															Justice Breyer, with whom Justice Ginsburg and Justice Sotomayor join, dissenting.
+
+															The Court, in my view, asks the wrong question and gives the wrong answer.  This case is not about the
+ 
+First Amendment rights of foreign organizations.  It is about—and has always been about—the
+ 
+First Amendment rights of American organizations.
+
+															The last time this case came before us, those American organizations vindicated their constitutional right to speak freely, both at home and abroad.  In Agency for Int’l Development v. Alliance for Open Society Int’l, Inc.,
+
+570 U.S. 205 (2013) (AOSI I ), we held that the
+ 
+First Amendment forbids the Government from distorting their speech by requiring, as a condition of receiving federal funds, that they “pledge allegiance” to a state-sponsored message.  Id., at 220.
+
+															This time, the question is whether the American organizations enjoy that same constitutional protection against government-compelled distortion when they speak through clearly identified affiliates that have been incorporated overseas.  The answer to that question, as I see it, is yes.  I dissent from the Court’s contrary conclusion.
+
+															I
+
+															To understand the issue now before us, one must appreciate how it got here.  Given this litigation’s lengthy history, that requires a rather detailed look at why this dispute first arose, what we decided in our prior decision (namely, AOSI I ), and where the case proceeded from there.
+
+															A
+
+															As we explained in AOSI I, the plaintiffs in this action (respondents in this Court then and now) “are a group of domestic organizations engaged in combating HIV/AIDS overseas.”  Id., at 210.  Their lifesaving work spans multiple continents.  Id., at 211.  For example, respondents run “programs aimed at limiting injection drug use in Uzbekistan, Tajikistan, and Kyrgyzstan, preventing mother-to-child HIV transmission in Kenya, and promoting safer sex practices in India.”  Ibid.  Respondents also counsel high-risk populations such as sex workers, encourage foreign governments to adopt beneficial public policies, and share information about best practices in publications and at conferences.  See ibid.; App. 171, 217, 222, 419.  To support these international efforts, respondents must make fundraising appeals to donors worldwide.  See, e.g., id., at 366, 384, 431–433, 457.  But crucially for both their mission and for this case, respondents also “receive billions [of dollars] annually in financial assistance from the United States.”  AOSI I, 570 U. S., at 210.
+
+															One of respondents’ primary sources of federal funding is the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003.
+
+117Stat.
+711, as amended,
+
+22 U. S. C. §7601 et seq. (Leadership Act).  Congress enacted the Leadership Act with the goal of creating “a ‘comprehensive, integrated’ strategy to combat HIV/AIDS around the world.”  AOSI I, 570 U. S., at 209 (quoting §7611(a)).  To that end, the statute allocates considerable federal dollars to nongovernmental organizations fighting HIV/AIDS abroad.  Id., at 209–211.
+
+															But Leadership Act funding comes with strings attached.  Two, in particular.  First, no Leadership Act funds “ ‘may be used to promote or advocate the legalization or practice of prostitution or sex trafficking.’ ”  Id., at 210 (quoting §7631(e)).  Second, with some exceptions not relevant here, any recipient of Leadership Act funds must have “ ‘a policy explicitly opposing prostitution and sex trafficking.’ ”  Id., at 210 (quoting §7631(f )).  The first condition limiting how Leadership Act funds may be spent has never been challenged in this litigation.  Id., at 210.  What has driven this decades-long dispute is the second condition, the “Policy Requirement” that requires recipients to espouse a government message.  Ibid.
+
+															Concerned that “adopting a policy explicitly opposing prostitution” could “alienate certain host governments” and “mak[e] it more difficult to work with prostitutes in the fight against HIV/AIDS,” respondents sued.  Id., at 211.  They asserted that the Policy Requirement put an unconstitutional condition on the receipt of federal funds and was thus unenforceable.  Id., at 212.  Accordingly, as the case came to us in AOSI I, the question was whether this funding condition violated respondents’
+ 
+First Amendment rights.  Id., at 211.
+
+															B
+
+															The answer, we held in AOSI I, was yes.  Our reasoning then demands close inspection now.
+
+															To begin, we observed in AOSI I that “the Policy Requirement would plainly violate the
+ 
+First Amendment” if it operated “as a direct regulation of speech.”  Id., at 213.  Commanding someone to speak a government message contravenes the “basic
+ 
+First Amendment principle that ‘freedom of speech prohibits the government from telling people what they must say.’ ”  Ibid. (quoting Rumsfeld v. Forum for Academic and Institutional Rights, Inc., 547 U.S. 47, 61 (2006) (FAIR)); see also, e.g., West Virginia Bd. of Ed. v. Barnette,
+
+319 U.S. 624, 642 (1943); Wooley v. Maynard,
+
+430 U.S. 705, 717 (1977).
+
+															That the Policy Requirement is a funding condition, rather than a direct command, complicated the analysis in AOSI I but did not change the outcome.  True, Congress’ Article I spending power “includes the authority to impose limits on the use of [federal] funds to ensure they are used” as “Congress intends,” even conditions that “may affect the recipient’s exercise of its
+ 
+First Amendment rights.”  AOSI I, 570 U. S., at 213–214.  That is all the first (and unchallenged) Leadership Act condition does by forbidding federal funds from being used to promote prostitution or sex trafficking.  See id., at 217–218.  Congress may not, however, “leverage funding to regulate speech outside the contours” of the program it has chosen to subsidize.  Id., at 214–215.  That, as we will see, is what the Policy Requirement does—and why we held in AOSI I that this second condition violated respondents’
+ 
+First Amendment rights.
+
+															The constitutional line is whether a funding condition helps “specify the activities Congress wants to subsidize” or instead seeks to “reach [speech] outside” the federal program.  Id., at 214, 217.  We recognized in AOSI I that this line “is not always self-evident.”  Id., at 217.  To “hel[p] illustrate the distinction,” our decision gave two examples from our precedents.  Id., at 215.
+
+															As an example of what the Government may not do, we pointed to our decision FCC v. League of Women Voters of Cal.,
+
+468 U.S. 364 (1984).  There, the Government required noncommercial broadcasters receiving federal financial assistance to refrain from editorializing entirely; they could not even “establish [an] ‘affiliate’ organizatio[n]” to editorialize on their behalf “with nonfederal funds.”  Id., at 400.  By giving a broadcaster no way “to make known its views on matters of public importance,” the funding condition in League of Women Voters violated the
+ 
+First Amendment.  Id., at 400–401.  That condition, as we put it in AOSI I, “went beyond” ensuring that federal funds did not subsidize the broadcasters’ editorial content and therefore distorted their “speech outside the scope of the program.”  570 U. S., at 216.
+
+															Just the opposite was true in Regan v. Taxation With Representation of Wash.,
+
+461 U.S. 540 (1983), the case we cited in AOSI I as an example of what the Government may do.  In Regan, a nonprofit group received tax-exempt status as a §501(c)(3) organization on the condition that the organization not engage in lobbying.  AOSI I, 570 U. S., at 215 (citing Regan, 461 U. S., at 544).  Even though this condition on federal financial assistance affected the nonprofit’s exercise of
+ 
+First Amendment rights, the condition was constitutional because it “did not prohibit [the nonprofit] from lobbying Congress altogether.”  570 U. S., at 215.
+
+															Specifically, the nonprofit in Regan—unlike the broadcasters in League of Women Voters—was permitted to establish an affiliate to carry on its lobbying activities as a §501(c)(4) organization.  AOSI I, 570 U. S., at 215 (citing Regan, 461 U. S., at 544).  The nonprofit could thus act (and speak) through two corporate entities: The §501(c)(3) organization could get the tax exemption (but not lobby), while the §501(c)(4) organization could lobby (but not get the tax exemption).  570 U. S., at 215.  Since requiring the nonprofit to adopt this “ ‘dual structure’ ” was not “ ‘unduly burdensome,’ ” the condition in Regan “did not deny the [nonprofit] a government benefit ‘on account of its intention to lobby.’ ”  570 U. S., at 215 (quoting Regan, 461 U. S., at 545, and n. 6).  The condition was thus constitutional, even though it essentially compelled the nonprofit to affiliate with other organizations.  See 570 U. S., at 215.
+
+															In AOSI I, we held “that the Policy Requirement falls on the unconstitutional side of the line” separating League of Women Voters (unconstitutional) and Regan (constitutional).  570 U. S., at 217.  Like the funding condition in League of Women Voters, we explained, the Policy Requirement affects protected speech outside the scope of the federal program.  570 U. S., at 218.  “By requiring recipients to profess a specific belief,” it “goes beyond defining” the program “to defining the recipient” in the eyes of their global audience.  Ibid.  Respondents cannot “avow [a] belief dictated by” the Government “when spending Leadership Act funds, and then turn around and assert a contrary belief, or claim neutrality,” when acting on their “own time and dime.”  Ibid.  The Policy Requirement thus conditioned funding on an across-the-board distortion of respondents’ message.  See ibid.
+
+															We further explained in AOSI I—and this is critical—why we could not accept the Government’s suggestion that the case was just a redux of Regan.  In AOSI I, the Government suggested a similar “dual-structure” solution to the
+ 
+First Amendment problem.  Like the nonprofit in Regan, the Government noted, respondents could act (and speak) through two corporate entities: One organization could receive Leadership Act funds on respondents’ behalf (and comply with the Policy Requirement), while a legally separate affiliate could communicate respondents’ preferred message (and not receive Leadership Act funds)—or vice versa.  AOSI I, 570 U. S., at 219.  True enough.  But we rejected the Government’s argument all the same.
+
+															Why did we reject it?  Because corporate formalities do nothing to ward off speech distortion where—like AOSI I, but unlike Regan—the Government has required a speaker to “espouse a specific belief as its own.”  570 U. S., at 219. “If the affiliate is distinct from the recipient,” we reasoned, “the arrangement does not afford a means for the recipient to express its beliefs.”  Ibid.  And if “the affiliate is more clearly identified with the recipient, the recipient can express those beliefs only at the price of evident hypocrisy.”  Ibid.  With respect to the latter situation, in other words, compelling a recipient to disavow a message involuntarily uttered by its clearly identified affiliate is forced hypocrisy, not free speech.  See ibid.
+
+															In sum, the Policy Requirement conditioned federal funds on an unavoidable and irreversible distortion of respondents’ protected speech.  We therefore held in AOSI I that the Policy Requirement “violates the
+ 
+First Amendment and cannot be sustained.”  Id., at 221.
+
+															C
+
+															On remand from our decision, the District Court did what district courts ought to do.  It “tailor[ed] ‘the scope of the remedy’ to fit ‘the nature and extent of the constitutional violation’ ” that we identified in AOSI I.  Hills v. Gautreaux,
+
+425 U.S. 284, 294 (1976) (quoting Milliken v. Bradley,
+
+418 U.S. 717, 744 (1974)).
+
+															The District Court, like our Court, recognized that respondents’ work—and with it their protected speech—has a global reach.  But respondents, it turns out, use different organizational structures to deliver services in different places.  106 F. Supp. 3d 355, 360–361 (SDNY 2015).  Sometimes, particularly when foreign governments (or our own government) require, respondents operate through legally separate affiliates incorporated abroad.  Ibid.; see also, e.g., App. 368, 373–375.
+
+															In the District Court’s view, those corporate formalities did not meaningfully change the
+ 
+First Amendment calculus. See 106 F. Supp. 3d, at 360–361.  Respondents, together with their affiliates, convey a clear, consistent message to high-risk populations, government officials, healthcare professionals, prospective employees, and private donors across the globe.  See, e.g., App. 370–371, 391, 460–461.  They share the same name, logo, and branding—all of which use identical colors, fonts, and imagery.  See, e.g., id., at 445–455.  They adhere to shared values, work towards common goals, and coordinate their collective message.  See, e.g., id., at 385–386, 404–429.  To an outside observer, respondents and their affiliates are a single, cohesive unit.  They speak as one.
+
+															The District Court consequently concluded that imposing the Policy Requirement on respondents’ affiliates—wherever they happen to have been incorporated—would force respondents to “expres[s] contrary positions on the same matter through [their] different organizational components.”  106 F. Supp. 3d, at 361.  To prevent that from happening, and in keeping with the principles we set forth in AOSI I, the District Court enjoined enforcement of the Policy Requirement against respondents and their clearly identified affiliates, including affiliates that were incorporated overseas.  Id., at 363.  The District Court thought that remedial order necessary to protect respondents’ own
+ 
+First Amendment rights—rights that, as American organizations, respondents unquestionably have.  Id., at 361.
+
+															The Court of Appeals understood the District Court’s order that way, too.  “The narrow issue before” us, the Court of Appeals explained, “is whether applying the Policy Requirement to [respondents’] closely aligned foreign affiliates violates [respondents’] own
+ 
+First Amendment rights.”  911 F.3d 104, 109 (CA2 2018).  The Court of Appeals held that the answer was yes and affirmed on that basis.   Ibid.  We granted certiorari to review the Court of Appeals’ decision.
+
+															II
+
+															The road has been long, but we have arrived at the specific question now before us: whether enforcing the Policy Requirement against respondents’ clearly identified foreign affiliates violates respondents’ own
+ 
+First Amendment rights.  Like the District Court and the Court of Appeals, I believe the answer is yes.
+
+															Our reasoning in AOSI I, along with the body of precedent on which it relied, should decide this case.  Just as compelling a clearly identified domestic affiliate to espouse a government message distorts respondents’ own protected speech, AOSI I, 570 U. S., at 219, so too does compelling a clearly identified foreign affiliate to espouse the same government message.  Either way, federal funding conditioned on that affirmative avowal of belief comes at an unconstitutionally high “price of evident hypocrisy.”  Ibid.
+
+															Properly understood, our speech-misattribution cases—in particular Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, Inc.,
+
+515 U.S. 557 (1995)—confirm that common-sense conclusion.  Any other result would undermine
+ 
+First Amendment protections for the countless American speakers who address audiences overseas.
+
+															A
+
+															Respondents should prevail here for the same reasons they prevailed in AOSI I.  When respondents speak through legally separate but clearly identified affiliates, we held, that speech is attributed to respondents for
+ 
+First Amendment purposes.  AOSI I, 570 U. S., at 219.  So when the Government demands as a condition of federal funding that their clearly identified affiliate “espouse a specific belief as its own,” respondents may express a contrary view through some other corporate channel only on pain of appearing hypocritical.  Ibid.  Leveraging Congress’ Article I spending power to distort respondents’ protected speech in this way therefore violates respondents’
+ 
+First Amendment rights—whatever else might be said about the affiliate’s own
+ 
+First Amendment rights (or asserted lack thereof ).  Ibid.
+
+															These principles apply with full force to the dispute now before us.  Respondents and their affiliates receive federal funding to fight HIV/AIDS overseas.  What has been at stake in this case from the beginning, then, is protected speech often aimed at audiences abroad.  Our decision in AOSI I shielded respondents’ global message from government-compelled distortion in the eyes of those foreign audiences, as well as listeners here at home.  Ibid.  Yet in the wake of our ruling, respondents have continued to suffer that exact same
+ 
+First Amendment harm.
+
+															True, respondents’ international mission sometimes requires that they convey their message through affiliates incorporated in far-off countries, rather than registered here at home.  But so what?  Audiences everywhere attribute speech based on whom they perceive to be speaking, not on corporate paperwork they will never see.  What mattered in AOSI I was thus how “clearly identified” the affiliates were with respondents, not the fact that the affiliates were incorporated as separate legal entities.  Ibid.  And what matters now is once again how “clearly identified” the affiliates are with respondents, not the fact that the affiliates were incorporated as foreign legal entities.
+
+															The
+ 
+First Amendment question therefore hinges, as it did before, on what an objective observer sees, hears, and understands when respondents speak through their foreign affiliates.  As to that, not even the Government meaningfully disputes that respondents and their foreign affiliates are clearly identified with one another.  Their appearances are the same.  Their goals are the same.  Their values are the same.  Their message is the same.  Leveraging Congress’ spending power to demand speech from respondents’ foreign affiliates distorts that shared message—and violates respondents’
+ 
+First Amendment rights.  So while respondents and their clearly identified foreign affiliates may be technically different entities with respect to such matters as contracts, taxes, and torts, they are constitutionally the same speaker when it comes to the protected speech at issue in this case.
+
+															This two-entities-one-speaker principle is an established part of our
+ 
+First Amendment jurisprudence.  Take Regan.  To refresh, in that case we upheld a ban on engaging in certain protected speech (lobbying) that the federal tax code imposed on a nonprofit’s §501(c)(3) organization because the nonprofit could still speak through a separate §501(c)(4) organization.  See 461 U. S., at 544.  Put simply, one speaker (the nonprofit) could act (and speak) through two legally separate entities (the §501(c)(3) and §501(c)(4) organizations).
+
+															Recall also our similar observation in League of Women Voters.  There we noted that a funding condition’s ban on editorializing would have been constitutional if, in contrast to the law at issue, the statute let noncommercial broadcasters “make known” their “views on matters of public importance” by speaking through legally separate “editorializing affiliate[s].”  468 U. S., at 400.  Once again, we made clear that a single speaker can act (and speak) through two legally separate entities.  But because the speaker in League of Women Voters was not free to do so, we held that the Government’s funding condition violated the
+ 
+First Amendment.  Id., at 400–401.
+
+															Regan and League of Women Voters are far from our only precedents recognizing this firmly entrenched
+ 
+First Amendment principle.  See Legal Services Corporation v. Velazquez,
+
+531 U.S. 533, 546 (2001) (observing that organizational affiliates may provide “alternative channel[s] for expression” by a single speaker); Rust v. Sullivan,
+
+500 U.S. 173, 196–198 (1991) (similar).  We reiterated that rule once again in AOSI I.  See 570 U. S., at 215–217, 219.
+
+															Thus, in the
+ 
+First Amendment context, the corporate veil is not an iron curtain.  Just the opposite.  We attribute speech across corporate lines all the time.
+
+															Rightly so.  When a funding condition restricts speech, this familiar framework often avoids
+ 
+First Amendment problems by allowing “alternative channel[s]” for speakers to express themselves.  Velazquez, 531 U. S., at 546.  And when a funding condition compels speech, the same logic leads to a similarly sensible result: The Government may not require you to speak out of both sides of your mouth, even if each side happens to have been incorporated as a separate legal entity.  See AOSI I, 570 U. S., at 219.
+
+															A contrary approach would have led to a rather surprising result in AOSI I.  Assume for a moment that the Policy Requirement simply commanded respondents’ clearly identified affiliates to speak—the kind of “direct regulation of speech” that we said “would plainly violate the
+ 
+First Amendment,” id., at 213.  Treating corporate lines as ironclad would mean that respondents could not object to that direct distortion of their own message.  Under all the cases just discussed, however, that cannot be right.  And as discussed below, it is equally wrong under our cases involving speech misattribution.
+
+															B
+
+															The
+ 
+First Amendment protects speakers from government compulsion that is likely to cause an audience to mistake someone else’s message for the speaker’s own views.  See, e.g., Hurley, 515 U. S., at 572–573; Pacific Gas & Elec. Co. v. Public Util. Comm’n of Cal.,
+
+475 U.S. 1, 15–16 (1986).  Corporate separation makes no meaningful difference in this speech-misattribution context, either.
+
+															Consider our unanimous decision in Hurley.  In that case, a group called the South Boston Allied War Veterans Council organized a parade.  515 U. S., at 560.  The Irish-American Gay, Lesbian and Bisexual Group of Boston—a separate group who called themselves “GLIB” for short—wanted to participate.  Id., at 561.  After the Veterans Council said no, GLIB obtained a court order directing the Veterans Council to let GLIB march in the parade.  Id., at 561–562.  Recognizing that “every participating unit affects the message conveyed by the parade organizers,” we held in Hurley that the order distorted the Veterans Council’s protected speech.  Id., at 572–573.  Because GLIB wanted to “carr[y] its own banner” with its own message, and because onlookers would understand GLIB as “contribut[ing] something to” the parade’s “common theme,” the order “essentially requir[ed]” the Veterans Council “to alter the expressive content of their parade.”  Id., at 572–573, 576.  That violated the
+ 
+First Amendment.  Id., at 573.
+
+															The
+ 
+First Amendment violation in this case is even more apparent.  In Hurley, the Veterans Council had merely “combin[ed] multifarious voices” of disparate groups without bothering to “isolate an exact message,” yet the
+ 
+First Amendment protected its message from government- compelled distortion all the same.  Id., at 569.  Respondents in this case have done the Veterans Council one better.  They have carefully constructed a cogent message and marshaled their clearly identified foreign affiliates to express it across the globe.  See supra, at 7–8, 10.
+
+															Furthermore, in Hurley we could only speculate about what GLIB’s exact message was and why the Veterans Council did not want to be associated with it.  See 515 U. S., at 574–575.  But here we know exactly what the challenged message is (“a policy explicitly opposing prostitution and sex trafficking”) and why respondents don’t want to be associated with it (the message, among other things, purportedly “ ‘stigmatizes one of the very groups whose trust [respondents] must earn to conduct effective HIV/AIDS prevention’ ”).
+
+22 U. S. C. §7631(f ); Brief for Respondents 11.  For that reason as well, the
+ 
+First Amendment injury in this case is open, obvious, and unusually well defined.
+
+															True, Hurley and our other speech-misattribution cases dealt with a speaker complaining about being forced to affiliate with someone else’s speech, rather than (as here) their pre-existing affiliate being forced to speak.  Cf. ante, at 6.  But that factual distinction makes no constitutional difference.  From a
+ 
+First Amendment perspective, the latter situation is just as bad or even worse, not better.
+
+															Consider Hurley again.  If, rather than requiring the Veterans Council to let GLIB march while carrying its banner, the state court had ordered a previously invited marcher (or worse still, all previously invited marchers) to display GLIB’s banner, the Veterans Council would have prevailed all the same.  By compelling speech from an existing affiliate (or all of them), that order would have required, even more brazenly, that the Veterans Council “alter the expressive content of their parade” in violation of the Veterans Council’s
+ 
+First Amendment rights.  515 U. S., at 572–573.  So too if the state court had decreed that GLIB’s banner must adorn a horse, oxen, or for that matter R2–D2, a robot—even though those entities lack their own
+ 
+First Amendment rights.  Whether the transmitter of a speaker’s protected message does (or does not) have its own
+ 
+First Amendment rights is beside the point.  Cf. Wooley, 430 U. S., at 717 (prohibiting New Hampshire from requiring that the state motto adorn a driver’s car, even though cars do not have
+ 
+First Amendment rights).
+
+															There is a reason why, until today, we had not confronted a case like the one just described.  Cf. ante, at 6.  Requiring someone to host another person’s speech is often a perfectly legitimate thing for the Government to do.  See, e.g., FAIR, 547 U. S., at 65 (holding that the Government may require law schools to host speech from military recruiters); PruneYard Shopping Center v. Robins,
+
+447 U.S. 74, 87–88 (1980) (holding that the Government may require the owner of a private shopping mall to host speech from politically minded pamphleteers).  Even the court order at issue in Hurley was an understandable (though unconstitutional) application of a “venerable” civil rights law.  See 515 U. S., at 571.  But because compelling people to profess a belief they do not hold is almost always unconstitutional, see AOSI I, 570 U. S., at 213, the Government rarely dares try.  The Government’s well-founded reticence in the past is no reason to bless its boldness at present.
+
+															Bottom line: The critical question here, as in Hurley, is simply whether the Government has demanded a profession of belief that will distort the speaker’s message.  How the Government causes that distortion makes no constitutional difference.  And as explained, enforcing the Policy Requirement against respondents’ clearly identified foreign affiliates would plainly distort respondents’ message.  See supra, at 7–8, 10.  That violates respondents’
+ 
+First Amendment rights.
+
+															C
+
+															So far as I am aware, we have never before held that an American speaker forfeits
+ 
+First Amendment protection when it speaks though foreign affiliates to reach audiences overseas.  It is easy to understand why.
+
+															Many American news networks operate through clearly identified foreign affiliates when speaking abroad.  Viewers attribute that speech to an American speaker: the network.  That is the whole point of using clearly identified foreign affiliates.  For example, CNN speaks to audiences in the Philippines, Brazil, Indonesia, and other countries using foreign affiliates, usually styled as CNN Philippines, CNN Brazil, CNN Indonesia, and so on.   See CNN Worldwide Fact Sheet (Oct. 2019), https:// cnnpressroom.blogs.cnn.com/cnn-fact-sheet.  But does that corporate structure mean that CNN—i.e., the American parent organization—has no
+ 
+First Amendment protection against a Government effort to, say, prevent CNN Mexico from covering the fatal shooting of a Mexican child by a U. S. Border Patrol agent?  Cf. Hernández v. Mesa, 589 U. S. ___ (2020) (Hernández II ).  Or to compel CNN Mexico to run a different story, perhaps one produced by Government personnel, that praises American policy at the border?
+
+															We should be highly skeptical.  If the Government commandeered CNN’s clearly identified foreign affiliate in these or similar ways, whether by monetary pressure or some other means, CNN should have constitutional recourse.  Some critical foreign policy interests might complicate the
+ 
+First Amendment calculus—say, a wartime need to keep future battle plans secret.  But nothing like that is present here.  And it is difficult to accept the notion that the
+ 
+First Amendment permits the Government to suppress, compel, or otherwise distort any and all American speech transmitted abroad through a clearly identified foreign affiliate.
+
+															III
+
+															The upshot is: (1) The messages at issue here belong to American speakers; (2) clearly identified foreign affiliates are a critical means of conveying those messages overseas; and (3) enforcing the Policy Requirement against those affiliates distorts respondents’ own protected speech—and thus violates respondents’ own
+ 
+First Amendment rights.
+
+															The majority justifies its contrary result on three main grounds, two of which it says are “bedrock principles” of American law.  See ante, at 3–6, 8.  I do not find these arguments persuasive.
+
+															A
+
+															The first “bedrock principle” on which the majority relies is the supposedly long-settled, across-the-board rule “that foreign citizens outside U. S. territory do not possess rights under the U. S. Constitution.”  Ante, at 3.  That sweeping assertion is neither relevant to this case nor correct on the law.
+
+															It is not relevant because, as I have said, this case does not concern the constitutional rights of foreign organizations.  This case concerns the constitutional rights of American organizations.  Every respondent here is—and has always been—American.  AOSI I, 570 U. S., at 210; see also Brief for Petitioners 7, 19 (acknowledging as much).  No foreign entities are party to this case, and respondents have never claimed that the Policy Requirement violates anyone’s
+ 
+First Amendment rights apart from their own.  Both the District Court and the Court of Appeals decided the case on that basis.  The question before us is clear: whether the
+ 
+First Amendment protects Americans when they speak through clearly identified foreign affiliates to reach audiences overseas.  See supra, at 8.  Whether the foreign affiliates themselves have their own
+ 
+First Amendment rights is not at issue.  See Brief for Respondents 36, n. 3.
+
+															Even taken on its own terms, the majority’s blanket assertion about the extraterritorial reach of our Constitution does not reflect the current state of the law.  The idea that foreign citizens abroad never have constitutional rights is not a “bedrock” legal principle.  At most, one might say that they are unlikely to enjoy very often extraterritorial protection under the Constitution.  Or one might say that the matter is undecided.  But this Court has studiously avoided establishing an absolute rule that forecloses that protection in all circumstances.
+
+															In Hernández v. Mesa, 582 U. S. ___ (2017) (per curiam) (Hernández I ), for example, we specifically declined to decide the “sensitive” question whether, on the facts then before us, a Mexican citizen standing on Mexican soil had
+ 
+Fourth Amendment rights—precisely because the answer to that extraterritoriality question “may have consequences that are far reaching.”  Id., at ___ (slip op., at 5).  Hernández later came to this Court again, and we decided the case on alternative grounds.  See Hernández II, 589 U. S., at ___–___ (slip op., at 19–20).  Were the majority’s categorical rule of (non)extraterritoriality etched in stone, we could have disposed of Hernández the first time around in a few short sentences.
+
+															Nor do the cases that the majority cites support an absolute rule.  See ante, at 3.  The exhaustive review of our precedents that we conducted in Boumediene v. Bush, 553 U.S. 723 (2008), pointed to the opposite conclusion.  In Boumediene, we rejected the Government’s argument that our decision in Johnson v. Eisentrager,
+
+339 U.S. 763 (1950), “adopted a formalistic” test “for determining the reach” of constitutional protection to foreign citizens on foreign soil.  553 U. S., at 762.  This is to say, we rejected the position that the majority propounds today.  See ante, at 4, and n. (quoting Eisentrager at length).  Its “constricted reading” of Eisentrager and our other precedents is not the law.  See Boumediene, 553 U. S., at 764; see also, e.g., Neuman, Understanding Global Due Process, 23 Geo. Immigration L. J. 365, 400 (2009) (describing our cases as rejecting any absolute view).
+
+															The law, we confirmed in Boumediene, is that constitutional “questions of extraterritoriality turn on objective factors and practical concerns” present in a given case, “not formalism” of the sort the majority invokes today.  553 U. S., at 764.  Those considerations include the extent of de facto U. S. Government control (if any) over foreign territory.  See ante, at 4.  But they also include the nature of the constitutional protection sought, how feasible extending it would be in a given case, and the foreign citizen’s status vis-à-vis the United States, among other pertinent circumstances that might arise.  553 U. S., at 766; see also United States v. Verdugo-Urquidez,
+
+494 U.S. 259, 278 (1990) (Kennedy, J., concurring) (providing the decisive fifth vote for rejecting a foreign citizen’s claim to constitutional protection on foreign soil outside U. S. control because “[t]he conditions and considerations of this case would make adherence to the
+ 
+Fourth Amendment’s warrant requirement impracticable and anomalous” (emphasis added)).  Our precedents reject absolutism.  Indeed, even our most sweeping statements about foreign citizens’ (lack of ) constitutional rights while outside U. S. Territory have come with limits.  See, e.g., Landon v. Plasencia,
+
+459 U.S. 21, 32 (1982) (noting that “an alien seeking initial admission to” this country “has no constitutional rights regarding his application” (emphasis added)); Kleindienst v. Mandel,
+
+408 U.S. 753, 762 (1972) (similar).
+
+															There is wisdom in our past restraint.  Situations where a foreign citizen outside U. S. Territory might fairly assert constitutional rights are not difficult to imagine.  Long-term permanent residents are “foreign citizens.”  Does the Constitution therefore allow American officials to assault them at will while “outside U. S. territory”?  Many international students attend college in the United States.  Does the
+ 
+First Amendment permit a public university to revoke their admission based on an unpopular political stance they took on social media while home for the summer?  Foreign citizens who have never set foot in the United States, for that matter, often protest when Presidents travel overseas.  Does that mean Secret Service agents can, consistent with our Constitution, seriously injure peaceful protestors abroad without any justification?
+
+															We have never purported to give a single “bedrock” answer to these or myriad other extraterritoriality questions that might arise in the future.  To purport to do so today, in a case where the question is not presented and where the matter is not briefed, is in my view a serious mistake.
+
+															And there is no need to set forth an absolute rule here.  Respondents have conceded that their foreign affiliates lack
+ 
+First Amendment rights of their own while acting abroad.  See ante, at 3.  If in spite of everything else, the majority considers this point material to its decision, all that need be said is: “We accept respondents’ concession and proceed on that basis.”  To say so much more “run[s] contrary to the fundamental principal of judicial restraint,” a principle that applies with particular force to constitutional interpretation.  Washington State Grange v. Washington State Republican Party,
+
+552 U.S. 442, 450 (2008); see also, e.g., Lyng v. Northwest Indian Cemetery Protective Assn.,
+
+485 U.S. 439, 445 (1988); Three Affiliated Tribes of Fort Berthold Reservation v. Wold Engineering, P. C.,
+
+467 U.S. 138, 158 (1984); United States v. Raines,
+
+362 U.S. 17, 21 (1960); Liverpool, New York & Philadelphia S. S. Co. v. Commissioners of Emigration,
+
+113 U.S. 33, 39 (1885).
+
+															B
+
+															The majority’s second supposedly “bedrock principle” is that “separately incorporated organizations are separate legal units with distinct legal rights and obligations.”  Ante, at 5.  Sometimes true, sometimes not.  This baseline rule gives way in many contexts, and our
+ 
+First Amendment precedents (including AOSI I ) refute any suggestion that a workaday principle of corporate law somehow resolves the constitutional issue here in dispute.
+
+															As the majority acknowledges, corporate law itself permits courts to pierce or otherwise disregard the corporate veil in a variety of circumstances.  See ante, at 5.  Those narrow exceptions, however, are not the only time the law looks past corporate formalities.  For instance, we have treated “several nominally separate business entities” as “a single employer” for purposes of federal labor law.  Radio & Television Technicians v. Broadcast Service of Mobile, Inc.,
+
+380 U.S. 255, 256 (1965) (per curiam).  Earlier this Term, we reaffirmed that one corporate entity may sometimes invoke the right of another, legally separate entity to compel arbitration.  See GE Energy Power Conversion France SAS v. Outokumpu Stainless USA, LLC, 590 U. S. ___, ___ (2020) (slip op., at 4).  And these are far from the only relevant examples.  See, e.g., American Needle, Inc. v. National Football League,
+
+560 U.S. 183, 196 (2010) (observing that, in many antitrust cases, corporate formalities are “not determinative”).
+
+															More to the point, our
+ 
+First Amendment precedents leave no doubt that corporate formalities have little to say about the issue now before us.  We have made clear again and again (and again) that speech may be attributed across corporate lines in the
+ 
+First Amendment context—including in our previous opinion in this very case.  See AOSI I, 570 U. S., at 219 (concluding that speech uttered involuntarily by legally separate affiliates may be attributed to respondents if the affiliates are “clearly identified” with respondents); League of Women Voters, 468 U. S., at 400 (observing that funding conditions that restrict speech can survive constitutional scrutiny if the speaker may “make known its views on matters of public importance through” a legally separate affiliate—and if not, not); Regan, 461 U. S., at 544 (similar); Rust, 500 U. S., at 196–198 (similar); Velazquez, 531 U. S., at 546–547 (similar).  And these precedents further establish that merely requiring speakers to work through affiliates is “not unduly burdensome” and can therefore cure, rather than create,
+ 
+First Amendment concerns.  Regan, 461 U. S., at 545, n. 6.  Contra, ante, at 8 (suggesting that such a requirement would be unconstitutional).  Small wonder the majority can muster only two context-specific and statute-specific cases—one addressing the Foreign Sovereign Immunities Act, the other involving the Racketeer Influence and Corrupt Organizations Act—as affirmative support for its conclusion that corporate formalities somehow control the
+ 
+First Amendment question before us.  See ante, at 5 (citing Dole Food Co. v. Patrickson,
+
+538 U.S. 468 (2003), and Cedric Kushner Promotions, Ltd. v. King,
+
+533 U.S. 158 (2001)).
+
+															The majority also attempts to distinguish the facts before us now from the facts that were before us last time.  It asserts that, in contrast to the affiliations we addressed in AOSI I, respondents’ “current affiliations with foreign organizations are their own choice.”  Ante, at 8.  There are two problems with this.  First, the description is not accurate.  Foreign governments—and increasingly, the U. S. Government—often require respondents to work through foreign affiliates.  See, e.g., App. 368, 373–375.  Second, even if respondents’ associations with foreign affiliates were voluntary, it would not solve the
+ 
+First Amendment problem.
+
+															In Wooley, for example, it was the drivers’ choice to own a car, but that did not mean they could be compelled to convey the Government’s message on their car’s license plate.  See 430 U. S., at 717.  And in Hurley, as explained, the Government would have violated the parade organizers’
+ 
+First Amendment rights just the same if it had compelled speech from a previously invited marcher, whether human, animal, or droid.  See supra, at 13–14.  Can the majority really mean to suggest otherwise, simply because the parade organizers’ decision to invite the marcher in the first place was “their own choice”?
+
+															C
+
+															The majority also makes two practical arguments, but neither justifies the
+ 
+First Amendment costs of its decision.
+
+															The majority first says that a ruling in respondents’ favor would disrupt American foreign policy by requiring the Government to fund “organizations that may not align with U. S. values.”  Ante, at 6.  We dismissed this same concern in AOSI I.  The Policy Requirement, we explained, does not merely help the Government “enlist the assistance of those with whom it already agrees.”  AOSI I, 570 U. S., at 218.  It pressures funding recipients “to adopt a particular belief.”  Ibid. (emphasis added).  All that is at stake here, in other words, is whether the Government may leverage the power of the purse to win converts to its cause.  That bare desire to regulate protected speech is far from any foreign policy interest that could conceivably overcome a speaker’s 
+ 
+First Amendment right to convey its message free from  government-compelled distortion.  Cf. New York Times Co. v. United States,
+
+403 U.S. 713 (1971) (per curiam).
+
+															The majority also fears that determining whether Government action creates a risk of speech misattribution (and with it speech distortion) is a “legally unmoored” standard rife with “difficult line-drawing exercises.”  Ante, at 8.  But we have drawn just this kind of line many times.  See, e.g., PruneYard, 447 U. S., at 87 (holding that “views expressed by members of the public” in a privately owned shopping mall “will not likely be identified with those of the owner”); Hurley, 515 U. S., at 572 (holding that a marcher’s message will likely be attributed to the parade organizer’s, since “every participating unit” in a parade “affects the [overall] message”); FAIR, 547 U. S., at 65 (holding that nothing about having military recruiters on campus “suggests that law schools agree with any speech by recruiters”).  I should think that the price of making difficult judgment calls is well worth paying to protect
+ 
+First Amendment rights.  See McCutcheon v. Federal Election Comm’n,
+
+572 U.S. 185, 209 (2014); Lloyd Corp. v. Tanner,
+
+407 U.S. 551, 570 (1972).  And “on the facts presented in this case,” at any rate, “the answer is clear.”  Id., at 570.  Enforcing the Policy Requirement violates respondents’
+ 
+First Amendment rights, just as it did before.
+
+															*  *  *
+
+															The Court today concludes that respondents’ foreign affiliates “do not have a
+ 
+First Amendment right to disregard the Policy Requirement.”  Ante, at 9.  Respondents have never argued otherwise.  Rather, throughout this litigation they have asserted their own
+ 
+First Amendment right to speak their mind, rather than the Government’s message.  Here, respondents claim
+ 
+First Amendment protection when they speak through foreign affiliates to address audiences abroad.  By denying respondents that protection, I fear the Court’s decision will seriously impede the countless American speakers who communicate overseas in a similar way. That weakens the marketplace of ideas at a time when the value of that marketplace for Americans, and for others, reaches well beyond our shores.  With respect, I dissent.
+													

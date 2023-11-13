@@ -1,0 +1,63 @@
+::SCDB_caseID:: 2019-020
+::decision_cite:: 18-1150
+::decision_name::  Georgia v. Public.Resource.Org, Inc.
+::decision_year:: 2020
+::opinion_author:: Ginsburg
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–1150
+
+															_________________
+
+															GEORGIA, et al., PETITIONERS v. PUBLIC.RESOURCE.ORG, INC.
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[April 27, 2020]
+
+															
+
+															Justice Ginsburg, with whom Justice Breyer joins, dissenting.
+
+															Beyond doubt, state laws are not copyrightable.  Nor are other materials created by state legislators in the course of performing their lawmaking responsibilities, e.g., legislative committee reports, floor statements, unenacted bills.  Ante, at 8–9.  Not all that legislators do, however, is ineligible for copyright protection; the government edicts doctrine shields only “works that are (1) created by judges and legislators (2) in the course of their judicial and legislative duties.”  Ante, at 9 (emphasis added).  The core question this case presents, as I see it: Are the annotations in the Official Code of Georgia Annotated (OCGA) done in a legislative capacity?  The answer, I am persuaded, should be no.
+
+															To explain why, I proceed from common ground.  All agree that headnotes and syllabi for judicial opinions—both a kind of annotation—are copyrightable when created by a reporter of decisions, Callaghan v. Myers,
+
+128 U.S. 617, 645–650 (1888), but are not copyrightable when created by judges, Banks v. Manchester,
+
+128 U.S. 244, 253 (1888).  That is so because “[t]he whole work done by . . . judges,” ibid., including dissenting and concurring opinions, ranks as work performed in their judicial capacity.  Judges do not outsource their writings to “arm[s]” or “adjunct[s],” cf. ante, at 9, 11, to be composed in their stead.  Accordingly, the judicial opinion-drafting process in its entirety—including the drafting of headnotes and syllabi, in jurisdictions where that is done by judges—falls outside the reach of copyright protection.
+
+															One might ask: If a judge’s annotations are not copyrightable, why are those created by legislators?  The answer lies in the difference between the role of a judge and the role of a legislator.  “[T]o the judiciary” we assign “the duty of interpreting and applying” the law, Massachusetts v. Mellon,
+
+262 U.S. 447, 488 (1923), and sometimes making the applicable law, see Friendly, In Praise of Erie—and of the New Federal Common Law, 39 N. Y. U. L. Rev. 383 (1964).  See also Marbury v. Madison, 1 Cranch 137, 177 (1803) (“It is emphatically the province and duty of the judicial department to say what the law is.”).  In contrast, the role of the legislature encompasses the process of “making laws”—not construing statutes after their enactment.  Mellon, 262 U. S., at 488; see Patchak v. Zinke, 583 U. S. ___, ___ (2018) (plurality opinion) (slip op., at 5) (“[T]he legislative power is the power to make law.”).  The OCGA annotations, in my appraisal, do not rank as part of the Georgia Legislature’s lawmaking process for three reasons.
+
+															First, the annotations are not created contemporaneously with the statutes to which they pertain; instead, the annotations comment on statutes already enacted.  See, e.g., App. 268–269 (text of enacted laws are transmitted to the publisher for the addition of commentary); id., at 403–404 (publisher adds new case notes on a rolling basis as courts construe existing statutes).[1]  In short, annotating begins only after lawmaking ends.  This sets the OCGA annotations apart from uncopyrightable legislative materials like committee reports, generated before a law’s enactment, and tied tightly to the task of law-formulation.
+
+															Second, the OCGA annotations are descriptive rather than prescriptive.  Instead of stating the legislature’s perception of what a law conveys, the annotations summarize writings in which others express their views on a given statute.  For example, the OCGA contains “case annotations” for “[a]ll decisions of the Supreme Court of Georgia and the Court of Appeals of Georgia and all decisions of the federal courts in cases which arose in Georgia construing any portion of the general statutory law of the state.”  Id., at 403.  Per the Code Revision Commission’s instructions, each annotation should “accurately reflect the facts, holding, and statutory construction” adopted by the court.  Id., at 404.  The annotations are neutrally cast; they do not opine on whether the summarized case was correctly decided.  See, e.g., OCGA §17–7–50 (2013) (case annotation summarizing facts and holdings of nine cases construing right to grand jury hearing).  This characteristic of the annotations distinguishes them from preenactment legislative materials that touch or concern the correct interpretation of the legislature’s work.
+
+															Third, and of prime importance, the OCGA annotations are “given for the purpose of convenient reference” by the public, §1–1–7 (2019); they aim to inform the citizenry at large, they do not address, particularly, those seated in legislative chambers.[2]  Annotations are thus unlike, for example, surveys, work commissioned by a legislature to aid in determining whether existing law should be amended.
+
+															The requirement that the statutory portions of the OCGA “shall be merged with annotations,” §1–1–1, does not render the annotations anything other than explanatory, referential, or commentarial material.  See Harrison Co. v. Code Revision Comm’n, 244 Ga. 325, 331, 260 S.E.2d 30, 35 (1979) (observation by the Supreme Court of Georgia that “inclusion of annotations in [the] ‘official Code’ ” does not “give the annotations any official weight”).[3]  Annotations aid the legal researcher, and that aid is enhanced when annotations are printed beneath or alongside the relevant statutory text.  But the placement of annotations in the OCGA does not alter their auxiliary, nonlegislative character.
+
+															*  *  *
+
+															Because summarizing judicial decisions and commentary bearing on enacted statutes, in contrast to, for example, drafting a committee report to accompany proposed legislation, is not done in a legislator’s law-shaping capacity, I would hold the OCGA annotations copyrightable and therefore reverse the judgment of the Court of Appeals for the Eleventh Circuit.
+Notes
+1
+ For example, OCGA §11–2A–213 was enacted, in its current form, in 1993.  See 1993 Ga. Laws p. 633.  The case notes contained in the OCGA summarize judicial decisions construing the statute years later.  See §11–2A–213 (2002) (citing Griffith v. Medical Rental Supply of Albany, Ga., Inc., 244 Ga. App. 120, 534 S.E.2d 859 (2000); Bailey v. Tucker Equip. Sales, Inc., 236 Ga. App. 289, 510 S.E.2d 904 (1999)). 
+
+2
+ Suppose a committee of Georgia’s legislature, to inform the public, instructs a staffer to write a guide titled “The Workways of the Georgia Legislature.”  The final text describing how the legislature operates is circulated to members of the legislature and approved by a majority.  Contrary to the Court’s decision, I take it that such a work, which entails no lawmaking, would be copyrightable. 
+
+3
+ That the Georgia Supreme Court described the Commission’s work as “within the sphere of legislative authority” for state separation-of-powers purposes, Harrison Co. v. Code Revision Comm’n, 244 Ga. 325, 330, 260 S.E.2d 30, 34 (1979), does not resolve the federal Copyright Act question before us.  Cf. Yates v. United States,
+
+574 U.S. 528, 537 (2015) (plurality opinion) (“In law as in life, . . . the same words, placed in different contexts, sometimes mean different things.”); Cook, “Substance” and “Procedure” in the Conflict of Laws, 42 Yale L. J. 333, 337 (1933) (“The tendency to assume that a word which appears in two or more legal rules, and so in connection with more than one purpose, has and should have precisely the same scope in all of them, runs all through legal discussions.  It has all the tenacity of original sin and must constantly be guarded against.”). 
+
+

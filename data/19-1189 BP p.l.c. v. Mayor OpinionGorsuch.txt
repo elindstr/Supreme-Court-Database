@@ -1,0 +1,221 @@
+::SCDB_caseID:: 2020-039
+::decision_cite:: 19-1189
+::decision_name::  BP p.l.c. v. Mayor and City Council of Baltimore
+::decision_year:: 2021
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–1189
+
+															_________________
+
+															BP P.L.C., et al., PETITIONERS v. MAYOR AND CITY COUNCIL OF BALTIMORE
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															[May 17, 2021]
+
+															
+
+															Justice Gorsuch delivered the opinion of the Court.
+
+															This case began when Baltimore’s mayor and city council sued various energy companies for promoting fossil fuels while allegedly concealing their environmental impacts.  But the merits of that claim have nothing to do with this appeal.  The only question before us is one of civil procedure:  Does
+
+28 U. S. C. §1447(d) permit a court of appeals to review any issue in a district court order remanding a case to state court where the defendant premised removal in part on the federal officer removal statute, §1442, or the civil rights removal statute, §1443?
+
+															I
+
+															Three years ago, Baltimore’s mayor and city council (we refer to them collectively as the City) filed suit in Maryland state court.  The City’s complaint included a number of state-law causes of action, but most centered on the defendants’ alleged failure to warn about the dangers of their products—and the injuries the City says it suffered as a result.
+
+															Soon after the City filed suit, the defendants removed the case to federal court.  In support of their action, the defendants invoked a variety of federal statutes.  Most relevant for our purposes, they pointed to a provision that promises a federal forum for any action against an “officer (or any person acting under that officer) of the United States or of any agency thereof, in an official or individual capacity, for or relating to any act under color of such office.”
+
+28 U. S. C. §1442(a)(1).
+
+															This statute authorized the removal of the City’s suit, the defendants said, because some of their challenged exploration, drilling, and production operations took place at the federal government’s behest.  The companies also identified a number of other statutes that they believed independently supported removal:  the federal-question statute,
+
+28 U. S. C. §1331; the Outer Continental Shelf Lands Act,
+
+92Stat.
+657,
+
+43 U. S. C. §1349(b); the admiralty jurisdiction statute,
+
+28 U. S. C. §1333; and the bankruptcy removal statute,
+
+28 U. S. C. §1452.
+
+															Once the case arrived in federal court, the City filed a motion seeking to have it remanded back to state court.  The City argued that none of the companies’ grounds for removal justified retaining federal jurisdiction.  In an extensive order, the district court reviewed each of the defendants’ cited bases for removal before ultimately agreeing with the City and remanding the case to state court.
+
+															Normally that would have ended the matter.  Since at least 1949, federal appellate courts have generally lacked the power to review a district court order remanding a case to state court.  See Act of May 24, 1949, §84,
+
+63Stat.
+102.  But like most rules, this one has accrued exceptions with time.  In the Civil Rights Act of 1964, Congress created an exception allowing appellate review for cases “ ‘removed pursuant to’ ”
+
+28 U. S. C. §1443, a provision that guarantees a federal forum for certain federal civil rights claims.  See §901,
+
+78Stat.
+266.  So before a civil rights case is returned to state court, a federal court of appeals usually can intervene to test the soundness of the district court’s remand order.
+
+															In 2011, Congress added a similar exception for suits against federal officers or agencies removed pursuant to
+
+28 U. S. C. §1442.  See Removal Clarification Act, §2,
+
+125Stat.
+545–546.  Here, too, Congress has deemed it appropriate to allow appellate review before a district court may remand a case to state court.  All told, then, the law as it stands today provides that “[a]n order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.”
+
+28 U. S. C. §1447(d).
+
+															After the district court ordered the City’s case remanded to state court, the defendants sought to appeal—and this much everyone seemed to agree they were free to do.  After all, the defendants had relied on the federal officer removal statute found in §1442 when they removed the case to federal court—and the current version of §1447(d) permits an appeal in just these circumstances.  The real trouble began only when it came to the scope of the defendants’ appeal.  The Fourth Circuit read §1447(d) as authorizing it to review only the part of the district court’s remand order discussing §1442.  As a result, the court of appeals refused to consider whether the district court may have erred when it rejected the defendants’ other grounds for removal.  Finding (only) the district court’s §1442 analysis sound, the Fourth Circuit proceeded to affirm.  952 F.3d 452 (2020).
+
+															This ruling highlighted a circuit split.  The Seventh Circuit, for example, has reasoned that §1447(d) extends appellate review to the whole of an “ ‘order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443.’ ”  See Lu Junhong v. Boeing Co., 792 F.3d 805, 811 (2015).  On that reading of the statute, appellate review is not confined to a defendant’s removal arguments under the federal officer and civil rights removal statutes.  Instead, a court of appeals may review the merits of all theories for removal that a district court has rejected.  Because the courts of appeals disagree over the scope of their appellate authority under §1447(d), we agreed to take this case to resolve the question.  591 U. S. ___ (2020).
+
+															II
+
+															A
+
+															When called on to interpret a statute, this Court generally seeks to discern and apply the ordinary meaning of its terms at the time of their adoption.  Niz-Chavez v. Garland, 593 U. S. ___, ___ (2021) (slip op., at 4).  Here, the relevant portion of §1447(d) provides that “an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal.”
+
+															To our minds, the first telling clue lies in the statute’s use of the term “order.”  Whether we look to the time of §1447(d)’s adoption or amendment, a judicial “order” meant then what it means today:  a “written direction or command delivered by . . . a court or judge.”[1]  So an “order remanding a case” was (and is) a formal command from a district court returning the case to state court.  In this case, the district court’s remand order rejected all of the defendants’ grounds for removal.  For good reason too.  Normally, federal jurisdiction is not optional; subject to exceptions not relevant here, “courts are obliged to decide cases within the scope of federal jurisdiction” assigned to them.  Sprint Communications, Inc. v. Jacobs,
+
+571 U.S. 69, 72 (2013).  So the district court wasn’t at liberty to remove the City’s case from its docket until it determined that it lacked any authority to entertain the suit.  See, e.g., Carnegie-Mellon Univ. v. Cohill,
+
+484 U.S. 343, 356 (1988).  From this it would seem to follow that, when a district court’s removal order rejects all of the defendants’ grounds for removal, §1447(d) authorizes a court of appeals to review each and every one of them.  After all, the statute allows courts of appeals to examine the whole of a district court’s “order,” not just some of its parts or pieces.
+
+															Of course, §1447(d) extends appellate review only to some orders—those remanding a “case . . . removed pursuant to section 1442 or 1443.”  But it’s hard to see how that qualification changes the calculus.  To remove a case, a defendant must comply with
+
+28 U. S. C. §1446.  Essentially, that statute requires the defendant to provide affected parties and courts with a notice stating its grounds for removal.  §§1446(a), (d).  The combination of these actions “effect[s] the removal.”  §1446(d).  To remove a case “pursuant to” §1442 or §1443, then, just means that a defendant’s notice of removal must assert the case is removable “in accordance with or by reason of ” one of those provisions.[2]  Here, everyone admits the defendants’ notice of removal did just that by citing §1442 as one of its grounds for removal.  Once that happened and the district court ordered the case remanded to state court, the whole of its order became reviewable on appeal.
+
+															Nor does it matter if (as here) a defendant removes a case “pursuant to” multiple federal statutes.  Often enough, parties act pursuant to a variety of legal authorities.  A criminal defendant may suggest he is eligible for sentencing relief pursuant to multiple provisions.  E.g., Pepper v. United States,
+
+562 U.S. 476, 481, n. 1 (2011).  A civil litigant might file a complaint pursuant to more than one statute.  E.g., Rimini Street, Inc. v. Oracle USA, Inc., 586 U. S. ___, ___ (2019) (slip op., at 2).  Likewise, a party may assert multiple grounds for removing a case to federal court—as the defendants did here.  Indeed, the general removal statute contemplates just this possibility when, in contrast, it speaks of actions “removed solely under” the diversity jurisdiction statute.  §1446(b)(2)(A) (emphasis added).  Yet, the particular provision at issue before us does not contain any comparable language like that limiting appellate review solely to issues under §1442 or §1443.  Instead and again, §1447(d) permits appellate review of the district court’s remand order—without any further qualification.
+
+															B
+
+															How does the City reply?  It suggests that exceptions to statutory rules should be construed narrowly—and that our reading of §1447(d)’s exception to its general rule against appellate review is too permissive.
+
+															We disagree.  As a preliminary matter, the factual premise underlying the City’s argument is surely contestable.  One might just as easily conceive of §1447(d)’s usual rule barring appellate review as itself an exception to the even more general rule that final district court orders are appealable under
+
+28 U. S. C. §1291.  More fundamentally, the City’s legal premise is also in error.  This Court has “ ‘no license to give statutory exemptions anything but a fair reading.’ ”  Food Marketing Institute v. Argus Leader Media, 588 U. S. ___, ___ (2019) (slip op., at 11) (brackets omitted).  Exceptions and exemptions are no less part of Congress’s work than its rules and standards—and all are worthy of a court’s respect.  That a law might temper its pursuit of one goal by accommodating others can come as no surprise.  Often legislation becomes possible only because of such compromises.  Often lawmakers tread in areas fraught with competing social demands where everyone agrees trade-offs are required.  Whatever the reason for a legislative compromise, we have no right to place our thumbs on one side of the scale or the other.  Henson v. Santander Consumer USA Inc., 582 U. S. ___, ___ (2017) (slip op., at 9).
+
+															Alternatively, the City suggests that, if Congress had wanted appellate courts to review every issue in a remand order, it would have said as much.  Sometimes, the City observes, Congress does exactly that, expressly directing courts to resolve “all” legal issues in certain cases.  See Brief for Respondent 21 (citing
+
+18 U. S. C. §3595(c)(1);
+
+5 U. S. C. §1508;
+
+38 U. S. C. §7104(a); and
+
+33 U. S. C. §1320(f )).  But the defendants remind us that Congress also knows how to limit appellate review to particular “questions” rather than the whole of a district court’s “order”; sometimes it does just that too.  See Brief for Petitioners 18 (citing
+
+28 U. S. C. §1295(a)(7);
+
+38 U. S. C. §7292(b)(1);
+
+42 U. S. C. §8514(a)(2);
+
+52 U. S. C. §30110;
+
+28 U. S. C. §1254(2);
+
+50 U. S. C. §1803(j)).  In the end, all of the parties’ fencing about language Congress didn’t use persuades us of only one thing—that we are best served by focusing on the language it did employ.
+
+															All of which leaves the City to offer a different argument from a new direction.  Now, the City contends, the defendants never really removed this case pursuant to §1442.  On this account, a case is not “removed pursuant to section 1442 or 1443” until a federal court (district or appellate) holds that one of these statutes authorizes removal.  Because that never happened here, the City reasons, the defendants were not entitled to any appellate review.  But this argument isn’t only novel—the City didn’t pursue it below and no court of appeals has adopted it.  It is also mistaken.  As we’ve seen, it is generally a defendant’s actions under §1446 that “effect the removal.”  Once a defendant complies with §1446, a state court may not proceed “further unless and until the case is remanded.”
+
+28 U. S. C. §1446(d).  That’s why normally it’s the plaintiff who must seek judicial intervention if it wishes to have the matter remanded to state court—just as the City did here.
+
+															III
+
+															A
+
+															 To the extent any doubt remains about how best to read §1447(d), we believe our most analogous precedent resolves it.  In Yamaha Motor Corp., U. S. A. v. Calhoun,
+
+516 U.S. 199, 204 (1996), this Court faced a dispute about the meaning of
+
+28 U. S. C. §1292(b).  That statute allows a district court to certify “an order” to the court of appeals if it “involves a controlling question of law as to which there is substantial ground for difference of opinion,” and if “an immediate appeal from the order may materially advance the ultimate termination of the litigation.”  In Yamaha, the Court asked the parties to address whether §1292(b) authorizes appellate courts to review any question contained in the district court’s order—or whether it allows those courts to address only the “controlling question of law” the district court certified for further review.
+
+															The answer there is telling here.  The Court held that, “[a]s the text of §1292(b) indicates, appellate jurisdiction applies to the order certified to the court of appeals, and is not tied to the particular question formulated by the district court.”  516 U. S., at 205.  Although appellate courts “may not reach beyond the certified order to address other orders made in the case,” they “may address any issue fairly included within the certified order because it is the order that is appealable, and not the controlling question identified by the district court.”  Ibid. (internal quotation marks omitted).  Exactly the same might be said of our case: “[B]ecause it is the [district court’s removal] order that is appealable,” a court of appeals “may address any issue fairly included within” it.  Ibid. (internal quotation marks omitted).
+
+															The City seeks to distinguish Yamaha but we don’t see how we fairly might.  The City observes that §1292(b) allows an appeal from an order that “involves” a controlling question of law.  By using the word “involves,” the City submits, Congress sought to make plain that the reviewable issues on appeal can be broader than the certified controlling question of law.  And, the City stresses, the word “involves” does not appear in §1447(d).  But that is beside the point.  Nothing in Yamaha turned on the presence of the word “involves” in §1292(b).  Instead, the Court’s reasoning centered on the statute’s use of the word “order.”  By allowing appellate courts to review a district court’s “order,” the Court explained, Congress had allowed review of any issue fairly encompassed within it.  That reasoning applies with no less force here.
+
+															B
+
+															If Yamaha does much to undermine its argument, the City seeks to draw support from other of this Court’s cases.  Principally, it points to Murdock v. Memphis, 20 Wall. 590 (1875), and United States v. Keitel,
+
+211 U.S. 370 (1908).  But both decisions were driven by concerns unique to their statutory contexts; their reasoning is not easily generalizable to other jurisdictional statutes; and neither comes nearly as close to the mark as Yahama.
+
+															Start with Murdock.  That case involved
+
+28 U. S. C. §1257, a statute permitting this Court to review certain state court “judgments or decrees.”  Concerned with the constitutional implications of allowing federal courts to review questions of state law, the Court in Murdock construed the statute as authorizing this Court to examine only issues of federal law contained within state court judgments and decrees.  See 20 Wall., at 630–632.  Along the way, the Court took pains to reserve the question whether Congress could ever authorize this Court to review matters of state law already definitively resolved by state courts.  Id., at 633.  By contrast, no comparable concern with the Constitution’s federal structure exists here.  At some level, of course, removal practices implicate questions of comity between federal and state authorities.  But today we are asked to decide only whether a federal court of appeals may review one or many federal law rulings issued by an inferior federal court.  That comparatively humble question lies nowhere near Murdock’s bounds.
+
+															Keitel involved the now-repealed Criminal Appeals Act.  That law authorized the government to appeal adverse criminal “decision[s] or judgment[s]” based on certain enumerated grounds, such as the invalidity of a federal statute.  See ch. 2564,
+
+34Stat.
+1246.  For its part, the Court held that this language allowed the government to appeal only the statutorily enumerated questions.  211 U. S., at 398–399.  Like Murdock, the Court in Keitel rested heavily on the statute’s context in reaching its conclusion.  A new entitlement allowing the government to appeal an adverse criminal judgment was, in the Court’s view, “exceptional.”  211 U. S., at 399.  Meanwhile, here again, nothing in our case implicates that concern.
+
+															Closer to home, the City directs our attention to Carlsbad Technology, Inc. v. HIF Bio, Inc.,
+
+556 U.S. 635, 638 (2009), and Thermtron Products, Inc. v. Hermansdorfer,
+
+423 U.S. 336, 345–346 (1976).  Those cases addressed the first clause of §1447(d), which generally bars appellate review of remand orders.  Carlsbad and Thermtron held this bar applies only to remand orders premised on a lack of subject matter jurisdiction or a defect in removal procedure; other remand orders remain appealable.  See Carlsbad, 556 U. S., at 638.  The Court said this conclusion was necessary to make sense of §1447(d)’s interaction with §1447(c).  See id., at 638.
+
+															None of this, however, helps the City’s cause.  Some have questioned Carlsbad and Thermtron.  See, e.g., 556 U. S., at 642 (Stevens, J., concurring); id., at 642–643 (Scalia, J., concurring); Kakarala v. Wells Fargo Bank, N. A.,
+
+578 U.S. 914 (2016) (Thomas, J., dissenting from denial of certiorari).  But even taken on their own terms, both decisions permitted rather than foreclosed appellate review of certain remand orders.  And the fact that this Court deemed certain orders appealable under the statute’s first clause simply does not settle, one way or another, the scope of appellate review under the statute’s second clause.
+
+															Having exhausted our cases, the City seeks support in lower court decisions.  It draws our attention to 2011 when Congress amended §1447(d) to authorize appellate review of remand orders in cases removed under the federal officer statute.  By that time, the City says, a number of courts of appeals had already interpreted the prior version of §1447(d) that allowed appeals from remand orders in cases removed under the Civil Rights Act.  And many of those courts had read §1447(d) as permitting them to review only the part of a remand order addressing the civil rights removal ground.  From this fact, the City reasons, it follows that Congress implicitly ratified and endorsed parallel limits on appellate review when it adopted its 2011 amendments.
+
+															Again, we do not see it.  It seems most unlikely to us that a smattering of lower court opinions could ever represent the sort of “judicial consensus so broad and unquestioned that we must presume Congress knew of and endorsed it.”  Jama v. Immigration and Customs Enforcement,
+
+543 U.S. 335, 349 (2005).  And it certainly cannot do so where, as here, “the text and structure of the statute are to the contrary.”  Id., at 352.  This Court bears no “warrant to ignore clear statutory language on the ground that other courts have done so.”  Milner v. Department of Navy,
+
+562 U.S. 562, 576 (2011).  Our duty is to follow the law as we find it, not to follow rotely whatever lower courts once might have said about it.
+
+															Separately, the City worries that our interpretation might upset lower court decisions on a different question.  The City points out that, when a district court remands a case, it may require the defendant to pay certain of the plaintiff ’s fees and costs.  See
+
+28 U. S. C. §1447(c).  While §1447(d) generally precludes appellate review of remand orders, many lower courts have suggested that these §1447(c) fee and cost awards are nonetheless reviewable on appeal.  The City contends that our reading of §1447(d) could put an end to all that.  It could, the City reasons, because if an “order remanding a case” really means the whole order, then the statute may bar appellate review of fee and cost awards contained within those orders.  That much, however, does not necessarily follow.  Often enough fee and cost awards are treated as collateral to the merits and independently appealable.  See, e.g., Budinich v. Becton Dickinson & Co.,
+
+486 U.S. 196, 200 (1988).  In any event, the question is not presented in this case and we do not purport to resolve it.
+
+															IV
+
+															The City concludes by asking us to consider the policy consequences that follow from giving the text its ordinary meaning.  Barring appellate review of remand orders, the City says, serves the worthy goal of allowing the parties to get on with litigating the merits of their cases in state court.  Meanwhile, the City submits, allowing exceptions to this rule promises only to impair that efficiency interest.
+
+															The difficulties with this argument are by now familiar.  As this Court has explained, “even the most formidable” policy arguments cannot “overcome” a clear statutory directive.  Kloeckner v. Solis,
+
+568 U.S. 41, 56, n. 4 (2012).  Besides, everyone agrees that the statute tempers its obvious concern with efficiency when it comes to cases removed pursuant to §1442 or §1443.  For that subset of cases, Congress has expressed a heightened concern for accuracy, authorized appellate review, and accepted the delay it can entail.  The fact that the law as written allows appellate courts to examine all (and not just some) removal grounds in these cases perhaps just demonstrates, as Judge Easterbrook has suggested, a congressional judgment that the “marginal delay from adding . . . extra issue[s] to a case where the time for briefing, argument, and decision has already been accepted is likely to be small.”  See Lu Junhong, 792 F. 3d, at 813.
+
+															In fact, allowing a fuller form of appellate review may actually help expedite some appeals.  Suppose a court of appeals finds the §1442 or §1443 issue a difficult and close one, but believes removal is clearly and easily warranted on another basis.  Allowing the court to address that easier question and avoid harder ones may facilitate a prompter resolution of the proceeding for all involved.  At the least, a rational Congress could have thought that considerations like these warranted allowing a court of appeals the power to review the whole of a district court’s remand order rather than just certain select aspects of it.
+
+															That leaves the City to argue about different consequences.  It warns that our interpretation will invite gamesmanship:  Defendants may frivolously add §1442 or §1443 to their other grounds for removal, all with an eye to ensuring appellate review down the line if the case is remanded.  But the answers here too are familiar.  Once more, this Court’s task is to discern and apply the law’s plain meaning as faithfully as we can, not “to assess the consequences of each approach and adopt the one that produces the least mischief.”  Lewis v. Chicago,
+
+560 U.S. 205, 217 (2010).
+
+															Nor is it as if Congress has been blind to the City’s concerns.  As the City itself acknowledges, thanks to §1447(c) a district court may order a defendant to pay the plaintiff ’s costs and expenses (including attorney’s fees) if it frivolously removes a case from state court.  Additionally, the Federal Rules of Civil Procedure allow courts to sanction frivolous arguments made in virtually any context.  Rules 11(b)–(c).  Congress, thus, has already addressed the City’s concerns in other statutes and rules—just not in §1447(d).  To the extent that experience may prove these other measures insufficient, Congress is of course free to revise its work anytime.  But that forum, not this one, is the proper place for such lawmaking.
+
+															*
+
+															The Fourth Circuit erred in holding that it was powerless to consider all of the defendants’ grounds for removal under §1447(d).  In light of that error, the defendants ask us to consider some of those additional grounds ourselves.  That task, however, does not implicate the circuit split that we took this case to resolve and we believe the wiser course is to leave these matters for the Fourth Circuit to resolve in the first instance.  See Brownback v. King, 592 U. S. ___, ___, n. 4 (2021) (slip op., at 5, n. 4).  The judgment of the Fourth Circuit is vacated, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															So ordered.
+
+															
+
+															Justice Alito took no part in the consideration or decision of this case.
+Notes
+1
+ Black’s Law Dictionary 1322 (11th ed. 2019); see also id., at 1206 (9th ed. 2009); id., at 1247 (rev. 4th ed. 1968) (“Every direction of a court or judge made or entered in writing, and not included in a judgment”); id., at 1247 (4th ed. 1951) (same); id., at 1298 (3d ed. 1933) (same). 
+
+2
+ Black’s Law Dictionary, at 1401 (rev. 4th ed. 1968); id., at 1401 (4th ed. 1951); see also SAS Institute, Inc. v. Iancu, 584 U. S. ___, ___ (2018) (slip op., at 7) (“in accordance with”); Black’s Law Dictionary, at 1493 (11th ed. 2019) (“[i]n compliance with; in accordance with; under”; “[a]s authorized by”). 
+
+

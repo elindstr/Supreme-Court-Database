@@ -1,0 +1,51 @@
+::SCDB_caseID:: 2018-045
+::decision_cite:: 17-1672
+::decision_name::  United States v. Haymond
+::decision_year:: 2019
+::opinion_author:: Breyer
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1672
+
+															_________________
+
+															UNITED STATES, PETITIONER v. ANDRE RALPH HAYMOND
+
+															on writ of certiorari to the united states court of appeals for the tenth circuit
+
+															[June 26, 2019]
+
+															
+
+															Justice Breyer, concurring in the judgment.
+
+															I agree with much of the dissent, in particular that the role of the judge in a supervised-release proceeding is consistent with traditional parole.  See post, at 9–10 (opinion of Alito, J.).  As
+
+18 U. S. C. §3583 makes clear, Congress did not intend the system of supervised release to differ from parole in this respect.  And in light of the potentially destabilizing consequences, I would not transplant the Apprendi line of cases to the supervised-release context.  See post, at 4–5; cf. Alleyne v. United States,
+
+570 U.S. 99, 122 (2013) (Breyer, J., concurring in part and concurring in judgment); United States v. Booker,
+
+543 U.S. 220, 327 (2005) (Breyer, J., dissenting in part); Blakely v. Washington,
+
+542 U.S. 296, 329–330 (2004) (Breyer, J., dissenting); Harris v. United States,
+
+536 U.S. 545, 569–570 (2002) (Breyer, J., concurring in part and concurring in judgment); Apprendi v. New Jersey,
+
+530 U.S. 466, 555 (2000) (Breyer, J., dissenting).
+
+															Nevertheless, I agree with the plurality that this specific provision of the supervised-release statute, §3583(k), is unconstitutional.  Revocation of supervised release is typically understood as “part of the penalty for the initial offense.”  Johnson v. United States,
+
+529 U.S. 694, 700 (2000).  The consequences that flow from violation of the conditions of supervised release are first and foremost considered sanctions for the defendant’s “breach of trust”—his “failure to follow the court-imposed conditions” that followed his initial conviction—not “for the particular conduct triggering the revocation as if that conduct were being sentenced as new federal criminal conduct.”  United States Sentencing Commission, Guidelines Manual ch. 7, pt. A, intro. 3(b) (Nov. 2018); see post, at 12–13.  Consistent with that view, the consequences for violation of conditions of supervised release under §3583(e), which governs most revocations, are limited by the severity of the original crime of conviction, not the conduct that results in revocation.  See §3583(e)(3) (specifying that a defendant may as a consequence of revocation serve no “more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, [no] more than 3 years in prison if . . . a class B felony,” and so on).
+
+															Section 3583(k) is difficult to reconcile with this understanding of supervised release.  In particular, three aspects of this provision, considered in combination, lead me to think it is less like ordinary revocation and more like punishment for a new offense, to which the jury right would typically attach.  First, §3583(k) applies only when a defendant commits a discrete set of federal criminal offenses specified in the statute.  Second, §3583(k) takes away the judge’s discretion to decide whether violation of a condition of supervised release should result in imprisonment and for how long.  Third, §3583(k) limits the judge’s discretion in a particular manner: by imposing a manda-tory minimum term of imprisonment of “not less than 5 years” upon a judge’s finding that a defendant has “commit[ted] any” listed “criminal offense.”
+
+															Taken together, these features of §3583(k) more closely resemble the punishment of new criminal offenses, but without granting a defendant the rights, including the jury right, that attend a new criminal prosecution.  And in an ordinary criminal prosecution, a jury must find facts that trigger a mandatory minimum prison term.  Alleyne, 570 U. S., at 103.
+
+															Accordingly, I would hold that §3583(k) is unconstitutional and remand for the Court of Appeals to address the question of remedy.  Because this is the course adopted by the plurality, I concur in the judgment.
+													

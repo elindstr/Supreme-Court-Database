@@ -1,0 +1,43 @@
+::SCDB_caseID:: 2018-037
+::decision_cite:: 17-1307
+::decision_name::  Obduskey v. McCarthy & Holthus LLP
+::decision_year:: 2019
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1307
+
+															_________________
+
+															DENNIS OBDUSKEY, PETITIONER v. McCARTHY & HOLTHUS LLP
+
+															on writ of certiorari to the united states court of appeals for the tenth circuit
+
+															[March 20, 2019]
+
+															Justice Sotomayor, concurring.
+
+															I join the Court’s opinion, which makes a coherent whole of a thorny section of statutory text.  I write separately to make two observations: First, this is a close case, and today’s opinion does not prevent Congress from clarifying this statute if we have gotten it wrong.  Second, as the Court makes clear, “enforcing a security interest does not grant an actor blanket immunity from the” mandates of the Fair Debt Collection Practices Act (FDCPA),
+
+15 U. S. C. §1692 et seq.  See ante, at 13–14.
+
+															This case turns on two sentences that, put together, read in relevant part:
+
+															“[1] The term ‘debt collector’ means any person . . . in any business the principal purpose of which is the collection of any debts, or who regularly collects or attempts to collect, directly or indirectly, debts . . . . [2] For the purpose of section 1692f(6) of this title, such term also includes any person . . . in any business the principal purpose of which is the enforcement of security interests.”  §1692a(6).
+
+															As the Court recognizes, if the first sentence were the only text before us, nonjudicial foreclosure plainly would qual- ify as debt collection—after all, foreclosure itself “is a means of collecting a debt,” ante, at 7, whether “directly or indirectly,” §1692a(6).  That may be because a house can be sold—thus satisfying the debt with the proceeds—but it may also be because the initiation of a foreclosure itself sends a clear message: “[P]ay up or lose your house.”  Brief for Petitioner 17; see Alaska Trustee, LLC v. Ambridge, 372 P.3d 207, 217–218 (Alaska 2016); Glazer v. Chase Home Finance LLC, 704 F.3d 453, 461 (CA6 2013).
+
+															The problem for Obduskey’s reading, as the Court explains, is the second sentence, which then becomes superfluous if all security-interest enforcement is already covered by sentence one.  See ante, at 8–9.  To be clear, there is a reasonable argument that the second sentence covers security-interest enforcers who are not already covered by the first sentence: Under this argument, those additional security-interest enforcers are “people who engage in the business of repossessing property, whose business does not primarily involve communicating with debtors in an effort to secure payment of debts,” Piper v. Portnoff Law Assoc., Ltd., 396 F.3d 227, 236 (CA3 2005); see also Alaska Trustee, 372 P. 3d, at 219–220; Glazer, 704 F. 3d, at 463–464, such as “the repo man [who] sneaks up and ‘tows a car in the middle of the night,’ ” ante, at 11.  But, as the Court explains, that reading does not resolve the surplusage problem, because even such repossession agencies engage in a means of collecting debts “indirectly”—which means that they are similarly situated to entities pursuing nonjudicial foreclosures after all.  See ante, at 10–12.
+
+															All the same, this is too close a case for me to feel certain that Congress recognized that this complex statute would be interpreted the way that the Court does today.  While States do regulate nonjudicial foreclosures, see ante, at 9, the extent and method of those protections can vary widely, and the FDCPA was enacted not only “to eliminate abusive debt collection practices” but also “to promote consistent State action to protect consumers against debt collection abuses,” §1692(e); see also §1692n (pre-empting inconsistent state laws while exempting state consumer protections that are “greater than the protection provided by [the FDCPA]”).  Today’s opinion leaves Congress free to make clear that the FDCPA fully encompasses entities pursuing nonjudicial foreclosures and regulates security-interest enforcers like repossession agencies in only the more limited way addressed in §1692f(6).  That too would be consistent with the FDCPA’s broad, consumer-protective purposes.  See §1692(e).
+
+															Separately, I note that the Court’s opinion recognizes that the question before us involves “no more than the kind of security interest enforcement at issue here,” ante, at 2, which means an entity that takes “only steps required by state law,” ante, at 14.  The Court rightly notes, therefore, that nothing in today’s opinion is “to suggest that pursuing nonjudicial foreclosure is a license to engage in abusive debt collection practices like repetitive nighttime phone calls; enforcing a security interest does not grant an actor blanket immunity from the Act.”  Ante, at 13–14.  Indeed, in addition to the unnecessary and abusive practices that the Court notes, I would see as a different case one in which the defendant went around frightening homeowners with the threat of foreclosure without showing any meaningful intention of ever actually following through.  There would be a question, in such a case, whether such an entity was in fact a “business the principal purpose of which is the enforcement of security interests,” see §1692a(6), or whether it was simply using that label as a stalking horse for something else.
+
+															Because the Court rightly cabins its holding to the kinds of good-faith actions presented here and because we are bound to apply Congress’ statutes as best we can understand them, I concur in the Court’s opinion.
+													

@@ -1,0 +1,288 @@
+::SCDB_caseID:: 2018-045
+::decision_cite:: 17-1672
+::decision_name::  United States v. Haymond
+::decision_year:: 2019
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1672
+
+															_________________
+
+															UNITED STATES, PETITIONER v. ANDRE RALPH HAYMOND
+
+															on writ of certiorari to the united states court of appeals for the tenth circuit
+
+															[June 26, 2019]
+
+															
+
+															Justice Gorsuch announced the judgment of the Court and delivered an opinion, in which Justice Ginsburg, Justice Sotomayor, and Justice Kagan joined.
+
+															Only a jury, acting on proof beyond a reasonable doubt, may take a person’s liberty.  That promise stands as one of the Constitution’s most vital protections against arbitrary government.  Yet in this case a congressional statute compelled a federal judge to send a man to prison for a minimum of five years without empaneling a jury of his peers or requiring the government to prove his guilt beyond a reasonable doubt.  As applied here, we do not hesitate to hold that the statute violates the Fifth and
+ 
+Sixth Amendments.
+
+															I
+
+															After a jury found Andre Haymond guilty of possessing child pornography in violation of federal law, the question turned to sentencing.  The law authorized the district judge to impose a prison term of between zero and 10 years,
+
+18 U. S. C. §2252(b)(2), and a period of supervised release of between 5 years and life, §3583(k).  Because Mr. Haymond had no criminal history and was working to help support his mother who had suffered a stroke, the judge concluded that Mr. Haymond was “not going to get much out of being in prison” and sentenced him to a prison term of 38 months, followed by 10 years of supervised release.
+
+															After completing his prison sentence, however, Mr. Haymond encountered trouble on supervised release.  He sat for multiple polygraph tests in which he denied possessing or viewing child pornography, and each time the test indicated no deception.  But when the government conducted an unannounced search of his computers and cellphone, it turned up 59 images that appeared to be child pornography.  Based on that discovery, the government sought to revoke Mr. Haymond’s supervised release and secure a new and additional prison sentence.
+
+															A hearing followed before a district judge acting without a jury, and under a preponderance of the evidence rather than a reasonable doubt standard.  In light of expert testimony regarding the manner in which cellphones can “cache” images without the user’s knowledge, the judge found insufficient evidence to show that Mr. Haymond knowingly possessed 46 of the images.  At the same time, the judge found it more likely than not that Mr. Haymond knowingly downloaded and possessed the remaining 13 images.
+
+															With that, the question turned once more to sentencing.  Under
+
+18 U. S. C. §3583(e)(3), enacted as part of the Sentencing Reform Act of 1984, a district judge who finds that a defendant has violated the conditions of his supervised release normally may (but is not required to) impose a new prison term up to the maximum period of supervised release authorized by statute for the defendant’s original crime of conviction, subject to certain limits.[1]  Under that provision, the judge in this case would have been free to sentence Mr. Haymond to between zero and two additional years in prison.
+
+															But there was a complication.  Under §3583(k), added to the Act in 2003 and amended in 2006, if a judge finds by a preponderance of the evidence that a defendant on supervised release committed one of several enumerated offenses, including the possession of child pornography, the judge must impose an additional prison term of at least five years and up to life without regard to the length of the prison term authorized for the defendant’s initial crime of conviction.[2]
+
+															Because Mr. Haymond had committed an offense cov-  
+
+															ered by §3583(k), the judge felt bound to impose an additional prison term of at least five years.  He did so, though, with reservations.  It’s one thing, Judge Terence Kern said, for a judge proceeding under a preponderance of the evidence standard to revoke a defendant’s supervised release and order him to serve additional time in prison within the range already authorized by the defendant’s original conviction; after all, the jury’s verdict, reached under the reasonable doubt standard, permitted that much punishment.  But the judge found it “ ‘repugnant’ ” that a statute might impose a new and additional “mandatory five-year” punishment without those traditional protections.  Were it not for §3583(k)’s mandatory minimum, the judge added, he “probably would have sentenced in the range of two years or less.”  
+
+															On appeal to the Tenth Circuit, Mr. Haymond challenged both the factual support for his new punishment and its constitutionality.  On the facts, the court of appeals held that the district court’s findings against Mr. Haymond were clearly erroneous in certain respects.  Even so, the court concluded, just enough evidence remained to sustain a finding that Mr. Haymond had knowingly possessed the 13 images at issue, in violation of §3583(k).  That left the question of the statute’s constitutionality, and there the Tenth Circuit concluded that §3583(k) violated the Fifth and
+ 
+Sixth Amendments.  The court explained that a jury had convicted Mr. Haymond beyond a reasonable doubt of a crime carrying a prison term of zero to 10 years.  Yet now Mr. Haymond faced a new potential prison term of five years to life.  Because this new prison term included a new and higher mandatory minimum resting only on facts found by a judge by a preponderance of the evidence, the court held, the statute violated Mr. Haymond’s right to trial by jury.
+
+															By way of remedy, the court held the last two sentences of §3583(k), which mandate a 5-year minimum prison term, “unconstitutional and unenforceable.”  869 F.3d 1153, 1168 (2017).  The court then vacated Mr. Haymond’s revocation sentence and remanded the case to the district court for resentencing without regard to those provisions.  In effect, the court of appeals left the district court free to issue a new sentence under the preexisting statute governing most every other supervised release violation, §3583(e).  Following the Tenth Circuit’s directions, the district court proceeded to resentence Mr. Haymond to time served, as he had already been detained by that point for approximately 28 months.  We granted review to consider the Tenth Circuit’s constitutional holding.  586 U. S. ___ (2018).
+
+															II
+
+															Together with the right to vote, those who wrote our Constitution considered the right to trial by jury “the heart and lungs, the mainspring and the center wheel” of our liberties, without which “the body must die; the watch must run down; the government must become arbitrary.”  Letter from Clarendon to W. Pym (Jan. 27, 1766), in 1 Papers of John Adams 169 (R. Taylor ed. 1977).  Just as the right to vote sought to preserve the people’s authority over their government’s executive and legislative functions, the right to a jury trial sought to preserve the people’s authority over its judicial functions.  J. Adams, Diary Entry (Feb. 12, 1771), in 2 Diary and Autobiography of John Adams 3 (L. Butterfield ed. 1961); see also 2 J. Story, Commentaries on the Constitution §1779, pp. 540–541 (4th ed. 1873).
+
+															Toward that end, the Framers adopted the
+ 
+Sixth Amendment’s promise that “[i]n all criminal prosecutions the accused shall enjoy the right to a speedy and public trial, by an impartial jury.”  In the
+ 
+Fifth Amendment, they added that no one may be deprived of liberty without “due process of law.”  Together, these pillars of the Bill of Rights ensure that the government must prove to a jury every criminal charge beyond a reasonable doubt, an ancient rule that has “extend[ed] down centuries.” Apprendi v. New Jersey,
+
+530 U.S. 466, 477 (2000).
+
+															But when does a “criminal prosecution” arise implicating the right to trial by jury beyond a reasonable doubt?  At the founding, a “prosecution” of an individual simply referred to “the manner of [his] formal accusation.”  4 W. Blackstone, Commentaries on the Laws of England 298 (1769) (Blackstone); see also N. Webster, An American Dictionary of the English Language (1st ed. 1828) (defining “prosecution” as “the process of exhibiting formal charges against an offender before a legal tribunal”).  And the concept of a “crime” was a broad one linked to punishment, amounting to those “acts to which the law affixes . . . punishment,” or, stated differently, those “element[s] in the wrong upon which the punishment is based.”  1 J. Bishop, Criminal Procedure §§80, 84, pp. 51–53 (2d ed. 1872) (Bishop); see also J. Archbold, Pleading and Evidence in Criminal Cases *106 (5th Am. ed. 1846) (Archbold) (discussing a crime as including any fact that “annexes a higher degree of punishment”); Blakely v. Washington,
+
+542 U.S. 296, 309 (2004); Apprendi, 530 U. S., at 481.
+
+															Consistent with these understandings, juries in our constitutional order exercise supervisory authority over the judicial function by limiting the judge’s power to punish.  A judge’s authority to issue a sentence derives from, and is limited by, the jury’s factual findings of criminal conduct.  In the early Republic, if an indictment or “accusation . . . lack[ed] any particular fact which the laws ma[d]e essential to the punishment,” it was treated as “no accusation” at all.  1 Bishop §87, at 55; see also 2 M. Hale, Pleas of the Crown *170 (1736); Archbold *106.  And the “truth of every accusation” that was brought against a person had to “be confirmed by the unanimous suffrage of twelve of his equals and neighbours.”  4 Blackstone 343.  Because the Constitution’s guarantees cannot mean less today than they did the day they were adopted, it remains the case today that a jury must find beyond a reasonable doubt every fact “ ‘which the law makes essential to [a] punishment’ ” that a judge might later seek to impose.  Blakely, 542 U. S., at 304 (quoting 1 Bishop §87, at 55).
+
+															For much of our history, the application of this rule of jury supervision proved pretty straightforward.  At common law, crimes tended to carry with them specific sanctions, and “once the facts of the offense were determined by the jury, the judge was meant simply to impose the prescribed sentence.”  Alleyne v. United States,
+
+570 U.S. 99, 108 (2013) (plurality opinion) (internal quotation marks and brackets omitted).  Even when judges did enjoy discretion to adjust a sentence based on judge-found aggravating or mitigating facts, they could not “ ‘swell the penalty above what the law ha[d] provided for the acts charged’ ” and found by the jury.  Apprendi, 530 U. S., at 519 (Thomas, J., concurring) (quoting 1 Bishop §85, at 54); see also 1 J. Bishop, Criminal Law §§933–934(1), p. 690 (9th ed. 1923) (“[T]he court determines in each case what within the limits of the law shall be the punishment” (emphasis added)).  In time, of course, legislatures adopted new laws allowing judges or parole boards to suspend part (parole) or all (probation) of a defendant’s prescribed prison term and afford him a period of conditional liberty as an “act of grace,” subject to revocation.  Escoe v. Zerbst,
+
+295 U.S. 490, 492 (1935); see Anderson v. Corall,
+
+263 U.S. 193, 196–197 (1923).  But here, too, the prison sentence a judge or parole board could impose for a parole or probation violation normally could not exceed the remaining balance of the term of imprisonment already authorized by the jury’s verdict.  So even these developments did not usually implicate the historic concerns of the Fifth and
+ 
+Sixth Amendments.  See Blakely, 542 U. S., at 309; Ap- prendi, 530 U. S., at 498 (Scalia, J., concurring); 4 Atty. Gen.’s Survey of Release Proc. 22 (1939); 2 id., at 333.
+
+															More recent legislative innovations have raised harder questions.  In Apprendi, for example, a jury convicted the defendant of a gun crime that carried a maximum prison sentence of 10 years.  But then a judge sought to impose a longer sentence pursuant to a statute that authorized him to do so if he found, by a preponderance of the evidence, that the defendant had committed the crime with racial bias.  Apprendi held this scheme unconstitutional.  “[A]ny fact that increases the penalty for a crime beyond the prescribed statutory maximum,” this Court explained, “must be submitted to a jury, and proved beyond a reasonable doubt” or admitted by the defendant.  530 U. S., at 490.  Nor may a State evade this traditional restraint on the judicial power by simply calling the process of finding new facts and imposing a new punishment a judicial “sentencing enhancement.”  Id., at 495.  “[T]he relevant inquiry is one not of form, but of effect—does the required [judicial] finding expose the defendant to a greater punishment than that authorized by the jury’s guilty verdict?”  Id., at 494.
+
+															While “trial practices ca[n] change in the course of centuries and still remain true to the principles that emerged from the Framers’ ” design, id., at 483, in the years since Apprendi this Court has not hesitated to strike down other innovations that fail to respect the jury’s supervisory function.  See, e.g., Ring v. Arizona,
+
+536 U.S. 584 (2002) (imposition of death penalty based on judicial factfinding); Blakely, 542 U. S., at 303 (mandatory state sentencing guidelines); Cunningham v. California,
+
+549 U.S. 270 (2007) (same); United States v. Booker,
+
+543 U.S. 220 (2005) (mandatory federal sentencing guidelines); Southern Union Co. v. United States,
+
+567 U.S. 343  
+
+															(2012) (imposition of criminal fines based on judicial factfinding).[3]
+
+															Still, these decisions left an important gap.  In Apprendi, this Court recognized that “ ‘[i]t is unconstitutional for a legislature to remove from the jury the assessment of facts that increase the prescribed range of penalties.’ ”  530 U. S., at 490.  But by definition, a range of punishments includes not only a maximum but a minimum.  And logically it would seem to follow that any facts necessary to increase a person’s minimum punishment (the “floor”) should be found by the jury no less than facts necessary to increase his maximum punishment (the “ceiling”).  Before Apprendi, however, this Court had held that facts elevating the minimum punishment need not be proven to a jury beyond a reasonable doubt.  McMillan v. Pennsylvania,
+
+477 U.S. 79 (1986); see also Harris v. United States,
+
+536 U.S. 545 (2002) (adhering to McMillan).
+
+															Eventually, the Court confronted this anomaly in Alleyne.  There, a jury convicted the defendant of a crime that ordinarily carried a sentence of five years to life in prison.  But a separate statutory “sentencing enhancement” increased the mandatory minimum to seven years if the defendant “brandished” the gun.  At sentencing, a judge found by a preponderance of the evidence that the defendant had indeed brandished a gun and imposed the mandatory minimum 7-year prison term.
+
+															This Court reversed.  Finding no basis in the original understanding of the Fifth and
+ 
+Sixth Amendments for McMillan and Harris, the Court expressly overruled those  
+
+															decisions and held that “the principle applied in Apprendi applies with equal force to facts increasing the mandatory minimum” as it does to facts increasing the statutory maximum penalty.  Alleyne, 570 U. S., at 112.  Nor did it matter to Alleyne’s analysis that, even without the mandatory minimum, the trial judge would have been free to impose a 7-year sentence because it fell within the statutory sentencing range authorized by the jury’s findings.  Both the “floor” and “ceiling” of a sentencing range “define the legally prescribed penalty.”  Ibid.  And under our Constitution, when “a finding of fact alters the legally prescribed punishment so as to aggravate it” that finding must be made by a jury of the defendant’s peers beyond a reasonable doubt.  Id., at 114.  Along the way, the Court observed that there can be little doubt that “[e]levating the low end of a sentencing range heightens the loss of liberty associated with the crime: The defendant’s expected punishment has increased as a result of the narrowed range and the prosecution is empowered, by invoking the mandatory minimum, to require the judge to impose a higher punishment than he might wish.”  Id., at 113 (internal quotation marks omitted).
+
+															By now, the lesson for our case is clear.  Based on the facts reflected in the jury’s verdict, Mr. Haymond faced a lawful prison term of between zero and 10 years under §2252(b)(2).  But then a judge—acting without a jury and based only on a preponderance of the evidence—found that Mr. Haymond had engaged in additional conduct in violation of the terms of his supervised release.  Under §3583(k), that judicial factfinding triggered a new punishment in the form of a prison term of at least five years and up to life.  So just like the facts the judge found at the defendant’s sentencing hearing in Alleyne, the facts the judge found here increased “the legally prescribed range of allowable sentences” in violation of the Fifth and
+ 
+Sixth Amendments.  Id., at 115.  In this case, that meant Mr. Haymond faced a minimum of five years in prison instead of as little as none.  Nor did the absence of a jury’s finding beyond a reasonable doubt only infringe the rights of the accused; it also divested the “ ‘people at large’ ”—the men and women who make up a jury of a defendant’s peers—of their constitutional authority to set the metes and bounds of judicially administered criminal punishments.  Blakely, 542 U. S., at 306 (quoting Letter XV by the Federal Farmer (Jan. 18, 1788), in 2 The Complete Anti-Federalist 315, 320 (H. Storing ed. 1981)).[4]
+
+															III
+
+															In reply, the government and the dissent offer many and sometimes competing arguments, but we find none persuasive.
+
+															A
+
+															The government begins by pointing out that Alleyne arose in a different procedural posture.  There, the trial judge applied a “sentencing enhancement” based on his own factual findings at the defendant’s initial sentencing hearing; meanwhile, Mr. Haymond received his new punishment from a judge at a hearing to consider the revocation of his term of supervised release.  This procedural distinction makes all the difference, we are told, because the
+ 
+Sixth Amendment’s jury trial promise applies only to “criminal prosecutions,” which end with the issuance of a sentence and do not extend to “postjudgment sentence-administration proceedings.”  Brief for United States 24; see also post, at 13–17 (Alito, J., dissenting) (echoing this  
+
+															argument).
+
+															But we have been down this road before.  Our precedents, Apprendi, Blakely, and Alleyne included, have repeatedly rejected efforts to dodge the demands of the Fifth and
+ 
+Sixth Amendments by the simple expedient of relabeling a criminal prosecution a “sentencing enhancement.”  Calling part of a criminal prosecution a “sentence modification” imposed at a “postjudgment sentence-administration proceeding” can fare no better.  As this Court has repeatedly explained, any “increase in a defendant’s authorized punishment contingent on the finding of a fact” requires a jury and proof beyond a reasonable doubt “no matter” what the government chooses to call the exercise.  Ring, 536 U. S., at 602.  
+
+															To be sure, and as the government and dissent emphasize, founding-era prosecutions traditionally ended at final judgment.  But at that time, generally, “questions of guilt and punishment both were resolved in a single proceeding” subject to the Fifth and
+ 
+Sixth Amendment’s demands. Douglass, Confronting Death:
+ 
+Sixth Amendment Rights at Capital Sentencing, 105 Colum. L. Rev. 1967, 2011 (2005); see also supra, at 7.  Over time, procedures changed as legislatures sometimes bifurcated criminal prosecutions into separate trial and penalty phases.  But none of these developments licensed judges to sentence individuals to punishments beyond the legal limits fixed by the facts found in the jury’s verdict.  See ibid.  To the contrary, we recognized in Apprendi and Alleyne, a “criminal prosecution” continues and the defendant remains an “accused” with all the rights provided by the
+ 
+Sixth Amendment, until a final sentence is imposed.  See Apprendi, 530 U. S., at 481–482.  
+
+															Today, we merely acknowledge that an accused’s final sentence includes any supervised release sentence he may receive.  Nor in saying that do we say anything new: This Court has already recognized that supervised release punishments arise from and are “treat[ed] . . . as part of the penalty for the initial offense.”  Johnson v. United States,
+
+529 U.S. 694, 700 (2000).  The defendant receives a term of supervised release thanks to his initial offense, and whether that release is later revoked or sustained, it constitutes a part of the final sentence for his crime.  As at the initial sentencing hearing, that does not mean a jury must find every fact in a revocation hearing that may affect the judge’s exercise of discretion within the range of punishments authorized by the jury’s verdict.  But it does mean that a jury must find any facts that trigger a new mandatory minimum prison term.[5]
+
+															This logic respects not only our precedents, but the original meaning of the jury trial right they seek to protect.  The Constitution seeks to safeguard the people’s control over the business of judicial punishments by ensuring that any accusation triggering a new and addi- tional punishment is proven to the satisfaction of a jury beyond a reasonable doubt.  By contrast, the view the government and dissent espouse would demote the jury from its historic role as “circuitbreaker in the State’s machinery of justice,” Blakely, 542 U. S., at 306, to “ ‘low-level gatekeeping,’ ” Booker, 543 U. S., at 230.  If the government and dissent were correct, Congress could require anyone convicted of even a modest crime to serve a sentence of supervised release for the rest of his life.  At that  
+
+															point, a judge could try and convict him of any violation of the terms of his release under a preponderance of the evidence standard, and then sentence him to pretty much anything.  At oral argument, the government even con- ceded that, under its theory, a defendant on supervised re- lease would have no
+ 
+Sixth Amendment right to a jury trial when charged with an infraction carrying the death penalty.  We continue to doubt whether even Apprendi’s fiercest critics “would advocate” such an “absurd result.”  Blakely, 542 U. S., at 306.[6]
+
+															B
+
+															Where it previously suggested that Mr. Haymond’s supervised release revocation proceeding was entirely divorced from his criminal prosecution, the government next turns around and suggests that Mr. Haymond’s sentence for violating the terms of his supervised release was actually fully authorized by the jury’s verdict.  See also post, at 7–8 (Alito, J., dissenting) (proposing a similar theory). After all, the government observes, on the strength of the jury’s findings the judge was entitled to impose as punishment a term of supervised release; and, in turn, that term of supervised release was from the outset always subject to the possibility of judicial revocation and §3583(k)’s mandatory prison sentence.  Presto:
+ 
+Sixth Amendment problem solved.
+
+															But we have been down this road too.  In Apprendi and  
+
+															Alleyne, the jury’s verdict triggered a statute that authorized a judge at sentencing to increase the defendant’s term of imprisonment based on judge-found facts.  This Court had no difficulty rejecting that scheme as an impermissible evasion of the historic rule that a jury must find all of the facts necessary to authorize a judicial punishment.  See Alleyne, 570 U. S., at 117; Apprendi, 530 U. S., at 483.  And what was true there can be no less true here: A mandatory minimum 5-year sentence that comes into play only as a result of additional judicial factual findings by a preponderance of the evidence cannot stand.  This Court’s observation that “postrevocation sanctions” are “treat[ed] . . .  as part of the penalty for the initial offense,” Johnson, 529 U. S., at 700, only highlights the constitutional infirmity of §3583(k): Treating Mr. Haymond’s 5-year mandatory minimum prison term as part of his sentence for his original offense makes clear that it mirrors the unconstitutional sentencing enhancement in Alleyne.  See supra, at 12–13.
+
+															Notice, too, that following the government down this road would lead to the same destination as the last: If the government were right, a jury’s conviction on one crime would (again) permit perpetual supervised release and allow the government to evade the need for another jury trial on any other offense the defendant might commit, no matter how grave the punishment.  And if there’s any doubt about the incentives such a rule would create, consider this case.  Instead of seeking a revocation of supervised release, the government could have chosen to prosecute Mr. Haymond under a statute mandating a term of imprisonment of 10 to 20 years for repeat child-pornography offenders.
+
+18 U. S. C. §2252(b)(2).  But why bother with an old-fashioned jury trial for a new crime when a quick-and-easy “supervised release revocation hearing” before a judge carries a penalty of five years to life?  This displacement of the jury’s traditional supervi- sory role, under cover of a welter of new labels, exemplifies the “Framers’ fears that the jury right could be lost not only by gross denial, but by erosion.”  Apprendi, 530 U. S., at 483 (internal quotation marks omitted).
+
+															C
+
+															Pivoting once more, the government and the dissent seem to accept for argument’s sake that “postjudgment sentence-administration proceedings” can implicate the Fifth and
+ 
+Sixth Amendments.  See post, at 6–11.  But, they contend, §3583(k)’s supervised release revocation procedures are practically identical to historic parole and probation revocation procedures.  See, e.g., Gagnon v. Scarpelli,
+
+411 U.S. 778 (1973); Morrissey v. Brewer,
+
+408 U.S. 471 (1972).  And, because those other procedures have usually been understood to comport with the Fifth and
+ 
+Sixth Amendments, they submit, §3583(k)’s procedures must do so as well.
+
+															But this argument, too, rests on a faulty premise, overlooking a critical difference between §3583(k) and traditional parole and probation practices.  Before the Sentencing Reform Act of 1984, a federal criminal defendant could serve as little as a third of his assigned prison term before becoming eligible for release on parole.  See
+
+18 U. S. C. §4205(a) (1982 ed.).  Or he might avoid prison altogether in favor of probation.  See §3561 (1982 ed.).  If the defendant violated the terms of his parole or probation, a judge could send him to prison.  But either way and as we’ve seen, a judge generally could sentence the defendant to serve only the remaining prison term authorized by statute for his original crime of conviction.  See supra, at 7; Morrissey, 408 U. S., at 477 (“The essence of parole is release from prison, before the completion of sentence” (emphasis added)).  Thus, a judge could not imprison a defendant for any longer than the jury’s factual findings allowed—a result entirely harmonious with the Fifth and 
+ 
+Sixth Amendments.  See Apprendi, 530 U. S., at 498 (Scalia, J., concurring); Blakely, 542 U. S., at 309.
+
+															All that changed beginning in 1984.  That year, Congress overhauled federal sentencing procedures to make prison terms more determinate and abolish the practice of parole.  Now, when a defendant is sentenced to prison he generally must serve the great bulk of his assigned term.  In parole’s place, Congress established the system of supervised release.  But “[u]nlike parole,” supervised release wasn’t introduced to replace a portion of the defendant’s prison term, only to encourage rehabilitation after the completion of his prison term.  United States Sentencing Commission, Guidelines Manual ch. 7, pt. A(2)(b) (Nov. 2012); see Doherty, Indeterminate Sentencing Returns: The Invention of Supervised Release, 88 N. Y. U. L. Rev. 958, 1024 (2013).  
+
+															In this case, that structural difference bears constitutional consequences.  Where parole and probation violations generally exposed a defendant only to the remaining prison term authorized for his crime of conviction, as found by a unanimous jury under the reasonable doubt standard, supervised release violations subject to §3583(k) can, at least as applied in cases like ours, expose a defendant to an additional mandatory minimum prison term well beyond that authorized by the jury’s verdict—all based on facts found by a judge by a mere preponderance of the evidence.  In fact, §3583(k) differs in this critical respect not only from parole and probation; it also represents a break from the supervised release practices that Congress authorized in §3583(e)(3) and that govern most federal criminal proceedings today.  Unlike all those procedures, §3583(k) alone requires a substantial increase in the minimum sentence to which a defendant may be exposed based only on judge-found facts under a preponderance standard.  And, as we explained in Alleyne and reaffirm today, that offends the Fifth and
+ 
+Sixth Amendments’ ancient protections.[7]
+
+															D
+
+															The dissent suggests an analogy between revocation under §3583(k) and prison disciplinary procedures that do not normally require the involvement of a jury.  Post, at 19–20. But the analogy is a strained one: While the
+ 
+Sixth Amendment surely does not require a jury to find every fact that the government relies on to adjust the terms of a prisoner’s confinement (say, by reducing some of his privileges as a sanction for violating the prison rules), that does not mean the government can send a free man back to prison for years based on judge-found facts.
+
+															Again, practice in the early Republic confirms this.  At that time, a term of imprisonment may have been understood as encompassing a degree of summary discipline for alleged infractions of prison regulations without the involvement of a jury.  See F. Gray, Prison Discipline in America 22–23, 48–49 (1848).  But that does not mean any sanction, no matter how serious, would have been considered part and parcel of the original punishment.  On the contrary, the few courts that grappled with this issue seem to have recognized that “infamous” punishments, such as a substantial additional term in prison, might implicate the right to trial by jury.  See, e.g., Gross v. Rice, 71 Me. 241, 246–252 (1880); In re Edwards, 43 N. J. L. 555, 557–558 (1881). 
+
+															What’s more, a tradition of summary process in prison,  
+
+															where administrators face the “formidable task” of controlling a large group of potentially unruly prisoners, does not necessarily support the use of such summary process outside the prison walls.  O’Lone v. Estate of Shabazz,
+
+482 U.S. 342, 353 (1987); cf. Morrissey, 408 U. S., at 482.  We have long held that prison regulations that impinge on the constitutional rights inmates would enjoy outside of prison must be “reasonably related to legitimate penological interests” in managing the prison.  Turner v. Safley,
+
+482 U.S. 78, 89 (1987).  That approach, we have said, ensures that corrections officials can “ ‘anticipate security problems’ ” and address “ ‘the intractable problems of prison administration.’ ”  O’Lone, 482 U. S., at 349; see also Dahne v. Richey, 587 U. S. ___, ___ (2019) (Alito, J., dissent- ing from denial of certiorari) (slip op., at 2) (“To maintain order, prison authorities may insist on compliance with rules that would not be permitted in the outside world”).  Whether or not the Turner test applies to prisoners’ jury trial rights, we certainly have never extended it to the jury rights of persons out in the world who retain the core attributes of liberty.  Cf. Griffin v. Wisconsin,
+
+483 U.S. 868, 874, n. 2 (1987) (reserving question whether Turner applies to probation).  Even the government has not asked us to do so today.[8]
+
+															E
+
+															Finally, much of the dissent is consumed by what it calls the “potentially revolutionary” consequences of our opinion.  Post, at 1; see also post, at 15, 25 (calling our opinion  
+
+															“inexcusable,” “unpardonabl[e],” and “dangerous”); post, at 4 (our opinion threatens to bring “the whole concept of supervised release . . . crashing down”); post, at 9 (under our opinion, “the whole system of supervised release would be like a 40–ton truck speeding down a steep mountain road with no brakes”).  But what agitates the dissent so much is an issue not presented here: whether all supervised release proceedings comport with Apprendi.  As we have emphasized, our decision is limited to §3583(k)—an unusual provision enacted little more than a decade ago—and the Alleyne problem raised by its 5-year mandatory minimum term of imprisonment.  See n. 7, supra.  Section §3583(e), which governs supervised release revocation proceedings generally, does not contain any similar mandatory minimum triggered by judge-found facts.  
+
+															Besides, even if our opinion could be read to cast doubts on §3583(e) and its consistency with Apprendi, the practical consequences of a holding to that effect would not come close to fulfilling the dissent’s apocalyptic prophecy.  In most cases (including this one), combining a defendant’s initial and post-revocation sentences issued under §3583(e) will not yield a term of imprisonment that exceeds the statutory maximum term of imprisonment the jury has authorized for the original crime of conviction.  That’s because “courts rarely sentence defendants to the statutory maxima,” United States v. Caso, 723 F.3d 215, 224–225 (CADC 2013) (citing Sentencing Commission data indicating that only about 1% of defendants receive the maximum), and revocation penalties under §3583(e)(3) are only a small fraction of those available under §3583(k).  So even if §3583(e)(3) turns out to raise
+ 
+Sixth Amendment issues in a small set of cases, it hardly follows that “as a practical matter supervised-release revocation proceedings cannot be held” or that “the whole idea of supervised release must fall.”  Post, at 4–5.  Indeed, the vast majority of supervised release revocation proceedings under subsec- tion (e)(3) would likely be unaffected.
+
+															In the end, the dissent is left only to echo an age-old criticism: Jury trials are inconvenient for the government. Yet like much else in our Constitution, the jury system isn’t designed to promote efficiency but to protect liberty.  In what now seems a prescient passage, Blackstone warned that the true threat to trial by jury would come less from “open attacks,” which “none will be so hardy as to make,” as from subtle “machinations, which may sap and undermine i[t] by introducing new and arbitrary methods.”  4 Blackstone 343.  This Court has repeatedly sought to guard the historic role of the jury against such incursions.  For “however convenient these may appear at first, (as doubtless all arbitrary powers, well executed, are the most convenient) yet let it be again remembered, that delays, and little inconveniences in the forms of justice, are the price that all free nations must pay for their lib- erty in more substantial matters.”  Id., at 344.[9]
+
+															IV
+
+															Having concluded that the application of §3583(k)’s mandatory minimum in this case violated Mr. Haymond’s right to trial by jury, we face the question of remedy.  Recall that the Tenth Circuit declared the last two sentences of §3583(k) “unconstitutional and unenforceable.”  Those two sentences provide in relevant part that “[i]f a defendant required to register under [SORNA]” commits certain specified offenses, “the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment [of] not . . . less than 5 years.”
+
+															Before us, the government suggests that the Tenth Circuit erred in declaring those two sentences “unenforceable.”  That remedy, the government says, sweeps too broadly.  In the government’s view, any constitutional infirmity can be cured simply by requiring juries acting under the reasonable doubt standard, rather than judges proceeding under the preponderance of the evidence standard, to find the facts necessary to trigger §3583(k)’s mandatory minimum.  This remedy would be consistent with the statute’s terms, the government assures us, because “the court” authorized to revoke a term of supervised release in §3583(k) can and should be construed as embracing not only judges but also juries.  And, the government insists, that means we should direct the court of appeals to send this case back to the district court so a jury may be empaneled to decide whether Mr. Haymond violated §3583(k).  Unsurprisingly, Mr. Haymond contests all of this vigorously.
+
+															 
+
+															We decline to tangle with the parties’ competing remedial arguments today.  The Tenth Circuit did not address these arguments; it appears the government did not even discuss the possibility of empaneling a jury in its brief to that court; and this Court normally proceeds as a “court of review, not of first view,” Cutter v. Wilkinson,
+
+544 U.S. 709, 718, n. 7 (2005).  Given all this, we believe the wiser course lies in returning the case to the court of appeals for it to have the opportunity to address the government’s remedial argument in the first instance, including any question concerning whether that argument was adequately preserved in this case.
+
+															*
+
+															The judgment of the court of appeals is vacated, and the case is remanded for further proceedings.
+
+															
+
+															It is so ordered.
+
+															
+Notes
+1
+ Section 3583(e)(3) states in pertinent part: “The court may, after considering the factors set forth in section 3553(a)(1), . . . (3) revoke a term of supervised release, and require the defendant to serve in prison all or part of the term of supervised release authorized by statute for the offense that resulted in such term of supervised release without credit for time previously served on postrelease supervision, if the court . . . finds by a preponderance of the evidence that the defendant violated a condition of supervised release, except that a defendant whose term is revoked under this paragraph may not be required to serve on any such revocation more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, more than 3 years in prison if such offense is a class B felony, more than 2 years in prison if such offense is a class C or D felony, or more than one year in any other case . . . .” 
+
+2
+ Section 3583(k) provides: “Notwithstanding subsection (b), the authorized term of supervised release for any offense under section 1201 involving a minor victim, and for any offense under section 1591, 1594(c), 2241, 2242, 2243, 2244, 2245, 2250, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, 2423, or 2425, is any term of years not less than 5, or life.  If a defendant required to register under the Sex Offender Registration and Notification Act (SORNA) commits any criminal offense under chapter 109A, 110, or 117, or section 1201 or 1591, for which imprisonment for a term longer than 1 year can be imposed, the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment under subsection (e)(3) without regard to the exception contained therein.  Such term shall be not less than5 years.” 
+
+3
+ The Court has recognized two narrow exceptions to Apprendi’s general rule, neither of which is implicated here: Prosecutors need not prove to a jury the fact of a defendant’s prior conviction, Almendarez-Torres v. United States,
+
+523 U.S. 224 (1998), or facts that affect whether a defendant with multiple sentences serves them concurrently or consecutively, Oregon v. Ice,
+
+555 U.S. 160 (2009). 
+
+4
+ Because we hold that this mandatory minimum rendered Mr. Haymond’s sentence unconstitutional in violation of Alleyne v. United States,
+
+570 U.S. 99 (2013), we need not address the constitutionality of the statute’s effect on his maximum sentence under Apprendi v. New Jersey, 
+530 U.S. 466 (2000). 
+
+5
+ The dissent asserts that “a sentence is ‘imposed’ at final judgment, not again and again every time a convicted criminal . . . violates a condition of his release.”  Post, at 17 (opinion of Alito, J.) (citation omitted).  But saying it does not make it so.  As Johnson recognized, when a defendant is penalized for violating the terms of his supervised release, what the court is really doing is adjusting the defendant’s sentence for his original crime.  Even the dissent recognizes that the sword of Damocles hangs over a defendant “every time [he] wakes up to serve a day of supervised release.”  Post, at 17. 
+
+6
+ But perhaps we underestimate their fervor.  While not openly embracing that result, the dissent fails to articulate any meaningful limiting principle to avoid it.  If, as the dissent suggests, a term of supervised release is interchangeable with whatever sanction is prescribed for a violation, why stop at life in prison?  The dissent replies that we might discover some relevant limitation in the
+ 
+Eighth Amendment, which does not mention jury trials, but is unwilling to find that limitation in the
+ 
+Sixth Amendment, which does.  Post, at 8, n. 4. 
+
+7
+ Just as we have no occasion to decide whether §3583(k) implicates Apprendi by raising the ceiling of permissible punishments beyond those authorized by the jury’s verdict, see n. 4, supra, we do not pass judgment one way or the other on §3583(e)’s consistency with Apprendi.  Nor do we express a view on the mandatory revocation provision for certain drug and gun violations in §3583(g), which requires courts to impose “a term of imprisonment” of unspecified length. 
+
+8
+ Contrary to the dissent’s characterization, we do not suggest that any prison discipline that is “too harsh” triggers the right to a jury trial.  Post, at 20, n. 9 (emphasis deleted).  Instead, we distinguish between altering a prisoner’s conditions of confinement, which gener-ally does not require a jury trial, and sentencing a free man to substantial additional time in prison, which generally does. 
+
+9
+ Justice Breyer agrees that a jury was required here for three reasons “considered in combination.”  Post, at 2 (opinion concurring in judgment).  Two of the reasons seem to amount to the same thing—a worry that §3583(k) imposes a new mandatory minimum sentence without a jury.  And for the reasons we’ve already given, we can agree that this is indeed a problem under Alleyne.  But Justice Breyer’s remaining reason is another story.  He stresses that §3583(k)’s mandatory minimum applies only to a “discrete set of federal criminal of-fenses.”  Post, at 2.  But why should that matter?  Whether the
+ 
+Sixth Amendment is violated in “discrete” instances or vast numbers, our duty to enforce the Constitution remains the same.   Besides, any attempt to draw lines based on when an erosion of the jury trial right goes “too far” would prove inherently subjective and depend on judges’ intuitions about the proper role of the juries that are supposed to supervise them.  As we have previously explained, “[w]hether the
+ 
+Sixth Amendment incorporates [such a] manipulable standard rather than Apprendi’s bright-line rule depends on the plausibility of the claim that the Framers would have left definition of the scope of jury power up to judges’ intuitive sense of how far is too far.”  Blakely v. Washington,
+
+542 U.S. 296, 308 (2004).  And we continue to think that claim is “not plausible at all, because the very reason the Framers put a jury-trial guarantee in the Constitution” was to ensure the jury trial right would limit the power of judges and not be ground down to nothing through a balancing of interests by judges themselves.  Ibid. 
+
+

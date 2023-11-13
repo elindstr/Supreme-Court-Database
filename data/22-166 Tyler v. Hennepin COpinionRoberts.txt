@@ -1,0 +1,584 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-166
+::decision_name::  Tyler v. Hennepin County
+::decision_year:: 2023
+::opinion_author:: Roberts
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–166
+
+															_________________
+
+															GERALDINE TYLER, PETITIONER v. HENNEPIN
+COUNTY, MINNESOTA, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the eighth circuit
+
+															[May 25, 2023]
+
+															
+
+															Chief Justice Roberts delivered the opinion of
+the Court.
+
+															Hennepin County, Minnesota, sold Geraldine
+Tyler’s home for $40,000 to satisfy a $15,000 tax bill.
+Instead of returning the remaining $25,000, the County kept it for
+itself. The question presented is whether this constituted a taking
+of property without just compensation, in violation of the Fifth
+Amendment.
+
+															I
+
+															Hennepin County imposes an annual tax on real
+property. Minn. Stat. §273.01 (2022). The taxpayer has one
+year to pay before the taxes become delinquent. §279.02. If
+she does not timely pay, the tax accrues interest and penalties,
+and the County obtains a judgment against the property,
+transferring limited title to the State. See §§279.03,
+279.18, 280.01. The delinquent taxpayer then has three years to
+redeem the property and regain title by paying all the taxes and
+late fees. §§281.17(a), 281.18. During this time, the
+taxpayer remains the beneficial owner of the property and can
+continue to live in her home. See §281.70. But if at the end
+of three years the bill has not been paid, absolute title vests in
+the State, and the tax debt is extinguished. §§281.18,
+282.07. The State may keep the property for public use or sell it
+to a private party. §282.01 subds. 1a, 3. If the property is
+sold, any proceeds in excess of the tax debt and the costs of the
+sale remain with the County, to be split between it, the town, and
+the school district. §282.08. The former owner has no
+opportunity to recover this surplus.
+
+															Geraldine Tyler is 94 years old. In 1999, she
+bought a one-bedroom condominium in Minneapolis and lived alone
+there for more than a decade. But as Tyler aged, she and her family
+decided that she would be safer in a senior community, so they
+moved her to one in 2010. Nobody paid the property taxes on the
+condo in Tyler’s absence and, by 2015, it had accumulated
+about $2300 in unpaid taxes and $13,000 in interest and penalties.
+Acting under Minnesota’s forfeiture procedures, Hennepin
+County seized the condo and sold it for $40,000, extinguishing the
+$15,000 debt. App. 5. The County kept the remaining $25,000 for its
+own use.
+
+															Tyler filed a putative class action against
+Hennepin County and its officials, asserting that the County had
+unconstitutionally retained the excess value of her home above her
+tax debt. As relevant, she brought claims under the Takings Clause
+of the Fifth Amendment and the Excessive Fines Clause of the Eighth
+Amendment.
+
+															The District Court dismissed the suit for
+failure to state a claim. 505 F. Supp. 3d 879, 883 (Minn.
+2020). The Eighth Circuit affirmed. 26 F. 4th 789, 790 (2022).
+It held that “[w]here state law recognizes no property
+interest in surplus proceeds from a tax-foreclosure sale conducted
+after adequate notice to the owner, there is no unconstitutional
+taking.” Id., at 793. The court also rejected
+Tyler’s claim under the Excessive Fines Clause, adopting the
+District Court’s reasoning that the forfeiture was not a fine
+because it was intended to remedy the State’s tax losses, not
+to punish delinquent property owners. Id., at 794 (citing
+505 F. Supp. 3d, at 895–899).
+
+															We granted certiorari. 598 U. S. ___
+(2023).
+
+															II
+
+															The County asserts that Tyler does not have
+standing to bring her takings claim. To bring suit, a plaintiff
+must plead an injury in fact attributable to the defendant’s
+conduct and redressable by the court. Lujan v. Defenders
+of Wildlife, 504 U.S.
+555, 560–561 (1992). This case comes to us on a motion to
+dismiss for failure to state a claim. At this initial stage, we
+take the facts in the complaint as true. Warth v.
+Seldin, 422 U.S.
+490, 501 (1975). Tyler claims that the County has illegally
+appropriated the $25,000 surplus beyond her $15,000 tax debt. App.
+5. This is a classic pocketbook injury sufficient to give her
+standing. TransUnion LLC v. Ramirez, 594 U. S.
+___, ___ (2021) (slip op., at 9).
+
+															The County objects that Tyler does not have
+standing because she did not affirmatively “disclaim the
+existence of other debts or encumbrances” on her home worth
+more than the $25,000 surplus. Brief for Respondents 12–13,
+and n. 5. According to the County, public records suggest that the
+condo may be subject to a $49,000 mortgage and a $12,000 lien for
+unpaid homeowners’ association fees. See ibid. The
+County argues that these potential encumbrances exceed the value of
+any interest Tyler has in the home above her $15,000 tax debt, and
+that she therefore ultimately suffered no financial harm from the
+sale of her home. Without such harm she would have no standing.
+
+															But the County never entered these records
+below, nor has it submitted them to this Court. Even if there were
+encumbrances on the home worth more than the surplus, Tyler still
+plausibly alleges a financial harm: The County has kept $25,000
+that belongs to her. In Minnesota, a tax sale extinguishes all
+other liens on a property. See Minn. Stat. §281.18; County
+of Blue Earth v. Turtle, 593 N.W.2d 258, 261 (Minn. App.
+1999). That sale does not extinguish the taxpayer’s debts.
+Instead, the borrower remains personally liable. See St.
+Paul v. St. Anthony Flats Ltd. Partnership, 517 N.W.2d
+58, 62 (Minn. App. 1994). Had Tyler received the surplus from the
+tax sale, she could have at the very least used it to reduce any
+such liability.
+
+															At this initial stage of the case, Tyler need
+not definitively prove her injury or disprove the County’s
+defenses. She has plausibly pleaded on the face of her complaint
+that she suffered financial harm from the County’s action,
+and that is enough for now. See Lujan, 504 U. S., at
+561.
+
+															III
+
+															A
+
+															The Takings Clause, applicable to the States
+through the Fourteenth Amendment, provides that “private
+property [shall not] be taken for public use, without just
+compensation.” U. S. Const., Amdt. 5. States have long
+imposed taxes on property. Such taxes are not themselves a taking,
+but are a mandated “contribution from individuals
+. . . for the support of the government . . .
+for which they receive compensation in the protection which
+government affords.” County of Mobile v.
+Kimball, 102 U.S.
+691, 703 (1881). In collecting these taxes, the State may
+impose interest and late fees. It may also seize and sell property,
+including land, to recover the amount owed. See Jones v.
+Flowers, 547 U.S.
+220, 234 (2006). Here there was money remaining after
+Tyler’s home was seized and sold by the County to satisfy her
+past due taxes, along with the costs of collecting them. The
+question is whether that remaining value is property under the
+Takings Clause, protected from uncompensated appropriation by the
+State.
+
+															The Takings Clause does not itself define
+property. Phillips v. Washington Legal Foundation,
+524 U.S.
+156, 164 (1998). For that, the Court draws on “existing
+rules or understandings” about property rights. Ibid.
+(internal quotation marks omitted). State law is one important
+source. Ibid.; see also Stop the Beach Renourishment,
+Inc. v. Florida Dept. of Environmental Protection,
+560 U.S.
+702, 707 (2010). But state law cannot be the only source.
+Otherwise, a State could “sidestep the Takings Clause by
+disavowing traditional property interests” in assets it
+wishes to appropriate. Phillips, 524 U. S., at 167; see
+also Webb’s Fabulous Pharmacies, Inc. v.
+Beckwith, 449 U.S.
+155, 164 (1980); Hall v. Meisner, 51 F. 4th
+185, 190 (CA6 2022) (Kethledge, J., for the Court) (“[T]he
+Takings Clause would be a dead letter if a state could simply
+exclude from its definition of property any interest that the state
+wished to take.”). So we also look to “traditional
+property law principles,” plus historical practice and this
+Court’s precedents. Phillips, 524 U. S., at
+165–168; see, e.g., United States v.
+Causby, 328 U.S.
+256, 260–267 (1946); Ruckelshaus v. Monsanto
+Co., 467 U.S.
+986, 1001–1004 (1984).
+
+															Minnesota recognizes a homeowner’s right
+to real property, like a house, and to financial interests in that
+property, like home equity. Cf. Armstrong v. United
+States, 364 U.S.
+40, 44 (1960) (lien on boats); Louisville Joint Stock Land
+Bank v. Radford, 295 U.S.
+555, 590 (1935) (mortgage on farm). Historically, Minnesota
+also recognized that a homeowner whose property has been sold to
+satisfy delinquent property taxes had an interest in the excess
+value of her home above the debt owed. See Farnham v.
+Jones, 32 Minn. 7, 11, 19 N.W. 83, 85 (1884). But in 1935,
+the State purported to extinguish that property interest by
+enacting a law providing that an owner forfeits her interest in her
+home when she falls behind on her property taxes. See 1935 Minn.
+Laws pp. 713–714, §8. This means, the County
+reasons, that Tyler has no property interest protected by the
+Takings Clause.
+
+															History and precedent say otherwise. The County
+had the power to sell Tyler’s home to recover the unpaid
+property taxes. But it could not use the toehold of the tax debt to
+confiscate more property than was due. By doing so, it effected a
+“classic taking in which the government directly appropriates
+private property for its own use.” Tahoe-Sierra
+Preservation Council, Inc. v. Tahoe Regional Planning
+Agency, 535 U.S.
+302, 324 (2002) (internal quotation marks and alteration
+omitted). Tyler has stated a claim under the Takings Clause and is
+entitled to just compensation.
+
+															B
+
+															The principle that a government may not take
+more from a taxpayer than she owes can trace its origins at least
+as far back as Runnymeade in 1215, where King John swore in the
+Magna Carta that when his sheriff or bailiff came to collect any
+debts owed him from a dead man, they could remove property
+“until the debt which is evident shall be fully paid to us;
+and the residue shall be left to the executors to fulfil the will
+of the deceased.” W. McKechnie, Magna Carta, A Commentary on
+the Great of King John, ch. 26, p. 322 (rev. 2d ed. 1914) (footnote
+omitted).
+
+															That doctrine became rooted in English law.
+Parliament gave the Crown the power to seize and sell a
+taxpayer’s property to recover a tax debt, but dictated that
+any “Overplus” from the sale “be immediately
+restored to the Owner.” 4 W. & M., ch. 1,
+§12, in 3 Eng. Stat. at Large 488–489 (1692). As
+Blackstone explained, the common law demanded the same: If a tax
+collector seized a taxpayer’s property, he was “bound
+by an implied contract in law to restore [the property] on payment
+of the debt, duty, and expenses, before the time of sale; or, when
+sold, to render back the overplus.” 2 Commentaries on the
+Laws of England 453 (1771).
+
+															This principle made its way across the Atlantic.
+In collecting taxes, the new Government of the United States could
+seize and sell only “so much of [a] tract of land
+. . . as may be necessary to satisfy the taxes due
+thereon.” Act of July 14, 1798, §13, 1Stat. 601. Ten
+States adopted similar statutes shortly after the
+founding.[1] For example,
+Maryland required that only so much land be sold “as may be
+sufficient to discharge the taxes thereon due,” and provided
+that if the sale produced more than needed for the taxes,
+“such overplus of money” shall be paid to the owner.
+1797 Md. Laws ch. 90, §§4–5. This Court enforced
+one such state statute against a Georgia tax collector, reasoning
+that “if a whole tract of land was sold when a small part of
+it would have been sufficient for the taxes, which at present
+appears to be the case, the collector unquestionably exceeded his
+authority.” Stead’s Executors v. Course,
+4 Cranch 403, 414 (1808) (Marshall, C. J., for the Court).
+
+															Like its sister States, Virginia originally
+provided that the Commonwealth could seize and sell “so
+much” of the delinquent tracts “as shall be sufficient
+to discharge the said taxes.” 1781 Va. Acts p. 153, §4.
+But about a decade later, Virginia enacted a new scheme, which
+provided for the forfeiture of any delinquent land to the
+Commonwealth. Virginia passed this harsh forfeiture regime in
+response to the “loose, cheap and unguarded system of
+disposing of her public lands” that the Commonwealth had
+adopted immediately following statehood. McClure v.
+Maitland, 24 W. Va. 561, 564 (1884). To encourage
+settlement, Virginia permitted “any person [to] acquire title
+to so much . . . unappropriated lands as he or she shall
+desire to purchase” at the price of 40 pounds per 100 acres.
+1779 Va. Acts p. 95, §2. Within two decades, nearly all of
+Virginia’s land had been claimed, much of it by nonresidents
+who did not live on or farm the land but instead hoped to sell it
+for a profit. McClure, 24 W. Va., at 564. Many of these
+nonresidents “wholly neglected to pay the taxes” on the
+land, id., at 565, so Virginia provided that title to any
+taxpayer’s land was completely “lost, forfeited and
+vested in the Commonwealth” if the taxpayer failed to pay
+taxes within a set period, 1790 Va. Acts p. 5, §5. This
+solution was short lived, however; the Commonwealth repealed the
+forfeiture scheme in 1814 and once again sold “so much only
+of each tract of land . . . as will be sufficient to
+discharge the” debt. 1813 Va. Acts p. 21, §27.
+Virginia’s “exceptional” and temporary forfeiture
+scheme carries little weight against the overwhelming consensus of
+its sister States. See Martin v. Snowden, 59 Va. 100,
+138 (1868).
+
+															The consensus that a government could not take
+more property than it was owed held true through the passage of the
+Fourteenth Amendment. States, including Minnesota, continued to
+require that no more than the minimum amount of land be sold to
+satisfy the outstanding tax debt.[2] The County identifies just three States that deemed
+delinquent property entirely forfeited for failure to pay taxes.
+See 1836 Me. Laws p. 325, §4; 1869 La. Acts p. 159, §63;
+1850 Miss. Laws p. 52, §4.[3] Two of these laws did not last. Maine amended its law a
+decade later to permit the former owner to recover the surplus.
+1848 Me. Laws p. 56, §4. And Mississippi’s highest court
+promptly struck down its law for violating the Due Process and
+Takings Clauses of the Mississippi Constitution. See Griffin
+v. Mixon, 38 Miss. 424, 439, 451–452 (Ct. Err. &
+App. 1860). Louisiana’s statute remained on the books, but
+the County cites no case showing that the statute was actually
+enforced against a taxpayer to take his entire property.
+
+															The minority rule then remains the minority rule
+today: Thirty-six States and the Federal Government require that
+the excess value be returned to the taxpayer.
+
+															C
+
+															Our precedents have also recognized the
+principle that a taxpayer is entitled to the surplus in excess of
+the debt owed. In United States v. Taylor, 104 U.S.
+216 (1881), an Arkansas taxpayer whose property had been sold
+to satisfy a tax debt sought to recover the surplus from the sale.
+A nationwide tax had been imposed by Congress in 1861 to raise
+funds for the Civil War. Under that statute, if a taxpayer did not
+pay, his property would be sold and “the surplus of the
+proceeds of the sale [would] be paid to the owner.” Act of
+Aug. 5, 1861, §36, 12Stat. 304. The next year, Congress added
+a 50 percent penalty in the rebelling States, but made no mention
+of the owner’s right to surplus after a tax sale. See Act of
+June 7, 1862, §1, 12Stat. 422. Taylor’s property had
+been sold for failure to pay taxes under the 1862 Act, but he
+sought to recover the surplus under the 1861 Act. Though the 1862
+Act “ma[de] no mention of the right of the owner of the lands
+to receive the surplus proceeds of their sale,” we held that
+the taxpayer was entitled to the surplus because nothing in the
+1862 Act took “from the owner the right accorded him by the
+act of 1861, of applying for and receiving from the treasury the
+surplus proceeds of the sale of his lands.” Taylor,
+104 U. S., at 218–219.
+
+															We extended a taxpayer’s right to surplus
+even further in United States v. Lawton, 110 U.S.
+146 (1884). The property owner had an unpaid tax bill under the
+1862 Act for $170.50. Id., at 148. The Federal Government
+seized the taxpayer’s property and, instead of selling it to
+a private buyer, kept the property for itself at a value of $1100.
+Ibid. The property owner sought to recover the excess value
+from the Government, but the Government refused. Ibid. The
+1861 Act explicitly provided that any surplus from tax sales to
+private parties had to be returned to the owner, but it did not
+mention paying the property owner the excess value where the
+Government kept the property for its own use instead of
+selling it. See 12Stat. 304. We held that the taxpayer was still
+entitled to the surplus under the statute, just as if the
+Government had sold the property. Lawton, 110 U. S., at
+149–150. Though the 1861 statute did not explicitly provide
+the right to the surplus under such circumstances, “[t]o
+withhold the surplus from the owner would be to violate the Fifth
+Amendment to the Constitution and to deprive him of his property
+without due process of law, or to take his property for public use
+without just compensation.” Id., at 150.
+
+															The County argues that Taylor and
+Lawton were superseded by Nelson v. City of New
+York, 352 U.S.
+103 (1956), but that case is readily distinguished. There New
+York City foreclosed on properties for unpaid water bills. Under
+the governing ordinance, a property owner had almost two months
+after the city filed for foreclosure to pay off the tax debt, and
+an additional 20 days to ask for the surplus from any tax sale.
+Id., at 104–105, n. 1. No property owner requested his
+surplus within the required time. The owners later sued the city,
+claiming that it had denied them due process and equal protection
+of the laws. Id., at 109. In their reply brief before this
+Court, the owners also argued for the first time that they had been
+denied just compensation under the Takings Clause. Ibid.
+
+															We rejected this belated argument. Lawton
+had suggested that withholding the surplus from a property owner
+always violated the Fifth Amendment, but there was no specific
+procedure there for recovering the surplus. Nelson, 352
+U. S., at 110. New York City’s ordinance, in comparison,
+permitted the owner to recover the surplus but required that the
+owner have “filed a timely answer in [the] foreclosure
+proceeding, asserting his property had a value substantially
+exceeding the tax due.” Ibid. (citing New York
+v. Chapman Docks Co., 1 App. Div. 2d 895, 149
+N.Y.S.2d 679 (1956)). Had the owners challenging the ordinance done
+so, “a separate sale” could have taken place “so
+that [they] might receive the surplus.” 352 U. S., at
+110. The owners did not take advantage of this procedure, so they
+forfeited their right to the surplus. Because the New York City
+ordinance did not “absolutely preclud[e] an owner from
+obtaining the surplus proceeds of a judicial sale,” but
+instead simply defined the process through which the owner could
+claim the surplus, we found no Takings Clause violation.
+Ibid.
+
+															Unlike in Nelson, Minnesota’s
+scheme provides no opportunity for the taxpayer to recover the
+excess value; once absolute title has transferred to the State, any
+excess value always remains with the State. The County argues that
+the delinquent taxpayer could sell her house to pay her tax debt
+before the County itself seizes and sells the house. But requiring
+a taxpayer to sell her house to avoid a taking is not the same as
+providing her an opportunity to recover the excess value of her
+house once the State has sold it.
+
+															D
+
+															Finally, Minnesota law itself recognizes that
+in other contexts a property owner is entitled to the surplus in
+excess of her debt. Under state law, a private creditor may enforce
+a judgment against a debtor by selling her real property, but
+“[n]o more shall be sold than is sufficient to satisfy”
+the debt, and the creditor may receive only “so much [of the
+proceeds] as will satisfy” the debt. Minn. Stat.
+§§550.20, 550.08 (2022). Likewise, if a bank forecloses
+on a home because the homeowner fails to pay the mortgage, the
+homeowner is entitled to the surplus from the sale.
+§580.10.
+
+															In collecting all other taxes, Minnesota
+protects the taxpayer’s right to surplus. If a taxpayer falls
+behind on her income tax and the State seizes and sells her
+property, “[a]ny surplus proceeds . . . shall
+. . . be credited or refunded” to the owner.
+§§270C.7101, 270C.7108, subd. 2. So too if a taxpayer
+does not pay taxes on her personal property, like a car.
+§277.21, subd. 13. Until 1935, Minnesota followed the same
+rule for the sale of real property. The State could sell only the
+“least quantity” of land sufficient to satisfy the
+debt, 1859 Minn. Laws p. 58, §23, and “any surplus
+realized from the sale must revert to the owner,”
+Farnham, 32 Minn., at 11, 19 N. W., at 85.
+
+															The State now makes an exception only for
+itself, and only for taxes on real property. But “property
+rights cannot be so easily manipulated.” Cedar Point
+Nursery v. Hassid, 594 U. S. ___, ___ (2021) (slip
+op., at 13) (internal quotation marks omitted). Minnesota may not
+extinguish a property interest that it recognizes everywhere else
+to avoid paying just compensation when it is the one doing the
+taking. Phillips, 524 U. S., at 167.
+
+															IV
+
+															The County argues that Tyler has no interest
+in the surplus because she constructively abandoned her home by
+failing to pay her taxes. States and localities have long imposed
+“reasonable conditions” on property ownership.
+Texaco, Inc. v. Short, 454 U.S.
+516, 526 (1982). In Minnesota, one of those conditions is
+paying property taxes. By neglecting this reasonable condition, the
+County argues, the owner can be considered to have abandoned her
+property and is therefore not entitled to any compensation for its
+taking. See Minn. Stat. §282.08.
+
+															The County portrays this as just another example
+in the long tradition of States taking title to abandoned property.
+We upheld one such statutory scheme in Texaco. There,
+Indiana law dictated that a mineral interest automatically reverted
+to the owner of the land if not used for 20 years. 454 U. S.,
+at 518. Use included excavating minerals, renting out the right to
+excavate, paying taxes, or simply filing a “statement of
+claim with the local recorder of deeds.” Id., at 519.
+Owners who lost their mineral interests challenged the statute as
+unconstitutional. We held that the statute did not violate the
+Takings Clause because the State “has the power to condition
+the permanent retention of [a] property right on the performance of
+reasonable conditions that indicate a present intention to
+retain the interest.” Id., at 526 (emphasis
+added). Indiana reasonably “treat[ed] a mineral interest that
+ha[d] not been used for 20 years and for which no statement of
+claim ha[d] been filed as abandoned.” Id., at 530.
+There was thus no taking, for “after abandonment, the former
+owner retain[ed] no interest for which he may claim
+compensation.” Ibid.
+
+															The County suggests that here, too, Tyler
+constructively abandoned her property by failing to comply with a
+reasonable condition imposed by the State. But the County cites no
+case suggesting that failing to pay property taxes is itself
+sufficient for abandonment. Cf. Krueger v. Market,
+124 Minn. 393, 397, 145 N.W. 30, 32 (1914) (owner did not abandon
+property despite failing to pay taxes for 30 years). Abandonment
+requires the “surrender or relinquishment or disclaimer
+of ” all rights in the property. Rowe v.
+Minneapolis, 49 Minn. 148, 157, 51 N.W. 907, 908 (1892).
+“It is the owner’s failure to make any use of
+the property”—and for a lengthy period of
+time—“that causes the lapse of the property
+right.” Texaco, 454 U. S., at 530 (emphasis
+added). In Texaco, the owners lost their property because
+they made no use of their interest for 20 years and then
+failed to take the simple step of filing paperwork indicating that
+they still claimed ownership over the interest. In comparison,
+Minnesota’s forfeiture scheme is not about abandonment at
+all. It gives no weight to the taxpayer’s use of the
+property. Indeed, the delinquent taxpayer can continue to live in
+her house for years after falling behind in taxes, up until the
+government sells it. See §281.70. Minnesota cares only about
+the taxpayer’s failure to contribute her share to the public
+fisc. The County cannot frame that failure as abandonment to avoid
+the demands of the Takings Clause.
+
+															*  *  *
+
+															The Takings Clause “was designed to bar
+Government from forcing some people alone to bear public burdens
+which, in all fairness and justice, should be borne by the public
+as a whole.” Armstrong, 364 U. S., at 49. A
+taxpayer who loses her $40,000 house to the State to fulfill a
+$15,000 tax debt has made a far greater contribution to the public
+fisc than she owed. The taxpayer must render unto Caesar what is
+Caesar’s, but no more.
+
+															Because we find that Tyler has plausibly alleged
+a taking under the Fifth Amendment, and she agrees that relief
+under “the Takings Clause would fully remedy [her]
+harm,” we need not decide whether she has also alleged an
+excessive fine under the Eighth Amendment. Tr. of Oral Arg. 27. The
+judgment of the Court of Appeals for the Eighth Circuit is
+reversed.
+
+															It is so ordered.
+
+Notes
+1
+ 1796 Conn. Acts p.
+356–357, §§32, 36; 1797 Del. Laws p. 1260,
+§26; 1791 Ga. Laws p. 14; 1801 Ky. Acts pp. 78–79,
+§4; 1797 Md. Laws ch. 90, §§4–5; 1786 Mass.
+Acts pp. 360–361; 1792 N. H. Laws p. 194; 1792
+N. C. Sess. Laws p. 23, §5; 1801 N. Y. Laws pp.
+498–499, §17; 1787 Vt. Acts & Resolves p. 126.
+Kentucky made an exception for unregistered land, or land that the
+owner had “fail[ed] to list . . . for
+taxation,” with such land forfeiting to the State. 1801 Ky.
+Acts p. 80, §5.
+2
+ Many of these new States
+required that the land be sold to whichever buyer would “pay
+[the tax debt] for the least number of acres” and provided
+that the land forfeited to the State only if it failed to sell
+“for want of bidders” because the land was worth less
+than the taxes owed. 1821 Ohio pp. 27–28, §§7, 10;
+see also 1837 Ark. Acts pp. 14–17, §§83, 100; 1844
+Ill. Laws pp. 13, 18, §§51, 77; 1859 Minn. Laws pp. 58,
+61, §§23, 38; 1859 Wis. Laws Ch. 22, pp. 22–23,
+§§7, 9; cf. Iowa Code pp. 120–121, §§766,
+773 (1860) (requiring that property be offered for sale
+“until all the taxes shall have been paid”); see also
+O’Brien v. Coulter, 2 Blackf. 421, 425 (Ind.
+1831) (per curiam) (“[S]o much only of the
+defendant’s property shall be sold at one time, as a sound
+judgment would dictate to be sufficient to pay the
+debt.”).
+3
+ North Carolina amended
+its laws in 1842 to permit the forfeiture of unregistered
+“swamp lands,” 1842 N. C. Sess. Laws p. 64,
+§1, but otherwise continued to follow the majority rule, see
+1792 N. C. Sess. Laws p. 23, §5.
+
+

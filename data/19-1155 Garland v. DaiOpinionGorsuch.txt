@@ -1,0 +1,167 @@
+::SCDB_caseID:: 2020-042
+::decision_cite:: 19-1155
+::decision_name::  Garland v. Dai
+::decision_year:: 2021
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–1155 and 19–1156
+
+															_________________
+
+															MERRICK B. GARLAND, ATTORNEY GENERAL, PETITIONER
+
+															19–1155v.
+
+															MING DAI
+
+															
+
+															MERRICK B. GARLAND, ATTORNEY GENERAL, PETITIONER
+
+															19–1156v.
+
+															CESAR ALCARAZ-ENRIQUEZ
+
+															on writs of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 1, 2021]
+
+															Justice Gorsuch delivered the opinion of the Court.
+
+															The Ninth Circuit has long applied a special rule in immigration disputes.  The rule provides that, in the absence of an explicit adverse credibility determination by an immigration judge or the Board of Immigration Appeals, a reviewing court must treat a petitioning alien’s testimony as credible and true.  At least 12 members of the Ninth Circuit have objected to this judge-made rule, and we granted certiorari to decide whether it can be squared with the terms of the Immigration and Nationality Act (INA),
+
+66Stat.
+163, as amended,
+
+8 U. S. C. §1101 et seq.
+
+															I
+
+															A
+
+															The question comes to us in cases involving Cesar Alcaraz-Enriquez and Ming Dai.  Mr. Alcaraz-Enriquez is a Mexican national.  Authorities detained him when he attempted to enter this country illegally.  In proceedings before an immigration judge (IJ), Mr. Alcaraz-Enriquez sought to avoid being returned to Mexico on the ground that his life or freedom would be threatened there.  See
+
+8 U. S. C. §1231(b)(3)(A).  But Congress has said this form of relief from removal is unavailable if, among other things, “the Attorney General decides that . . . the alien, having been convicted by a final judgment of a particularly serious crime[,] is a danger to the community of the United States.”  §1231(b)(3)(B)(ii).  This proviso posed a problem for Mr.  Alcaraz-Enriquez because, during a previous illegal entry, he pleaded nolo contendere to “inflict[ing] corporal injury [on a] spouse [or] cohabitant” under California law and received a 2-year sentence.  Cal. Penal Code Ann. §273.5(A) (West 2014).
+
+															The key question thus became whether Mr. Alcaraz- Enriquez’s California conviction amounted to “a particularly serious crime.”  The parties appear to agree that the answer to that question turns on which version of events one accepts:  The version found in a probation report issued at the time of Mr. Alcaraz-Enriquez’s conviction, or the version he testified to years later as part of his removal proceeding.  The IJ received and considered both.
+
+															The probation report indicated that Mr. Alcaraz- Enriquez locked his 17-year-old girlfriend in his bedroom one evening, caught her trying to escape, dragged her back into the room, threatened to stab her and dump her body in a dumpster, and forced her to have sex with him.  The next morning, he beat the young woman, leaving bruises on her back, neck, arms, and legs—stopping only when she begged for her life.  Later that evening, when she asked to leave, he dragged her out, threw her against the stairs, and kicked her as she rolled down.  Her ordeal lasted nearly 24 hours.  Police arrested Mr. Alcaraz-Enriquez days later as he tried to flee his residence.  At that time, Mr. Alcaraz-Enriquez admitted to the officers that he chased, grabbed, and punched his girlfriend in the face.  He also admitted that he prevented her from leaving the house.  But he claimed that he didn’t hit her “that hard.”  App. to Pet. for Cert. in No. 19–1156, p. 14a.
+
+															Against this evidence, the IJ considered Mr. Alcaraz-Enriquez’s testimony during his immigration proceeding.  There, he “admitted hitting his girlfriend, but not in the manner as described in the report.”  Ibid.  Mr. Alcaraz-Enriquez testified that he was upset with his girlfriend because “he believed that [she] was hitting his daughter.”  Ibid.  In Mr. Alcaraz-Enriquez’s view, he was coming to his daughter’s defense.  Mr. Alcaraz-Enriquez denied dragging or kicking the young woman, or forcing her to have sex with him.  He also submitted a letter from his mother, who stated that when she saw the girlfriend immediately after the altercation, “she looked completely fine.”  App. 256.
+
+															Ultimately, the IJ held Mr. Alcaraz-Enriquez ineligible for relief, relying in part on the version of events in the probation report.  Among other things, the IJ found it significant that there was “no mention” in the contemporaneous probation report of the girlfriend hitting Mr. Alcaraz- Enriquez’s daughter.  App. to Pet. for Cert. in No. 19–1156, at 14a.  On appeal, the Bureau of Immigration Appeals (BIA) “adopt[ed] and affirm[ed]” the IJ’s decision.  Id., at 7a.  The BIA held that the IJ had “properly considered all evidence of record,” “weighing and comparing [Mr. Alcaraz-Enriquez’s] testimony at the hearing and the probation officer’s report.”  Id., at 8a.  The BIA also stressed its view that the IJ was not required to credit Mr. Alcaraz-Enriquez’s “version of events over other plausible alternatives.”  Ibid.
+
+															The Ninth Circuit saw the matter differently.  Applying circuit precedent, it held that “ ‘[w]here the BIA does not make an explicit adverse credibility finding, [the court] must assume that [the alien’s] factual contentions are true.’ ”  Alcaraz-Enriquez v. Sessions, 727 Fed. Appx. 260, 261 (2018).  And because this rule required taking Mr. Alcaraz-Enriquez’s testimony as true—even in the face of competing evidence—the Ninth Circuit held that the BIA erred in denying relief and granted the petition for review.[1]
+
+															B
+
+															Ming Dai is a Chinese national who came to the United States on a tourist visa.  Shortly after arriving, he sought asylum.  To win relief, Mr. Dai bore the burden of proving that he was a “refugee”—someone “unable or unwilling” to return to China “because of persecution or a well-founded fear of persecution . . . for failure or refusal to undergo [involuntary sterilization] or for other resistance to a coercive population control program.”  8 U. S. C. §§1158(b)(1), 1101(a)(42).  As in Mr. Alcaraz-Enriquez’s case, the parties have proceeded on the assumption that everything here turns on questions of fact—whether Mr. Dai was persecuted in the past or fears persecution in the future—and we do the same.[2]
+
+															Once more, the evidence before the IJ cut both ways.  On the one hand, Mr. Dai claimed that, after his wife became pregnant with their second child in 2009, family-planning officials abducted her and forced her to have an abortion.  Mr. Dai further testified that, when he tried to stop his wife’s abduction, police broke his ribs, dislocated his shoulder, and jailed him for 10 days.  According to Mr. Dai, he lost his job, his wife was demoted, and his daughter was denied admission to superior schools. In applying for asylum, Mr. Dai stated, “I eventually found a way to reach the USA,” and asked the government to “[p]lease grant me asylum so that I can bring my wife and daughter to safety in the USA.”  App. 155.
+
+															On the other hand, Mr. Dai failed to disclose the fact that his wife and daughter had already traveled to the United States—and voluntarily returned to China.  The IJ observed that Mr. Dai “hesitated at some length” when confronted with these facts.  App. to Pet. for Cert. in No. 19–1155, p. 170a.  After being asked to tell the “real story,” Mr. Dai proceeded to admit that his daughter returned to China to go to school; that his wife chose to return to her job and her elderly father; that Mr. Dai did not have a job in China; and this was “why he stayed” in the United States.  Id., at 171a.  Asked directly why he did not return to China with his family, Mr. Dai responded, “[b]ecause at that time, I was in a bad mood and I couldn’t get a job, so I want to stay here for a bit longer and another friend of mine is also here.”  App. 103.
+
+															The IJ denied relief.  In the IJ’s view, the “principal area of concern” arose when Mr. Dai was confronted with his wife and daughter’s trip to the United States and their voluntary return to China.  App. to Pet. for Cert. in No. 19–1155, at 169a.  The record showed that Mr. Dai failed “to disclose” these facts in his own statements, and that he “paused at length” when confronted with them.  Id., at 163a, 173a.  The IJ concluded that “I do not find that [Mr. Dai’s] explanations for [his wife’s] return to China while he remained here are adequate.”  Id., at 175a.  In the IJ’s view, Mr. Dai’s eventual admissions regarding his wife and daughter’s return to China to pursue school and economic opportunities undermined his claims of past and future persecution, particularly given that his wife was “the primary object of the persecution in China.”  Ibid.  On appeal, the BIA “adopt[ed] and affirm[ed]” the IJ’s decision.  Id., at 163a.
+
+															Again, the Ninth Circuit saw things differently.  Much as it had in Alcaraz-Enriquez, a divided panel held that “in the absence of an explicit adverse credibility finding by the IJ or the BIA,” Mr. Dai’s testimony had to be “deemed” credible and true.  Ming Dai v. Sessions, 884 F.3d 858, 868 (2018).  On the strength of that testimony, the court then proceeded to find Mr. Dai eligible for asylum.  Later, the court of appeals denied the government’s petition for rehearing en banc over the objections of 12 judges.  
+
+															II
+
+															A
+
+															For many years, and over many dissents, the Ninth Circuit has proceeded on the view that, “[i]n the absence of an explicit adverse credibility finding [by the agency], we must assume that [the alien’s] factual contentions are true” or at least credible.  E.g., Kataria v. INS, 232 F.3d 1107, 1114 (2000); Zhiqiang Hu v. Holder, 652 F.3d 1011 (2011); 884 F. 3d, at 868; 727 Fed. Appx., at 261.  This view appears to be an outlier.  The First Circuit, for example, has held that a reviewing court is not bound to accept a witness’s statements as fact whenever the agency is less than explicit about credibility.  Wan Chien Kho v. Keisler, 505 F.3d 50, 56 (2007).
+
+															In both of the cases before us, the Ninth Circuit rested its decisions on its deemed-true-or-credible rule.  In Alcaraz-Enriquez, the Ninth Circuit applied the rule to disregard entirely the evidence contained in the probation report and credit only Mr. Alcaraz-Enriquez’s version of events.  727 Fed. Appx., at 261.  In Dai, the court deemed Mr. Dai’s favorable testimony credible and true and prohibited the unfavorable testimony about his “real” reasons for remaining in the country from being “smuggled” into the removal analysis.  884 F. 3d, at 872.  As one of the dissents in Dai put it, the Ninth Circuit’s rule leads to “the extraordinary position” that a court “must take as true an asylum applicant’s testimony that supports a claim for asylum, even in the face of other testimony from the applicant that would undermine an asylum claim.”  Ming Dai v. Barr, 940 F.3d 1143, 1149 (2019) (opinion of Callahan, J.).
+
+															The Ninth Circuit’s rule has no proper place in a reviewing court’s analysis.  Congress has carefully circumscribed judicial review of BIA decisions.  When it comes to questions of fact—such as the circumstances surrounding Mr. Alcaraz-Enriquez’s prior conviction or Mr. Dai’s alleged persecution—the INA provides that a reviewing court must accept “administrative findings” as “conclusive unless any reasonable adjudicator would be compelled to conclude to the contrary.”  8 U. S. C. § 1252(b)(4)(B).  This is a “highly deferential” standard.  Nasrallah v. Barr, 590 U. S. ___, ___ (2020) (slip op., at 9); cf. INS v. Elias-Zacarias,
+
+502 U.S. 478, 483–484 (1992).  Nothing in the INA contemplates any- thing like the embellishment the Ninth Circuit has adopted.  And it is long since settled that a reviewing court is “generally not free to impose” additional judge-made procedural requirements on agencies that Congress has not prescribed and the Constitution does not compel.  Vermont Yankee Nuclear Power Corp. v. Natural Resources Defense Council, Inc.,
+
+435 U.S. 519, 524 (1978).
+
+															This does not mean that the BIA may “ ‘arbitrarily’ ” reject an alien’s evidence.  Director, Office of Workers’ Compensation Programs v. Greenwich Collieries,
+
+512 U.S. 267, 279 (1994).  But it does mean that, so long as the record contains “ ‘contrary evidence’ ” of a “ ‘kind and quality’ ” that a reasonable factfinder could find sufficient, a reviewing court may not overturn the agency’s factual determination.  Ibid.  In this process, a reviewing court must be mindful too that the agency, like any reasonable factfinder, is free to “credit part of [a] witness’ testimony without” necessarily “accepting it all.”  Banks v. Chicago Grain Trimmers Assn., Inc.,
+
+390 U.S. 459, 467 (1968).  It does not matter whether the agency accepts all, none, or some of the alien’s testimony; its reasonable findings may not be disturbed.
+
+															Admittedly, there is a wrinkle.  Elsewhere, the INA does discuss a presumption of credibility.  The statute provides that absent an “explici[t]” “adverse credibility determination,” “the applicant or witness shall have a rebuttable presumption of credibility on appeal.”  §§1158(b)(1)(B)(iii), 1231(b)(3)(C), 1229a(c)(4)(C).  At the same time, the statute cautions that outside the “appeal” there is “no presumption of credibility.”  Ibid. (emphasis added).
+
+															It’s easy to see how one might assume judicial proceedings in cases like ours constitute “appeals” subject to this presumption of credibility.  But such an assumption would be mistaken.  As the Ninth Circuit itself has recognized, in immigration cases like those before us, there is only one “appeal”—from the IJ to the BIA.  884 F. 3d, at 869; see also Kho, 505 F. 3d, at 56; §§1158(d)(5)(A)(iii)–(iv); 8 CFR §1003.38 (2020).  Under the INA, subsequent judicial review takes place by means of a “petition for review.”  8 U. S. C. §§1252(a)(5), (b); cf. 5 U. S. C. §§702–703.  It is true that, at one point, the INA refers to dismissing “the appeal” if an alien fails to file a timely brief in support of his petition for review,
+
+8 U. S. C. §1252(b)(3)(C), but that stray reference does not convert the statutorily described petition for review proceeding into an appeal for purposes of the presumption of credibility.
+
+															Historical understandings confirm the point.  Article III courts do not traditionally hear direct appeals from Article II executive agencies.  See, e.g., Ex parte Yerger, 8 Wall. 85 (1869); FCC v. Pottsville Broadcasting Co.,
+
+309 U.S. 134, 144 (1940).  Instead, judicial intervention generally comes, if at all, thanks to some collateral review process Congress has prescribed, initiating a new action in the federal courts.  See, e.g., 5 U. S. C. §§702–703 (authorizing parties to challenge agency action not by an appeal, but by “[a]n action in a court of the United States” in which the “United States may be named as a defendant”).  Of course, Congress may sometimes refer to collateral judicial review of executive action as “an appeal,” see, e.g.,
+
+35 U. S. C. §141; Fed. Rule App. Proc. 15, but that does not make it an “appeal” akin to that taken from the district court to the court of appeals, or from the IJ to the BIA.  In any event, this is an easy case because the INA provides that “a petition for review . . . shall be the sole and exclusive means for judicial review of an order of removal.”
+
+8 U. S. C. §1252(a)(5).
+
+															That the presumption of credibility applies only “on appeal” to the BIA makes sense as a matter of basic administrative law principles too.  Reviewing courts have no need for a presumption of credibility one way or the other because they do not make credibility determinations.  Instead, courts deferentially review the agency’s fact determinations.  See §1252(b)(4)(B); see also
+
+5 U. S. C. §706(2)(E).  The IJ—who actually observes the witness—is best positioned to assess the applicant’s credibility in the first instance.  The credibility presumption encourages the IJ to make specific findings about credibility.  And then the BIA—which has experience with the sort of facts that recur in immigration cases and the ability to directly override the IJ’s factfindings—is well positioned to apply the credibility presumption if the IJ has not made an explicit finding.
+
+															All of which returns us to where we began.  A presumption of credibility may arise in some appeals before the BIA.  But no such presumption applies in antecedent proceedings before an IJ, or in subsequent collateral review before a federal court.  The only question for judges reviewing the BIA’s factual determinations is whether any reasonable adjudicator could have found as the agency did.  The Ninth Circuit’s rule mistakenly flips this standard on its head.  Rather than ask whether the agency’s finding qualifies as one of potentially many reasonable possibilities, it gives conclusive weight to any piece of testimony that cuts against the agency’s finding.  That was error.
+
+															B
+
+															Perhaps recognizing the problems with the Ninth Circuit’s rule, Mr. Alcaraz-Enriquez and Mr. Dai ask us to affirm that court’s judgments primarily by means of a different, though closely related, chain of reasoning.  The argument goes like this:  Because neither the IJ nor the BIA made an explicit adverse credibility determination about their testimony, Mr. Alcaraz-Enriquez and Mr. Dai say they were statutorily entitled to a presumption of credibility in their BIA appeals.  And given that, they insist they are entitled to relief in court because no reasonable adjudicator obliged to presume their credibility could have found against them.  In this version of the argument, Mr. Alcaraz-Enriquez and Mr. Dai acknowledge the proper locus of the presumption of credibility in the agency and the deferential standard of review in collateral judicial proceedings.  But, they insist, they are entitled to relief all the same.  In places, they also suggest that the Ninth Circuit’s decisions below can be read as endorsing their alternative theory.
+
+															 Although we leave the full application of the §1252(b)(4)(B) standard to the Ninth Circuit in the first instance, we reject this alternative argument for affirmance too.  In explaining why, we leave for another day the question what the factfinder must say or do to furnish an “explici[t] adverse credibility determination.”  Even assuming (without deciding) there was no such determination here, the Ninth Circuit’s reasoning was flawed.  One can think about the reason why in either of two ways.
+
+															1
+
+															Start with the fact that the INA’s “presumption” of credibility on appeal is “rebuttable.”  Necessarily, that means the presumption is not conclusive.  Notably, too, unlike the requirement that any initial adverse credibility determination must be “explicitly made,” the INA contains no parallel requirement of explicitness when it comes to rebutting the presumption on appeal. 8 U. S. C. §§1158(b)(1)(B)(iii), 1231(b)(3)(C), 1229a(c)(4)(C).
+
+															Of course, reviewing courts remain bound by traditional administrative law principles, including the rule that judges generally must assess the lawfulness of an agency’s action in light of the explanations the agency offered for it rather than any ex post rationales a court can devise.  See, e.g., SEC v. Chenery Corp.,
+
+318 U.S. 80 (1943).  But none of that means the BIA must follow a particular formula or incant “magic words” like “incredible” or “rebutted” to overcome the INA’s presumption of credibility on appeal.  Cf. INS v. Aguirre-Aguirre,
+
+526 U.S. 415, 431–432 (1999).  To the contrary, a reviewing court must “uphold” even “a decision of less than ideal clarity if the agency’s path may reasonably be discerned.”  Bowman Transp., Inc. v. Arkansas-Best Freight System, Inc.,
+
+419 U.S. 281, 286 (1974); see also
+
+5 U. S. C. §701 et seq.  So long as the BIA’s reasons for rejecting an alien’s credibility are reasonably discernible, the agency must be understood as having rebutted the presumption of credibility.  It need not use any particular words to do so.  And, once more, a reviewing court must uphold that decision unless a reasonable adjudicator would have been compelled to reach a different conclusion. 8 U. S. C. § 1252(b)(4)(B).
+
+															In the cases before us, the Ninth Circuit did not consider the possibility that the BIA implicitly found the presumption of credibility rebutted.  In Mr. Alcaraz-Enriquez’s case, the court ignored whether the agency’s statements could be fairly understood as rejecting his credibility.  Concluding that the IJ properly “weigh[ed] and compar[ed]” the probation report and Mr. Alcaraz-Enriquez’s hearing testimony, the BIA cited precedent about how an IJ is “not required to adopt” an applicant’s denial of culpability.  See App. to Pet. for Cert. in No. 19–1156, at 8a; Matter of D–R–, 25 I. & N. Dec. 445, 455 (BIA 2011) (“The [IJ] was not required to credit the respondent’s wholesale denial of any knowledge or culpability”).  The BIA also expressly adopted the IJ’s decision.  The IJ decision, in turn, noted that Mr. Alcaraz-Enriquez’s story changed from the time of the probation report to the time of the hearing, a factor the statute specifically identifies as relevant to credibility.  See §§1158(b)(1)(B)(iii), 1231(b)(3)(C), 1229a(c)(4)(C).  The IJ further concluded that Mr. Alcaraz-Enriquez’s testimony sought to minimize his actions and condone violence against his girlfriend, suggesting the IJ rejected his claim that he intervened only to defend his daughter.  On remand, the Ninth Circuit should consider whether the BIA in fact found the presumption of credibility overcome in this case.  If so, it seems unlikely that conclusion is one no reasonable adjudicator could have reached.
+
+															The same might be said of Mr. Dai’s case.  The BIA specifically highlighted Mr. Dai’s family “voluntarily returning and his not being truthful about it” as “detrimental to his claim.”  App. to Pet. for Cert. in No. 19–1155, at 164a. And here again the BIA adopted the IJ’s decision, which discussed specific problems with Mr. Dai’s assertions about his past persecution and fear of future persecution—including Mr. Dai’s intentional failure to disclose highly probative and damaging facts, his inadequate explanations for contradictions in his presentation, and his ultimate concessions about the “real story.”  Such a detailed analysis certainly goes to the presumption of credibility, even if the agency did not utter the words “adverse credibility finding.”  The INA provides instructions about the appropriate considerations for making a credibility determination, including the witness’s demeanor, candor, and internal inconsistency in his testimony.  See §§1158(b)(1)(B)(iii), 1231(b)(3)(C), 1229a(c)(4)(C).  It is thus unsurprising—and in fact quite helpful for later review—that the IJ addressed many of those questions at length.  By adopting that analysis as its own, the BIA’s decisional path here, too, includes that analysis.  Once more, the Ninth Circuit should consider whether the BIA found that Mr. Dai’s presumption of credibility had been overcome.  And, once more, it is hard to say that decision is one no reasonable adjudicator could have reached.
+
+															2
+
+															There is, however, another problem with the Ninth Circuit’s reasoning in these cases.  Not only is the presumption of credibility before the BIA rebuttable, it applies only with respect to credibility.  §§1158(b)(1)(B)(iii), 1231(b)(3)(C), 1229a(c)(4)(C).  This matters because, when it comes to the forms of relief Mr. Alcaraz-Enriquez and Mr. Dai sought, the INA expressly distinguishes between credibility, persuasiveness, and the burden of proof.  See §§1158(b)(1)(B)(ii), 1231(b)(3)(C), 1229a(c)(4)(B).  In order for an alien’s testimony to carry the day on its own, the statute requires the alien to satisfy the trier of fact on all three counts—showing his “testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee.”  Ibid.  When determining whether an alien has met his burden of proof, the INA further provides that the agency may weigh “the credible testimony along with other evidence of record.”  Ibid.  Accordingly, even if the BIA treats an alien’s evidence as credible, the agency need not find his evidence persuasive or sufficient to meet the burden of proof.  See, e.g., Doe v. Holder, 651 F.3d 824, 830 (CA8 2011); Gutierrez-Orcozo v. Lynch, 810 F.3d 1243, 1246 (CA10 2016).
+
+															Admittedly, credibility and persuasiveness are closely bound concepts, sometimes treated interchangeably, and the line between them doesn’t have to be drawn the same way in every legal context.  But the distinctions the INA draws aren’t entirely unfamiliar either.  Take an example.  Suppose a plaintiff is doing her best to recount a car accident to prove her case for damages.  She testifies earnestly that she thought the traffic light was green when she entered an intersection.  The plaintiff says she was then broadsided by the defendant who was traveling on a cross street and ran a red light.  Later in the proceedings, however, the defendant presents video footage and the testimony of other witnesses, all of which show that it was really the plaintiff who drove through a red light and the defendant who had the right of way.  It’s easy enough to imagine that a factfinder might not describe the plaintiff as lacking credibility—in the sense that she was lying or not “worthy of belief,” Black’s Law Dictionary 448 (10th ed. 2014) (defining “credibility”)—yet find that her testimony on a key fact was outweighed by other evidence and thus unpersuasive or insufficient to prove the defendant’s liability.  It’s not always the case that credibility equals factual accuracy, nor does it guarantee a legal victory.
+
+															The Ninth Circuit erred by treating credibility as dispositive of both persuasiveness and legal sufficiency in these cases.  Even setting aside the credibility of Mr. Alcaraz-Enriquez or Mr. Dai, perhaps the BIA did not find their evidence persuasive or sufficient to meet their burden on essential questions.  In Mr. Alcaraz-Enriquez’s case, the probation report may have outweighed his testimony.  Similarly, in Mr. Dai’s case, his later admissions about his family’s voluntary return and his decision to stay in this country for economic reasons may have outweighed his initial testimony about his past and feared future persecution.  Faced with conflicting evidence, it seems likely that a reasonable adjudicator could find the unfavorable account more persuasive than the favorable version in both cases.
+
+															*
+
+															The Ninth Circuit’s deemed-true-or-credible rule cannot be reconciled with the INA’s terms.  Instead, immigration cases like these should proceed as follows.  First, the factfinder—here the IJ—makes findings of fact, including determinations as to the credibility of particular witness testimony.  The BIA then reviews those findings, applying a presumption of credibility if the IJ did not make an explicit adverse credibility determination.  Finally, the court of appeals must accept the agency’s findings of fact as “conclusive unless any reasonable adjudicator would be compelled to conclude to the contrary.”
+
+															Nor can we affirm the Ninth Circuit’s judgments on alternative grounds.  The Ninth Circuit failed to consider that the BIA may have implicitly rebutted the presumption of credibility.  The Ninth Circuit also erroneously allowed credibility to operate as a trump card, foreclosing the possibility that even credible testimony may be outweighed by other more persuasive evidence or be insufficient to satisfy the burden of proof.  Accordingly, the judgments of the Court of Appeals are vacated, and these cases are remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ Separately, the Ninth Circuit held that the BIA erred by failing to give Mr. Alcaraz-Enriquez the opportunity to cross-examine the witnesses whose testimony was embodied in the probation report.  In their briefing before us, the parties largely proceed on the assumption that the report was properly received, and so do we.  Remaining disputes over the merits and potential forfeiture of this issue can be addressed on remand. 
+
+2
+ Mr. Dai also sought withholding of removal, for which he needed to show that his “life or freedom would be threatened” in China “because of [his] race, religion, nationality, membership in a particular social group, or political opinion.”
+
+8 U. S. C. §1231(b)(3)(A).  Both the BIA and the Ninth Circuit treated this standard as a more-demanding version of the showing needed for asylum.  See App. to Pet. for Cert. in No. 19–1155, p. 164a; Ming Dai v. Sessions, 884 F.3d 858, 874 (2018).  None of the parties disputes this framing, so we focus on the asylum claim alone. 
+
+

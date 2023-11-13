@@ -1,0 +1,235 @@
+::SCDB_caseID:: 2018-010
+::decision_cite:: 16-1363
+::decision_name::  Nielsen v. Preap
+::decision_year:: 2019
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 16–1363
+
+															_________________
+
+															KIRSTJEN M. NIELSEN, SECRETARY OF HOMELAND SECURITY, et al., PETITIONERS v. MONY PREAP, et al.
+
+															BRYAN WILCOX, ACTING FIELD OFFICE DIRECTOR, IMMIGRATION AND CUSTOMS ENFORCEMENT, et al., PETITIONERS v. BASSAM YUSUF KHOURY, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[March 19, 2019]
+
+															
+
+															Justice Breyer, with whom Justice Ginsburg, Justice Sotomayor, and Justice Kagan join, dissenting.
+
+															A provision of the Immigration and Nationality Act,
+
+8 U. S. C. §1226(c), focuses upon potentially deportable noncitizens who have committed certain offenses or have ties to terrorism.  It requires the Secretary of Homeland Security to take those aliens into custody “when . . . released” from prison and to hold them without a bail hearing until Government authorities decide whether to deport them.  The question is whether this provision limits the class of persons in the “no-bail-hearing” category to only those aliens who were taken into custody “when . . . released” from prison, or whether it also places in that “no-bail-hearing” category those aliens who were taken into custody years or decades after their release from prison.
+
+															The critical statutory language is contained in paragraph (2) of this provision.  That paragraph says (with one exception not relevant here) that “an alien described in paragraph (1)” must be held without a bail hearing.  Here we must decide what these words mean.  Do the words “an alien described in paragraph (1)” refer only to those aliens whom the Secretary, following paragraph (1)’s instructions, has “take[n] into custody . . . when the alien is released” from, say, state or federal prison?  Or do these words refer instead to all aliens who have ever committed one of the offenses listed in paragraph (1), regardless of when these aliens were “released” from prison?
+
+															For present purposes, I accept the Court’s holding in Jennings v. Rodriguez, 583 U. S. ___ (2018), that paragraph (2) forbids bail hearings for aliens “described in paragraph (1).”  But see id., at ___ (Breyer, J., dissenting) (slip op., at 2) (interpreting paragraph (2) as not forbidding bail hearings, as the Constitution likely requires them); id., at ___ (majority opinion) (slip op., at 29) (declining to reach constitutional question).  Here, however, the Court goes much further.  The majority concludes that paragraph (2) forbids bail hearings for aliens regardless of whether they are taken into custody “when . . . released” from prison.  Under the majority’s view, the statute forbids bail hearings even for aliens whom the Secretary has detained years or decades after their release from prison.
+
+															The language of the statute will not bear the broad interpretation the majority now adopts.  Rather, the ordinary meaning of the statute’s language, the statute’s structure, and relevant canons of interpretation all argue convincingly to the contrary.  I respectfully dissent.
+
+															I
+
+															A
+
+															The relevant statute,
+
+8 U. S. C. §1226, is entitled “Apprehension and detention of aliens.”  See Appendix A, infra.  Its first subsection, subsection (a), is entitled “Arrest, detention, and release.”  Subsection (a) sets forth the background rule.  It gives the Secretary of Homeland Security (formerly the Attorney General) the authority to “arres[t] and detai[n]” an “alien . . . pending a decision on whether the alien is to be removed from the United States.”  §1226(a).  See ante, at 3, n. 2. It adds that the Secretary “may release the alien” on “bond” or “conditional parole.”  §1226(a)(2).  Federal regulations provide that a person detained under this subsection must receive a bail hearing.  8 CFR §§236.1(d)(1), 1236.1(d)(1) (2018).  With respect to release, however, subsection (a) adds the words “[e]xcept as provided in subsection (c).”
+
+8 U. S. C. §1226(a).
+
+															The subsection containing the exception to which (a) refers—namely, subsection (c)—is entitled “Detention of criminal aliens.”  It consists of two paragraphs.
+
+															Paragraph (1), entitled “Custody,” says that the Secretary “shall take into custody any alien who” is “inadmissible” or “deportable” (by reason of having committed certain offenses or having ties to terrorism) “when the alien is released,” presumably from local, state, or federal criminal custody.  §1226(c)(1) (emphasis added).  Because the relevant offenses are listed in four subparagraphs headed by the letters “A,” “B,” “C,” and “D,” I shall refer to the relevant aliens as “ABCD” aliens.  Thus, for present purposes, paragraph (1) says that the Secretary “shall take into custody any” ABCD alien “when the alien is released” from criminal custody.
+
+															Paragraph (2), entitled “Release,” says that the Secretary “may release an alien described in paragraph (1) only if” the alien falls within a special category—not relevant here—related to witness protection.  §1226(c)(2) (emphasis added).  We held last Term in Jennings that paragraph (2) forbids a bail hearing for “an alien described in paragraph (1)” unless the witness protection exception applies.  583 U. S., at ___–___ (majority opinion) (slip op., at 20–22).
+
+															Here we focus on the meaning of a key phrase in paragraph (2): “an alien described in paragraph (1).”  This is the phrase that identifies the aliens to whom paragraph (2) (and its “no-bail-hearing” requirement) applies.  Does paragraph (1) “describ[e]” all ABCD aliens, even those whom the Secretary has “take[n] into custody” many years after their release from prison?  Or does it “describ[e]” only those aliens whom the Secretary has “take[n] into cus- tody . . . when the alien [was] released” from prison?
+
+															B
+
+															The issue may sound technical.  But it is extremely important.  That is because the Government’s reading of the statute—namely, that paragraph (2) forbids bail hearings for all ABCD aliens regardless of whether they were detained “when . . . released” from criminal custody—would significantly expand the Secretary’s authority to deny bail hearings.  Under the Government’s view, the aliens subject to detention without a bail hearing may have been released from criminal custody years earlier, and may have established families and put down roots in a community.  These aliens may then be detained for months, sometimes years, without the possibility of release; they may have been convicted of only minor crimes—for example, minor drug offenses, or crimes of “moral turpitude” such as illegally downloading music or possessing stolen bus transfers; and they sometimes may be innocent spouses or children of a suspect person.  Moreover, for a high percentage of them, it will turn out after months of custody that they will not be removed from the country because they are eligible by statute to receive a form of relief from removal such as cancellation of removal.  These are not mere hypotheticals.  See Appendix B, infra.  Thus, in terms of potential consequences and basic American legal traditions, see infra, at 11–12, the question before us is not a “narrow” one, ante, at 2 (Kavanaugh, J., concurring).
+
+															Why would Congress have granted the Secretary such broad authority to deny bail hearings, especially when doing so would run contrary to basic American and  common-law traditions?  See Jennings, supra, at ___–___ (Breyer, J., dissenting) (slip op., at 8–10).  The answer is that Congress did not do so.  Ordinary tools of statutory interpretation demonstrate that the authority Congress granted to the Secretary is far more limited.
+
+															II
+
+															The statute’s language, its structure, and relevant canons of interpretation make clear that the Secretary cannot hold an alien without a bail hearing unless the alien is “take[n] into custody . . . when the alien is released” from criminal custody.  §1226(c)(1).
+
+															A
+
+															Consider the statute’s language.  Paragraph (1) of subsection (c) provides that the Secretary “shall take into custody” any ABCD alien—that is, any alien who is “inadmissible” or “deportable” under the subparagraphs labeled “A,” “B,” “C,” and “D”—“when the alien is released” from, say, state or federal prison.  Ibid.  Paragraph (2), meanwhile, generally forbids a bail hearing for “an alien described in paragraph (1).”  §1226(c)(2).
+
+															The key phrase in paragraph (2) is “an alien described in paragraph (1).”  As a matter of ordinary meaning and usage, the words “take into custody . . . when the alien is released” in paragraph (1) form part of the description of the “alien”: An “alien described in paragraph (1)” is an ABCD alien whom the Secretary has “take[n] into cus- tody . . . when the alien is released” from prison.
+
+															The majority emphasizes a grammatical point—namely, that ordinarily only adjectives or adjectival phrases “modify” nouns.  Ante, at 12. But the statute does not use the word “modify.”  It uses the word “described.”  While the word “describe” will in some contexts refer only to the words that directly “modify” a noun, normally it has a broader meaning.  Compare American Heritage Dictionary 490 (5th ed. 2011) (to “describe” is to “convey an idea or impression of”) and Webster’s Third New International Dictionary 610 (1986) (to “describe” is to “convey an image or notion of”) with P. Peters, The Cambridge Guide to English Usage 355 (2004) (defining a “modifie[r]” as a word that “qualifies” a noun).
+
+															The common rules of grammar make the broad scope of the word “described” obvious.  They demonstrate that a noun often is “described” by more than just the adjectives that modify it.  Consider the following sentence: “The well-behaved child was taken by a generous couple to see Hamilton.”  That sentence, written in the passive voice, describes the “child” not only as “well-behaved” but also as someone “taken by a generous couple to see Hamilton.”  The description of the child would not differ were we to write the sentence in the active voice: “The generous couple took the well-behaved child to see Hamilton.”  The action taken by the “generous couple” (“took . . . to see Hamilton”) still “describes” the “child,” even though these words do not “modify” the word “child.”  That is because a person who has been subjected to an action can be described by that action no less than by an adjective.  See Peters, supra, at 386 (describing such a person as someone “affected by the action”); B. Garner, The Chicago Guide to Grammar, Usage, and Punctuation 452 (2016) (describing such a person as someone who “is acted on by or receives the action”); see also R. Huddleston & G. Pullum, The Cambridge Grammar of the English Language 1436 (2002) (noting the “large-scale overlap” between adjectives and certain verb forms).
+
+															An example illustrates how these principles apply to the statute at issue here.  Imagine the following cookbook recipe.  Instruction (1) says: “(1) Remove the Angus steak from the grill when the steak is cooked to 120 degrees Fahrenheit.”  Instruction (4) says: “(4) Let the steak described in Instruction (1) rest for ten minutes and then serve it.”  What would we say of a chef who grilled an Angus steak to 185 degrees Fahrenheit, served it, and then appealed to these instructions—particularly the word “described” in Instruction (4)—as a justification?  That he was not a good cook?  That he had an odd sense of humor?  Or simply that he did not understand the instructions?  The chef would have no good textual defense: The steak “described in Instruction (1)” is not just an “Angus” steak, but an “Angus” steak that must be “remove[d] . . . when the steak is cooked to 120 degrees Fahrenheit.”  By the same logic, the alien in paragraph (1) is “described” not only by the four clauses—A, B, C, and D—that directly modify the word “alien,” but also by the verb (“shall take”) and that verb’s modifier (“when the alien is released”).
+
+															The majority argues that “the crucial point” is that the phrase “when the alien is released” plays “no role in identifying for the Secretary which aliens she must immediately arrest.”  Ante, at 13.  That may be so.  But why is that a “crucial point” in the majority’s favor?  After all, in the example above, the words “[r]emove . . . from the grill when the steak is cooked to 120 degrees Fahrenheit” do not tell our chef what kind of steak to cook in the first place.  (The word “Angus” does that.)  Even so, those words still “describe” the steak that must be served in Instruction (4).  Why?  Because by the time our chef gets to Instruction (4), the recipe contemplates that the action in Instruction (1) has been completed.  At that point, the “steak described in Instruction (1)” is a steak that has been cooked in the manner mandated by Instruction (1).
+
+															The same is true of the two paragraphs before us.  The key word “described” appears not in paragraph (1), but in paragraph (2).  Paragraph (2) refers back to the entirety of paragraph (1).  And because paragraph (2) is the release provision, it contemplates that the action mandated by paragraph (1)—namely, detention—has already occurred.  Thus, the function of the phrase “an alien described in paragraph (1)” is not to describe who must be detained, but instead to describe who must be denied bail.
+
+															In short, the language demonstrates that an alien is “described in paragraph (1)”—and therefore subject to paragraph (2)’s bar on bail hearings—only if the alien is “take[n] into custody . . . when the alien is released.”
+
+															B
+
+															The statute’s structure and context support this reading of the phrase “an alien described in paragraph (1).”
+
+															First, “Congress often drafts statutes with hierarchical schemes—section, subsection, paragraph, and on down the line.”  NLRB v. SW General, Inc., 580 U. S. ___, ___ (2017) (slip op., at 9).  Congress employed that structure “to make precise cross-references” throughout the immigration code.  Ibid.  As relevant here, in a different detention provision enacted alongside the provision at issue here, Congress said that the Government “may release the alien only if the alien is an alien described in subparagraph (A)(ii) or (A)(iii).”  Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA), §303(b)(3)(B),
+
+110Stat.
+3009–587.  Yet Congress did not make such a precise cross-reference in paragraph (2): It did not refer to “an alien described in subparagraphs (A)–(D) of paragraph (1),” as it could have—and would have—done had it intended the majority’s narrow interpretation.  Instead, it referred to aliens “described” in the entirety of paragraph (1).
+
+															We usually “presume differences in language like this convey differences in meaning.”  Henson v. Santander Consumer USA Inc., 582 U. S. ___, ___ (2017) (slip op., at 6).  The cross-reference to all of paragraph (1) reinforces that “an alien described in paragraph (1)” is not just an ABCD alien, but an ABCD alien whom (in the words of paragraph (1)) the Secretary “take[s] into custody . . . when the alien is released” from criminal confinement.
+
+															Second, consider the structural similarity between subsections (a) and (c).  See Appendix A, infra.  The first sentence of subsection (a) sets forth a detention rule: An “alien may be arrested and detained” pending a decision on the alien’s removal.
+
+8 U. S. C. §1226(a).  And the second sentence sets forth a release rule that allows for release on bond and parole.  Ibid.  Subsection (c) has a parallel structure.  The first sentence (namely, paragraph (1)) says that the Secretary must “take into custody” a subset of those aliens “when the alien is released” from criminal custody.  §1226(c)(1).  And the second sentence (namely, paragraph (2)) sets forth the rule that “an alien described in paragraph (1)” generally may not be released.  §1226(c)(2).
+
+															It is obvious that the second sentence of (a) applies only to those aliens who are detained following the rule in (a)’s first sentence.  Parallel structure suggests that the same is true in (c): The second sentence of (c) applies only to those detained following the rule in (c)’s first sentence.  Subsection (a)’s reference to (c) strengthens this structural inference: Subsection (a) says that its release rule applies “[e]xcept as provided in subsection (c)”—that is, except as provided in the whole of subsection (c), not simply paragraph (2) or the few lines the majority picks from (c)’s text.
+
+															Thus, the release rule in each subsection (the second sentence) applies only if the Secretary complies with the detention rule in that subsection (the first sentence).  In light of “the parallel structures of these provisions,” it would “flou[t] the text” to find that an alien is subject to (c)’s release rule, which forbids release, without also finding that the alien was detained in accordance with (c)’s detention rule, which requires the alien to be detained “when . . . released.”  Chan v. Korean Air Lines, Ltd.,
+
+490 U.S. 122, 132 (1989).
+
+															The majority responds that subsections (a) and (c) do not “establis[h] separate sources of arrest and release authority,” and that (c) is merely “a limit” on the authority granted by (a).  Ante, at 15.  But even if (c) were treated as a “limit” on the authority granted by (a), the parallel structure of the statute would still point to the same conclusion: The Secretary must comply with the limit on detention in the first sentence of (c) in order to invoke the rule on release in the second sentence of (c).
+
+															Third, Congress’ enactment of a special “transition” statute strengthens the point.  When Congress enacted subsection (c), it recognized that there might be “insufficient detention space” and “personnel” to carry out subsection (c)’s requirements.  IIRIRA, §303(b)(2),
+
+110Stat.
+3009–586.  It therefore authorized the Government to delay implementation of subsection (c)—initially for one year, then for a second year.  Ibid.
+
+															If the majority were correct that the “when . . . released” provision does not set a time limit on the Secretary’s authority to deny bail hearings, then a special transition statute delaying implementation for one year would have been unnecessary.  To avoid overcrowding, the Government simply could have delayed arresting aliens for 1, 2, 5, or 10 years, as the majority believes it can do, and then deny them bail hearings.  What need for a 1-year transition period?  The majority responds that the transition statute still served a purpose: to “dela[y] the onset of the Secretary’s obligation to begin making arrests.”  Ante, at 21.  But that just raises the question: Why would Congress have needed to “dela[y] the onset of the Secretary’s obligation” if it thought that the Secretary could detain aliens without a bail hearing after a year-long delay?  The majority offers no good answer.  The transition statute therefore strongly suggests that Congress viewed the “when . . . released” provision as a constraint on the Secretary’s authority to deny a bail hearing.
+
+															The transition statute also supports this conclusion in another respect: It demonstrates that Congress anticipated that subsection (c) would apply only to aliens “released” from state or federal prison.  As noted, clauses A, B, C, and D in paragraph (1) cover some aliens who have never been in criminal custody.  Supra, at 4.  Even the majority acknowledges that it would be bizarre if these aliens could be detained without a bail hearing.  Ante, at 23. The transition statute confirms as much: It indicates that “the provisions of [subsection (c)] shall apply to individuals released after” the transition period concludes.  IIRIRA, §303(b)(2),
+
+110Stat.
+3009–586 (emphasis added).  From this it follows that Congress saw paragraph (2) as forbidding bail hearings only for aliens who have been “released.”  That, however, can be true only if the “when . . . released” provision limits the class of aliens subject to paragraph (2)’s “no-bail-hearing” requirement.  The majority’s contrary reading, under which paragraph (2) applies “regardless of . . . whether the alien was released from criminal custody,” ante, at 25, conflicts with how Congress itself described the scope of subsection (c) when it enacted the statute.
+
+															C
+
+															Even if statutory text and structure were not enough to resolve these cases, the Government’s reading would fail for another reason.  A well-established canon of statutory interpretation provides that, “if fairly possible,” a statute must be construed “so as to avoid not only the conclusion that it is unconstitutional but also grave doubts upon that score.”  United States v. Jin Fuey Moy,
+
+241 U.S. 394, 401 (1916).  See Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Constr. Trades Council,
+
+485 U.S. 568, 575 (1988) (using word “serious” instead of “grave”).  The Government’s reading of the statute, which the majority adopts, construes the statute in a way that creates serious constitutional problems.  That reading would give the Secretary authority to arrest and detain aliens years after they have committed a minor crime and then hold them without a bail hearing for months or years.  This possibility is not simply theoretical.  See Appendix B, infra.
+
+															In Jennings, I explained why I believe the practice of indefinite detention without a bail hearing likely deprives a “person” of his or her “liberty . . . without due process of law.”  U. S. Const., Amdt. 5.  See 583 U. S., at ___ (dissenting opinion) (slip op., at 5).  This practice runs counter to “those settled usages and modes of proceeding existing in the common and statute law of England, before the emigration of” the Founders’ “ancestors.”  Murray’s Lessee v. Hoboken Land & Improvement Co., 18 How. 272, 277 (1856).  It runs counter to practices well established at the time of the American Revolution.  Jennings, supra, at ___–___ (slip op., at 9–10).  And it runs counter to common sense: Why would the law grant a bail hearing to a person accused of murder but deny it to a person who many years before committed a crime perhaps no greater than possessing a stolen bus transfer?  See Appendix B, infra.
+
+															I explained much of the constitutional problem in my dissent in Jennings.  Rather than repeat what I wrote there, I refer the reader to that opinion.  See Jennings, supra, at ___ (slip op., at 1). I add only the obvious point that a bail hearing does not mean release on bail.  It simply permits the person held to demonstrate that, if released, he will neither run away nor pose a threat.  It is especially anomalous to take this opportunity away from an alien who committed a crime many years before and has since reformed, living productively in a community.
+
+															The majority’s reading also creates other anomalies.  As I have said, by permitting the Secretary to hold aliens without a bail hearing even if they were not detained “when . . . released,” the majority’s reading would allow the Secretary to hold indefinitely without bail those who have never been to prison and who received only a fine or probation as punishment.  Supra, at 4, 10–11. See, e.g., §1226(c)(1)(A) (incorporating §1182(a)(2), which covers controlled substance offenses for which the maximum penalty exceeds one year); Brief for Advancement Project et al. as Amici Curiae 19, 24, 29 (describing examples).  That fact simply aggravates the constitutional problem.
+
+															III
+
+															Although the Court of Appeals correctly concluded that paragraph (2)’s prohibition on release applies only to an alien whom the Secretary “take[s] into custody . . . when the alien is released” from criminal custody, it also held that the phrase “when the alien is released” means that the Secretary must grant a bail hearing to any alien who is not “ ‘immediately detained’ when released from criminal custody.”  Preap v. Johnson, 831 F.3d 1193, 1207 (CA9 2016).  I disagree with the Court of Appeals as to the meaning of the phrase “when the alien is released.”
+
+															A
+
+															As an initial matter, the phrase “when the alien is released” imposes an enforceable statutory deadline.  I cannot agree with Justice Alito, who writes for a plurality of the Court on this point, that our cases holding certain statutory deadlines unenforceable are applicable here.  Ante, at 17.  See, e.g., Barnhart v. Peabody Coal Co.,
+
+537 U.S. 149, 152 (2003) (holding that the Government’s untimeliness did not bar it from taking action beyond the statutory deadline); United States v. Montalvo-Murillo,
+
+495 U.S. 711, 713–714 (1990) (holding that a provision requiring a detention hearing to “ ‘be held immediately’ ” did not bar detention in the event of a late hearing); Brock v. Pierce County,
+
+476 U.S. 253, 266 (1986) (holding that the Government’s failure to observe a 120-day statutory deadline did not deprive it of authority under the statute).
+
+															I disagree with the plurality on this point because our case law makes clear that a statutory deadline against the Government must be enforced at least in contexts where “other part[s]” of the relevant statutes indicate that the time limit must be enforced, Montalvo-Murillo, supra, at 717; see also Barnhart, supra, at 161, 163; Dolan v. United States,
+
+560 U.S. 605, 613 (2010); where the statute “ ‘specif[ies] a consequence for noncompliance’ ” with the time limit, Barnhart, supra, at 159 (quoting United States v. James Daniel Good Real Property,
+
+510 U.S. 43, 63 (1993)); or where the harms caused by the Government’s delay are likely to be serious, see Dolan, supra, at 615–616; Montalvo-Murillo, supra, at 719–720.
+
+															Here, the special transition statute Congress enacted alongside subsection (c) makes clear that Congress expected that the mandate that an alien be detained “when . . . released” would be enforceable.  Congress neither wished for nor expected the Secretary to detain aliens more than a year after their release from criminal custody.  IIRIRA, §303(b)(2),
+
+110Stat.
+3009–586.  Why else would Congress have enacted a statute permitting the Government, due to “insufficient detention space and Immigration and Naturalization Service personnel,” to delay implementation of the entirety of subsection (c) for one year?  Ibid.  As I have said, had Congress read the phrase “when the alien is released” as the plurality now reads it, the Government could have delayed implementation for as long as it liked without the need for any transition statute.  Supra, at 10. The transition statute demonstrates that Congress viewed the phrase “when the alien is released” as imposing a deadline.  Based on the transition statute, the Secretary may not delay detention under subsection (c) for longer than one year.
+
+															Moreover, the statute does “ ‘specify a consequence’ ” for the Secretary’s failure to detain an alien “when the alien is released.”  Barnhart, supra, at 159 (quoting James Daniel Good, supra, at 63). In that case, subsection (c) will not apply, and the Secretary must fall back on subsection (a), the default detention and release provision.  Critically, subsection (a) does not guarantee release.  Rather, it leaves much to the Government’s judgment: By regulation, aliens who are subject to subsection (a)’s default detention and release rules will simply receive a hearing at which they can attempt to demonstrate that, if released, they will not pose a risk of flight or a threat to the community.  8 CFR §§236.1(d)(1), 1236.1(d)(1).
+
+															Finally, I have already mentioned the many harms that could befall aliens whom the Secretary does not detain “when . . . released.”  They range from long periods of detention, to detention years or even decades after the alien’s release from criminal custody, to the risk of splitting up families that are long established in a community.  Supra, at 4.  Thus, unlike some of our prior cases, the harm from a missed deadline hardly can be described as “insignificant.”  Montalvo-Murillo, supra, at 719.
+
+															The plurality objects that “Congress could not have meant for judges to ‘enforce’ ” the mandatory detention requirement “in case of delay by—of all things—forbidding its execution.”  Ante, at 19.  But treating the “when the alien is released” clause as an enforceable limit does not prohibit the Secretary from detaining the aliens that subsection (c) requires her to detain.  Rather, the Secretary’s failure to comply with the “when the alien is released” clause carries only one consequence: The Secretary cannot deny a bail hearing.
+
+															B
+
+															So what does the phrase “when the alien is released” mean?  The word “when” can, but does not always, mean “[a]t the time that,” American Heritage Dictionary, at 1971, or “just after the moment that,” Webster’s Third New International Dictionary, at 2602.  But the word only “[s]ometimes impl[ies] suddenness.”  20 Oxford English Dictionary 209 (2d ed. 1989).  It often admits of at least some temporal delay.  A child who is told to “mow the lawn, please, when you get home from school” likely does not have to mow the lawn the second she comes into the house.  She can do a few other things first.
+
+															Mindful of “the greater immigration-related expertise of the Executive Branch” and “the serious administrative needs and concerns inherent in the necessarily extensive [Government] efforts to enforce this complex statute,” I would interpret the word “when” in the same manner as we interpreted other parts of this statute in Zadvydas v. Davis,
+
+533 U.S. 678, 700 (2001).  The words “when the alien is released” require the Secretary to detain aliens under subsection (c) within a reasonable time after their release from criminal custody—presumptively no more than six months.  If the Secretary does not do so, she must grant a bail hearing.  This presumptive 6-month limit is consistent with how long the Government can detain certain aliens while they are awaiting removal from the country.  Id., at 682, 701 (interpreting a different provision, §1231(a)(6)).  To insist upon similar treatment in this context would give the Government sufficient time to detain aliens following their release from local, state, or federal criminal custody.  It would also ensure that the Government does not fall outside the 1-year maximum dictated by the transition statute.  See supra, at 10, 14.
+
+															IV
+
+															To reiterate: The question before us is not “narrow.”  Ante, at 2 (Kavanaugh, J., concurring). See supra, at 4.  That is because we cannot interpret the words of this specific statute without also considering basic promises that America’s legal system has long made to all persons.  In deciphering the intent of the Congress that wrote this statute, we must decide—in the face of what is, at worst, linguistic ambiguity—whether Congress intended that persons who have long since paid their debt to society would be deprived of their liberty for months or years without the possibility of bail.  We cannot decide that question without bearing in mind basic American legal values: the Government’s duty not to deprive any “person” of “liberty” without “due process of law,” U. S. Const., Amdt. 5; the Nation’s original commitment to protect the “unalienable” right to “Liberty”; and, less abstractly and more directly, the longstanding right of virtually all persons to receive a bail hearing.
+
+															I would have thought that Congress meant to adhere to these values and did not intend to allow the Government to apprehend persons years after their release from prison and hold them indefinitely without a bail hearing.  In my view, the Court should interpret the words of this statute to reflect Congress’ likely intent, an intent that is consistent with our basic values.  To speak more technically, I believe that aliens are subject to paragraph (2)’s bar on release only if they are detained “when . . . released” from criminal custody.  To speak less technically, I fear that the Court’s contrary interpretation will work serious harm to the principles for which American law has long stood.
+
+															For these reasons, with respect, I dissent.
+
+															 
+
+															APPENDIXES
+
+															A
+
+															
+
+8 U. S. C. §1226.  “Apprehension and detention of aliens
+
+															
+
+															“(a) Arrest, detention, and release
+
+															“On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States.  Except as provided in subsection (c) and pending such decision, the Attorney General—
+
+															“(1) may continue to detain the arrested alien; and
+
+															“(2) may release the alien on—
+
+															“(A) bond of at least $1,500 with security approved by, and containing conditions prescribed by, the Attorney General; or
+
+															“(B) conditional parole;
+
+															.      .      .      .      .
+
+															“(c) Detention of criminal aliens
+
+															“(1) Custody
+
+															“The Attorney General shall take into custody any alien who—
+
+															“(A) is inadmissible by reason of having committed any offense covered in section 1182(a)(2) of this title,
+
+															“(B) is deportable by reason of having committed any offense covered in section 1227(a)(2)(A)(ii), (A)(iii), (B), (C), or (D) of this title,
+
+															“(C) is deportable under section 1227(a)(2)(A)(i) of this title on the basis of an offense for which the alien has been sentence[d] to a term of imprisonment of at least 1 year, or
+
+															“(D) is inadmissible under section 1182(a)(3)(B) of this title or deportable under section 1227(a)(4)(B) of this title,
+
+															“when the alien is released, without regard to whether the alien is released on parole, supervised release, or probation, and without regard to whether the alien may be arrested or imprisoned again for the same offense.
+
+															“(2) Release
+
+															“The Attorney General may release an alien described in paragraph (1) only if the Attorney General decides pursuant to section 3521 of title 18 that release of the alien from custody is necessary to provide protection to a witness, a potential witness, a person cooperating with an investigation into major criminal activity, or an immediate family member or close associate of a witness, potential witness, or person cooperating with such an investigation, and the alien satisfies the Attorney General that the alien will not pose a danger to the safety of other persons or of property and is likely to appear for any scheduled proceeding.  A decision relating to such release shall take place in accordance with a procedure that considers the severity of the offense committed by the alien.”  (Emphasis added.)
+
+															 
+
+															B
+
+															The following citations support the claims made supra, at 4, regarding the breadth of the Government’s reading of the statute.  I do not intend to suggest that these citations provide a complete description of the many aliens who are detained without a bail hearing under
+
+8 U. S. C. §1226(c).  See Jennings v. Rodriguez, 583 U. S. ___, ___ (2018) (Breyer, J., dissenting) (slip op., at 3) (indicating that thousands of aliens are eligible to be detained under subsection (c), that many are held for six months or longer, and that “[n]early 40% of those who have served criminal sentences receive relief from removal”); Preap v. Johnson, 831 F.3d 1193, 1197 (CA9 2016) (noting that one respondent was detained 11 years after his release from prison); Brief for Advancement Project et al. as Amici Curiae 12 (presenting data from a recent lawsuit in Massachusetts indicating that more than one in five aliens detained under subsection (c) were taken into custody more than five years after their release from prison); §1226(c)(1)(A) (referencing §1182(a)(2), which includes aliens who have committed federal or state controlled substance offenses for which the maximum term of imprisonment exceeds one year); §1226(c)(1)(C) (referencing §1227(a)(2)(A)(i), which applies to aliens convicted of certain crimes “involving moral turpitude”); Hashish v. Gonzales, 442 F.3d 572, 576 (CA7 2006) (illegally downloading music is a crime of “moral turpitude”); Michel v. INS, 206 F.3d 253, 261 (CA2 2000) (possessing stolen bus transfers is a crime of “moral turpitude”); §1226(c)(1)(D) (referencing §1182(a)(3)(B), which covers the “spouse or child” of certain aliens engaged in terrorist activity); §1229b (identifying the requirements for obtaining cancellation of removal).
+													

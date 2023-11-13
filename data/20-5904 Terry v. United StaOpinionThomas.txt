@@ -1,0 +1,110 @@
+::SCDB_caseID:: 2020-066
+::decision_cite:: 20-5904
+::decision_name::  Terry v. United States
+::decision_year:: 2021
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20– 5904
+
+															_________________
+
+															TARAHRICK TERRY, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 14, 2021]
+
+															Justice Thomas delivered the opinion of the Court.
+
+															In 1986, Congress established mandatory-minimum penalties for cocaine offenses.  If the quantity of cocaine involved in an offense exceeded a minimum threshold, then courts were required to impose a heightened sentence.  Congress set the quantity thresholds far lower for crack offenses than for powder offenses.  But it has since narrowed the gap by increasing the thresholds for crack offenses more than fivefold.  The First Step Act of 2018, Pub. L. 115–391,
+
+132Stat.
+5194, makes those changes retroactive and gives certain crack offenders an opportunity to receive a reduced sentence.  The question here is whether crack offenders who did not trigger a mandatory minimum qualify.  They do not.
+
+															I
+
+															In the mid-1980s, the United States witnessed a steep surge in the use of crack cocaine, and news of high-profile, cocaine-related deaths permeated the media.  Witnesses before Congress, and Members of Congress themselves, believed that a “crack epidemic” was also fueling a crime wave.  Crack, they said, was far more addictive and dangerous than powder cocaine; it was cheaper and thus easier to obtain; and these and other factors spurred violent crime.[1]  
+
+															In response to these concerns, Congress quickly passed a bill with near unanimity.[2]  The new law created mandatory-minimum penalties for various drug offenses, and it set much lower trigger thresholds for crack offenses.  The Act included two base penalties that depended on drug quantity: a 5-year mandatory minimum (triggered by 5 grams of crack or 500 grams of powder) and a 10-year mandatory minimum (triggered by 50 grams of crack or 5 kilograms of powder).
+
+100Stat.
+3207–2, 3207–3.  The Act also created a third penalty—possession with intent to distribute an unspecified amount of a schedule I or II drug—that did not treat crack and powder offenses differently, did not depend on drug quantity, and did not include a mandatory minimum.  Id., at 3207–4.
+
+															Petitioner was convicted under this Act and subjected to the third penalty.  In exchange for the Government dropping two firearm charges, petitioner pleaded guilty in 2008 to possession with intent to distribute an unspecified amount of crack.  At sentencing, the District Court determined that his offense involved about 4 grams of crack, a schedule II drug.  See
+
+21 U. S. C. §812; 21 CFR §1308.12 (2006).  It also determined that petitioner was a career offender under the Sentencing Guidelines. United States Sentencing Commission, Guidelines Manual §4B1.1(b) (Nov. 2008) (USSG).  The career-offender Guidelines controlled because they recommended a higher sentence than the drug-quantity Guidelines.  Ibid.  The District Court sentenced petitioner to 188 months, the bottom of the career-offender Guidelines range. 
+
+															All this occurred while Congress was considering whether to change the quantity thresholds for crack penalties.  In 1995, the Sentencing Commission issued a report to Congress stating that it thought the 100-to-1 ratio was too high.  In particular, it stressed that the then-mandatory Guidelines helped make the ratio excessive because the Guidelines, which were not yet in effect when Congress created the ratio, addressed some of Congress’ concerns about crack.  Addressing those concerns through both the ratio and the Guidelines, the Commission said, “doubly punished” offenders.  United States Sentencing Commission, Special Report to the Congress: Cocaine and Federal Sentencing Policy 195–197 (Feb. 1995).  Separately, although the Commission thought that it was reasonable to conclude that “crack cocaine poses greater harms to society than does powder cocaine,” it determined that the ratio overstated the difference in harm.  Ibid.  Finally, the Commission noted that persons convicted of crack offenses were disproportionately black, so a ratio that was too high created a “perception of unfairness” even though there was no reason to believe “that racial bias or animus undergirded the initiation of this federal sentencing law.”  Id., at 153–154, 192.   Members of Congress responded to this and similar reports.  For example, Senators Sessions and Hatch introduced legislation in 2001 to lower the ratio to 20 to 1.  S. 1874, 107th Cong., 1st Sess.  Representative Jackson-Lee led a similar effort in the House, but would have created a 1-to-1 ratio.  H. R. 4545, 110th Cong., 1st Sess. (2007).   
+
+															Two years after petitioner was sentenced, these attempts to change the ratio came to fruition.  In the Fair Sentencing Act of 2010,
+
+124Stat.
+2372, note following 21 U. S. C. 801, Congress reaffirmed its view that the triggering thresholds should be lower for crack offenses, but it reduced the 100-to-1 ratio to about 18 to 1.  It did so by increasing the crack quantity thresholds from 5 grams to 28 for the 5-year mandatory minimum and from 50 grams to 280 for the 10-year mandatory minimum.  §2(a),
+
+124Stat.
+2372.  These changes did not apply to those who had been sentenced before 2010. 
+
+															The Sentencing Commission then altered the drug quantity table used to calculate Guidelines ranges.  USSG §2D1.1(c).  The Commission decreased the recommended sentence for crack offenders to track the statutory change Congress made.  It then made the change retroactive, giving previous offenders an opportunity for resentencing.  Courts were still constrained, however, by the statutory minimums in place before 2010.  Many offenders thus remained sentenced to terms above what the Guidelines recommended.  Congress addressed this issue in 2018 by enacting the First Step Act.  This law made the 2010 statutory changes retroactive and gave courts authority to reduce the sentences of certain crack offenders.  
+
+															Petitioner initially sought resentencing under the new, retroactive Guidelines.  But because his sentence was based on his recidivism, not his drug quantity, his attempt was unsuccessful.  After Congress enacted the First Step Act, petitioner again sought resentencing, this time contending that he falls within the category of crack offenders covered by that Act.  The District Court denied his motion, and the Eleventh Circuit affirmed, holding that offenders are eligible for a sentence reduction only if they were convicted of a crack offense that triggered a mandatory minimum.  828 Fed. Appx. 563 (2020) (per curiam).  We granted certiorari.  592 U. S. ___ (2021).
+
+															On the day the Government’s brief was due, the United States informed the Court that, after the change in administration, it would no longer defend the judgment.  Because of the timeline, the Court rescheduled argument, compressed the briefing schedule, and appointed Adam K. Mortara as amicus curiae to argue in support of the judgment.  He has ably discharged his responsibilities. 
+
+															II
+
+															An offender is eligible for a sentence reduction under the First Step Act only if he previously received “a sentence for a covered offense.”  §404(b),
+
+132Stat.
+5222.  The Act defines “ ‘covered offense’ ” as “a violation of a Federal criminal statute, the statutory penalties for which were modified by” certain provisions in the Fair Sentencing Act.  §404(a), ibid.  Here, “statutory penalties” references the entire, integrated phrase “a violation of a Federal criminal statute.”  United States v. Jones, 962 F.3d 1290, 1298 (CA11 2020).  And that phrase means “offense.”  Black’s Law Dictionary 1300 (11th ed. 2019) (“A violation of the law”).  We thus ask whether the Fair Sentencing Act modified the statutory penalties for petitioner’s offense.  It did not. 
+
+															The elements of petitioner’s offense are presented by two subsections of
+
+21 U. S. C. §841.  Subsection (a) makes it unlawful to knowingly or intentionally possess with intent to distribute any controlled substance.  Subsection (b) lists additional facts that, if proved, trigger penalties.  
+
+															Before 2010, §§841(a) and (b) together defined three crack offenses relevant here. The elements of the first offense were (1) knowing or intentional possession with intent to distribute, (2) crack, of (3) at least 50 grams.  §§841(a), (b)(1)(A)(iii).  This subparagraph (A) offense was punishable by 10 years to life, in addition to financial penalties and supervised release.  The elements of the second offense were (1) knowing or intentional possession with intent to distribute, (2) crack, of (3) at least 5 grams.  §§841(a), (b)(1)(B)(iii).  This subparagraph (B) offense was punishable by 5-to-40 years, in addition to financial penalties and supervised release.  And the elements of the third offense were (1) knowing or intentional possession with intent to distribute, (2) some unspecified amount of a schedule I or II drug.  §§841(a), (b)(1)(C).  
+
+															Petitioner was convicted of the third offense—subparagraph (C).  Before 2010, the statutory penalties for that offense were 0-to-20 years, up to a $1 million fine, or both, and a period of supervised release.[3]  After 2010, these statutory penalties remain exactly the same.  The Fair Sentencing Act thus did not modify the statutory penalties for petitioner’s offense.  
+
+															Petitioner’s offense is starkly different from the offenses that triggered mandatory minimums.  The Fair Sentencing Act plainly “modified” the “statutory penalties” for those.  It did so by increasing the triggering quantities from 50 grams to 280 in subparagraph (A) and from 5 grams to 28 in subparagraph (B).  Before 2010, a person charged with the original elements of subparagraph (A)—knowing or intentional possession with intent to distribute at least 50 grams of crack—faced a prison range of between 10 years and life.  But because the Act increased the trigger quantity under subparagraph (A) to 280 grams, a person charged with those original elements after 2010 is now subject to the more lenient prison range for subparagraph (B): 5-to-40 years.  Similarly, the elements of an offense under subparagraph (B) before 2010 were knowing or intentional possession with intent to distribute at least 5 grams of crack.  Originally punishable by 5-to-40 years, the offense defined by those elements[4] is now punishable by 0-to-20 years—that is, the penalties under subparagraph (C).  The statutory penalties thus changed for all subparagraph (A) and (B) offenders.  But no statutory penalty changed for subparagraph (C) offenders.  That is hardly surprising because the Fair Sentencing Act addressed “cocaine sentencing disparity,” §2,
+
+124Stat.
+2372, and subparagraph (C) had never differentiated between crack and powder offenses.
+
+															To avoid this straightforward result, petitioner and the United States offer a sleight of hand.  Petitioner says that the phrase “statutory penalties” in fact means “penalty statute.”  The United States similarly asserts that petitioner is eligible for a sentence reduction if the Fair Sentencing Act changed the “penalty scheme.”  
+
+															But we will not convert nouns to adjectives and vice versa.  As stated above, “statutory penalties” references the entire phrase “a violation of a Federal criminal statute.”  It thus directs our focus to the statutory penalties for petitioner’s offense, not the statute or statutory scheme.
+
+															Even if the “penalty statute” or “penalty scheme” were the proper focus, neither was modified for subparagraph (C) offenders.  To “modify” means “to change moderately.”  MCI Telecommunications Corp. v. American Telephone & Telegraph Co.,
+
+512 U.S. 218, 225 (1994).  The Fair Sentencing Act changed nothing in subparagraph (C).  The United States notes that prosecutors before 2010 could charge offenders under subparagraph (B) if the offense involved between 5 and 28 grams of crack; now, prosecutors can charge those offenders only under subparagraph (C).  But even before 2010, prosecutors could charge those offenders under subparagraph (C) because quantity has never been an element under that subparagraph.  See, e.g., United States v. Birt, 966 F.3d 257, 259 (CA3 2020) (noting that an offender charged under subparagraph (C) had possessed 186 grams of crack).  It also defies common parlance to say that altering a different provision modified subparagraph (C).  If Congress abolished the crime of possession with intent to distribute, prosecutors then would have to bring charges under the lesser included offense of simple possession.  But nobody would say that abolishing the first offense changed the second.  
+
+															In light of the clear text, we hold that §2(a) of the Fair Sentencing Act modified the statutory penalties only for subparagraph (A) and (B) crack offenses—that is, the offenses that triggered mandatory-minimum penalties.  The judgment of the Court of Appeals is affirmed.
+
+															
+
+															It is so ordered.
+Notes
+1
+ United States Sentencing Commission, Report to the Congress: Cocaine and Federal Sentencing Policy 5–6, 9–10, and n. 31 (May 2002); “Crack” Cocaine, Hearing before the Permanent Subcommittee on Investigations of the Senate Committee on Governmental Affairs, 99th Cong., 2d Sess., 2, 5–6, 10, 94 (1986). 
+
+2
+ The Act passed the Democratic-controlled House, where it was introduced, 392 to 16.  H. R. 5484, 99th Cong., 2d Sess. (1986); 132 Cong. Rec. 23003–23004 (1986).  It passed the Republican-controlled Senate 97 to 2.  Id., at 27251–27252.  A majority of the Congressional Black Caucus cosponsored and voted for the bill.  Compare id., at 23003, with Hearing before the Congressional Black Caucus, “Brain Trust on Aging” and the House Select Committee on Aging, 99th Cong., 1st Sess., iii (1985).  Many black leaders in that era professed two concerns.  First, crack was fueling crime against residents in inner cities, who were predominantly black.  For example, the president of an NAACP chapter in the D. C. region called crack “ ‘the worst thing to hit us since slavery,’ ” a sentiment echoed by the leading black newspaper in Los Angeles.  J. Forman, Jr., Locking Up Our Own 158 (2017).  Second, there were concerns that prosecutors were not taking these kinds of crimes seriously enough because the victims were disproportionately black.  In the words of John Ray, a D. C. councilmember who spearheaded a successful effort to create mandatory minimum penalties: “ ‘Black crimes against blacks get very low sentences,’ ” unlike crimes against whites.  Id., at 132. 
+
+3
+ All three subparagraphs carried, and continue to carry, heightened penalties if an offense caused death or serious bodily injury or if the defendant was a repeat offender.  Petitioner’s actual sentencing range under subparagraph (C) was 0-to-30 years because he had a prior felony drug offense.  828 Fed. Appx. 563, 565 (CA11 2020).  Because these enhancements are identical before and after 2010, they make no difference to the analysis.  Petitioner’s enhancement for his prior conviction is thus omitted from the body of the opinion for the sake of simplicity. 
+
+4
+ Of course, an indictment that charged a person with 5 grams of crack now is no different from one charging the person with an unspecified amount of crack.  The usual practice is to ignore extraneous language in an indictment. E.g., Ford v. United States,
+
+273 U.S. 593, 602 (1927). 
+
+

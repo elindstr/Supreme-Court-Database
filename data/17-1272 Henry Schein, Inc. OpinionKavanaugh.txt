@@ -1,0 +1,105 @@
+::SCDB_caseID:: 2018-012
+::decision_cite:: 17-1272
+::decision_name::  Henry Schein, Inc. v. Archer & White Sales, Inc.
+::decision_year:: 2019
+::opinion_author:: Kavanaugh
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1272
+
+															_________________
+
+															HENRY SCHEIN, INC., et al., PETITIONERS v. ARCHER AND WHITE SALES, INC.
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[January 8, 2019]
+
+															
+
+															Justice Kavanaugh delivered the opinion of the Court.
+
+															Under the Federal Arbitration Act, parties to a contract may agree that an arbitrator rather than a court will resolve disputes arising out of the contract.  When a dispute arises, the parties sometimes may disagree not only about the merits of the dispute but also about the threshold arbitrability question—that is, whether their arbitration agreement applies to the particular dispute.  Who decides that threshold arbitrability question?  Under the Act and this Court’s cases, the question of who decides arbitrability is itself a question of contract.  The Act allows parties to agree by contract that an arbitrator, rather than a court, will resolve threshold arbitrability questions as well as underlying merits disputes.  Rent-A-Center, West, Inc. v. Jackson,
+
+561 U. S. 63, 68−70 (2010); First Options of Chicago, Inc. v. Kaplan,
+
+514 U. S. 938, 943−944 (1995).
+
+															Even when a contract delegates the arbitrability question to an arbitrator, some federal courts nonetheless will short-circuit the process and decide the arbitrability question themselves if the argument that the arbitration agreement applies to the particular dispute is “wholly groundless.”  The question presented in this case is whether the “wholly groundless” exception is consistent with the Federal Arbitration Act.  We conclude that it is not.  The Act does not contain a “wholly groundless” exception, and we are not at liberty to rewrite the statute passed by Congress and signed by the President.  When the parties’ contract delegates the arbitrability question to an arbitrator, the courts must respect the parties’ decision as embodied in the contract.  We vacate the contrary judgment of the Court of Appeals.
+
+															I
+
+															Archer and White is a small business that distributes dental equipment.  Archer and White entered into a contract with Pelton and Crane, a dental equipment manufacturer, to distribute Pelton and Crane’s equipment.  The relationship eventually soured.  As relevant here, Archer and White sued Pelton and Crane’s successor-in-interest and Henry Schein, Inc. (collectively, Schein) in Federal District Court in Texas.  Archer and White’s complaint alleged violations of federal and state antitrust law, and sought both money damages and injunctive relief.
+
+															The relevant contract between the parties provided:
+
+															“Disputes.  This Agreement shall be governed by the laws of the State of North Carolina.  Any dispute arising under or related to this Agreement (except for actions seeking injunctive relief and disputes related to trademarks, trade secrets, or other intellectual property of [Schein]), shall be resolved by binding arbitration in accordance with the arbitration rules of the American Arbitration Association [(AAA)].  The place of arbitration shall be in Charlotte, North Carolina.”  App. to Pet. for Cert. 3a.
+
+															After Archer and White sued, Schein invoked the Federal Arbitration Act and asked the District Court to refer the parties’ antitrust dispute to arbitration.  Archer and White objected, arguing that the dispute was not subject to arbitration because Archer and White’s complaint sought injunctive relief, at least in part.  According to Archer and White, the parties’ contract barred arbitration of disputes when the plaintiff sought injunctive relief, even if only in part.
+
+															The question then became: Who decides whether the antitrust dispute is subject to arbitration?  The rules of the American Arbitration Association provide that arbitrators have the power to resolve arbitrability questions.  Schein contended that the contract’s express incorporation of the American Arbitration Association’s rules meant that an arbitrator—not the court—had to decide whether the arbitration agreement applied to this particular dispute.  Archer and White responded that in cases where the defendant’s argument for arbitration is wholly groundless—as Archer and White argued was the case here—the District Court itself may resolve the threshold question of arbitrability.
+
+															Relying on Fifth Circuit precedent, the District Court agreed with Archer and White about the existence of a “wholly groundless” exception, and ruled that Schein’s argument for arbitration was wholly groundless.  The District Court therefore denied Schein’s motion to compel arbitration.  The Fifth Circuit affirmed.  
+
+															In light of disagreement in the Courts of Appeals over whether the “wholly groundless” exception is consistent with the Federal Arbitration Act, we granted certiorari, 585 U. S. ___ (2018).  Compare 878 F. 3d 488 (CA5 2017) (case below); Simply Wireless, Inc. v. T-Mobile US, Inc., 877 F. 3d 522 (CA4 2017); Douglas v. Regions Bank, 757 F. 3d 460 (CA5 2014); Turi v. Main Street Adoption Servs., LLP, 633 F. 3d 496 (CA6 2011); Qualcomm, Inc. v. Nokia Corp., 466 F. 3d 1366 (CA Fed. 2006), with Belnap v. Iasis Healthcare, 844 F. 3d 1272 (CA10 2017); Jones v. Waffle House, Inc., 866 F. 3d 1257 (CA11 2017); Douglas, 757 F. 3d, at 464 (Dennis, J., dissenting).
+
+															II
+
+															In 1925, Congress passed and President Coolidge signed the Federal Arbitration Act.  As relevant here, the Act provides:
+
+															“A written provision in . . . a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract . . . shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.”
+
+9 U. S. C. §2.
+
+															Under the Act, arbitration is a matter of contract, and courts must enforce arbitration contracts according to their terms.  Rent-A-Center, 561 U. S., at 67.  Applying the Act, we have held that parties may agree to have an arbitrator decide not only the merits of a particular dispute but also “ ‘gateway’ questions of ‘arbitrability,’ such as whether the parties have agreed to arbitrate or whether their agreement covers a particular controversy.”  Id., at 68–69; see also First Options, 514 U. S., at 943.  We have explained that an “agreement to arbitrate a gateway issue is simply an additional, antecedent agreement the party seeking arbitration asks the federal court to enforce, and the FAA operates on this additional arbitration agree- ment just as it does on any other.”  Rent-A-Center, 561 U. S., at 70.
+
+															Even when the parties’ contract delegates the threshold arbitrability question to an arbitrator, the Fifth Circuit and some other Courts of Appeals have determined that the court rather than an arbitrator should decide the threshold arbitrability question if, under the contract, the argument for arbitration is wholly groundless.  Those courts have reasoned that the “wholly groundless” exception enables courts to block frivolous attempts to transfer disputes from the court system to arbitration.
+
+															We conclude that the “wholly groundless” exception  is inconsistent with the text of the Act and with our  precedent.
+
+															We must interpret the Act as written, and the Act in turn requires that we interpret the contract as written.  When the parties’ contract delegates the arbitrability question to an arbitrator, a court may not override the contract.  In those circumstances, a court possesses no power to decide the arbitrability issue.  That is true even if the court thinks that the argument that the arbitration agreement applies to a particular dispute is wholly groundless.
+
+															That conclusion follows not only from the text of the Act but also from precedent.  We have held that a court may not “rule on the potential merits of the underlying” claim that is assigned by contract to an arbitrator, “even if it appears to the court to be frivolous.”  AT&T Technologies, Inc. v. Communications Workers,
+
+475 U. S. 643, 649–650 (1986).  A court has “ ‘no business weighing the merits of the grievance’ ” because the “ ‘agreement is to submit all grievances to arbitration, not merely those which the court will deem meritorious.’ ”  Id., at 650 (quoting Steelworkers v. American Mfg. Co.,
+
+363 U. S. 564, 568 (1960)).
+
+															That AT&T Technologies principle applies with equal force to the threshold issue of arbitrability.  Just as a court may not decide a merits question that the parties have delegated to an arbitrator, a court may not decide an arbitrability question that the parties have delegated to an arbitrator.
+
+															In an attempt to overcome the statutory text and this Court’s cases, Archer and White advances four main arguments.  None is persuasive.
+
+															First, Archer and White points to §§3 and 4 of the Federal Arbitration Act.  Section 3 provides that a court must stay litigation “upon being satisfied that the issue” is “referable to arbitration” under the “agreement.”  Section 4 says that a court, in response to a motion by an aggrieved party, must compel arbitration “in accordance with the terms of the agreement” when the court is “satisfied that the making of the agreement for arbitration or the failure to comply therewith is not in issue.”
+
+															Archer and White interprets those provisions to mean, in essence, that a court must always resolve questions of arbitrability and that an arbitrator never may do so.  But that ship has sailed.  This Court has consistently held that parties may delegate threshold arbitrability questions to the arbitrator, so long as the parties’ agreement does so by “clear and unmistakable” evidence.  First Options, 514 U. S., at 944 (alterations omitted); see also Rent-A-Center, 561 U. S., at 69, n. 1.  To be sure, before referring a dispute to an arbitrator, the court determines whether a valid arbitration agreement exists.  See
+
+9 U. S. C. §2.  But if a valid agreement exists, and if the agreement delegates the arbitrability issue to an arbitrator, a court may not decide the arbitrability issue.
+
+															Second, Archer and White cites §10 of the Act, which provides for back-end judicial review of an arbitrator’s decision if an arbitrator has “exceeded” his or her “powers.”  §10(a)(4).  According to Archer and White, if a court at the back end can say that the underlying issue was not arbitrable, the court at the front end should also be able to say that the underlying issue is not arbitrable.  The dispositive answer to Archer and White’s §10 argument is that Congress designed the Act in a specific way, and it is not our proper role to redesign the statute.  Archer and White’s §10 argument would mean, moreover, that courts presumably also should decide frivolous merits questions that have been delegated to an arbitrator.  Yet we have already rejected that argument: When the parties’ contract assigns a matter to arbitration, a court may not resolve the merits of the dispute even if the court  thinks that a party’s claim on the merits is frivolous.  AT&T Technologies, 475 U. S., at 649−650.  So, too, with arbitrability.
+
+															Third, Archer and White says that, as a practical and policy matter, it would be a waste of the parties’ time and money to send the arbitrability question to an arbitrator if the argument for arbitration is wholly groundless.  In cases like this, as Archer and White sees it, the arbitrator will inevitably conclude that the dispute is not arbitrable and then send the case back to the district court.  So why waste the time and money?  The short answer is that the Act contains no “wholly groundless” exception, and we may not engraft our own exceptions onto the statutory text.  See Exxon Mobil Corp. v. Allapattah Services, Inc.,
+
+545 U. S. 546, 556−557 (2005).
+
+															In addition, contrary to Archer and White’s claim, it is doubtful that the “wholly groundless” exception would save time and money systemically even if it might do so in some individual cases.  Archer and White assumes that it is easy to tell when an argument for arbitration of a particular dispute is wholly groundless.  We are dubious.  The exception would inevitably spark collateral litigation (with briefing, argument, and opinion writing) over whether a seemingly unmeritorious argument for arbitration is wholly groundless, as opposed to groundless.  We see no reason to create such a time-consuming sideshow.
+
+															Archer and White further assumes that an arbitrator would inevitably reject arbitration in those cases where a judge would conclude that the argument for arbitration is wholly groundless.  Not always.  After all, an arbitrator might hold a different view of the arbitrability issue than a court does, even if the court finds the answer obvious.  It is not unheard-of for one fair-minded adjudicator to think a decision is obvious in one direction but for another fair-minded adjudicator to decide the matter the other way.
+
+															Fourth, Archer and White asserts another policy argument: that the “wholly groundless” exception is necessary to deter frivolous motions to compel arbitration.  Again, we may not rewrite the statute simply to accommodate that policy concern.  In any event, Archer and White overstates the potential problem.  Arbitrators can efficiently dispose of frivolous cases by quickly ruling that a claim is not in fact arbitrable.  And under certain circumstances, arbitrators may be able to respond to frivolous arguments for arbitration by imposing fee-shifting and cost-shifting sanctions, which in turn will help deter and remedy frivolous motions to compel arbitration.  We are not aware that frivolous motions to compel arbitration have caused a substantial problem in those Circuits that have not recognized a “wholly groundless” exception.
+
+															In sum, we reject the “wholly groundless” exception.  The exception is inconsistent with the statutory text and with our precedent.  It confuses the question of who decides arbitrability with the separate question of who prevails on arbitrability.  When the parties’ contract delegates the arbitrability question to an arbitrator, the courts must respect the parties’ decision as embodied in the contract.
+
+															We express no view about whether the contract at issue in this case in fact delegated the arbitrability question to an arbitrator.  The Court of Appeals did not decide that issue.  Under our cases, courts “should not assume that the parties agreed to arbitrate arbitrability unless there is clear and unmistakable evidence that they did so.”  First Options, 514 U. S., at 944 (alterations omitted).  On remand, the Court of Appeals may address that issue in the first instance, as well as other arguments that Archer and White has properly preserved.
+
+															The judgment of the Court of Appeals is vacated, and the case is remanded for further proceedings consistent with this opinion.
+
+															It is so ordered.
+													

@@ -1,0 +1,173 @@
+::SCDB_caseID:: 2017-001
+::decision_cite:: 15-1498
+::decision_name::  Sessions v. Dimaya
+::decision_year:: 2018
+::opinion_author:: Roberts
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–1498
+
+															_________________
+
+															JEFFERSON B. SESSIONS, III, ATTORNEY GENERAL, PETITIONER v. JAMES GARCIA DIMAYA
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[April 17, 2018]
+
+															
+
+															Chief Justice Roberts, with whom Justice Kennedy, Justice Thomas, and Justice Alito join, dissenting.
+
+															In Johnson v. United States, we concluded that the residual clause of the Armed Career Criminal Act was unconstitutionally vague, given the “indeterminacy of the wide-ranging inquiry” it required.  576 U. S. ___, ___ (2015) (slip op., at 5).  Today, the Court relies wholly on Johnson—but only some of Johnson—to strike down another provision,
+
+18 U. S. C. §16(b).  Because §16(b) does not give rise to the concerns that drove the Court’s decision in Johnson, I respectfully dissent.
+
+															I
+
+															The term “crime of violence” appears repeatedly throughout the Federal Criminal Code.  Section 16 of Title 18 defines it to mean:
+
+															“(a) an offense that has as an element the use, attempted use, or threatened use of physical force against the person or property of another, or
+
+															“(b) any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.”
+
+															This definition of “crime of violence” is also incorporated in the definition of “aggravated felony” in the Immigration and Nationality Act.  8 U. S. C. §1101(a)(43)(F) (“aggravated felony” includes “a crime of violence (as defined in section 16 of title 18, but not including a purely political offense) for which the term of imprisonment [is] at least one year” (footnote omitted)).  A conviction for an aggravated felony carries serious consequences under the immigration laws.  It can serve as the basis for an alien’s removal from the United States, and can preclude cancellation of removal by the Attorney General.  §§1227(a)(2)(A)(iii), 1229b(a)(3).
+
+															Those consequences came to pass in respondent James Dimaya’s case.  An Immigration Judge and the Board of Immigration Appeals interpreted §16(b) to cover Dimaya’s two prior convictions for first-degree residential burglary under California law, subjecting him to removal.  To stave off that result, Dimaya argued that the language of §16(b) was void for vagueness under the Due Process Clause of the
+ 
+Fifth Amendment.
+
+															The parties begin by disputing whether a criminal or more relaxed civil vagueness standard should apply in resolving Dimaya’s challenge.  A plurality of the Court rejects the Government’s argument in favor of a civil standard, because of the “grave nature of deportation,” Jordan v. De George,
+
+341 U. S. 223, 231 (1951)
+; see ante, at 6 (plurality opinion); Justice Gorsuch does so for broader reasons, see ante, at 10–15 (Gorsuch, J., concurring in part and concurring in judgment).  I see no need to resolve which standard applies, because I would hold that §16(b) is not unconstitutionally vague even under the standard applicable to criminal laws.
+
+															II
+
+															This is not our first encounter with §16(b).  In Leocal v. Ashcroft,
+
+543 U. S. 1 (2004)
+, we were asked to decide whether either subsection of §16 covers a particular category of state crimes, specifically DUI offenses involving no more than negligent conduct.  543 U. S., at 6.  Far from finding §16(b) “hopeless[ly] indetermina[te],” Johnson, 576 U. S., at ___ (slip op., at 7), we considered the provision clear and unremarkable: “while §16(b) is broader than §16(a) in the sense that physical force need not actually be applied,” the provision “simply covers offenses that naturally involve a person acting in disregard of the risk that physical force might be used against another in committing an offense,” Leocal, 543 U. S., at 10–11.  Applying that standard to the state offense at issue, we concluded—unanimously—that §16(b) “cannot be read to include [a] conviction for DUI causing serious bodily injury under Florida law.”  Id., at 11.
+
+															Leocal thus provides a model for how courts should assess whether a particular crime “by its nature” involves a risk of the use of physical force.  At the outset, our opinion set forth the elements of the Florida DUI statute, which made it a felony “for a person to operate a vehicle while under the influence and, ‘by reason of such operation, caus[e] . . . [s]erious bodily injury to another.’ ”  543 U. S., at 7.  Our §16(b) analysis, in turn, focused on those specific elements in concluding that a Florida offender’s acts would not naturally give rise to the requisite risk of force “in the course of committing the offense.”  Id., at 11.  “In no ‘ordinary or natural’ sense,” we explained, “can it be said that a person risks having to ‘use’ physical force against another person in the course of operating a vehicle while intoxicated and causing injury.”  Ibid.
+
+															The Court holds that the same provision we had no trouble applying in Leocal is in fact incapable of reasoned application.  The sole justification for this turnabout is the resemblance between the language of §16(b) and the language of the residual clause of the Armed Career Criminal Act (ACCA) that was at issue in Johnson.  The latter provision defined a “violent felony” to include “any crime punishable by imprisonment for a term exceeding one year . . . that . . . is burglary, arson, or extortion, involves use of explosives, or otherwise involves conduct that presents a serious potential risk of physical injury to another.”
+
+18 U. S. C. §924(e)(2)(B)(ii) (emphasis added).
+
+															In Johnson, we concluded that the ACCA residual clause (the “or otherwise” language) gave rise to two forms of intractable uncertainty, which “conspire[d]” to render the provision unconstitutionally vague.  576 U. S., at ___ (slip op., at 5).  First, the residual clause asked courts to gauge the “potential risk” of “physical injury” posed by the conduct involved in the crime.  Ibid.  That inquiry, we determined, entailed not only an evaluation of the “criminal’s behavior,” but also required courts to consider “how the idealized ordinary case of the crime subsequently plays out.”  Ibid.  Second, the residual clause obligated courts to compare that risk to an indeterminate standard—one that was inextricably linked to the provision’s four enumerated crimes, which presented differing kinds and degrees of risk.  Id., at ___ (slip op., at 6).  This murky confluence of features, each of which “may [have been] tolerable in isolation,” together “ma[de] a task for us which at best could be only guesswork.”  Id., at ___ (slip op., at 10).
+
+															Section 16(b) does not present the same ambiguities. The two provisions do correspond to some extent.  Under our decisions, both ask the sentencing court to consider whether a particular offense, defined without regard to the facts of the conviction, poses a specified risk.  And, relevant to both statutes, we have explained that in deciding whether statutory elements inherently produce a risk, a court must take into account how those elements will ordinarily be fulfilled.  See James v. United States,
+
+550 U. S. 192, 208 (2007)
+ (this categorical inquiry asks “whether the conduct encompassed by the elements of the offense, in the ordinary case, presents” the requisite risk).[1]  In the Court’s view, that effectively resolves this case.  But the Court too readily dismisses the significant textual distinctions between §16(b) and the ACCA residual clause.  See also ante, at 2 (opinion of Gorsuch, J.).  Those differences undermine the conclusion that §16(b) shares each of the “dual flaws” of that clause.  Ante, at 21 (majority opinion).
+
+															To begin, §16(b) yields far less uncertainty “about how to estimate the risk posed by a crime.”  Johnson, 576 U. S., at ___ (slip op., at 5).  There are three material differences between §16(b) and the ACCA residual clause in this respect.  First, the ACCA clause directed the reader to consider whether the offender’s conduct presented a “potential risk” of injury.  Forced to give meaning to that befuddling choice of phrase—which layered one indeterminate term on top of another—we understood the word “potential” to signify that “Congress intended to encompass possibilities even more contingent or remote than “a simple ‘risk.’ ”  James, 550 U. S., at 207–208.  As we explained in Johnson, that made for a “speculative” inquiry “detached from statutory elements.”  576 U. S., at ___ (slip op., at 5).  In other words, the offense elements could not constrain the risk inquiry in the manner they do here.  See Leocal, 543 U. S., at 11.  The “serious potential risk” standard also forced courts to assess in an expansive way the “collateral consequences” of the perpetrator’s acts.  For example, courts had to take into account the concern that others might cause injury in attempting to apprehend the offender.  See Sykes v. United States,
+
+564 U. S. 1, 8
+–9 (2011).  Section 16(b), on the other hand, asks about “risk” alone, a familiar concept of everyday life.  It therefore calls for a commonsense inquiry that does not compel a court to venture beyond the offense elements to consider contingent and remote possibilities.
+
+															Second, §16(b) focuses exclusively on the risk that the offender will “use[ ]” “physical force” “against” another person or another person’s property.  Thus, unlike the ACCA residual clause, “§16(b) plainly does not encompass all offenses which create a ‘substantial risk’ that injury will result from a person’s conduct.”  Leocal, 543 U. S., at 10, n. 7 (emphasis added).  The point is not that an inquiry into the risk of “physical force” is markedly more determinate than an inquiry into the risk of “physical injury.”  But see ante, at 19–20.  The difference is that §16(b) asks about the risk that the offender himself will actively employ force against person or property.  That language does not sweep in all instances in which the offender’s acts, or another person’s reaction, might result in unintended or negligent harm.
+
+															Third, §16(b) has a temporal limit that the ACCA residual clause lacked: The “substantial risk” of force must arise “in the course of committing the offense.”  Properly interpreted, this means the statute requires a substantial risk that the perpetrator will use force while carrying out the crime.  See Leocal, 543 U. S., at 10 (“The reckless disregard in §16 relates . . . to the risk that the use of physical force against another might be required in committing a crime.”).  The provision thereby excludes more attenuated harms that might arise following the completion of the crime.  The ACCA residual clause, by contrast, contained no similar language restricting its scope.  And the absence of such a limit, coupled with the reference to “potential” risks, gave courts free rein to classify an offense as a violent felony based on injuries that might occur after the offense was over and done.  See, e.g., United States v. Benton, 639 F. 3d 723, 732 (CA6 2011) (finding that “solicitation to commit aggravated assault” qualified under the ACCA residual clause on the theory that the solicited individual might subsequently carry out the requested act).
+
+															Why does any of this matter?  Because it mattered in Johnson.  More precisely, the expansive language in the ACCA residual clause contributed to our determination that the clause gave rise to “grave uncertainty about how to estimate the risk posed by a crime.”  576 U. S., at ___ (slip op., at 5).  “Critically,” we said—a word that tends to mean something—“picturing the criminal’s behavior is not enough.”  Ibid. (emphasis added).  Instead, measuring “potential risk” “seemingly require[d] the judge to imagine how the idealized ordinary case of the crime subsequently plays out.”  Ibid. (emphasis added).  Not so here.  In applying §16(b), considering “the criminal’s behavior” is enough.
+
+															Those three distinctions—the unadorned reference to “risk,” the focus on the offender’s own active employment of force, and the “in the course of committing” limitation—also mean that many hard cases under ACCA are easier under §16(b).  Take the firearm possession crime from Johnson itself, which had as its constituent elements (1) unlawfully (2) possessing (3) a short-barreled shotgun.  None of those elements, “by its nature,” carries “a substantial risk” that the possessor will use force against another “in the course of committing the offense.”  Nothing inherent in the act of firearm possession, even when it is unlawful, gives rise to a substantial risk that the owner will then shoot someone.  See United States v. Serafin, 562 F. 3d 1105, 1113 (CA10 2009) (recognizing that “Leocal instructs [a court] to focus not on whether possession will likely result in violence, but instead whether one possessing an unregistered weapon necessarily risks the need to employ force to commit possession”).[2]  Yet short-barreled shotgun possession presented a closer question under the ACCA residual clause, because the “serious potential risk” language seemingly directed us to consider “the circumstances and conduct that ordinarily attend the offense,” in addition to the offense itself.  Johnson, 576 U. S., at ___ (Alito, J., dissenting) (slip op., at 17); see id., at ___–___ (slip op., at 19–20) (reasoning that the crime must qualify because “a person who chooses to break the law and risk the heavy criminal penalty incurred by possessing a notoriously dangerous weapon is [likely] to use that weapon in violent ways”).
+
+															Failure to report to a penal institution, the subject of Chambers v. United States,
+
+555 U. S. 122 (2009)
+, is another crime “whose treatment becomes more obvious under §16(b) than under ACCA,” ante, at 18.  In Chambers, the Government argued that the requisite risk of injury arises not necessarily at the time the offender fails to report to prison, but instead later, when an officer attempts to recapture the fugitive.  555 U. S., at 128.   The majority is correct that we ultimately “reject[ed]” the Government’s contention.  Ante, at 18.  But we did so after “assum[ing] for argument’s sake” its premise—that is, “the relevance of violence that may occur long after an offender fails to report.”  555 U. S., at 128; see id., at 129 (looking at 160 cases of “failure to report” and observing that “none at all involved violence . . . during the commission of the offense itself, [nor] during the offender’s later apprehension”).  The “in the course of committing the offense” language in §16(b) helpfully forecloses that debate.
+
+															DUI offenses are yet another example.  Because §16(b) asks about the risk that the offender will “use[ ]” “physical force,” we readily concluded in Leocal that the subsection does not cover offenses where the danger arises from the offender’s negligent or accidental conduct, including drunk driving.  543 U. S., at 11.  Applying the ACCA residual clause proved more trying.  When asked to decide whether the clause covered drunk driving offenses, a majority of the Court concluded that the answer was no.  Begay v. United States,
+
+553 U. S. 137 (2008)
+.  Our decision was based, however, on the inference that the clause must cover only “purposeful, ‘violent,’ and ‘aggressive’ conduct”—a test derived not from the “conduct that presents a serious potential risk of physical injury” language, but instead by reference to (what we guessed to be) the unifying characteristics of the enumerated offenses.  Id., at 144–145.  Four Members of the Court criticized that test, see id., at 150–153 (Scalia, J., concurring in judgment); id., at 158–160, 162–163 (Alito, J., dissenting), though they themselves disagreed about whether DUIs were covered, see id., at 153–154 (opinion of Scalia, J.); id., at 156–158 (opinion of Alito, J.).  And the Court distanced itself from the Begay requirement only a few years later when confronting the crime of vehicular flight.  See Sykes, 564 U. S., at 12–13; Johnson, 576 U. S., at ___–___ (slip op., at 8–9).
+
+															Which brings me to the second part of the Court’s analysis: its objection that §16(b), like the ACCA residual clause, leaves “uncertainty about the level of risk that makes a crime ‘violent.’ ”  Ante, at 10.  The “substantial risk” standard in §16(b) is significantly less confusing because it is not tied to a disjointed list of paradigm offenses.  Recall that the ACCA provision defined a “violent felony” to include a crime that “is burglary, arson, or extortion, involves use of explosives, or otherwise involves conduct that presents a serious potential risk of physical injury to another.”
+
+18 U. S. C. §924(e)(2)(B)(ii) (emphasis added).  As our Court recognized early on, that “otherwise” told the reader to understand the “serious potential risk of physical injury” standard by way of the four enumerated crimes.  James, 550 U. S., at 203.  But how, exactly?  That question dogged our residual clause cases for years, until we said no más in Johnson.
+
+															In our first foray, James, we resolved the case by asking whether the risk posed by the crime of attempted burglary was “comparable to that posed by its closest analog among the enumerated offenses,” which was completed burglary.  550 U. S., at 203.  While that rule “[took] care of attempted burglary,” it “offer[ed] no help at all with respect to the vast majority of offenses, which have no apparent analog among the enumerated crimes.”  Johnson, 576 U. S., at ___ (slip op., at 7).  The James dissent, for its part, would have determined the requisite degree of risk from the least dangerous of the enumerated crimes, and compared the offense to that.  550 U. S., at 218–219 (opinion of Scalia, J.).  But that approach also proved to be harder than it sounded.  See id., at 219–227.
+
+															After James came Begay, in which we concluded that the enumerated offenses served as an independent limitation on the kind of crime that could qualify.  553 U. S., at 142; see Chambers, 555 U. S., at 128 (applying the Begay standard).  As discussed, that test was short lived (though we did not purport to wholly repudiate it).  See Sykes, 564 U. S., at 13.  Finally, in Sykes—our penultimate residual clause case—we acknowledged the prior use of the closest-analog test in James, but instead focused on whether the risk posed by vehicular flight was “similar in degree of danger” to the listed offenses of arson and burglary.  564 U. S., at 8–10.  As a result, Justice Scalia’s dissent characterized the Sykes majority as applying the test from his prior dissent in James, not James itself.  See 564 U. S., at 29–30, 33.  This series of precedents laid bare our “repeated inability to craft a principled test out of the statutory text,” id., at 34 (opinion of Scalia, J.), as the Court ultimately acknowledged in Johnson, 576 U. S., at ___ (slip op., at 7).
+
+															The enumerated offenses, and our Court’s failed attempts to make sense of them, were essential to Johnson’s conclusion that the residual clause “leaves uncertainty about how much risk it takes for a crime to qualify as a violent felony.”  Id., at ___ (slip op., at 6).  As Johnson explained, the issue was not that the statute employed a fuzzy standard.  That kind of thing appears in the statute books all the time.  Id., at ___, ___ (slip op., at 6, 12).  In the majority’s retelling today, the difficulty inhered solely in the fact that the statute paired such a standard with the ordinary case inquiry.  See ante, at 8, 10–11, 21.  But that account sidesteps much of Johnson’s reasoning.  See 576 U. S., at ___–___, ___, ___–___, ___ (slip op., at 4–5, 6, 7–9, 12).  Our opinion emphasized that the word “otherwise” “force[d]” courts to interpret the amorphous standard “in light of” the four enumerated crimes, which are “not much more similar to one another in kind than in degree of risk posed.”  Id., at ___, ___ (slip op., at 6, 8).  Or, as Johnson put it more vividly, “[t]he phrase ‘shades of red,’ standing alone, does not generate confusion or unpredictability; but the phrase ‘fire-engine red, light pink, maroon, navy blue, or colors that otherwise involve shades of red’ assuredly does so.”  Id., at ___ (slip op., at 12).  Indeed, the author of Johnson had previously, and repeatedly, described this feature of the residual clause as the “crucial . . . respect” in which the law was problematic.  See James, 550 U. S., at 230, n. 7 (opinion of Scalia, J.); Sykes, 564 U. S., at 35 (opinion of Scalia, J.).
+
+															With §16(b), by contrast, a court need simply consider the meaning of the word “substantial”—a word our Court has interpreted and applied innumerable times across a wide variety of contexts.[3]  The court does not need to give that familiar word content by reference to four different offenses with varying amounts and kinds of risk.
+
+															In its effort to recast a considerable portion of Johnson as dicta, the majority speculates that if the enumerated offenses had truly mattered to the outcome, the Court would have told lower courts to “give up on trying to interpret the clause by reference to” those offenses, rather than striking down the provision entirely.  Ante, at 21.  No litigant in Johnson suggested that solution, which is not surprising.  Such judicial redrafting could have expanded the reach of the criminal provision—surely a job for Congress alone.
+
+															In any event, I doubt the majority’s proposal would have done the trick.  And that is because the result in Johnson did not follow from the presence of one frustrating textual feature or another.  Quite the opposite: The decision emphasized that it was the “sum” of the “uncertainties” in the ACCA residual clause, confirmed by years of experience, that “convince[d]” us the provision was beyond salvage.  Johnson, 576 U. S., at ___ (slip op., at 10).  Those failings do not characterize the provision at issue here.
+
+															III
+
+															The more constrained inquiry required under §16(b)—which asks only whether the offense elements naturally carry with them a risk that the offender will use force in committing the offense—does not itself engender “grave uncertainty about how to estimate the risk posed by a crime.”  And the provision’s use of a commonplace substantial risk standard—one not tied to a list of crimes that lack a unifying feature—does not give rise to intolerable “uncertainty about how much risk it takes for a crime to qualify.”  That should be enough to reject Dimaya’s facial vagueness challenge.[4]
+
+															Because I would rely on those distinctions to uphold §16(b), the Court reproaches me for not giving sufficient weight to a “core insight” of Johnson.  Ante, at 10, n. 4; see ante, at 15 (opinion of Gorsuch, J.) (arguing that §16(b) runs afoul of Johnson “to the extent [§16(b)] requires an ‘ordinary case’ analysis”).  But the fact that the ACCA residual clause required the ordinary case approach was not itself sufficient to doom the law.  We instead took pains to clarify that our opinion should not be read to impart such an absolute rule.  See Johnson, 576 U. S., at ___ (slip op., at 10).  I would adhere to that careful holding and not reflexively extend the decision to a different statute whose reach is, on the whole, far more clear.  
+
+															The Court does the opposite, and the ramifications of that decision are significant.  First, of course, today’s holding invalidates a provision of the Immigration and Nationality Act—part of the definition of “aggravated felony”—on which the Government relies to “ensure that dangerous criminal aliens are removed from the United States.”  Brief for United States 54.  Contrary to the Court’s back-of-the-envelope assessment, see ante, at 23, n. 12, the Government explains that the definition is “critical” for “numerous” immigration provisions.  Brief for United States 12.
+
+															In addition, §16 serves as the universal definition of “crime of violence” for all of Title 18 of the United States Code.  Its language is incorporated into many procedural and substantive provisions of criminal law, including provisions concerning racketeering, money laundering, domestic violence, using a child to commit a violent crime, and distributing information about the making or use of explosives.  See 18 U. S. C. §§25(a)(1), 842(p)(2), 1952(a), 1956(c)(7)(B)(ii), 1959(a)(4), 2261(a), 3561(b).  Of special concern, §16 is replicated in the definition of “crime of violence” applicable to §924(c), which prohibits using or carrying a firearm “during and in relation to any crime of violence,” or possessing a firearm “in furtherance of any such crime.”  §§924(c)(1)(A), (c)(3).  Though I express no view on whether §924(c) can be distinguished from the provision we consider here, the Court’s holding calls into question convictions under what the Government warns us is an “oft-prosecuted offense.”  Brief for United States 12.
+
+															Because Johnson does not compel today’s result, I respectfully dissent.
+Notes
+1
+ All this “ordinary case” caveat means is that while “[o]ne can always hypothesize unusual cases in which even a prototypically violent crime might not present a genuine risk,” courts should exclude those atypical cases in assessing whether the offense qualifies.  James, 550 U. S., at 208.  As we have explained, under that approach, it is not the case that “every conceivable factual offense covered by a statute” must pose the requisite risk “before the offense can be deemed” a crime of violence.  Ibid.  But the same is true of the categorical approach generally.  See ibid. (using the terms just quoted to characterize both the ordinary case approach and the categorical approach for enumerated offenses set forth in Taylor v. United States,
+
+495 U. S. 575 (1990)
+); Moncrieffe v. Holder,
+
+569 U. S. 184, 191 (2013)
+; Gonzales v. Duenas-Alvarez,
+
+549 U. S. 183, 193 (2007)
+. 
+
+2
+ The Court protests that this straightforward analysis fails to take account of the crime’s ordinary case.  Ante, at 18–19, n. 6.  But the fact that the element of “possession” may “take[ ] place in a variety of ways”—for instance, one may possess a firearm “in a closet, in a storeroom, in a car, in a pocket,” “unloaded, disassembled, or locked away,” Johnson, 576 U. S., at ___ (Thomas, J., concurring in judgment) (slip op., at 4)—matters very little.  That is because none of the alternative ways of satisfying that element produce a substantial risk that the possessor will use physical force against the person or property of another.  And no one would say that a person “possesses” a gun by firing it or threatening someone with it.  Cf. id., at ___ (opinion of Thomas, J.) (slip op., at 5) (“[T]he risk that the Government identifies arises not from the act of possessing the weapon, but from the act of using it.”).  The Court’s insistence that this offense is nonetheless “difficult to classify” under §16(b), ante, at 18, n. 6, is surprising in light of our assessment, just two Terms ago, that §16 does not cover “felon-in-possession laws and other firearms offenses,” Luna Torres v. Lynch, 578 U. S. ___, ___ (2016) (slip op., at 13). 
+
+3
+ To name a round dozen: Ayestas v. Davis, 584 U. S. ___, ___ (2018) (slip op., at 16); Life Technologies Corp. v. Promega Corp., 580 U. S. ___, ___–___ (2017) (slip op., at 5–8); Virginia v. Hicks,
+
+539 U. S. 113, 119
+–120, 122–124 (2003); Toyota Motor Mfg., Ky., Inc. v. Williams,
+
+534 U. S. 184, 196
+–198 (2002); Slack v. McDaniel,
+
+529 U. S. 473, 483
+–484 (2000); Gentile v. State Bar of Nev.,
+
+501 U. S. 1030, 1075
+–1076 (1991); Cage v. Louisiana,
+
+498 U. S. 39, 41 (1990)
+ (per curiam); Steadman v. SEC,
+
+450 U. S. 91, 98 (1981)
+; Palermo v. United States,
+
+360 U. S. 343, 351
+–353 (1959); United States v. E. I. du Pont de Nemours & Co.,
+
+353 U. S. 586, 593
+–596 (1957); Levinson v. Spector Motor Service,
+
+330 U. S. 649, 670
+–671 (1947); Consolidated Edison Co. v. NLRB,
+
+305 U. S. 197, 229 (1938)
+. 
+
+4
+ The Court also finds it probative that “a host of issues” respecting §16(b) “divide” the lower courts.  Ante, at 22.  Yet the Court does little to explain how those alleged conflicts vindicate its particular concern about the provision (namely, the ordinary case inquiry).  And as the Government illustrates, many of those divergent results likely can be chalked up to material differences in the state offense statutes at issue.  Compare Escudero-Arciniega v. Holder, 702 F. 3d 781, 783–785 (CA5 2012) (per curiam) (reasoning that New Mexico car burglary “requires that the criminal lack authorization to enter the vehicle—a requirement alone which will most often ensure some force [against property] is used”), with Sareang Ye v. INS, 214 F. 3d 1128, 1134 (CA9 2000) (finding it relevant that California car burglary does not require unlawful or unprivileged entry); see Reply Brief 17–20, and nn. 5–6. 
+
+

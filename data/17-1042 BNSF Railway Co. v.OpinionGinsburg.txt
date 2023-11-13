@@ -1,0 +1,209 @@
+::SCDB_caseID:: 2018-019
+::decision_cite:: 17-1042
+::decision_name::  BNSF Railway Co. v. Loos
+::decision_year:: 2019
+::opinion_author:: Ginsburg
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															  NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1042
+
+															_________________
+
+															BNSF RAILWAY COMPANY, PETITIONER v. MICHAEL D. LOOS
+
+															on writ of certiorari to the united states court of appeals for the eighth circuit
+
+															[March 4, 2019]
+
+															
+
+															Justice Ginsburg delivered the opinion of the Court.
+
+															Respondent Michael Loos was injured while working at petitioner BNSF Railway Company’s railyard.  Loos sued BNSF under the Federal Employers’ Liability Act (FELA),
+
+35Stat.
+65, as amended,
+
+45 U. S. C. §51 et seq., and gained a $126,212.78 jury verdict.  Of that amount the jury ascribed $30,000 to wages lost during the time Loos was unable to work.  BNSF moved for an offset against the judgment.  The lost wages awarded Loos, BNSF asserted, constituted “compensation” taxable under the Railroad Retirement Tax Act (RRTA),
+
+26 U. S. C. §3201 et seq.  Therefore, BNSF urged, the railway was required to withhold a portion of the $30,000 attributable to lost wages to cover Loos’s share of RRTA taxes, which came to $3,765.  The District Court and the Court of Appeals for the Eighth Circuit rejected the requested offset, holding that an award of damages compensating an injured railroad worker for lost wages is not taxable under the RRTA.
+
+															The question presented: Is a railroad’s payment to an employee for working time lost due to an on-the-job injury taxable “compensation” under the RRTA, 26 U. S. C. §3231(e)(1)?  We granted review to resolve a division of opinion on the answer to that question.  584 U. S. ___ (2018).  Compare Hance v. Norfolk S. R. Co., 571 F.3d 511, 523 (CA6 2009) (“compensation” includes pay for time lost); Phillips v. Chicago Central & Pacific R. Co., 853 N.W.2d 636, 650–651 (Iowa 2014) (agency reasonably interpreted “compensation” as including pay for time lost); Heckman v. Burlington N. Santa Fe R. Co., 286 Neb. 453, 463, 837 N.W.2d 532, 540 (2013) (“compensation” includes pay for time lost), with 865 F.3d 1106, 1117–1118 (CA8 2017) (case below) (“compensation” does not include pay for time lost); Mickey v. BNSF R. Co., 437 S.W.3d 207, 218 (Mo. 2014) (“compensation” does not include FELA damages for lost wages).  We now hold that an award compensating for lost wages is subject to taxation under the RRTA.
+
+															I
+
+															In 1937, Congress created a self-sustaining retirement benefits system for railroad workers.  The system provides generous pensions as well as benefits “correspon[ding] . . . to those an employee would expect to receive were he covered by the Social Security Act.”  Hisquierdo v. Hisquierdo,
+
+439 U.S. 572, 575 (1979).
+
+															Two statutes operate in concert to ensure that retired railroad workers receive their allotted pensions and benefits.  The first, the RRTA, funds the program by imposing a payroll tax on both railroads and their employees.  The RRTA refers to the railroad’s contribution as an “excise” tax,
+
+26 U. S. C. §3221, and describes the employee’s share as an “income” tax, §3201.  Congress assigned to the Internal Revenue Service (IRS) responsibility for collecting both taxes.  §§3501, 7801.[1]  The second statute, the Railroad Retirement Act (RRA),
+
+50Stat.
+307, as restated and amended,
+
+45 U. S. C. §231 et seq., entitles railroad workers to various benefits and prescribes eligibility requirements.  The RRA is administered by the Railroad Retirement Board.  See §231f(a).
+
+															Taxes under the RRTA and benefits under the RRA are measured by the employee’s “compensation.”  26 U. S. C. §§3201, 3221;
+
+45 U. S. C. §231b.  The RRTA and RRA separately define “compensation,” but both statutes state that the term means “any form of money remuneration paid to an individual for services rendered as an employee.”
+
+26 U. S. C. §3231(e)(1);
+
+45 U. S. C. §231(h)(1).  This language has remained basically unchanged since the RRTA’s enactment in 1937.  See Carriers Taxing Act of 1937 (1937 RRTA), §1(e),
+
+50Stat.
+436 (defining “compensation” as “any form of money remuneration earned by an individual for services rendered as an employee”).  The RRTA excludes from “compensation” certain types of sick pay and disability pay.  See
+
+26 U. S. C. §3231(e)(1), (4)(A).
+
+															The IRS’s reading of the word “compensation” as it appears in the RRTA has remained constant.  One year after the RRTA’s adoption, the IRS stated that “compensation” is not limited to pay for active service but reaches, as well, pay for periods of absence.  See 26 CFR §410.5 (1938).  This understanding has governed for more than eight decades.  As restated in the current IRS regulations, “[t]he term compensation is not confined to amounts paid for active service, but includes amounts paid for an identifiable period during which the employee is absent from the active service of the employer.”  §31.3231(e)–1(a)(3) (2017).  In 1994, the IRS added, specifically, that “compensation” includes “pay for time lost.”  §31.3231(e)–1(a)(4); see 59 Fed. Reg. 66188 (1994).
+
+															Congress created both the railroad retirement system and the Social Security system during the Great Depression primarily to ensure the financial security of members of the workforce when they reach old age.  See Wisconsin Central Ltd. v. United States, 585 U. S. ___, ___ (2018) (slip op., at 1); Helvering v. Davis,
+
+301 U.S. 619, 641 (1937).  Given the similarities in timing and purpose of the two programs, it is hardly surprising that their statutory foundations mirror each other.  Regarding Social Security, the Federal Insurance Contributions Act (FICA),
+
+26 U. S. C. §3101 et seq., taxes employers and employees to fund benefits, which are distributed pursuant to the Social Security Act (SSA),
+
+49Stat.
+620, as amended,
+
+42 U. S. C. §301 et seq.  Tax and benefit amounts are determined by the worker’s “wages,” the Social Security equivalent to “compensation.”  See Davis, 301 U. S., at 635–636.  Both the FICA and the SSA define “wages” employing language resembling the RRTA and the RRA definitions of “compensation.”  “Wages” under the FICA and the SSA mean “all remuneration for employment,” and “employment,” in turn, means “any service, of whatever nature, performed . . . by an employee.”
+
+26 U. S. C. §3121(a)–(b) (FICA); see 42 U. S. C. §§409(a), 410(a) (SSA).  Reading these prescriptions together, the term “wages” encompasses “all remuneration” for “any service, of whatever nature, performed . . . by an employee.”  Ibid.
+
+															II
+
+															A
+
+															To determine whether RRTA-qualifying “compensation” includes an award of damages for lost wages, we begin with the statutory text.[2]  The RRTA defines “compensation” as “remuneration paid to an individual for services rendered as an employee.”
+
+26 U. S. C. §3231(e)(1).  This definition, as just noted, is materially indistinguishable from the FICA’s definition of “wages” to include “remuneration” for “any service, of whatever nature, performed . . . by an employee.”  §3121.
+
+															Given the textual similarity between the definitions of “compensation” for railroad retirement purposes and “wages” for Social Security purposes, our decisions on the meaning of “wages” in Social Security Bd. v. Nierotko,
+
+327 U.S. 358 (1946), and United States v. Quality Stores, Inc.,
+
+572 U.S. 141 (2014), inform our comprehension of the RRTA term “compensation.”  In Nierotko, the National Labor Relations Board found that an employee had been “wrongfully discharged for union activity” and awarded him backpay.  327 U. S., at 359.  The Social Security Board refused to credit the backpay award in calculating the employee’s benefits.  Id., at 365–366.  In the Board’s view, “wages” covered only pay for active service.  Ibid.  We disagreed.  Emphasizing that the phrase “any service . . . performed” denotes “breadth of coverage,” we held that “wages” means remuneration for “the entire employer-employee relationship”; in other words, “wages” embraced pay for active service plus pay received for periods of absence from active service.  Id., at 366.  Backpay, we reasoned, counts as “wages” because it compensates for “the loss of wages which the employee suffered from the employer’s wrong.”  Id., at 364.
+
+															In Quality Stores, we again trained on the meaning of “wages,” reiterating that “Congress chose to define wages . . . broadly.”  572 U. S., at 146 (internal quotation marks omitted).  Guided by Nierotko, Quality Stores held that severance payments qualified as “wages” taxable under the FICA.  “[C]ommon sense,” we observed, “dictates that employees receive th[ose] payments ‘for employment.’ ”  572 U. S., at 146.  Severance payments, the Court spelled out, “are made to employees only,” “are made in consideration for employment,” and are calculated “according to the function and seniority of the [terminated] employee.”  Id., at 146–147.
+
+															In line with Nierotko, Quality Stores, and the IRS’s long held construction, we hold that “compensation” under the RRTA encompasses not simply pay for active service but, in addition, pay for periods of absence from active service—provided that the remuneration in question stems from the “employer-employee relationship.”  Nierotko, 327 U. S., at 366.
+
+															B
+
+															Damages awarded under the FELA for lost wages fit comfortably within this definition.  The FELA “makes railroads liable in money damages to their employees for on-the-job injuries.”  BNSF R. Co. v. Tyrrell, 581 U. S. ___, ___ (2017) (slip op., at 1); see
+
+45 U. S. C. §51.  If a railroad negligently fails to maintain a safe railyard and a worker is injured as a result, the FELA requires the railroad to compensate the injured worker for, inter alia, working time lost due to the employer’s wrongdoing.  FELA damages for lost wages, then, are functionally equivalent to an award of backpay, which compensates an employee “for a period of time during which” the employee is “wrongfully separated from his job.”  Nierotko, 327 U. S., at 364.  Just as Nierotko held that backpay falls within the definition of “wages,” ibid., we conclude that FELA damages for lost wages qualify as “compensation” and are therefore taxable under the RRTA.
+
+															III
+
+															A
+
+															The Eighth Circuit construed “compensation” for RRTA purposes to mean only pay for “services that an employee actually renders,” in other words, pay for active service.  Consequently, the court held that “compensation” within the RRTA’s compass did not reach pay for periods of absence.  865 F. 3d, at 1117.  In so ruling, the Court of Appeals attempted to distinguish Nierotko and Quality Stores.  The Social Security decisions, the court said, were inapposite because the FICA “taxes payment for ‘employment,’ ” whereas the RRTA “tax[es] payment for ‘services.’ ”  865 F. 3d, at 1117.  As noted, however, supra, at 3–4, the FICA defines “employment” in language resembling the RRTA in all relevant respects.  Compare
+
+26 U. S. C. §3121(b) (FICA) (“any service, of whatever nature, performed . . . by an employee”) with §3231(e)(1) (RRTA) (“services rendered as an employee”).  Construing RRTA “compensation” as less embracive than “wages” covered by the FICA would introduce an unwarranted disparity between terms Congress appeared to regard as equivalents.  The reasoning of Nierotko and Quality Stores, as we see it, resists the Eighth Circuit’s swift writeoff.[3]
+
+															Nierotko and Quality Stores apart, we would in any event conclude that the RRTA term “compensation” covers pay for time lost.  Restricting “compensation” to pay for active service, the Court of Appeals relied on statutory history and, in particular, the eventual deletion of two references to pay for time lost contained in early renditions of the RRTA.  See also post, at 6–7 (presenting the Eighth Circuit’s statutory history argument).  To understand the Eighth Circuit’s position, and why, in our judgment, that position does not withstand scrutiny, some context is in order.
+
+															On enactment of the RRTA in 1937, Congress made “compensation” taxable at the time it was earned and provided specific guidance on when pay for time lost should be “deemed earned.”  Congress instructed: “The term ‘compensation’ means any form of money remuneration earned by an individual for services rendered as an employee . . . , including remuneration paid for time lost as an employee, but [such] remuneration . . . shall be deemed earned in the month in which such time is lost.”  1937 RRTA, §1(e),
+
+50Stat.
+436 (emphasis added).  In 1946, Congress clarified that the phrase “pa[y] for time lost” meant payment for “an identifiable period of absence from the active service of the employer, including absence on account of personal injury.”  Act of July 31, 1946 (1946 Act), §2,
+
+60Stat.
+722.
+
+															Thus, originally, the RRTA stated that “compensation” included pay for time lost, and the language added in 1946 presupposed the same.  In subsequent amendments, however, Congress removed the references to pay for time lost.  First, in 1975, Congress made “compensation” taxable when paid rather than when earned.  Congress simultaneously removed the 1937 language that both referred to pay for time lost and specified when such pay should be “deemed earned.”  So amended, the definitional sentence, in its current form, reads: “The term ‘compensation’ means any form of money remuneration paid to an individual for services rendered as an employee . . . .”  Act of Aug. 9, 1975 (1975 Act), §204,
+
+89Stat.
+466 (emphasis added).
+
+															Second, in 1983, Congress shifted the wage base for RRTA taxes from monthly “compensation” to annual “compensation.”  See Railroad Retirement Solvency Act of 1983 (1983 Act), §225,
+
+97Stat.
+424–425.  Because the “monthly wage bases for railroad retirement taxes [were being] changed to annual amounts,” the House Report explained, the RRTA required “[s]everal technical and conforming amendments.”  H. R. Rep. No. 98–30, pt. 2, p. 29 (1983).  In a section of the 1983 Act titled “Technical Amendments,” Congress struck the subsection containing, among other provisions, the 1946 Act’s clarification of pay for time lost.  1983 Act, §225,
+
+97Stat.
+424–425.  In lieu of the deleted subsection, Congress inserted detailed instructions concerning the new annual wage base.
+
+															As the Court of Appeals and the dissent see it, the 1975 and 1983 deletions show that “compensation” no longer includes pay for time lost.  865 F. 3d, at 1119; see post, at 6–7.  We are not so sure.  The 1975 Act left unaltered the language at issue here, “remuneration . . . for services rendered as an employee.”  That Act also left intact the 1946 Act’s description of pay for time lost.  Continuing after the 1975 Act, then, such pay remained RRTA-taxable “compensation.”  The 1983 Act, as billed by Congress, effected only “[t]echnical [a]mendments” relating to the change from monthly to annual computation of “compensation.”  Concerning the 1975 and 1983 alterations, the IRS concluded that Congress revealed no “inten[tion] to exclude payments for time lost from compensation.”  59 Fed. Reg. 66188 (1994).  We credit the IRS reading.  It would be passing strange for Congress to restrict substantially what counts as “compensation” in a manner so oblique.
+
+															Moreover, the text of the RRTA continues to indicate that “compensation” encompasses pay for time lost.  The RRTA excludes from “compensation” a limited subset of payments for time lost, notably certain types of sick pay and disability pay.  See
+
+26 U. S. C. §3231(e)(1), (4).  These enumerated exclusions would be entirely superfluous if, as the Court of Appeals held, the RRTA broadly excludes from “compensation” any and all pay received for time lost.
+
+															In justification of its confinement of RRTA-taxable receipts to pay for active service, the Court of Appeals also referred to the RRA.  The RRA, like the RRTA as enacted in 1937, states that “compensation” “includ[es] remuneration paid for time lost as an employee” and specifies that such pay “shall be deemed earned in the month in which such time is lost.”
+
+45 U. S. C. §231(h)(1).  Pointing to the discrepancy between the RRA and the amended RRTA, which no longer contains the above-quoted language, the Court of Appeals concluded that Congress intended the RRA, but not the RRTA, to include pay for time lost.  Accord post, at 7.  Although “ ‘[w]e usually presume differences in language . . . convey differences in meaning,’ ” Wisconsin Central, 585 U. S., at ___ (slip op., at 4), Congress’ failure to reconcile the RRA and the amended RRTA is inconsequential.  As just explained, the RRTA’s pinpointed exclusions from RRTA taxation signal that nonexcluded pay for time lost remains RRTA-taxable “compensation.”
+
+															B
+
+															Instead of adopting lockstep the Court of Appeals’ interpretation, Loos takes a different approach.  In his view, echoed by the dissent, “remuneration . . . for services rendered” means the “package of benefits” an employer pays “to retain the employee.”  Brief for Respondent 37; post, at 3–4.  He therefore agrees with BNSF that benefits like sick pay and vacation pay are taxable “compensation.”  He contends, however, that FELA damages for lost wages are of a different order.  They are not part of an employee’s “package of benefits,” he observes, and therefore should not count as “compensation.”  Such damages, Loos urges, “compensate for an injury” rather than for services rendered.  Brief for Respondent 20; post, at 3–4.  Loos argues in the alternative that even if voluntary settlements qualify as “compensation,” “involuntary payment[s]” in the form of damages do not.  Brief for Respondent 33.
+
+															Our decision in Nierotko undermines Loos’s argument that, unlike sick pay and vacation pay, payments “compensat[ing] for an injury,” Brief for Respondent 20, are not taxable under the RRTA. We held in Nierotko that an award of backpay compensating an employee for his wrongful discharge ranked as “wages” under the SSA.  That was so, we explained, because the backpay there awarded to the employee redressed “the loss of wages” occasioned by “the employer’s wrong.”  327 U. S., at 364; see supra, at 5.  Applying that reasoning here, there should be no dispositive difference between a payment voluntarily made and one required by law.[4]
+
+															Nor does United States v. Cleveland Indians Baseball Co.,
+
+532 U.S. 200 (2001), aid Loos’s argument, repeated by the dissent.  See post, at 8.  Indeed, Cleveland Indians reasserted Nierotko’s holding that “backpay for a time in which the employee was not on the job” counts as pay for services, and therefore ranks as wages.  532 U. S., at 210.  Cleveland Indians then took up a discrete, “secondary issue” Nierotko presented, one not in contention here, i.e., whether for taxation purposes backpay is allocable to the tax period when paid rather than an earlier time-earned period.  532 U. S., at 211, 213–214, 219–220.  Moreover, Quality Stores, which postdated Cleveland Indians, left no doubt that what qualifies under Nierotko as “wages” for benefit purposes also qualifies as such for taxation purposes.  572 U. S., at 146–147.
+
+															C
+
+															Loos presses a final reason why he should not owe RRTA taxes on his lost wages award.  Loos argues, and the District Court held, that the RRTA’s tax on employees does not apply to personal injury damages.  He observes that the RRTA taxes “the income of each employee.”
+
+26 U. S. C. §3201(a)–(b) (emphasis added).  He then cites a provision of the Internal Revenue Code,
+
+26 U. S. C. §104(a)(2).  This provision exempts “damages . . . received . . . on account of personal physical injuries” from federal income taxation by excluding such damages from “gross income.”  Loos urges that the exclusion of personal injury damages from “gross income” should carry over to the RRTA’s tax on the “income” of railroad workers, §3201(a)–(b).
+
+															The argument is unconvincing.  As the Government points out, the District Court, echoed by Loos, conflated “the distinct concepts of ‘gross income,’ [a prime component of] the tax base on which income tax is collected, and ‘compensation,’ the separately defined category of payments that are taxable under the RRTA.”  Brief for United States as Amicus Curiae 15.  Blending tax bases that Congress kept discrete, the District Court and Loos proffer a scheme in which employees pay no tax on damages compensating for personal injuries; railroads pay the full excise tax on such compensation; and employees receive full credit for the compensation in determining their retirement benefits.  That scheme, however, is not plausibly attributable to Congress.
+
+															For federal income tax purposes, “gross income” means “all income” “[e]xcept as otherwise provided.”
+
+26 U. S. C. §61; see §§1, 63 (imposing a tax on “taxable income,” defined as “gross income minus . . . deductions”).  Congress provided detailed prescriptions on the scope of “gross income,” excluding from its reach numerous items, among them, personal injury damages.  See §§101–140.  Conspicuously absent from the RRTA, however, is any reference to “gross income.”  As employed in the RRTA, the word “income” merely distinguishes the tax on the employee, an “income . . . tax,” §3201, from the matching tax on the railroad, called an “excise tax.”  §§3201, 3221.  See also 1937 RRTA, §§2–3 (establishing an “income tax on employees” and an “excise tax on employers”); S. Rep. No. 818, 75th Cong., 1st Sess., 5 (1937) (stating that the RRTA imposes an “income tax on employees” and an “excise tax on employers”); H. R. Rep. No. 1071, 75th Cong., 1st Sess., 6 (1937) (same).
+
+															Congress, we reiterate, specified not “gross income” but employee “compensation” as the tax base for the RRTA’s income and excise taxes.  §§3201, 3221.  Congress then excepted certain payments from the calculation of “compensation.”  See §3231(e); supra, at 9.  Congress adopted by cross-reference particular Internal Revenue Code exclusions from “gross income,” thereby carving out those specified items from RRTA coverage.  See §3231(e)(5)–(6), (9)–(11).  Tellingly, Congress did not adopt for RRTA purposes the exclusion of personal injury damages from federal income taxation set out in §104(a)(2).  We note, furthermore, that if RRTA taxes were based on “income” or “gross income” rather than “compensation,” the RRTA tax base would sweep in nonrailroad income, including, for example, dividends, interest accruals, even lottery winnings.  Shifting from “compensation” to “income” as the RRTA tax base would thus saddle railroad workers with more RRTA taxes.
+
+															Given the multiple flaws in Loos’s last ditch argument, we conclude that §104(a)(2) does not exempt FELA damages from the RRTA’s income and excise taxes.
+
+															*  *  *
+
+															In harmony with this Court’s decisions in Nierotko and Quality Stores, we hold that “compensation” for RRTA purposes includes an employer’s payments to an employee for active service and for periods of absence from active service.  It is immaterial whether the employer chooses to make the payment or is legally required to do so.  Either way, the payment is remitted to the recipient because of his status as a service-rendering employee.  See
+
+26 U. S. C. §3231(e)(1);
+
+45 U. S. C. §231(h)(1).
+
+															For the reasons stated, FELA damages for lost wages qualify as RRTA-taxable “compensation.”  The judgment of the Court of Appeals for the Eighth Circuit is accordingly reversed, and the case is remanded for proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+ The railroad remits both taxes to the IRS.  As to the income tax, the railroad deducts the amount owed by the employee from her earnings and then forwards that amount to the IRS.  See Tr. of Oral Arg. 22–23.  See also
+
+26 U. S. C. §3402(a)(1) (employers must “deduct and withhold” income taxes from earnings). 
+
+2
+ Before turning to the language of the RRTA, the dissent endeavors to unearth the reason why BNSF has pursued this case.  The railroad’s “gambit,” the dissent surmises, is to increase pressure on injured workers to settle their claims.  Post, at 3.  Contrast with the dissent’s conjecture, BNSF’s entirely plausible account of a railroad’s stake in this dispute.  Because the RRA credits lost wages toward an employee’s benefits, see
+
+45 U. S. C. §231(h)(1), BNSF posits that immunizing those payments from RRTA taxes would expose the system to “a long-term risk of insolvency.”  Tr. of Oral Arg. 4; see Reply Brief for Petitioner 14. 
+
+3
+ The dissent’s reduction of Nierotko’s significance fares no better.  Nierotko, the dissent urges, is distinguishable because it involved “a different factual context.”  Post, at 7.  But as just explained, supra, at 6–7, the facts in Nierotko resemble those here in all material respects. 
+
+4
+ The dissent, building on Loos’s argument, tenders an inapt analogy between passengers and employees.  If BNSF were ordered to pay damages for lost wages to an injured passenger, the dissent asserts, one would not say the passenger had been compensated “for services rendered.”  There is no reason, the dissent concludes, to “reach a different result here simply because the victim of BNSF’s negligence happened to be one of its own workers.”  Post, at 5.  Under the RRTA, however, this distinction is of course critical.  The passenger’s damages for lost wages are not taxable under the RRTA, for she has no employment relationship with the railroad.  In contrast, FELA damages for lost wages are taxable because they are paid only if the injured person previously “rendered [services] as an employee,”
+
+26 U. S. C. §3231(e)(1), and, indeed, was working for the railroad when the injury occurred, see
+
+45 U. S. C. §51. 
+
+

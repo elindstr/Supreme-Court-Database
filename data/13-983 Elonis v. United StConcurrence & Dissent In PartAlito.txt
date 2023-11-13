@@ -1,0 +1,347 @@
+::SCDB_caseID:: 2014-024
+::decision_cite:: 13-983
+::decision_name::  Elonis v. United States
+::decision_year:: 2015
+::opinion_author:: Alito
+::opinion_type:: Concurrence & Dissent In Part
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–983
+
+															_________________
+
+															ANTHONY DOUGLAS ELONIS, PETITIONER v.
+UNITED STATES
+
+															on writ of certiorari to the united states
+court of appeals for the third circuit
+
+															[June 1, 2015]
+
+															
+
+															Justice Alito, concurring in part and
+dissenting in part.
+
+															In Marbury v. Madison, 1 Cranch
+137, 177 (1803), the Court famously proclaimed: “It is
+emphatically the province and duty of the judicial department to
+say what the law is.” Today, the Court announces: It is
+emphatically the prerogative of this Court to say only what the law
+is not.
+
+															The Court’s disposition of this case is
+certain to cause confusion and serious problems. Attorneys and
+judges need to know which mental state is required for conviction
+under 18 U. S. C. §875(c), an important criminal
+statute. This case squarely presents that issue, but the Court
+provides only a partial answer. The Court holds that the jury
+instructions in this case were defective because they required only
+negligence in conveying a threat. But the Court refuses to explain
+what type of intent was necessary. Did the jury need to find that
+Elonis had the purpose of conveying a true threat? Was it
+enough if he knew that his words conveyed such a threat?
+Would recklessness suffice? The Court declines to say.
+Attorneys and judges are left to guess.
+
+															This will have regrettable consequences. While
+this Court has the luxury of choosing its docket, lower courts and
+juries are not so fortunate. They must actually decide cases, and
+this means applying a standard. If purpose or knowledge is needed
+and a district court instructs the jury that recklessness suffices,
+a defendant may be wrongly convicted. On the other hand, if
+recklessness is enough, and the jury is told that conviction
+requires proof of more, a guilty defendant may go free. We granted
+review in this case to resolve a disagreement among the Circuits.
+But the Court has compounded—not clarified—the
+confusion.
+
+															There is no justification for the Court’s
+refusal to provide an answer. The Court says that “[n]either
+Elonis nor the Government has briefed or argued” the question
+whether recklessness is sufficient. Ante, at 16. But in fact
+both parties addressed that issue. Elonis argued that recklessness
+is not enough, and the Government argued that it more than
+suffices. If the Court thinks that we cannot decide the
+recklessness question without additional help from the parties, we
+can order further briefing and argument. In my view, however, we
+are capable of deciding the recklessness issue, and we should
+resolve that question now.
+
+															I
+
+															Section 875(c) provides in relevant part:
+
+															“Whoever transmits in interstate or
+foreign commerce any communication containing . . . any
+threat to injure the person of another, shall be fined under this
+title or imprisoned not more than five years, or both.”
+
+															Thus, conviction under this provision requires
+proof that: (1) the defendant transmitted something, (2) the
+thing transmitted was a threat to injure the person of another, and
+(3) the transmission was in interstate or foreigncommerce.
+
+															At issue in this case is the mens rea
+required with respect to the second element—that the thing
+transmitted was a threat to injure the person of another. This
+Court has not defined the meaning of the term “threat”
+in §875(c), but in construing the same term in a related
+statute, the Court distinguished a “true
+‘threat’ ” from facetious or hyperbolic
+remarks. Watts v. United States, 394 U. S. 705,
+708 (1969) (per curiam). In my view, the term
+“threat” in §875(c) can fairly be defined as a
+statement that is reasonably interpreted as “an expression of
+an intention to inflict evil, injury, or damage on another.”
+Webster’s Third New International Dictionary 2382 (1976).
+Conviction under §875(c) demands proof that the
+defendant’s transmission was in fact a threat, i.e.,
+that it is reasonable to interpret the transmission as an
+expression of an intent to harm another. In addition, it must be
+shown that the defendant was at least reckless as to whether the
+transmission met that requirement.
+
+															Why is recklessness enough? My analysis of the
+mens rea issue follows the same track as the Court’s,
+as far as it goes. I agree with the Court that we should presume
+that criminal statutes require some sort of mens rea for
+conviction. See ante, at 9–13. To be sure, this
+presumption marks a departure from the way in which we generally
+interpret statutes. We “ordinarily resist reading words or
+elements into a statute that do not appear on its face.”
+Bates v. United States, 522 U. S. 23, 29 (1997)
+. But this step is justified by a well-established pattern in our
+criminal laws. “For several centuries (at least since 1600)
+the different common law crimes have been so defined as to require,
+for guilt, that the defendant’s acts or omissions be
+accompanied by one or more of the various types of fault
+(intention, knowledge, recklessness or—more
+rarely—negligence).” 1 W. LaFave, Substantive Criminal
+Law §5.5, p. 381 (2003). Based on these “background
+rules of the common law, in which the requirement of some mens
+rea for a crime is firmly embedded,” we require
+“some indication of congressional intent, express or implied,
+. . . to dispense with mens rea as an element of a
+crime.” Staples v. United States, 511
+U. S. 600 –606 (1994).
+
+															For a similar reason, I agree with the Court
+that we should presume that an offense like that created by
+§875(c) requires more than negligence with respect to a
+critical element like the one at issue here. See ante, at
+13–14. As the Court states, “[w]hen interpreting
+federal criminal statutes that are silent on the required mental
+state, we read into the statute ‘only that mens rea
+which is necessary to separate wrongful conduct from
+“otherwise innocent conduct.” ’ ”
+Ante, at 12 (quoting Carter v. United States,
+530 U. S. 255, 269 (2000) ). Whether negligence is morally
+culpable is an interesting philosophical question, but the answer
+is at least sufficiently debatable to justify the presumption that
+a serious offense against the person that lacks any clear
+common-law counterpart should be presumed to require more.
+
+															Once we have passed negligence, however, no
+further presumptions are defensible. In the hierarchy of mental
+states that may be required as a condition for criminal liability,
+the mens rea just above negligence is recklessness.
+Negligence requires only that the defendant “should [have]
+be[en] aware of a substantial and unjustifiable risk,” ALI,
+Model Penal Code §2.02(2)(d), p. 226 (1985), while
+recklessness exists “when a person disregards a risk of harm
+of which he is aware,” Farmer v. Brennan, 511
+U. S. 825, 837 (1994) ; Model Penal Code §2.02(2)(c). And
+when Congress does not specify a mens rea in a criminal
+statute, we have no justification for inferring that anything more
+than recklessness is needed. It is quite un-usual for us to
+interpret a statute to contain a requirement that is nowhere set
+out in the text. Once we have reached recklessness, we have gone as
+far as we can without stepping over the line that separates
+interpretation from amendment.
+
+															There can be no real dispute that recklessness
+regarding a risk of serious harm is wrongful conduct. In a wide
+variety of contexts, we have described reckless conduct as morally
+culpable. See, e.g., Farmer, supra, at 835–836
+(deliberate indifference to an inmate’s harm);
+Garrison v. Louisiana, 379 U. S. 64, 75 (1964)
+(criminal libel); New York Times Co. v. Sullivan, 376
+U. S. 254 –280 (1964) (civil libel). Indeed, this Court
+has held that “reckless disregard for human life” may
+justify the death penalty. Tison v. Arizona, 481
+U. S. 137, 157 (1987) . Someone who acts recklessly with
+respect to conveying a threat necessarily grasps that he is not
+engaged in innocent conduct. He is not merely careless. He is aware
+that others could regard his statements as a threat, but he
+delivers them anyway.
+
+															Accordingly, I would hold that a defendant may
+be convicted under §875(c) if he or she consciously disregards
+the risk that the communication transmitted will be interpreted as
+a true threat. Nothing in the Court’s non-committal opinion
+prevents lower courts from adopting that standard.
+
+															II
+
+															There remains the question whether
+interpreting §875(c) to require no more than recklessness with
+respect to the element at issue here would violate the First
+Amendment. Elonis contends that it would. I would reject that
+argument.
+
+															It is settled that the Constitution does not
+protect true threats. See Virginia v. Black, 538
+U. S. 343 –360 (2003);
+R. A. V. v. St. Paul, 505
+U. S. 377, 388 (1992) ; Watts, 394 U. S., at
+707–708. And there are good reasons for that rule: True
+threats inflict great harm and have little if any social value. A
+threat may cause serious emotional stress for the person threatened
+and those who care about that person, and a threat may lead to a
+violent confrontation. It is true that a communication containing a
+threat may include other statements that have value and are
+entitled to protection. But that does not justify constitutional
+protection for the threat itself.
+
+															Elonis argues that the First Amendment protects
+a threat if the person making the statement does not actually
+intend to cause harm. In his view, if a threat is madefor a
+“ ‘therapeutic’ ” purpose,
+“to ‘deal with the pain’ . . . of a
+wrenching event,” or for “cathartic” reasons, the
+threat is protected. Brief for Petitioner 52–53. But whether
+or not the person making a threat intends to cause harm, the damage
+is the same. And the fact that making a threat may have a
+therapeutic or cathartic effect for the speaker is not sufficient
+to justify constitutional protection. Some people may experience a
+therapeutic or cathartic benefit only if they know that their words
+will cause harm or only if they actually plan to carry out the
+threat, but surely the First Amendment does not protect them.
+
+															Elonis also claims his threats were
+constitutionally protected works of art. Words like his, he
+contends, are shielded by the First Amendment because they are
+similar to words uttered by rappers and singers in public
+performances and recordings. To make this point, his brief includes
+a lengthy excerpt from the lyrics of a rap song in which a very
+well-compensated rapper imagines killing his ex-wife and dumping
+her body in a lake. If this celebrity can utter such words, Elonis
+pleads, amateurs like him should be able to post similar things on
+social media. But context matters. “Taken in context,”
+lyrics in songs that are performed for an audience or sold in
+recorded form are unlikely to be interpreted as a real threat to a
+real person. Watts, supra, at 708. Statements on social
+media that are pointedly directed at their victims, by contrast,
+are much more likely to be taken seriously. To hold otherwise would
+grant a license to anyone who is clever enough to dress up a real
+threat in the guise of rap lyrics, a parody, or something
+similar.
+
+															The facts of this case illustrate the point.
+Imagine the effect on Elonis’s estranged wife when she read
+this: “ ‘If I only knew then what I know now
+. . . I would have smothered your ass with a pillow,
+dumped your body in the back seat, dropped you off in Toad Creek
+and made it look like a rape and murder.’ ” 730
+F. 3d 321, 324 (CA3 2013). Or this: “There’s one
+way to love you but a thousand ways to kill you. I’m not
+going to rest until your body is a mess, soaked in blood and dying
+from all the little cuts.” Ibid. Or this: “Fold
+up your [protection from abuse order] and put it in your pocket[.]
+Is it thick enough to stop a bullet?” Id., at 325.
+
+															There was evidence that Elonis made sure his
+wife saw his posts. And she testified that they made her feel
+“ ‘extremely afraid’ ” and
+“ ‘like [she] was being
+stalked.’ ” Ibid. Considering the context,
+who could blame her? Threats of violence and intimidation are among
+the most favored weapons of domestic abusers, and the rise of
+social media has only made those tactics more commonplace. See
+Brief for The National Network to End Domestic Violence et al.
+as Amici Curiae 4–16. A fig leaf of artistic
+expression cannot convert such hurtful, valueless threats into
+protected speech.
+
+															It can be argued that §875(c), if not
+limited to threats made with the intent to harm, will chill
+statements that do not qualify as true threats, e.g.,
+statements that may be literally threatening but are plainly not
+meant to be taken seriously. We have sometimes cautioned that it is
+necessary to “exten[d] a measure of strategic
+protection” to otherwise unprotected false statements of fact
+in order to ensure enough “ ‘breathing
+space’ ” for protected speech. Gertz v.
+Robert Welch, Inc., 418 U. S. 323, 342 (1974) (quoting
+NAACP v. Button, 371 U. S. 415, 433 (1963) ). A
+similar argument might be made with respect to threats. But we have
+also held that the law provides adequate breathing space when it
+requires proof that false statements were made with reckless
+disregard of their falsity. See New York Times, 376
+U. S., at 279–280 (civil liability); Garrison,
+379 U. S., at 74–75 (criminal liability). Requiring
+proof of recklessness is similarly sufficient here.
+
+															III
+
+															Finally, because the jury instructions in this
+case did not require proof of recklessness, I would vacate the
+judgment below and remand for the Court of Appeals to decide in the
+first instance whether Elonis’s conviction could be upheld
+under a recklessness standard.
+
+															We do not lightly overturn criminal convictions,
+even where it appears that the district court might have erred. To
+benefit from a favorable ruling on appeal, a defendant must have
+actually asked for the legal rule the appellate court adopts. Rule
+30(d) of the Federal Rules of Criminal Procedure requires a
+defendant to “inform the court of the specific objection and
+the grounds for the objection.” An objection cannot be vague
+or open-ended. It must specifically identify the alleged
+error. And failure to lodge a sufficient objection “precludes
+appellate review,” except for plain error. Rule 30(d); see
+also 2A C. Wright & P. Henning, Federal Practice and Procedure
+§484, pp. 433–435 (4th ed. 2009).
+
+															At trial, Elonis objected to the District
+Court’s instruction, but he did not argue for recklessness.
+Instead, he proposed instructions that would have required proof
+that he acted purposefully or with knowledge that his statements
+would be received as threats. See App. 19–21. He advanced the
+same position on appeal and in this Court. See Brief for Petitioner
+29 (“Section 875(c) requires proof that the defendant
+intended the charged statement to be a
+‘threat’ ” (emphasis in original));
+Corrected Brief of Appellant in No. 12–3798 (CA3), p. 14
+(“[A] ‘true threat’ has been uttered only if the
+speaker acted with subjective intent to threaten”
+(same)). And at oral argument before this Court, he expressly
+disclaimed any agreement with a recklessness standard—which
+the Third Circuit remains free to adopt. Tr. of Oral Arg.
+8:22–23 (“[W]e would say that recklessness is not
+justif[ied]”). I would therefore remand for the Third Circuit
+to determine if Elonis’s failure (indeed, refusal) to
+argue for recklessness prevents reversal of his conviction.
+
+															The Third Circuit should also have the
+opportunity to consider whether the conviction can be upheld on
+harmless-error grounds. “We have often applied harmless-error
+analysis to cases involving improper instructions.”
+Neder v. United States, 527 U. S. 1, 9 (1999) ;
+see also, e.g., Pope v. Illinois, 481
+U. S. 497 –504 (1987) (remanding for harmless-error
+analysis after holding that jury instruction misstated obscenity
+standard). And the Third Circuit has previously upheld convictions
+where erroneous jury instructions proved harmless. See, e.g.,
+United States v. Saybolt, 577 F. 3d 195,
+206–207 (2009). It should be given the chance to address that
+possibility here.
+
+													

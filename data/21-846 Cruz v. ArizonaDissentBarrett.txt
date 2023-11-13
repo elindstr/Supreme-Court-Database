@@ -1,0 +1,83 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-846
+::decision_name::  Cruz v. Arizona
+::decision_year:: 2023
+::opinion_author:: Barrett
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–846
+
+															_________________
+
+															JOHN MONTENEGRO CRUZ, PETITIONER v. ARIZONA
+
+															on writ of certiorari to the supreme court of arizona
+
+															[February 22, 2023]
+
+															
+
+															Justice Barrett, with whom Justice Thomas, Justice Alito, and Justice Gorsuch join, dissenting.
+
+															The adequate and independent state grounds doctrine is the product of two fundamental features of our jurisdiction.  First, this Court is powerless to revise a state court’s interpretation of its own law.  Murdock v. Memphis, 20 Wall. 590, 636 (1875).  We thus cannot disturb state-court rulings on state-law questions that are independent of federal law.  Second, Article III empowers federal courts to render judgments, not advisory opinions.  Hayburn’s Case, 2 Dall. 409 (1792).  So if an independent state ground of decision is adequate to sustain the judgment, we lack jurisdiction over the entire dispute.  Anything we said about alternative federal grounds would not affect the ultimate resolution of the case and would therefore be advisory.  Herb v. Pitcairn,
+
+324 U.S. 117, 126 (1945).
+
+															The Court holds that the Arizona Supreme Court’s application of Rule 32.1(g) is inadequate to support the judgment below.  That assertion is jarring, because the bar for finding inadequacy is extraordinarily high.  When, as here, the argument is based on the state court’s inconsistent or novel application of its law, the bar is met only by a decision so blatantly disingenuous that it reveals hostility to federal rights or those asserting them.  See Walker v. Martin,
+
+562 U.S. 307, 321 (2011).  Given the respect we owe state courts, that is not a conclusion we should be quick to draw—and ordinarily, we are not quick to draw it.
+
+															NAACP v. Alabama ex rel. Patterson illustrates how unprincipled a state-court decision must be before we treat it as inadequate.
+
+357 U.S. 449 (1958).  There, the NAACP asked the Alabama Supreme Court to vacate a civil contempt order as unconstitutional.  That court denied review on the ground that the NAACP had improperly pursued a writ of certiorari, when it should have sought a writ of mandamus.  Id., at 454–455.  We held this procedural ruling inadequate because it was irreconcilable with the Alabama Supreme Court’s “past unambiguous holdings.”  Id., at 456.  Though a multitude of that court’s own precedents contradicted its ruling, one in particular stood out: The court had evaluated similar constitutional claims brought by a petitioner in cahoots with the Ku Klux Klan, even though he had also pursued a writ of certiorari.  Id., at 456–457.  The subtext of the Alabama Supreme Court’s decision unmistakably revealed its hostility toward the NAACP’s federal rights.  See also Ford v. Georgia,
+
+498 U.S. 411, 425 (1991) (Georgia Supreme Court decision was inadequate because it applied precedent that was inapplicable “by its own terms”); Barr v. City of Columbia,
+
+378 U.S. 146, 149–150 (1964) (South Carolina Supreme Court ruling was inadequate because that court had proceeded differently in an “identical” case a few weeks later).
+
+															Today’s Court, while admitting that the novelty prong of inadequacy is “reserved for the rarest of situations,” ante, at 7, concludes that the Arizona Supreme Court’s application of Rule 32.1(g) falls in the same category as Patterson.  I respectfully disagree.  Unlike the state courts in cases like Patterson, the Arizona Supreme Court did not contradict its own settled law.  Instead, it confronted a new question and gave an answer reasonably consistent with its precedent.
+
+															The ordinary rule in Arizona is that criminal defendants must present any constitutional challenges on direct review or in a timely postconviction-review petition.  Ariz. Rule Crim. Proc. 32.2(a), 32.4(b)(3)(A) (2020).  Rule 32.1(g) allows a second or delayed bite at the postconviction-relief apple when “there has been a significant change in the law that, if applicable to the defendant’s case, would probably overturn the defendant’s judgment or sentence.”
+
+															On several occasions, the Arizona Supreme Court has addressed whether an intervening judicial decision constitutes a “significant change in the law” for purposes of Rule 32.1(g).  For instance, it has considered whether this Court’s decisions significantly changed the content of federal law.  E.g., State v. Bigger, 251 Ariz. 402, 412, 492 P.3d 1020, 1030 (2021) (a decision that “affirmed the Supreme Court’s jurisprudence” was not a significant change); State v. Valencia, 241 Ariz. 206, 209, 386 P.3d 392, 395 (2016); see also State v. Poblete, 227 Ariz. 537, 540, 260 P.3d 1102, 1105 (App. 2011).  It has also analyzed whether intervening state-court decisions significantly changed Arizona law.  E.g., State v. Shrum, 220 Ariz. 115, 119–120, 203 P.3d 1175, 1179–1180 (2009); State v. Slemmer, 170 Ariz. 174, 179, 182, 823 P.2d 41, 46, 49 (1991); State v. Rendon, 161 Ariz. 102, 104, 776 P.2d 353, 355 (1989).
+
+															Cruz’s case, however, raised a question of first impression: whether a “significant change” occurs when an intervening decision reaffirms existing law, but rectifies an erroneous application of that law.  That was the effect of Lynch v. Arizona,
+
+578 U.S. 613 (2016) (per curiam), which corrected the Arizona Supreme Court’s application of Simmons v. South Carolina,
+
+512 U.S. 154 (1994) (plurality opinion), and its progeny.  An intervening decision like Lynch, which undisputedly did not change any legal doctrine, has no analog in Arizona’s Rule 32.1(g) jurisprudence.  See ante, at 6 (Lynch “reaffirm[ed] that Simmons applies in Arizona” (emphasis added)).  So the Arizona Supreme Court devised a rule: “Rule 32.1(g) requires a significant change in the law, whether state or federal—not a significant change in the application of the law.”  251 Ariz. 203, 207, 487 P.3d 991, 995 (2021).  By that standard, Lynch did not satisfy Rule 32.1(g).  251 Ariz., at 207, 487 P. 3d, at 995.
+
+															The Court criticizes the “novelty” of the Arizona Supreme Court’s law versus application-of-law distinction, as it does not appear in any other Arizona precedent.  Ante, at 9.  A point that deserves emphasis at the outset: Novelty does not mean that a rule is inadequate merely because a state court announced it for the first time in the decision under review, and I do not understand the Court to suggest otherwise.  Legal systems based on precedent depend on cases to present novel fact patterns, which enable courts to articulate new principles of law or to clarify old ones with greater precision.  Beard v. Kindler,
+
+558 U.S. 53, 65 (2009) (Kennedy, J., concurring).  We do a disservice to that mode of legal development when we “disregard a state procedural ground that was not in all respects explicit before the case when it was first announced”—unless, of course, the decision demonstrates “a purpose or pattern to evade constitutional guarantees.”  Ibid.  That is why we have been careful to explain that, in the inadequacy context, a decision is “ ‘novel’ ” only when it was wholly “ ‘unforeseeable’ ” and lacked any “ ‘fair or substantial support in prior state law.’ ”  Walker, 562 U. S., at 320 (quoting 16B C. Wright, A. Miller, & E. Cooper, Federal Practice and Procedure §4026, p. 386 (2d ed. 1996)).
+
+															The Court’s real objection is that it thinks the Arizona Supreme Court violated its own Rule 32.1(g) precedent by holding that Lynch is not a significant change in law.  For one, the Court says, the Arizona Supreme Court has previously explained that “ ‘ [t]he archetype ’ ” of a significant change occurs “ ‘ when an appellate court overrules previously binding case law, ’ ” and Lynch overruled binding Arizona case law.  Ante, at 8 (quoting Shrum, 220 Ariz., at 118, 203 P. 3d, at 1178).  In isolation, that language does suggest that Lynch is a “significant change” for purposes of Rule 32.1(g).  Context, however, shows there is more to the story: Shrum illustrated its point with the example of Ring v. Arizona,
+
+536 U.S. 584 (2002), which was a significant change because it overruled our contrary decision in Walton v. Arizona,
+
+497 U.S. 639 (1990).  220 Ariz., at 118–119, 203 P. 3d, at 1178–1179 (citing State v. Towery, 204 Ariz. 386, 390, 64 P.3d 828, 832 (2003)).  Unlike Lynch, Ring changed the governing legal doctrine, not a mistaken application of that doctrine.  So Shrum’s reasoning is not inconsistent with the result below.
+
+															The Court also asserts that Arizona courts typically analyze how an intervening decision affects the law in Arizona, so by that logic, decisions like Lynch that change the law’s on-the-ground application in Arizona constitute grounds for relief under Rule 32.1(g).  Ante, at 9–10.  I do not read the Arizona Supreme Court’s “past unambiguous holdings” to say as much.  Patterson, 357 U. S., at 456.  The closest example the Court offers is State v. Valencia, 241 Ariz. 206, 386 P.3d 392 (2016), in which the Arizona Supreme Court considered whether Miller v. Alabama,
+
+567 U.S. 460 (2012), constituted a significant change in law.  241 Ariz., at 208, 386 P. 3d, at 394.  The court observed that pre-Miller, “Arizona law” allowed trial courts to impose life sentences on juveniles “without distinguishing crimes that reflected ‘irreparable corruption’ rather than the ‘transient immaturity of youth.’ ”  Valencia, 241 Ariz., at 209, 386 P. 3d, at 395.  Miller, in holding that trial courts must weigh such considerations before imposing a life sentence on juveniles, changed
+ 
+Eighth Amendment doctrine and therefore changed the law in Arizona.  241 Ariz., at 209, 386 P. 3d, at 395; see also Montgomery v. Louisiana,
+
+577 U.S. 190, 208, 212 (2016).  Lynch, by contrast, did not change the content of federal law and therefore did not change the law in Arizona.
+
+															If the Arizona Supreme Court’s distinction between a change in law and a change in the application of law seems familiar, it should—federal habeas law draws the same line.  Take everything about this case and transplant it to federal court: A federal defendant is wrongfully denied a Simmons instruction, the Court of Appeals’s understanding of Simmons is later summarily reversed in Lynch, and the defendant (now a prisoner) then tries to obtain the benefit of Lynch through a successive or delayed motion for postconviction relief.[1]*  In this scenario, the federal prisoner faces the same dilemma that Cruz faces in Arizona.  Pre-Lynch, the Court of Appeals was unreceptive to the Simmons claim.  Post-Lynch, the prisoner’s claim is procedurally barred: Lynch is not “a new rule of constitutional law” or a “newly recognized” right because it merely applies an old rule, Simmons.  28 U. S. C. §§2255(f )(3), (h)(2).  If federal law limits a prisoner’s Simmons claim to an initial, timely motion, we should not be surprised that Arizona has made a similar choice.  And we have cautioned before that “[f ]ederal habeas courts must not lightly ‘disregard state procedural rules that are substantially similar to those to which we give full force in our own courts.’ ”  Johnson v. Lee,
+
+578 U.S. 605, 609 (2016) (per curiam) (quoting Kindler, 558 U. S., at 62).
+
+															The Court makes a case for why the Arizona Supreme Court’s interpretation of its own precedent is wrong.  If I were on the Arizona Supreme Court, I might agree.  But that call is not within our bailiwick.  Our job is to determine whether the Arizona Supreme Court’s decision is defensible, and we owe the utmost deference to the state court in making that judgment.  Cases of inadequacy are extremely rare, and this is not one.  I respectfully dissent.
+Notes
+1
+*This hypothetical is inapposite to Cruz’s pending federal habeas action, which appears to be a timely, initial federal filing.  See Cruz v. Ryan, 2018 WL 1524026, *3 (D Ariz., Mar. 28, 2018), appeal docketed sub nom. Cruz v. Credio, No. 21–99005 (CA9, Apr. 22, 2021). 
+
+

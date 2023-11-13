@@ -1,0 +1,151 @@
+::SCDB_caseID:: 2008-048
+::decision_cite:: 556 U.S. 449 (2009)
+::decision_name::  Cone v. Bell
+::decision_year:: 2009
+::opinion_author:: Alito
+::opinion_type:: Concurrence & Dissent In Part
+::opinion:: 
+
+
+OPINION OF ALITO, J.
+CONE V. BELL
+556 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NO. 07-1114
+
+
+
+
+
+															GARY BRADFORD CONE, PETITIONER v. RICKY
+BELL, WARDEN
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[April 28, 2009]
+
+
+
+															   Justice Alito, concurring in part and dissenting in part.
+
+															
+   We granted certiorari in this case to answer two questions:
+
+															“1. Is a federal habeas claim ‘procedurally defaulted’ because it has been presented twice to the state courts?
+
+															
+
+“2. Is a federal habeas court powerless to recognize that a state court erred in holding that state law precludes reviewing a claim?”  Pet. for Cert. i.
+
+															
+   Both of these questions are based on a factually incorrect premise, namely, that the Tennessee Court of Criminal Appeals, the highest state court to entertain petitioner’s appeal from the denial of his second petition for state postconviction relief,[Footnote 1] rejected petitioner’s Brady[Footnote 2] claim on the ground that the claim had been previously decided by the Tennessee Supreme Court in petitioner’s direct appeal.  Petitioner’s argument is that the State Supreme Court did not decide any Brady issue on direct appeal, that the Tennessee Court of Criminal Appeals erred in holding otherwise, and that the Sixth Circuit erred in concluding that the Brady claim had been procedurally defaulted on this ground.  Petitioner is quite correct that his Brady claim was not decided on direct appeal, and the Court in the present case is clearly correct in holding that a second attempt to litigate a claim in state court does not necessarily bar subsequent federal habeas review.  See ante, at 8–9.
+
+															
+
+   But all of this is beside the point because the Tennessee Court of Criminal Appeals did not reject petitioner’s Brady claim on the ground that the claim had been previously determined on direct appeal.  Rather, petitioner’s Brady claim was simply never raised before the Tennessee Court of Criminal Appeals, and that court did not rule on the claim at all.
+
+															
+
+   Because the Sixth Circuit’s decision on the issue of procedural default rests on the same mistaken premise that the Tennessee Court of Criminal Appeals rejected petitioner’s Brady claim on the ground that it had been previously determined, I entirely agree with the majority that the Sixth Circuit’s decision on that issue cannot be sustained and that a remand is required.  I cannot join the Court’s opinion, however, for two chief reasons.
+
+															
+
+   First, the Court states without explanation that “Cone properly preserved and exhausted his Brady claim in the state court” and that therefore the claim has not been defaulted.  Ante, at 20.  Because Cone never fairly raised this claim in the Tennessee Court of Criminal Appeals, the claim is either not exhausted (if Cone could now raise the claim in state court) or is procedurally defaulted (if state law now provides no avenue for further review).  I would leave these questions for resolution in the first instance on remand.
+
+															
+
+   Second, the Court, again without explanation, remands this case to the District Court, not the Court of Appeals.  I see no justification for this step.
+
+															I
+
+															
+   In order to understand the tangled procedural default issue presented in this case, it is necessary to review the far-from-exemplary manner in which the attorneys for petitioner and respondent litigated the Brady claim in the state courts.
+
+															   On direct appeal, petitioner did not raise any Brady claim.  As the Court notes, petitioner did claim that the State had violated a state discovery rule by failing to provide prior statements given by certain witnesses and that therefore the testimony of these witnesses should have been stricken.  App. 114–117; State v. Cone, 665 S. W. 2d 87, 94 (Tenn. 1984).  Although this claim concerned the State’s failure to turn over information, it is clear that this was not a Brady claim.
+
+															
+
+   The first appearance of anything resembling the claim now at issue occurred in 1993 when petitioner’s experienced attorneys filed an amendment to his second petition for postconviction relief in the Shelby County Criminal Court.  This petition included a long litany of tangled claims.  Paragraph 35 of this amended petition claimed, among other things, that the State had wrongfully withheld information demonstrating that one particular prosecution witness had testified falsely concerning “petitioner and his drug use.”  App. 13–14.  This nondisclosure, the petition stated, violated not only the Fifth and Fourteenth Amendments to the Constitution of the United States (which protect the due process right on which Brady is based) but also the Fourth, Sixth, and Eighth Amendments to the United States Constitution and four provisions of the Tennessee Constitution.
+
+															
+
+   Two months later, counsel for petitioner filed an amendment adding 12 more claims, including one (¶41) alleging that the State had abridged petitioner’s rights by failing to disclose evidence that petitioner suffered from drug problems.  Id., at 20.  According to this new submission, the nondisclosure violated, in addition to the previously cited provisions of the federal and state constitutions, five more provisions of the state constitution, including provisions regarding double jeopardy, see Tenn. Const., Art. I, §10, ex post facto laws, §11, indictment, §14, and open courts, §17.
+
+															
+
+   The Shelby County Criminal Court was faced with the task of wading through the morass presented in the amended petition.  Under Tenn. Code Ann. §40–30–112 (1990) (repealed 1995),[Footnote 3] a claim could not be raised in a postconviction proceeding if the claim had been “previously determined” or waived.  Citing the State Supreme Court’s rejection on direct appeal of petitioner’s claim that the prosecution had violated a state discovery rule by failing to turn over witness statements, the State incorrectly informed the court that the failure-to-disclose-exculpatory-evidence claim set out in ¶41 had been “previously determined” on direct appeal.  App. 15–16.  The Shelby County Criminal Court rejected the claim on this ground, and held that all of petitioner’s claims had either been previously determined or waived.  Id., at 22.
+
+															
+
+   Given the importance now assigned to petitioner’s Brady claim, one might think that petitioner’s attorneys would have (a) stressed that claim in the opening brief that they filed in the Tennessee Court of Criminal Appeals, (b) pointed out the lower court’s clear error in concluding that this claim had been decided in the direct appeal, and (c) explained that information supporting the claim had only recently come to light due to the production of documents under the State’s public records act.  But counsel did none of these things.  In fact, the Brady claim was not mentioned at all.
+
+															
+
+   Nor was Brady cited in the reply brief filed by the same attorneys.  The reply brief did contain a passing reference to “the withholding of exculpatory evidence,” but the brief did not elaborate on this claim and again failed to mention that this claim had never been previously decided and was supported by newly discovered evidence.[Footnote 4]
+
+															
+
+   The Tennessee Court of Criminal Appeals affirmed the decision of the lower state court, but the appellate court made no mention of the Brady claim, and I see no basis for concluding that the court regarded the issue as having been raised on appeal.
+
+															
+
+   Appellate courts generally do not reach out to decide issues not raised by the appellant.  Snell v. Tunnell, 920 F. 2d 673, 676 (CA10 1990); see Powers v. Hamilton Cty. Public Defender Comm’n, 501 F. 3d 592, 609–610 (CA6 2007); see also Galvan v. Alaska Dept. of Corrections, 397 F. 3d 1198, 1204 (CA9 2005) (“Courts generally do not decide issues not raised by the parties.  If they granted relief to petitioners on grounds not urged by petitioners, respondents would be deprived of a fair opportunity to respond, and the courts would be deprived of the benefit of briefing” (footnote omitted)).  Nor do they generally consider issues first mentioned in a reply brief.  Physicians Comm. For Responsible Medicine v. Johnson, 436 F. 3d 326, 331, n. 6 (CA2 2006); Doe v. Beaumont Independent School Dist., 173 F. 3d 274, 299, n. 13 (CA5 1999) (Garza, J., dissenting); Doolin Security Sav. Bank, F. S. B. v. Office of Thrift Supervision, 156 F. 3d 190, 191 (CADC 1998); Boone v. Carlsbad Bancorporation, Inc., 972 F. 2d 1545, 1554, n. 6 (CA10 1992).  And it is common to practice for appellate courts to refuse to consider issues that are mentioned only in passing.  Reynolds v. Wagner, 128 F. 3d 166, 178 (CA3 1997) (citing authorities).
+
+															
+
+   The Tennessee Court of Criminal Appeals follows these standard practices.  Rule 10(b) of that court states quite specifically: “Issues which are not supported by argument, citation to authorities, or appropriate references to the record will be treated as waived in this court.”  The court has applied this rule in capital cases, State v. Dellinger, 79 S. W. 3d 458, 495, 497, 503 (Tenn. 2002) (appendix to majority opinion); Brimmer v. State, 29 S. W. 3d 497, 530 (1998), and in others.  See, e.g., State v. Faulkner, 2001 WL 378540 (Tenn. Crim. App., Sept. 10, 2001) (73-year sentence for first-degree murder).  And in both capital and noncapital cases, the court has refused to entertain arguments raised for the first time in a reply brief.  See State v. Gerhardt, 2009 WL 160930 (Tenn. Crim. App., Jan. 23, 2009) (capital case); Carruthers v. State, 814 S. W. 2d 64, 68 (Tenn. Crim. App. 1991) (capital case); Cammon v. State, 2007 WL 2409568, *6 (Tenn. Crim. App., Aug. 23, 2007) (noncapital case).[Footnote 5]  Thus, unless the Tennessee Court of Criminal Appeals departed substantially from its general practice, that court did not regard petitioner’s Brady claim as having been raised on appeal.
+
+															
+
+   In the decision now under review, the Sixth Circuit held that “[t]he Tennessee courts found that Cone’s Brady claims were ‘previously determined’ and, therefore, not cognizable in [his] state post-conviction action.”  492 F. 3d 743, 756 (2007).  In my judgment, however, there is no basis for concluding that the Tennessee Court of Criminal Appeals thought that any Brady issue was before it.  A contrary interpretation would mean that the Tennessee Court of Criminal Appeals, disregarding its own rules and standard practice, entertained an issue that was not mentioned at all in the appellant’s main brief and was mentioned only in passing and without any development in the reply brief.  It would mean that the Tennessee Court of Criminal Appeals, having chosen to delve into the Brady issue on its own, ruled on the issue without even mentioning it in its opinion and without bothering to check the record to determine whether in fact the Brady issue had been decided on direct appeal.  Such an interpretation is utterly implausible, and it is telling that the majority
+in this case cites no support for such an interpretation in the opinion of the Tennessee Court of Criminal Appeals’ opinion.
+
+															
+
+   The Sixth Circuit’s decision on the question of procedural default rests on an erroneous premise and must therefore be vacated.
+
+															II
+
+															
+   I also agree with the Court that we should not affirm the decision below on the ground that the Brady claim lacks substantive merit.  After its erroneous discussion of procedural default, the Sixth Circuit went on to discuss the merits of petitioner’s Brady claim.  In its 2001 opinion, the Court of Appeals recognized that the prosecution’s Brady obligation extends not only to evidence that is material to guilt but also to evidence that is material to punishment.  See Cone v. Bell, 243 F. 3d 961, 968 (2001) (citing Pennsylvania v. Ritchie, 480 U. S. 39, 57 (1987)).  But neither in that opinion nor in its 2006 opinion did the court address the materiality of the information in question here in relation to petitioner’s punishment.  See 492 F. 3d, at 756 (“A review of the allegedly withheld documents shows that this evidence would not have overcome the overwhelming evidence of Cone’s guilt in committing a brutal double murder and the persuasive testimony that Cone was not under the influence of drugs” (emphasis added)).  Therefore, despite the strength of the arguments in Justice Thomas’ dissent, I would leave that question to be decided by the Sixth Circuit on remand.
+
+															III
+
+															
+   The Court, however, does not simply vacate and remand to the Sixth Circuit but goes further.
+
+															   First, the Court states without elaboration that petitioner “preserved and exhausted his Brady claim in the state court.”  Ante, at 20.  As I have explained, petitioner did not fairly present his Brady claim in his prior appeal to the Tennessee Court of Criminal Appeals, and therefore that claim is either unexhausted or procedurally barred.  If the State is not now foreclosed from relying on the failure to exhaust, see 28 U. S. C. §2254(b)(3), or on procedural default,[Footnote 6] those questions may be decided on remand.
+
+															
+
+   Second, the Court remands the case to the District Court rather than the Court of Appeals.  A remand to the District Court would of course be necessary if petitioner were entitled to an evidentiary hearing, but the Court does not hold that an evidentiary hearing is either required or permitted.  In my view, unless there is to be an evidentiary hearing, there is no reason to remand this case to the District Court.  If the only purpose of remand is to require an evaluation of petitioner’s Brady claim in light of the present record, the District Court is not in a superior position to conduct such a review.  And even if such a review is conducted in the first instance by the District Court, that court’s decision would be subject to de novo review in the Court of Appeals.  492 F. 3d, at 750; Cone v. Bell, 243 F. 3d, at 966–967 (CA6 2001); see United States v. Graham, 484 F. 3d 413 (CA6 2007); United States v. Miller, 161 F. 3d 977, 987 (CA6 1998); United States v. Phillip, 948 F. 2d 241, 250 (CA6 1991).  Accordingly, I see no good reason for remanding to the District Court rather than the Court of Appeals.  And if the majority has such a reason, it is one that it has chosen to keep to itself.
+
+															*  *  *
+
+															
+   For these reasons, I would vacate the decision of the Court of Appeals and remand to that court.
+
+Footnote 1
+															 Because the Tennessee Supreme Court denied discretionary review of the decision of the Tennessee Court of Criminal Appeals decision affirming the denial of petitioner’s second amended petition for postconviction relief, we must look to the decision of the latter court to determine if the decision below was based on an adequate and independent state ground.  See Baldwin v. Reese, 541 U. S. 27, 30–32 (2004); O’Sullivan v. Boerckel, 526 U. S. 838, 842–843 (1999).
+
+Footnote 2
+															 Brady v. Maryland, 373 U. S. 83 (1963).
+
+Footnote 3
+															 Tennessee law has since changed.  Currently, the Tennessee Post-Conviction Procedure Act bars any second postconviction petition, see Tenn. Code Ann. §40–30–102 (2006), and permits the reopening of a petition only under limited circumstances, §40–30–117.  These restrictions apply to any petition filed after the enactment of the Post-Conviction Procedure Act, even if the conviction occurred long before.
+
+Footnote 4
+															 After referring to a long list of claims (not including any claim for the failure to disclose exculpatory evidence), the reply brief states:
+
+															
+
+“[I]t is clear that meritorious claims have been presented for adjudication.  These claims have not been waived and a remand for a hearing is essential in order to enable Mr. Cone to present evidence and prove the factual allegations, including those relating to his claims of ineffective assistance of counsel, Petition ¶¶15, 16, 44, R–67, 71 and 141 and of the withholding of exculpatory evidence.  Petition ¶41, R–139.”  Reply Brief of Petitioner-Appellant in No. 02–C–01–9403–CR–0052, p. 5 (emphasis added) (hereinafter Reply Brief).
+
+Footnote 5
+															 In a footnote in his reply brief, petitioner stated that he was not waiving any claim presented in the court below and asked the appellate court to consider all those claims.  See Reply Brief 3, n. 1.  But the Tennessee Court of Criminal Appeals has specifically held that claims may not be raised on appeal in this manner.  See Leonard v. State, 2007 WL 1946662, *21–*22 (Tenn. Crim. App., July 5, 2007).
+
+Footnote 6
+															 Unlike exhaustion, procedural default may be waived if it is not raised as a defense.  Banks v. Dretke, 540 U. S. 668, 705 (2004) (allowing for waiver of “procedural default” “based on the State’s litigation conduct” (citing Gray v. Netherland, 518 U. S. 152, 166 (1996))).  Here, it appears that the State has consistently argued that petitioner’s Brady claim was procedurally defaulted, but the State’s supporting arguments have shifted.  Whether the question of procedural default described in this opinion should be entertained under the particular circumstances here is an intensely fact-bound matter that should be left for the Sixth Circuit on remand.
+
+
+

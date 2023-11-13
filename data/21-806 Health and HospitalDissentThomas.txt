@@ -1,0 +1,1451 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-806
+::decision_name::  Health and Hospital Corp. of Marion County v. Talevski
+::decision_year:: 2023
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–806
+
+															_________________
+
+															HEALTH AND HOSPITAL CORPORATION OF MARION
+COUNTY, et al., PETITIONERS v. IVANKA TALEVSKI, as
+personal representative of the ESTATE OF GORGI TALEVSKI,
+DECEASED
+
+															on writ of certiorari to the united states
+court of appeals for the seventh circuit
+
+															[June 8, 2023]
+
+															Justice Thomas, dissenting.
+
+															I agree with Justice Alito that the Federal
+Nursing Home Reform Act (FNHRA) cannot be enforced through Rev.
+Stat. §1979, 42 U. S. C. §1983, under
+Gonzaga Univ. v. Doe, 536 U.S.
+273 (2002). I write separately to highlight another and more
+fundamental reason why FNHRA cannot be enforced under §1983.
+Section 1983 provides a cause of action to redress only “the
+deprivation of any rights, privileges, or immunities secured by the
+Constitution and laws.” But legislation enacted pursuant to
+Congress’ spending power, like FNHRA, does not
+“secure” rights by “law.”
+
+															For nearly all of our Nation’s history, it
+was understood that there is a fundamental difference between the
+exercise of Congress’ sovereign legislative powers, on the
+one hand, and the exercise of its power to spend money and to
+attach conditions to the receipt of that money, on the other. Only
+the former sort of legislation, which imposes obligations on
+regulated parties with the force of law, directly secures by law
+the rights corresponding to those obligations. By contrast, an
+exercise of Congress’ spending power, whether it comes from
+the so-called Spending Clause or elsewhere in the Constitution, is
+no more than a disposition of funds. As such, a conditional
+exercise of the spending power is nothing more than a contractual
+offer; any “rights” that may flow from that offer are
+“secured” only by the offeree’s acceptance and
+implementation, not federal law itself.
+
+															Since Maine v. Thiboutot,
+448 U.S. 1
+(1980), however, this Court has ignored that fundamental
+distinction, permitting third parties who benefit from spending
+conditions to enforce them in §1983 suits against state
+actors. In doing so, it has created a constitutional quandary: If
+spending conditions that benefit third parties are laws and secure
+rights in the same manner as ordinary lawmaking under
+Congress’ sovereign legislative powers, then such conditions
+would contradict the bedrock constitutional prohibition against
+federal commandeering of the States. We escape this quandary only
+by recognizing spending conditions, not as rights-securing laws,
+but as the terms of possible contracts that secure rights only by
+virtue of an offeree’s acceptance—the very conclusion
+compelled by the traditional understanding of the spending power.
+The choice between these alternatives is stark and unavoidable:
+Either spending conditions in statutes like FNHRA are not laws that
+secure rights cognizable under §1983, or they are
+unconstitutional direct regulations of States. The Court must, at
+some point, revisit its understanding of the spending power and its
+relation to §1983.
+
+															I
+
+															This case arises from a §1983 suit to
+enforce FNHRA’s spending conditions against a county-owned
+nursing home that receives federal funding. Enacted under
+Congress’ spending power, FNHRA conditions the receipt of
+federal Medicaid funding by States and nursing facilities on
+compliance with a broad range of requirements.
+
+															These conditions largely consist of requirements
+that funding recipients protect certain “rights” of
+nursing-home residents. In a subsection entitled
+“[r]equirements relating to residents’ rights,”
+the Act requires recipients to “protect and promote the
+rights of each resident,” including “[t]he right to
+choose a personal attending physician” and make informed
+medical decisions; “[t]he right to be free from physical or
+mental abuse, corporal punishment, involuntary seclusion, and any
+[medically unnecessary] physical or chemical restraints”; and
+“[t]he right[s] to privacy” and
+“confidentiality.” 42 U. S. C.
+§§1396r(c)(1)(A)(i)–(iv). The Act further provides
+that funding recipients “must permit each resident to remain
+in the facility and must not transfer or discharge the
+resident” without cause. §1396r(c)(2)(A). Recipients
+must also adopt procedures for residents to assert these
+“rights” and to otherwise “voice grievances with
+respect to [their] treatment or care.”
+§1396r(c)(1)(A)(vi).
+
+															The Act also imposes many requirements directly
+and uniquely upon participating States, including in a subsection
+entitled “State requirements relating to nursing facility
+requirements.” §1396r(e). For instance, States must
+establish procedures for residents to challenge transfer and
+discharge decisions and an appeals process for other
+determinations. §§1396r(e)(3) and (e)(7)(F). States are
+also required to certify non-state-run facilities’ compliance
+with the Act’s provisions by conducting annual surveys using
+protocols developed by the Secretary of Health and Human Services.
+§1396r(g)(2)(A). If a State finds that a facility is not
+providing adequate care, it must conduct an extended survey.
+§1396r(g)(2)(B). The Act also requires States to investigate
+resident complaints and perform onsite monitoring at previously
+noncompliant or potentially noncompliant facilities.
+§1396r(g)(4)(B). And, if it finds a violation that
+“jeopardize[s] the health or safety of [a facility’s]
+residents, the State shall take immediate action to remove the
+jeopardy and correct the deficiencies.”
+§1396r(h)(1)(A).[1]
+
+															FNHRA’s scheme is illustrative of many
+modern federal spending programs, which often impose obligations
+directly on States as a condition of funding. For example, as a
+condition on highway funding, the Clean Air Act requires States to
+draft “State implementation plans” if their
+metropolitan areas fail to satisfy national ambient air quality
+standards. 42 U. S. C. §§7410 and
+7509(a)–(b). Among other requirements, these plans must
+include emission limitations, compliance timetables, source
+monitoring, permitting systems, enforcement programs, and public
+participation. See §7410(a)(2). Other examples, spanning
+virtually every domain of national and state policy, abound.
+
+															The ubiquity of such spending conditions,
+combined with the Federal Government’s overwhelming financial
+heft, has made Spending Clause legislation an extraordinarily
+potent instrument of federal control.[2] Congress and federal agencies “regularly us[e]
+conditions to direct state and local governments in their
+regulatory and spending policies.” P. Hamburger, Purchasing
+Submission 139 (2021) (Hamburger). As a result, “the
+priorities and programs of state and local governments have
+increasingly come to reflect federal decisions,” to the point
+that the States have virtually become “disaggregated sites of
+national governance, not separate sovereigns.” Id., at
+141 (internal quotation marks omitted). Given the profound
+consequences of spending conditions for the Nation’s
+governance and the fundamental shift that they have wrought in our
+federalist system, a sound understanding of their constitutional
+basis and permissible legal effects is essential.
+
+															II
+
+															This case presents one aspect of that
+question: whether spending conditions that impose obligations on
+States for the benefit of third parties may be enforced under
+§1983. That statute provides a cause of action against any
+“person who, under color” of state law, deprives the
+plaintiff “of any rights, privileges, or immunities secured
+by the Constitution and laws.” Accordingly, for the violation
+of a federal statutory provision to give rise to a cognizable
+§1983 claim, the provision must confer “rights,
+privileges, or immunities” that are “secured by
+. . . la[w].” This Court’s cases make clear
+that a right is secured by law in the relevant sense if, and only
+if, federal law imposes a binding obligation on the defendant to
+respect a corresponding substantive right that belongs to the
+plaintiff.[3]
+
+															In Thiboutot, the Court held that
+“the plain language of [§1983] undoubtedly embraces [a]
+claim that [the defendant] violated” a spending-power
+statute, reasoning that “the phrase ‘and laws’
+. . . means what it says” and is not “limited
+to some subset of laws.” 448 U. S., at 4. The Court
+unquestioningly follows Thiboutot’s logic today.
+
+															It is obvious, however, that conditional
+spending legislation does not function—and, in particular,
+does not “secure rights”—like laws enacted under
+Congress’ enumerated legislative powers, such as the Commerce
+Clause. The latter, which I will refer to as “sovereign
+legislative” or “regulatory” powers, include
+powers to directly impose obligations, duties, prohibitions, and
+the like on individuals and entities beyond the Federal Government,
+and hence to secure corresponding rights in the persons and
+entities to which such obligations are owed. Laws that Congress
+enacts pursuant to its regulatory powers are binding on the
+regulated parties and pre-empt contrary state law of their own
+force. Whatever rights such laws secure, those rights are secured
+“by the . . . laws” themselves.
+§1983.
+
+															By contrast, legislation that conditions a
+State’s receipt of federal funds on compliance with certain
+requirements imposes no obligations and secures no rights of its
+own force. The stated conditions simply have no effect and do not
+arguably secure any rights (“by law” or otherwise)
+unless and until they are freely accepted by the State. Not only
+that, the Executive Branch can prevent the conditions from taking
+effect by rejecting a State’s application to participate in
+the spending program, and it can terminate their effect by cutting
+off a State’s participation for noncompliance with the
+conditions. In addition, States can opt out of spending programs,
+completely nullifying whatever force the spending conditions once
+had. This alone suggests that spending conditions do not operate
+with the force of federal law, as “Congress’
+legislative powers cannot be avoided by simply opting out.”
+D. Engdahl, The Contract Thesis of the Federal Spending Power, 52
+S. D. L. Rev. 496, 498 (2007) (emphasis deleted); see
+also Townsend v. Swank, 404 U.S.
+282, 292 (1971) (Burger, C. J., concurring in result)
+(“[A]dherence to the provisions of [spending statutes] is in
+no way mandatory upon the States under the Supremacy
+Clause”).
+
+															Indeed, spending conditions like those in FNHRA
+do not function as laws enacted under Congress’ regulatory
+powers, and, if they did, they would unconstitutionally commandeer
+the States to administer federal programs ranging from welfare, to
+healthcare, to air quality, and much more. Such conditions are thus
+constitutional, if at all, only if understood as setting forth the
+terms of a federal-state contract, rather than as binding federal
+law imposing legally enforceable obligations of its own force. In
+holding that FNHRA secures rights by federal law, the majority
+ignores the contractual understanding of spending conditions and,
+by doing so, calls their very constitutionality into question.
+
+															A
+
+															As noted earlier, a defining characteristic of
+modern spending legislation is the imposition of obligations on
+States that accept federal funds. Understanding a State’s
+breach of such obligations as akin to violating rights secured by
+federal law is incompatible with this Court’s
+anticommandeering doctrine. Under this bedrock constitutional
+principle, Congress generally cannot directly regulate the States
+or require them to implement federal programs.
+
+															“When the original States declared their
+independence, they claimed the powers inherent in
+sovereignty.” Murphy v. National Collegiate
+Athletic Assn., 584 U. S. ___, ___ (2018) (slip op., at
+14) (citing Declaration of Independence ¶32).[4] Later, in ratifying the Constitution, the
+people of the original States granted carefully enumerated
+legislative powers to the new Federal Congress, while preserving
+the States’ pre-existing legislative power. 584 U. S.,
+at ___ (slip op., at 15). “[C]onspicuously absent from”
+Congress’ enumerated powers was “the power to issue
+direct orders to the governments of the States.”
+Ibid.
+
+															Thus, as this Court has made clear, the
+Constitution “confers upon Congress the power to regulate
+individuals, not States.” New York v. United
+States, 505 U.S.
+144, 166 (1992).[5] As a
+corollary, Congress “may not conscript state governments as
+its agents,” nor can it “require the States to govern
+according to [its] instructions.” Id., at 162, 178.
+And, “[w]hatever the outer limits of [state] sovereignty may
+be, one thing is clear: The Federal Government may not compel the
+States to enact or administer a federal regulatory program.”
+Id., at 188.[6]
+
+															Yet that is precisely what many spending
+conditions require the State to do. Spending conditions like
+FNHRA’s are nothing more than commands to States, qua
+States, to administer federal benefits programs on terms dictated
+by Congress. Such conditions cannot be treated as having the force
+of federal law imposing direct obligations on the States and
+securing correlative rights of private parties without violating
+the anticommandeering doctrine.
+
+															It is no answer that the States consent to
+direct regulation by agreeing to the spending conditions in return
+for federal dollars. As the Court held in New York,
+“[w]here Congress exceeds its authority relative to the
+States, . . . the departure from the constitutional plan
+cannot be ratified by the ‘consent’ of state
+officials.” Id., at 182. Because the people have
+surrendered only limited and enumerated powers to the Federal
+Government, the States and Congress cannot jointly circumvent the
+ratification and amendment process by agreeing “to the
+enlargement of the powers of Congress beyond those enumerated in
+the Constitution.” Ibid. The Federal Government cannot
+buy (or rent) the States’ power to implement a federal
+program and then regard the conditions that the States are
+implementing themselves as having the force of federal law.
+
+															B
+
+															Of course, it is ultimately the States’
+consent that gives effect to conditions in spending legislation,
+but it does so in an entirely different manner from an illicit
+expansion of Congress’ regulatory powers. Rather, as the
+Court observed in Pennhurst State School and Hospital v.
+Halderman, 451 U.S. 1
+(1981), “legislation enacted pursuant to the spending power
+is much in the nature of a contract.” Id., at 17. A
+federal statute imposing conditions upon the receipt of federal
+funding does not enact those conditions with “the obligation
+of law”; it merely “proposes them as the terms of a
+contractual promise.” Hamburger 132. Such spending provisions
+“merely stipulate what the government expects from recipients
+if it is to pay them or, later, not withhold further payment and
+demand its money back.” Ibid. Thus, “even when
+fully recited in statutes, federal conditions do not come with
+legal obligation.” Ibid.
+
+															Further, and as already noted, the conditions in
+spending legislation only come into force upon the acceptance of
+another party. Such conditions are thus “obligatory only by
+virtue of such agreement and not by force of law.” D.
+Engdahl, The Spending Power, 44 Duke L. J. 1, 104 (1994). To
+be sure, “it is a statute that prescribes the funding
+condition and requires denial of federal assistance if the funding
+condition is not agreed to.” Ibid. But, “only
+the agreement—and not the statute—makes the terms
+obligatory on the funds recipient and thus ‘secures’
+the contemplated third-party rights.” Ibid.[7] Accordingly, such “third-party
+rights . . . are ‘secured’ (if at all) not by
+any ‘law,’ but only by the contract between the
+recipient and the United States.” Ibid.
+
+															This contractual understanding of conditional
+spending legislation is much more than a mere analogy; it is the
+only possible explanation for why such legislation is not an
+unconstitutional direct regulation of the States. To deny or
+downplay this principle is to seek to have it both ways. Much
+spending legislation conditions States’ receipt of federal
+funds on their undertaking obligations with respect to third
+parties. For such legislation to survive a federalism challenge, it
+must not directly impose obligations on the States with the force
+of federal law. But, for those conditions to be enforceable under
+§1983, they must secure third-party rights by directly
+imposing correlative obligations on the States with the force of
+federal law. Both of these things cannot be true.
+
+															III
+
+															This contractual understanding of spending
+conditions is also a necessary consequence of the limited nature of
+Congress’ spending power, as consistently understood for
+nearly two centuries of our Nation’s history. Indeed, this is
+one point on which the Framers all seem to have agreed. Despite
+heated debates over the source and scope of Congress’ power
+to spend, all understood that this power did not carry with it any
+independent regulatory authority. That agreement persisted
+throughout the 19th century. And, in the 20th, it was a critical
+underpinning of this Court’s precedents upholding expansive
+uses of the spending power as consistent with Congress’
+limited legislative powers and our federalist system of
+government.
+
+															A
+
+															At the outset, while Congress undoubtedly
+possesses the power to direct the expenditure of federal funds, it
+is important to note that the Constitution contains no
+“spending clause.” From the beginning, some have
+located the spending power in the General Welfare Clause, and that
+view has generally been accepted by this Court’s modern
+doctrine. See Engdahl, 44 Duke L. J., at 53, and n. 220
+(describing Alexander Hamilton’s views); South Dakota
+v. Dole, 483 U.S.
+203, 206 (1987). Yet, there are serious problems with that
+view.
+
+															The General Welfare Clause is simply part of the
+Taxing Clause, which reads in relevant part: “The Congress
+shall have Power To lay and collect Taxes, Duties, Imposts and
+Excises, to pay the Debts and provide for the common Defence and
+general Welfare of the United States.” Art. 1, §8,
+cl. 1. By its terms, the only authority vested by this text is
+a power to “lay and collect Taxes, Duties, Imposts and
+Excises.” This power is then qualified by the Debts and
+General Welfare Clauses, which limit the objects for which Congress
+can exercise that power. The General Welfare Clause is thus most
+naturally read as a qualification on the substantive taxing
+power.
+
+															Consider also that the General Welfare Clause
+references not only the “general Welfare” but also
+“the common Defence.” If the Clause were construed as
+an affirmative grant of power to spend for the common defense, it
+would make redundant Congress’ powers to “raise and
+support Armies” and to “provide and maintain a
+Navy,” also found in Article I, §8, cls. 12–13.
+Thus, “[i]f the reference to ‘common Defence’
+spending simply alludes to power conferred elsewhere,” then
+it seems illogical to consider the terms “general
+Welfare” as the source of a freestanding power to spend for
+whatever purposes. D. Engdahl, The Basis of the Spending Power, 18
+Seattle U. L. Rev. 215, 222 (1995).
+
+															The Taxing Clause is also a strange candidate
+for the source of a general congressional spending power because
+“it fails to provide any authority at all to spend money
+acquired otherwise than by taxation.” Ibid. Yet,
+“[t]he federal treasury receives money from many other
+sources, including penalties, fines, user fees, leases, surplus
+property sales, gifts, bequests, and returns on investments.”
+Ibid. And those sums are a pittance in comparison to those
+raised under Congress’ Borrowing Clause power, see Art. I.,
+§8, cl. 2, which has always been one of the major sources
+of federal funds. Unless federal spending on credit and from
+revenues not derived from “Taxes, Duties, Imposts and
+Excises” is unconstitutional, the General Welfare Clause
+cannot be the source of Congress’ spending power.
+
+															The Clause certainly is not an independent grant
+of regulatory power to legislate for the general welfare, as
+the history of the Constitution’s framing and ratification
+makes clear. The Philadelphia Convention initially adopted a
+resolution that Congress be authorized “ ‘to
+legislate in all cases for the general interests of the Union, and
+also in those to which the States are separately incompetent, or in
+which the harmony of the United States may be interrupted by the
+exercise of individual legislation.’ ” J. Renz,
+What Spending Clause? (Or the President’s Paramour), 33 John
+Marshall L. Rev. 81, 104 (1999) (Renz). But the Convention
+later abandoned this vesting of a broad power to legislate for the
+general welfare in favor of the enumeration of specific federal
+legislative powers and the creation of a taxing power limited by
+the General Welfare Clause. See R. Natelson, The General Welfare
+Clause and the Public Trust: An Essay in Original Understanding, 52
+Kan. L. Rev. 1, 23–29 (2003) (Natelson); see also Renz
+104–105 (counting five instances in which the Convention
+considered and rejected attempts “to insert a grant of
+general legislative power into the Constitution”).[8]
+
+															Consistent with its text, Federalist advocates
+of the Constitution defended the General Welfare Clause to the
+ratifying public as nothing more than a limitation on the taxing
+power. See, e.g., 3 Debates on the Constitution 207 (J.
+Elliot ed. 1876) (Elliot’s Debates) (E. Randolph, Virginia
+Convention) (“The plain and obvious meaning of this is, that
+no more duties, taxes, imposts, and excises, shall be laid, than
+are sufficient to pay the debts, and provide for the common defence
+and general welfare, of the United States”); N. Webster, An
+Examination Into the Leading Principles of the Federal
+Constitution, in Pamphlets on the Constitution of the United States
+50 (P. Ford ed. 1888) (“[I]n the very clause which gives the
+power of levying duties and taxes, the purposes to which the money
+shall be appropriated are specified, viz. to pay the debts and
+provide for the common defence and general welfare of the United
+States”); see also Natelson 47–49. “[T]heir
+basic message was that the language in question was not a grant at
+all—rather it was a restriction on federal authority.”
+Id., at 39. As Governor Randolph emphatically declared:
+“Is this an independent, separate, substantive power, to
+provide for the general welfare of the United States? No,
+sir.” 3 Elliot’s Debates 466.
+
+															Federalists went out of their way to
+specifically disclaim that the General Welfare Clause would vest
+any independent regulatory power. For example, James Madison
+expressly rejected Anti-Federalist attempts to portray the General
+Welfare Clause as granting “an unlimited commission to
+exercise every power which may be alleged to be necessary for the
+common defense or general welfare.” The Federalist No. 41, p.
+262 (C. Rossiter ed. 1961). Similarly, in rebutting Patrick
+Henry’s warning that the Clause would vest a regulatory
+power, Governor Randolph observed: “You must violate every
+rule of construction and common sense, if you sever it from the
+power of raising money, and annex it to anything else, in order to
+make it that formidable power which it is represented to be.”
+3 Elliot’s Debates 600. Again and again, leading Federalists
+represented the General Welfare Clause simply “as qualifying
+the fiscal power.” E. Corwin, The Spending Power of
+Congress—Apropos the Maternity Act, 36 Harv. L. Rev.
+548, 552 (1923) (citing The Federalist Nos. 30 and 34 (A.
+Hamilton), and 41 (J. Madison)). “It was generally
+understood” by the Constitution’s ratifiers “that
+the General Welfare Clause did not confer power to regulate”;
+such regulatory powers were conferred only by specific enumerations
+such as the Commerce Clause. T. Sky, To Provide for the General
+Welfare 67 (2003) (Sky).
+
+															Thus, even if one implausibly regards the
+General Welfare Clause as a “Spending Clause,” it is
+unambiguous that the Clause confers no independent regulatory
+power. Importantly, the same holds for every other plausible
+textual anchor for Congress’ general spending power. First,
+the Necessary and Proper Clause is a natural candidate for the
+spending power because spending funds may be “necessary and
+proper for carrying into Execution” the Federal
+Government’s enumerated powers. Art. I., §8, cl. 18; see
+G. Lawson & G. Seidman, The Constitution of Empire 30 (2004)
+(Lawson & Seidman) (“This ‘Sweeping Clause’
+. . . unquestionably includes the power to enact spending
+laws that are ‘necessary and proper’ for effectuating
+federal powers”); K. Stith, Congress’ Power of the
+Purse, 97 Yale L. J. 1343, 1348 (1988) (arguing that the Necessary
+and Proper Clause “includes the power to spend public funds
+on authorized federal activities”). But, because the Clause
+authorizes only those spending measures that are
+“ ‘necessary and proper for carrying into
+Execution’ other enumerated federal powers[,] Congress can
+. . . spend only if the appropriation is tied to the
+execution of one of the federal government’s granted
+powers.” Lawson & Seidman 30. The Clause thus “does
+not provide a stand-alone grant of spending authority, and
+certainly not an authority to spend for a nonspecific
+‘general welfare of the United States.’ ”
+Ibid.
+
+															A second plausible source of the spending power
+is the Property Clause, which provides that “Congress shall
+have Power to dispose of and make all needful Rules and Regulations
+respecting the Territory or other Property belonging to the United
+States.” Art. IV, §3, cl. 2. The term “other
+Property” may “comprehen[d] personal property no less
+than real,” and “personal property includes money, as
+well as financial assets of all kinds.” Engdahl, 18 Seattle
+U. L. Rev., at 250 (emphasis deleted). But the power to
+dispose of funds does not carry with it any regulatory power; the
+Property Clause “only authorizes the control and disposition
+of federal property” and “does not disturb the
+allocation of governance authority otherwise accomplished
+under the principle of enumerated powers.” Id., at
+251. Thus, when disposing of federal property under the Property
+Clause, “Congress has no more competence to make
+‘law’ than any private donor or testator has.”
+Engdahl, 44 Duke L. Rev., at 104.
+
+															B
+
+															In the early decades after ratification, both
+the source and the scope of the spending power were hotly
+contested, usually in debates over “internal
+improvements” such as roads and canals. One side, represented
+by Madison, maintained that federal spending must be strictly in
+aid of the Federal Government’s specifically enumerated
+powers—for instance, expenditures to construct a road would
+be justified only if the road could be constructed under the Post
+Roads Clause or some other enumerated power. See Renz
+108–119; see also J. Eastman, Restoring the
+“General” to the General Welfare Clause, 4 Chap. L.
+Rev. 63, 72 (2001). As this side of the debate also took a narrow
+view of the enumerated powers, it generally argued that the Federal
+Government could not fund internal improvements without a
+constitutional amendment. See Sky 140–141. The other camp,
+associated with the nationalist views of Hamilton and Joseph Story,
+understood the General Welfare Clause to “include a very
+broad spending authority,” which could be applied to purposes
+not specifically enumerated by the Constitution. Natelson 12; see
+also Renz 124–126.
+
+															Even this camp, however, understood that
+“the General Welfare Clause does not include a power to
+regulate.” Natelson 12; see also Sky 96. Hamilton, for
+example, made clear that the spending power did not “imply a
+power to do whatever else should appear to Congress conducive to
+the general welfare.” Report on the Subject of Manufactures
+37 (1791). As he further elaborated, “[a] power to
+appropriate money [does] not carry a power to do any other thing,
+not authorized in the Constitution, either expressly or by fair
+implication.” Ibid. Instead, any regulatory authority
+had to be tethered to some independent regulatory power. Thus,
+under this view, Congress could spend money on roads and canals
+unconnected with the enumerated powers, but it would have to depend
+on the States for any regulatory legislation needed to complete and
+preserve the improvements.
+
+															This understanding that the spending power
+itself extended only to the “application of
+money,” ibid. (emphasis in original), led Hamilton
+to favor a constitutional amendment “empowering Congress to
+open canals.” Letter from A. Hamilton to J. Dayton (1799), in
+10 Works of Alexander Hamilton 334 (H. Lodge ed. 1904). After all,
+opening canals “involve[d] much more than spending money: it
+involve[d] acquiring rights of way and constructing and operating
+the improvements.” Engdahl, 44 Duke L. Rev., at 23.
+Thus, it was precisely the “insufficiency of the spending
+power to override state law obstacles to achieving the targeted end
+that made Hamilton conclude that a constitutional amendment for
+canals was necessary.” Id., at 24. “[F]ederal
+funding alone” could not “override”
+“incompatible or adverse state policies.” Ibid.
+As this example demonstrates, even those who held the broadest
+conception of the spending power recognized that it was only a
+power to spend, not a power to impose binding requirements with the
+force of federal law. See Sky 95.
+
+															The limited nature of the spending power was
+also a rare point of agreement in Hamilton and Jefferson’s
+bitter quarrel over the constitutionality of a national bank.
+Reflecting the ratification era understanding of the General
+Welfare Clause, Jefferson observed that “the laying of taxes
+is the power and the general welfare the purpose for
+which the power is to be exercised.” Opinion on the
+Constitutionality of the Bill for Establishing a National Bank
+(Feb. 15, 1791), in 19 Papers of Thomas Jefferson 277 (J. Boyd ed.
+1974) (emphasis in original). If the General Welfare Clause went
+beyond “describing the purpose of the” Taxing Clause
+and represented “a distinct and independent power to do any
+act [Congress may] please, which might be for the good of the
+Union,” it “would render all the preceding and
+subsequent enumerations of power completely useless.”
+Ibid.; accord, J. Madison, The Bank Bill (Feb. 2, 1791), in
+13 Papers of James Madison 375 (C. Hobson & R. Rutland eds.
+1981) (interpreting the General Welfare Clause as a distinct power
+“would supersede all the powers reserved to the state
+governments”). In response, Hamilton justified the bank based
+on Congress’ enumerated powers, such as the Commerce and
+Taxing Clauses. Opinion on the Constitutionality of an Act To
+Establish a Bank (Feb. 23, 1791), in 8 Papers of Alexander Hamilton
+97 (H. Syrett ed. 1965). He discussed the General Welfare Clause
+only as a limitation: “It is true, that [Congress] cannot
+without breach of trust, lay taxes for any other purpose than the
+general welfare.” Id., at 129. In his view, the
+spending power was emphatically limited to “the
+application of money.” Ibid. (emphasis in
+original). Jefferson and Hamilton could agree that it was no
+independent font of legislative power.
+
+															In sum, the Framers and Ratifiers understood the
+Taxing and General Welfare Clause as granting only a power to tax.
+What our modern cases refer to as the “Spending
+Clause”—in fact, the General Welfare Clause—was
+understood by the Framers and the ratifying public as granting no
+regulatory authority. One thing that the opposing men and factions
+of the founding generation agreed upon was that the Federal
+Government’s power to spend was just that—a power to
+spend, involving no regulatory authority. Instead, the power to
+bind with the force of law must come from Congress’
+enumerated legislative powers rather than its spending power.
+
+															C
+
+															Though the scope and source of the spending
+power continued to be vigorously contested into the 19th century,
+the fundamental understanding that federal spending measures could
+not bind with the force of law remained common ground. For example,
+in his last official act, President Madison vetoed an internal
+improvements bill in part because the “train of powers
+incident” to constructing and maintaining such improvements
+were beyond Congress’ enumerated powers. 30 Annals of Cong.
+211, 212 (1817). The General Welfare Clause could not provide the
+needed regulatory authority, as such an interpretation “would
+have the effect of giving to Congress a general power of
+legislation,” thus rendering the Constitution’s
+“special and careful enumeration of powers . . .
+nugatory and improper.” Id., at 212. That the bill
+required state consent was likewise insufficient because, if the
+power “be not possessed by Congress, the assent of the States
+. . . cannot confer the power.” Ibid.
+
+															Upon assuming office, President James Monroe
+sent a message to Congress agreeing with Madison’s views; the
+message was then referred to a special Committee in the House of
+Representatives led by Congressman Henry Tucker. Corwin, 36 Harv.
+L. Rev., at 559–560. The Tucker Committee produced an
+exhaustive report on internal improvements, which disagreed with
+nearly every aspect of Madison and Monroe’s position.
+Id., at 560–561. Significantly, however, the Committee
+agreed that the General Welfare Clause did not vest the power
+needed to make internal improvements, relying instead on the
+Constitution’s specific enumerations such as the Post Roads
+Clause. 31 Annals of Cong. 454 (1817) (“disavow[ing] any use
+of the general phrase in the Constitution to provide for the common
+defence and general welfare, as applicable to the enumeration of
+powers, or as extending the power of Congress beyond the specified
+powers”). The Tucker Committee also agreed with President
+Monroe that the spending power did not “extend the specified
+or incidental powers of the Government” or allow Congress to
+exercise any “jurisdictional [i.e., regulatory]
+rights” over improvements. Id., at 459–460.
+Thus, “if the power to make a road or dig a canal is not
+given” by one of Congress’ enumerated regulatory
+powers, “the power of appropriating money cannot confer
+it.” Id., at 459.[9]
+
+															In his second term, President Monroe set forth
+the fullest exposition of the understanding that the spending power
+involved no regulatory authority. In 1822, Congress passed a bill
+to establish a system of internal improvements, asserting the
+“power to establish turnpikes with gates and tolls, and to
+enforce the collection of tolls by [federal] penalties.” Sky
+147 (internal quotation marks omitted). President Monroe then
+vetoed the measure, judging that Congress’ spending authority
+did not extend to such “a complete right of jurisdiction and
+sovereignty for all the purposes of internal improvement, and not
+merely the right of applying money under the power vested in
+Congress to make appropriations.” 2 Messages and Papers of
+the Presidents 1789–1908, p. 142 (J. Richardson ed. 1897)
+(Richardson). Because Monroe understood “that Congress do[es]
+not possess this power [and] the States individually can not grant
+it,” he agreed with Madison and Hamilton that the
+“power can be granted only by an amendment to the
+Constitution.” Id., at 143.
+
+															To explain his veto, President Monroe sent
+Congress an extensive report entitled “Views of the President
+of the United States on the Subject of Internal
+Improvements.” In this report—perhaps “the most
+elaborate constitutional discussion ever sent to the Capitol from
+the White House”—Monroe synthesized the understanding
+of the spending power from the founding of the Republic. L. Rogers,
+The Postal Power of Congress 75 (1916). And, in doing so, he
+largely settled the contours of that understanding for over a
+century.
+
+															In the centerpiece of the Views, Monroe
+explained that the spending power carries no incidental power to
+regulate individuals or States. Echoing Hamilton, Monroe understood
+the spending power to consist of “a right to appropriate the
+public money, and nothing more.” Richardson 162. It carries
+with it “no incidental power, nor does it draw after it any
+consequences of that kind.” Id., at 168. Monroe
+proceeded to carefully distinguish the spending power from
+Congress’ authority to impose obligations and duties:
+“[T]he use or application of the money after it is raised is
+a power altogether of a different character” from
+Congress’ enumerated regulatory powers such as the taxing
+power; “[i]t imposes no burden on the people, nor can it act
+on them in a sense to take power from the States.”
+Id., at 164.
+
+															Applying this understanding of the spending
+power to the question of internal improvements, Monroe explained
+that Congress could only “appropriate the money necessary to
+make them.” Id., at 168. Where none of Congress’
+enumerated regulatory powers was applicable, Monroe concluded,
+“[f]or every act requiring legislative sanction or support
+the State authority must be relied on.” Ibid. Thus,
+Congress could not itself pass laws providing for “[t]he
+condemnation of the land, . . . the establishment of
+turnpikes and tolls, and the protection of the work when
+finished.” Ibid.
+
+															Monroe’s summation of the federal spending
+power, reflecting that it does not carry with it any regulatory
+power, was accepted throughout the 19th century by friends and foes
+of federal power alike. In his 1825 inaugural address, President
+John Quincy Adams explained that Monroe’s Views had
+“conciliated the sentiments and approximated the opinions of
+enlightened minds upon the question of constitutional power.”
+Inaugural Address, Mar. 4, 1825, in 5 American State Papers,
+Foreign Relations 753, 755 (1858). Five years later, President
+Andrew Jackson vetoed the Maysville Road Bill of 1830 for the same
+reasons Monroe had vetoed the Cumberland Road Bill of 1822:
+Congress lacks “[t]he right to exercise as much jurisdiction
+as is necessary to preserve the works and to raise funds by the
+collection of tolls to keep them in repair,” and
+“[w]ithout [such power] nothing extensively useful can be
+effected.” Richardson 492.
+
+															Justice Joseph Story’s Commentaries on the
+Constitution also recognized that the spending power did not carry
+with it any auxiliary power to bind individuals or States. Citing
+Monroe’s Views liberally, Story agreed that Congress could
+not enact a system of internal improvements under the General
+Welfare Clause. Although he located the spending power in that
+Clause, Story understood that the power was confined “to mere
+appropriations of money,” and that, as a result, the Federal
+Government could not regulate internal improvements except pursuant
+to its legislative “enumerated powers.” 3 Commentaries
+on the Constitution of the United States, §1269, p. 150
+(1833); see also Sky 224 (“[A]s read by Story, the General
+Welfare Clause did not constitute a regulatory power,
+independent of the spending power, authorizing Congress to enact
+whatever measures it wished . . . under an unlimited
+power to legislate for the general welfare of the United
+States”).
+
+															Although disagreement on whether Congress could
+spend for purposes beyond the enumerated powers persisted through
+the Antebellum and Reconstruction eras, the understanding that the
+spending power did not imply regulatory power persisted. See
+generally Sky 232–240, 270–291. Because Congress was
+acting solely under its power to spend, it relied on the
+States’ acceptance of terms and upon the States’
+legislative powers to carry out federal spending programs.
+
+															D
+
+															Given this consensus, it is not surprising
+that the first federal grant-in-aid spending programs were
+contractual in nature. The Morrill Act of 1862, perhaps the first
+such program, extended an offer to the States to accept donations
+of federal lands on the condition that the State use the land to
+establish a college. 12Stat. 504–505. States had two years to
+accept the federal terms in the form of an Act by the State’s
+legislature. Id., at 505 Significantly, the only consequence
+for a State’s breach of the use condition was contractual in
+nature—“the grant to such State shall cease; and said
+State shall be bound to pay the United States the amount received
+of any lands previously sold.” Id., at 504–505.
+The Second Morrill Act, enacted in 1890, followed the same
+framework, donating money for the endowment of agricultural and
+mechanical arts colleges, subject to the condition that black
+students not be excluded. Ch. 841, 26Stat. 417. Like the First
+Morrill Act, the only consequence for noncompliance was that future
+appropriations under the Act would cease until the State brought
+itself into compliance. Id., at 419.
+
+															In the early 20th century, the adoption of the
+Sixteenth Amendment and the national income tax vastly expanded the
+revenue available to the Federal Government. But the increasingly
+ambitious spending programs that followed did not break the
+contractual pattern established by the Morrill Acts. Thus,
+early-20th-century highway grants took the form of an offer to
+enter a contract, with the consequence of noncompliance being the
+cutoff of federal funds. See Corwin, 36 Harv. L. Rev., at 574,
+n. 72 (describing Federal Highway Act of 1916); see also
+id., at 573–575 (collecting other examples).
+
+															Even in the New Deal era, advocates of
+far-reaching spending programs continued to understand the spending
+power as a mere power of appropriation. Professor Corwin, for
+example, recognized that the States must be depended upon to
+exercise the legislative power needed to implement such programs.
+Thus, “federal highway construction relie[d] on the state
+power of eminent domain, as well as on state power to police and
+protect highways during and after their construction.”
+National-State Cooperation—Its Present Possibilities, 46 Yale
+L. J. 599, 617 (1937). Similarly, national protection of
+forests depended on “the power of the states to regulate the
+conduct of persons entering forests,” and the provision of
+maternity benefits depended on “the power of the cooperating
+states to compel birth registration, the licensing of mid-wives,
+etc.” Ibid. Thus, more than 100 years after
+Monroe’s Views, it was still well understood that the Federal
+Government’s spending power needed to work with “the
+wider coercive powers of the states” to accomplish its ends.
+Ibid. And, a State’s acceptance of federal funds in
+return for exercising its own powers did not expand the Federal
+Government’s legislative powers.
+
+															In sum, from the framing of the Constitution to
+well into the 20th century, it was virtually undisputed that
+Congress’ spending power was nothing more than a power to
+spend. It included no regulatory authority to bind parties, to
+secure rights or impose duties with the force of federal law, and
+no authority to directly regulate the States even with their
+consent.
+
+															E
+
+															When cases concerning expansive federal
+spending programs first began to reach this Court, they vividly
+illustrated both the enduring understanding of the spending power
+as a nonregulatory power and the contractual understanding of
+spending conditions. The Federal Government defended major spending
+programs on the basis of that understanding, and the programs
+survived this Court’s review only because of those
+traditional premises.
+
+															In Massachusetts v. Mellon,
+262 U.S.
+447 (1923), the Court rejected as nonjusticiable
+Massachusetts’ claim that the Maternity Act of 1921 was
+“an attempt to legislate outside the powers granted to
+Congress by the Constitution and within the field of local powers
+exclusively reserved to the States.” Id., at 482. The
+Court first stated that it “[p]robably . . . would
+be sufficient to point out that the powers of the State are not
+invaded, since the statute imposes no obligation but simply extends
+an option which the State is free to accept or reject.”
+Id., at 480. In other words, the State could not be injured
+because the Act was not a direct legal regulation. Rather, it was a
+mere offer to bargain—it “imposed” no
+“burden . . . upon the States” and did not
+require them “to do or to yield anything” of its own
+force. Id., at 482. The State could not seek judicial
+redress because the contractual nature of the Act’s
+provisions meant that States could vindicate their own rights
+“by the simple expedient of not yielding.”
+Ibid.; see also Corwin, 36 Harv. L. Rev., at 579
+(noting that the Maternity Act adhered to the traditional
+requirements of state consent and the “general caveat
+against jurisdictional rights following in the wake of
+appropriations”). “[T]he Justices in Mellon
+understood that Congress’ power to spend money is not
+a legislative power.” Engdahl, 52 S. D.
+L. Rev., at 498 (emphasis in original).
+
+															Cases involving New Deal spending programs teach
+the same lesson. For example, United States v.
+Butler, 297 U.S. 1
+(1936), concerned the constitutionality of the Agricultural
+Adjustment Act, which offered subsidies to farmers not to sell
+crops. The Government defended the Act on the ground that it did
+not regulate any private or state party. Instead, “[a]ny
+commands or restrictions in the Act [were] imposed only upon the
+use by [federal] administrative officials of the money
+granted.” Brief for United States in United States v.
+Butler, O. T. 1935, No. 401, p. 264. In line with the
+traditional distinction between mere spending and regulatory
+commands, the Government urged that “Congress ha[d] not gone
+beyond its power of authorizing an expenditure” precisely
+because “[i]t ha[d] not sought to force or command citizens
+to receive the money offered and to perform the conditions upon
+which the funds are to be disbursed.” Id., at 265. The
+Government expressly relied on the contractual nature of the
+Act’s conditions, as distinct from any “exercise of
+sovereign regulation”:
+
+															“It would be most unusual to suppose
+that a contract of this nature, entered into freely by both
+parties, is an exercise of sovereign regulation and control over
+one of the parties or over the subject matter with which the
+contract deals. . . . The rights of the United States
+under the contracts are no greater than would be the rights of a
+private citizen under similar contracts, and enforcement must be by
+ordinary judicial process according to the law of the forum. The
+contracts are not derogatory of any sovereign rights of the States;
+they are carried out pursuant to and under the protection of the
+laws of the States. . . . The purpose and effect of the
+contracts so entered into are simply to accomplish the spending of
+the money on the conditions imposed by Congress, and in authorizing
+execution of such contracts Congress was not exerting a power
+outside of the field of appropriation.” Id., at
+266–267.
+
+															The Government also disclaimed that the Act
+would have pre-emptive effect: Because it went “no further
+than offering benefits to those who comply with certain
+conditions,” States “remain[ed] as free after the
+passage of this Act as before to pass laws rendering it impossible
+for any of their inhabitants to comply with such conditions.”
+Id., at 268. Thus, to avoid a Tenth Amendment problem, the
+Government relied on the traditional distinction between the
+Federal Government’s power to spend and its power to
+regulate:
+
+															“The distinction between an application
+of the Federal lawmaking power to enforce compliance with the
+desire of Congress and the use of the spending power to offer
+benefits which might persuade people to that end [was] recognized
+in this manner by th[e] first Congresses.
+
+															
+.     .     .     .     .
+
+															“When the United States goes no further
+than extending benefits to citizens who arrange their affairs in a
+manner thought beneficial by Congress, there is no direct exercise
+of Federal power on those affairs and they remain subject to the
+unhampered control of the States. Consequently, in a case of this
+nature, the effect which the Act of Congress will have in a State
+is dependent entirely upon the voluntary action of that State and
+its inhabitants.” Id., at 274, 276.
+
+															In deciding the case, the Court took the
+Government’s concessions as given, stating, “[i]t is
+not contended that [the General Welfare Clause] grants power to
+regulate agricultural production.” Butler, 297
+U. S., at 64. The Court then agreed with Justice Story’s
+observation that “the only thing granted is the power to tax
+for the purpose of providing funds for payment of the
+nation’s debts and making provision for the general
+welfare.” Ibid. Congress’ spending power, even
+if located in the General Welfare Clause, conferred no regulatory
+power.
+
+															The Court proceeded to hold the Act
+unconstitutional precisely because it was, in reality, “a
+statutory plan to regulate and control agricultural production, a
+matter beyond the powers delegated to the federal
+government.” Id., at 68. That was because the
+“regulation [was] not in fact voluntary,” as it would
+lead to “financial ruin” for farmers who refused the
+Act’s benefits. Id., at 70–71. Confirming
+another aspect of the traditional doctrine, the Court held that
+even the purely voluntary consent of private parties could not
+expand Congress’ limited regulatory powers. Id., at
+74–75.[10]
+
+															The challenge to the Social Security Act in
+Steward Machine Co. v. Davis, 301
+U.S. 548 (1937), followed a similar pattern but reached the
+opposite result based on a different level of perceived coercion.
+As in Butler, the Federal Government defended a federal
+statute—here, the Social Security Act—by representing
+that conditions on the grant of federal funds “are not
+regulatory” in nature and are thus within the spending power.
+Brief for United States in Steward Machine Co. v.
+Davis, O. T. 1936, No. 837, p. 135. Seeking to avoid a
+repeat of its loss in Butler, the Government argued that the
+program was also not regulatory in fact because it did not coerce
+States to take or refrain from taking any actions. Brief for United
+States in Steward Machine Co. 100, 105–106.
+
+															This time, the Court agreed with the Government,
+finding that the Act was not coercive and thus did not “go
+beyond the bounds of ” Congress’ spending power.
+Steward Machine Co., 301 U. S., at 591–592. Then,
+in rejecting a federalism challenge to the measure, the Court
+observed that once the State accepted the federal conditions, it
+was bound with even lesser force than an ordinary contract.
+Id., at 594–595. The State was “still free,
+without breach of an agreement, to change her system over
+night.” Id., at 595. “No officer or agency of
+the national Government [could] force a compensation law upon her
+or keep it in existence,” nor could they “supervise or
+control the application of the payments.”
+Ibid.[11]
+
+															The Court again demonstrated its adherence to
+the traditional view in Oklahoma v. Civil Serv.
+Comm’n, 330 U.S.
+127 (1947). There, the U. S. Civil Service Commission
+determined that an Oklahoma highway commissioner had violated the
+Hatch Act, pledging to withhold a portion of the State’s
+highway grants equal to two years’ of the
+commissioner’s compensation if the State failed to remove
+him. Oklahoma challenged the Commission’s order and the Act
+on which it was based as an illicit attempt to regulate the
+State’s internal affairs. Id., at 133. Citing
+Mellon, the Court held that the Act was valid because it did
+not directly regulate the State, which had “adopted the
+‘simple expedient’ of not yielding” by refusing
+to remove its highway commissioner. 330 U. S., at 143.
+
+															Thus, to defend these spending programs in the
+first half of the 20th century, the Government relied on the
+long-settled understanding that the power to spend carries with it
+no sovereign legislative power to create rights and duties. To the
+contrary, the Government represented that these programs had the
+binding force, at most, of contracts. They did not pre-empt, nor
+did they bind States with the force of law; they merely spent
+federal dollars upon conditions, the violation of which entitled
+the Government to cease further payments. The Court took this
+position as a given, and the contractual nature of spending
+conditions is precisely what saved them from constitutional
+challenge.
+
+															In sum, the historical record is clear and
+consistent on a critical proposition: The spending power is the
+power to spend only. Any duties imposed by regulatory legislation,
+and any correlative rights secured by law, must find their source
+in one of Congress’ enumerated powers or the legislative
+powers of the States. Congress’ spending power cannot secure
+rights by law.
+
+															IV
+
+															The contractual nature of spending conditions
+was taken as a given until the second half of the 20th century,
+when individuals first began to bring §1983 suits premised on
+violations of conditions contained within spending statutes
+(usually, the Social Security Act). From the enactment of
+§1983’s predecessor statute in 1871 to the Court’s
+decision in Thiboutot in 1980, this Court had never held
+that §1983 was available to redress any and all violations of
+federal legislation. Indeed, there were almost “no square
+holdings” concerning the precise scope of the statutory
+rights vindicable by §1983. Chapman v. Houston
+Welfare Rights Organization, 441 U.S.
+600, 645 (1979) (Powell, J., concurring); see also Eisen
+v. Eastman, 421 F.2d 560, 561–566 (CA2 1969)
+(Friendly, J.). Perhaps the only such square holding was that of
+Holt v. Indiana Mfg. Co., 176 U.S.
+68 (1900), which narrowly construed §1983’s
+predecessor statute to “refer to civil rights only,”
+making it “inapplicable” in a suit based on the federal
+patent laws. Id., at 72.[12]
+
+															The traditional understanding of both the
+spending power and §1983 began slowly eroding in the 1950s,
+1960s, and 1970s, culminating in Thiboutot. On the
+spending-power side, the Court held in Cannon v.
+University of Chicago, 441 U.S.
+677 (1979), that the spending conditions of Title IX of the
+Education Amendments created binding duties on private
+universities, the violation of which could be the ground of a
+federal lawsuit by a private party. In doing so, the Court
+“simply ignored the crucial difference between restraints
+accepted as conditions of funding, and restraints imposed by virtue
+of a legislative power.” Engdahl, 52 S. D. L. Rev.,
+at 509. And, on the §1983 side, the Court had considered a
+number of suits against state officials for violations of the
+Social Security Act without analyzing their cognizability under
+§1983. See Thiboutot, 448 U. S., at 6 (collecting
+cases); id., at 26 (Powell, J., dissenting) (“Far from
+being a long-accepted fact, purely statutory §1983 actions are
+an invention of the last 20 years”).
+
+															The stage was thus set for Thiboutot to
+discard nearly two centuries of settled spending-power doctrine by
+holding that federal spending conditions secure rights by law.
+Ignoring both the contractual nature of spending programs and the
+enforcement-power-based understanding of §1983,
+Thiboutot declared that “the plain language of the
+statute undoubtedly embrace[d] respondents’ claim that [the
+State] violated the Social Security Act.” Id., at 4
+(majority opinion). The centerpiece of the Court’s opinion
+was its imprecise framing of the relevant question: “whether
+the phrase ‘and laws,’ as used in §1983, means
+what it says, or whether it should be limited to some subset of
+laws.” Ibid. After framing the issue thus, the Court
+reasoned that nothing in the legislative history compelled limiting
+the term “and laws” to civil rights laws enacted under
+the Reconstruction Amendments. See id., at 6–8.
+
+															But the Court’s opinion completely missed
+the deeper conceptual question whether spending-power statutes can
+ever impose obligations, and thus secure corresponding rights, with
+the force of federal law.[13] As explained at length above, the limited nature of
+the spending power dictates a negative answer. And, a contrary
+understanding would transform the terms of federal-state agreements
+into binding regulations of state entities by federal
+law—violating the constitutional prohibition against directly
+regulating or commandeering the States.
+
+															It took less than a year after Thiboutot
+for the Court to realize the “ ‘constitutional
+difficulties’ with imposing affirmative obligations on the
+States pursuant to the spending power” and to take the first
+step toward ameliorating the problems with Thiboutot.
+Pennhurst, 451 U. S., at 17, n. 13. In
+Pennhurst, the Court held that a provision of the
+Developmentally Disabled Assistance and Bill of Rights Act (a
+conditional spending Act) could not be enforced against a state
+entity under §1983. Id., at 18. The Court first held
+that the provision could not be considered as enforcement
+legislation under the Fourteenth Amendment. Id., at
+16–17.[14] The Court
+then explained the fundamentally different natures of legislation
+under the Reconstruction Amendments and “legislation enacted
+pursuant to the spending power,” the latter of which
+“is much in the nature of a contract: in return for federal
+funds, the States agree to comply with federally imposed
+conditions.” Id., at 17. Consistent with the
+traditional position, the Court also explained that “[i]n
+legislation enacted pursuant to the spending power, the typical
+remedy for state noncompliance with federally imposed conditions is
+not a private cause of action for noncompliance but rather action
+by the Federal Government to terminate the funds to the
+State.” Id., at 28. Ultimately, because the
+Pennhurst Court determined that the provision at issue was
+not intended to secure rights by imposing obligations on States,
+see id., at 22–27, it did not need to confront the
+constitutional problem created by Thiboutot. Nonetheless,
+Pennhurst both recognized the problem and pointed to the
+solution—a return to the traditional contractual
+understanding that itself flows naturally from the limited nature
+of Congress’ spending authority.
+
+															Without that understanding, however, it is
+unavoidable that spending conditions that impose substantive
+obligations on the States with the force of federal law are
+unconstitutional.[15] As
+shown above, the federal spending power is nothing more than the
+power to spend. It neither contains nor implies any sovereign
+regulatory power to legislate rights and duties with the force of
+federal law, and the regulated party’s consent cannot change
+that conclusion. The contractual nature of the spending power was
+essential to the Government’s defense and this Court’s
+approval of far-reaching spending programs; the programs survived
+only with that traditional understanding as a premise.[16] The Federal Government and
+private litigants cannot now discard that understanding to argue
+that such programs impose obligations directly on the States that
+are enforceable against state and local officials under §1983,
+without running headlong into the anticommandeering doctrine and
+long-recognized limitations on the federal spending power.
+
+															*  *  *
+
+															By holding that FNHRA creates rights
+enforceable under §1983, the majority creates a grave
+constitutional problem that cannot be brushed away with a mere
+incantation of Thiboutot. As explained above, spending-power
+legislation cannot “secure” rights “by
+law.” Conditions on a State’s receipt of federal funds
+are effective, not by virtue of federal law, but by dint of a
+federal-state agreement. The very constitutionality of such
+conditions depends on their eschewal of securing rights and
+imposing concomitant obligations on States.
+
+															The line from Mellon and Butler,
+to Thiboutot, to this case amounts to a constitutional bait
+and switch that cannot continue to be glossed over or ignored. In
+holding that spending conditions are not merely contractual, but
+can directly impose obligations on the States with the force of
+federal law, the Court unravels the very rationale for their
+constitutionality. Either conditions in statutes enacted under the
+spending power are in the nature of contract terms and do not
+secure rights by federal law, or they are unconstitutional because
+they exceed the spending power and illicitly commandeer the States.
+The consequence of the majority’s rejection of the
+contractual understanding is not that spending conditions are
+enforceable under §1983. Rather, it is that they are
+unconstitutional. It is well past time for this Court to re-examine
+Thiboutot and the nature of Congress’ spending
+power.
+
+Notes
+1
+ This survey merely
+scratches the surface of the requirements that FNHRA imposes upon
+participating States. See also, e.g., 42 U. S. C.
+§1396r(e)(4) (“[T]he State must have implemented and
+enforced the nursing facility administrator standards
+developed” by the Secretary for Health and Human Services);
+§1396r(e)(7)(B)(i)(I) (in the case of mentally ill residents,
+“the State . . . must review and determine
+. . . whether or not the resident . . .
+requires the level of services provided by a nursing
+facility” or the services of different
+institutions).
+2
+ The power of this tool
+has grown with the steady increase in federal income-tax revenues
+since the adoption of the Sixteenth Amendment. Although the Revenue
+Act of 1913 accounted for only 10% of federal revenue, by 1950, the
+income tax was the Nation’s largest source of revenue, and,
+by 2010, it accounted for a whopping 82% of federal revenue
+overall. E. Jensen, Did the Sixteenth Amendment Ever Matter? Does
+It Matter Today? 108 Nw. U. L. Rev. 799, 807, n. 44 (2014).
+This explosion of funds created unprecedented threats to federalism
+due to the increased use of grants. Federal “[m]onetary
+grants, so-called grants-in-aid, became more frequent during the
+1930’s, and by 1950 they had reached $20 billion or 11.6% of
+state and local government expenditures.” National
+Federation of Independent Business v. Sebelius,
+567 U.S.
+519, 674 (2012) (NFIB) (joint dissent of Scalia,
+Kennedy, Thomas, and Alito, JJ.) (citation and footnote omitted).
+“By 1970 this number had grown to $123.7 billion or 29.1% of
+state and local government expenditures . . . . As
+of 2010, federal outlays to state and local governments came to
+over $608 billion or 37.5% of state and local government
+expenditures.” Ibid. (footnotes omitted).
+3
+ See Golden State
+Transit Corp. v. Los Angeles, 493
+U.S. 103, 106 (1989) (“[T]he plaintiff must assert the
+violation of a federal right. . . . In deciding whether a
+federal right has been violated, we have considered whether the
+provision in question creates obligations binding on the
+governmental unit” and “whether the provision in
+question was intended to benefit the putative
+plaintiff ” (alteration and internal quotation marks
+omitted)); Pennhurst State School and Hospital v.
+Halderman, 451 U.S.
+1, 15, 16, n. 12, 18–19 (1981) (repeatedly using the
+formula “rights and obligations” correlatively); see
+also W. Hohfeld, Some Fundamental Legal Conceptions as Applied in
+Judicial Reasoning, 23 Yale L. J. 16, 28–32 (1913). This
+rule, it should be noted, addresses what it means for
+private rights to be secured by law, a distinct question from the
+level of clarity with which Congress must speak before courts may
+infer that it intended to create such rights. See Gonzaga
+Univ. v. Doe, 536 U.S.
+273, 290 (2002).
+4
+ The Articles of
+Confederation granted Congress only the power to act upon States;
+it had no power to directly regulate individuals. The Constitution
+flipped this arrangement by granting the Federal Government the
+power to regulate individuals directly, but not States. See New
+York v. United States, 505 U.S.
+144, 162 (1992) (“ ‘The people, through [the
+Constitution], established a more perfect union by substituting a
+national government, acting, with ample power, directly upon the
+citizens, instead of the Confederate government, which acted with
+powers, greatly restricted, only upon the
+States’ ” (quoting Lane County v.
+Oregon, 7 Wall. 71, 76 (1869); emphasis
+deleted)).
+5
+ Congress possesses
+limited powers to directly regulate the States under the
+Reconstruction Amendments. See, e.g., City of Boerne
+v. Flores, 521 U.S.
+507, 518 (1997). Due to the federalism concerns inherent in
+such regulation, these enforcement powers are cabined by the
+congruence-and-proportionality test. Id., at 518–519.
+The careful tailoring of this exception vividly proves the
+rule.
+6
+ The anticommandeering
+doctrine protects “political subdivisions” of States
+against federal cooptation, as well as the States themselves.
+Printz v. United States, 521
+U.S. 898, 935 (1997); see also id., at 931, n. 15
+(“[T]he distinction in our Eleventh Amendment jurisprudence
+between States and municipalities is of no relevance
+here”).
+7
+ For this reason, the mere
+fact that spending conditions are enacted in statutory form is
+irrelevant; “not everything in a statute is legally
+binding.” Hamburger 131; see also D. Engdahl, The Contract
+Thesis of the Federal Spending Power, 52 S. D. L. Rev.
+496, 500 (2007). In other words, while Congress may influence
+policy “by attaching ‘strings’ to grants of money
+given to state and local governments, . . . those strings
+aren’t laws,” and do not secure rights, in the
+sense needed to support §1983 liability. United States
+v. Morgan, 
+230 F.3d 1067, 1073 (CA8 2000) (Bye, J., specially concurring);
+see also Westside Mothers v. Haveman, 
+133 F. Supp. 2d 549, 581–582 (ED Mich. 2001) (“[N]o
+interest is ‘secured’ by the federal Medicaid statute.
+Upon its enactment, this federal law does not vest in a single
+American the right or privilege of receiving federally-subsidized
+medical care. . . . [T]hough passed by both houses of
+Congress and signed by the President, the Medicaid statute has no
+force of its own. It is only when a State . . . accepts
+the Federal Government’s offer and agrees to participate in
+the program that any benefits accrue to eligible
+individuals”), rev’d, 
+289 F.3d 852 (CA6 2002).
+8
+ One instance in
+particular demonstrates that the General Welfare Clause is simply a
+restriction on the Taxing Clause. The Committee of Style slightly
+altered the text agreed to by the Convention by changing the comma
+after “Excises” into a semicolon, so that the General
+Welfare Clause “became an additional power, conjoined to the
+power to tax, rather than merely a limitation on it.”
+Hamburger 283. The Convention, however, recognized the alteration
+and restored the comma, “corroborat[ing] the conclusion that
+the General Welfare Clause was not an independent power.”
+Natelson 28.
+9
+ After a debate on the
+Tucker Report, the House approved a resolution declaring
+Congress’ authority to appropriate money to construct
+internal improvements pursuant to its enumerated powers, voting
+down several other resolutions that would have declared a
+congressional power to make monetary grants to States untethered to
+any enumerated power and that the Federal Government had the power
+to itself construct and maintain internal improvements. 32 Annals
+of Cong. 1381–1389 (1818).
+10  The anticoercion rule
+reflected in Butler remains a vital part of this
+Court’s spending-power jurisprudence. See NFIB, 567
+U. S., at 575–585 (opinion of Roberts, C. J.);
+id., at 671–678 (joint dissent of Scalia, Kennedy,
+Thomas, and Alito, JJ.). As Butler makes clear, that rule is
+firmly rooted in the contractual understanding of spending
+conditions, and NFIB further recognized the close connection
+between the rule and the anticommandeering doctrine when spending
+conditions involving States are at issue. See NFIB, 567
+U. S., at 575–585 (opinion of Roberts, C. J.);
+id., at 677–678 (joint dissent). Indeed, the
+anticoercion rule supplements those doctrines through its
+recognition of the practical realities of Congress’ modern
+spending power: Because the Federal Government’s overwhelming
+fiscal resources enable it to create “gun to the head”
+situations in which there is no practical possibility of opting
+out, the rule prevents the Government from purchasing the
+States’ regulatory powers to implement federal goals that it
+cannot attain through its own more limited powers. Id., at
+581 (opinion of Roberts, C. J.); accord, id., at 677
+(joint dissent) (“Congress effectively engages in this
+impermissible compulsion when state participation in a federal
+spending program is coerced, so that the States’ choice
+whether to enact or administer a federal regulatory program is
+rendered illusory”).
+11  Justice Sutherland’s dissent
+recognized that the majority had applied the traditional framework,
+disagreeing only with its interpretation of how the Social Security
+Act actually functioned. See Steward Machine Co., 301
+U. S., at 611–612.
+12  This
+civil rights connection was not arbitrary. Section 1983 originated
+in the Enforcement Act of 1871, which Congress “passed for
+the express purpose of ‘enforc[ing] the Provisions of the
+Fourteenth Amendment.’ ” Thiboutot, 448
+U. S., at 25, n. 15 (Powell, J., dissenting) (quoting
+17Stat. 13; alteration in original). Moreover, the original text of
+the statute referred only to rights “secured by the
+Constitution of the United States,” 17Stat. 13, the words
+“and laws” being added as part of the general 1874
+revision of the federal statutes. Rev. Stat. §1979, 42
+U. S. C. §1983. Under the circumstances, there is
+substantial reason to doubt that Congress fundamentally transformed
+a mechanism to enforce the Reconstruction Amendments into a
+freestanding right of action to remediate the violation of any
+federal statute, even those enacted beyond Congress’ civil
+rights enforcement powers. Importantly, if statutory §1983
+actions were confined to laws enacted under Congress’
+Reconstruction Amendments enforcement powers—under which
+Congress may directly regulate States—the commandeering
+framework might apply differently—or not at all.
+13  In
+dissent, Justice Powell set out the textual and historical case for
+interpreting §1983 to apply only to rights secured by laws
+enacted under Congress’ enforcement powers. Thiboutot,
+448 U. S., at 11; see also Chapman v. Houston
+Welfare Rights Organization, 441 U.S.
+600, 623 (1979) (Powell, J., concurring). However, neither the
+Court, the parties, nor the dissent examined whether, even if they
+were considered “laws” for §1983 purposes,
+spending-power provisions could “secure”
+rights.
+14  The
+court below had recognized but avoided the spending-power question
+by holding that Congress enacted the legislation at issue pursuant
+to its power to enforce the Fourteenth Amendment. See
+Halderman v. Pennhurst State School and Hospital, 612
+F.2d 84, 98 (CA3 1979) (“[W]e are not dealing with the
+implication of a private cause of action from a congressional
+enactment justified only by the spending power of the federal
+government, and we need not address the question whether such a
+statute could ever provide the predicate for private substantive
+rights. . . . Congress may, under section 5 [of the
+Fourteenth Amendment], establish certain restrictions that might
+otherwise implicate the prerogatives of the states”). The
+petitioners in Pennhurst squarely recognized that, if the
+legislation at issue was predicated on the spending power alone,
+“Congress exceeded the limits of that power.” Brief for
+Petitioners, O.T. 1980, No. 79–1404, etc., p. 36, n.
+57.
+15  Many
+litigants have recognized the constitutional problems. See,
+e.g., Brief for Petitioner in Gonzaga Univ. v.
+Doe, O. T. 2001, No. 01–679, p. 42, n. 14 (“Nor
+is it clear that the conditions in Spending Clause legislation
+qualify as ‘laws’ under §1983. Such conditions
+only become operative when the contract is accepted by a recipient;
+it is the resulting contract, not the federal legislation itself,
+that gives rise to obligations and allegedly enforceable
+rights”); Brief for Petitioner in National Collegiate
+Athletic Assn. v. Smith, O. T. 1998, No. 98–84,
+p. 3; Brief for United States as Amicus Curiae in
+Suter v. Artist M., O. T. 1991, No. 90–1488,
+p. 12, n. 6.
+16  Ironically, decades after it
+expressly disclaimed the pre-emptive effect of spending conditions
+in defending their constitutionality, see supra, at
+26–28, the Federal Government argued the exact opposite in
+Gonzaga: “The Act of Congress establishing the program
+remains binding law with the full force and preemptive authority of
+federal legislation under the Supremacy Clause, and thus falls
+squarely within the ‘laws’ covered by Section 1983 and
+is fully capable of ‘secur[ing]’ rights.” Brief
+for United States as Amicus Curiae in No. 01–679, p.
+19 (alteration in original). With this reversal, the Government
+unwittingly argued that spending conditions are
+unconstitutional.
+
+

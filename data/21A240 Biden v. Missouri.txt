@@ -1,0 +1,109 @@
+::SCDB_caseID:: 2021-036
+::decision_cite:: 21A240
+::decision_name::  Biden v. Missouri
+::decision_year:: 2022
+::opinion_author:: 
+::opinion_type:: 
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 21A240 and 21A241
+
+															_________________
+
+															JOSEPH R. BIDEN, Jr., PRESIDENT OF THE UNITED STATES, et al., APPLICANTS
+
+															21A240v.
+
+															MISSOURI, et al.
+
+															
+
+															XAVIER BECERRA, SECRETARY OF HEALTH AND HUMAN SERVICES, et al., APPLICANTS
+
+															21A241v.
+
+															LOUISIANA, et al.
+
+															on applications for stays
+
+															 [January 13, 2022]
+
+															
+
+															Per Curiam.
+
+															The Secretary of Health and Human Services administers the Medicare and Medicaid programs, which provide health insurance for millions of elderly, disabled, and low-income Americans.  In November 2021, the Secretary announced that, in order to receive Medicare and Medicaid funding, participating facilities must ensure that their staff—unless exempt for medical or religious reasons—are vaccinated against COVID–19.  86 Fed. Reg. 61555 (2021).  Two District Courts enjoined enforcement of the rule, and the Government now asks us to stay those injunctions.  Agreeing that it is entitled to such relief, we grant the applications.
+
+															I
+
+															A
+
+															The Medicare program provides health insurance to individuals 65 and older, as well as those with specified disabilities.  The Medicaid program does the same for those with low incomes.  Both Medicare and Medicaid are administered by the Secretary of Health and Human Services, who has general statutory authority to promulgate regulations “as may be necessary to the efficient administration of the functions with which [he] is charged.”  42 U. S. C. §1302(a).
+
+															One such function—perhaps the most basic, given the Department’s core mission—is to ensure that the healthcare providers who care for Medicare and Medicaid patients protect their patients’ health and safety.  Such providers include hospitals, nursing homes, ambulatory surgical centers, hospices, rehabilitation facilities, and more.  To that end, Congress authorized the Secretary to promulgate, as a condition of a facility’s participation in the programs, such “requirements as [he] finds necessary in the interest of the health and safety of individuals who are furnished services in the institution.”  42 U. S. C. §1395x(e)(9) (hospitals); see, e.g., §§1395x(cc)(2)(J) (outpatient rehabilitation facilities), 1395i–3(d)(4)(B) (skilled nursing facilities), 1395k(a)(2)(F) (i) (ambulatory surgical centers); see also §§1396r(d)(4)(B),  1396d(l)(1), 1396d(o) (corresponding provisions in Medicaid Act).
+
+															Relying on these authorities, the Secretary has established long lists of detailed conditions with which facilities must comply to be eligible to receive Medicare and Medicaid funds.  See, e.g., 42 CFR pt. 482 (2020) (hospitals); 42 CFR pt. 483 (long-term care facilities); 42 CFR §§416.25–416.54 (ambulatory surgical centers).  Such conditions have long included a requirement that certain providers maintain and enforce an “infection prevention and control program designed . . . to help prevent the development and transmission of communicable diseases and infections.”  §483.80 (long-term care facilities); see, e.g., §§482.42(a) (hospitals), 416.51(b) (ambulatory surgical centers), 485.725 (facilities that provide outpatient physical therapy and speech-language pathology services).
+
+															B
+
+															On November 5, 2021, the Secretary issued an interim final rule amending the existing conditions of participation in Medicare and Medicaid to add a new requirement—that facilities ensure that their covered staff are vaccinated against COVID–19.  86 Fed. Reg. 61561, 61616–61627.  The rule requires providers to offer medical and religious exemptions, and does not cover staff who telework full-time.  Id., at 61571–61572.  A facility’s failure to comply may lead to monetary penalties, denial of payment for new admissions, and ultimately termination of participation in the programs.  Id., at 61574.
+
+															The Secretary issued the rule after finding that vaccination of healthcare workers against COVID–19 was “necessary for the health and safety of individuals to whom care and services are furnished.”  Id., at 61561.  In many facilities, 35% or more of staff remain unvaccinated, id., at 61559, and those staff, the Secretary explained, pose a serious threat to the health and safety of patients.  That determination was based on data showing that the COVID–19 virus can spread rapidly among healthcare workers and from them to patients, and that such spread is more likely when healthcare workers are unvaccinated.  Id., at 61558–61561, 61567–61568, 61585–61586.  He also explained that, because Medicare and Medicaid patients are often elderly, disabled, or otherwise in poor health, transmission of COVID–19 to such patients is particularly dangerous.  Id., at 61566, 61609.  In addition to the threat posed by in- facility transmission itself, the Secretary also found that “fear of exposure” to the virus “from unvaccinated health care staff can lead patients to themselves forgo seeking medically necessary care,” creating a further “ris[k] to patient health and safety.”  Id., at 61588.  He further noted that staffing shortages caused by COVID–19-related exposures or illness has disrupted patient care.  Id., at 61559.
+
+															The Secretary issued the rule as an interim final rule, rather than through the typical notice-and-comment procedures, after finding “good cause” that it should be made effective immediately.  Id., at 61583–61586; see 5 U. S. C. §553(b)(B).  That good cause was, in short, the Secretary’s belief that any “further delay” would endanger patient health and safety given the spread of the Delta variant and the upcoming winter season.  86 Fed. Reg. 61583–61586.
+
+															C
+
+															Shortly after the interim rule’s announcement, two groups of States—one led by Louisiana and one by Missouri—filed separate actions challenging the rule.  The U. S. District Courts for the Western District of Louisiana and the Eastern District of Missouri each found the rule defective and entered preliminary injunctions against its enforcement.  Louisiana v. Becerra, 2021 WL 5609846 (Nov. 30, 2021); Missouri v. Biden, 2021 WL 5564501 (Nov. 29, 2021).  In each case, the Government moved for a stay of the injunction from the relevant Court of Appeals.  In Louisiana, the Fifth Circuit denied the Government’s motion.  20 F. 4th 260 (2021).  In Missouri, the Eighth Circuit did so as well.  See Order in No. 21–3725 (Dec. 13, 2021).  The Government filed applications asking us to stay both District Courts’ preliminary injunctions, and we heard expedited argument on its requests.
+
+															II
+
+															A
+
+															First, we agree with the Government that the Secretary’s rule falls within the authorities that Congress has conferred upon him.
+
+															Congress has authorized the Secretary to impose conditions on the receipt of Medicaid and Medicare funds that “the Secretary finds necessary in the interest of the health and safety of individuals who are furnished services.”  42 U. S. C. §1395x(e)(9).[1]  COVID–19 is a highly contagious, dangerous, and—especially for Medicare and Medicaid patients—deadly disease.  The Secretary of Health and Human Services determined that a COVID–19 vaccine mandate will substantially reduce the likelihood that healthcare workers will contract the virus and transmit it to their patients.  86 Fed. Reg. 61557–61558.  He accordingly concluded that a vaccine mandate is “necessary to promote and protect patient health and safety” in the face of the ongoing pandemic.  Id., at 61613.
+
+															The rule thus fits neatly within the language of the statute.  After all, ensuring that providers take steps to avoid transmitting a dangerous virus to their patients is consistent with the fundamental principle of the medical profession: first, do no harm.  It would be the “very opposite of efficient and effective administration for a facility that is supposed to make people well to make them sick with COVID–19.”  Florida v. Department of Health and Human Servs., 19 F. 4th 1271, 1288 (CA11 2021).
+
+															The States and Justice Thomas offer a narrower view of the various authorities at issue, contending that the seemingly broad language cited above authorizes the Secretary to impose no more than a list of bureaucratic rules regarding the technical administration of Medicare and Medicaid.  But the longstanding practice of Health and Human Services in implementing the relevant statutory authorities tells a different story.  As noted above, healthcare facilities that wish to participate in Medicare and Medicaid have always been obligated to satisfy a host of conditions that address the safe and effective provision of healthcare, not simply sound accounting.  Such requirements govern in detail, for instance, the amount of time after admission or surgery within which a hospital patient must be examined and by whom, 42 CFR §482.22(c)(5), the procurement, transportation, and transplantation of human kidneys, livers, hearts, lungs, and pancreases, §482.45, the tasks that may be delegated by a physician to a physician assistant or nurse practitioner, §483.30(e), and, most pertinent here, the programs that hospitals must implement to govern the “surveillance, prevention, and control of . . . infectious diseases,” §482.42.
+
+															Moreover, the Secretary routinely imposes conditions of participation that relate to the qualifications and duties of healthcare workers themselves.  See, e.g., §§482.42(c) (2)(iv) (requiring training of “hospital personnel and staff ” on “infection prevention and control guidelines”), 483.60(a)(1)(ii) (qualified dieticians must have completed at least 900 hours of supervised practice), 482.26(b)–(c) (specifying personnel authorized to use radiologic equipment).  And the Secretary has always justified these sorts of requirements by citing his authorities to protect patient health and safety.  See, e.g., §§482.1(a)(1)(ii), 483.1(a)(1)(ii), 416.1(a)(1).  As these examples illustrate, the Secretary’s role in administering Medicare and Medicaid goes far beyond that of a mere bookkeeper.
+
+															Indeed, respondents do not contest the validity of this longstanding litany of health-related participation conditions.  When asked at oral argument whether the Secretary could, using the very same statutory authorities at issue here, require hospital employees to wear gloves, sterilize instruments, wash their hands in a certain way and at certain intervals, and the like, Missouri answered yes: “[T]he Secretary certainly has authority to implement all kinds of infection control measures at these facilities.”  Tr. of Oral Arg. 57–58.  Of course the vaccine mandate goes further than what the Secretary has done in the past to implement infection control.  But he has never had to address an infection problem of this scale and scope before.  In any event, there can be no doubt that addressing infection problems in Medicare and Medicaid facilities is what he does.
+
+															And his response is not a surprising one.  Vaccination requirements are a common feature of the provision of healthcare in America: Healthcare workers around the country are ordinarily required to be vaccinated for diseases such as hepatitis B, influenza, and measles, mumps, and rubella.  CDC, State Healthcare Worker and Patient Vaccination Laws (Feb. 28, 2018), https://www.cdc.gov/ phlp/publications/topic/vaccinationlaws.html.  As the Secretary explained, these pre-existing state requirements are a major reason the agency has not previously adopted vaccine mandates as a condition of participation.  86 Fed. Reg. 61567–61568.
+
+															All this is perhaps why healthcare workers and public-health organizations overwhelmingly support the Secretary’s rule.  See id., at 61565–61566; see also Brief for American Medical Assn. et al. as Amici Curiae; Brief for American Public Health Assn. et al. as Amici Curiae; Brief for Secretaries of Health and Human Services et al. as Amici Curiae.  Indeed, their support suggests that a vaccination requirement under these circumstances is a straightforward and predictable example of the “health and safety” regulations that Congress has authorized the Secretary to impose.
+
+															We accordingly conclude that the Secretary did not exceed his statutory authority in requiring that, in order to remain eligible for Medicare and Medicaid dollars, the facilities covered by the interim rule must ensure that their employees be vaccinated against COVID–19.
+
+															B
+
+															We also disagree with respondents’ remaining contentions in support of the injunctions entered below.  First, the interim rule is not arbitrary and capricious.  Given the rulemaking record, it cannot be maintained that the Secretary failed to “examine the relevant data and articulate a satisfactory explanation for” his decisions to (1) impose the vaccine mandate instead of a testing mandate; (2) require vaccination of employees with “natural immunity” from prior COVID–19 illness; and (3) depart from the agency’s prior approach of merely encouraging vaccination.  Motor Vehicle Mfrs. Assn. of United States, Inc. v. State Farm Mut. Automobile Ins. Co., 463 U.S. 29, 43 (1983); see 86 Fed. Reg. 61583, 61559–61561, 61614.  Nor is it the case that the Secretary “entirely failed to consider” that the rule might cause staffing shortages, including in rural areas.  State Farm, 463 U. S., at 43; see 86 Fed. Reg. 61566, 61569, 61607–61609.  As to the additional flaws the District Courts found in the Secretary’s analysis, particularly concerning the nature of the data relied upon, the role of courts in reviewing arbitrary and capricious challenges is to “simply ensur[e] that the agency has acted within a zone of reasonableness.”  FCC v. Prometheus Radio Project, 592 U. S. ___, ___ (2021) (slip op., at 12).
+
+															Other statutory objections to the rule fare no better.  First, Justice Alito takes issue with the Secretary’s finding of good cause to delay notice and comment.  But the Secretary’s finding that accelerated promulgation of the rule in advance of the winter flu season would significantly reduce COVID–19 infections, hospitalizations, and deaths, 86 Fed. Reg. 61584–61586, constitutes the “something specific,” post, at 3 (dissenting opinion), required to forgo notice and comment.  And we cannot say that in this instance the two months the agency took to prepare a 73-page rule constitutes “delay” inconsistent with the Secretary’s finding of good cause.  Second, we agree with the Secretary that he was not required to “consult with appropriate State agencies,” 42 U. S. C. §1395z, in advance of issuing the interim rule.  Consistent with the existence of the good cause exception, which was properly invoked here, consultation during the deferred notice-and-comment period is permissible.  We similarly concur with the Secretary that he need not prepare a regulatory impact analysis discussing a rule’s effect on small rural hospitals when he acts through an interim final rule; that requirement applies only where the Secretary proceeds on the basis of a “notice of proposed rulemaking,” §1302(b)(1), followed by a “final version of [the] rule,” §1302(b)(2).  Lastly, the rule does not run afoul of the directive in §1395 that federal officials may not “exercise any supervision or control over the . . . manner in which medical services are provided, or over the selection [or] tenure . . . of any officer or employee of ” any facility.  That reading of section 1395 would mean that nearly every condition of participation the Secretary has long insisted upon is unlawful.
+
+															*  *  *
+
+															The challenges posed by a global pandemic do not allow a federal agency to exercise power that Congress has not conferred upon it.  At the same time, such unprecedented circumstances provide no grounds for limiting the exercise of authorities the agency has long been recognized to have.  Because the latter principle governs in these cases, the applications for a stay presented to Justice Alito and Justice Kavanaugh and by them referred to the Court are granted.  
+
+															The District Court for the Eastern District of Missouri’s November 29, 2021, order granting a preliminary injunction is stayed pending disposition of the Government’s appeal in the United States Court of Appeals for the Eighth Circuit and the disposition of the Government’s petition for a writ of certiorari, if such writ is timely sought.  Should the petition for a writ of certiorari be denied, this order shall terminate automatically.  In the event the petition for a writ of certiorari is granted, the order shall terminate upon the sending down of the judgment of this Court.
+
+															The District Court for the Western District of Louisiana’s November 30, 2021, order granting a preliminary injunction is stayed pending disposition of the Government’s appeal in the United States Court of Appeals for the Fifth Circuit and the disposition of the Government’s petition for a writ of certiorari, if such writ is timely sought.  Should the petition for a writ of certiorari be denied, this order shall terminate automatically.  In the event the petition for a writ of certiorari is granted, the order shall terminate upon the sending down of the judgment of this Court.
+
+															
+
+															It is so ordered.
+Notes
+1
+While this provision pertains only to hospitals, the Secretary has similar statutory powers with respect to most other categories of healthcare facilities covered by the interim rule.  See supra, at 2.  Justice Thomas points out that for five such kinds of facilities, the relevant statute does not contain express “health and safety” language.  Post, at 3 (dissenting opinion).  But employees at these facilities—which include end-stage renal disease clinics and home infusion therapy suppliers—represent less than 3% of the workers covered by the rule.  See Tr. of Oral Arg. 25.  And even with respect to them, the pertinent statutory language may be read as incorporating the “health and safety” authorities applicable to the other 97%.  See, e.g., 42 U. S. C. §1396d(d)(1).  We see no reason to let the infusion-clinic tail wag the hospital dog, especially because the rule has an express severability provision.  86 Fed. Reg. 61560. 
+
+

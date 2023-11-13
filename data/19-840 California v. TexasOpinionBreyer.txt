@@ -1,0 +1,209 @@
+::SCDB_caseID:: 2020-018
+::decision_cite:: 19-840
+::decision_name::  California v. Texas
+::decision_year:: 2021
+::opinion_author:: Breyer
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–840 and 19–1019
+
+															_________________
+
+															CALIFORNIA, et al., PETITIONERS
+
+															19–840v.
+
+															TEXAS, et al.
+
+															
+
+															TEXAS, et al., PETITIONERS
+
+															19–1019v.
+
+															CALIFORNIA, et al.
+
+															on writs of certiorari to the united states court of appeals for the fifth circuit
+
+															[June 17, 2021]
+
+															
+
+															Justice Breyer delivered the opinion of the Court.
+
+															As originally enacted in 2010, the Patient Protection and Affordable Care Act required most Americans to obtain minimum essential health insurance coverage.  The Act also imposed a monetary penalty, scaled according to income, upon individuals who failed to do so.  In 2017, Congress effectively nullified the penalty by setting its amount at $0.  See Tax Cuts and Jobs Act of 2017, Pub. L. 115–97, §11081,
+
+131Stat.
+2092 (codified in
+
+26 U. S. C. §5000A(c)).
+
+															Texas and 17 other States brought this lawsuit against the United States and federal officials.  They were later joined by two individuals (Neill Hurley and John Nantz).  The plaintiffs claim that without the penalty the Act’s minimum essential coverage requirement is unconstitutional.  Specifically, they say neither the Commerce Clause nor the Tax Clause (nor any other enumerated power) grants Congress the power to enact it.  See U. S. Const., Art. I, §8.  They also argue that the minimum essential coverage requirement is not severable from the rest of the Act.  Hence, they believe the Act as a whole is invalid.  We do not reach these questions of the Act’s validity, however, for Texas and the other plaintiffs in this suit lack the standing necessary to raise them.
+
+															I
+
+															A
+
+															We begin by describing the provision of the Act that the plaintiffs attack as unconstitutional.  The Act says in relevant part:
+
+															“(a)  Requirement to maintain minimum essential coverage
+
+															“An applicable individual shall . . . ensure that the individual, and any dependent . . . who is an applicable individual, is covered under minimum essential coverage . . . .
+
+															“(b)  Shared responsibility payment
+“(1) In general
+
+															“If a taxpayer who is an applicable individual . . . fails to meet the requirement of subsection (a) . . . there is hereby imposed on the taxpayer a penalty . . . in the amount determined under subsection (c).
+
+															“(2) Inclusion with return
+
+															“Any penalty imposed by this section . . . shall be included with a taxpayer’s return . . . for the taxable year . . . .”
+
+26 U. S. C. §5000A.
+
+															The Act defines “applicable individual” to include all taxpayers who do not fall within a set of exemptions.  See §5000A(d).  As first enacted, the Act set forth a schedule of penalties applicable to those who failed to meet its minimum essential coverage requirement.  See §5000A(c) (2012).  The penalties varied with a taxpayer’s income and exempted, among others, persons whose annual incomes fell below the federal income tax filing threshold.  See §5000A(e) (2012).  And the Act required that those subject to a penalty include it with their annual tax return.  See §5000A(b)(2) (2012).  In 2017, Congress amended the Act by setting the amount of the penalty in each category in §5000A(c) to “$0,” effective beginning tax year 2019.  See §11081,
+
+131Stat.
+2092.
+
+															Before Congress amended the Act, the Internal Revenue Service (IRS) had implemented §5000A(b) by requiring individual taxpayers to report with their federal income tax return whether they carried minimum essential coverage (or could claim an exemption).  After Congress amended the Act, the IRS made clear that the statute no longer requires taxpayers to report whether they do, or do not, maintain that coverage.  See IRS, Publication 5187, Tax Year 2019, p. 5 (“Form 1040 . . . will not have the ‘full-year health care coverage or exempt’ box and Form 8965, Health Coverage Exemptions, will no longer be used as the shared responsibility payment is reduced to zero”).
+
+															B
+
+															In 2018, Texas and more than a dozen other States (state plaintiffs) brought this lawsuit against the Secretary of Health and Human Services and the Commissioner of Internal Revenue, among others.  App. 12, 34.  They sought a declaration that §5000A(a)’s minimum essential coverage provision is unconstitutional, a finding that the rest of the Act is not severable from §5000A(a), and an injunction against the rest of the Act’s enforcement.  Id., at 61–63.  Hurley and Nantz (individual plaintiffs) soon joined them.  Although nominally defendants to the suit, the United States took the side of the plaintiffs.  See Brief for Federal Respondents 12–13 (arguing that the Act is unconstitutional).  Therefore California, along with 15 other States and the District of Columbia (state intervenors), intervened in order to defend the Act’s constitutionality, see App. 12–13, as did the U. S. House of Representatives at the appellate stage, see id., at 3.
+
+															After taking evidence, the District Court found that the individual plaintiffs had standing to challenge the constitutionality of the minimum essential coverage provision, §5000A(a).  See Texas v. United States, 340 F. Supp. 3d 579, 593–595 (ND Tex. 2018).  The court held that the minimum essential coverage provision is unconstitutional and not severable from the rest of the Act.  It granted relief in the form of a declaration stating just that.  Id., at 595–619.  It then stayed its judgment pending appeal.  See Texas v. United States, 352 F. Supp. 3d 665 (ND Tex. 2018).
+
+															On appeal, a panel majority agreed with the District Court that the plaintiffs had standing and that the minimum essential coverage provision was unconstitutional.  See Texas v. United States, 945 F.3d 355, 377–393 (CA5 2019).  It found that the District Court’s severability analysis, however, was “incomplete.”  Id., at 400.  It wrote that “[m]ore [wa]s needed to justify” the District Court’s order striking down the entire Act.  Id., at 401.  And it remanded the case for further proceedings.  Id., at 402–403.
+
+															The state intervenors, defending the Act, asked us to review the lower court decision.  We granted their petition for certiorari.
+
+															II
+
+															We proceed no further than standing.  The Constitution gives federal courts the power to adjudicate only genuine “Cases” and “Controversies.”  Art. III, §2.  That power includes the requirement that litigants have standing.  A plaintiff has standing only if he can “allege personal injury fairly traceable to the defendant’s allegedly unlawful conduct and likely to be redressed by the requested relief.”  DaimlerChrysler Corp. v. Cuno,
+
+547 U.S. 332, 342 (2006) (internal quotation marks omitted); see also Lujan v. Defenders of Wildlife,
+
+504 U.S. 555, 560–561 (1992).  Neither the individual nor the state plaintiffs have shown that the injury they will suffer or have suffered is “fairly traceable” to the “allegedly unlawful conduct” of which they complain.
+
+															A
+
+															We begin with the two individual plaintiffs.  They claim a particularized individual harm in the form of payments they have made and will make each month to carry the minimum essential coverage that §5000A(a) requires.  The individual plaintiffs point to the statutory language, which, they say, commands them to buy health insurance.  Brief for Respondent-Cross Petitioner Hurley et al. 19–20.  But even if we assume that this pocketbook injury satisfies the injury element of Article III standing, see Whitmore v. Arkansas,
+
+495 U.S. 149, 155 (1990), the plaintiffs nevertheless fail to satisfy the traceability requirement.
+
+															Their problem lies in the fact that the statutory provision, while it tells them to obtain that coverage, has no means of enforcement.  With the penalty zeroed out, the IRS can no longer seek a penalty from those who fail to comply.  See
+
+26 U. S. C. §5000A(g) (setting out IRS enforcement only of the taxpayer’s failure to pay the penalty, not of the taxpayer’s failure to maintain minimum essential coverage).  Because of this, there is no possible Government action that is causally connected to the plaintiffs’ injury—the costs of purchasing health insurance.  Or to put the matter conversely, that injury is not “fairly traceable” to any “allegedly unlawful conduct” of which the plaintiffs complain.  Allen v. Wright,
+
+468 U.S. 737, 751 (1984).  They have not pointed to any way in which the defendants, the Commissioner of Internal Revenue and the Secretary of Health and Human Services, will act to enforce §5000A(a).  They have not shown how any other federal employees could do so either.  In a word, they have not shown that any kind of Government action or conduct has caused or will cause the injury they attribute to §5000A(a).
+
+															The plaintiffs point to cases concerning the Act that they believe support their standing.  But all of those cases concerned the Act when the provision was indisputably enforceable, because the penalty provision was still in effect.  See Brief for Respondent-Cross Petitioner Hurley et al. 22 (citing Florida ex rel. Atty. Gen. v. United States Dept. of Health and Human Servs., 648 F.3d 1235, 1243 (CA11 2011); Thomas More Law Center v. Obama, 651 F.3d 529, 535 (CA6 2011); Virginia ex rel. Cuccinelli v. Sebelius, 656 F.3d 253, 266–268 (CA4 2011)); cf. National Federation of Independent Business v. Sebelius,
+
+567 U.S. 519 (2012) (assessing the constitutionality of the Act with the penalty provision).  These cases therefore tell us nothing about how the statute is enforced, or could be enforced, today.
+
+															It is consequently not surprising that the plaintiffs cannot point to cases that support them.  To the contrary, our cases have consistently spoken of the need to assert an injury that is the result of a statute’s actual or threatened enforcement, whether today or in the future.  See, e.g., Babbitt v. Farm Workers,
+
+442 U.S. 289, 298 (1979) (“A plaintiff who challenges a statute must demonstrate a realistic danger of sustaining a direct injury as a result of the statute’s operation or enforcement” (emphasis added)); Virginia v. American Booksellers Assn., Inc.,
+
+484 U.S. 383, 392 (1988) (requiring “threatened or actual injury resulting from the putatively illegal action” (internal quotation marks omitted)).  In the absence of contemporary enforcement, we have said that a plaintiff claiming standing must show that the likelihood of future enforcement is “substantial.”  Susan B. Anthony List v. Driehaus,
+
+573 U.S. 149, 164 (2014); see also Massachusetts v. Mellon,
+
+262 U.S. 447, 488 (1923) (“The party who invokes the power [of Article III courts] must be able to show, not only that the statute is invalid, but that he has sustained or is immediately in danger of sustaining some direct injury as the result of its enforcement”).
+
+															The plaintiffs point out that these and other precedents concern injuries anticipated in the future from a statute’s later enforcement.  Here, the plaintiffs say, they have already suffered a pocketbook injury, for they have already bought health insurance.  They also emphasize the Court’s statement in Lujan that, when a plaintiff is the “ ‘object’ ” of a challenged Government action, “ ‘there is ordinarily little question that the action . . . has caused him injury, and that a judgment preventing . . . the action will redress it.’ ”  Brief for Respondent-Cross Petitioner Hurley et al. 18 (quoting Lujan, 504 U. S., at 561–562).  But critically, unlike Lujan, here no unlawful Government action “fairly traceable” to §5000A(a) caused the plaintiffs’ pocketbook harm.  Here, there is no action—actual or threatened—whatsoever.  There is only the statute’s textually unenforceable language.
+
+															To consider the matter from the point of view of another standing requirement, namely, redressability, makes clear that the statutory language alone is not sufficient.  To determine whether an injury is redressable, a court will consider the relationship between “the judicial relief requested” and the “injury” suffered.  Allen, 468 U. S., at 753, n. 19.  The plaintiffs here sought injunctive relief and a declaratory judgment.  The injunctive relief, however, concerned the Act’s other provisions that they say are inseverable from the minimum essential coverage requirement.  The relief they sought in respect to the only provision they attack as unconstitutional—the minimum essential coverage provision—is declaratory relief, namely, a judicial statement that the provision they attacked is unconstitutional.  See App. 61–63 (“Count One: Declaratory Judgment That the Individual Mandate of the ACA Exceeds Congress’s Article I Constitutional Enumerated Powers” (boldface deleted)); 340 F. Supp. 3d, at 619 (granting declaratory judgment on count I as to §5000A(a)); 352 F. Supp. 3d, at 690 (severing and entering partial final judgment on count I).
+
+															Remedies, however, ordinarily “operate with respect to specific parties.”  Murphy v. National Collegiate Athletic Assn., 584 U. S. ___, ___ (2018) (Thomas, J., concurring) (slip op., at 3) (internal quotation marks omitted).  In the absence of any specific party, they do not simply operate “on legal rules in the abstract.”  Ibid. (internal quotation marks omitted); see also Mellon, 262 U. S., at 488 (“If a case for preventive relief be presented, the court enjoins, in effect, not the execution of the statute, but the acts of the official, the statute notwithstanding”).
+
+															This suit makes clear why that is so. The Declaratory Judgment Act,
+
+28 U. S. C. §2201, alone does not provide a court with jurisdiction.  See Skelly Oil Co. v. Phillips Petroleum Co.,
+
+339 U.S. 667, 671–672 (1950); R. Fallon, J. Manning, D. Meltzer, & D. Shapiro, Hart and Wechsler’s The Federal Courts and the Federal System 841 (7th ed. 2015) (that Act does “not confe[r ] jurisdiction over declaratory actions when the underlying dispute could not otherwise be heard in federal court”); see also Poe v. Ullman,
+
+367 U.S. 497, 506 (1961) (“[T]he declaratory judgment device does not . . . permit litigants to invoke the power of this Court to obtain constitutional rulings in advance of necessity”).  Instead, just like suits for every other type of remedy, declaratory-judgment actions must satisfy Article III’s case-or-controversy requirement.  See MedImmune, Inc. v. Genentech, Inc.,
+
+549 U.S. 118, 126–127 (2007).  At a minimum, this means that the dispute must “be ‘real and substantial’ and ‘admit of specific relief through a decree of a conclusive character, as distinguished from an opinion advising what the law would be upon a hypothetical state of facts.’ ”  Id., at 127 (alteration omitted).  Thus, to satisfy Article III standing, we must look elsewhere to find a remedy that will redress the individual plaintiffs’ injuries.
+
+															What is that relief?  The plaintiffs did not obtain damages.  Nor, as we just said, did the plaintiffs obtain an injunction in respect to the provision they attack as unconstitutional.  But, more than that: How could they have sought any such injunction?  The provision is unenforceable.  There is no one, and nothing, to enjoin.  They cannot enjoin the Secretary of Health and Human Services, because he has no power to enforce §5000A(a) against them.  And they do not claim that they might enjoin Congress.  In these circumstances, injunctive relief could amount to no more than a declaration that the statutory provision they attack is unconstitutional, i.e., a declaratory judgment.  But once again, that is the very kind of relief that cannot alone supply jurisdiction otherwise absent.  See Nashville, C. & St. L. R. Co. v. Wallace,
+
+288 U.S. 249, 262 (1933) (inquiring whether a suit for declaratory relief “would be justiciable in this Court if presented in a suit for injunction”); Medtronic, Inc. v. Mirowski Family Ventures, LLC,
+
+571 U.S. 191, 197 (2014) (noting that a court looks to “the nature of the threatened action in the absence of the declaratory judgment suit” to determine whether jurisdiction exists).
+
+															The matter is not simply technical.  To find standing here to attack an unenforceable statutory provision would allow a federal court to issue what would amount to “an advisory opinion without the possibility of any judicial relief.”  Los Angeles v. Lyons,
+
+461 U.S. 95, 129 (1983) (Marshall, J., dissenting); see also Steel Co. v. Citizens for Better Environment,
+
+523 U.S. 83, 107 (1998) (to have standing, a plaintiff must seek “an acceptable Article III remedy” that will “redress a cognizable Article III injury”).  It would threaten to grant unelected judges a general authority to conduct oversight of decisions of the elected branches of Government. See United States v. Richardson, 
+418 U.S. 166, 188 (1974) (Powell, J., concurring).  Article III guards against federal courts assuming this kind of jurisdiction.  See Carney v. Adams, 592 U. S. ___, ___ (2020) (slip op., at 4).
+
+															Last, the federal respondents raised for the first time a novel alternative theory of standing on behalf of the individual plaintiffs in their merits brief.  (The dissent, alone, puts forward a similar novel theory on behalf of the state plaintiffs.)  That theory was not directly argued by the plaintiffs in the courts below, see 945 F. 3d, at 385–386, and n. 29, and was nowhere presented at the certiorari stage.  We accordingly decline to consider it.  Cf. Adarand Constructors, Inc. v. Mineta,
+
+534 U.S. 103, 109–110 (2001) (per curiam); see also Cutter v. Wilkinson,
+
+544 U.S. 709, 718, n. 7 (2005).
+
+															B
+
+															Next, we turn to the state plaintiffs.  We conclude that Texas and the other state plaintiffs have similarly failed to show that they have alleged an “injury fairly traceable to the defendant’s allegedly unlawful conduct.”  Cuno, 547 U. S., at 342 (internal quotation marks omitted; emphasis added).  They claim two kinds of pocketbook injuries.  First, they allege an indirect injury in the form of the increased use of (and therefore cost to) state-operated medical insurance programs.  Second, they claim a direct injury resulting from a variety of increased administrative and related expenses required, they say, by the minimum essential coverage provision, along with other provisions of the Act that, they add, are inextricably “ ‘interwoven’ ” with it.  Brief for Respondent-Cross Petitioner States 39.
+
+															1
+
+															First, the state plaintiffs claim that the minimum essential coverage provision has led state residents subject to it to enroll in state-operated or state-sponsored insurance programs such as Medicaid, see 42 U. S. C. §§1396–1396w, the Children’s Health Insurance Program (CHIP), see  §1397aa, and health insurance programs for state employees.  The state plaintiffs say they must pay a share of the costs of serving those new enrollees.  As with the individual plaintiffs, the States also have failed to show how this injury is directly traceable to any actual or possible unlawful Government conduct in enforcing §5000A(a).  Cf. Clapper v. Amnesty Int’l USA,
+
+568 U.S. 398, 414, n. 5 (2013) (“plaintiffs bear the burden of . . . showing that the defendant’s actual action has caused the substantial risk of harm” (emphasis added)).  That alone is enough to show that they, like the individual plaintiffs, lack Article III standing.
+
+															But setting aside that pure issue of law, we need only examine the initial factual premise of their claim to uncover another fatal weakness: The state plaintiffs have failed to show that the challenged minimum essential coverage provision, without any prospect of penalty, will harm them by leading more individuals to enroll in these programs.
+
+															We have said that, where a causal relation between injury and challenged action depends upon the decision of an independent third party (here an individual’s decision to enroll in, say, Medicaid), “standing is not precluded, but it is ordinarily ‘substantially more difficult’ to establish ”  Lujan, 504 U. S., at 562 (quoting Allen, 468 U. S., at 758); see also Clapper, 568 U. S., at 414 (expressing “reluctance to endorse standing theories that rest on speculation about the decisions of independent actors”).  To satisfy that burden, the plaintiff must show at the least “that third parties will likely react in predictable ways.”  Department of Commerce v. New York, 588 U. S. ___, ___ (2019) (slip op., at 10).  And, “at the summary judgment stage, such a party can no longer rest on . . . mere allegations, but must set forth . . . specific facts” that adequately support their contention.  Clapper, 568 U. S., at 411–412 (internal quotation marks omitted).  The state plaintiffs have not done so.
+
+															The programs to which the state plaintiffs point offer their recipients many benefits that have nothing to do with the minimum essential coverage provision of §5000A(a).  See, e.g., 42 U. S. C. §§1396o(a)–(b) (providing for no-cost Medicaid services furnished to children and pregnant women, and for emergency services, hospice care, and COVID–19 testing related services, among others, as well as “nominal” charges for other individuals and services); §1396o(c) (prohibiting Medicaid premiums for certain individuals with family income below 150 percent of the poverty line and capping the premium at 10 percent of an eligible individual’s family income above that line);
+
+26 U. S. C. §36B(c)(2)(C) (providing premium tax credits to make health insurance plans, including employer-sponsored plans, more affordable).  Given these benefits, neither logic nor intuition suggests that the presence of the minimum essential coverage requirement would lead an individual to enroll in one of those programs that its absence would lead them to ignore.  A penalty might have led some inertia-bound individuals to enroll.  But without a penalty, what incentive could the provision provide?
+
+															The evidence that the state plaintiffs introduced in the District Court does not show the contrary.  That evidence consists of 21 statements (from state officials) about how new enrollees will increase the costs of state health insurance programs, see App. 79–191, 339–363, along with one statement taken from a 2017 Congressional Budget Office (CBO) Report, see id., at 306–311.
+
+															Of the 21 statements, we have found only 4 that allege that added state costs are attributable to the minimum essential coverage requirement.  And all four refer to that provision as it existed before Congress removed the penalty effective beginning tax year 2019, i.e., while a penalty still existed to be enforced.  See id., at 147–148 (decl. of Drew L. Snyder) (noting “[e]fforts to avoid imposition of the fine likely prompted more individuals to seek Medicaid from [Mississippi]”); id., at 154 (decl. of Jennifer R. Tidball) (noting that “Missouri residents were required to seek health care coverage or pay a penalty to the federal government,” and while “it is difficult to quantify the exact number of Medicaid enrollees that can be attributed to the [Act], during the time period the [Act] was implemented the Medicaid caseload increased”); id., at 341–342 (decl. of Blake Fulenwider) (observing that “Georgia residents were necessarily required to secure health care coverage or pay a fine to the federal government” and stating that “I believe that the individual mandate played a substantial role in the increase in the number of Medicaid recipients since 2011”); id., at 139 (decl. of Mike Michael) (describing costs associated with “[p]lan changes to cover individual mandate” spread “over the years of 2013 to 2018”).
+
+															One other declaration refers to increased costs to the States as employers, but it is vague as to the time period at issue.  See id., at 347–348 (decl. of Teresa MacCartney) (“After the implementation of the [Act]’s individual mandate, [Georgia’s Department of Community Health] experienced a substantial increase in employee elections to obtain health insurance”).
+
+															The state plaintiffs emphasize one further piece of evidence, a CBO Report released in 2017.  See id., at 306–311.  At that time, Congress was considering whether to repeal the minimum essential coverage provision or, instead, simply set the penalty for failure to obtain coverage to $0 for all taxpayers.  The state plaintiffs focus on the paragraph of the CBO Report that says that either way, the result would be “very similar,” for “only a small number of people” would continue to enroll in health insurance solely out of a “willingness to comply with the law.”  Id., at 307.  And they argue that a “small number” is sufficient (by raising costs in furnishing Medicaid and CHIP) to provide them with standing.
+
+															In our view, however, this predictive sentence without more cannot show that the minimum essential coverage provision was the cause of added enrollment to state health plans.  It does not explain, for example, who would buy insurance that they would not otherwise have bought.  (For example, individuals who purchase insurance on individual exchanges—like individual plaintiffs Hurley and Nantz—do not increase the relevant costs to the States of furnishing coverage.)  Nor does it explain why they might do so.  The CBO statement does not adequately trace the necessary connection between the provision without a penalty and new enrollment in Medicaid and CHIP.  We have found no other significant evidence that might keep the CBO statement company.
+
+															Unsurprisingly, the States have not demonstrated that an unenforceable mandate will cause their residents to enroll in valuable benefits programs that they would otherwise forgo.  It would require far stronger evidence than the States have offered here to support their counterintuitive theory of standing, which rests on a “highly attenuated chain of possibilities.”  Clapper, 568 U. S., at 410–411; cf. Department of Commerce, 588 U. S., at ___–___ (slip op., at 10–11) (District Court did not clearly err in finding that plaintiffs had standing where plaintiffs relied not only on “the predictable effect of Government action on the decisions of third parties” but also on comprehensive studies, rather than mere “speculation” (emphasis added)).
+
+															2
+
+															The state plaintiffs add that §5000A(a)’s minimum essential coverage provision also causes them to incur additional costs directly.  They point to the costs of providing beneficiaries of state health plans with information about their health insurance coverage, as well as the cost of furnishing the IRS with that related information.  See Brief for Respondent/Cross-Petitioner States 20–22 (citing 26 U. S. C. §§6055, 6056).
+
+															The problem with these claims, however, is that other provisions of Act, not the minimum essential coverage provision, impose these other requirements.  Nothing in the text of these form provisions suggests that they would not operate without §5000A(a).  See §§6055(b)(1)(B)(iii)(II), (c)(1) (requiring certification as to whether the beneficiary’s plan qualifies for cost-sharing or premium tax credits under §36B); §§6056(b)(2)(B), (c)(1) (requiring certification as to whether the plan qualifies as an “eligible employer-sponsored plan” that satisfies §4980H’s employer mandate).  These provisions refer to §5000A only to pick up a different subsection’s definition of “minimum essential coverage.”  See 26 U. S. C. §§6055(e), 6056(b)(2)(B) (incorporating §5000A(f)’s definition of “minimum essential coverage”).  To show that the minimum essential coverage requirement is unconstitutional would not show that enforcement of any of these other provisions violates the Constitution.  The state plaintiffs do not claim the contrary.  The Government’s conduct in question is therefore not “fairly traceable” to enforcement of the “allegedly unlawful” provision of which the plaintiffs complain—§5000A(a).  Allen, 468 U. S., at 751.
+
+															The state plaintiffs complain of other pocketbook injuries.  They say, for example, that, in order to avoid a “substantial tax penalty,” they will have to “offer their full-time employees (and qualified dependents) minimum essential coverage under an eligible employer-sponsored plan.”  Brief for Respondent/Cross-Petitioner States 23 (internal quotation marks omitted).  They say that the Act’s insistence that they “expand Medicaid eligibility” has led to “increas[ed] . . . Medicaid expenditures.”  Ibid.  And they argue that “the [Act]’s vast and complex rules and regulations” will require additional expenditures.  Id., at 22–23 (citing App. 152–153, 174, 190–191).  They seem to argue that they will have to pay more to expand coverage for employees who work 30–39 hours per week, see App. 174, and for those who become too old to remain in foster care, see id., at 152–153.
+
+															Again, the problem for the state plaintiffs is that these other provisions also operate independently of §5000A(a).  See
+
+26 U. S. C. §4980H(a) (establishing an employer mandate); §4980H(c)(4) (establishing employee eligibility for employer health plans for employees working 30–39 hours per week);
+
+42 U. S. C. §1396a(a)(10)(A)(i)(IX) (providing continuing Medicaid coverage for those aged out of foster care).  At most, those provisions pick up only §5000A(f)’s definition of minimum essential coverage in related subsections.  No one claims these other provisions violate the Constitution.  Rather, the state plaintiffs attack the constitutionality of only the minimum essential coverage provision.  They have not alleged that they have suffered an “injury fairly traceable to the defendant’s allegedly unlawful conduct.”  Cuno, 547 U. S., at 342 (quoting Allen, 468 U. S., at 751).
+
+															*  *  *
+
+															For these reasons, we conclude that the plaintiffs in this suit failed to show a concrete, particularized injury fairly traceable to the defendants’ conduct in enforcing the specific statutory provision they attack as unconstitutional.  They have failed to show that they have standing to attack as unconstitutional the Act’s minimum essential coverage provision.  Therefore, we reverse the Fifth Circuit’s judgment in respect to standing, vacate the judgment, and remand the case with instructions to dismiss.
+
+															
+
+															It is so ordered.
+													

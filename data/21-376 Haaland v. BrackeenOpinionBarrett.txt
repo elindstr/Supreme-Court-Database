@@ -1,0 +1,1439 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-376
+::decision_name::  Haaland v. Brackeen
+::decision_year:: 2023
+::opinion_author:: Barrett
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 21–376, 21–377,
+21–378 and 21–380
+
+															_________________
+
+															DEB HAALAND, SECRETARY OF THE INTERIOR,
+et al., PETITIONERS
+
+															21–376v.
+
+															CHAD EVERET BRACKEEN, et al.
+
+															
+
+															CHEROKEE NATION, et al.,
+PETITIONERS
+
+															21–377v.
+
+															CHAD EVERET BRACKEEN, et al.
+
+															
+
+															TEXAS, PETITIONER
+
+															21–378v.
+
+															DEB HAALAND, SECRETARY OF THE INTERIOR,
+et al.
+
+															
+
+															CHAD EVERET BRACKEEN, et al.,
+PETITIONERS
+
+															21–380v.
+
+															DEB HAALAND, SECRETARY OF THE INTERIOR,
+et al.
+
+															
+
+															on writs of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[June 15, 2023]
+
+															
+
+															Justice Barrett delivered the opinion of the
+Court.
+
+															This case is about children who are among the
+most vulnerable: those in the child welfare system. In the usual
+course, state courts apply state law when placing children in
+foster or adoptive homes. But when the child is an Indian, a
+federal statute—the Indian Child Welfare Act—governs.
+Among other things, this law requires a state court to place an
+Indian child with an Indian caretaker, if one is available. That is
+so even if the child is already living with a non-Indian family and
+the state court thinks it in the child’s best interest to
+stay there.
+
+															Before us, a birth mother, foster and adoptive
+parents, and the State of Texas challenge the Act on multiple
+constitutional grounds. They argue that it exceeds federal
+authority, infringes state sovereignty, and discriminates on the
+basis of race. The United States, joined by several Indian Tribes,
+defends the law. The issues are complicated—so for the
+details, read on. But the bottom line is that we reject all of
+petitioners’ challenges to the statute, some on the merits
+and others for lack of standing.
+
+															I
+
+															A
+
+															In 1978, Congress enacted the Indian Child
+Welfare Act (ICWA) out of concern that “an alarmingly high
+percentage of Indian families are broken up by the removal, often
+unwarranted, of their children from them by nontribal public and
+private agencies.” 92Stat. 3069, 25 U. S. C.
+§1901(4). Congress found that many of these children were
+being “placed in non-Indian foster and adoptive homes and
+institutions,” and that the States had contributed to the
+problem by “fail[ing] to recognize the essential tribal
+relations of Indian people and the cultural and social standards
+prevailing in Indian communities and families.”
+§§1901(4), (5). This harmed not only Indian parents and
+children, but also Indian tribes. As Congress put it, “there
+is no resource that is more vital to the continued existence and
+integrity of Indian tribes than their children.”
+§1901(3). Testifying before Congress, the Tribal Chief of the
+Mississippi Band of Choctaw Indians was blunter: “Culturally,
+the chances of Indian survival are significantly reduced if our
+children, the only real means for the transmission of the tribal
+heritage, are to be raised in non-Indian homes and denied exposure
+to the ways of their People.” Hearings on S. 1214 before the
+Subcommittee on Indian Affairs and Public Lands of the House
+Committee on Interior and Insular Affairs, 95th Cong., 2d Sess.,
+193 (1978).
+
+															The Act thus aims to keep Indian children
+connected to Indian families. “Indian child” is defined
+broadly to include not only a child who is “a member of an
+Indian tribe,” but also one who is “eligible for
+membership in an Indian tribe and is the biological child of a
+member of an Indian tribe.” §1903(4). If the Indian
+child lives on a reservation, ICWA grants the tribal court
+exclusive jurisdiction over all child custody proceedings,
+including adoptions and foster care proceedings. §1911(a). For
+other Indian children, state and tribal courts exercise concurrent
+jurisdiction, although the state court is sometimes required to
+transfer the case to tribal court. §1911(b). When a state
+court adjudicates the proceeding, ICWA governs from start to
+finish. That is true regardless of whether the proceeding is
+“involuntary” (one to which the parents do not consent)
+or “voluntary” (one to which they do).
+
+															Involuntary proceedings are subject to
+especially stringent safeguards. See 25 CFR §23.104 (2022); 81
+Fed. Reg. 38832–38836 (2016). Any party who initiates an
+“involuntary proceeding” in state court to place an
+Indian child in foster care or terminate parental rights must
+“notify the parent or Indian custodian and the Indian
+child’s tribe.” §1912(a). The parent or custodian
+and tribe have the right to intervene in the proceedings; the right
+to request extra time to prepare for the proceedings; the right to
+“examine all reports or other documents filed with the
+court”; and, for indigent parents or custodians, the right to
+court-appointed counsel. §§1912(a), (b), (c). The party
+attempting to terminate parental rights or remove an Indian child
+from an unsafe environment must first “satisfy the court that
+active efforts have been made to provide remedial services and
+rehabilitative programs designed to prevent the breakup of the
+Indian family and that these efforts have proved
+unsuccessful.” §1912(d). Even then, the court cannot
+order a foster care placement unless it finds “by clear and
+convincing evidence, including testimony of qualified expert
+witnesses, that the continued custody of the child by the parent or
+Indian custodian is likely to result in serious emotional or
+physical damage to the child.” §1912(e). To terminate
+parental rights, the court must make the same finding “beyond
+a reasonable doubt.” §1912(f ).
+
+															The Act applies to voluntary proceedings too.
+Relinquishing a child temporarily (to foster care) or permanently
+(to adoption) is a grave act, and a state court must ensure that a
+consenting parent or custodian knows and understands “the
+terms and consequences.” §1913(a). Notably, a biological
+parent who voluntarily gives up an Indian child cannot necessarily
+choose the child’s foster or adoptive parents. The
+child’s tribe has “a right to intervene at any point in
+[a] proceeding” to place a child in foster care or terminate
+parental rights, as well as a right to collaterally attack the
+state court’s decree. §§1911(c), 1914. As a result,
+the tribe can sometimes enforce ICWA’s placement preferences
+against the wishes of one or both biological parents, even after
+the child is living with a new family. See Mississippi Band of
+Choctaw Indians v. Holyfield, 490 U.S.
+30, 49–52 (1989).
+
+															ICWA’s placement preferences, which apply
+to all custody proceedings involving Indian children, are
+hierarchical: State courts may only place the child with someone in
+a lower-ranked group when there is no available placement in a
+higher-ranked group. For adoption, “a preference shall be
+given” to placements with “(1) a member of the
+child’s extended family; (2) other members of the Indian
+child’s tribe; or (3) other Indian families.”
+§1915(a). For foster care, a preference is given to (1)
+“the Indian child’s extended family”; (2)
+“a foster home licensed, approved, or specified by the Indian
+child’s tribe”; (3) “an Indian foster home
+licensed or approved by an authorized non-Indian licensing
+authority”; and then (4) another institution “approved
+by an Indian tribe or operated by an Indian organization which has
+a program suitable to meet the Indian child’s needs.”
+§1915(b). For purposes of the placement preferences, an
+“Indian” is “any person who is a member of an
+Indian tribe,” and an “Indian organization” is
+“any group . . . owned or controlled by
+Indians.” §§1903(3), (7). Together, these
+definitions mean that Indians from any tribe (not just the tribe to
+which the child has a tie) outrank unrelated non-Indians for both
+adoption and foster care. And for foster care, institutions run or
+approved by any tribe outrank placements with unrelated non-Indian
+families. Courts must adhere to the placement preferences absent
+“good cause” to depart from them. §§1915(a),
+(b).
+
+															The child’s tribe may pass a resolution
+altering the prioritization order. §1915(c). If it does,
+“the agency or court effecting the placement shall follow
+such order so long as the placement is the least restrictive
+setting appropriate to the particular needs of the child.”
+Ibid. So long as the “least restrictive setting”
+condition is met, the preferences of the Indian child or her parent
+cannot trump those set by statute or tribal resolution. But,
+“[w]here appropriate, the preference of the Indian child or
+parent shall be considered” in making a placement.
+Ibid.
+
+															The State must record each placement, including
+a description of the efforts made to comply with ICWA’s order
+of preferences. §1915(e). Both the Secretary of the Interior
+and the child’s tribe have the right to request the record at
+any time. Ibid. State courts must also transmit all final
+adoption decrees and specified information about adoption
+proceedings to the Secretary. §1951(a).
+
+															B
+
+															This case arises from three separate child
+custody proceedings governed by ICWA.
+
+															1
+
+															A. L. M. was placed in foster care
+with Chad and Jennifer Brackeen when he was 10 months old. Because
+his biological mother is a member of the Navajo Nation and his
+biological father is a member of the Cherokee Nation, he falls
+within ICWA’s definition of an “Indian child.”
+Both the Brackeens and A. L. M.’s biological
+parents live in Texas.
+
+															After A. L. M. had lived with the
+Brackeens for more than a year, they sought to adopt him.
+A. L. M.’s biological mother, father, and
+grandmother all supported the adoption. The Navajo and Cherokee
+Nations did not. Pursuant to an agreement between the Tribes, the
+Navajo Nation designated A. L. M. as a member and
+informed the state court that it had located a potential
+alternative placement with nonrelative tribal members living in New
+Mexico. ICWA’s placement preferences ranked the proposed
+Navajo family ahead of non-Indian families like the Brackeens. See
+§1915(a).
+
+															The Brackeens tried to convince the state court
+that there was “good cause” to deviate from
+ICWA’s preferences. They presented favorable testimony from
+A. L. M.’s court-appointed guardian and from a
+psychological expert who described the strong emotional bond
+between A. L. M. and his foster parents.
+A. L. M.’s biological parents and grandmother also
+testified, urging the court to allow A. L. M. to remain
+with the Brackeens, “ ‘the only parents
+[A. L. M.] knows.’ ” App. 96.
+
+															The court denied the adoption petition, and the
+Texas Department of Family and Protective Services announced its
+intention to move A. L. M. from the Brackeens’ home
+to New Mexico. In response, the Brackeens obtained an emergency
+stay of the transfer and filed this lawsuit. The Navajo family then
+withdrew from consideration, and the Brackeens finalized their
+adoption of A. L. M.
+
+															The Brackeens now seek to adopt
+A. L. M.’s biological sister, Y. R. J.,
+again over the opposition of the Navajo Nation. And while the
+Brackeens hope to foster and adopt other Indian children in the
+future, their fraught experience with A. L. M.’s
+adoption makes them hesitant to do so.
+
+															2
+
+															Altagracia Hernandez chose Nick and Heather
+Libretti as adoptive parents for her newborn daughter, Baby O. The
+Librettis took Baby O. home from the hospital when she was three
+days old, and Hernandez, who lived nearby, visited Baby O.
+frequently. Baby O.’s biological father visited only once but
+supported the adoption.
+
+															Hernandez is not an Indian. But Baby O.’s
+biological father is descended from members of the Ysleta del Sur
+Pueblo Tribe, and the Tribe enrolled Baby O. as a member. As a
+result, the adoption proceeding was governed by ICWA. The Tribe
+exercised its right to intervene and argued, over Hernandez’s
+objection, that Baby O. should be moved from the Librettis’
+home in Nevada to the Tribe’s reservation in El Paso, Texas.
+It presented a number of potential placements on the reservation
+for Baby O., and state officials began to investigate them. After
+Hernandez and the Librettis joined this lawsuit, however, the Tribe
+withdrew its challenge to the adoption, and the Librettis finalized
+their adoption of Baby O. The Librettis stayed in the litigation
+because they planned to foster and possibly adopt Indian children
+in the future.
+
+															3
+
+															Jason and Danielle Clifford, who live in
+Minnesota, fostered Child P., whose maternal grandmother belongs to
+the White Earth Band of Ojibwe Tribe. When Child P. entered state
+custody around the age of three, her mother informed the court that
+ICWA did not apply because Child P. was not eligible for tribal
+membership. The Tribe wrote a letter to the court confirming the
+same.
+
+															After two years in the foster care system, Child
+P. was placed with the Cliffords, who eventually sought to adopt
+her. The Tribe intervened in the proceedings and, with no
+explanation for its change in position, informed the court that
+Child P. was in fact eligible for tribal membership. Later, the
+Tribe announced that it had enrolled Child P. as a member. To
+comply with ICWA, Minnesota placed Child P. with her maternal
+grandmother, who had lost her foster license due to a criminal
+conviction. The Cliffords continued to pursue the adoption, but,
+citing ICWA, the court denied their motion. Like the other
+families, the Cliffords intend to foster or adopt Indian children
+in the future.
+
+															C
+
+															The Brackeens, the Librettis, Hernandez, and
+the Cliffords (whom we will refer to collectively as the
+“individual petitioners”) filed this suit in federal
+court against the United States, the Department of the Interior and
+its Secretary, the Bureau of Indian Affairs (BIA) and its Director,
+and the Department of Health and Human Services and its Secretary
+(whom we will refer to collectively as the “federal
+parties”). The individual petitioners were joined by the
+States of Texas, Indiana, and Louisiana—although only Texas
+continues to challenge ICWA before this Court. Several Indian
+Tribes intervened to defend the law alongside the federal
+parties.
+
+															Petitioners challenged ICWA as unconstitutional
+on multiple grounds. They asserted that Congress lacks authority to
+enact ICWA and that several of ICWA’s requirements violate
+the anticommandeering principle of the Tenth Amendment. They argued
+that ICWA employs racial classifications that unlawfully hinder
+non-Indian families from fostering or adopting Indian children. And
+they challenged §1915(c)—the provision that allows
+tribes to alter the prioritization order—on the ground that
+it violates the non-delegation doctrine.[1]
+
+															The District Court granted petitioners’
+motion for summary judgment on their constitutional claims, and a
+divided panel of the Fifth Circuit reversed. Brackeen v.
+Bernhardt, 937 F.3d 406 (2019). After rehearing the case en
+banc, the Fifth Circuit affirmed in part and reversed in part. 994
+F.3d 249 (2021) (per curiam). The en banc court
+concluded that ICWA does not exceed Congress’s legislative
+power, that §1915(c) does not violate the nondelegation
+doctrine, and that some of ICWA’s placement preferences
+satisfy the guarantee of equal protection. Id., at
+267–269. The court was evenly divided as to whether
+ICWA’s other preferences—those prioritizing
+“other Indian families” and “Indian foster
+home[s]” over non-Indian families—unconstitutionally
+discriminate on the basis of race. Id., at 268. The Fifth
+Circuit therefore affirmed the District Court’s ruling that
+these preferences are unconstitutional.
+
+															Petitioners’ Tenth Amendment arguments
+effectively succeeded across the board. The Fifth Circuit held that
+§1912(d)’s “active efforts” requirement,
+§1912(e)’s and §1912(f )’s expert
+witness requirements, and §1915(e)’s recordkeeping
+requirement unconstitutionally commandeer the States. Ibid.
+It divided evenly with respect to the other provisions that
+petitioners challenge here: §1912(a)’s notice
+requirement, §1915(a) and §1915(b)’s placement
+preferences, and §1951(a)’s recordkeeping requirement.
+Ibid. So the Fifth Circuit affirmed the District
+Court’s hold- ing that these requirements, too, violate the
+Tenth Amendment.
+
+															We granted certiorari.[2] 595 U. S. ____ (2022).
+
+															II
+
+															A
+
+															We begin with petitioners’ claim that
+ICWA exceeds Congress’s power under Article I. In a long line
+of cases, we have characterized Congress’s power to legislate
+with respect to the Indian tribes as “ ‘plenary
+and exclusive.’ ” United States v.
+Lara, 541 U.S.
+193, 200 (2004); South Dakota v. Yankton Sioux
+Tribe, 522 U.S.
+329, 343 (1998) (“Congress possesses plenary power over
+Indian affairs”); Washington v. Confederated Bands
+and Tribes of Yakima Nation, 439 U.S.
+463, 470 (1979) (Congress exercises “plenary and
+exclusive power over Indian affairs”); Winton v.
+Amos, 255 U.S.
+373, 391 (1921) (“It is thoroughly established that
+Congress has plenary authority over the Indians and all their
+tribal relations”); Lone Wolf v. Hitchcock,
+187 U.S.
+553, 565 (1903) (“Congress possesse[s] a paramount power
+over the property of the Indians”); Stephens v.
+Cherokee Nation, 174 U.S.
+445, 478 (1899) (“Congress possesses plenary power of
+legislation in regard to” the Indian tribes). Our cases leave
+little doubt that Congress’s power in this field is muscular,
+superseding both tribal and state authority. Santa Clara
+Pueblo v. Martinez, 436 U.S.
+49, 56 (1978) (“Congress has plenary authority to limit,
+modify or eliminate the powers of local self-government which the
+tribes otherwise possess”); Dick v. United
+States, 208 U.S.
+340, 353 (1908) (“Congress has power to regulate commerce
+with the Indian tribes, and such power is superior and paramount to
+the authority of any State within whose limits are Indian
+tribes”).
+
+															To be clear, however, “plenary” does
+not mean “free-floating.” A power unmoored from the
+Constitution would lack both justification and limits. So like the
+rest of its legislative powers, Congress’s authority to
+regulate Indians must derive from the Constitution, not the
+atmosphere. Our precedent traces that power to multiple
+sources.
+
+															The Indian Commerce Clause authorizes Congress
+“[t]o regulate Commerce . . . with the Indian
+Tribes.” Art. I, §8, cl. 3. We have interpreted the
+Indian Commerce Clause to reach not only trade, but certain
+“Indian affairs” too. Cotton Petroleum Corp. v.
+New Mexico, 490 U.S.
+163, 192 (1989). Notably, we have declined to treat the Indian
+Commerce Clause as interchangeable with the Interstate Commerce
+Clause. Ibid. While under the Interstate Commerce Clause,
+States retain “some authority” over trade, we have
+explained that “virtually all authority over Indian commerce
+and Indian tribes” lies with the Federal Government.
+Seminole Tribe of Fla. v. Florida, 517 U.S.
+44, 62 (1996).
+
+															The Treaty Clause—which provides that the
+President “shall have Power, by and with the Advice and
+Consent of the Senate, to make Treaties”—provides a
+second source of power over Indian affairs. Art. II, §2,
+cl. 2. Until the late 19th century, relations between the
+Federal Government and the Indian tribes were governed largely by
+treaties. Lara, 541 U. S., at 201. Of course, the
+treaty power “does not literally authorize Congress to act
+legislatively,” since it is housed in Article II rather than
+Article I. Ibid. Nevertheless, we have asserted that
+“treaties made pursuant to that power can authorize Congress
+to deal with ‘matters’ with which otherwise
+‘Congress could not deal.’ ” Ibid.
+And even though the United States formally ended the practice of
+entering into new treaties with the Indian tribes in 1871, this
+decision did not limit Congress’s power “to legislate
+on problems of Indians” pursuant to pre-existing treaties.
+Antoine v. Washington, 420 U.S.
+194, 203 (1975) (emphasis deleted).
+
+															We have also noted that principles inherent in
+the Constitution’s structure empower Congress to act in the
+field of Indian affairs. See Morton v. Mancari,
+417 U.S.
+535, 551–552 (1974) (“The plenary power of Congress
+to deal with the special problems of Indians is drawn both
+explicitly and implicitly from the Constitution
+itself ”). At the founding, “ ‘Indian
+affairs were more an aspect of military and foreign policy than a
+subject of domestic or municipal law.’ ”
+Lara, 541 U. S., at 201. With this in mind, we have
+posited that Congress’s legislative authority might rest in
+part on “the Constitution’s adoption of
+preconstitutional powers necessarily inherent in any Federal
+Government, namely, powers that this Court has described as
+‘necessary concomitants of nationality.’ ”
+Ibid. (quoting United States v. Curtiss-Wright
+Export Corp., 299 U.S.
+304, 315–322 (1936)).
+
+															Finally, the “trust relationship between
+the United States and the Indian people” informs the exercise
+of legislative power. United States v. Mitchell,
+463 U.S.
+206, 225–226 (1983). As we have explained, the Federal
+Government has “ ‘charged itself with moral
+obligations of the highest responsibility and
+trust’ ” toward Indian tribes. United
+States v. Jicarilla Apache Nation, 564 U.S.
+162, 176 (2011); Seminole Nation v. United
+States, 316 U.S.
+286, 296 (1942) (“[T]his Court has recognized the
+distinctive obligation of trust incumbent upon the Government in
+its dealings with these dependent and sometimes exploited
+people”). The contours of this “special
+relationship” are undefined. Mancari, 417 U. S.,
+at 552.
+
+															In sum, Congress’s power to legislate with
+respect to Indians is well established and broad. Consistent with
+that breadth, we have not doubted Congress’s ability to
+legislate across a wide range of areas, including criminal law,
+domestic violence, employment, property, tax, and trade. See,
+e.g., Lara, 541 U. S., at 210 (law allowing
+tribes to prosecute nonmember Indians who committed crimes on
+tribal land); United States v. Bryant, 579 U.S. 140,
+142–143 (2016) (law criminalizing domestic violence in Indian
+country); Mancari, 417 U. S., at 537 (policy granting
+Indians employment preferences); United States v.
+Antelope, 430 U.S.
+641, 648 (1977) (law establishing a criminal code for Indian
+country); Yankton Sioux Tribe, 522 U. S., at 343 (law
+altering the boundaries of a reservation); Sunderland v.
+United States, 266 U.S.
+226, 231–232 (1924) (agency action removing the
+restrictions on alienation of a homestead allotted to an Indian);
+Warren Trading Post Co. v. Arizona Tax Comm’n,
+380 U.S.
+685, 691, n. 18 (1965) (law granting tribe immunity from
+state taxation); United States v. Algoma Lumber Co.,
+305 U.S.
+415, 417, 421 (1939) (law regulating the sale of timber by an
+Indian tribe). Indeed, we have only rarely concluded that a
+challenged statute exceeded Congress’s power to regulate
+Indian affairs. See, e.g., Seminole Tribe, 517
+U. S., at 72–73.
+
+															Admittedly, our precedent is unwieldy, because
+it rarely ties a challenged statute to a specific source of
+constitutional authority. That makes it difficult to categorize
+cases and even harder to discern the limits on Congress’s
+power. Still, we have never wavered in our insistence that
+Congress’s Indian affairs power “ ‘is not
+absolute.’ ” Delaware Tribal Business Comm.
+v. Weeks, 430 U.S.
+73, 84 (1977); United States v. Alcea Band of
+Tillamooks, 329 U.S.
+40, 54 (1946) (“The power of Congress over Indian affairs
+may be of a plenary nature; but it is not absolute”);
+United States v. Creek Nation, 295 U.S.
+103, 110 (1935) (plenary power is “subject to limitations
+inhering in such a guardianship and to pertinent constitutional
+restrictions”). It could not be otherwise—Article I
+gives Congress a series of enumerated powers, not a series of blank
+checks. Thus, we reiterate that Congress’s authority to
+legislate with respect to Indians is not unbounded. It is plenary
+within its sphere, but even a sizeable sphere has borders.[3]
+
+															B
+
+															Petitioners contend that ICWA exceeds
+Congress’s power. Their principal theory, and the one
+accepted by both Justice Alito and the dissenters in the Fifth
+Circuit, is that ICWA treads on the States’ authority over
+family law. Domestic relations have traditionally been governed by
+state law; thus, federal power over Indians stops where state power
+over the family begins. Or so the argument goes.
+
+															It is true that Congress lacks a general power
+over domestic relations, In re Burrus, 136 U.S.
+586, 593–594 (1890), and, as a result, responsibility for
+regulating marriage and child custody remains primarily with the
+States, Sosna v. Iowa, 419 U.S.
+393, 404 (1975). See also Moore v. Sims,
+442 U.S.
+415, 435 (1979). But the Constitution does not erect a firewall
+around family law. On the contrary, when Congress validly
+legislates pursuant to its Article I powers, we “ha[ve] not
+hesitated” to find conflicting state family law preempted,
+“[n]otwithstanding the limited application of federal law in
+the field of domestic relations generally.” Ridgway v.
+Ridgway, 454 U.S.
+46, 54 (1981) (federal law providing life insurance preempted
+state family-property law); see also Hillman v.
+Maretta, 569 U.S.
+483, 491 (2013) (“state laws ‘governing the
+economic aspects of domestic relations . . . must give
+way to clearly conflicting federal enactments’ ”
+(alteration in original)). In fact, we have specifically recognized
+Congress’s power to displace the jurisdiction of state courts
+in adoption proceedings involving Indian children. Fisher v.
+District Court of Sixteenth Judicial Dist. of Mont.,
+424 U.S.
+382, 390 (1976) (per curiam).
+
+															Petitioners are trying to turn a general
+observation (that Congress’s Article I powers rarely touch
+state family law) into a constitutional carveout (that family law
+is wholly exempt from federal regulation). That argument is a
+nonstarter. As James Madison said to Members of the First Congress,
+when the Constitution conferred a power on Congress, “they
+might exercise it, although it should interfere with the laws, or
+even the Constitution of the States.” 2 Annals of Cong. 1897
+(1791). Family law is no exception.
+
+															C
+
+															Petitioners come at the problem from the
+opposite direction too: Even if there is no family law carveout to
+the Indian affairs power, they contend that Congress’s
+authority does not stretch far enough to justify ICWA. Ticking
+through the various sources of power, petitioners assert that the
+Constitution does not authorize Congress to regulate custody
+proceedings for Indian children. Their arguments fail to grapple
+with our precedent, and because they bear the burden of
+establishing ICWA’s unconstitutionality, we cannot sustain
+their challenge to the law. See Lujan v. G & G Fire
+Sprinklers, Inc., 532 U.S.
+189, 198 (2001).
+
+															Take the Indian Commerce Clause, which is
+petitioners’ primary focus. According to petitioners, the
+Clause authorizes Congress to legislate only with respect to Indian
+tribes as government entities, not Indians as individuals. Brief
+for Individual Petitioners 47–50. But we held more than a
+century ago that “commerce with the Indian tribes, means
+commerce with the individuals composing those tribes.”
+United States v. Holliday, 3 Wall. 407, 416–417
+(1866) (law prohibiting the sale of alcohol to Indians in Indian
+country); United States v. Nice, 241 U.S.
+591, 600 (1916) (same). So that argument is a dead end.
+
+															Petitioners also assert that ICWA takes the
+“commerce” out of the Indian Commerce Clause. Their
+consistent refrain is that “children are not commodities that
+can be traded.” Brief for Individual Petitioners 16; Brief
+for Petitioner Texas 23 (“[C]hildren are not
+commodities”); id., at 18 (“Children are not
+articles of commerce”). Rhetorically, it is a powerful
+point—of course children are not commercial products.
+Legally, though, it is beside the point. As we already explained,
+our precedent states that Congress’s power under the Indian
+Commerce Clause encompasses not only trade but also “Indian
+affairs.” Cotton Petroleum, 490 U. S., at 192.
+Even the judges who otherwise agreed with petitioners below
+rejected this narrow view of the Indian Commerce Clause as
+inconsistent with both our cases and “[l]ongstanding patterns
+of federal legislation.” 994 F. 3d, at 374–375
+(principal opinion of Duncan, J.). Rather than dealing with this
+precedent, however, petitioners virtually ignore it.
+
+															Next, petitioners argue that ICWA cannot be
+authorized by principles inherent in the Constitution’s
+structure because those principles “extend, at most, to
+matters of war and peace.” Brief for Petitioner Texas 28. But
+that is not what our cases say. We have referred generally to the
+powers “necessarily inherent in any Federal
+Government,” and we have offered examples like
+“creating departments of Indian affairs, appointing Indian
+commissioners, and . . . ‘securing and preserving
+the friendship of the Indian Nations’ ”—none
+of which are military actions. Lara, 541 U. S., at
+201–202. Once again, petitioners make no argument that takes
+our cases on their own terms.
+
+															Finally, petitioners observe that ICWA does not
+implement a federal treaty. Brief for Petitioner Texas 24–27;
+Brief for Individual Petitioners 56–58. This does not get
+them very far either, since Congress did not purport to enact ICWA
+pursuant to the Treaty Clause power and the Fifth Circuit did not
+uphold ICWA on that rationale.
+
+															Presumably recognizing these obstacles,
+petitioners turn to criticizing our precedent as inconsistent with
+the Constitution’s original meaning. Yet here too, they offer
+no account of how their argument fits within the landscape of our
+case law. For instance, they neither ask us to overrule the
+precedent they criticize nor try to reconcile their approach with
+it. They are also silent about the potential consequences of their
+position. Would it undermine established cases and statutes? If so,
+which ones? Petitioners do not say.
+
+															We recognize that our case law puts petitioners
+in a difficult spot. We have often sustained Indian legislation
+without specifying the source of Congress’s power, and we
+have insisted that Congress’s power has limits without saying
+what they are. Yet petitioners’ strategy for dealing with the
+confusion is not to offer a theory for rationalizing this body of
+law—that would at least give us something to work
+with.[4] Instead, they frame
+their arguments as if the slate were clean. More than two centuries
+in, it is anything but.
+
+															If there are arguments that ICWA exceeds
+Congress’s authority as our precedent stands today,
+petitioners do not make them. We therefore decline to disturb the
+Fifth Circuit’s conclusion that ICWA is consistent with
+Article I.
+
+															III
+
+															We now turn to petitioners’ host of
+anticommandeering arguments, which we will break into three
+categories. First, petitioners challenge certain requirements that
+apply in involuntary proceedings to place a child in foster care or
+terminate parental rights: the requirements that an initiating
+party demonstrate “active efforts” to keep the Indian
+family together; serve notice of the proceeding on the parent or
+Indian custodian and tribe; and demonstrate, by a heightened burden
+of proof and expert testimony, that the child is likely to suffer
+“serious emotional or physical damage” if the parent or
+Indian custodian retains custody. Second, petitioners challenge
+ICWA’s placement preferences. They claim that Congress can
+neither force state agencies to find preferred placements for
+Indian children nor require state courts to apply federal standards
+when making custody determinations. Third, they insist that
+Congress cannot force state courts to maintain or transmit to the
+Federal Government records of custody proceedings involving Indian
+children.[5]
+
+															A
+
+															As a reminder, “involuntary
+proceedings” are those to which a parent does not consent.
+§1912; 25 CFR §23.2. Heightened protections for parents
+and tribes apply in this context, and while petitioners challenge
+most of them, the “active efforts” provision is their
+primary target. That provision requires “[a]ny party”
+seeking to effect an involuntary foster care placement or
+termination of parental rights to “satisfy the court that
+active efforts have been made to provide remedial services and
+rehabilitative programs designed to prevent the breakup of the
+Indian family and that these efforts have proved
+unsuccessful.” §1912(d). According to petitioners, this
+subsection directs state and local agencies to provide extensive
+services to the parents of Indian children. It is well established
+that the Tenth Amendment bars Congress from “command[ing] the
+States’ officers, or those of their political subdivisions,
+to administer or enforce a federal regulatory program.”
+Printz v. United States, 521
+U.S. 898, 935 (1997). The “active efforts”
+provision, petitioners say, does just that.
+
+															Petitioners’ argument has a fundamental
+flaw: To succeed, they must show that §1912(d) harnesses a
+State’s legislative or executive authority. But the provision
+applies to “any party” who initiates an involuntary
+proceeding, thus sweeping in private individuals and agencies as
+well as government entities. A demand that either public or private
+actors can satisfy is unlikely to require the use of sovereign
+power. Murphy v. National Collegiate Athletic Assn.,
+584 U. S. ___, ___–___ (2018) (slip op., at
+19–20).
+
+															Notwithstanding the term “any
+party,” petitioners insist that §1912(d) is “best
+read” as a command to the States. See id., at ___
+(slip op., at 21) (whether a federal law directly regulates the
+States depends on how it is “best read”). They contend
+that, as a practical matter, States—not private
+parties—initiate the vast majority of involuntary
+proceedings. Despite the breadth of the language, the argument
+goes, States are obviously the “parties” to whom the
+statute refers.
+
+															The record contains no evidence supporting the
+assertion that States institute the vast majority of involuntary
+proceedings. Examples of private suits are not hard to find, so we
+are skeptical that their number is negligible. See, e.g.,
+Adoptive Couple v. Baby Girl, 570
+U.S. 637, 644–646 (2013) (prospective adoptive parents);
+In re Guardianship of Eliza W., 304 Neb. 995, 997, 938
+N.W.2d 307, 310 (2020) (grandmother); In re Guardianship of
+J. C. D., 2004 S. D. 96, ¶4, 686 N.W.2d
+647, 648 (2004) (grandparents); In re Adoption of
+T. A. W., 186 Wash. 2d 828, 835–837,
+850–851, 383 P.3d 492, 494–495, 501–502 (2016)
+(en banc) (mother and stepfather); J. W. v.
+R. J., 
+951 P.2d 1206, 1212–1213 (Alaska 1998) (same). Indeed,
+Texas’s own family code permits certain private parties to
+initiate suits for the termination of parental rights. Tex. Fam.
+Code Ann. §102.003(a) (West Cum. Supp. 2022); see Reply Brief
+for Texas 27. And while petitioners treat “active
+efforts” as synonymous with “government
+programs,” state courts have applied the “active
+efforts” requirement in private suits too. See, e.g.,
+In re Adoption of T. A. W., 186 Wash. 2d, at
+851–852, 383 P. 3d, at 502–503; S. S.
+v. Stephanie H., 241 Ariz. 419, 424, 388 P.3d 569, 574 (App.
+2017); In re N. B., 199 P.3d 16, 23–24 (Colo.
+App. 2007). That is consistent with ICWA’s findings, which
+describe the role that both public and private actors played in the
+unjust separation of Indian children from their families and
+tribes. §1901. Given all this, it is implausible that
+§1912(d) is directed primarily, much less exclusively, at the
+States.[6]
+
+															Legislation that applies
+“evenhandedly” to state and private actors does not
+typically implicate the Tenth Amendment. Murphy, 584
+U. S., at ___ (slip op., at 20). In South Carolina v.
+Baker, for example, we held that a generally applicable law
+regulating unregistered bonds did not commandeer the States;
+rather, it required States “wishing to engage in certain
+activity [to] take administrative and sometimes legislative action
+to comply with federal standards regulating that activity.”
+485 U.S.
+505, 514–515 (1988). We reached a similar conclusion in
+Reno v. Condon, which dealt with a statute
+prohibiting state motor vehicle departments (DMVs) from selling a
+driver’s personal information without the driver’s
+consent. 528 U.S.
+141, 143–144 (2000). The law regulated not only the state
+DMVs, but also private parties who had already purchased this
+information and sought to resell it. Id., at 146. Applying
+Baker, we concluded that the Act did not “require the
+States in their sovereign capacity to regulate their own
+citizens,” “enact any laws or regulations,” or
+“assist in the enforcement of federal statutes regulating
+private individuals.” 528 U. S., at 150–151.
+Instead, it permissibly “regulate[d] the States as the owners
+of data bases.” Id., at 151.
+
+															Petitioners argue that Baker and
+Condon are distinguishable because they addressed laws
+regulating a State’s commercial activity, while ICWA
+regulates a State’s “core sovereign function of
+protecting the health and safety of children within its
+borders.” Brief for Petitioner Texas 66. A State can stop
+selling bonds or a driver’s personal information, petitioners
+say, but it cannot withdraw from the area of child
+welfare—protecting children is the business of government,
+even if it is work in which private parties share. Nor, of course,
+could Texas avoid ICWA by excluding only Indian children from
+social services. Because States cannot exit the field, they are
+hostage to ICWA, which requires them to implement Congress’s
+regulatory program for the care of Indian children and families.
+Id., at 64–65; Reply Brief for Texas 27.
+
+															This argument is presumably directed at
+situations in which only the State can rescue a child from
+neglectful parents. But §1912 applies to more than child
+neglect—for instance, it applies when a biological mother
+arranges for a private adoption without the biological
+father’s consent. See, e.g., Adoptive Couple,
+570 U. S., at 643–644. And even when a child is trapped
+in an abusive home, the State is not necessarily the only option
+for rescue—for instance, a grandmother can seek guardianship
+of a grandchild whose parents are failing to care for her. See,
+e.g., In re Guardianship of Eliza W., 304 Neb.,
+at 996–997, 938 N. W. 2d, at 309–310.
+Petitioners do not distinguish between these varied situations,
+much less isolate a domain in which only the State can act. Some
+amici assert that, at the very least, removing children from
+imminent danger in the home falls exclusively to the government.
+Brief for Academy of Adoption and Assisted Reproduction Attorneys
+et al. as Amici Curiae 14 (“Amici are aware of no
+state in which a private actor may lawfully remove a child from his
+existing home”). Maybe so—but that does not help
+petitioners’ commandeering argument, because the
+“active efforts” requirement does not apply to
+emergency removals. §1922. If ICWA commandeers state
+performance of a “core sovereign function,” petitioners
+do not give us the details.
+
+															When a federal statute applies on its face to
+both private and state actors, a commandeering argument is a heavy
+lift—and petitioners have not pulled it off. Both state and
+private actors initiate involuntary proceedings. And, if there is a
+core of involuntary proceedings committed exclusively to the
+sovereign, Texas neither identifies its contours nor explains what
+§1912(d) requires of a State in that context. Petitioners have
+therefore failed to show that the “active efforts”
+requirement commands the States to deploy their executive or
+legislative power to implement federal Indian policy.
+
+															As for petitioners’ challenges to other
+provisions of §1912—the notice requirement, expert
+witness requirement, and evidentiary standards—we doubt that
+requirements placed on a State as litigant implicate the Tenth
+Amendment. But in any event, these provisions, like §1912(d),
+apply to both private and state actors, so they too pose no
+anticommandeering problem.
+
+															B
+
+															Petitioners also raise a Tenth Amendment
+challenge to §1915, which dictates placement preferences for
+Indian children. According to petitioners, this provision orders
+state agencies to perform a “diligent search” for
+placements that satisfy ICWA’s hierarchy. Brief for
+Petitioner Texas 63; Reply Brief for Texas 24; see also Brief for
+Individual Petitioners 67–68. Petitioners assert that the
+Department of the Interior understands §1915 this way, 25 CFR
+§23.132(c)(5), and the Tribes who intervene in proceedings
+governed by ICWA share that understanding—for example,
+“the Librettis’ adoption of Baby O was delayed because
+the Ysleta del Sur Pueblo Tribe demanded that county officials
+exhaustively search for a placement with the Tribe first.”
+Reply Brief for Texas 24–25. Just as Congress cannot compel
+state officials to search databases to determine the lawfulness of
+gun sales, Printz, 521 U. S., at 902–904,
+petitioners argue, Congress cannot compel state officials to search
+for a federally preferred placement.
+
+															As an initial matter, this argument encounters
+the same problem that plagues petitioners with respect to
+§1912: Petitioners have not shown that the “diligent
+search” requirement, which applies to both private and public
+parties, demands the use of state sovereign authority. But this
+argument fails for another reason too: Section 1915 does not
+require anyone, much less the States, to search for
+alternative placements. As the United States emphasizes,
+petitioners’ interpretation “cannot be squared with
+this Court’s decision in Adoptive Couple,” which
+held that “ ‘there simply is no
+“preference” to apply if no alternative party that is
+eligible to be preferred . . . has come
+forward.’ ” Brief for Federal Parties 44 (quoting
+570 U. S., at 654); Adoptive Couple, 570 U. S., at
+654 (“§1915(a)’s preferences are inapplicable in
+cases where no alternative party has formally sought to adopt the
+child”). Instead, the burden is on the tribe or other
+objecting party to produce a higher-ranked placement. Ibid.
+So, as it stands, petitioners assert an anticommandeering challenge
+to a provision that does not command state agencies to do
+anything.
+
+															State courts are a different matter. ICWA
+indisputably requires them to apply the placement preferences in
+making custody determinations. §§1915(a), (b).
+Petitioners argue that this too violates the anticommandeering
+doctrine. To be sure, they recognize that Congress can require
+state courts, unlike state executives and legislatures, to enforce
+federal law. See New York v. United States, 505 U.S.
+144, 178–179 (1992) (“Federal statutes enforceable
+in state courts do, in a sense, direct state judges to enforce
+them, but this sort of federal ‘direction’ of state
+judges is mandated by the text of the Supremacy Clause”). But
+they draw a distinction between requiring state courts to entertain
+federal causes of action and requiring them to apply federal law to
+state causes of action. They claim that if state law provides the
+cause of action—as Texas law does here—then the State
+gets to call the shots, unhindered by any federal instruction to
+the contrary. Brief for Individual Petitioners 62–63,
+66–67.
+
+															This argument runs headlong into the
+Constitution. The Supremacy Clause provides that “the Laws of
+the United States . . . shall be the supreme Law of the
+Land; and the Judges in every State shall be bound thereby, any
+Thing in the Constitution or Laws of any state to the Contrary
+notwithstanding.” Art. VI, cl. 2. Thus, when Congress
+enacts a valid statute pursuant to its Article I powers,
+“state law is naturally preempted to the extent of any
+conflict with a federal statute.” Crosby v.
+National Foreign Trade Council, 530
+U.S. 363, 372 (2000). End of story. That a federal law modifies
+a state law cause of action does not limit its preemptive effect.
+See, e.g., Hillman, 569 U. S., at 493–494
+(federal law establishing an “ ‘order of
+precedence’ ” for beneficiaries of life insurance
+preempted state law); Egelhoff v. Egelhoff, 532 U.S.
+141, 151–152 (2001) (Employee Retirement Income Security
+Act preempted state law regarding the economic consequences of
+divorce); Wissner v. Wissner, 338
+U.S. 655, 660–661 (1950) (federal military benefits law
+preempted state community-property rules).
+
+															C
+
+															Finally, we turn to ICWA’s recordkeeping
+provisions. Section 1951(a) requires courts to provide the
+Secretary of the Interior with a copy of the final order in the
+adoptive placement of any Indian child. The court must also provide
+“other information as may be necessary to show” the
+child’s name and tribal affiliation, the names and addresses
+of the biological parents and adoptive parents, and the identity of
+any agency with information about the adoptive placement. Section
+1915(e) requires the State to “maintai[n]” a record
+“evidencing the efforts to comply with the order of
+preference” specified by ICWA. The record “shall be
+made available at any time upon the request of the Secretary or the
+Indian child’s tribe.” Petitioners argue that Congress
+cannot conscript the States into federal service by assigning them
+recordkeeping tasks.[7]
+
+															The anticommandeering doctrine applies
+“distinctively” to a state court’s adjudicative
+responsibilities. Printz, 521 U. S., at 907. As we just
+explained, this distinction is evident in the Supremacy Clause,
+which refers specifically to state judges. Art. VI, cl. 2.
+From the beginning, the text manifested in practice: As originally
+understood, the Constitution allowed Congress to require
+“state judges to enforce federal prescriptions, insofar as
+those prescriptions related to matters appropriate for the judicial
+power.” Printz, 521 U. S., at 907 (emphasis
+deleted). In Printz, we indicated that this principle may
+extend to tasks that are “ancillary” to a
+“quintessentially adjudicative task”—such as
+“recording, registering, and certifying” documents.
+Id., at 908, n. 2.
+
+															Petitioners reject Printz’s
+observation, insisting that there is a distinction between rules of
+decision (which state courts must follow) and recordkeeping
+requirements (which they can ignore). But Printz described
+numerous historical examples of Congress imposing recordkeeping and
+reporting requirements on state courts. The early Congresses passed
+laws directing state courts to perform certain tasks fairly
+described as “ancillary” to the courts’
+adjudicative duties. For example, state courts were required to
+process and record applications for United States citizenship. Act
+of Mar. 26, 1790, ch. 3, §1, 1Stat. 103–104. The clerk
+(or other court official) was required “to certify and
+transmit” the application to the Secretary of State, along
+with information about “the name, age, nation, residence and
+occupation, for the time being, of the alien.” Act of June
+18, 1798, §2, 1Stat. 567. The clerk also had to register
+aliens seeking naturalization and issue certificates confirming the
+court’s receipt of the alien’s request for
+registration. Act of Apr. 14, 1802, §2, 2Stat. 155.[8]
+
+															Federal law imposed other duties on state courts
+unrelated to immigration and naturalization. The Judiciary Act of
+1789, which authorized “any justice of the peace, or other
+magistrate of any of the United States” to arrest and
+imprison federal offenders, required the judge to set bail at the
+defendant’s request. §33, 1Stat. 91. Congress also
+required state courts to administer oaths to prisoners, to issue
+certificates authorizing the apprehension of fugitives, and to
+collect proof of the claims of Canadian refugees who had aided the
+United States in the Revolutionary War. Act of May 5, 1792, ch. 29,
+§2, 1Stat. 266 (“any person imprisoned . . .
+may have the oath or affirmation herein after expressed
+administered to him by any judge of the United States, or of the
+general or supreme court of law of the state in which the debtor is
+imprisoned”); Act of Feb. 12, 1793, ch. 7, §1, 1Stat.
+302 (“governor or chief magistrate of the state or
+territory” shall “certif[y] as authentic” an
+indictment or affidavit charging a “fugitive from
+justice”); Act of Apr. 7, 1798, §3, 1Stat. 548
+(“proof of the several circumstances necessary to entitle the
+applicants to the benefits of this act, may be taken before
+. . . a judge of the supreme or superior court, or the
+first justice or first judge of the court of common pleas or
+country court of any state”).
+
+															There is more. Shortly after ratification,
+Congress passed a detailed statute that required state-court judges
+to gather and certify reports. Act of July 20, 1790, §3,
+1Stat. 132. The Act authorized commanders of ships to request
+examinations of their vessels from any “justice of the peace
+of the city, town or place.” Ibid. The judge would
+order three qualified people to prepare a report on the
+vessel’s condition, which the judge would review and
+“endorse.” Ibid. Then, the judge was required to
+issue an order regarding “whether the said ship or vessel is
+fit to proceed on the intended voyage; and if not, whether such
+repairs can be made or deficiencies supplied where the ship or
+vessel then lays.” Ibid.
+
+															These early congressional enactments
+“provid[e] ‘contemporaneous and weighty evidence’
+of the Constitution’s meaning.” Bowsher v.
+Synar, 478 U.S.
+714, 723 (1986). Collectively, they demonstrate that the
+Constitution does not prohibit the Federal Government from imposing
+adjudicative tasks on state courts. This makes sense against the
+backdrop of the Madisonian Compromise: Since Article III
+established only the Supreme Court and made inferior federal courts
+optional, Congress could have relied almost entirely on state
+courts to apply federal law. Printz, 521 U. S., at 907.
+Had Congress taken that course, it would have had to rely on state
+courts to perform adjudication-adjacent tasks too.
+
+															We now confirm what we suggested in
+Printz: Congress may impose ancillary recordkeeping
+requirements related to state-court proceedings without violating
+the Tenth Amendment. Such requirements do not offload the Federal
+Government’s responsibilities onto the States, nor do they
+put state legislatures and executives “under the direct
+control of Congress.” Murphy, 584 U. S., at ___
+(slip op., at 18). Rather, they are a logical consequence of our
+system of “dual sovereignty” in which state courts are
+required to apply federal law. See Gregory v.
+Ashcroft, 501 U.S.
+452, 457 (1991).
+
+															Here, ICWA’s recordkeeping requirements
+are comparable in kind and in degree to the historical examples.
+Like the naturalization laws, §1951(a) requires the state
+court to transmit to the Secretary a copy of a court order along
+with basic demographic information. Section 1915(e) likewise
+requires the State to record a limited amount of
+information—the efforts made to comply with the placement
+preferences—and provide the information to the Secretary and
+to the child’s tribe. These duties are
+“ancillary” to the state court’s obligation to
+conduct child custody proceedings in compliance with ICWA.
+Printz, 521 U. S., at 908, n. 2. Thus,
+ICWA’s recordkeeping requirements are consistent with the
+Tenth Amendment.
+
+															IV
+
+															Petitioners raise two additional claims: an
+equal protection challenge to ICWA’s placement preferences
+and a nondelegation challenge to the provision allowing tribes to
+alter the placement preferences. We do not reach the merits of
+these claims because no party before the Court has standing to
+raise them. Article III requires a plaintiff to show that she has
+suffered an injury in fact that is “ ‘fairly
+traceable to the defendant’s allegedly unlawful conduct and
+likely to be redressed by the requested relief.’ ”
+California v. Texas, 593 U. S. ___, ___ (2021)
+(slip op., at 4). Neither the individual petitioners nor Texas can
+pass that test.
+
+															A
+
+															The individual petitioners argue that ICWA
+injures them by placing them on “[un]equal footing”
+with Indian parents who seek to adopt or foster an Indian child.
+Northeastern Fla. Chapter, Associated Gen. Contractors of
+America v. Jacksonville, 508 U.S.
+656, 666 (1993). Under ICWA’s hierarchy of preferences,
+non-Indian parents are generally last in line for potential
+placements. According to petitioners, this “erects a barrier
+that makes it more difficult for members of one group to obtain a
+benefit than it is for members of another group.”
+Ibid.; see also Turner v. Fouche, 396 U.S.
+346, 362 (1970) (the Equal Protection Clause secures the right
+of individuals “to be considered” for government
+positions and benefits “without the burden of invidiously
+discriminatory disqualifications”). The racial discrimination
+they allege counts as an Article III injury.[9]
+
+															But the individual petitioners have not shown
+that this injury is “likely” to be “redressed by
+judicial relief.” TransUnion LLC v.
+Ramirez, 594 U. S. ___, ___ (2021) (slip op., at 7).
+They seek an injunction preventing the federal parties from
+enforcing ICWA and a declaratory judgment that the challenged
+provisions are unconstitutional. Yet enjoining the federal parties
+would not remedy the alleged injury, because state courts apply the
+placement preferences, and state agencies carry out the
+court-ordered placements. §§1903(1), 1915(a), (b); see
+also Brief for Individual Petitioners 63 (“There is no
+federal official who administers ICWA or carries out its
+mandates”). The state officials who implement ICWA are
+“not parties to the suit, and there is no reason they should
+be obliged to honor an incidental legal determination the suit
+produced.” Lujan v. Defenders of Wildlife,
+504 U.S.
+555, 569 (1992) (plurality opinion). So an injunction would not
+give petitioners legally enforceable protection from the allegedly
+imminent harm.
+
+															Petitioners’ request for a declaratory
+judgment suffers from the same flaw. See Skelly Oil Co. v.
+Phillips Petroleum Co., 339 U.S.
+667, 671–672 (1950). This form of relief conclusively
+resolves “ ‘the legal rights of the
+parties.’ ” Medtronic, Inc. v.
+Mirowski Family Ventures, LLC, 571 U.S.
+191, 200 (2014) (emphasis added). But again, state officials
+are nonparties who would not be bound by the judgment.
+Taylor v. Sturgell, 553 U.S.
+880, 892–893 (2008). Thus, the equal protection issue
+would not be settled between petitioners and the officials who
+matter—which would leave the declaratory judgment powerless
+to remedy the alleged harm. 994 F. 3d, at 448 (Costa, J.,
+concurring in part and dissenting in part) (“What saves
+proper declaratory judgments from a redressability
+problem—but is lacking here—is that they have
+preclusive effect on a traditional lawsuit that is
+imminent”). After all, the point of a declaratory judgment
+“is to establish a binding adjudication that enables the
+parties to enjoy the benefits of reliance and repose secured by res
+judicata.” 18A C. Wright, A. Miller, & E. Cooper, Federal
+Practice and Procedure §4446 (3d ed. Supp. 2022). Without
+preclusive effect, a declaratory judgment is little more than an
+advisory opinion. Ibid.; see Public Serv. Comm’n of
+Utah v. Wycoff Co., 344 U.S.
+237, 242–243 (1952).
+
+															The individual petitioners do not
+dispute—or even address—any of this. Instead, they
+insist that state courts are likely to defer to a federal
+court’s interpretation of federal law, thus giving rise to a
+substantial likelihood that a favorable judgment will redress their
+injury. Brief in Opposition for Individual Respondents 19–20;
+Reply Brief for Individual Petitioners 29. They point out that, in
+the Brackeens’ ongoing efforts to adopt Y. R. J.,
+the trial court stated that it would follow the federal
+court’s ruling on the Brackeens’ constitutional claims.
+Ibid. Thus, they reason, winning this case would solve their
+problems.
+
+															But “[r]edressability requires that the
+court be able to afford relief through the exercise of its
+power, not through the persuasive or even awe-inspiring effect
+of the opinion explaining the exercise of its power.”
+Franklin v. Massachusetts, 505
+U.S. 788, 825 (1992) (Scalia, J., concurring in part and
+concurring in judgment) (emphasis in original); see also United
+States v. Juvenile Male, 564 U.S.
+932, 937 (2011) (per curiam) (a judgment’s
+“possible, indirect benefit in a future lawsuit” does
+not preserve standing). Otherwise, redressability would be
+satisfied whenever a decision might persuade actors who are not
+before the court—contrary to Article III’s strict
+prohibition on “issuing advisory opinions.”
+Carney v. Adams, 592 U. S. ___, ___ (2020) (slip
+op., at 4). It is a federal court’s judgment, not its
+opinion, that remedies an injury; thus it is the judgment, not the
+opinion, that demonstrates redressability. The individual
+petitioners can hope for nothing more than an opinion, so they
+cannot satisfy Article III.[10]
+
+															B
+
+															Texas also lacks standing to challenge the
+placement preferences. It has no equal protection rights of its
+own, South Carolina v. Katzenbach, 383 U.S.
+301, 323 (1966), and it cannot assert equal protection claims
+on behalf of its citizens because “[a] State does not have
+standing as parens patriae to bring an action against the
+Federal Government,” Alfred L. Snapp & Son,
+Inc. v. Puerto Rico ex rel. Barez, 458 U.S.
+592, 610, n. 16 (1982).[11] That should make the issue open and shut.
+
+															Yet Texas advances a few creative arguments for
+why it has standing despite these settled rules. It leads with what
+one might call an “unclean hands” injury: ICWA
+“injures Texas by requiring it to break its promise to its
+citizens that it will be colorblind in child-custody
+proceedings.” Reply Brief for Texas 15; id., at 14
+(“ICWA forces Texas to violate its own constitutional
+obligations”). This is not the kind of “concrete”
+and “particularized” “invasion of a legally
+protected interest” necessary to demonstrate an
+“ ‘injury in fact.’ ”
+Lujan, 504 U. S., at 560. Were it otherwise, a State
+would always have standing to bring constitutional challenges when
+it is complicit in enforcing federal law. Texas tries to finesse
+this problem by characterizing ICWA as a “fiscal trap,”
+forcing it to discriminate against its citizens or lose federal
+funds. Brief for Petitioner Texas 39–40. But ICWA is not a
+Spending Clause statute—Texas bases this argument on a vague
+reference to a different Spending Clause statute that it
+does not challenge. And Texas has not established that those funds,
+which the State has accepted for years, are conditioned on
+compliance with the placement preferences anyway. See 42
+U. S. C. §622; Brief for Federal Parties 49,
+n. 6.
+
+															Texas also claims a direct pocketbook injury
+associated with the costs of keeping records, providing notice in
+involuntary proceedings, and producing expert testimony before
+moving a child to foster care or terminating parental rights. Reply
+Brief for Texas 13–14. But these alleged costs are not
+“fairly traceable” to the placement preferences, which
+“operate independently” of the provisions Texas
+identifies. California, 593 U. S., at ___ (slip op., at
+15). The provisions do not rise or fall together; proving that the
+placement preferences are unconstitutional “would not show
+that enforcement of any of these other provisions violates the
+Constitution.” Ibid. In other words, Texas would
+continue to incur the complained-of costs even if it were relieved
+of the duty to apply the placement preferences. The former, then,
+cannot justify a challenge to the latter.
+
+															Because Texas is not injured by the placement
+preferences, neither would it be injured by a tribal resolution
+that altered those preferences pursuant to §1915(c). Texas
+therefore does not have standing to bring either its equal
+protection or its nondelegation claims.[12]
+
+															*  *  *
+
+															For these reasons, we affirm the judgment of
+the Court of Appeals regarding Congress’s constitutional
+authority to enact ICWA. On the anticommandeering claims, we
+reverse. On the equal protection and nondelegation claims, we
+vacate the judgment of the Court of Appeals and remand with
+instructions to dismiss for lack of jurisdiction.
+
+															
+
+															It is so ordered.
+
+Notes
+1
+ Petitioners raised
+several other challenges that are not before this Court, including
+that ICWA’s implementing regulations are arbitrary and
+capricious in violation of the Administrative Procedure
+Act.
+2
+ Hernandez and the
+families, the State of Texas, the federal parties, and the Tribes
+all filed cross-petitions for certiorari. After the cases were
+consolidated, Hernandez, the families, and Texas proceeded as
+petitioners before this Court, and the federal parties and the
+Tribes proceeded as respondents.
+3
+ Justice Alito’s
+dissent criticizes the Court for “violating one of the most
+basic laws of logic” with our conclusion that
+“Congress’s power over Indian affairs is
+‘plenary’ but not ‘absolute.’ ”
+Post, at 3–4. Yet the dissent goes on to make that
+very same observation. Post, at 4 (“[E]ven so-called
+plenary powers cannot override foundational constitutional
+constraints”).
+4
+ Texas floated a theory
+for the first time at oral argument. It saidthat, taken together,
+our plenary power cases fall into three buckets: (1) those allowing
+Congress to legislate pursuant to an enumerated power, such as the
+Indian Commerce Clause or the Treaty Clause; (2) those allowing
+Congress to regulate the tribes as government entities; and (3)
+those allowing Congress to enact legislation that applies to
+federal or tribal land. Tr. of Oral Arg. 55. According to Texas,
+ICWA is unconstitutional because it does not fall within any of
+these categories. We have never broken down our cases this way. But
+even if Texas’s theory is descriptively accurate, Texas
+offers no explanation for why Congress’s power is
+limited to these categories.
+5
+ All petitioners argue
+that these provisions violate the anticommandeering principle.
+Since Texas has standing to raise these claims, we need not address
+whether the individual petitioners also have standing to do
+so.
+6
+ To bolster their claim
+that the “active efforts” requirement is aimed at the
+States, petitioners point to a statement from the Department of the
+Interior asserting that the reference to “active
+efforts” reflects Congress’s intent “to require
+States to affirmatively provide Indian families with
+substantive services and not merely make the services
+available.” 81 Fed. Reg. 38791 (emphasis added). This
+statement does not move the needle. Neither §1912(d) nor the
+regulations limit themselves to States; moreover, the regulations
+plainly contemplate that services will come from private
+organizations as well as the government. 25 CFR §23.102
+(“Agency means a nonprofit, for-profit, or governmental
+organization . . . that performs, or provides services to
+biological parents, foster parents, or adoptive parents to assist
+in the administrative and social work necessary for foster,
+preadoptive, or adoptive placements”). The Department’s
+statement is thus consistent with the plain language of §1912,
+which applies to both private and state actors.
+7
+ Though §1915(e) does
+not specify that the records be retained by state courts, as
+opposed to state agencies, context makes clear that a “record
+of each such placement” refers to the state court’s
+placement determination. See Mississippi Band of Choctaw
+Indians v. Holyfield, 490 U.S.
+30, 40, n. 13 (1989). True, the provision leaves it up to
+the State whether to keep the records with a court or agency. See
+25 CFR §23.141(c) (“The State court or agency should
+notify the BIA whether these records are maintained within the
+court system or by a State agency”). But allowingthe State to
+make that choice does not transform the documents into something
+other than a court record.
+8
+ Printz noted
+uncertainty about whether the naturalization laws applied only to
+States that voluntarily “authorized their courts to conduct
+naturalization proceedings.” 521 U. S., at
+905–906. But on their face, these statutes did not require
+state consent. See Act of Mar. 26, 1790, ch. 3, §1, 1Stat. 103
+(providing that an alien could apply for citizenship “to any
+common law court of record, in any one of the states wherein he
+shall have resided for the term of one year at least”); Act
+of Apr. 14, 1802, ch. 28, 2Stat. 153 (referring to “the
+supreme, superior, district or circuit court of some one of the
+states, or of the territorial districts of the United States, or a
+circuit or district court of the United States”). And as
+Printz recognized, this Court has never held that consent is
+required. 521 U. S., at 905–906; see Holmgren v.
+United States, 217 U.S.
+509, 517 (1910) (holding that Congress could empower state
+courts to conduct naturalization proceedings, but because
+California had already authorized jurisdiction, reserving the
+question whether its consent was necessary); but see United
+States v. Jones, 109 U.S.
+513, 520 (1883) (stating in dicta that the naturalization laws
+“could not be enforced” in state court “against
+the consent of the States”). In any event, while the
+naturalization laws are certainly not conclusive evidence, they are
+nonetheless relevant to discerning historical
+practice.
+9
+ Respondents raise other
+objections to the individual petitioners’ standing, including
+that the alleged injury is speculative because it depends on future
+proceedings to foster or adopt Indian children. Brief for Tribal
+Defendants 46–50; Brief for Federal Parties 49–52.
+Because we resolve the standing of all individual petitioners on
+the ground of redressability, we do not address respondents’
+other arguments.
+10  Of
+course, the individual petitioners can challenge ICWA’s
+constitutionality in state court, as the Brackeens have done in
+their adoption proceedings for Y. R. J. 994 F.3d 249, 294
+(2021) (principal opinion of Dennis, J.).
+11  Texas
+claims that it can assert third-party standing on behalf of
+non-Indian families. This argument is a thinly veiled attempt to
+circumvent the limits on parens patriae standing. The case
+on which Texas relies, Georgia v. McCollum, 505 U.S.
+42 (1992), allowed a State to representjurors struck on the
+basis of race, because (among other reasons) “[a]s the
+representative of all its citizens, the State is the logical and
+proper party to assert the invasion of the constitutional rights of
+the excluded jurors in a criminal trial.” Id., at 56.
+But McCollum was not a suit against the Federal Government;
+moreover, it involved a “concrete injury” to the State
+and “some hindrance to the third party’s ability to
+protect its own interests,” neither of which is present here.
+Id., at 55–56.
+12  Although the individual petitioners
+join Texas’s nondelegation challenge to §1915(c), they
+raise no independent arguments about why they would have standing
+to bring this claim. Brief for Individual Petitioners 41,
+n. 6; Brief for Federal Parties 79, n. 14.
+
+

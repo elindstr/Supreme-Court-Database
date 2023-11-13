@@ -1,0 +1,557 @@
+::SCDB_caseID:: 2017-003
+::decision_cite:: 15-1204
+::decision_name::  Jennings v. Rodriguez
+::decision_year:: 2018
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–1204
+
+															_________________
+
+															DAVID JENNINGS, et al., PETITIONERS v. ALEJANDRO RODRIGUEZ, et al., individ- ually and on behalf of all others similarly situated
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[February 27, 2018]
+
+															
+
+															Justice Breyer, with whom Justice Ginsburg and Justice Sotomayor join, dissenting.
+
+															This case focuses upon three groups of noncitizens held in confinement.  Each of these individuals believes he or she has the right to enter or to remain within the United States.  The question is whether several statutory provisions of the Immigration and Nationality Act,
+
+8 U. S. C. §1101 et seq., forbid granting them bail.
+
+															The noncitizens at issue are asylum seekers, persons who have finished serving a sentence of confinement (for a crime), or individuals who, while lacking a clear entitlement to enter the United States, claim to meet the criteria for admission, see infra, at 20, 25–26, 29–30.  The Government has held all the members of the groups before us in confinement for many months, sometimes for years, while it looks into or contests their claims.  But ultimately many members of these groups win their claims and the Government allows them to enter or to remain in the United States.  Does the statute require members of these groups to receive a bail hearing, after, say, six months of confinement, with the possibility of release on bail into the community provided that they do not pose a risk of flight or a threat to the community’s safety?
+
+															The Court reads the statute as forbidding bail, hence forbidding a bail hearing, for these individuals.  In my view, the majority’s interpretation of the statute would likely render the statute unconstitutional.  Thus, I would follow this Court’s longstanding practice of construing a statute “so as to avoid not only the conclusion that it is unconstitutional but also grave doubts upon that score.”  United States v. Jin Fuey Moy,
+
+241 U. S. 394,
+401 (1916)
+.  And I would interpret the statute as requiring bail hearings, presumptively after six months of confinement.  Cf. Zadvydas v. Davis,
+
+533 U. S. 678,
+701 (2001)
+.
+
+															I
+
+															The Respondents
+
+															Because of their importance to my conclusion, I shall repeat, with references to record support, the key characteristics of the groups of noncitizens who appear before us.
+
+															First, as I have said, the respondents in this case are members of three special classes of noncitizens, the most important of whom (1) arrive at our borders seeking asylum or (2) have committed crimes but have finished serving their sentences of imprisonment.  We also consider those who (3) arrive at our borders believing they are entitled to enter the United States for reasons other than asylum seeking, but lack a clear entitlement to enter.
+
+															Second, all members of the first group, the asylum seekers, have been found (by an immigration official) to have a “credible fear of persecution” in their home coun-try should the United States deny them admittance.
+
+8 U. S. C. §1225(b)(1)(B)(ii).  All members of the second group have, as I have said, finished serving their criminal sentences of confinement.  §1226(c)(1).  All members of the third group may have (or may simply believe they have) a strong claim for admittance, but they are neither “clearly and beyond a doubt entitled to be admitted” nor conclusively determined to be inadmissible by an immigration officer on grounds of fraud or lack of required documentation.  §1225(b)(2)(A); see §§1225(b)(1)(A)(i), 1182(a)(6)(C), (a)(7).
+
+															Third, members of the first two classes number in the thousands.  See Brief for 46 Social Science Researchers and Professors as Amici Curiae 6, 8 (identifying, in 2015, 7,500 asylum seekers and 12,220 noncitizens who have finished serving sentences of criminal confinement, a portion of whom are class members detained for more than six months).
+
+															Fourth, detention is often lengthy.  The classes before us consist of people who were detained for at least six months and on average one year.  App. 92, 97.  The record shows that the Government detained some asylum seekers for 831 days (nearly 2½ years), 512 days, 456 days, 421 days, 354 days, 319 days, 318 days, and 274 days—before they won their cases and received asylum.  Id., at 97, 228–236.  It also shows that the Government detained one noncitizen for nearly four years after he had finished serving a criminal sentence, and the Government detained other members of this class for 608 days, 561 days, 446 days, 438 days, 387 days, and 305 days—all before they won their cases and received relief from removal.  Id., at 92, 213–220.
+
+															Fifth, many of those whom the Government detains eventually obtain the relief they seek.  Two-thirds of the asylum seekers eventually receive asylum.  Id., at 98 (Table 28); id., at 135 (Table 38); App. to Pet. for Cert. 40a.  Nearly 40% of those who have served criminal sentences receive relief from removal, because, for example, their earlier conviction involved only a short sentence.  See App. 95 (Table 23); id., at 135 (Table 38).  See also App. to Pet. for Cert. 34a; App. 210, 216–217, 312–313 (between one-half and two-thirds of the class served sentences less than six months, e.g., a 2-month sentence for being under the influence of a controlled substance, or an 8-day jail term for a minor firearms offense).
+
+															Sixth, these very asylum seekers would have received bail hearings had they first been taken into custody within the United States rather than at the border.  See In re X-K-, 23 I. & N. Dec. 731, 734–735 (BIA 2005);
+
+8 U. S. C. §1226(a).
+
+															Seventh, as for those who have finished serving their sentences (for crimes), some of those who are less dangerous would (on the majority’s view) be held without bail the longest, because their claims will take longer to adjudicate.  Moreover, those noncitizens would have no opportunity to obtain bail while they pursue their claims, but if they lose their claims, the Government must release them, typically within six months, if the Government can find no other country willing to take them.  See Zadvydas, supra, at 701.
+
+															Eighth, all the respondents are held in detention within the geographical boundaries of the United States, either in facilities controlled by United States Immigration and Customs Enforcement (ICE) or in state or local jails that hold them on ICE’s behalf.  App. 302–304; see ICE, Detention Facility Locator, online at http://www.ice.gov/ detention-facilities (all Internet materials as last visited Feb. 21, 2018).
+
+															Ninth, the circumstances of their detention are similar, so far as we can tell, to those in many prisons and jails.  And in some cases the conditions of their confinement are inappropriately poor.  See Dept. of Homeland Security (DHS), Office of Inspector General (OIG), DHS OIG Inspection Cites Concerns With Detainee Treatment and Care at ICE Detention Facilities (2017) (reporting instances of invasive procedures, substandard care, and mistreatment, e.g., indiscriminate strip searches, long waits for medical care and hygiene products, and, in the case of one detainee, a multiday lock down for sharing a cup of coffee with another detainee).
+
+															These record-based facts make evident what I said at the outset: The case concerns persons whom immigration authorities believe are not citizens and may not have a right to enter into, or remain within, the United States.  Nonetheless they likely have a reasonable claim that they do have such a right.  The Government detains them, often for many months while it determines the merits of, or contests, their claims.  To repeat the question before us: Does the statute entitle an individual member of one of these classes to obtain, say, after six months of detention, a bail hearing to decide whether he or she poses a risk of flight or danger to the community and, if not, to receive bail?
+
+															II
+
+															The Constitutional Question
+
+															The majority reads the relevant statute as prohibiting bail and hence prohibiting a bail hearing.  In my view, the relevant constitutional language, purposes, history, tradition, and case law all make clear that the majority’s interpretation at the very least would raise “grave doubts” about the statute’s constitutionality.  See Jin Fuey Moy, 241 U. S., at 401.
+
+															A
+
+															Consider the relevant constitutional language and the values that language protects.  The
+ 
+Fifth Amendment says that “[n]o person shall be . . . deprived of life, liberty, or property without due process of law.”  An alien is a “person.”  See Wong Wing v. United States,
+
+163 U. S. 228
+–238 (1896).  To hold him without bail is to deprive him of bodily “liberty.”  See United States v. Salerno,
+
+481 U. S. 739
+–751 (1987).  And, where there is no bail proceeding, there has been no bail-related “process” at all.  The Due Process Clause—itself reflecting the language of the Magna Carta—prevents arbitrary detention.  Indeed, “[f]reedom from bodily restraint has always been at the core of the liberty protected by the Due Process Clause from arbitrary governmental action.”  Foucha v. Louisiana,
+
+504 U. S. 71,
+80 (1992)
+; see also Demore v. Kim,
+
+538 U. S. 510,
+532 (2003)
+ (Kennedy, J., concurring); Zadvydas, 533 U. S., at 718 (Kennedy, J., dissenting).
+
+															The Due Process Clause foresees eligibility for bail as part of “due process.”  See Salerno, supra, at 748–751; Schilb v. Kuebel,
+
+404 U. S. 357,
+365 (1971)
+; Stack v. Boyle,
+
+342 U. S. 1,
+4 (1951)
+.  Bail is “basic to our system of law.”  Schilb, supra, at 365.  It not only “permits the unhampered preparation of a defense,” but also “prevent[s] the infliction of punishment prior to conviction.”  Stack, supra, at 4.  It consequently limits the Government’s ability to deprive a person of his physical liberty where doing so is not needed to protect the public, see Salerno, supra, at 750–751, or to assure his appearance at, say, a trial or the equivalent, see Stack, supra, at 4–5.  Why would this constitutional language and its bail-related purposes not apply to members of the classes of detained persons at issue here?
+
+															The
+ 
+Eighth Amendment reinforces the view that the
+ 
+Fifth Amendment’s Due Process Clause does apply.  The
+ 
+Eighth Amendment forbids “[e]xcessive bail.”  It does so in order to prevent bail being set so high that the level itself (rather than the reasons that might properly forbid release on bail) prevents provisional release.  See Carlson v. Landon,
+
+342 U. S. 524,
+545 (1952)
+ (explaining that the English clause from which the
+ 
+Eighth Amendment was copied was understood “to provide that bail shall not be excessive in those cases where it is proper to grant bail”).  That rationale applies a fortiori to a refusal to hold any bail hearing at all.  Thus, it is not surprising that this Court has held that both the
+ 
+Fifth Amendment’s Due Process Clause and the
+ 
+Eighth Amendment’s Excessive Bail Clause apply in cases challenging bail procedures.  See, e.g., Salerno, supra, at 746–755; Carlson, supra, at 537–546.
+
+															It is clear that the
+ 
+Fifth Amendment’s protections extend to “all persons within the territory of the United States.” Wong Wing, supra, at 238.  But the Government suggests that those protections do not apply to asylum seekers or other arriving aliens because the law treats arriving aliens as if they had never entered the United States; hence they are not held within its territory.
+
+															This last-mentioned statement is, of course, false.  All of these noncitizens are held within the territory of the United States at an immigration detention facility.  Those who enter at JFK airport are held in immigration detention facilities in, e.g., New York; those who arrive in El Paso are held in, e.g., Texas.  At most one might say that they are “constructively” held outside the United States: the word “constructive” signaling that we indulge in a “legal fiction,” shutting our eyes to the truth.  But once we admit to uttering a legal fiction, we highlight, we do not answer, the relevant question: Why should we engage in this legal fiction here?
+
+															The legal answer to this question is clear.  We cannot here engage in this legal fiction.  No one can claim, nor since the time of slavery has anyone to my knowledge successfully claimed, that persons held within the United States are totally without constitutional protection.  Whatever the fiction, would the Constitution leave the Government free to starve, beat, or lash those held within our boundaries?  If not, then, whatever the fiction, how can the Constitution authorize the Government to imprison arbitrarily those who, whatever we might pretend, are in reality right here in the United States?  The answer is that the Constitution does not authorize arbitrary detention.  And the reason that is so is simple: Freedom from arbitrary detention is as ancient and important a right as any found within the Constitution’s boundaries.  See Zadvydas, supra, at 720–721 (Kennedy, J., dissenting) (“inadmissible aliens” who are “stopped at the border” are “entitled to be free from detention that is arbitrary or capricious”).
+
+															B
+
+															The Due Process Clause, among other things, protects “those settled usages and modes of proceeding existing in the common and statute law of England, before the emigration of our ancestors,” and which were brought by them to this country.  Murray’s Lessee v. Hoboken Land & Improvement Co., 18 How. 272, 277 (1856).  A brief look at Blackstone makes clear that at the time of the American Revolution the right to bail was “settled”—in both civil and criminal cases.
+
+															Blackstone tells us that every prisoner (except for a convict serving his sentence) was entitled to seek release on bail.  4 Commentaries on the Laws of England 296–297 (1769).  This right applied in every criminal case.  Ibid.  A noncapital defendant could seek bail from a local magistrate; a capital defendant could seek bail at a hearing before the Court of King’s Bench.  See ibid.  Although a capital defendant had no right to obtain bail, he could always seek it, because “the court of king’s bench . . . may bail for any crime whatsoever, be it treason, murder, or any other offense, according to the circumstances of the case.”  Id., at 296.  And although King Charles I initially claimed the right to hold a prisoner without bail on secret national security grounds, see Darnel’s Case, 3 How. St. Tr. 1 (K. B. 1627), Parliament responded by extracting from the King (via the 1628 Petition of Right) a promise to cease such detention.  See 2 W. Hawkins, A Treatise of the Pleas of the Crown 107–110 (4th ed. 1771).  From then on, bail was available even when a prisoner was held on the personal command of the King.  Ibid.  That is why Blackstone says that the King’s Bench or its judges “may bail in any Case whatsoever,” 4 Analysis of the Laws of England 148 (6th ed. 1771), indeed, in civil cases too, for in Blackstone’s time some private civil cases might have begun with an arrest.  See 3 Blackstone, Commentaries 290 (1768).  And bail was likewise an alternative to detention where a judgment debtor was unable to pay a civil judgment in the era of debtor’s prison.  See, e.g., Beers v. Haughton, 9 Pet. 329, 356 (1835) (explaining that under Ohio law, “if a defendant, upon a [writ of] capias, does not give sufficient appearance bail, he shall be committed to prison”); Hamilton v. Dunklee, 1 N. H. 172 (1818).
+
+															American history makes clear that the settlers brought this practice with them to America.  The Judiciary Act of 1789 conferred rights to bail proceedings in all federal criminal cases.  §33,
+
+1Stat.
+91.  It said that for a noncapital defendant “bail shall be admitted” and for a capital defendant bail may be admitted in the discretion of a district judge, a circuit judge, or a Justice of the Supreme Court, taking account of “the offence, and of the evidence, and the usages of law.”  Ibid.  Congress enacted this law during its debate over the Bill of Rights, which it subsequently sent to the States for ratification.  See 1 Annals of Cong. 90 (1789); see also Martin v. Hunter’s Lessee, 1 Wheat. 304, 351 (1816) (Members of the First Congress were “men of great learning and ability, . . . who had acted a principal part in framing, supporting, or opposing” the Constitution itself).  Colonial law had been similarly, or in some instances even more, protective.  See Foote, The Coming Constitutional Crisis in Bail: I, 113 U. Pa. L. Rev. 959, 974–977 (1965).
+
+															Similar laws have consistently remained part of our legal tradition.  In all federal criminal cases federal Acts have provided for bail proceedings.  Bail Reform Act of 1984,
+
+18 U. S. C. §3141 et seq.; Bail Reform Act of 1966,
+
+18 U. S. C. §3146 et seq. (1964 ed., Supp. II).  Every State has similar or more generous laws.  See Appendix B, infra.
+
+															Standards for granting bail have changed somewhat over time.  Initially the sole factor determining the outcome of a bail proceeding was risk of flight.  See Stack, 342 U. S., at 4–5 (interpreting the 1789 bail law, applied to a noncapital defendant and in light of the
+ 
+Eighth Amendment, to require bail no higher than required to provide “adequate assurance” that the defendant “will stand trial and submit to sentence if found guilty,” “based upon standards relevant to the purpose of assuring the presence of that defendant”).
+
+															Congress gradually added community safety as a bail factor.  In 1966, Congress provided that for capital defendants and convicted defendants pursuing appeals, bail would be granted unless the appeal was frivolous or a court had “reason to believe that no one or more conditions of release will reasonably assure that the person will not flee or pose a danger to any other person or to the community.”  Bail Reform Act of 1966 §3148.  In 1984, Congress modified the bail standard for noncapital defendants by adding concern for community safety.  §3142(e)(1).  This Court, applying the Due Process Clause and the Excessive Bail Clause to these changes, found that the 1984 Act passed constitutional muster.  See Salerno, 481 U. S., at 746–755.  Again, the States typically apply roughly similar or more generous standards.  See Appendix B, infra.
+
+															The cases before us, however, are not criminal cases.  Does that fact make a difference?  The problem is that there are not many instances of civil confinement (aside from immigration detention, which I address below).  Mental illness does sometimes provide an example.  Individuals dangerous to themselves or to others may be confined involuntarily to a mental hospital.  See, e.g., United States v. Comstock,
+
+560 U. S. 126 (2010)
+; Kansas v. Hendricks,
+
+521 U. S. 346 (1997)
+.  Those persons normally do not have what we would call “a right to a bail hearing.”  But they do possess equivalent rights: They have the right to a hearing prior to confinement and the right to review of the circumstances at least annually.  See Comstock, supra, at 130–131 (initial hearing followed by review every six months); Hendricks, supra, at 353 (initial hearing followed by yearly review).  And the mentally ill persons detained under these schemes are being detained because they are dangerous.  That being so, there would be no point in providing a bail hearing as well.  See Salerno, supra, at 748–749 (analogizing denial of bail to dangerous individuals to the civil commitment of the mentally ill).  But there is every reason for providing a bail proceeding to the noncitizens at issue here, because they have received no individualized determination that they pose a risk of flight or present a danger to others, nor is there any evidence that most or all of them do.
+
+															This Court has also protected the right to a bail hearing during extradition proceedings.  Wright v. Henkel,
+
+190 U. S. 40 (1903)
+, concerned the arrest and confinement of Whitaker Wright, an American citizen, pending extradition for a crime that Wright was accused of having committed in Great Britain. Wright sought bail.  Id., at 43.  Since the federal bail laws applied only to those charged with committing crimes against the United States, they did not cover Wright’s confinement.  Id., at 61–62.  The relevant extradition statute said nothing about bail.  Id., at 62.  Its language (stronger than the language at issue here) said that the individual was “to remain” in “the proper jail” until the “surrender shall be made” to the nation seeking extradition; and it added that he was “to remain” in custody “until delivered up”—though after two months he could seek release.  Rev. Stat. §§5270, 5273.
+
+															In an opinion by Chief Justice Fuller, this Court unanimously wrote that, despite the lack of express statutory authorization and the risk of “embarrassment” to the United States if Wright fled, Wright could seek release on bail prior to the expiration of the 2-month period.  Wright, 190 U. S., at 62–63.  Given the universal entitlement to bail under English law, the Court was “unwilling to hold that . . . courts may not in any case, and whatever the special circumstances, extend that relief” to prisoners awaiting extradition.  Id., at 63.  It consequently read a silent statute as authorizing bail proceedings (though the Court went on to hold that, under applicable standards, Wright’s request for bail should be denied).  Ibid.
+
+															The strongest basis for reading the Constitution’s bail requirements as extending to these civil, as well as criminal, cases, however, lies in the simple fact that the law treats like cases alike.  And reason tells us that the civil confinement at issue here and the pretrial criminal confinement that calls for bail are in every relevant sense identical.  There is no difference in respect to the fact of confinement itself.  And I can find no relevant difference in respect to bail-related purposes.
+
+															Which class of persons—criminal defendants or asylum seekers—seems more likely to have acted in a manner that typically warrants confinement?  A person charged with a crime cannot be confined at all without a finding of probable cause that he or she committed the crime.  And the majority of criminal defendants lose their cases.  See Dept. of Justice, Bureau of Justice Statistics, B. Reaves, Felony Defendants in Large Urban Counties, 2009–Statistical Tables, p. 24 (Dec. 2013) (reporting that 66% of felony defendants were convicted).  A high percentage of the noncitizens before us, however, ultimately win the right they seek, the right to be in the United States.
+
+															Nor am I aware of any evidence indicating that the noncitizens seeking to enter, or to remain within, the United States are more likely than criminal defendants to threaten the safety of the community if released.  In any event, this is a matter to be determined, case by case, at bail hearings.
+
+															Which group is more likely to present a risk of flight? Again, I can find no evidence suggesting that asylum seekers or other noncitizens generally present a greater risk of flight than persons imprisoned for trial where there is probable cause to believe that the confined person has committed a crime.  In any event, this matter too is to be determined, case by case, at bail hearings.
+
+															If there is no reasonable basis for treating these confined noncitizens worse than ordinary defendants charged with crimes,
+
+18 U. S. C. §3142; worse than convicted criminals appealing their convictions, §3143(b); worse than civilly committed citizens, supra, at 10–11; worse than identical noncitizens found elsewhere within the United States, supra, at 4; and worse than noncitizens who have committed crimes, served their sentences, and been definitively ordered removed (but lack a country willing to take them), supra, at 4, their detention without bail is arbitrary.  Thus, the constitutional language, purposes, and tradition that require bail in instances of criminal confinement also very likely require bail in these instances of civil confinement.  That perhaps is why Blackstone wrote that the law provides for the possibility of “bail in any case whatsoever.”  4 Analysis of the Laws of England, at 148.
+
+															C
+
+															My examination of the cases from this Court that considered detention of noncitizens and bail suggests that this Court, while sometimes denying bail to individuals, generally has not held that bail proceedings are unnecessary.  Indeed, it almost always has suggested the contrary.
+
+															1. In 1882 Congress enacted two laws that restricted immigration: The first prohibited the entry of “Chinese laborers.”  The Chinese Exclusion Act, ch. 126,
+
+22Stat.
+58.  The second prohibited the entry of “any convict, lunatic, idiot, or any person unable to take care of himself or herself without becoming a public charge.”  Act of Aug. 3, 1882,
+
+22Stat.
+214.  Neither said a word about bail.  But in one instance, an excluded Chinese woman was detained in jail in San Francisco pending her return to China.  She sought bail.  In re Ah Moy, 21 F. 808 (CC Cal. 1884).  Justice Field, sitting as a Circuit Judge, wrote that the court lacked the authority to order bail because doing so would allow her to enter the United States—just what the statute forbade.  Id., at 809.  The other sitting Circuit Judge (Judge Sawyer) disagreed.  Id., at 810 (dissenting opinion).  He pointed out that the alien would remain “in the custody and control of the law while lawfully on bail.”  Ibid.  He added that it “would be a great hardship, not to say a gross violation of her personal rights,” to refuse bail for 15 days before her ship arrived as long as she could provide “security satisfactory to the court” that she would indeed depart when it did.  Id., at 809–810.  Two other Circuit Judges noted their agreement with Judge Sawyer.  Id., at 809, n. 1.  But they did not participate in the case, ibid., the two participating judges split 1 to 1, and so the views of presiding Justice Field prevailed.  The alien appealed to this Court, Cheong Ah Moy v. United States,
+
+113 U. S. 216 (1885)
+, but before this Court could decide, the ship departed with Cheong Ah Moy aboard.
+
+															2. In Wong Wing v. United States,
+
+163 U. S. 228 (1896)
+, the Court struck down as unconstitutional a statute that said alien Chinese laborers should be “imprisoned at hard labor” for up to a year before being deported.  Id., at 235.  In doing so, the Court wrote that although a sentence to hard labor was unlawful, “detention, or temporary confinement,” was constitutional, because “[d]etention is a usual feature of every case of arrest on a criminal charge, even when an innocent person is wrongfully accused.”  Ibid.  But an analogy to criminal detention is an analogy to instances in which bail hearings are required.
+
+															3. In Tod v. Waldman,
+
+266 U. S. 113 (1924)
+, the Waldman family, like many of the respondents here, challenged their exclusion.  They had arrived at Ellis Island fleeing religious persecution in Ukraine.  They were detained because the immigration inspector believed the mother illiterate, one of the daughters disabled, and the whole family likely to become public charges.  They appealed to the Labor Department, which ordered Mrs. Waldman retested for literacy, requiring her to read both Yiddish and Hebrew.  She could not.  She then petitioned for a writ of habeas corpus on the grounds that (1) as a religious refugee she was exempt from the literacy requirement; (2) in any event, she need read only one language, not two; (3) her daughter was not disabled; and (4) the Department of Labor should have allowed her to appeal administratively.  Id., at 114–115.
+
+															The relevant statutory provisions, just like the present statute, see infra, at 20, 29, said that an arriving person, unless “clearly and beyond a doubt entitled” to land, “shall be detained for examination . . . by a board of special inquiry.”  Act of Feb. 5, 1917, §16,
+
+39Stat.
+886 (emphasis added).  By the time the case reached this Court, however, the family had been allowed bail.  See Waldman, 266 U. S., at 117.  This Court ordered the Department of Labor to provide the family with an administrative appeal.  Then, after initially “remand[ing] the petitioners to the custody of immigration authorities” pending the outcome of the appeal, id., at 120, the Court clarified in a rehearing order that “[n]othing in the order of this Court shall prejudice an application for release on bail of the respondents pending compliance with the mandate of this Court.”  Tod v. Waldman,
+
+266 U. S. 547
+ (1925).  This statement is inconsistent with the earlier opinion of Justice Field, sitting as a Circuit Judge, because it shows that even an alien challenging her exclusion could be released on bail.  Supra, at 14.
+
+															4. In Carlson v. Landon,
+
+342 U. S. 524 (1952)
+, this Court upheld the denial of bail to noncitizen Communists being held pending deportation, despite a statute that permitted bail proceedings.  Id., at 541–546.  It did so because it considered the individuals to be a risk to security.  It said nothing to suggest that bail proceedings were unnecessary.
+
+															5. In Shaughnessy v. United States ex rel. Mezei,
+
+345 U. S. 206 (1953)
+, the Attorney General had ordered a noncitizen permanently excluded from the United States on the ground that his “entry would be prejudicial to the public interest for security reasons.”  Id., at 208; see Subversive Activities Control Act of 1950, §§22–23,
+
+64Stat.
+1006–1012.  He “sat on Ellis Island because this country shut him out and others were unwilling to take him in.”  345 U. S., at 209.  After 21 months in confinement he filed a petition for a writ of habeas corpus seeking judicial review of the exclusion decision or release on bail until he could be removed to another country.  Id., at 207, 209.  This Court refused to review the exclusion decision on the ground that the security matter fell totally within the President’s authority, pursuant to an express congressional delegation of power.  Id., at 210.  The Court also denied Mezei a bail proceeding because in an “exclusion proceeding grounded on danger to the national security . . . neither the rationale nor the statutory authority for” release on bail exists.  Id., at 216.  It denied bail, however, after the Attorney General had already found, on an individualized basis, not only that Mezei was a security risk and consequently not entitled to either admission or bail, but also that he could be denied a hearing on the matter because the basis for that decision could not be disclosed without harm to national security.  Id., at 208–209.  The respondents in this case have been the subject of no such individualized findings.  And unlike Mezei, who was requesting bail after his exclusion proceedings had ended (while the Attorney General searched for a country that would take him—a matter that we again confronted in Zadvydas), the respondents here continue to litigate the lawfulness of their exclusion itself.  Thus, Mezei, but not the respondents here, was in a sense in the position of a convicted criminal who had lost his appeal, not a criminal awaiting trial (or the results of an appeal).
+
+															6. Zadvydas v. Davis,
+
+533 U. S. 678 (2001)
+, concerned a noncitizen who had lawfully resided in this country, committed a serious crime, completed his prison sentence, and was then ordered deported.  Id., at 684.  Zadvydas sought release on bail during the time the Government searched for a country that would take him.  Id., at 684–685.  The governing statute said an alien such as Zadvydas “may be detained” pending his removal to another country.
+
+8 U. S. C. §1231(a)(6).  We interpreted those words as requiring release from detention once it became clear that there was “no significant likelihood of removal in the reasonably foreseeable future”—presumptively after a period of confinement of six months.  533 U. S., at 701.  We read the statute as requiring this release because a “statute permitting indefinite detention of an alien would raise a serious constitutional problem.”  Id., at 690.
+
+															From a constitutional perspective, this case follows a fortiori from Zadvydas.  Here only a bail hearing is at issue, not release on bail, much less permanent release.  And here there has been no final determination that any of the respondents lacks a legal right to stay in the United States—the bail hearing at issue concerns conditional release pending that final determination.  It is immaterial that detention here is not literally indefinite, because while the respondents’ removal proceedings must end eventually, they last an indeterminate period of at least six months and a year on average, thereby implicating the same constitutional right against prolonged arbitrary detention that we recognized in Zadvydas.
+
+															7. In Demore v. Kim,
+
+538 U. S. 510 (2003)
+, we held that the Government could constitutionally hold without bail noncitizens who had committed certain crimes, had completed their sentences, and were in removal proceedings.  See §1226(c).  But we based our holding on the short-term nature of the confinement necessary to complete proceedings.  See id., at 529–530.  The Court wrote that the “detention at stake . . . lasts roughly a month and a half in the vast majority of cases in which it is invoked, and about five months in the minority of cases in which the alien chooses to appeal.”  Id., at 530.  We added:
+
+															“[I]n 85% of the cases in which aliens are detained  [ pursuant to the relevant statute], removal proceedings are completed in an average time of 47 days and a median of 30 days.  In the remaining 15% of cases, in which the alien appeals the decision of the immigration judge to the Board of Immigration Appeals, appeal takes an average of four months, with a median time that is slightly shorter.”  Id., at 529 (citation omitted).
+
+															Demore himself, an outlier, was detained for six months.  Id., at 530–531.
+
+															The Court then found detention constitutional “during the limited period” necessary to arrange for removal, and we contrasted that period of detention with the detention at issue in Zadvydas, referring to the detention in Demore as being “of a much shorter duration.”  538 U. S., at 526, 528.  Justice Kennedy stated in a concurrence that the Due Process Clause might require bail hearings “if the continued detention became unreasonable or unjustified.”  Id., at 532.  Dissenting, I wrote that, had I believed that Demore “had conceded that he [was] deportable,” then, despite Zadvydas, “I would conclude that the Government could detain him without bail for the few weeks ordinarily necessary for formal entry of a removal order.”  538 U. S., at 576 (opinion concurring in part and dissenting in part).
+
+															The Government now tells us that the statistics it gave to the Court in Demore were wrong.  Detention normally lasts twice as long as the Government then said it did.  And, as I have pointed out, thousands of people here are held for considerably longer than six months without an opportunity to seek bail.  See supra, at 3.  We deal here with prolonged detention, not the short-term detention at issue in Demore.  Hence Demore, itself a deviation from the history and tradition of bail and alien detention, cannot help the Government.
+
+															The upshot is the following: The Constitution’s language, its basic purposes, the relevant history, our tradition, and many of the relevant cases point in the same interpretive direction.  They tell us that an interpretation of the statute before us that would deny bail proceedings where detention is prolonged would likely mean that the statute violates the Constitution.  The interpretive principle that flows from this conclusion is clear and longstanding: “ ‘[A]s between two possible interpretations of a statute, by one of which it would be unconstitutional and by the other valid, our plain duty is to adopt that which will save the Act.’ ”  Rust v. Sullivan,
+
+500 U. S. 173,
+190 (1991)
+ (quoting Blodgett v. Holden,
+
+275 U. S. 142,
+148 (1927)
+ (opinion of Holmes, J.)).  Moreover, a “statute must be construed, if fairly possible, so as to avoid not only the conclusion that it is unconstitutional, but also grave doubts upon that score.”  Jin Fuey Moy, 241 U. S., at 401.  These legal principles reflect a realistic assumption, namely, that Congress—particularly a Congress that did not consider a constitutional matter—would normally have preferred a constitutional interpretation to an interpretation that may render a statute an unconstitutional nullity.  And that is so even where the constitutional interpretation departs from the most natural reading of the statute’s language.  See Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Constr. Trades Council,
+
+485 U. S. 568,
+575 (1988)
+; see also National Federation of Independent Business v. Sebelius,
+
+567 U. S. 519
+–576 (2012) (majority opinion and opinion of Roberts, C. J.).
+
+															III
+
+															The Statutory Provisions
+
+															The question remains whether it is possible to read the statute as authorizing bail.  As desirable as a constitutional interpretation of a statute may be, we cannot read it to say the opposite of what its language states.  The word “animal” does not include minerals, no matter how strongly one might wish that it did.  Indeed, where “ ‘Congress has made its intent in the statute clear, we must give effect to that intent,’ ” even if doing so requires us to consider the constitutional question, and even if doing so means that we hold the statute unconstitutional.  Zadvydas, 533 U. S., at 696 (quoting Miller v. French,
+
+530 U. S. 327,
+336 (2000)
+).  In my view, however, we can, and should, read the relevant statutory provisions to require bail proceedings in instances of prolonged detention without doing violence to the statutory language or to the provisions’ basic purposes.
+
+															A
+
+															Asylum Seekers
+
+															The relevant provision governing the first class of noncitizens, the asylum seekers, is §1225(b)(1)(B)(ii).  It says that, if an immigration “officer determines at the time” of an initial interview with an alien seeking to enter the United States “that [the] alien has a credible fear of persecution . . . , the alien shall be detained for further consideration of the application for asylum.”  See Appendix A–1, infra.  I have emphasized the three key words, namely, “shall be detained.”  Do those words mean that the asylum seeker must be detained without bail?
+
+															They do not.  First, in ordinary English and in light of the history of bail, the word “detain” is ambiguous in respect to the relevant point.  The Oxford English Dictionary (OED), surveying the history of the word, notes that Edward Hall, a famous 16th-century legal scholar and author of Hall’s Chronicle, wrote: “A traytor . . . is apprehended and deteigned in prisone for his offence,” a use of the word, as we know from Blackstone, that is consistent with bail.  See supra, at 8–9; OED (3d ed., Dec. 2012), http://www.oed.com/view/Entry/51176 (annot. to def. 1).  David Hume, the famous 18th-century historian and philosopher, writes of being “detained in strict confinement,” thereby implying the existence of detention without strict confinement.  Ibid.  A 19th-century novelist writes, “ ‘Beg your pardon, sir,’ said the constable, . . . ‘I shall be obliged to detain you till this business is settled’ ”—again a use of “detain” that we know (from Blackstone) is consistent with bail.  Ibid.  And the OED concludes that the primary meaning of “detain” is “[t]o keep in confinement or under restraint; to keep prisoner.”  Ibid. (emphasis added).  To grant bail, we know, is not to grant unrestrained freedom.  Rather, where the Act elsewhere expressly permits bail, it requires “bond of at least $1,500 with security approved by, and containing conditions prescribed by, the Attorney General.”
+
+8 U. S. C. §1226(a)(2)(A).  Similarly in the criminal context, bail imposes numerous restraints, ranging from the provision of a bond, to restrictions on residences and travel, to the imposition of a curfew, to a requirement to obtain medical treatment, to report at regular intervals, or even to return to custody at specified hours.  See
+
+18 U. S. C. §3142(c)(1)(B) (listing possible conditions for the pretrial release of federal criminal defendants).
+
+															At the very least, because the word “detain” in this context refers to a comparatively long period of time, it can readily coexist with a word such as “bail” that refers to a shorter period of conditional release.  For instance, there is nothing inconsistent in saying: During his exile, he was permitted to pay short visits to his home country; during the period of active hostilities, the soldiers would lay down their arms and fraternize on Christmas Day; during his overseas detention, he was allowed home to see his sick mother; or during his detention pending proceedings, he was permitted bail.
+
+															Second, our precedent treats the statutory word “detain” as consistent with bail.  In Waldman,
+
+266 U. S. 547
+, we considered an immigration statute that stated (in respect to arriving aliens) that “[e]very alien who may not appear to the examining inspector at the port of arrival to be clearly and beyond a doubt entitled to land shall be detained for examination in relation thereto by a board of special inquiry.”  Act of Feb. 5, 1917, §16,
+
+39Stat.
+886 (emphasis added).  The Court indicated that bail was available, stating that “[n]othing in the order of this court shall prejudice an application for release on bail.”  266 U. S., at 548.  In so stating, the Court was simply following precedent, such as Wright v. Henkel, where the Court wrote that bail is available even where not “specifically vested by statute.”  190 U. S., at 63; see supra, at 11–12.  When Congress passed the relevant provisions of the Act in 1996, it legislated against this historical backdrop, at a time when the precise language that it adopted had been interpreted by this Court to permit bail.  See Monessen Southwestern R. Co. v. Morgan,
+
+486 U. S. 330,
+338 (1988)
+ (“Congress’ failure to disturb a consistent judicial interpretation of a statute may provide some indication that ‘Congress at least acquiesces in, and apparently affirms, that [interpretation]’ ” (quoting Cannon v. University of Chicago,
+
+441 U. S. 677,
+703 (1979)
+)).
+
+															Third, the Board of Immigration Appeals reads the word “detain” as consistent with bail, for it has held that its regulations, implementing the same statutory provision as is before us, allow bail for asylum seekers who are apprehended inside the United States within 100 miles of the border, rather than at a border crossing.  See In re X-K-, 23 I. & N. Dec., at 732, 734–735 (discussing 8 CFR §1003.19(h)(2)(i) (2004)).  The same statute, same language applies to the detention of those asylum seekers and the ones before us, so the statute must be consistent with bail in the Board of Immigration Appeals’ view.
+
+															Fourth, in Zadvydas we found (to avoid similar constitutional questions) that the words “ ‘may be detained’ ” were consistent with requiring release from long-term detention.  533 U. S., at 682 (quoting
+
+8 U. S. C. §1231(a)(6)).  The majority correctly notes that here the language substitutes the word “shall” for the word “may.”  Ante, at 14–16.  But the majority is wrong to distinguish Zadvydas on this basis.  There the Court did not emphasize the word “detain,” for the question at issue was release from detention.  And the key word was consequently “may,” suggesting discretion.  Here the question concerns the right to a bail hearing during detention.  And the key linguistic ambiguity concerns the word “detention.”  Is that word consistent with bail proceedings?  The answer, for the reasons I have stated, is “yes.”
+
+															Fifth, the statute does not even mention long-term detention without bail.  Whether the statute speaks in terms of discretion (“may,” as in Zadvydas) or mandatory action (“shall,” as in this case), the Government’s argument is wrong for the same reason: Congress does not unambiguously authorize long-term detention without bail by failing to say when detention must end.  As we recognized in Zadvydas, Congress anticipated long-term detention elsewhere in the Act, providing for review every six months of terrorist aliens detained under
+
+8 U. S. C. §1537(b)(2)(C), but it did not do so here.  See 533 U. S., at 697.
+
+															Sixth, the Act provides that an asylum applicant whose proceedings last longer than six months may be given work authorization.  §1158(d)(2).  The majority would apply this provision to some asylum applicants but not the ones before us.  Ante, at 26, n. 6.  Of course, the statute does not contain that limitation.  Read most naturally, the provision offers some indication that Congress, in the same statute, did not require asylum seekers to remain confined without bail at the 6-month mark.
+
+															Seventh, there is a separate statutory provision that purports to do precisely what the majority says this one does, providing that certain aliens “shall be detained . . . until removed.”  §1225(b)(1)(B)(iii)(IV) (emphasis added); ante, at 16 (detention must continue until proceedings “have finished”).  The problem for the majority is that this other provision applies only to those who, unlike the respondents, have no credible fear of persecution.  The provision that applies here lacks similar language.
+
+															Linguistic ambiguity, while necessary, is not sufficient.  I would also ask whether the statute’s purposes suggest a congressional refusal to permit bail where confinement is prolonged.  The answer is “no.”  There is nothing in the statute or in the legislative history that reveals any such congressional intent.  The most likely reason for its absence is that Congress, like the Government when it appeared before us in Demore, believed there were no such instances, or at least that there were very few.  Indeed, the Act suggests that asylum proceedings ordinarily finish quickly.  See §1158(d)(5)(A) (providing that absent “exceptional circumstances,” final administrative adjudication (not including appeal) must be completed “within 180 days,” and any appeal must be filed “within 30 days” of the decision).  And for those proceedings that last longer than six months, we know that two-thirds of asylum seekers win their cases.  Thus, legislative silence suggests not disapproval of bail, but a lack of consideration of the matter.  For present purposes that is sufficient.  It means that Congress did not intend to forbid bail.  An interpretation that permits bail—based upon history, tradition, statutory context, and precedent—is consistent, not inconsistent, with what Congress intended the statutory provision to do.
+
+															The majority apparently finds a contrary purpose in the fact that other provisions of the statute permit the Attorney General to release an alien on parole “ ‘for urgent humanitarian reasons or significant public benefit’ ” and impose bail-like conditions.  Ante, at 16–17 (discussing
+
+8 U. S. C. §1182(d)(5)(A)).  Yet under the majority’s interpretation of “detain,” the same argument could have been made in Zadvydas.  We held that noncitizens presumptively are entitled to release after six months of detention, notwithstanding an available alternative avenue for relief, namely, bail.  533 U. S., at 683.  There is no reason to reach a different result here.  While the Government historically used this provision to take account of traditional bail factors (flight risk, safety risk), the President since issued an Executive Order directing parole to be granted “in all circumstances only when an individual demonstrates urgent humanitarian reasons or a significant public benefit.”  Exec. Order. No. 13767, 82 Fed. Reg. 8793 (2017).  And besides, Congress’ provision of parole to permit, for example, release for the purpose of medical care or to testify in a court proceeding—which adds to the circumstances under which a noncitizen can be released from confinement—says nothing about whether Congress intended to cut back on those circumstances in respect to the meaning of “detain” and the historical understanding that detention permits bail.
+
+															B
+
+															Criminals Who Have Served Their Sentences
+
+															The relevant statutory provision, §1226(c), says in paragraph (1) that the “Attorney General shall take into cus- tody any alien who . . . is deportable [or inadmissible] by reason of having committed [certain crimes] when the alien is released,” presumably (or ordinarily) after having served his sentence.  It then goes on to say, in paragraph (2), that the “Attorney General may release [that] alien . . . only if the Attorney General decides pursuant to section 3521 of title 18 that release of the alien from custody is necessary to provide protection to a witness [or to certain related others].”  See Appendix A–2, infra.
+
+															I have emphasized the relevant phrases: “take into custody” in the first paragraph, and “may release [that] alien . . . only if” in the second paragraph.  We have long interpreted “in custody” as “not requir[ing] that a prisoner be physically confined.”  Maleng v. Cook,
+
+490 U. S. 488,
+491 (1989)
+ (per curiam).  In the habeas context, we have held that “a person released on bail or on his own recognizance” is “ ‘in custody’ within the meaning of the statute.”   Hensley v. Municipal Court, San Jose-Milpitas Judicial Dist., Santa Clara Cty.,
+
+411 U. S. 345,
+349 (1973)
+; Justices of Boston Municipal Court v. Lydon,
+
+466 U. S. 294
+–301 (1984) (same).  The reason is simple, as I already have explained, supra, at 21: A person who is released on bail “is subject to restraints ‘not shared by the public gener- ally.’ ”  Hensley, supra, at 351 (quoting Jones v. Cunningham,
+
+371 U. S. 236,
+240 (1963)
+); see also Maleng, supra, at 491 (“[A] prisoner who had been placed on parole was still ‘in custody’ ” because his “release from physical confinement . . . was not unconditional; instead, it was explicitly conditioned on his reporting regularly to his parole officer, remaining in a particular community, residence, and job, and refraining from certain activities” (citing Jones, supra, at 242)).
+
+															Moreover, there is no reason to interpret “custody” differently than “detain.”  The OED defines “custody” as “[t]he state of being detained,” http://www.oed.com/view/ Entry/46305 (def. 5).  “Detained,” as I have previously pointed out, can be read consistently with bail.  See supra, at 20–23.  The OED also defines the statutory phrase, “take (a person) into custody,” as “to arrest and imprison (a person),” http://www.oed.com/view/Entry/46305 (def. 5).  And we know from the history, tradition, case law, and other sources earlier discussed, including Blackstone, that arresting and imprisoning a person is consistent with a bail hearing and a subsequent grant of bail, even where a statute contains words such as “commitment” or “detain.”  See supra, at 5–19 (citing, e.g., Wright, 190 U. S., at 62 (reading as consistent with a bail proceeding the statutory language “ ‘shall issue [a] warrant for the commitment . . . to the proper jail, there to remain’ ” until “ ‘surrender’ ” for extradition)).
+
+															But what about the second phrase, stating that the Attorney General “may release [that] alien . . . only if the Attorney General decides pursuant to section 3521 of title 18 that release of the alien from custody is necessary to provide protection to a witness”?  Does the presence of the words “only if” show that the statute automatically denies bail for any other reason?
+
+															It does not.  That is because the phrase has nothing to do with bail.  It has to do with a special program, the Witness Protection Program, set forth in
+
+18 U. S. C. §3521.  That program allows the Attorney General to relocate the witness, to give him an entirely new identity, to help his family similarly, and to pay him a stipend, among other things.  §§3521(a)(1), (b)(1).  The Attorney General may “take such action as [he] determines to be necessary to protect the person,” presumably even free the witness from whatever obligations might require him to report to an immigration or judicial authority.  §3521(b)(1).  Accordingly, when the Attorney General “release[s]” an alien under
+
+8 U. S. C. §1226(c)(2), he does not grant bail; he may well do far more, freeing the witness from a host of obligations and restraints, including those many obligations and restraints that accompany bail.  See supra, at 21.
+
+															This understanding of “release” in §1226(c) is consistent with the OED’s definition of “release” as “to free from restraint” or even “to liberate from . . . an obligation” (not simply “to free from . . . captivity”), http://www.oed.com/ view/Entry/161859 (def. 6(a)).  And it is consistent with our earlier reading of the word “detain.”  Supra, at 20–24.  Following the OED’s definition of “detain” as “under restraint,” we have understood the word “detention” to include the state of being “under” those “restraints” that typically accompany bail.  Supra, at 20–24.  That is to say, both the individual on bail and the individual not on bail are “detained”; and the Attorney General, through his Witness Protection Program powers can free the individual from both.  To repeat: The provision at issue means that the Attorney General “may release” the detained person from the restraints that accompany detainment—whether that individual has been detained with, or without, bail.
+
+															So understood the phrase has nothing to do with the issue before us: whether a confined individual is, or is not, entitled to bail or a bail hearing.  It simply means that the Attorney General cannot free that person from all, or most, restraining conditions (including those that accompany bail) unless the alien is placed in the Witness Protection Program.  So read, the words “only if” neither favor nor disfavor a reading of the statute consistent with the right to a bail proceeding.
+
+															The purpose-related reasons that argue for a bail-favorable reading are also applicable here.  Congress did not consider the problem of long-term detention.  It wrote the statute with brief detention in mind.  See H. R. Rep. No. 104–469, pt. 1, p. 123, and n. 25 (1996) (stating that the “average stay [was] 28 days”).  Congress did not know (for apparently the Government did not know in Demore) that the average length of detention for this class would turn out to be about a year.  Nor did Congress necessarily know that about 40% of class members eventually obtain the right to remain in the United States.
+
+															I should add that reading the statute as denying bail to those whose detention is prolonged is anomalous.  Those whose removal is legally or factually questionable could be imprisoned indefinitely while the matter is being decided.  Those whose removal is not questionable (for they are under a final removal order) could be further imprisoned for no more than six months.  See supra, at 4, 17.  In fact, even before our decision in Zadvydas, the Government gave bail hearings to noncitizens under a final order of removal after six months of detention.  See 533 U. S., at 683.
+
+															C
+
+															Other Applicants for Admission
+
+															The statutory provision that governs the third category of noncitizens seeking admission at the border is §1225(b)(2)(A).  It says that “if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubt entitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.”  See Appendix A–3, infra.
+
+															The Government tells us that this miscellaneous cate- gory consists of persons who are neither (1) clearly eligible for admission, nor (2) clearly ineligible.  Pet. for Cert. 3–4.  A clearly eligible person is, of course, immediately admitted.  A clearly ineligible person—someone who lacks the required documents, or provides fraudulent ones—is “removed . . . without further hearing or review.”  §1225(b)(1)(A)(i); see §§1182(a)(6)(C), (a)(7).  But where the matter is not clear, i.e., where the immigration officer determines that an alien “is not clearly and beyond a doubt entitled to be admitted,” he is detained for a re- moval proceeding.  §1225(b)(2)(A).  Like all respondents, this class has been detained for at least six months.  It may include persons returning to the United States who have work permits or other documents seemingly entitling them to entry, but whom an immigration officer suspects are inadmissible for some other reason, such as because they may have incomplete vaccinations or have committed student visa abuse or a crime of “moral turpitude.”  See §1182(a) (delineating classes of aliens ineligible for admission).  For instance, the Federal Register is replete with examples of offenses that immigration authorities have thought are crimes of moral turpitude but that the courts of appeals later determine are not.  See, e.g., Goldeshtein v. INS, 8 F. 3d 645, 648 (CA9 1993) (structuring financial transactions to avoid currency reports); Nunez v. Holder, 594 F. 3d 1124, 1138 (CA9 2010) (indecent exposure).  It also may include individuals who claim citizenship by virtue of birth or parentage but who lack documents clearly proving their claim.
+
+															The critical statutory words are the same as those I have just discussed in the context of the asylum seekers—“shall be detained.”  There is no more plausible reason here than there was there to believe those words foreclose bail.  See supra, at 20–24.  The constitutional considerations, the statutory language, and the purposes underlying the statute are virtually the same.  Thus, the result should be the same: Given the constitutional considerations, we should interpret the statute as permitting bail.
+
+															IV
+
+															The majority concludes in Part V, ante, at 29–31, by saying that, before considering bail-related constitutional arguments, the lower courts “should reexamine whether respondents can continue litigating their claims as a class.”  Ante, at 29.  Relying on dicta in Reno v. American-Arab Anti-Discrimination Comm.,
+
+525 U. S. 471 (1999)
+ (AADC), it then suggests that the respondents may not be able to continue litigating because the Act says that
+
+															“no court (other than the Supreme Court) shall have jurisdiction or authority to enjoin or restrain the operation [of the statutory provisions here at issue] other than with respect to the application of such provi- sions to an individual alien against whom proceedings under such part have been initiated.”
+
+8 U. S. C. §1252(f )(1).
+
+															Were the majority’s suggestion correct as to this jurisdictional question, it would have shown, at most, that we should decide the constitutional question here and now.  We have already asked for and received briefs on that question.  But I do not believe the majority is correct.  Every member of the classes before us falls within the provision’s exception.  Every one of them is an “individual alien against whom proceedings under such part have been initiated.”  Ibid.  The Court in AADC did not con- sider, and had no reason to consider, the application of §1252(f)(1) to such a class.  Regardless, a court could order declaratory relief.  Federal Rule of Civil Procedure 23(b)(2) permits a class action where “final injunctive relief or corresponding declaratory relief is appropriate respecting the class as a whole.”  (Emphasis added.)  And the Advisory Committee says that declaratory relief can fall within the Rule’s term “corresponding” if it “serves as a basis for later injunctive relief.”  Notes on Rule 23(b)(2)–1966 Amendment, 28 U. S. C. App., p. 812.
+
+															Jurisdiction also is unaffected by
+
+8 U. S. C. §1252(b)(9), which by its terms applies only “[w]ith respect to review of an order of removal under [§1252(a)(1)].”  §1252(b).  Respondents challenge their detention without bail, not an order of removal.
+
+															Neither does Wal-Mart Stores, Inc. v. Dukes,
+
+564 U. S. 338 (2011)
+, bar these class actions.  Every member of each class seeks the same relief (a bail hearing), every member has been denied that relief, and the differences in situation among members of the class are not relevant to their entitlement to a bail hearing.
+
+															At a minimum I can find nothing in the statute or in the cases to which the majority refers that would prevent the respondents from pursuing their action, obtaining a declaratory judgment, and then using that judgment to obtain relief, namely, a bail hearing, in an individual case.  Thus, I believe the lower courts are free to consider the constitutionality of the relevant statutory provisions as the majority now interprets them.
+
+															V
+
+															Conclusion
+
+															The relevant constitutional language, purposes, history, traditions, context, and case law, taken together, make it likely that, where confinement of the noncitizens before us is prolonged (presumptively longer than six months), bail proceedings are constitutionally required.  Given this serious constitutional problem, I would interpret the statutory provisions before us as authorizing bail.  Their language permits that reading, it furthers their basic purposes, and it is consistent with the history, tradition, and constitutional values associated with bail proceedings.  I believe that those bail proceedings should take place in accordance with customary rules of procedure and burdens of proof rather than the special rules that the Ninth Circuit imposed.
+
+															The bail questions before us are technical but at heart they are simple.  We need only recall the words of the Declaration of Independence, in particular its insistence that all men and women have “certain unalienable Rights,” and that among them is the right to “Liberty.”  We need merely remember that the Constitution’s Due Process Clause protects each person’s liberty from arbitrary deprivation.  And we need just keep in mind the fact that, since Blackstone’s time and long before, liberty has included the right of a confined person to seek release on bail.  It is neither technical nor unusually difficult to read the words of these statutes as consistent with this basic right.  I would find it far more difficult, indeed, I would find it alarming, to believe that Congress wrote these statutory words in order to put thousands of individuals at risk of lengthy confinement all within the United States but all without hope of bail.  I would read the statutory words as consistent with, indeed as requiring protection of, the basic right to seek bail.
+
+															Because the majority does not do so, with respect, I dissent.
+
+															 
+
+															APPENDIXES
+
+															A
+
+															1
+
+															
+
+															Statute Applicable to Asylum Seekers
+
+															
+
+															
+
+8 U. S. C. §1225.  “Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing
+
+															.      .      .      .      .
+
+															“(b) Inspection of applicants for admission
+
+															“(1) Inspection of aliens arriving in the United States and certain other aliens who have not been admitted or paroled
+
+															“(A) Screening
+
+															“(i) In general
+
+															“If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearing or review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
+
+															“(ii) Claims for asylum
+
+															“If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
+
+															.      .      .      .      .
+
+															“(B) Asylum interviews
+
+															“(i) Conduct by asylum officers
+
+															“An asylum officer shall conduct interviews of aliens referred under subparagraph (A)(ii), either at a port of entry or at such other place designated by the Attorney General.
+
+															“(ii) Referral of certain aliens
+
+															“If the officer determines at the time of the interview that an alien has a credible fear of persecution (within the meaning of clause (v)), the alien shall be detained for further consideration of the application for asylum.”  (Emphasis added.)
+
+															 
+
+															2
+
+															
+
+															Statute Applicable to Criminal Aliens
+
+															
+
+															
+
+8 U. S. C. §1226.  “Apprehension and detention of aliens
+
+															
+
+															“(a) Arrest, detention, and release
+
+															“On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States.  Except as provided in subsection (c) of this section and pending such decision, the Attorney General—
+
+															“(1) may continue to detain the arrested alien; and
+
+															“(2) may release the alien on—
+
+															“(A) bond of at least $1,500 with security approved by, and containing conditions prescribed by, the Attorney General; or
+
+															“(B) conditional parole;
+
+															.      .      .      .      .
+
+															“(c) Detention of criminal aliens
+
+															“(1) Custody
+
+															“The Attorney General shall take into custody any alien who—
+
+															“(A) is inadmissible by reason of having committed any offense covered in section 1182(a)(2) of this title,
+
+															“(B) is deportable by reason of having committed any offense covered in section 1227(a)(2)(A)(ii), (A)(iii), (B), (C), or (D) of this title,
+
+															“(C) is deportable under section 1227(a)(2)(A)(i) of this title on the basis of an offense for which the alien has been sentence[d] to a term of imprisonment of at least 1 year, or
+
+															“(D) is inadmissible under section 1182(a)(3)(B) of this title or deportable under section 1227(a)(4)(B) of this title,
+
+															“when the alien is released, without regard to whether the alien is released on parole, supervised release, or probation, and without regard to whether the alien may be arrested or imprisoned again for the same offense.
+
+															“(2) Release
+
+															“The Attorney General may release an alien described in paragraph (1) only if the Attorney General decides pursuant to section 3521 of title 18 that release of the alien from custody is necessary to provide protection to a witness, a potential witness, a person cooperating with an investigation into major criminal activity, or an immediate family member or close associate of a witness, potential witness, or person cooperating with such an investigation, and the alien satisfies the Attorney General that the alien will not pose a danger to the safety of other persons or of property and is likely to appear for any scheduled proceeding.  A decision relating to such release shall take place in accordance with a procedure that considers the severity of the offense committed by the alien.”  (Emphasis added.) 
+
+															3
+
+															
+
+															Statute Applicable to Miscellaneous Applicants for Admission
+
+															
+
+															
+
+8 U. S. C. §1225.  “Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing
+
+															.      .      .      .      .
+
+															 “(b) Inspection of applicants for admission
+
+															.      .      .      .      .
+
+															“(2) Inspection of other aliens
+
+															“(A) In general
+
+															“Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubt entitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
+
+															“(B) Exception
+
+															“Subparagraph (A) shall not apply to an alien—
+
+															“(i) who is a crewman,
+
+															“(ii) to whom paragraph (1) applies, or
+
+															“(iii) who is a stowaway.
+
+															“(C) Treatment of aliens arriving from contiguous territory
+
+															“In the case of an alien described in subparagraph (A) who is arriving on land (whether or not at a designated port of arrival) from a foreign territory contiguous to the United States, the Attorney General may return the alien to that territory pending a proceeding under section 1229a of this title.”  (Emphasis added.)
+
+															 
+
+															B
+
+															
+
+															State Bail Law
+

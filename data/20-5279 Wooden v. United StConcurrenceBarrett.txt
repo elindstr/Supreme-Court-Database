@@ -1,0 +1,69 @@
+::SCDB_caseID:: 2021-001
+::decision_cite:: 20-5279
+::decision_name::  Wooden v. United States
+::decision_year:: 2022
+::opinion_author:: Barrett
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–5279
+
+															_________________
+
+															WILLIAM DALE WOODEN, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the sixth circuit
+
+															[March 7, 2022]
+
+															
+
+															Justice Barrett, with whom Justice Thomas joins, concurring in part and concurring in the judgment.
+
+															I join all but Part II–B of the Court’s opinion.  I agree with the Court’s analysis of the ordinary meaning of the word “occasion” and its conclusion that Wooden’s burglaries count only once under the Armed Career Criminal Act.  But I do not share the Court’s view that Congress ratified the Solicitor General’s brief confessing error in United States v. Petty, 798 F.2d 1157 (CA8 1986), when it amended the Act to add the occasions clause.  This argument depends on two flawed inferences: first, that Congress specifically intended to reject the Eighth Circuit’s initial decision in Petty, and second, that it embraced the former Solicitor General’s reasoning for why that decision was wrong.  The latter error, in particular, is likely to work mischief down the line.
+
+															*  *  *
+
+															As an initial matter, the Court errs in asserting that the occasions clause was crafted to reject the result that the Eighth Circuit initially reached in Petty.  (Recall that the Eighth Circuit changed its view on remand after the Solicitor General confessed error in this Court.)  The Court’s evidence for that proposition consists of nothing but a short analysis that Senator Byrd submitted for the Congressional Record in calendaring the proposed amendment.  Ante, at 12.
+
+															Petty’s tenuous tie to the statute distinguishes this case from the many in which we have recognized that a judicial decision or line of decisions has provided the impetus for legislation.  In some instances, enacted findings have explicitly connected the statute to a prior decision.  See, e.g., Burwell v. Hobby Lobby Stores, Inc.,
+
+573 U.S. 682, 694 (2014) (“Congress responded to [Employment Div., Dept. of Human Resources of Ore. v. Smith,
+
+494 U.S. 872 (1990)] by enacting” the Religious Freedom Restoration Act); 42 U. S. C. §§2000bb(a)(4), (b)(1) (stating that RFRA was meant to restore the legal framework in place prior to Smith).  In others, a well-established legal backdrop has revealed Congress’ reasons for acting.  See, e.g., Dickerson v. United States,
+
+530 U.S. 428, 436 (2000) (“Given [the statute’s] express designation of voluntariness as the touchstone of admissibility, its omission of any warning requirement, and the instruction for trial courts to consider a nonexclusive list of factors relevant to the circumstances of a confession, we agree with the Court of Appeals that Congress intended by its enactment to overrule” Miranda v. Arizona,
+
+384 U.S. 436 (1966)).  But here, no enacted language mentions Petty, and the Court wisely does not portray the case—a single, subsequently vacated court of appeals opinion—as part of the settled legal landscape against which ACCA was amended.  The only thread connecting the occasions clause to Petty is legislative history, and the problems with legislative history are well rehearsed.  See, e.g., American Broadcasting Cos. v. Aereo, Inc.,
+
+573 U.S. 431, 458 (2014) (Scalia, J., dissenting) (arguing that the Court had treated “a few isolated snippets of legislative history” as “authoritative evidence of congressional intent even though they come from a single report issued by a committee whose members make up a small fraction of one of the two Houses of Congress”).
+
+															The Court needs the Petty backstory, though, to make its second, more significant leap: that Congress endorsed the reasoning behind the Solicitor General’s confession of error in that case.  Ante, at 12.  This move goes bigger than legislative history because it goes beyond the standard error of treating legislators’ views about statutory language as authoritative.  It presents Senator Byrd’s statement as definitive approval of the Solicitor General’s position in Petty (an error of the standard variety), and then uses that approval to graft the particulars of the Solicitor General’s brief onto the statute (which is really a bridge too far).
+
+															Again, I will not belabor why this approach is flawed.  See, e.g., Blanchard v. Bergeron,
+
+489 U.S. 87, 98 (1989) (Scalia, J., concurring in part and concurring in judgment) (“That the Court should refer to the citation of three District Court cases in a document issued by a single committee of a single house as the action of Congress displays the level of unreality that our unrestrained use of legislative history has attained”); A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 386 (2012) (“Even if the members of each house wish to do so, they cannot assign responsibility for making law—or the details of law—to one of their number, or to one of their committees”).  But it is worth discussing the Court’s jump from legislative history to litigation history because of what it might mean in later cases.
+
+															The Court elevates the Solicitor General’s brief to the status of a governing test.  Consider how that choice plays out in this case.  The Government argues that Wooden’s burglaries occurred on separate occasions because they were committed sequentially (unlike Petty’s robberies, which the Government says were committed simultaneously).  That argument fails for the reasons that the Court explains in Part II–A of its opinion, which I join: Such close-in-time crimes, even if sequential, happen on the same “occasion.”  But rather than resting only on the statutory language, the Court also invokes the reasoning in the Petty brief.  It says that the Government cannot be right because
+
+															“[n]othing about the Solicitor General’s confession of error, or the action Congress took in its wake, suggests any concern for the exact ordering of Petty’s actions.  Each was based instead on another idea: A person who has robbed a restaurant, and done nothing else, is not a ‘habitual offender[ ]’ or ‘career criminal[ ].’ . . .  It was that focus on ‘revolving door’ felons that the Solicitor General referenced in arguing that the courts in Petty had construed ACCA too broadly.”  Ante, at 13–14 (quoting Addendum to Brief for Petitioner 27a and citing 134 Cong. Rec. 13782–13783 (1988)).
+
+															Thus, in the Court’s view, the Government’s argument fails not only because of the statutory text but also because the Solicitor General’s 35-year-old brief, which the statute supposedly incorporates, rules it out.  That is not how statutory interpretation is supposed to work.[1]*
+
+															The Court’s approach will likely have downstream effects because it invites both litigants and lower courts to mine the Solicitor General’s brief for guidance on the scope of the occasions clause—as the parties did in this case.  To be sure, the most important indicators of whether crimes occurred on a single “occasion”—proximity in time and location—will matter most.  But on top of that, lower courts may place weight on the buzzwords that the Court highlights in the Solicitor General’s brief: “repeat offenders,” “habitual offenders,” “recidivists,” “revolving door offenders,” and “three time loser[s].”  Ante, at 11 (internal quotation marks omitted).  And that could sow unnecessary confusion.
+
+															Take a case involving three drug sales that occurred at 8 o’clock on three consecutive evenings at three different locations.  Applying the ordinary meaning of the text seems straightforward enough: The three offenses are separate occasions because they occurred a day apart and at different locations, notwithstanding the similarity of the crimes.  Yet factor in the details of the Solicitor General’s brief, and the result is not so clear.  Is a defendant who committed three crimes over the course of three days really a “revolving door offende[r]” or a true “recidivis[t]”?  Ibid. (internal quotation marks omitted).  Maybe not—those labels evoke a distinct inquiry.  And though the labels may capture what Congress was getting at, the statute chooses a particular way of getting there: the text of the occasions clause.  We should leave it at that.
+
+															*  *  *
+
+															The Court glosses this statute by leaning on weak evidence of Congress’ impetus for amending the statute, followed by still weaker evidence that Congress embraced the reasoning of a brief filed by the Solicitor General.  I would impute to Congress only what can fairly be imputed to it: the words of the statute.  Crimes within a spree like Wooden’s do not count as separate ACCA predicates because of the statutory language, not because those who drafted the amendment had either Petty’s case or the Solicitor General’s prose in mind.
+Notes
+1
+*The Court disclaims any intent to ratify the Solicitor General’s brief.  Ante, at 12, n. 5.  If the brief is not essential to the Court’s holding, then one might wonder why the Court quotes it extensively and uses it as a yardstick to measure (and reject) the Government’s current view.  Lower courts should take this disclaimer at face value, though, as notice that the Court’s remarks on the details of the Petty brief are nonbinding dicta. 
+
+

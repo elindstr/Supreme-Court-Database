@@ -1,0 +1,165 @@
+::SCDB_caseID:: 2021-022
+::decision_cite:: 20-322
+::decision_name::  Garland v. Gonzalez
+::decision_year:: 2022
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–322
+
+															_________________
+
+															MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. ESTEBAN ALEMAN GONZALEZ, et al.
+
+															MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. EDWIN OMAR FLORES TEJADA, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 13, 2022]
+
+															
+
+															Justice Alito delivered the opinion of the Court.
+
+															Respondents in these two cases are aliens who were detained by the Federal Government pursuant to
+
+8 U. S. C. §1231(a)(6) pending removal from this country.  Respondents sued in two Federal District Courts, alleging that §1231(a)(6) requires the Government to provide bond hearings in cases like theirs.  Both District Courts certified classes, agreed with respondents’ claims on the merits, and entered class-wide injunctive relief.  The Ninth Circuit affirmed both judgments in relevant part.
+
+															We granted certiorari and instructed the parties to address whether another provision of the Immigration and Nationality Act,
+
+66Stat.
+208, as amended,
+
+8 U. S. C. §1252(f )(1), deprived the District Courts of jurisdiction to entertain respondents’ requests for class-wide injunctive relief.  We hold that the statute has that effect, and we therefore reverse.
+
+															I
+
+															The two cases before us arise out of respondents’ detention pursuant to §1231(a)(6), which gives the Federal Government discretionary authority in specified circumstances to detain aliens who have been “ ‘ordered removed’ ” from the United States.  See Johnson v. Arteaga-Martinez, 596 U. S. ___, ___–___ (2022) (slip op., at 4–5).
+
+															Respondents Esteban Aleman Gonzalez and Jose Eduardo Gutierrez Sanchez—the named plaintiffs in the case that bears Aleman Gonzalez’s name—are natives and citizens of Mexico.  They each reentered the United States illegally after being removed, and after they were apprehended, their prior orders of removal were “reinstated” as authorized by §1231(a)(5).  They sought withholding of removal on the ground that they would be subject to torture or persecution if they were returned to Mexico.  While they awaited proceedings before an immigration judge, they were detained under §1231(a)(6), and they then filed a putative class action in the United States District Court for the Northern District of California, alleging that aliens detained under §1231(a)(6) are entitled to bond hearings after six months’ detention.  The District Court certified a class of similarly situated plaintiffs and “enjoined [the Government] from detaining [respondents] and the class members pursuant to section 1231(a)(6) for more than 180 days without providing each a bond hearing.”  Gonzalez v. Sessions, 325 F.R.D. 616, 629 (2018).  A divided panel of the Ninth Circuit affirmed.  Compare Aleman Gonzalez v. Barr, 955 F.3d 762, 766 (2020), with id., at 790 (Fernandez, J., dissenting).
+
+															Respondent Edwin Flores Tejada—the named plaintiff in the case that bears his name—is a native and citizen of El Salvador.  He likewise was previously ordered removed, reentered the country illegally, had his prior removal order reinstated, applied for withholding of removal, and was detained under §1231(a)(6).  He filed suit in the Western District of Washington, likewise alleging (as relevant here) that §1231(a)(6) entitled him to a bond hearing.  The District Court certified a class, granted partial summary judgment against the Government, and entered class-wide injunctive relief.  See App. to Pet. for Cert. 110a; Report and Recommendation in Martinez Baños v. Asher, No. 2:16–cv–01454 (WD Wash., Jan. 23, 2018) (ECF), Doc. 77–1, p. 2.  A divided panel of the Ninth Circuit affirmed in relevant part.  Compare Flores Tejada v. Godfrey, 954 F.3d 1245, 1247 (2020), with id., at 1251 (Fernandez, J., concurring in part and dissenting in part).
+
+															The Government petitioned for certiorari and asked us to decide whether an alien detained under §1231(a)(6) is entitled to a bond hearing.  We granted that petition and instructed the parties to address the threshold question whether the District Courts had jurisdiction to entertain respondents’ requests for class-wide injunctive relief.  594 U. S. ___ (2021).
+
+															II
+
+															We hold that the District Courts exceeded their jurisdiction in awarding such relief.
+
+															A
+
+															1
+
+															We begin with the text of §1252(f )(1), which provides:
+
+															“Regardless of the nature of the action or claim or of the identity of the party or parties bringing the action, no court (other than the Supreme Court) shall have jurisdiction or authority to enjoin or restrain the operation of the provisions of part IV of this subchapter, as amended by the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, other than with respect to the application of such provisions to an individual alien against whom proceedings under such part have been initiated.”  (Emphasis added.)
+
+															With one exception that we will discuss momentarily, the critical language in this provision strips lower courts of “jurisdiction or authority” to “enjoin or restrain the operation of ” the relevant statutory provisions.  The ordinary meaning of these terms bars the class-wide relief awarded by the two District Courts.
+
+															The term “to enjoin” ordinarily means to “require,” “command,” or “positively direct” an action or to “require a person to perform, . . . or to abstain or desist from, some act.”  Black’s Law Dictionary 529 (6th ed. 1990); see also Webster’s Third New International Dictionary 754 (1993) (defining “enjoin” to mean “to direct, prescribe, or impose by order”).  When a court “enjoins” conduct, it issues an “injunction,” which is a judicial order that “tells someone what to do or not to do.”  Nken v. Holder,
+
+556 U.S. 418, 428 (2009); see also Black’s Law Dictionary, at 784 (defining an “injunction” as a “court order prohibiting someone from doing some specified act or commanding someone to undo some wrong or injury”); 2 J. Story, Commentaries on Equity Jurisprudence §861, p. 178 (13th ed. 1886) (similar).
+
+															The term “to restrain” means to “check, hold back, or prevent (a person or thing) from some course of action.”  5 Oxford English Dictionary 756 (2d ed. 1989) (emphasis deleted); Webster’s Third New International Dictionary, at 1936 (“to hold (as a person) back from some action, procedure, or course: prevent from doing something”).  We have suggested in another context that “restrain” sometimes has a “broad meaning” that refers to judicial orders that “inhibit” particular actions, and at other times it has a “narrower meaning” that includes “orders that stop (or perhaps compel)” such acts.  Direct Marketing Assn. v. Brohl,
+
+575 U.S. 1, 12–13 (2015) (emphasis deleted).
+
+															The object of the verbs “enjoin or restrain” is the “operation of ” certain provisions of federal immigration law.  See §§1221–1232.  The “operation of ” (a thing) means the functioning of or working of (that thing).  Random House Dictionary of the English Language 1357 (2d ed. 1987) (“an act or instance, process, or manner of functioning or operating”); Webster’s Third New International Dictionary, at 1581 (“method or manner of functioning”).  The way in which laws ordinarily “work” or “function” is through the actions of officials or other persons who implement them.  This is certainly true of the statutes to which §1252(f )(1) refers—i.e., the provisions of part IV of subchapter II of the Immigration and Nationality Act.  Those provisions charge the Federal Government with the implementation and enforcement of the immigration laws governing the inspection, apprehension, examination, and removal of aliens.  See §§1221–1232.  Accordingly, the “operation of ” the relevant statutes is best understood to refer to the Government’s efforts to enforce or implement them.  As the Government put it at oral argument, the “operation of the provisions” is a reference “not just to the statute itself but to the way that [it is] being carried out.”  Tr. of Oral Arg. 11.
+
+															Putting these terms together, §1252(f )(1) generally prohibits lower courts from entering injunctions that order federal officials to take or to refrain from taking actions to enforce, implement, or otherwise carry out the specified statutory provisions.
+
+															2
+
+															Section 1252(f )(1) includes one exception to this general prohibition: The lower courts retain the authority to “enjoin or restrain the operation of ” the relevant statutory provisions “with respect to the application of such provisions to an individual alien against whom proceedings under such part have been initiated.”
+
+															The Court has already commented on the meaning of this exception.  In Reno v. American-Arab Anti-Discrimination Comm.,
+
+525 U.S. 471, 481–482 (1999), we wrote that §1252(f )(1) “prohibits federal courts from granting classwide injunctive relief ” but “does not extend to individual cases.”  See also Jennings v. Rodriguez, 583 U. S. ___, ___ (2018) (slip op., at 29); Nken, 556 U. S., at 431.
+
+															This interpretation follows from the statutory text.  In framing the exception to the general ban on injunctive relief, Congress used the phrase “an individual alien.”  It thus employed a singular noun (“an alien”), modified by an adjective (“individual”) that means “pertaining or belonging to, or characteristic, of one single person.”  Black’s Law Dictionary, at 783.  Therefore, §1252(f )(1) does not preclude a court from entering injunctive relief on behalf of a particular alien (so long as “proceedings” against the alien have been “initiated”), but injunctive relief on behalf of an entire class of aliens is not allowed because it is not limited to remedying the unlawful “application” of the relevant statutes to “an individual alien.”
+
+															3
+
+															On this interpretation of §1252(f )(1), the injunctions entered by the District Courts in these cases were barred.  The respondents in both cases were detained pursuant to §1231(a)(6), and no one disputes that §1231(a)(6) is among the provisions the “operation” of which cannot be “enjoined or restrained” under §1252(f )(1).  Both District Courts entered injunctions requiring the Government to provide bond hearings not only for respondents but also for all other class members.[1]  Those orders “enjoin or restrain the operation” of §1231(a)(6) because they require officials to take actions that (in the Government’s view) are not required by §1231(a)(6) and to refrain from actions that (again in the Government’s view) are allowed by §1231(a)(6).  Those injunctions thus interfere with the Government’s efforts to operate §1231(a)(6), and the injunctions do not fall within the exception for individualized relief because the injunctions were entered on behalf of entire classes of aliens.[2]
+
+															B
+
+															Respondents advance two counter-arguments, but both fail.
+
+															1
+
+															Respondents first contend that “the operation” of the covered immigration provisions means the operation of those provisions “as properly interpreted” and that what §1252(f )(1) bars are class-wide injunctions that prohibit the Government from doing what the statute allows or commands.  Brief for Respondents 49 (emphasis added).
+
+															We do not think that this is the most natural interpretation of the term “operation,” since it is very common to refer to the “unlawful” or “improper” operation of whatever it is that is being operated.  See, e.g., Brendlin v. California,
+
+551 U.S. 249, 253 (2007) (“unlawful operation of the car”); Kansas v. Colorado,
+
+533 U.S. 1, 7 (2001) (“improper operation” of “drainage ditches”); Jeffers v. United States,
+
+432 U.S. 137, 149, n. 14 (1977) (plurality opinion) (“unlawful operation of motor carriers”); Chicago, B. & Q. R. Co. v. Willard, 
+
+220 U.S. 413, 424 (1911) (“unlawful operation of a railway”); United States v. Medford, 661 F.3d 746, 747 (CA4 2011) (“unlawful operation of video poker machines”); In re Dillon, 138 Fed. Appx. 609, 611 (CA5 2005) (“unlawful operation of public water utilities”); Cadillac/Oldsmobile/Nissan Center, Inc. v. General Motors Corp., 391 F.3d 304, 311 (CA1 2004) (“unlawful operation of [auto dealership]”); Ickes v. FAA, 299 F.3d 260, 265–266 (CA3 2002) (per curiam) (“unlawful operation of [airplane]”); Williams v. Panetta, 70 F.3d 110, 1995 WL 686128, *1 (CA1 1995) (per curiam) (“unlawful operation of a ‘megawatt’ CB radio”); Cox Cable Tucson, Inc. v. Ladd, 795 F.2d 1479, 1485 (CA9 1986) (“unlawful operation of its CATV cable systems” (internal quotation marks omitted)).  If cars, trucks, railroads, water utilities, drainage ditches, auto dealerships, planes, radios, video poker machines, cable TV systems, and many other things can be unlawfully or improperly operated, it is not apparent why the same cannot be said of a statute.  Thus, the ordinary meaning of the language of §1252(f )(1) weighs against respondents’ interpretation.[3]
+
+															Apart from ordinary meaning, the statutory context provides three additional reasons to reject respondents’ reading.  First, respondents’ interpretation, which makes the reach of §1252(f )(1) depend on the nature of the claim in question, clashes with §1252(f )(1)’s prefatory clause, which states that the bar applies “[r]egardless of the nature of the action or claim.”  See also Nielsen v. Preap, 586 U. S. ___, ___ (2019) (slip op., at 4) (Thomas, J., concurring in part and concurring in judgment).
+
+															Second, respondents’ interpretation would limit §1252(f )(1)’s restriction to a most unlikely set of claims.  With perhaps a few small exceptions,[4] the only claims to which §1252(f )(1)’s prohibition would apply are constitutional claims.  But it would be most unusual for Congress to disfavor constitutional claims in this way.  Cf. Webster v. Doe,
+
+486 U.S. 592, 603 (1988) (requiring “clear” indication of congressional intent to “preclude judicial review of constitutional claims”).  And if Congress had wanted to target just constitutional claims, it could have surely made the point more directly.  The suggestion that Congress sought to achieve that goal by using the term “operation” is far-fetched.
+
+															Third, respondents’ interpretation would make a court’s jurisdiction to entertain a request for class-wide injunctive relief dependent upon the merits of the claim.  Under respondents’ reading, if a complaint sought class-wide relief on the ground that the Government was misinterpreting and misapplying a covered statutory provision, the court would proceed to adjudicate the merits of that claim and might even hold a trial.  But if the court ultimately rejected the claim on the merits, that holding would mean that the court never had jurisdiction to grant that request for relief.[5]
+
+															For all these reasons, respondents’ interpretation of “operation” must be rejected.
+
+															2
+
+															Respondents next argue that §1252(f )(1) allows class-wide relief so long as all the class members are  “individuals who already face the enforcement action.”  Brief for Respondents 55 (emphasis added).  But §1252(f )(1) refers to “an individual,” not “individuals,” and as noted, we have stated on more than one occasion that it bars class-wide injunctive relief.  See American-Arab Anti-Discrimination Comm., 525 U. S., at 481; Jennings, 583 U. S., at ___ (slip op., at 29); Nken, 556 U. S., at 431.
+
+															Respondents dispute the correctness of these statements and point out that a nearby provision, §1252(e)(1)(B), expressly bars the  certification of “a class under Rule 23 of the Federal Rules of Civil Procedure.”  Because §1252(f )(1) lacks any express reference to class actions, respondents infer that no preclusion of class-wide relief was intended.
+
+															We are reluctant to give much weight to this negative inference.  It is possible that §1252(f )(1) simply uses different language to bar class-wide injunctive relief and extends no further.  But if the provision is not read that way, then the most plausible reading is not that it allows class-wide relief but rather that it permits injunctive relief only “with respect to the application of [a covered provision] to an individual alien against whom proceedings under such part have been initiated.”  §1252(f )(1) (emphasis added).  A literal reading of that language could rule out efforts to obtain any injunctive relief that applies to multiple named plaintiffs (or perhaps even rule out injunctive relief in a lawsuit brought by multiple named plaintiffs).
+
+															The Government does not advocate that we adopt such an interpretation, see Reply Brief 11, and we have no occasion to do so in these cases.  It is sufficient to hold that the class-wide injunctive relief awarded in these cases was unlawful.[6]
+
+															*  *  *
+
+															The judgments of the Court of Appeals are reversed, and the cases are remanded for further proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+ See Gonzalez v. Sessions, 325 F.R.D. 616, 629 (ND Cal. 2018) (“The Government is enjoined from detaining Plaintiffs and the class members pursuant to section 1231(a)(6) for more than 180 days without providing each a bond hearing before an [immigration judge]”); ECF Doc. 77–1, at 2 (“The Government is enjoined from enforcing their policy and practice of failing to provide class members with individualized custody hearings before an [immigration judge] every six months” (boldface and capitalization omitted)). 
+
+2
+ At oral argument, the Government suggested that §1252(f )(1) not only bars class-wide injunctive relief but also prohibits any other form of relief that is “practically similar to an injunction,” including class-wide declaratory relief.  Tr. of Oral Arg. 16.  The Government analogized §1252(f )(1) to the Tax Injunction Act,
+
+28 U. S. C. §1341, which we have held extends to declaratory judgments.  See California v. Grace Brethren Church,
+
+457 U.S. 393, 408–409 (1982).  Because only injunctive relief was entered here, we have no occasion to address this argument. 
+
+3
+ The dissent agrees that “operation” means “functioning” or “working,” but it claims that “unlawful agency action is not a part of the functioning or working of the authorizing statute.”  Post, at 4 (opinion of Sotomayor, J.).  The reason that statutes cannot be operated unlawfully, according to the dissent, is this: “[A] statute is the law.  Officials may implement a statute unlawfully, but a statute does not operate in conflict with itself.”  Post, at 11.  But because to “implement” a statute is to “carry out” that statute, Random House Dictionary of the English Language 715 (2d ed. 1987); Webster’s Third New International Dictionary 1134 (1993), the dissent’s concession that a statute can be “implement[ed]” “unlawfully” is quite damaging to its position.  The dissent asserts, but never explains why, the same cannot be said of a statute’s “operation.” 
+
+4
+ Respondents argue in passing that their interpretation would also bar injunctive relief for certain statutory claims.  See Brief for Respondents 52; see also post, at 12–13.  Respondents hypothesize a situation in which a non-immigration statute, or some immigration statute not specified in §1252(f )(1), might require injunctive relief against the enforcement of one of the covered immigration provisions.  Their brief cited no case in which such a situation has ever arisen.  At oral argument counsel for respondents did reference one case, see Tr. of Oral Arg. 34–35 (referencing Gonzales v. DHS, 508 F.3d 1227 (CA9 2007)), but that case stands at most for the unresponsive proposition that a court may enjoin the unlawful operation of a provision that is not specified in §1252(f )(1) even if that injunction has some collateral effect on the operation of a covered provision, see id., at 1233. 
+
+5
+ The dissent says, post, at 13, that it is common for jurisdictional inquiries and the merits to overlap, and that is of course true.  But the dissent’s interpretation would mean that §1252(f )(1) precludes injunctive relief for a plaintiff ’s statutory claim if, but only if, that claim already independently fails on the merits.  The dissent cannot seriously dispute that such complete overlap between a jurisdictional inquiry and the merits of a claim is unusual, and an interpretation of §1252(f )(1) that bars injunctive relief only when such relief would already be improper fails to “give effect” to “every clause” of §1252(f )(1).  Duncan v. Walker,
+
+533 U.S. 167, 174 (2001) (internal quotation marks omitted). 
+
+6
+ The dissent also notes that Califano v. Yamasaki,
+
+442 U.S. 682, 698–701 (1979), held that the Social Security Act provisions permitting “ ‘[a]ny individual’ ” to file a “civil action” did not preclude class-wide relief.  See post, at 7–8, 14.  That judicial-review provision, the Court reasoned, was not “exempt” from the “operation of the Federal Rules of Civil Procedure” that authorized class actions.  Califano, 442 U. S., at 700.  Section 1252(f )(1) is quite different: It does not authorize judicial review but limits it, and the saving clause is an exception to the general bar on injunctive relief that must be read “narrowly in order to preserve the primary operation of the provision.”  Maracich v. Spears,
+
+570 U.S. 48, 60 (2013) (internal quotation marks omitted).  Califano is thus inapposite. 
+
+

@@ -1,0 +1,96 @@
+::SCDB_caseID:: 2004-071
+::decision_cite:: 545 U.S. 546 (2005)
+::decision_name::  Exxon Mobil Corp. v. Allapattah Services, Inc.
+::decision_year:: 2005
+::opinion_author:: Stevens
+::opinion_type:: Dissent
+::opinion:: 
+
+
+STEVENS, J., DISSENTING
+EXXON MOBIL CORP. V. ALLAPATTAH SERVICES, INC.
+545 U. S. ____ (2005)
+SUPREME COURT OF THE UNITED STATES
+NOS. 04-70 AND 04-79
+
+
+
+
+
+															
+EXXON MOBIL CORPORATION, PETITIONER
+
+															
+04–70   v.
+
+															
+ALLAPATTAH SERVICES, INC., et al. 
+
+															on writ of certiorari to the united states court of
+appeals for the eleventh circuit
+
+															
+MARIA del ROSARIO ORTEGA, et al., PETITIONERS
+
+															
+04–79   v.
+
+															
+STAR-KIST FOODS, INC.
+
+															on writ of certiorari to the united states court of appeals for the first circuit
+
+															[June 23, 2005]
+
+
+
+															   Justice Stevens, with whom Justice Breyer joins, dissenting.
+
+															
+   Justice Ginsburg’s carefully reasoned opinion, post, at 1 (dissenting opinion), demonstrates the error in the Court’s rather ambitious reading of this opaque jurisdictional statute.  She also has demonstrated that “ambiguity” is a term that may have different meanings for different judges, for the Court has made the remarkable declaration that its reading of the statute is so obviously correct—and Justice Ginsburg’s so obviously wrong—that the text does not even qualify as “ambiguous.”  See ante, at 20.  Because ambiguity is apparently in the eye of the beholder, I remain convinced that it is unwise to treat the ambiguity vel non of a statute as determinative of whether legislative history is consulted.  Indeed, I believe that we as judges are more, rather than less, constrained when we make ourselves accountable to all reliable evidence of legislative intent.  See Koons Buick Pontiac GMC, Inc. v. Nigh, 543 U. S. __ (2004) (slip op., at 2, and n. 1) (Stevens, J., concurring).
+
+															
+
+   The legislative history of 28 U. S. C. §1367 provides powerful confirmation of Justice Ginsburg’s interpretation of that statute.  It is helpful to consider in full the relevant portion of the House Report, which was also adopted by the Senate:
+
+															“This section would authorize jurisdiction in a case like Finley [v. United States, 490 U. S. 545 (1989)], as well as essentially restore the pre-Finley understandings of the authorization for and limits on other forms of supplemental jurisdiction.  In federal question cases, it broadly authorizes the district courts to exercise supplemental jurisdiction over additional claims, including claims involving the joinder of additional parties.  In diversity cases, the district courts may exercise supplemental jurisdiction, except when doing so would be inconsistent with the jurisdictional requirements of the diversity statute.
+
+															.....
+
+															   “Subsection 114(b) [§1367(b)] prohibits a district court in a case over which it has jurisdiction founded solely on the general diversity provision, 28 U. S. C. §1332, from exercising supplemental jurisdiction in specified circumstances.  [Footnote 16: ‘The net effect of subsection (b) is to implement the principal rationale of Owen Equipment & Erection Co. v. Kroger, 437 U. S. 365 (1978)’.]  In diversity-only actions the district courts may not hear plaintiffs’ supplemental claims when exercising supplemental jurisdiction would encourage plaintiffs to evade the jurisdictional requirement of 28 U. S. C. §1332 by the simple expedient of naming initially only those defendants whose joinder satisfies section 1332’s requirements and later adding claims not within original federal jurisdiction against other defendants who have intervened or been joined on a supplemental basis.  In accord with case law, the subsection also prohibits the joinder or intervention of persons a plaintiffs if adding them is inconsistent with section 1332’s requirements.  The section is not intended to affect the jurisdictional requirements of 28 U. S. C. §1332 in diversity-only class actions, as those requirements were interpreted prior to Finley.  [Footnote 17: ‘See Supreme Tribe of Ben-Hur v. Cauble, 255 U. S. 356 (1921); Zahn v. International Paper Co., 414 U. S. 291 (1973)’.]
+
+															
+
+   “Subsection (b) makes one small change in pre-Finley practice.  Anomalously, under current practice, the same party might intervene as of right under Federal Rule of Civil Procedure 23(a) and take advantage of supplemental jurisdiction, but not come within supplemental jurisdiction if parties already in the action sought to effect the joinder under Rule 19.  Subsection (b) would eliminate this anomaly, excluding Rule 23(a) plaintiff-intervenors to the same extent as those sought to be joined as plaintiffs under Rule 19.”  H. R. Rep. No. 101–734, pp. 28–29 (1990) (footnote omitted) (hereinafter House Report or Report).[Footnote 1]
+
+															
+Not only does the House Report specifically say that §1367 was not intended to upset Zahn v. International Paper Co., 414 U. S. 291 (1973), but its entire explanation of the statute demonstrates that Congress had in mind a very specific and relatively modest task—undoing this Court’s 5-to-4 decision in Finley v. United States, 490 U. S. 545 (1989).  In addition to overturning that unfortunate and much-criticized decision,[Footnote 2] the statute, according to the Report, codifies and preserves the “the pre-Finley understandings of the authorization for and limits on other forms of supplemental jurisdiction,” House Report, at 28, with the exception of making “one small change in pre-Finley practice,” id., at 29, which is not relevant here.
+
+															
+
+   The sweeping purpose that the Court’s decision imputes to Congress bears no resemblance to the House Report’s description of the statute.  But this does not seem to trouble the Court, for its decision today treats statutory interpretation as a pedantic exercise, divorced from any serious attempt at ascertaining congressional intent.  Of course, there are situations in which we do not honor Congress’ apparent intent unless that intent is made “clear” in the text of a statute—in this way, we can be certain that Congress considered the issue and intended a disfavored outcome, see, e.g., Landgraf v. USI Film Products, 511 U. S. 244 (1994) (requiring clear statement for retroactive civil legislation).  But that principle provides no basis for discounting the House Report, given that our cases have never recognized a presumption in favor of expansive diversity jurisdiction.
+
+															
+
+   The Court’s reasons for ignoring this virtual billboard of congressional intent are unpersuasive.  That a subcommittee of the Federal Courts Study Committee believed that an earlier, substantially similar version of the statute overruled Zahn, see ante, at 22, only highlights the fact that the statute is ambiguous.  What is determinative is that the House Report explicitly rejected that broad reading of the statutory text.  Such a report has special significance as an indicator of legislative intent.  In Congress, committee reports are normally considered the authoritative explication of a statute’s text and purposes, and busy legislators and their assistants rely on that explication in casting their votes.  Cf. Garcia v. United States, 469 U. S. 70, 76 (1984) (“In surveying legislative history we have repeatedly stated that the authoritative source for finding the Legislature’s intent lies in the Committee Reports on the bill, which ‘represen[t] the considered and collective understanding of those Congressmen involved in drafting and studying proposed legislation’ ” (quoting Zuber v. Allen, 396 U. S. 168, 186 (1969)) (brackets in original)).
+
+															
+
+   The Court’s second reason—its comment on the three law professors who participated in drafting §1367, see ante, at 23—is similarly off the mark.  In the law review article that the Court refers to, the professors were merely saying that the text of the statute was susceptible to an overly broad (and simplistic) reading, and that clarification in the House Report was therefore appropriate.  See Rowe, Burbank, & Mengler, Compounding or Creating Confusion About Supplemental Jurisdiction? A Reply to Professor Freer, 40 Emory L. J. 943, 960, n. 90 (1991).[Footnote 3] Significantly, the reference to Zahn in the House Report does not at all appear to be tacked-on or out of place; indeed, it is wholly consistent with the Report’s broader explanation of Congress’ goal of overruling Finley and preserving pre-Finley law.  To suggest that these professors participated in a “deliberate effort to amend a statute through a committee report,” ante, at 23, reveals an unrealistic view of the legislative process, not to mention disrespect for three law professors who acted in the role of public servants.  To be sure, legislative history can be manipulated.  But, in the situation before us, there is little reason to fear that an unholy conspiracy of “unrepresentative committee members,” ante, at 21, law professors, and “unelected staffers and lobbyists,” ibid., endeavored
+to torpedo Congress’ attempt to overrule (without discussion) two longstanding features of this Court’s diversity jurisprudence.
+
+															
+
+   After nearly 20 pages of complicated analysis, which explores subtle doctrinal nuances and coins various neologisms, the Court announces that §1367 could not reasonably be read another way.  See ante, at 20.  That conclusion is difficult to accept.  Given Justice Ginsburg’s persuasive account of the statutory text and its jurisprudential backdrop, and given the uncommonly clear legislative history, I am confident that the majority’s interpretation of §1367 is mistaken.  I respectfully dissent. 
+
+Footnote 1
+															 The last quoted paragraph was intended to refer to Rule 24, not Rule 23.  See ante, at 21.
+
+Footnote 2
+															 As I pointed out in my dissent in Finley, the majority's decision was “not faithful to our precedents,” 490 U. S., at 558, and casually dismissed the accumulated wisdom of judges such as Henry Friendly, who had “special learning and expertise in matters of federal jurisdiction," id., at 565.
+
+Footnote 3
+															 The professors’ account of the challenges they faced in drafting §1367 gives some sense, I think, of why that statute has proved difficult to interpret: “More broadly, codifying a complex area like supplemental jurisdiction—as Professor Freer’s discussion illustrates—is itself complex business.  A danger is that that result of the effort to deal with all the foreseeables will be a statute too prolix and baroque for everyday use and application by practitioners and judges.  Section 1367 reflects an effort to provide sufficient detail without overdoing it.  The statute is concededly not perfect.  What it accomplishes, however, is to change the direction taken by the Supreme Court in Finley, to provide basic guidance (in particular the legislative history’s general approval of pre-Finley case law, which has treated some specific issues Professor Freer raises), and then to trust the federal courts under the changed direction to interpret the statute sensibly. . . .”   40 Emory L. J., at 961.
+
+
+

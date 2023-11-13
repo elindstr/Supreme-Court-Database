@@ -1,0 +1,136 @@
+::SCDB_caseID:: 2020-019
+::decision_cite:: 19-783
+::decision_name::  Van Buren v. United States
+::decision_year:: 2021
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–783
+
+															_________________
+
+															NATHAN VAN BUREN, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 3, 2021]
+
+															
+
+															Justice Thomas, with whom The Chief Justice and Justice Alito join, dissenting.
+
+															Both the common law and statutory law have long punished those who exceed the scope of consent when using property that belongs to others.  A valet, for example, may take possession of a person’s car to park it, but he cannot take it for a joyride.  The Computer Fraud and Abuse Act extends that principle to computers and information.  The Act prohibits exceeding the scope of consent when using a computer that belongs to another person.  Specifically, it punishes anyone who “intentionally accesses a computer without authorization or exceeds authorized access, and thereby obtains” information from that computer.
+
+18 U. S. C. §1030(a)(2).
+
+															As a police officer, Nathan Van Buren had permission to retrieve license-plate information from a government database, but only for law enforcement purposes.  Van Buren disregarded this limitation when, in exchange for several thousand dollars, he used the database in an attempt to unmask a potential undercover officer.
+
+															The question here is straightforward: Would an ordinary reader of the English language understand Van Buren to have “exceed[ed] authorized access” to the database when he used it under circumstances that were expressly forbidden?  In my view, the answer is yes.  The necessary precondition that permitted him to obtain that data was absent. 
+
+															The Court does not dispute that the phrase “exceeds authorized access” readily encompasses Van Buren’s conduct.  It notes, instead, that the statute includes a definition for that phrase and that “we must follow that definition, even if it varies from a term’s ordinary meaning.”  Tanzin v. Tanvir, 592 U. S. ___, ___ (2020) (slip op., at 3) (internal quotation marks omitted).  The problem for the majority view, however, is that the text, ordinary principles of property law, and statutory history establish that the definitional provision is quite consistent with the term it defines.
+
+															I
+
+															A
+
+															The Act defines “exceeds authorized access” as “to access a computer with authorization and to use such access to obtain or alter information in the computer that the accesser is not entitled so to obtain or alter.”  §1030(e)(6).  For purposes of this appeal, it is agreed that Van Buren was authorized to log into a government database and that he used his entry to obtain fake license-plate information from that database.  I thus agree with the majority that this case turns on whether Van Buren was “entitled so to obtain” the fake license-plate information.  I also agree that “so” asks whether Van Buren had a right to obtain that information through the means identified earlier in the definition: (1) accessing a computer with authorization and (2) using that access to obtain information in the computer.  In other words, Van Buren’s conduct was legal only if he was entitled to obtain that specific license-plate information by using his admittedly authorized access to the database.
+
+															He was not.  A person is entitled to do something only if he has a “right” to do it.  Black’s Law Dictionary 477 (5th ed. 1979); see also American Heritage Dictionary 437 (def. 3a) (1981) (to “allow” or to “qualify”).  Van Buren never had a “right” to use the computer to obtain the specific license-plate information.  Everyone agrees that he obtained it for personal gain, not for a valid law enforcement purpose.  And without a valid law enforcement purpose, he was forbidden to use the computer to obtain that information. 
+
+															B
+
+															The majority postulates an alternative reading of this definitional provision: So long as a person is entitled to use a computer to obtain information in at least one circumstance, this statute does not apply even if the person obtains the data outside that circumstance.  In effect, the majority reads the statute to apply only when a person is “not entitled [under any possible circumstance] so to obtain” information.  This interpretation is flawed for a number of reasons.
+
+															1
+
+															Foremost, that interpretation is contrary to the plain meaning of the text.  Entitlements are necessarily circumstance dependent; a person is entitled to do something only when “proper grounds” or facts are in place.  Black’s Law Dictionary, at 477.  Focusing on the word “so,” the majority largely avoids analyzing the term “entitled,” concluding at the outset in a single sentence that Van Buren was entitled to obtain this license-plate information.  Ante, at 5.  But the plain meaning of “entitled” compels the opposite conclusion.  Because Van Buren lacked a law enforcement purpose, the “proper grounds” did not exist.  He was not entitled to obtain the data when he did so.  
+
+															A few real-world scenarios illustrate the point.  An employee who is entitled to pull the alarm in the event of a fire is not entitled to pull it for some other purpose, such as to delay a meeting for which he is unprepared.  A valet who obtains a car from a restaurant patron is—to borrow the language from §1030(e)(6)—“entitled” to “access [the car]” and “entitled” to “use such access” to park and retrieve it.  But he is not “entitled” to “use such access” to joyride.  See, e.g., Ind. Code §35–43–4–3 (2020) (felonious criminal conversion to “knowingly or intentionally exer[t] unauthorized control over property of another” if “the property is a motor vehicle”); In re Clayton, 778 N.E.2d 404, 405 (Ind. 2002) (interpreting this statute to cover misuse of property a person otherwise is entitled to access).  And, to take an example closer to this statute, an employee of a car rental company may be “entitled” to “access a computer” showing the GPS location history of a rental car and “use such access” to locate the car if it is reported stolen.  But it would be unnatural to say he is “entitled” to “use such access” to stalk his ex-girlfriend.
+
+															The majority offers no real response.  It notes that “entitled” is modified by “so” and that courts must therefore consider whether a person is entitled to use a computer to obtain information.  Ante, at 10.  But if a person is not entitled to obtain information at all, it necessarily follows that he has no “right to access the information by using a computer.”  Ante, at 9.  Van Buren was not entitled to obtain this information at all because the condition precedent needed to trigger an entitlement—a law enforcement purpose—was absent.
+
+															2
+
+															Next, the majority’s reading is at odds with basic principles of property law.  By now, it is well established that information contained in a computer is “property.”  Nobody doubts, for example, that a movie stored on a computer is intellectual property.  Federal and state law routinely define “property” to include computer data.  E.g.,
+
+12 U. S. C. §5433; N. Y. Penal Law Ann. §155.00 (West 2010).  And even the majority acknowledges that this statute is designed to protect property.  Ante, at 2.  Yet it fails to square its interpretation with the familiar rule that an entitlement to use another person’s property is circumstance specific.
+
+															Consider trespass.  When a person is authorized to enter land and entitled to use that entry for one purpose but does so for another, he trespasses.  As the Second Restatement of Torts explains, “[a] conditional or restricted consent to enter land creates a privilege to do so only in so far as the condition or restriction is complied with.”  §168, p. 311 (1964).  The Restatement includes a helpful illustration:
+
+															“3. A grants permission to B, his neighbor, to enter A’s land, and draw water from A’s spring for B’s own use.  A has specifically refused permission to C to enter A’s land and draw water from the spring.  At C’s instigation, B enters A’s land and obtains for C water from the spring.  B’s entry is a trespass.”  Ibid., Comment b.
+
+															What is true for land is also true in the computer context; if a company grants permission to an employee to use a computer for a specific purpose, the employee has no authority to use it for other purposes. 
+
+															Consider, too, the common understanding of theft.  A person who is authorized to possess property for a limited purpose commits theft the moment he “exercises unlawful control over” it, which occurs “whenever consent or authority is exceeded.”  ALI, Model Penal Code §223.2(1), pp. 162, 168 (1980).  To again borrow the language from §1030(e)(6), a police officer may have authority to “access” the department’s bank account and “use such access” to cover law enforcement expenses, but he is nonetheless guilty of embezzlement if he “uses such access” to line his pockets.  He would not be exonerated simply because he would be “entitled so to obtain” funds from the account under other circumstances.  
+
+															Or take bailment.  A bailee commits conversion—which many jurisdictions criminalize—when he, “having no authority to use the thing bailed, nonetheless uses it, or, having authority to use it in a particular way, uses it in a different way.”  8 C. J. S., Bailments §43, pp. 480–481 (2017) (footnote omitted).  A computer technician may have authority to access a celebrity’s computer to recover data from a crashed hard drive, but not to use his access to copy and leak to the press photos stored on that computer. 
+
+															The majority makes no attempt to square its interpretation with this familiar principle.  Instead, it sweeps away this context by stating that Congress did not include in this statute any common-law terms.  Ante, at 8, n. 4.  But the statute does use words like “exceed” and “authority” that are common to other property contexts.  And the majority never identifies any particular property-law buzzwords that it thinks Congress was obliged to include.
+
+															The majority next says that relying on pre-existing concepts of property law is “ill advised” because Congress enacted this law in light of a “failure of pre-existing law to capture computer crime.”  Ante, at 2, 8, n. 4 (citing Kerr, Cybercrime’s Scope: Interpreting “Access” and “Authorization” in Computer Misuse Statutes, 78 N. Y. U. L. Rev. 1596 (2003)).  Yet the reasons why pre-existing law was considered inadequate undermine the majority’s position.  First, state laws were used to cover conduct like Van Buren’s, but doing so “require[d] considerable creativity” because those laws typically required either “physical” entry (which fit poorly with computers) or “depriv[ing]” a victim of property (which fit poorly where a person “merely copied” data or engaged in forbidden “personal uses”).  Id., at 1607–1608, 1610–1611.  Second, the fit was even more awkward for federal laws, which were “more limited in scope.”  Id., at 1608.  Congress did not enact this law to eliminate the established principle that entitlements to use property are circumstance specific, but instead to eliminate the deprivation and physical-entry requirements.   
+
+															Unable to square its interpretation with established principles of property law, the majority contends that its interpretation is more harmonious with a separate clause in the statute that forbids “access[ing] a computer without authorization.”  §1030(a)(2).  In the majority’s telling, this clause requires “a gates-up-or-down inquiry—one either can or cannot access a computer system,” so it makes sense to read the “exceeds authorized access” clause in the same sentence to include the same approach.  Ante, at 13–14.
+
+															I agree that the two clauses should be read harmoniously, but there is no reason to believe that if the gates are up in a single instance, then they must remain up indefinitely.  An employee who works with sensitive defense information may generally have authority to log into his employer-issued laptop while away from the office.  But if his employer instructs him not to log in while on a trip to a country where network connections cannot be trusted, he accesses the computer without authorization if he logs in anyway.  For both clauses, discerning whether the gates are up or down requires considering the circumstances that cause the gates to move.
+
+															In fact, my reading harmonizes both clauses with established concepts of property law.  Property law generally protects against both unlawful entry and unlawful use after entry.  E.g., Restatement (Second) of Torts §214, Comment e, at 408–409; 8 C. J. S., Bailments §43, at 480–481.  The same is true here.  The police department could protect information by prohibiting officers from logging in with an improper purpose, but that would do little good if an officer logged in at the start of his shift with proper intent and then, hours later while still logged in, conducted license-plate searches in exchange for payment.  By including both the “without authorization” and “exceeds authorized access” clauses, Congress ensured protection against improper login as well as misuse after proper login. 
+
+															3
+
+															The majority’s interpretation—that criminality turns on whether there is a single exception to a prohibition—also leads to awkward results.  Under its reading, an employee at a credit-card company who is forbidden to obtain the purchasing history of clients violates the Act when he obtains that data about his ex-wife—unless his employer tells him he can obtain and transfer purchase history data when an account has been flagged for possible fraudulent activity.  The same is true of the person who, minutes before resigning, deletes every file on a computer.  See Royal Truck & Trailer Sales & Serv., Inc. v. Kraft, 974 F.3d 756, 758 (CA6 2020).  So long as an employee could obtain or alter each file in some hypothetical circumstance, he is immune.  But the person who plays a round of solitaire is a criminal under the majority’s reading if his employer, concerned about distractions, categorically prohibits accessing the “games” folder in Windows.  It is an odd interpretation to “stak[e] so much” on the presence or absence of a single exception.  Ante, at 20.
+
+															The majority’s interpretation is especially odd when applied to other clauses in the statute.  Section 1030(a)(1) prohibits “exceeding authorized access” to obtain “restricted data . . . with reason to believe that such information so obtained could be used to the injury of the United States, or to the advantage of any foreign nation,” and retaining or distributing that data.  The term “restricted data” is defined to include “all data concerning (1) design, manufacture, or utilization of atomic weapons.”
+
+42 U. S. C. §2014(y).  Under the majority’s reading, so long as a scientist may obtain blueprints for atomic weapons in at least one circumstance, he would be immune if he obtained that data for the improper purpose of helping an unfriendly nation build a nuclear arsenal.  It is difficult to see what force this provision—in place in substantially similar form since 1984—has under the majority’s reading. 
+
+															4
+
+															Were there any remaining doubt about which interpretation better fits the statute, the defined term settles it.  When a definition is susceptible of more than one reading, the one that best matches the plain meaning of the defined term ordinarily controls.  See, e.g., Bond v. United States,
+
+572 U.S. 844, 861 (2014) (considering the “ordinary meaning of a defined term”); id., at 870 (Scalia, J., concurring in judgment) (courts may “us[e] the ordinary meaning of the term being defined for the purpose of resolving an ambiguity in the definition” (emphasis deleted)).  That is because “there is a presumption against” reading a provision contrary to the ordinary meaning of the term it defines.  A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 232 (2012); see also id., at 228 (“[T]he meaning of the definition is almost always closely related to the ordinary meaning of the word being defined”).
+
+															The majority instead resolves supposed ambiguity in the definition against the plain meaning of the defined term.  It adopts a “favor[ed]” interpretation of the definition and then asks whether the defined term can be interpreted in a way “consistent” with this “favor[ed]” view.  Ante, at 11.  But “[i]t should take the strongest evidence to make us believe that Congress has defined a term in a manner repugnant to its ordinary and traditional sense.”  Babbitt v. Sweet Home Chapter, Communities for Great Ore.,
+
+515 U.S. 687, 719 (1995) (Scalia, J., dissenting).  The majority identifies no such evidence.  The most it says is that my reading of “exceeds authorized access” is not “necessarily” best because “access” can have a technical meaning: entering the computer system or a part of the computer system.  Ante, at 11, 12, n. 6.  But whatever meaning “access” might have, “authority”—like “entitled”—is circumstance dependent.  The majority’s reading of “access” confirms that point.  The definitions the majority cites reference not mere entry, but using entry to obtain specific data.  Ante, at 12, n. 6.  That accords with the definition here, which regulates a person’s “use” of a computer after entering it.  §1030(e)(6).  Here, as in other contexts of property law, a person’s authority to use his access to property is circumstance dependent.  The majority’s focus on the term “access”—at the expense of “authority” and “entitled”—harms, not helps, its argument.
+
+															II
+
+															What the text and established concepts of property law make clear, statutory history reinforces. The original text of this Act expressly prohibited accessing a computer with authorization and then “us[ing] the opportunity such access provides for purposes to which such authorization does not extend.”
+
+98Stat.
+2191.  The Act thus applied when persons used computers for improper reasons—just like Van Buren indisputably did here.
+
+															The majority does not deny this.  Instead, it notes that Congress amended the text in 1986 to its present definition, and it says that the Court can presume that Congress’ decision to omit the term “purpose” necessarily eliminated any prohibition against obtaining information for an improper purpose.  Ante, at 17.
+
+															But the majority cannot so easily evade this history.  True, the statute previously included the term “purpose” and now does not, but the majority fails to consider how that change affected the statute.  Often, deleting a word expands, rather than constricts, the scope of a provision.  If a city changes a sign in a park from “no unleashed dogs” to “no dogs,” nobody would presume that unleashed dogs are now allowed.  The same is true when the specific is replaced by the general (“no dogs” to “no pets”).  
+
+															Congress’ change to this statute similarly broadened the law.  The original text prohibited accessing a computer with authorization then “us[ing] the opportunity such access provides for purposes to which such authorization does not extend.”  The term “purpose” limited that clause to purpose-based constraints.  It did not naturally include other constraints, such as time and manner restrictions.  By replacing the specific, limited term “purposes” with the broader, more general phrase “not entitled,” Congress gave force to those other kinds of constraints.  Consider the previous example of the employee who violates an instruction not to log in while in an unfriendly foreign country with insecure networks. The original text would not cover him, so long as he logged in for a proper purpose like checking work e-mail.  The newer text would cover him because his entitlement to obtain or alter data is context dependent.  His purpose is innocent, but the time or manner of his use is not.
+
+															III
+
+															The majority ends with policy arguments.  It suggests they are not needed.  Ante, at 17 (“ ‘extra icing on a cake already frosted’ ”).  Yet, it stresses them at length.  Ante, at 17–20.  Regardless, the majority’s reliance on these policy arguments is in error.
+
+															Concerned about criminalizing a “breathtaking amount of commonplace computer activity,” the majority says that the way people use computers today “underscores the implausibility of the Government’s interpretation.”  Ante, at 17.  But statutes are read according to their “ ‘ordinary meaning at the time Congress enacted the statute.’ ”  Wisconsin Central Ltd. v. United States, 585 U. S. ___, ___ (2018) (slip op., at 2) (ellipsis omitted).  The majority’s reliance on modern-day uses of computers to determine what was plausible in the 1980s wrongly assumes that Congress in 1984 was aware of how computers would be used in 2021.
+
+															I also would not so readily assume that my interpretation would automatically cover so much conduct.  Many provisions plausibly narrow the statute’s reach.  For example, the statute includes the strict mens rea requirement that a person must “intentionally . . . excee[d] authorized access.”  §1030(a)(2).  The statute thus might not apply if a person believes he is allowed to use the computer a certain way because, for example, that kind of behavior is common and tolerated.  Cf. Restatement (Second) of Contracts §223(2) (1979) (discussing how an established “course of dealing” can erase written limitations in certain contractual contexts).  The Act also concerns only “obtain[ing] or alter[ing] information in the computer,” §1030(e)(6) (emphasis added), not using the Internet to check sports scores stored in some distant server (i.e., a different computer).  The majority does not deny that many provisions plausibly narrow the focus of this statute.  It simply faults the government for not arguing the point more forcefully.  Ante, at 18–19.  I would not give so much weight to the hypothetical concern that the Government might start charging innocuous conduct and that courts might interpret the statute to cover that conduct. 
+
+															The majority’s argument also proves too much.  Much of the Federal Code criminalizes common activity.  Absent aggravating factors, the penalty for violating this Act is a misdemeanor.  §1030(c)(2)(A).  This Act thus penalizes mine-run offenders about as harshly as federal law punishes a person who removes a single grain of sand from the National Mall,
+
+40 U. S. C. §8103(b); breaks a lamp in a Government building, ibid.; or permits a horse to eat grass on federal land,
+
+18 U. S. C. §1857.  The number of federal laws and regulations that trigger criminal penalties may be as high as several hundred thousand.  Fields & Emshwiller, Many Failed Efforts To Count Nation’s Federal Criminal Laws, Wall-Street Journal (July 23, 2011).[1]  It is understandable to be uncomfortable with so much conduct being criminalized, but that discomfort does not give us authority to alter statutes.
+
+															*  *  *
+
+															In the end, the Act may or may not cover a wide array of conduct because of changes in technology that have occurred since 1984.  But the text makes one thing clear: Using a police database to obtain information in circumstances where that use is expressly forbidden is a crime.  I respectfully dissent. 
+Notes
+1
+ www.wsj.com/article/SB10001424052702304319804576389601079728920.html. 
+
+

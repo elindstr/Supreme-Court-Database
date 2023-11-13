@@ -1,0 +1,125 @@
+::SCDB_caseID:: 2004-043
+::decision_cite:: 544 U.S. 408 (2005)
+::decision_name::  Pace v. DiGuglielmo
+::decision_year:: 2005
+::opinion_author:: Stevens
+::opinion_type:: Dissent
+::opinion:: 
+
+
+STEVENS, J., DISSENTING
+PACE V. DIGUGLIELMO
+544 U. S. ____ (2005)
+SUPREME COURT OF THE UNITED STATES
+NO. 03-9627
+
+
+
+
+
+															JOHN A. PACE, PETITIONER v. DAVID
+DiGUGLIELMO, SUPERINTENDENT,
+STATE CORRECTIONAL INSTITU-
+TION AT GRATERFORD, et al.
+
+															on writ of certiorari to the united states court of appeals for the third circuit
+
+															[April 27, 2005]
+
+
+
+															   Justice Stevens, with whom Justice Souter, Justice Ginsburg, and Justice Breyer join, dissenting.
+
+															
+   Under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), prisoners in state custody have a 1-year window in which they may file a federal habeas corpus petition.  28 U. S. C. §2244(d)(1).  The statute provides, however, for tolling of the statute of limitations during the pendency of any “properly filed application for State post-conviction or other collateral review.”  §2244(d)(2).  Under the interpretation of that statutory provision adopted by the Court today, a petition for state postconviction relief does not constitute a “properly filed application for … collateral review,” even if the application has been accepted, filed, and reviewed in full by the state court.  The Court’s chosen rule means that a state application will not be deemed properly filed—no matter how long the state court has held the petition, how carefully it has reviewed the merits of the petition’s claims, or how it has justified its decision—if the court ultimately determines that particular claims contained in the application fail to comply with the applicable state statute of limitations.  The Court’s interpretation of §2244(d)(2) is not compelled by the text of that provision and will most assuredly frustrate its purpose.[Footnote 1]
+
+															I
+
+															
+   The words “properly filed application for … collateral review” are not defined in AEDPA.  We did, however, interpret those words in Artuz v. Bennett, 531 U. S. 4 (2000), by considering their ordinary meaning in the context of the statutory scheme in which they appear.  This Court has long understood that a “paper is filed when it is delivered to the proper official and by him received and filed.”  United States v. Lombardo, 241 U. S. 73, 76 (1916).  In Artuz, we expanded upon that understanding, explaining that an “application is ‘filed,’ as that term is commonly understood, when it is delivered to, and accepted by, the appropriate court officer for placement into the official record.  And an application is ‘properly filed’ when its delivery and acceptance are in compliance with the applicable laws and rules governing filings.”  531 U. S., at 8 (citations omitted).  Because applications and claims are distinct, we held that a petitioner’s application for postconviction review is “properly filed” even when his legal claims are procedurally barred under state law.
+
+															   Artuz left open the question presented here—whether a state statute of limitations that allows certain categories of petitioners to file otherwise late applications is comparable to a general precondition to filing (such as the payment of a filing fee) or is instead more akin to a procedural bar that prevents a court from considering particular claims.  Id., at 8–9, n. 2.  If the state time bar at issue here is more like the former, Pace’s failure to comply with it would make his application improperly filed under AEDPA.  If, however, the state time bar is more like the procedural bar in Artuz, Pace’s failure to comply with it would not change the fact that his application was “properly filed.”  Before answering that question, it is useful to explain why the state court ultimately found Pace’s application to be untimely.
+
+															II
+
+															
+   Pace filed the application in question—his second request for state postconviction review—pro se on November 27, 1996, under the Pennsylvania Post Conviction Relief Act (PCRA), 42 Pa. Cons. Stat. §9541 et seq. (1998).[Footnote 2]  Pace’s PCRA petition raised two claims that he alleged had not been presented during his first round of postconviction review: first, that his life-without-parole sentence was unconstitutional under state and federal law; and second, that his guilty plea colloquy violated due process.  Pace provided new evidence that he had not presented during his first round of postconviction review, see App. 191, 195–201, and explained to the court that his two new claims should not be procedurally barred because they had not been “fully litigated or waived” under state law, ibid.  Pace’s justifications for raising these two new claims make plain that he was attempting to fit his application within the commonly recognized judicial exceptions to Pennsylvania’s then-applicable state procedural bars.[Footnote 3]
+
+															   At the time Pace filed his PCRA petition, no Pennsylvania court had yet applied the PCRA statute of limitations to a petitioner whose conviction had become final prior to the effective date of the Act.[Footnote 4]  Nor had the time in which Pace had a right to file a federal habeas petition expired.  Under AEDPA, Pace had until April 24, 1997, to file a federal habeas petition.  See Carey v. Saffold, 536 U. S. 214, 217 (2002) (1-year limitations period runs from April 24, 1996, for any prisoner whose conviction became final prior to the effective date of the Act).  Pace could not, however, obtain relief in a federal court without first exhausting his state remedies.  28 U. S. C. §2254(b)(1)(A).  Thus, as far as Pace knew on November 27, 1996, there was no state or federal statute of limitations that precluded him from obtaining relief, but he was required (1) by AEDPA to go to state court and (2) by state law to demonstrate that his claim was not procedurally barred.  Unless Pace’s PCRA petition tolled the federal statute of limitations, his claims would be time barred in federal court on April 24, 1997.
+
+															
+
+   Pace’s petition was docketed and the court appointed counsel.  On July 23, 1997, the state trial court denied relief on the merits.  Pace appealed.  In May 1998, well after Pace’s time to file a federal habeas petition had expired, the Commonwealth filed a brief in the state appellate court, which argued for the first time that Pace’s petition was untimely under the PCRA’s statute of limitations.  On December 3, 1998, the state appellate court agreed, explaining that none of Pace’s several claims fell within the three statutory exceptions to untimeliness contained in Pa. Cons. Stat. §9545(b) (1998).  The state appellate court’s conclusion became final on July 29, 1999.  It is that determination that provides the basis for this Court’s ruling that, as a matter of federal law, the pleading that generated protracted litigation in the state courts was never “properly filed” in the first place.
+
+															III
+
+															
+   In Artuz v. Bennett, 531 U. S. 4 (2000), we held that an application for state postconviction review may be considered “properly filed” within the meaning of 28 U. S. C. §2244(d)(2) even if the application fails to comply with state-law procedural requirements that preclude relief on the merits of the applicant’s claims.  531 U. S., at 8.  To construe “ ‘properly filed application’ to mean ‘application raising claims that are not mandatorily procedurally barred,’ [would elide] the difference between an ‘application’ and a ‘claim.’  Only individual claims, and not the application containing those claims, can be procedurally defaulted under state law … .”  Id., at 9.  Furthermore:
+
+															“Ignoring this distinction would require judges to engage in verbal gymnastics when an application contains some claims that are procedurally barred and some that are not.  Presumably a court would have to say that the application is ‘properly filed’ as to the nonbarred claims, and not ‘properly filed’ as to the rest.  The statute, however, … does not contain the peculiar suggestion that a single application can be both ‘properly filed’ and not ‘properly filed.’  Ordinary English would refer to certain claims as having been properly presented or raised, irrespective of whether the application containing those claims was properly filed.”  Id., at 10.
+
+															
+   The same reasoning applies with equal force to the PCRA time bar, which in effect operates in the same manner as the procedural bar in Artuz.  Under the PCRA, the state court must determine not whether the entire application is time barred, but rather whether individual claims are time barred given the various exceptions enumerated in §9545(b).  See n. 3, supra.  Imagine, for example, a Pennsylvania petitioner who states two claims in what is his second state habeas petition.  The first claim asserts a violation of due process rights under Brady v. Maryland, 373 U. S. 83 (1963), in which the petitioner demonstrates that his failure to raise the claim during his first round of state postconviction review was “the result of interference by government officials with the presentation of the claim” under 42 Pa. Cons. Stat. §9545(b)(1)(i) (1998).  The second claim asserts an ineffective-assistance-of-counsel claim based on the same evidence raised in the petitioner’s first PCRA application.  Under the rule announced by the Court today, a federal court would be forced to conclude that the petitioner’s first claim was a “properly filed application for … collateral review” for AEDPA purposes, while his second claim was improperly filed.  This is precisely the type of incoherent result that Artuz sought to avoid.
+
+															
+
+   Incoherent results will not be limited to petitions filed in Pennsylvania.  Many States provide exceptions from their postconviction statutes of limitations that apply to applicants’ individual claims.  See, e.g., Alaska Stat. §12.72.020 (Lexis 2004) (exempting from the statute of limitations, inter alia, any claims “based on newly discovered evidence”); Fla. Rule Crim. Proc. 3.850 (2005 Supp. Pamphlet) (excepting from the general time bar any claim based on newly discovered evidence, newly recognized rights, or neglect of counsel); Ill. Comp. Stat. Ann., ch. 725, §5/122–1(c) (West Supp. 2004) (allowing for late fillings when petitioner can show that delay was not due to negligence and excepting entirely from the limitations period any “claim of actual innocence”); Iowa Code §822.3 (2003) (exception for any “ground of fact or law that could not have been raised within the applicable time period”); Okla. Stat. Ann., Tit. 22, §§1089(D)(4)–(8) (West Supp. 2005) (requiring the reviewing court to examine each claim and permitting late filing if any included claim could not have previously been presented on account of legal or factual unavailability).  For all applications originating in such States, federal district courts must now engage in the very “verbal gymnastics” that Artuz condemned.  See 531 U. S., at 10.
+
+															
+
+   The Court’s interpretation of “properly filed” in this context conflicts with the meaning we gave the phrase in Artuz.  Indeed, the Court’s rule suggests that the phrase “properly filed” takes on a different meaning when applied to time bars than it does in the context of procedural bars.  This Court has generally declined to adopt rules that would give the same statutory provision different meanings in different contexts, see, e.g., Clark v. Martinez, 543 U. S. ___, ___ (2005) (slip op., at 15), and I would decline to do so here.
+
+															
+
+   It would be much wiser simply to apply Artuz’s rule to state time bars that, like the PCRA, operate like a procedural bar.  In this case, the PCRA time bar’s enumerated exceptions, which require state courts to review the claims elucidated in postconviction petitions and to determine whether particular claims trigger the applicability of the exceptions, plainly function like a procedural bar.  Thus, I would hold that Pace’s petition was “properly filed”—it was “delivered to, and accepted by, the appropriate court officer for placement into the official record” and complied with the “applicable laws and rules governing filings.”  Artuz, 531 U. S., at 8.
+
+															
+
+   Application of the Artuz rule in this context is clearly consonant with the statutory text.[Footnote 5]  A time bar is nothing more than a species of the larger category of procedural bars that may preclude consideration of the merits of the state petition, and may raise questions that are equally difficult to decide.  Indeed, under Federal Rule of Civil Procedure 8, the contention that a claim is untimely is an affirmative defense that can be waived.  Because most state laws respecting untimely filings of postconviction petitions function in a manner identical to the procedural bar at issue in Artuz, there is no justification for giving special treatment to any state rule based on untimeliness.
+
+															IV
+
+															
+   A rule treating statutes of limitations equivalently to procedural bars would accomplish the statutory purposes Congress sought to vindicate in AEDPA.  Congress fashioned 28 U. S. C. §2244(d)(2) in order to provide a strong “incentive for individuals to seek relief from the state courts before filing federal habeas petitions.”  Duncan v. Walker, 533 U. S. 167, 180 (2001).  As we explained in Duncan: 
+
+															“The tolling provision of §2244(d)(2) balances the interests served by the exhaustion requirement and the limitation period.  Section 2244(d)(2) promotes the exhaustion of state remedies by protecting a state prisoner’s ability later to apply for federal habeas relief while state remedies are being pursued.  At the same time, the provision limits the harm to the interest in finality by according tolling effect only to ‘properly filed application[s] … .’ ”  Id., at 179–180.
+
+															
+In construing the words “properly filed,” therefore, we must consider not only the “potential for delay in the adjudication of federal law claims,” but also the need to avoid overburdening district courts by encouraging “the very piecemeal litigation that the exhaustion requirement is designed to reduce.”  Id., at 180.  AEDPA, after all, was designed to “streamline and simplify” the federal habeas system in order to reduce the “interminable delays” and “shameful overloading” that had resulted from “various aspects of this Court’s habeas corpus jurisprudence.”  Hohn v. United States, 524 U. S. 236, 264–265 (Scalia, J., dissenting).  The Court’s rule is unfaithful to these legislative goals.
+
+															
+
+   The Court’s principal justification for its rule is the fear that allowing statutory tolling in this context would allow prisoners to extend the federal statute of limitations indefinitely by repeatedly filing meritless state petitions.  See ante, at 5 (“[A] state prisoner could toll the statute of limitations at will simply by filing untimely state postconviction petitions”).  That fear is misguided for two reasons.  First, it ignores a basic fact that we have recognized repeatedly—a “prisoner’s principal interest, of course, is in obtaining speedy federal relief on his claims.”  Rose v. Lundy, 455 U. S. 509, 520 (1982).  Indeed, it is an understatement to say that the vast majority of federal prisoners “have no incentive to delay adjudication of their claims,” Duncan, 533 U. S., at 191 (Breyer, J., dissenting).  Most prisoners have precisely the opposite incentive because delaying the initiation of federal postconviction relief will almost assuredly maximize their periods of incarceration.
+
+															
+
+   Second, the Court’s concern is premised on the incorrect assumption that the phrase “properly filed” has no meaningful content unless all untimely petitions are by definition improper.  The reason that assumption is wrong is because any claim that a state application has tolled the limitations period will always depend on the district court’s finding that the petition was “properly filed.”  In my view, it would be entirely appropriate, and consistent with the text and purposes of AEDPA, to define “properly filed” as excluding any filings deemed by the district court to be repetitious or abusive.  If an application for postconviction review is not filed in good faith—filed, in other words, explicitly to prolong the federal statute of limitations—it would be improper under AEDPA, and statutory tolling would not be appropriate.  Federal and state courts have considerable experience identifying and preventing the kind of dilatory pleadings that concern the Court today.  See, e.g., McCleskey v. Zant, 499 U. S. 467, 479–489 (1991).  There is no reason that courts could not engage in similar analyses to prevent state prisoners from prolonging indefinitely the AEDPA statute of limitations.[Footnote 6]
+
+															
+
+   Unfortunately, the most likely consequence of the Court’s new rule will be to increase, not reduce, delays in the federal system.  The inevitable result of today’s decision will be a flood of protective filings in the federal district courts.  As the history of this case demonstrates, litigants, especially those proceeding pro se, cannot predict accurately whether a state court will find their application timely filed.  Because a state court’s timeliness ruling cannot be predicted with certainty, prisoners who would otherwise run the risk of having the federal statute of limitations expire while they are exhausting their state remedies will have no choice but to file premature federal petitions accompanied by a request to stay federal proceedings pending the exhaustion of their state remedies.  Cf. Rhines v. Weber, ante, at 8.  The Court admits that this type of protective filing will result from its holding.  See ante, at 8.  I fail to see any merit in a rule that knowingly and unnecessarily “add[s] to the burdens on the district courts in a way that simple tolling … would not.”  Duncan, 533 U. S., at 192 (Breyer, J., dissenting).  
+
+															
+
+   Beyond increasing the burdens faced by district courts, the Court’s tacit encouragement of countless new protective filings will diminish the “statutory incentives to proceed first in state court” and thereby “increase the risk of the very piecemeal litigation that the exhaustion requirement is designed to reduce.”  Id., at 180.  Congress enacted §2254(d)(2), along with §2254(b), to “encourage litigants first to exhaust all state remedies and then to file their federal habeas petitions as soon as possible.”  Id., at 181.  The Court’s rule turns that statutory goal on its head—in essence, encouraging all petitioners who have doubts regarding the timeliness of their state petitions to file simultaneously for relief in federal and state court.  Artuz appropriately prevented such a result with respect to procedural bars.  Because I see no reason to depart from that sound approach, I would hold that Pace’s application was “properly filed” under AEDPA.  I respectfully dissent.
+
+Footnote 1
+															 Because I would hold that Pace was entitled to statutory tolling, I need not answer the question whether the Court of Appeals erred by reversing the District Court’s decision to grant Pace equitable tolling.
+
+Footnote 2
+															 Pace’s conviction became final in 1986, long before the Pennsylvania Legislature adopted the PCRA’s current statute of limitations.  Pace’s original petition for postconviction relief was filed under the Pennsylvania Post Conviction Hearing Act (PCHA), 42 Pa. Cons. Stat. §9541 et seq. (1988) (amended and renamed by Act No. 1988–47, §§3, 6, 1988 Pa. Laws pp. 337–342), which did not include a statute of limitations.  The Pennsylvania Supreme Court denied Pace’s request for review on September 3, 1992.  The PCRA time bar did not become effective until January 16, 1996.  See Act No. 1995–32, §9579, 1995 Pa. Laws p. 1126 (Spec. Sess. 1).
+
+Footnote 3
+															 For instance, Pace argued that his failure to raise the claims below should be excused because of ineffective assistance of counsel.  See App. 191–194, 220–226.  Pace also argued that a failure to consider the new claim would constitute a “miscarriage of justice,” id., at 192, 217–219, and that his new claims challenged the legality of his sentence, id., at 189, 192.  To support each of these arguments, Pace cited state cases demonstrating the existence of judicial exceptions to procedural default.
+
+Footnote 4
+															 That time bar provides that “[a]ny petition under this subchapter, including a second or subsequent petition, shall be filed within one year of the date the judgment becomes final, unless the petition alleges and the petitioner proves that: (i) the failure to raise the claim previously was the result of interference by government officials with the presentation of the claim . . . ; (ii) the facts upon which the claim is predicated were unknown to the petitioner and could not have been ascertained by the exercise of due diligence; or (iii) the right asserted is a constitutional right that was recognized by the Supreme Court of the United States or the Supreme Court of Pennsylvania after the time period provided in this section and has been held by that court to apply retroactively.”  42 Pa. Cons. Stat. §9545(b) (1998) (emphasis added).
+
+Footnote 5
+															 The majority claims that this interpretation of “properly filed” is inconsistent with the text of §2244(d)(2).  See ante, at 7–8.  But the rule I favor relies on the same interpretation, of the same statutory text, that we adopted in Artuz.  See 531 U. S., at 10.  Unless the Court means implicitly to overrule Artuz, its rule compels the conclusion that the singular phrase “properly filed” takes on different meanings in different contexts.  That is the same interpretive exercise we unequivocally rejected in Clark v. Martinez.  See 543 U. S. ___, ___ (2005) (slip op., at 15).
+
+Footnote 6
+															 Such an inquiry is consistent with Artuz, which distinguished between properly filed applications and individual claims contained within those applications.  An application filed intentionally to prolong the federal statute of limitations would be improper in its entirety.  Indeed, it is difficult to imagine how one particular claim in an application could be improperly motivated to delay federal proceedings, while another claim was “properly filed” under AEDPA.
+
+
+

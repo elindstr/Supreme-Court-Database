@@ -1,0 +1,672 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1086
+::decision_name::  Allen v. Milligan
+::decision_year:: 2023
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 21–1086 and 21–1087
+
+															_________________
+
+															WES ALLEN, ALABAMA SECRETARY OF STATE,
+et al., APPELLANTS
+
+															21–1086v.
+
+															EVAN MILLIGAN, et al.
+
+															on appeal from the united states district
+court for the northern district of alabama
+
+															
+
+															WES ALLEN, ALABAMA SECRETARY OF STATE,
+et al., PETITIONERS
+
+															21–1087v.
+
+															MARCUS CASTER, et al.
+
+															on writ of certiorari before judgment to the
+united states court of appeals for the eleventh circuit
+
+															[June 8, 2023]
+
+															
+
+															Justice Alito, with whom Justice Gorsuch
+joins, dissenting.
+
+															Based on a flawed understanding of the framework
+adopted in Thornburg v. Gingles, 478 U.S.
+30 (1986), the Court now holds that the congressional
+districting map adopted by the Alabama Legislature violates §2
+of the Voting Rights Act. Like the Court, I am happy to apply
+Gingles in these cases. But I would interpret that precedent
+in a way that heeds what §2 actually says, and I would take
+constitutional requirements into account. When the Gingles
+framework is viewed in this way, it is apparent that the decisions
+below must be vacated.
+
+															I
+
+															A
+
+															Gingles marked the Court’s first
+encounter with the amended version of §2 that Congress enacted
+in 1982, and the Court’s opinion set out an elaborate
+framework that has since been used to analyze a variety of §2
+claims. Under that framework, a plaintiff must satisfy three
+“preconditions.” Id., at 50. As summarized in
+more recent opinions, they are as follows:
+
+															“First, [the] ‘minority
+group’ [whose interest the plaintiff represents] must be
+‘sufficiently large and geographically compact to constitute
+a majority’ in some reasonably configured legislative
+district. Second, the minority group must be ‘politically
+cohesive.’ And third, a district’s white majority must
+‘vote[ ] sufficiently as a bloc’ to usually
+‘defeat the minority’s preferred
+candidate.’ ” Cooper v. Harris, 581
+U.S. 285, 301–302 (2017) (citations omitted).
+
+															See also Wisconsin Legislature v.
+Wisconsin Elections Comm’n, 595 U. S. ___, ___
+(2022) (per curiam) (slip op., at 3); Merrill v.
+Milligan, 595 U. S. ___, ___ (2022) (Kagan, J.,
+dissenting from grant of applications for stays) (slip op., at
+3–4).
+
+															If a §2 plaintiff can satisfy all these
+preconditions, the court must then decide whether, based on the
+totality of the circumstances, the plaintiff ’s right to
+vote was diluted. See Gingles, 478 U. S., at
+46–48, 79. And to aid in that inquiry, Gingles
+approved consideration of a long list of factors set out in the
+Senate Judiciary Committee’s Majority Report on the 1982 VRA
+amendments. Id., at 44–45 (citing S. Rep. No.
+97–417, pp. 28–30 (1982)).
+
+															B
+
+															My fundamental disagreement with the Court
+concerns the first Gingles precondition. In cases like
+these, where the claim is that §2 requires the creation of an
+additional majority-minority district, the first precondition means
+that the plaintiff must produce an additional illustrative
+majority-minority district that is “reasonably
+configured.” Cooper, 581 U. S., at 301;
+Wisconsin Legislature, 595 U. S., at ___ (slip op., at
+3); see also Gingles, 478 U. S., at 50.
+
+															The Court’s basic error is that it
+misunderstands what it means for a district to be “reasonably
+configured.” Our cases make it clear that “reasonably
+configured” is not a synonym for “compact.” We
+have explained that the first precondition also takes into account
+other traditional districting criteria like attempting to avoid the
+splitting of political subdivisions and “communities of
+interest.” League of United Latin American Citizens v.
+Perry, 548 U.S.
+399, 433–434 (2006) (LULAC).
+
+															To its credit, the Court recognizes that
+compactness is not enough and that a district is not reasonably
+configured if it flouts other “traditional districting
+criteria.” Ante, at 10. At various points in its
+opinion it names quite a few: minimizing the splitting of counties
+and other political subdivisions, keeping “communities of
+interest” together where possible, and avoiding the creation
+of new districts that require two incumbents to run against each
+other. Ante, at 12, 26–27. In addition, the Court
+acknowledges that a district is not “reasonably
+configured” if it does not comport with the Equal Protection
+Clause’s one-person, one-vote requirement. Ante, at
+27. But the Court fails to explain why compliance with
+“traditional districting criteria” matters under
+§2 or why the only relevant equal protection principle is the
+one-person, one-vote requirement. If the Court had attempted to
+answer these questions, the defect in its understanding of the
+first Gingles precondition would be unmistakable.
+
+															To explain this, I begin with what is probably
+the most frequently mentioned traditional districting criterion and
+ask why it should matter under §2 whether a proposed
+majority-minority district is “compact.” Neither the
+Voting Rights Act (VRA) nor the Constitution imposes a compactness
+requirement. The Court notes that we have struck down bizarrely
+shaped districts, ante, at 19–20, but we did not do
+that for esthetic reasons. Compactness in and of itself is not a
+legal requirement—or even necessarily an esthetic one. (Some
+may find fancifully shaped districts more pleasing to the eye than
+boring squares.)
+
+															The same is true of departures from other
+traditional districting criteria. Again, nothing in the
+Constitution or the VRA demands compliance with these criteria. If
+a whimsical state legislature cavalierly disregards county and
+municipal lines and communities of interest, draws weirdly shaped
+districts, departs radically from a prior map solely for the
+purpose of change, and forces many incumbents to run against each
+other, neither the Constitution nor the VRA would make any of that
+illegal per se. Bizarrely shaped districts and other marked
+departures from traditional districting criteria matter because
+mapmakers usually heed these criteria, and when it is evident that
+they have not done so, there is reason to suspect that something
+untoward—specifically, unconstitutional racial
+gerrymandering—is afoot. See, e.g., Shaw v.
+Reno, 509 U.S.
+630, 643–644 (1993); Bush v. Vera,
+517 U.S.
+952, 979 (1996) (plurality opinion); cf. LULAC, 548
+U. S., at 433–435.
+
+															Conspicuous violations of traditional
+districting criteria constitute strong circumstantial
+evidence of unconstitutionality. And when it is shown that the
+configuration of a district is attributable predominantly to race,
+that is more than circumstantial evidence that the district is
+unlawful. That is direct evidence of illegality because, as
+we have often held, race may not “predominate” in the
+drawing of district lines. See, e.g., Cooper, 581
+U. S., at 292; Bethune-Hill v. Virginia State Bd. of
+Elections, 580 U.S. 178, 191–192 (2017); Shaw v.
+Hunt, 517 U.S.
+899, 906–907 (1996) (Shaw II); Miller
+v. Johnson, 515 U.S.
+900, 920 (1995).[1]
+
+															Because non-predominance is a longstanding and
+vital feature of districting law, it must be honored in a
+Gingles plaintiff ’s illustrative district. If
+race predominated in the creation of such a district, the plaintiff
+has failed to satisfy both our precedent, which requires
+“reasonably configured” districts, and the terms of
+§2, which demand equal openness. Two Terms ago, we engaged in
+a close analysis of the text of §2 and explained that its
+“key requirement” is that the political processes
+leading to nomination or election must be
+“ ‘equally open to participation’ by members
+of a protected class.” Brnovich v. Democratic
+National Committee, 594 U. S. ___, ___ (2021) (slip op.,
+at 6, 15) (quoting 52 U. S. C. §10301(b); emphasis
+deleted). “[E]qual openness,” we stressed, must be our
+“touchstone” in interpreting and applying that
+provision. 594 U. S., at ___ (slip op., at 15).
+
+															When the race of one group is the predominant
+factor in the creation of a district, that district goes beyond
+making the electoral process equally open to the members of the
+group in question. It gives the members of that group an advantage
+that §2 does not require and that the Constitution may forbid.
+And because the creation of majority- minority districts is
+something of a zero-sum endeavor, giving an advantage to one
+minority group may disadvantage others.
+
+															C
+
+															What all this means is that a §2
+plaintiff who claims that a districting map violates §2
+because it fails to include an additional majority-minority
+district must show at the outset that such a district can be
+created without making race the predominant factor in its creation.
+The plaintiff bears both the burden of production and the burden of
+persuasion on this issue, see Voinovich v. Quilter,
+507 U.S.
+146, 155–156 (1993); White v. Regester,
+412 U.S.
+755, 766 (1973), but a plaintiff can satisfy the former burden
+simply by adducing evidence—in any acceptable form—that
+race did not predominate.
+
+															A plaintiff need not offer computer-related
+evidence. Once upon a time, legislative maps were drawn without
+using a computer, and nothing prevents a §2 plaintiff from
+taking this old-school approach in creating an illustrative
+district. See, e.g., M. Altman, K. McDonald, & M.
+McDonald, From Crayons to Computers: The Evolution of Computer Use
+in Redistricting, 23 Soc. Sci. Computer Rev. 334, 335–336
+(2005). In that event, the plaintiff can simply call upon the
+mapmaker to testify about the process he or she used and the role,
+if any, that race played in that process. The defendant may seek to
+refute that testimony in any way that the rules of civil procedure
+and evidence allow.
+
+															If, as will often be the case today, a §2
+plaintiff ’s mapmaker uses a computer program, the
+expert can testify about the weight, if any, that the program gives
+to race. The plaintiff will presumably argue that any role assigned
+to race was not predominant, and the defendant can contest this by
+cross-examining the plaintiff ’s expert, seeking the
+actual program in discovery, and calling its own expert to testify
+about the program’s treatment of race. After this, the trial
+court will be in a position to determine whether the program gave
+race a “predominant” role.
+
+															This is an entirely workable scheme. It does not
+obligate either party to offer computer evidence, and it minimizes
+the likelihood of a clash between what §2 requires and what
+the Constitution forbids. We have long assumed that §2 is
+consistent with the Constitution. See, e.g., Cooper,
+581 U. S., at 301 (assuming States have a compelling interest
+in complying with §2); Shaw II, 517 U. S., at 915
+(same); Vera, 517 U. S., at 977 (plurality opinion)
+(same). But that cannot mean that every conceivable interpretation
+of §2 is constitutional, and I do not understand the
+majority’s analysis of Alabama’s constitutional claim
+to suggest otherwise. Ante, at 33–34; ante, at
+4 (Kavanaugh, J., concurring in part).
+
+															Our cases make it perfectly clear that using
+race as a “predominant factor” in drawing legislative
+districts is unconstitutional unless the stringent requirements of
+strict scrutiny can be satisfied,[2] and therefore if §2 can be found to require the
+adoption of an additional majority-minority district that was
+created under a process that assigned race a
+“predominant” role, §2 and the Constitution would
+be headed for a collision.
+
+															II
+
+															When the meaning of a “reasonably
+configured” district is properly understood, it is apparent
+that the decisions below must be vacated and that the cases must be
+remanded for the application of the proper test. In its analysis of
+whether the plaintiffs satisfied the first Gingles
+precondition, the District Court gave much attention to some
+traditional districting criteria—specifically, compactness
+and avoiding the splitting of political subdivisions and
+communities of interest—but it failed to consider whether the
+plaintiffs had shown that their illustrative districts were created
+without giving race a “predominant role.”
+Singleton v. Merrill, 582 F. Supp. 3d 924,
+1008–1016 (ND Ala. 2022). For this reason, the District
+Court’s §2 analysis was deficient.
+
+															It is true that the District Court addressed the
+question of race-predominance when it discussed and rejected the
+State’s argument that the plaintiffs’ maps violated the
+Equal Protection Clause, but the court’s understanding of
+predominance was deeply flawed. The court began this part of its
+opinion with this revealing statement:
+
+															“Dr. Duchin and Mr. Cooper
+[plaintiffs’ experts] testified that they prioritized
+race only for the purpose of determining and to the extent
+necessary to determine whether it was possible for the
+Milligan plaintiffs and the Caster plaintiffs to
+state a Section Two claim. As soon as they determined the answer to
+that question, they assigned greater weight to other traditional
+redistricting criteria.” Id., at 1029–1030
+(emphasis added).
+
+															This statement overlooks the obvious point that
+by “prioritiz[ing] race” at the outset, Dr. Duchin and
+Mr. Cooper gave race a predominant role.
+
+															The next step in the District Court’s
+analysis was even more troubling. The court wrote, “Dr.
+Duchin’s testimony that she considered two majority-Black
+districts as ‘non- negotiable’ does not” show
+that race played a predominant role in her districting process.
+Id., at 1030. But if achieving a certain objective is
+“non-negotiable,” then achieving that objective will
+necessarily play a predominant role. Suppose that a couple are
+relocating to the Washington, D. C., metropolitan area, and
+suppose that one says to the other, “I’m flexible about
+where we live, but it has to be in Maryland. That’s
+non-negotiable.” Could anyone say that finding a home in
+Maryland was not a “predominant” factor in the
+couple’s search? Or suppose that a person looking for a
+flight tells a travel agent, “It has to be non-stop.
+That’s non-negotiable.” Could it be said that the
+number of stops between the city of origin and the destination was
+not a “predominant” factor in the search for a good
+flight? The obvious answer to both these questions is no, and the
+same is true about the role of race in the creation of a new
+district. If it is “non-negotiable” that the district
+be majority black, then race is given a predominant role.
+
+															The District Court wrapped up this portion of
+its opinion with a passage that highlighted its misunderstanding of
+the first Gingles precondition. The court thought that a
+§2 plaintiff cannot proffer a reasonably configured
+majority-minority district without first attempting to see if it is
+possible to create such a district—that is, by first making
+the identification of such a district “non-negotiable.”
+Ibid. But that is simply not so. A plaintiff ’s
+expert can first create maps using only criteria that do not give
+race a predominant role and then determine how many contain the
+desired number of majority-minority districts.
+
+															One final observation about the District
+Court’s opinion is in order. The opinion gives substantial
+weight to the disparity between the percentage of majority-black
+House districts in the legislature’s plan (14%) and the
+percentage of black voting-age Alabamians (27%), while the
+percentage in the plaintiffs’ plan (29%) came closer to that
+27% mark. See, e.g., id., at 946, 1016, 1018,
+1025–1026; see also id., at 958–959, 969, 976,
+982, 991–992, 996–997. Section 2 of the VRA, however,
+states expressly that no group has a right to representation
+“in numbers equal to their proportion in the
+population.” 52 U. S. C. §10301(b). This
+provision was a critical component of the compromise that led to
+the adoption of the 1982 amendments, as the Court unanimously
+agreed two Terms ago. See Brnovich, 594 U. S., at ___,
+and n. 14 (slip op., at 22, and n. 14); id., at ___, n.
+6 (Kagan, J., dissenting) (slip op., at 19, n. 6). The
+District Court’s reasoning contravened this statutory
+proviso. See ante, at 11–12, 28–30 (Thomas, J.,
+dissenting).
+
+															III
+
+															The Court spends much of its opinion attacking
+what it takes to be the argument that Alabama has advanced in this
+litigation. I will not debate whether the Court’s
+characterization of that argument is entirely correct, but as
+applied to the analysis I have just set out, the Court’s
+criticisms miss the mark.
+
+															A
+
+															The major theme of this part of the
+Court’s opinion is that Alabama’s argument, in effect,
+is that “Gingles must be overruled.”
+Ante, at 25. But as I wrote at the beginning of this
+opinion, I would decide these cases under the Gingles
+framework. We should recognize, however, that the Gingles
+framework is not the same thing as a statutory provision, and it is
+a mistake to regard it as such. National Pork Producers
+Council v. Ross, 598 U. S. ___, ___ (2023) (slip
+op., at 9) (“[T]he language of an opinion is not always to be
+parsed as though we were dealing with language of a statute”
+(quoting Reiter v. Sonotone Corp., 442 U.S.
+330, 341 (1979))). In applying that framework today, we should
+keep in mind subsequent developments in our case law.
+
+															One important development has been a sharpening
+of the methodology used in interpreting statutes. Gingles
+was decided at a time when the Court’s statutory
+interpretation decisions sometimes paid less attention to the
+actual text of the statute than to its legislative history, and
+Gingles falls into that category. The Court quoted §2
+but then moved briskly to the Senate Report. See 478 U. S., at
+36–37, 43, and n. 7. Today, our statutory interpretation
+decisions focus squarely on the statutory text. National Assn.
+of Mfrs. v. Department of Defense, 583 U.S. 109, 127
+(2018); Puerto Rico v. Franklin Cal. Tax-Free Trust,
+579 U.S. 115, 125 (2016); cf. Brnovich, 594 U. S., at
+___ (slip op., at 14). And as we held in Brnovich,
+“[t]he key requirement” set out in the text of §2
+is that a State’s electoral process must be
+“ ‘equally open’ ” to members of
+all racial groups. Id., at ___ (slip op., at 15). The
+Gingles framework should be interpreted in a way that gives
+effect to this standard.
+
+															Another development that we should not ignore
+concerns our case law on racial predominance. Post-Gingles
+decisions like Miller, 515 U. S., at 920, Shaw
+II, 517 U. S., at 906–907, and Vera, 517
+U. S., at 979 (plurality opinion), made it clear that it is
+unconstitutional to use race as a “predominant” factor
+in legislative districting. “[W]hen statutory language is
+susceptible of multiple interpretations, a court may shun an
+interpretation that raises serious constitutional doubts and
+instead may adopt an alternative that avoids those problems.”
+Jennings v. Rodriguez, 583 U. S. ___, ___ (2018)
+(slip op., at 2). This same principle logically applies with even
+greater force when we interpret language in one of our prior
+opinions. It therefore goes without question that we should apply
+the Gingles framework in a way that does not set up a
+confrontation between §2 and the Constitution, and
+understanding the first Gingles precondition in the way I
+have outlined achieves that result.[3]
+
+															B
+
+															The Court’s subsidiary criticisms of
+Alabama’s arguments are likewise inapplicable to my analysis.
+The Court suggests that the “centerpiece” of
+Alabama’s argument regarding the role race can permissibly
+play in a plaintiff ’s illustrative map seeks the
+imposition of “a new rule.” Ante, at 15, 22. But
+I would require only what our cases already demand: that all
+legislative districts be produced without giving race a
+“predominant” role.[4]
+
+															The Court maintains that Alabama’s
+benchmark scheme would be unworkable because of the huge number of
+different race-neutral maps that could be drawn. As the Court
+notes, there are apparently numerous “competing metrics on
+the issue of compactness” alone, and each race-neutral
+computer program may assign different values to each traditional
+districting criterion. Ante, at 27 (internal quotation marks
+omitted).
+
+															My analysis does not create such problems. If a
+§2 plaintiff chooses to use a computer program to create an
+illustrative district, the court need ask only whether that
+program assigned race a predominant role.
+
+															The Court argues that Alabama’s focus on
+race-neutral maps cannot be squared with a totality-of-the-
+circumstances test because “Alabama suggests there is only
+one ‘circumstance[ ]’ that matters—how the
+State’s map stacks up relative to the benchmark” maps.
+Ante, at 18. My analysis, however, simply follows the
+Gingles framework, under which a court must first determine
+whether a §2 plaintiff has satisfied three
+“preconditions” before moving on to consider the
+remainder of relevant circumstances. See Growe v.
+Emison, 507 U.S.
+25, 40–41 (1993) (unless plaintiffs establish all three
+preconditions, there “neither has been a wrong nor can be a
+remedy”).
+
+															IV
+
+															As noted, I would vacate and remand for the
+District Court to apply the correct understanding of Gingles
+in the first instance. Such a remand would require the District
+Court to determine whether the plaintiffs have shown that their
+illustrative maps did not give race a predominant role, and I will
+therefore comment briefly on my understanding of the relevant
+evidence in the record as it now stands.
+
+															A
+
+															In my view, there is strong evidence that race
+played a predominant role in the production of the
+plaintiffs’ illustrative maps and that it is most unlikely
+that a map with more than one majority-black district could be
+created without giving race such a role. An expert hired by the
+Milligan plaintiffs, Dr. Kosuke Imai, used a computer
+algorithm to create 30,000 potential maps, none of which contained
+two majority-black districts. See 2 App. 571–572; Supp. App.
+59, 72. In fact, in 20,000 of those simulations, Dr. Imai
+intentionally created one majority-minority district, and yet even
+with one majority-minority district guaranteed as a baseline, none
+of those 20,000 attempts produced a second one. See 2 App.
+571–572; Supp. App. 72.
+
+															Similarly, Dr. Moon Duchin, another expert hired
+by the Milligan plaintiffs, opined that “it is hard to
+draw two majority-black districts by accident.” 2 App. 714.
+Dr. Duchin also referred to a study where she generated two million
+maps of potential district configurations in Alabama, none of which
+contained a second majority-minority district. Id., at 710.
+And the first team of trained mapmakers that plaintiff Milligan
+consulted was literally unable to draw a
+two-majority-black-district map, even when they tried. Id.,
+at 511–512. Milligan concluded at the time that the feat was
+impossible. Id., at 512.
+
+															The majority quibbles about the strength of this
+evidence, protesting that Dr. Imai’s studies failed to
+include as controls certain redistricting criteria and that Dr.
+Duchin’s two-million-map study was based on 2010 census data,
+see ante, at 26–27, and nn. 6–7, but this is
+unconvincing for several reasons. It is plaintiffs’ burden to
+produce evidence and satisfy the Gingles preconditions, so
+if their experts’ maps were deficient, that is no strike
+against Alabama. And the racial demographics of the State changed
+little between 2010 and 2020, Supp. App. 82, which is presumably
+why Dr. Duchin herself raised the older study in answering
+questions about her work in this litigation, see 2 App. 710. If it
+was impossible to draw two such districts in 2010, it surely at
+least requires a great deal of intentional effort now.
+
+															The Court suggests that little can be inferred
+from Dr. Duchin’s two-million-map study because two million
+maps are not that many in comparison to the “trillion
+trillion” maps that are possible. See ante, at
+28–29, and n. 9. In making this argument, the Court relies
+entirely on an amicus brief submitted by three computational
+redistricting experts in support of the appellees. See Brief for
+Computational Redistricting Experts 2, 6, n. 7. These
+experts’ argument concerns a complicated statistical issue,
+and I think it is unwise for the Court to make their argument part
+of our case law based solely on this brief. By the time this
+amicus brief was submitted, the appellants had already filed
+their main brief, and it was too late for any experts with contrary
+views to submit an amicus brief in support of appellants.
+Computer simulations are widely used today to make predictions
+about many important matters, and I would not place stringent
+limits on their use in VRA litigation without being quite sure of
+our ground. If the cases were remanded, the parties could take up
+this issue if they wished and call experts to support their
+positions on the extent to which the two million maps in the study
+are or can be probative of the full universe of maps.
+
+															In sum, based on my understanding of the current
+record, I am doubtful that the plaintiffs could get by the first
+Gingles precondition, but I would let the District Court
+sort this matter out on remand.
+
+															B
+
+															Despite the strong evidence that two
+majority-minority districts cannot be drawn without singular
+emphasis on race, a plurality nonetheless concludes that race did
+not predominate in the drawing of the plaintiffs’
+illustrative maps. See ante, at 22–25. Their
+conclusion, however, rests on a faulty view of what
+non-predominance means.
+
+															The plurality’s position seems to be that
+race does not predominate in the creation of a districting map so
+long as the map does not violate other traditional districting
+criteria such as compactness, contiguity, equally populated
+districts, minimizing county splits, etc. Ibid. But this
+conclusion is irreconcilable with our cases. In Miller, for
+instance, we acknowledged that the particular district at issue was
+not “shape[d] . . . bizarre[ly] on its face,”
+but we nonetheless held that race predominated because of the
+legislature’s “overriding desire to assign black
+populations” in a way that would create an additional
+“majority-black district.” 515 U. S., at 917.
+
+															Later cases drove home the point that conformity
+with traditional districting principles does not necessarily mean
+that a district was created without giving race a predominant role.
+In Cooper, we held that once it was shown that race was
+“ ‘the overriding reason’ ” for
+the selection of a particular map, “a further showing of
+‘inconsistency between the enacted plan and traditional
+redistricting criteria’ is unnecessary to a finding of racial
+predominance.” 581 U. S., at 301, n. 3 (quoting
+Bethune-Hill, 580 U. S., at 190). We noted that the
+contrary argument was “foreclosed almost as soon as it was
+raised in this Court.” Cooper, 581 U. S., at 301,
+n. 3; see also Vera, 517 U. S., at 966 (plurality
+opinion) (race may still predominate even if “traditional
+districting principle[s] do correlate to some extent with the
+district’s layout”). “Traditional redistricting
+principles . . . are numerous and malleable.
+. . . By deploying those factors in various combinations
+and permutations, a [mapmaker] could construct a plethora of
+potential maps that look consistent with traditional, race-neutral
+principles.” Bethune-Hill, 580 U. S., at 190.
+Here, a plurality allows plaintiffs to do precisely what we warned
+against in Bethune-Hill.
+
+															The plurality’s analysis of predominance
+contravenes our precedents in another way. We have been sensitive
+to the gravity of
+“ ‘trapp[ing]’ ” States
+“ ‘between the competing hazards of
+liability’ ” imposed by the Constitution and the
+VRA. Id., at 196 (quoting Vera, 517 U. S., at
+977). The VRA’s demand that States not unintentionally
+“dilute” the votes of particular groups must be
+reconciled with the Constitution’s demand that States
+generally avoid intentional augmentation of the political power of
+any one racial group (and thus the diminution of the power of other
+groups). The plurality’s predominance analysis shreds that
+prudential concern. If a private plaintiff can demonstrate §2
+liability based on the production of a map that the State has every
+reason to believe it could not constitutionally draw, we have left
+“state legislatures too little breathing room” and
+virtually guaranteed that they will be on the losing end of a
+federal court’s judgment. Bethune-Hill, 580
+U. S., at 196.
+
+															*  *  *
+
+															The Court’s treatment of Gingles
+is inconsistent with the text of §2, our precedents on racial
+predominance, and the fundamental principle that States are almost
+always prohibited from basing decisions on race. Today’s
+decision unnecessarily sets the VRA on a perilous and unfortunate
+path. I respectfully dissent.
+
+Notes
+1
+ Alabama’s
+districting guidelines explicitly incorporate this non-predominance
+requirement. See Singleton v. Merrill, 582
+F. Supp. 3d 924, 1036 (ND Ala. 2022).
+2
+ Although our cases have
+posited that racial predominance may be acceptable if strict
+scrutiny is satisfied, the Court does not contend that it is
+satisfied here.
+3
+ The second and third
+Gingles preconditions, which concern racially polarized
+voting, cannot contribute to avoiding a clash between §2 and
+the Constitution over racial predominance in the drawing of lines.
+Those preconditions do not concern the drawing of lines in
+plaintiffs’ maps, and in any event, because voting in much of
+the South is racially polarized, they are almost always satisfied
+anyway. Alabama does not contest that they are satisfied
+here.
+4
+ The Court appears to
+contend that it does not matter if race predominated in the drawing
+of these maps because the maps could have been drawn without
+race predominating. See ante, at 26–27, n. 7. But
+of course, many policies could be selected for race-neutral
+reasons. They nonetheless must be assessed under the relevant
+standard for intentional reliance on race if their imposition was
+in fact motivated by race. See, e.g., Hunter v.
+Underwood, 471 U.S.
+222, 227–231 (1985); Arlington Heights v.
+Metropolitan Housing Development Corp., 429 U.S.
+252, 264–266 (1977); Washington v. Davis,
+426 U.S.
+229, 241–248 (1976).
+
+

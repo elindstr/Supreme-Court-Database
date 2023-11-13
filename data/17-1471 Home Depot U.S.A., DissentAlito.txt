@@ -1,0 +1,273 @@
+::SCDB_caseID:: 2018-039
+::decision_cite:: 17-1471
+::decision_name::  Home Depot U.S.A., Inc. v. Jackson
+::decision_year:: 2019
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1471
+
+															_________________
+
+															HOME DEPOT U. S. A., INC., PETITIONER v. GEORGE W. JACKSON
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															[May 28, 2019]
+
+															Justice Alito, with whom The Chief Justice, Justice Gorsuch, and Justice Kavanaugh join, dissenting.
+
+															The rule of law requires neutral forums for resolving disputes.  Courts are designed to provide just that.  But our legal system takes seriously the risk that for certain cases, some neutral forums might be more neutral than others.  Or it might appear that way, which is almost as deleterious.  For example, a party bringing suit in its own State’s courts might (seem to) enjoy, so to speak, a home court advantage against outsiders.  Thus, from 1789 Congress has opened federal courts to certain disputes between citizens of different States.  Plaintiffs, of course, can avail themselves of the federal option in such cases by simply choosing to file a case in federal court.  But since their defendants cannot, the law has always given defendants the option to remove (transfer) cases to federal court.  Shamrock Oil & Gas Corp. v. Sheets,
+
+313 U.S. 100, 105 (1941).  The general removal statute, which authorizes removal by “the defendant or the defendants,” thus ensures that defendants get an equal chance to choose a federal forum.
+
+28 U. S. C. §1441(a).
+
+															But defendants cannot remove a case unless it meets certain conditions.  Some of those conditions have long made important (and often costly) consumer class actions virtually impossible to remove.  Congress, concerned that state courts were biased against defendants to such actions, passed a law facilitating their removal.  The Class Action Fairness Act of 2005 (CAFA) allows removal of certain class actions “by any defendant.”
+
+28 U. S. C. §1453(b).  Our job is not to judge whether Congress’s fears about state-court bias in class actions were warranted or indeed whether CAFA should allay them.  We are to determine the scope of the term “defendant” under CAFA as well as the general removal provision, §1441.
+
+															All agree that if one party sues another, the latter—the original defendant—is a “defendant” under both removal laws.  But suppose the original defendant then countersues, bringing claims against both the plaintiff and a new party.  Is this new defendant—the “third-party defendant”—also a “defendant” under CAFA and §1441?  There are, of course, some differences between original and third-party defendants.  One is brought into a case by the first major filing, the other by the second.  The one filing is called a complaint, the other a countercomplaint.
+
+															But both kinds of parties are defendants to legal claims.  Neither chose to be in state court.  Both might face bias there, and with it the potential for crippling unjust losses.  Yet today’s Court holds that third-party defendants are not “defendants.”  It holds that Congress left them unprotected under CAFA and §1441.  This reads an irrational distinction into both removal laws and flouts their plain meaning, a meaning that context confirms and today’s majority simply ignores.
+
+															I
+
+															A
+
+															To appreciate what Congress sought to achieve with CAFA, consider what Congress failed to accomplish a decade earlier with the Private Securities Litigation Reform Act of 1995 (Reform Act),
+
+109Stat.
+737 (codified at 15 U. S. C. §§77z–1 and 78u–4).  The Reform Act was “targeted at perceived abuses of the class-action vehicle in litigation involving nationally traded securities,” including spurious lawsuits, “vexatious discovery requests, and ‘manipulation by class action lawyers of the clients whom they purportedly represent.’ ” Merrill Lynch, Pierce, Fenner & Smith Inc. v. Dabit,
+
+547 U.S. 71, 81 (2006) (quoting H. R. Conf. Rep. No. 104–369, p. 31 (1995)).  As a result of these abuses, Congress found, companies were often forced to enter “extortionate settlements” in frivolous cases, just to avoid the litigation costs—a burden with scant benefits to anyone.  547 U. S., at 81.  To curb these inefficiencies, the Reform Act “limit[ed] recoverable damages and attorney’s fees, . . . impose[d] new restrictions on the selection of (and compensation awarded to) lead plaintiffs, mandate[d] imposition of sanctions for frivolous litigation, and authorize[d] a stay of discovery pending resolution of any motion to dismiss.”  Ibid.
+
+															But “at least some members of the plaintiffs’ bar” found a workaround: They avoided the Reform Act’s limits on federal litigation by “avoid[ing] the federal forum altogether” and heading to state court.  Id., at 82.  Once there, they were able to keep defendants from taking them back to federal court (under the rules then in force) simply by naming an in-state defendant. See §1441(b)(2).  And the change in plaintiffs’ strategy was marked: While state-court litigation of such class actions had been “rare” before the Reform Act’s passage, id., at 82, within a decade state courts were handling most such cases, see S. Rep. No. 109–14, p. 4 (2005).
+
+															Some in Congress feared that plaintiffs’ lawyers were able to “ ‘game’ the procedural rules and keep nationwide or multi-state class actions in state courts whose judges have reputations for readily certifying classes and approving settlements without regard to class member interests.” Ibid.  The result, in Congress’s judgment, was that “State and local courts” were keeping issues of “national importance” out of federal court, “acting in ways that demonstrate[d] bias against out-of-State defendants” and imposing burdens that hindered “innovation” and drove up “consumer prices.” §§2(a)(4), (b),
+
+119Stat.
+5.  
+
+															So Congress again took action.  But rather than get at the problem by imposing limits on federal litigation that plaintiffs could sidestep by taking defendants to state court, Congress sought to make it easier for defendants to remove to federal court: thus CAFA.
+
+															B
+
+															To grasp how CAFA changed the procedural landscape for class actions, it helps to review the rules that govern removal in the mine run of cases, and that once limited removal of all class actions as well.  Those general rules appear in 28 U. S. C. §§1441 and 1446.
+
+															Under §1441(a), “any civil action brought in a State court . . . may be removed by the defendant or the defendants” as long as federal district courts would have “original jurisdiction” over the case.  Such jurisdiction comes in two varieties.  Federal courts have “federal question ju- risdiction” if the case “aris[es] under” federal law—for instance, if the plaintiff alleges violations of a federal statute.  §1331.  But even when the plaintiff brings only state-law claims—alleging a breach of a contract, for example—federal courts have “diversity jurisdiction” if the amount in controversy exceeds $75,000 and there is complete diversity of parties, meaning that no plaintiff is a citizen of the same State as any defendant.  §1332(a); Lincoln Property Co. v. Roche,
+
+546 U.S. 81, 89 (2005).  While §1441 normally allows removal of either kind of case, it bars removal in diversity cases brought in the home State of any defendant.  §1441(b)(2).
+
+															Another subsection of §1441 addresses removal of a subset of claims (not an entire action) when a case involves some claims that would be removable because they arise under federal law and others that would not (because they involve state-law claims falling outside both the original and the supplemental jurisdiction of federal courts[1]).  In these hybrid cases, §1441(c)(2) allows the federal claims to be removed while the state-law claims are severed and sent back to state court.
+
+															The procedural rules for removing an action or claim from state to federal court under §1441 are set forth in §1446.  Section 1446(b)(2)(A) requires the consent of all the defendants before an entire case may be re- moved under §1441(a).  (If a defendant instead invokes §1441(c)(2), to remove a subset of claims, consent is required only from defendants to the claims that are removed.)  And if diversity jurisdiction arises later in litigation—which may occur if, for instance, dismissal of an original defendant creates complete diversity—§1446(c)(1) allows removal only within one year of the start of the action in state court.
+
+															To this general removal regime, CAFA made several changes specific to class actions.  Instead of allowing removal by “the defendant or the defendants,” see §1441(a), §5 of CAFA allowed removal by “any defendant” to certain class actions, §1453(b), even when the other defendants do not consent, the case was filed in a defendant’s home forum, or the case has been pending in state court for more than a year.  See
+
+119Stat.
+12–13.
+
+															Of course, these changes would be of no use to a class-action defendant hoping to remove if there were no federal jurisdiction over its case.  So CAFA also lowered the barriers to diversity jurisdiction.  While complete diversity of parties is normally required, CAFA eliminates that rule for class actions involving at least 100 members and more than $5 million in controversy.  In such cases, CAFA vests district courts with diversity jurisdiction anytime there is minimal diversity—which occurs when at least one plaintiff and defendant reside in different States.  See 28 U. S. C. §§1332(d)(2), (d)(5)(B).
+
+															We were asked to decide whether these loosened requirements are best read to allow removal by third-party defendants like Home Depot.  The answer is clear when one considers Home Depot’s situation against CAFA’s language and history.
+
+															C
+
+															This case began as a garden-variety debt-collection action: Citibank sued respondent George Jackson in state court seeking payment on his purchase from petitioner Home Depot of a product made by Carolina Water Systems (CWS).  Jackson came back with a counterclaim class action that roped in Home Depot and CWS as codefendants.  (Until then, neither Home Depot nor CWS had been a party.)  Citibank then dismissed its claim against Jackson, and Jackson amended his complaint to remove any mention of Citibank.  So now all that remains in this case is Jackson’s class-action counterclaims against Home Depot and CWS.
+
+															Invoking CAFA, Home Depot filed a notice of removal; it also moved to realign the parties to make Jackson the plaintiff, and CWS, Home Depot, and Citibank the defendants (just before Citibank had dropped out entirely).  The District Court denied the motion and remanded the case to state court, holding that Home Depot cannot remove under CAFA because CAFA’s “any defendant” excludes defendants to counterclaim class actions.  The Court of Appeals affirmed, citing Circuit precedent that hung on this Court’s decision in Shamrock Oil & Gas Corp. v. Sheets,
+
+313 U.S. 100 (1941).  We granted certiorari to decide whether the lower court’s reading of Shamrock Oil is correct and whether CAFA allows third-party defendants like Home Depot to remove an action to federal court.
+
+															All agree that the one dispute that now constitutes this lawsuit—Jackson’s class action against Home Depot and CWS—would have been removable under CAFA had it been present from the start of a case.  Is it ineligible for removal just because it was not contained in the filing that launched this lawsuit?
+
+															Several lower courts think so.  In holding as much, they have created what Judge Niemeyer called a “loophole” that only this Court “can now rectify.”  Palisades Collections LLC v. Shorts, 552 F.3d 327, 345 (CA4 2008) (dissenting from denial of rehearing en banc).  The potential for that “loophole” was first spotted by a civil procedure scholar writing shortly after CAFA took effect. See Tidmarsh, Finding Room for State Class Actions in a Post-CAFA World: The Case of the Counterclaim Class Action, 35 W. St. U. L. Rev. 193, 198 (2007).  The article outlined a “tactic” for plaintiffs to employ if they wanted to thwart a defendant’s attempt to remove a class action to federal court under CAFA: They could raise their class-action claim as a counterclaim and “hope that CAFA does not authorize removal.” Ibid.  In a single stroke, the article observed, a defendant’s routine attempt to collect a debt from a single consumer could be leveraged into an unremovable attack on the defendant’s “credit and lending policies” brought on behalf of a whole class of plaintiffs—all in the very state courts that CAFA was designed to help class-action defendants avoid.  Id., at 199.
+
+															The article is right to call this approach a tactic; it subverts CAFA’s evident aims.  I cannot imagine why a Congress eager to remedy alleged state-court abuses in class actions would have chosen to discriminate between two kinds of defendants, neither of whom had ever chosen the allegedly abusive state forum, all based on whether the claim against them had initiated the lawsuit or arisen just one filing later (in the countercomplaint).  Of course, what finally matters is the text, and in reading texts we must remember that “no legislation pursues its purposes at all costs,” Rodriguez v. United States,
+
+480 U.S. 522, 525–526 (1987) (per curiam); Congress must often strike a balance between competing purposes.  But a good interpreter also reads a text charitably, not lightly ascribing irrationality to its author; and I can think of no rational purpose for this limit on which defendants may remove.  Even respondent does not try to defend its rationality, suggesting instead that it simply reflects a legislative compromise.  Yet there is no evidence that anyone thought of this potential loophole before CAFA was enacted, and it is hard to believe that any of CAFA’s would-be opponents agreed to vote for it in exchange for this way of keeping some cases in state court.  The question is whether the uncharitable reading here is inescapable—whether, unwittingly or despite itself, Congress adopted text that compels this bizarre result.
+
+															II
+
+															There are different schools of thought about statutory interpretation, but I would have thought this much was common ground: If it is hard to imagine any purpose served by a proposed interpretation of CAFA, if that reading appears nowhere in the statutory or legislative history or our cases on CAFA, if it makes no sense as a policy matter, it had better purport to reflect the best reading of the text, or any decision embracing it is groundless.  Indeed, far from relegating the text to an afterthought, our shared approach to statutory interpretation, “as we always say, begins with the text.”  Ross v. Blake, 578 U. S. ___, ___ (2016) (slip op., at 4) (emphasis added).  After all, as we have unanimously declared, a “plain and unambiguous” text “must” be enforced “according to its terms.” Hardt v. Reliance Standard Life Ins. Co.,
+
+560 U.S. 242, 251 (2010).  And yet, though the text and key term here is “any defendant,”
+
+28 U. S. C. §1453(b), the majority has not one jot or tittle of analysis on the plain meaning of “defendant.”
+
+															Any such analysis would have compelled a different result.  According to legal as well as standard dictionary definitions available in 2005, a “defendant” is a “person sued in a civil proceeding,” Black’s Law Dictionary 450 (8th ed. 2004), and the term is “opposed to” (contrasted with) the word “plaintiff,” Webster’s Third New International Dictionary 591 (2002) (Webster).  See also 4 Oxford English Dictionary 377 (2d ed. 1989) (OED) (“[a] person sued in a court of law; the party in a suit who defends; opposed to plaintiff”).  What we have before us is a civil proceeding in which Home Depot is not a plaintiff and is being sued.  So Home Depot is a defendant, as that term is ordinarily understood.
+
+															The fact that Home Depot is considered a “third-party defendant” changes nothing here.  See N. C. Rule Civ. Proc. 14(a) (2018).  Adjectives like “third-party” “modify nouns—they pick out a subset of a category that possesses a certain quality.”  Weyerhaeuser Co. v. United States Fish and Wildlife Serv., 586 U. S. ___, ___ (2018) (slip op., at 8).  They do not “alter the meaning of the word” that they modify.  Rimini Street, Inc. v. Oracle USA, Inc., 586 U. S. ___, ___ (2019) (slip op., at 6).  And so, just as a “ ‘critical habitat’ ” is a habitat, Weyerhaeuser Co., supra, at ___ (slip op., at 9), and “ ‘full costs’ ” are costs, Rimini Street, Inc., supra, at ___ (slip op., at 7), zebra finches are finches and third-party defendants are, well, defendants.
+
+															If further confirmation were needed, it could be found in CAFA’s use of the word “any” to modify “defendant.”  Unlike the general removal provision, which allows removal by “the defendant or the defendants,” §1441(a), CAFA’s authorization extends to “any defendant.” §1453(b) (emphasis added).  As we have emphasized repeatedly, “ ‘the word “any” has an expansive meaning, that is, “one or some indiscriminately of whatever kind.” ’ ”  Ali v. Federal Bureau of Prisons,
+
+552 U.S. 214, 219–220 (2008) (quoting United States v. Gonzales,
+
+520 U.S. 1, 5 (1997), in turn quoting Webster’s Third New International Dictionary 97 (1976)).  In case after case, we have given effect to this expansive sense of “any.”  See Small v. United States,
+
+544 U.S. 385, 396 (2005) (Thomas, J., dissenting) (collecting cases).  So too here: Contrary to the Court’s analysis, Congress’s use of “any” covers defendants of “whatever kind,” Ali, supra, at 220, including third-party defendants like petitioner.  “In concluding that ‘any’ means not what it says, but rather ‘a subset of any,’ the Court distorts the plain meaning of the statute and departs from established principles of statutory construction.”  Small, supra, at 395 (Thomas, J., dissenting).
+
+															For these reasons, unless third-party defendants like Home Depot differ in some way that is relevant to removal (as a matter of text, precedent, or common sense),[2] they fall within CAFA’s coverage of “any defendant.”  §1453(b).
+
+															III
+
+															Respondent and the majority contend that Congress meant to incorporate into CAFA a specialized sense of “defendant,” derived from its use in the general removal statute, §1441.  And in §1441, they assert, “defendant” refers only to an original defendant—one named in the plaintiff’s complaint.  As I will show, they are mistaken about §1441.  See Part IV, infra.  But even if that general removal law were best read to leave out third-party defendants, there would be ample grounds to conclude that such defendants are covered by CAFA.  And the majority’s and respondent’s objections to this reading of CAFA, based on comparisons to other federal laws, are unconvincing.
+
+															A
+
+															1
+
+															The first basis for reading CAFA to extend more broadly than §1441 is that CAFA’s text is broader.  As discussed, see supra, at 10, CAFA sweeps in “any defendant,” §1453(b) (emphasis added), in contrast to §1441’s “the defendant or the defendants.”  So even if we read the latter phrase narrowly, we would have to acknowledge that “Congress did not adopt that ready alternative.” Advocate Health Care Network v. Stapleton, 581 U. S. ___, ___ (2017) (slip op., at 8).  “Instead, it added language whose most natural reading is to enable” any defendant to remove, and “[t]hat drafting decision indicates that Congress did not in fact want” to replicate in CAFA the (purportedly) narrower reach of §1441.  Ibid.
+
+															Respondent scoffs at the idea that the word “any” could make the difference.  In his view, “any defendant” in CAFA means “any one of the defendants,” not “any kind of defendant.”  Thus, he contends, if §1441 covers only one kind of defendant—the original kind, the kind named in a complaint—CAFA must do the same.  On this account, CAFA refers to “any defendant” only because it was meant to eliminate (for class actions) §1441’s requirement that all “the defendants” agree to remove.  Respondent is right that the word “any” in CAFA eliminated the defendant-unanimity rule.  But the modifier’s overall effect on the plain meaning of CAFA’s removal provision is what counts in a case interpreting CAFA; and that effect is to guarantee a broad reach for the word “defendant.”
+
+															Nor is it baffling how “any” could be expansive in the way respondent finds so risible.  In ordinary language, replacing “the Xs” with “any X” will often make the term “X” go from covering only paradigm instances of X to covering all cases.  Compare:
+
+															
+
+															•“Visitors to the prison may not use the phones except at designated times.”
+
+															
+
+															•“Visitors to the prison may not use any phone except at designated times.”
+
+															
+
+															On a natural reading, “the phones” refers to telephones provided by the prison, whereas “any phone” includes visitors’ cellphones.  Likewise, even if the phrase “the defendant” reached only original defendants, the phrase “any defendant” would presumptively encompass all kinds.  Again, putting the word “any” into a “phrase . . . suggests a broad meaning.” Ali, 552 U. S., at 218–219.
+
+															In fact, the text makes it indisputable that CAFA’s “any defendant” is broader in some ways.  CAFA reaches at least two sets of defendants left out by §1441: in-state (or “forum”) defendants, and nondiverse defendants.  See §§1332(d)(2), 1453(b).  So respondent and the majority are reduced to claiming that when CAFA says “any defendant,” it is stretching farther than §1441’s “the defendant” in some directions but not others—picking up forum defendants and nondiverse defendants while avoiding all contact with third-party defendants.  But the shape of “any” is not so contorted.  If context shows that “any defendant” covers some additional kinds, common sense tells us it presumptively covers the others.
+
+															2
+
+															Respondent’s answer from precedent backfires.  Against our many cases reading the word “any” capaciously (which is to say, naturally), see Small, 544 U. S., at 396 (Thomas, J., dissenting) (collecting cases), he cites two cases that assigned the word a narrower scope.  But in both, context compelled that departure from plain meaning.  In United States v. Palmer, 3 Wheat. 610, 631–632 (1818), we read “any person” to refer exclusively to those over whom the United States had jurisdiction, but only because that was the undisputed scope of other instances of the same phrase in the same Act.  Here, by contrast, even the majority agrees that petitioner’s reading of “any defendant” in CAFA is “plausible.” Ante, at 5.  And in Small, supra, at 388–389, the Court read “any court” to refer only to domestic courts because of the “legal presumption that Congress ordinarily intends its statutes to have domestic, not extraterritorial, application.”  No presumption helps respondent here.
+
+															Indeed, our presumptions in this area cut against the majority and respondent’s view.  That view insists on reading CAFA’s “any defendant” narrowly, to match the allegedly narrower scope of “the defendant” in §1441.  But our case law teaches precisely that CAFA should not be read as narrowly as §1441.  While removal under §1441 is presumed narrow in various ways out of respect for States’ “rightful independence,” Shamrock Oil, 313 U. S., at 109, we have expressly limited this “antiremoval” presumption to cases interpreting §1441.  As Justice Ginsburg recently wrote for the Court:
+
+															“[N]o antiremoval presumption attends cases invoking CAFA, which Congress enacted to facilitate adjudication of certain class actions in federal court.  See Standard Fire Ins. Co., 568 U. S., at 595 (‘CAFA’s primary objective’ is to ‘ensur[e] “Federal court consideration of interstate cases of national importance.” ’ (quoting §2(b)(2),
+
+119Stat.
+5)); S. Rep. No. 109–14, p. 43 (2005) (CAFA’s ‘provisions should be read broadly, with a strong preference that interstate class actions should be heard in a federal court if properly removed by any defendant.’).” Dart Cherokee Basin Operating Co. v. Owens,
+
+574 U.S. 81, 89 (2014) (emphasis added).
+
+															So the strongest argument for reading §1441 to exclude third-party defendants is an interpretive canon that we have pointedly refused to apply to CAFA.  Our precedent on this point is thus a second basis—apart from the plain meaning of “any defendant”—for holding that CAFA covers third-party defendants even if §1441 does not.
+
+															B
+
+															Respondent and the majority object that this reading ignores the backdrop against which CAFA was enacted and the significance of CAFA’s contrast with the language of other (subject-matter-specific) removal statutes.  And to these objections, respondent adds a third and bolder claim: that CAFA does not empower petitioner to remove because it does not create removal authority at all, but only channels removals already authorized by §1441 (on which petitioner cannot rely in this case).  All three objections fail.
+
+															1
+
+															In respondent’s telling, it has been the uniform view of the lower courts that a third-party defendant is not among “the defendants” empowered to remove under §1441.  Since those courts’ decisions studded the legal “backdrop” when Congress enacted CAFA, respondent contends, we should presume CAFA used “defendant” in the same narrow sense.  But this story exaggerates both the degree of lower court harmony and the salience of the resulting “backdrop” to Congress’s work on CAFA.
+
+															First, though respondent repeatedly declares that the lower courts have reached a “consensus,” see Brief for Respondent i, 1, 14, 19, 32, 35, they have not.  “Several cases . . . have permitted removal on the basis of a third party claim where a separate and independent controversy is stated.”  Carl Heck Engineers, Inc. v. Lafourche Parish Police Jury, 622 F.2d 133, 135–136 (CA5 1980) (collecting cases).  Before CAFA, at least a half-dozen district courts took this view.[3]  And though courts of appeals rarely get to opine on this issue (because §1447(d) blocks most appeals from district court orders sending a removed case back to state court), two Circuits have actually allowed third-party defendants to remove under §1441.  See Texas ex rel. Bd. of Regents of Univ. of Tex. System v. Walker, 142 F.3d 813, 816 (CA5 1998); United Benefit Life Ins. Co. v. United States Life Ins. Co., 36 F.3d 1063, 1064, n. 1 (CA11 1994).  Even a treatise cited by respondent destroys his “consensus” claim, as it admits that courts take “myriad and diverging views on whether third-party defendants may remove an action.”  16 J. Moore, D. Coquillette, G. Joseph, & G. Vario, Moore’s Federal Practice §107.41[6] (3d ed. 2019).
+
+															Second, even if the lower courts all agreed, the “legal backdrop” created by their decisions would matter only insofar as it told us what we can “safely assume” about what Congress “intend[ed].”  McFarland v. Scott,
+
+512 U.S. 849, 856 (1994).  So the less salient that backdrop would have been to Congress, the less relevant it is to interpreting Congress’s actions.  And I doubt the backdrop here would have been very salient.  For one thing, it consisted mostly of trial court decisions; and the lower the courts, the less visible the backdrop.  Indeed, I can find no case where we have read a special meaning into a federal statutory term based mainly on trial court interpretations.
+
+															But even if several higher courts had spoken—and spoken with one voice—there would be a problem: We have no evidence Congress was listening.  In preparing and passing CAFA, Congress never adverted to third-party defendants’ status.  By respondent’s admission, Congress was “silen[t]” on them in the seven years of hearings, drafts, and debates leading up to CAFA’s adoption.  Brief for Respondent 45. Yet if Congress was not thinking about a question, neither was it thinking about lower courts’ answer to the question.  So we cannot presume it adopted that answer.
+
+															2
+
+															Respondent also thinks we should read CAFA to exclude third-party defendants in light of the contrast between CAFA’s “any defendant” and the language of two other removal laws that more clearly encompass third-party defendants.  The America Invents Act (AIA), for example, allows “any party” to remove a lawsuit involving patent or copyright claims.  28 U. S. C. §§1454(a), (b)(1).  The Bankruptcy Code likewise allows “[a] party” to remove in cases related to bankruptcy.  §1452(a).  Thus, respondent says, when Congress wanted to include more than original defendants, it knew how.  It used terms like “any party” and “a party”—as CAFA did not.
+
+															Note, however, that the cited terms would have covered even original plaintiffs, whom no one thinks CAFA meant to reach (and for good reason, see Part II, supra).  So CAFA’s terms had to be narrower than (say) the AIA’s “any party,” regardless of whether CAFA was going to cover third-party defendants.  Its failure to use the AIA’s and Bankruptcy Code’s broader terms, then, tells us nothing about third-party defendants’ status under CAFA.  Only the meaning of CAFA’s “any defendant” does that.  And it favors petitioner.  See Parts II, III–A, supra.
+
+															3
+
+															Respondent’s final and most radical argument against petitioner’s CAFA claim is that CAFA’s removal language does not independently authorize removal at all.  On this view, all that §1453(b) does is “make a few surgical changes [in certain class-action cases] to the procedures that ordinarily govern removal,” while the actual power to remove comes from the general removal provision, §1441(a).  Brief for Respondent 49 (emphasis added).  And so, the argument goes, removals under CAFA are still subject to §1441(a)’s restriction to “civil action[s]” over which federal courts have “original jurisdiction.”  Since this limitation is often read to mean that federal jurisdiction must have existed from the start of the civil action, see Part IV–C, infra, and that was not the case here, no removal is possible.
+
+															The premise of this objection is as weak as it is audacious.  If CAFA does not authorize removal, then neither does §1441.  After all, they use the same operative language, with the one providing that a class action “may be removed,” §1453(b), and the other providing that a civil action “may be removed,” §1441(a).  So §1453(b) must, after all, be its own font of removal power and not a conduit for removals sourced by §1441(a).
+
+															Respondent argues that this reading of CAFA’s §1453(b) would render it unconstitutional.  The argument is as follows: Section 1453(b) provides that a “class action” may be removed, but it does not specify that the class action must fall within federal courts’ jurisdiction.  So if §1453(b) were a separate source of removal authority, it would authorize removals of class actions over which federal courts lacked jurisdiction, contrary to Article III of the Constitution.  By contrast, §1441(a) limits itself to authorizing removal of cases over which federal courts have “original jurisdiction.”  Thus, only if §1441(a)—including its jurisdictional limit—governs the removals described in CAFA will CAFA’s removal language be constitutional.
+
+															This argument fails.  Section 1453 implicitly limits removal to class actions where there is minimal diversity, thus satisfying Article III.  After all, §1453(a) incorporates the definition of “class action” found in the first paragraph of §1332(d).  See §1332(d)(1).  But the very next paragraph, §1332(d)(2), codifies the part of CAFA that created federal jurisdiction over class actions involving minimal diversity.  This proves that the class actions addressed by CAFA’s removal language, in §1453(b), are those involving minimal diversity, as described in §1332(d).  In fact, respondent effectively concedes that §1453(b) applies only to actions described in §1332(d), since the latter is also what codifies those CAFA-removal rules that respondent does acknowledge, see Brief for Respondent 52—the requirements of more than $5 million in controversy but only minimal diversity, see §1332(d)(2).  Because CAFA’s removal language in §1453(b) applies only to class actions described in §1332(d), it raises no constitutional trouble to read §1453(b) as its own source of removal authority and not a funnel for §1441(a).
+
+															IV
+
+															So far I have accepted, arguendo, the majority and respondent’s view that third-party defendants are not covered by the general removal provision, §1441.  But I agree with petitioner that this is incorrect.  On a proper reading of §1441, too, third-party defendants are “defendants” entitled to remove.  Though a majority of District Courts would disagree, their exclusion of third-party defendants has rested (in virtually every instance) on a misunderstanding of a previous case of ours, and the mere fact that this misreading has spread is no reason for us to go along with it.  Nor, contrary to the majority, does a refusal to recognize third-party defendants under §1441 find support in our precedent embracing the so-called “well-pleaded complaint” rule, which is all about how a plaintiff can make its case unremovable, not about which defendants may seek removal in those cases that can be removed.
+
+															A
+
+															Look at lower court cases excluding third-party defendants from §1441.  Trace their lines of authority—the cases and sources they cite, and those they cite—and the lines will invariably converge on one point: our decision in Shamrock Oil.  But nothing in that case justifies the common reading of §1441 among the lower courts, a reading that treats some defendants who never chose the state forum differently from others.
+
+															As a preliminary matter, Shamrock Oil is too sensible to produce such an arbitrary result.  That case involved a close ancestor of today’s general removal provision, one that allowed removal of certain state-court actions at the motion of “the defendant or defendants therein.”  313 U. S., at 104, n. 1.  And our holding was simple: If A sues B in state court, and B brings a counterclaim against A, this does not then allow A to remove the case to federal court.  As the original plaintiff who chose the forum, A does not get to change its mind now.  That is all that Shamrock Oil held.  The issue of third-party defendants never arose.  And none of the Court’s three rationales would support a bar on removal by parties other than original plaintiffs.
+
+															Shamrock Oil looked to statutory history, text, and purpose.  As to history, it noted that removal laws had evolved to give the power to remove first to “defendants,” then to “ ‘either party, or any one or more of the plaintiffs or defendants,’ ” and finally to “defendants” again.  The last revision must have been designed to withdraw removal power from someone, we inferred, and the only candidate was the plaintiff.  Id., at 105–108.  Second, we said there was no basis in the text for distinguishing mere plaintiffs from plaintiffs who had been countersued, so we would treat them the same; neither could remove. Id., at 108.  Third, we offered a policy rationale: “[T]he plaintiff, having submitted himself to the jurisdiction of the state court, was not entitled to avail himself of a right of removal conferred only on a defendant who has not submitted himself to the jurisdiction.”  Id., at 106.  In this vein, we quoted a House Report calling it “ ‘just and proper to require the plaintiff to abide his selection of a forum.’ ”  Ibid., n. 2 (quoting H. R. Rep. No. 1078, 49th Cong., 1st Sess., 1 (1886)).  So history, language, and logic demanded that original plaintiffs remain unable to remove even if countersued.
+
+															None of these considerations applies to third-party defendants.  If anything, all three point the other way.  First, the statutory history cited by the Court shows that Congress (and the Shamrock Oil Court itself) took “the plaintiffs or defendants” to be jointly exhaustive categories.  By that logic, since third-party defendants are certainly not plaintiffs—in any sense—they must be “defendants” under §1441.  Cf. Webster 591 (defining “defendant” as “opposed to plaintiff”); 4 OED 377 (same).  Second, and relatedly, the text of the general removal statute, then and now, does not distinguish original from third-party defendants when it comes to granting removal power—any more than it had distinguished plaintiffs who were and were not countersued when it came to withdrawing the right to remove, as Shamrock Oil emphasized.  And finally, Shamrock Oil’s focus on fairness—reflected in its point that plaintiffs may fairly be stuck with the forum they chose—urges the opposite treatment for third-party defendants.  Like original defendants, they never chose to submit themselves to the state-court forum.
+
+															Thus, all three grounds for excluding original plaintiffs in Shamrock Oil actually support allowing third-party defendants to remove under §1441.
+
+															B
+
+															Respondent leans on his claim that District Courts to address the issue have reached a “consensus” that Shamrock Oil bars third-party defendants from removing.  But as we saw above, rumors of a “consensus” have been greatly exaggerated. See Part III–B–1, supra.  And in any case, no interpretive principle requires leaving intact the lower courts’ misreading of a case of ours.
+
+															Certainly there is no reason to presume that Congress embraces the lower courts’ majority view.  For one thing, the cases distorting §1441 postdate the last revision of the relevant statutory language, so they could not have informed Congress’s view of what it was signing onto.  And it would be naive to assume that Congress now agrees with those lower court cases just because it has not reacted to them.  Congress does not accept the common reading of every law it leaves alone.  Because life is short, the U. S. Code is long, and court cases are legion, it normally takes more than a court’s misreading of a law to rouse Congress to issue a correction.  That is why “ ‘Congressional inaction lacks persuasive significance’ in most circumstances.”  Star Athletica, L. L. C. v. Varsity Brands, Inc., 580 U. S. ___, ___ (2017) (slip op., at 17) (quoting Pension Benefit Guaranty Corporation v. LTV Corp.,
+
+496 U.S. 633, 650 (1990); quotation altered).  In particular, “it is inappropriate to give weight to ‘Congress’ unenacted opinion’ when construing judge-made doctrines, because doing so allows the Court to create law and then ‘effectively codif[y]’ it ‘based only on Congress’ failure to address it.’ ” Halliburton Co. v. Erica P. John Fund, Inc.,
+
+573 U.S. 258, 299 (2014) (Thomas, J., concurring in judgment).  Because the decisions misreading Shamrock Oil are not a reliable indicator of Congress’s intent regarding §1441, we owe them no deference.
+
+															C
+
+															Finally, according to the majority, reading §1441 to include third-party defendants would run afoul of our precedent establishing the “well-pleaded complaint” rule (WPC rule).  Assuming that I have been able to reconstruct the majority’s argument from this rule accurately, I think it rests on a non sequitur.  The WPC rule is all about a plaintiff’s ability to choose the forum in which its case is heard, by controlling whether there is federal jurisdiction; the rule has nothing to do with the division of labor or authority among defendants.
+
+															Under the WPC rule, we consider only the plaintiff’s claims to see if there is federal-question jurisdiction.  Whether the defendant raises federal counterclaims (or even federal defenses) is irrelevant.  See, e.g., Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.,
+
+535 U.S. 826, 831 (2002).  Likewise, in a case involving standard diversity jurisdiction (based on complete diversity under §1332(a) rather than minimal diversity under CAFA), it is “the sum demanded . . . in the initial pleading” that determines whether the amount in controversy is large enough.  §1446(c)(2).  In both kinds of cases, a federal court trying to figure out if it has “original jurisdiction,” as required for removal of cases under §1441(a), must shut its eyes to the defendant’s filings.  Only the plaintiff’s complaint counts.  So says the WPC rule.
+
+															But that is all about jurisdiction.  The majority and respondent would take things a step further.  Even after assuring itself of jurisdiction, they urge, a court should consult only the plaintiff’s complaint to see if a party is a “defendant” empowered to remove under §1441.  Since third-party defendants (by definition) are not named until the countercomplaint, they are not §1441 “defendants.”
+
+															I cannot fathom why this rule about who is a “defendant” should follow from the WPC rule about when there is federal jurisdiction.  And the majority makes no effort to fill the logical gap; it betrays almost no awareness of the gap, drawing the relevant inference in two conclusory sentences.  See ante, at 6.  But since this Court’s reasons for the WPC rule have sounded in policy, the argument could only be that the same policy goals would support today’s restriction on who is a §1441 “defendant.”[4]  What are the policy goals behind the WPC rule?  We have described them as threefold.  See Holmes Group, Inc., 535 U. S., at 831–832.
+
+															First,
+
+															“since the plaintiff is ‘the master of the complaint,’ the well-pleaded-complaint rule enables him, ‘by eschewing claims based on federal law, . . . to have the cause heard in state court.’  Caterpillar Inc., [482 U. S.,] at 398–399.  [Allowing a defendant’s counterclaims or defenses to create federal-question jurisdiction], in contrast, would leave acceptance or rejection of a state forum to the master of the counterclaim.  It would allow a defendant to remove a case brought in state court under state law, thereby defeating a plaintiff’s choice of forum, simply by raising a federal counterclaim.”  Ibid.
+
+															But this concern is not implicated here; adopting petitioner’s reading of “defendant” would in no way reduce the extent of a plaintiff’s control over the forum.  Plaintiffs would be able to keep state-law cases in state court no matter what we held about §1441, and any cases remov- able by third-party defendants would have been removable by original defendants anyway.  In other words, the issue here is who can remove under that provision, not which cases can be removed.  However we resolved that “who” question, removability under §1441(a) would still require cases to fall within federal courts’ “original jurisdiction,” §1441(a), and that would still turn just on the plaintiff’s choices—on whether the plaintiff had raised federal claims (or sued diverse parties for enough money).  So a case that a plaintiff had brought “in state court under state law,” id., at 832, would remain beyond federal jurisdiction, and thus unremovable under §1441(a), even if we held that third-party defendants are “defendants” under that provision.
+
+															By the same token, such a holding would not undermine the second policy justification that Holmes gave for the WPC rule: namely, to avoid “radically expand[ing] the class of removable cases, contrary to the ‘[d]ue regard for the rightful independence of state governments.’ ” Id., at 832.  As noted, our decision on the scope of §1441’s “defendants” would not expand the class of removable cases at all, because it would have no impact on whether a case fell within federal courts’ jurisdiction.  It would only expand the set of people (“the defendants”) who would have to consent to such removal: Now third-party and original defendants would have to agree.
+
+															The majority declares that treating third-party defendants as among “the defendants” under §1441 “makes little sense.” Ante, at 8.  Perhaps its concern is that such a ruling would make no meaningful difference since third-party defendants would still be powerless to remove unless they secured the consent of the original defendants, who are their adversaries in litigation.  But for one thing, there may be cases in which original defendants do consent.  Though original and third-party defendants are rivals as to claims brought by the one against the other, they may well agree that a federal forum would be preferable.  After all, neither will have chosen the state forum in which both find themselves prior to removal.[5]
+
+															More to the point, even if third-party defendants could not secure the agreement needed to remove an entire civil action under §1441(a), counting them as “defendants” under §1441 would make a difference by allowing them to invoke §1441(c)(2), which would permit them to remove certain claims (not whole actions) without original defendants’ consent.  See Part I–B, supra.  Being able to remove claims under §1441(c)(2) has, in fact, been the main benefit to third-party defendants in those jurisdictions that have ruled that they are “defendants” under §1441.  See Carl Heck, 622 F. 2d, at 136.  But this effect of such a ruling is immune to the objection that it would “radically expand the class of removable cases” since §1441(c)(2) does not address the removal of a whole case (a “civil action”) at all, but only of some claims within a case—and only those that could have been brought in federal court from the start, “in a separate suit from that filed by the original plaintiff.”  Id., at 136.  Notably, then, any claims that were raised by the original plaintiff would get to remain in state court.  Here too, the WPC rule’s concern to avoid “radically expand[ing] the class of removable cases” is just not implicated.
+
+															This leaves Holmes’s final rationale for the WPC rule: that it promotes “clarity and ease of administration” in the resolution of procedural disputes. 535 U. S., at 832.  But petitioner’s and respondent’s views on who is a “defendant” are equally workable, so this last factor does not cut one way or the other.
+
+															In sum, the actual WPC rule, which limits the filings courts may consult in determining if they have jurisdiction, is based on policy concerns that do not arise here.  There is, therefore, no justification for inventing an ersatz WPC rule to limit which filings may be consulted by courts deciding who is a “defendant” under §1441.
+
+															*  *  *
+
+															All the resources of statutory interpretation confirm that under CAFA and §1441, third-party defendants are defendants.  I respectfully dissent.
+Notes
+1
+ Supplemental jurisdiction covers those claims “so related” to federal claims that they are “part of the same case or controversy under Article III,”
+
+28 U. S. C. §1367(a), in that they “derive from a common nucleus of operative fact.”  Mine Workers v. Gibbs,
+
+383 U.S. 715, 725 (1966). 
+
+2
+ That is true only of counterdefendants—original plaintiffs who are countersued by their original defendant.  For one thing, it is hard to say that these plaintiffs fall under the plain meaning of “defendant,” when the word “defendant” is defined in opposition to the word “plaintiff.” See Webster 591; 4 OED 377.  Moreover, as original plaintiffs, these parties chose the state forum (unlike original or third-party defendants), so it makes less sense to give them a chance to remove the case from that same forum.  Finally, our decision in Shamrock Oil & Gas Corp. v. Sheets,
+
+313 U.S. 100 (1941), confirms this reasoning and result.  See Part IV–A, infra. 
+
+3
+ See Carl Heck Engineers, Inc. v. Lafourche Parish Police Jury, 622 F.2d 133, 135 (CA5 1980) (collecting four); Charter Medical Corp. v. Friese, 732 F. Supp. 1160 (ND Ga. 1989); Patient Care, Inc. v. Freeman, 755 F. Supp. 644 (NJ 1991). 
+
+4
+ The Court insists that its position is based on “statutory context,” not the logic behind the well-pleaded complaint rule.  Ante, at 6–7. But the only context to which the Court points is our precedent establishing the well-pleaded complaint rule.  Ante, at 6.  It is that rule—the rule that federal jurisdiction over an action turns entirely on the plaintiff’s complaint—that leads the Court to think furthermore that “ ‘the defendant’ to [an] action is the defendant to that complaint.”  Ibid. 
+
+5
+ Or perhaps the majority fears that petitioner’s position would make it harder for original defendants under §1441(a), by requiring them to get the consent of the third-party defendants against whom they have just brought suit.  But this is an illusory problem.  Original defendants hoping to remove under §1441(a) without having to get their adversaries to agree could simply remove the case before roping in any third-party defendants. 
+
+

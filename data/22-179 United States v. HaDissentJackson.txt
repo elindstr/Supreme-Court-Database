@@ -1,0 +1,902 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-179
+::decision_name::  United States v. Hansen
+::decision_year:: 2023
+::opinion_author:: Jackson
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–179
+
+															_________________
+
+															UNITED STATES, PETITIONER v. HELAMAN
+HANSEN
+
+															on writ of certiorari to the united states
+court of appeals for the ninth circuit
+
+															[June 23, 2023]
+
+															
+
+															Justice Jackson, with whom Justice Sotomayor
+joins, dissenting.
+
+															At bottom, this case is about how to interpret a
+statute that prohibits “encourag[ing] or induc[ing]” a
+noncitizen “to come to, enter, or reside in the United
+States” unlawfully. 8 U. S. C.
+§1324(a)(1)(A)(iv). The Court reads that broad language as a
+narrow prohibition on the intentional solicitation or facilitation
+of a specific act of unlawful immigration—and it thereby
+avoids having to invalidate this statute under our well-established
+First Amendment overbreadth doctrine. But the majority departs from
+ordinary principles of statutory interpretation to reach that
+result. Specifically, it rewrites the provision’s text to
+include elements that Congress once adopted but later removed as
+part of its incremental expansion of this particular criminal law
+over the last century.
+
+															It is neither our job nor our prerogative to
+retrofit federal statutes in a manner patently inconsistent with
+Congress’s choices. Moreover, by acquiescing to the
+Government’s newly minted pitch to narrow this statute in
+order to save it,[1] the
+majority undermines the goal of the overbreadth doctrine, which
+aims to keep overly broad statutes off the books in order to avoid
+chilling constitutionally protected speech. See Dombrowski
+v. Pfister, 380 U.S.
+479, 486–487 (1965). Because the majority’s
+interpretation of §1324(a)(1)(A)(iv) diverges from the text
+and history of the provision, and simultaneously subverts the
+speech-protective goals of the constitutional doctrine plainly
+implicated here, I respectfully dissent.
+
+															I
+
+															Section 1324(a)(1)(A)(iv) makes it a federal
+crime to “encourag[e] or induc[e]” a noncitizen
+“to come to, enter, or reside in the United States, knowing
+or in reckless disregard of the fact that such coming to, entry, or
+residence is or will be in violation of law.” For ease of
+reference, I will refer to this as the “encouragement
+provision.”
+
+															Respondent Hansen argues that the encouragement
+provision is unconstitutional under our First Amendment overbreadth
+doctrine, and the Ninth Circuit below agreed. Neither the
+Government nor the majority disputes that conclusion if the statute
+is read according to its plain terms. And, indeed, when read
+literally, the encouragement provision prohibits so much protected
+speech that it appears to qualify as overbroad under our
+precedents.
+
+															A
+
+															A statute is overbroad—and thus facially
+invalid—if “a substantial number of its applications
+are unconstitutional, judged in relation to the statute’s
+plainly legitimate sweep.” United States v.
+Stevens, 559 U.S.
+460, 473 (2010) (internal quotation marks omitted). The
+overbreadth inquiry thus generally requires comparing the First
+Amendment- protected expression that a statute impermissibly
+punishes, on the one hand (let’s call that “category
+one”), with the unprotected speech and conduct that the
+statute validly prohibits, on the other (“category
+two”).
+
+															Starting with category one: With respect to the
+sweep of the plain text of the encouragement provision, there is no
+dispute that, “[i]n ordinary parlance, ‘induce’
+means ‘[to] lead on; to influence; to prevail on; to move by
+persuasion or influence,’ ” and
+“ ‘encourage’ means to ‘inspire with
+courage, spirit, or hope.’ ” Ante, at 9.
+Thus, on its face, the encouragement provision’s use of the
+terms “encourage” and “induce” seems to
+encompass any and all speech that merely persuades, influences, or
+inspires a noncitizen to come to, enter, or reside in this country
+in violation of law.
+
+															If speech of this nature is, in fact, sufficient
+to trigger potential prosecution under this statute, the provision
+would put all manner of protected speech in the Government’s
+prosecutorial crosshairs. It would reach, for example, the
+grandmother who says she misses her noncitizen grandchild, leading
+the grandchild to move illegally to the United States. It would
+also apply to the doctor who informs a noncitizen patient that a
+necessary medical treatment is more readily available in the United
+States, influencing the patient to stay beyond the expiration of
+his visa to await treatment. The college counselor who advises an
+undocumented student that she can obtain a private scholarship to
+attend college in the United States, inspiring the student to
+reside here, would also fall within the scope of the statute.
+
+															The encouragement provision, on this broad
+reading, would also punish abstract advocacy of illegal conduct,
+even though such speech is plainly permissible under the First
+Amendment. For instance, the plain text of the statute appears to
+prohibit a person from saying to a noncitizen who has no
+authorization to reside here, “I encourage you to live in the
+United States.” But that speech is plainly protected. See
+United States v. Williams, 553
+U.S. 285, 298–300 (2008). In Williams, this Court
+explained that “abstract advocacy” of child
+pornography—including the phrase “I encourage you to
+obtain child pornography”—qualifies as protected
+speech, even though the “recommendation of a particular piece
+of purported child pornography with the intent of initiating a
+transfer” is properly proscribed by federal statute.
+Ibid. (internal quotation marks omitted); see also,
+e.g., Ashcroft v. Free Speech Coalition,
+535 U.S.
+234, 253 (2002) (“The mere tendency of speech to
+encourage unlawful acts is not a sufficient reason for banning
+it”).
+
+															B
+
+															The Government does not dispute that the
+encouragement provision is unconstitutional as overbroad if it is
+read according to its plain text, thereby reaching these various
+fact patterns. This point is worth repeating: Under the broad
+interpretation of the statute, the Government does not even attempt
+to argue that the unconstitutional applications in category one are
+not “substantial,” Stevens, 559 U. S., at
+473, in relation to the constitutional applications that fall in
+category two.[2] Rather, the
+Government argues that the statute can be saved from falling victim
+to today’s overbreadth challenge by construing the broad
+terms of the encouragement provision narrowly—and, in
+particular, reading them as authorizing prosecution only for
+solicitation or facilitation.
+
+															Citing this Court’s general duty “to
+seek harmony, not to manufacture conflict,” when
+“legislation and the Constitution brush up against each
+other,” ante, at 16–17, the majority obliges.
+But this Court also has a duty to refrain from taking the
+legislative reins and revising the text of a statute. It is well
+established that “[w]e will not rewrite a law to
+conform it to constitutional requirements.” Stevens,
+559 U. S., at 481 (emphasis added; alterations and internal
+quotation marks omitted). Accordingly, and in the overbreadth
+context in particular, the Court “may impose a limiting
+construction on a statute only if it is ‘readily
+susceptible’ to such a construction.” Ibid.
+(some internal quotation marks omitted).
+
+															Application of our ordinary principles of
+statutory interpretation here reveals that the encouragement
+provision is not susceptible to the narrow solicitation or
+facilitation construction that the majority adopts, as explained
+below. Thus, this statute is overbroad and facially invalid under
+the First Amendment.
+
+															II
+
+															The majority contends that the encouragement
+provision uses “ ‘encourage’ ”
+and “ ‘induce’ ” in a
+“specialized, criminal-law sense,” under which those
+words are essentially synonymous with solicitation and facilitation
+and carry certain narrowing features of those crimes. Ante,
+at 9. But that construction of the statute is untenable for the
+reasons that follow.
+
+															A
+
+															The majority starts its interpretation of the
+encouragement provision “with some background on solicitation
+and facilitation,” ante, at 6, instead of addressing
+any of the terms in the encouragement provision itself. This is the
+first clue that the majority’s statutory analysis is unusual.
+Ordinarily, we start with the text of the statute being
+interpreted. Yet the words “solicitation” and
+“facilitation” appear nowhere in the encouragement
+provision. (As the majority notes, facilitation is “also
+called aiding and abetting,” ibid.—another term
+that is absent from the encouragement provision.)
+
+															The majority goes on to explain that the terms
+that do appear in the encouragement
+provision—“encourage” and
+“induce”—are also often used (with other words)
+to define “solicitation” and
+“facilitation.” Ante, at 6–8. For example,
+the majority notes that one legal dictionary “defines
+‘abet’ as ‘[t]o encourage or set another
+on to commit a crime,’ ” and it cites other legal
+dictionaries that also use “encourage” to define
+“abet.” Ante, at 7. Similarly, the majority
+observes that the federal “ban on soliciting a crime of
+violence . . . penalizes those who ‘solici[t],
+comman[d], induc[e], or otherwise endeavo[r] to
+persuade’ another person ‘to engage in [the unlawful]
+conduct.’ ” Ibid. Because the terms
+“encourage” and “induce” are used to define
+the crimes of solicitation and facilitation, the majority concludes
+that the statutory terms “ ‘[e]ncourage’ and
+‘induce’ have well-established legal meanings”
+that “incorporat[e] common-law liability for solicitation or
+facilitation.” Ante, at 9.
+
+															This contention—that, because the broad
+terms that Congress actually used are sometimes spotted in the
+definition of other, narrower words, the statute’s broad
+terms are limited by the meaning of those narrower words and those
+words’ characteristics—is puzzling. The majority cites
+no precedent for this novel approach to interpreting words in a
+statute. And its logic falls apart in light of the English lexicon
+and how dictionary definitions tend to work.
+
+															Broad words are often used to define narrower
+ones. So the fact that a word is used to help define another word
+does not necessarily mean that the former is synonymous with the
+latter or incorporates all of its connotations. For instance, the
+word “furniture” might be used in the definition of a
+“chair,” but not all pieces of furniture are chairs,
+nor do all pieces of furniture have four legs or other common
+chair-like characteristics. Similarly, “to move” is
+used to define “to walk,” “to run,” and
+“to fly.” But that does not make these four terms
+interchangeable.
+
+															So, too, here. The phrase “encourages or
+induces” is not synonymous with “solicits” or
+“facilitates” (or “aids and abets”). For
+example, among the other characteristics of solicitation and
+facilitation (discussed further in Part II–C, infra)
+is the fact that they require “an intent to bring
+about a particular unlawful act,” ante, at 6 (emphasis
+added). But the encouragement provision hints at no such thing. It
+simply prohibits “encourag[ing] or induc[ing]” a
+noncitizen “to come to, enter, or reside in the United
+States, knowing or in reckless disregard of the fact that such
+coming to, entry, or residence is or will be in violation of
+law.” §1324(a)(1)(A)(iv). Nor does the ordinary meaning
+of “encourages or induces” carry the intent requirement
+that solicitation and facilitation do: By describing the
+attractions of my hometown, for instance, I might end up inducing a
+listener to move there, even if that was not my intent.
+
+															It is also telling that the very next
+subdivision of §1324(a)(1)(A) expressly prohibits
+“aid[ing] or abet[ting] the commission of any of the
+preceding acts.” §1324(a)(1)(A)(v)(II). That provision
+indicates that Congress knows how to create an aiding-and-abetting
+prohibition when it wants to—and that it did not do so in
+§1324(a)(1)(A)(iv).[3]
+
+															The majority’s mere observation that the
+encouragement provision’s terms are used to define
+solicitation and facilitation is thus insufficient to establish
+that the terms mean the same thing or incorporate the same
+features.
+
+															B
+
+															The majority next turns to “[s]tatutory
+history” to support its transformation of the broad
+encouragement provision that Congress wrote into a narrow
+solicitation or aiding-and-abetting prohibition. Ante, at
+11. I agree that the history of a statute can reveal
+Congress’s intent to use terms in a narrower or specialized
+manner. But, here again, the particulars matter. And the history of
+this particular statute only underscores that it cannot be read as
+the majority wishes. At every turn, Congress has sought to expand
+the reach of this criminal law, including by deleting the terms and
+mens rea requirement that the majority attempts to read back
+into the statute.
+
+															1
+
+															The history of the encouragement provision is
+a tale of expansion. Up first was an 1885 law focused specifically
+on contract labor. Ch. 164, 23Stat. 332. It made “knowingly
+assisting, encouraging or soliciting the migration or importation
+of ” a noncitizen into the United States “to
+perform labor or service of any kind under contract or
+agreement” unlawful. §3, id., at 333. Congress
+revised this prohibition in 1917, to add “induce.”
+§5, 39Stat. 879. Thus, as of the early 20th century, it was a
+misdemeanor “to induce, assist, encourage, or solicit
+. . . the importation or migration of any contract
+laborer,” or to attempt to do the same. Ibid.
+
+															Significantly for present purposes, in 1952,
+Congress deleted the statute’s references to
+solicitation and assistance—leaving “encourages”
+and “induces” to stand alone. 66Stat. 229. What is
+more, Congress expanded the prohibition to all unlawful
+entry, not merely contract labor. Ibid. And it also
+ratcheted up the punishment. Ibid. So amended, the statute
+made it a felony to “willfully or knowingly encourag[e] or
+induc[e], or attemp[t] to encourage or induce, either directly or
+indirectly, the entry into the United States” of any
+noncitizen who had not been “duly admitted” or who was
+not “lawfully entitled to enter or reside within the United
+States.” Ibid.
+
+															Congress enacted the current version of the
+encouragement provision in 1986. It removed the mens rea
+requirement relating to the encouragement or inducement
+element—excising from the statute that a violator must
+“willfully or knowingly” encourage or induce a
+noncitizen to violate the immigration laws—while inserting a
+mens rea requirement for knowledge or reckless disregard of
+the noncitizen’s immigration status. See Immigration Reform
+and Control Act of 1986, §112(a), 100Stat. 3381–3382.
+Simultaneously, and for the first time, Congress made it a crime to
+encourage or induce an unauthorized noncitizen not merely to
+enter the United States, but also to encourage or induce
+such a person to “reside” here unlawfully.
+Ibid.
+
+															Finally, in 1996, Congress crafted a separate
+penalty enhancement for certain kinds of violations. It raised the
+maximum punishment from 5 years to 10 years of imprisonment if the
+offender violates the encouragement provision “for the
+purpose of commercial advantage or private financial gain.”
+§1324(a)(1)(B)(i); see Illegal Immigration Reform and
+Immigrant Responsibility Act of 1996, §203(a), 110Stat.
+3009–565.
+
+															As these developments illustrate, Congress has
+repeatedly revisited the scope of the encouragement provision. And,
+in so doing, it has consistently expanded the reach and severity of
+this criminal law from its modest 1885 origins. Most notably, the
+particular amendments that Congress has made to the encouragement
+provision demonstrate its intent to specifically reject the pillars
+of the majority’s holding.
+
+															To reiterate: The terms “solicit”
+and “assist” appeared in the text of the statute
+between 1885 and 1952, at which point Congress removed them.
+Likewise, between 1952 and 1986, violating this statute required
+that the speaker “willfully or knowingly” encourage or
+induce a noncitizen to transgress the immigration laws. But in
+1986, Congress deleted this primary mens rea
+requirement.
+
+															2
+
+															The majority’s efforts to spin the
+encouragement provision’s enlightening enactment history in
+favor of the majority’s narrow interpretation are
+unavailing.
+
+															The majority first points out that the 1885
+version of the encouragement provision criminalized
+“knowingly assisting, encouraging or
+soliciting” certain immigration. §3, 23Stat. 333
+(emphasis added); see ante, at 11. Because the term
+“encouraging” was placed alongside
+“assisting” and “soliciting” in this
+precursor provision, the majority maintains that the term
+“encouraging” is narrowed by the canon of noscitur a
+sociis, “which counsels that a word is given more precise
+content by the neighboring words with which it is
+associated.” Williams, 553 U. S., at 294; see
+ante, at 11. In Williams, the Court (in an opinion by
+Justice Scalia) reasoned that, “[w]hen taken in
+isolation,” the broad term
+“ ‘promotes’ ” is
+“susceptible of multiple and wide- ranging meanings,”
+but that, “in a list that includes ‘solicits,’
+‘distributes,’ and ‘advertises,’ [it] is
+most sensibly read to mean the act of recommending purported child
+pornography to another person for his acquisition.” 553
+U. S., at 294–295.
+
+															But, as the majority here ultimately goes on to
+acknowledge, ante, at 12, the statutory word
+“encouraging” was not actually accompanied by the
+narrower terms “soliciting” and “assisting”
+throughout the course of this statute’s history. And for the
+history to be meaningfully referenced, the state of the statute
+must be considered over time, not just at particular points in
+which words that seem to support a particular reading might have
+appeared. The delta between the purportedly narrow version of the
+statute that the majority points to, and what later happened to the
+statutory text, is important—and there is no dispute that
+Congress later removed the terms “soliciting” and
+“assisting” from the encouragement provision, leaving
+“encouraging” and “inducing” to stand
+“in isolation,” 553 U. S., at 294. See
+ante, at 13. Tracing the history over time clearly
+establishes that Congress deleted the very narrowing terms that the
+majority now reads back into the statute.[4]
+
+															The majority brushes off Congress’s
+revision by speculating that Congress was merely “engaged in
+a cleanup project” and was just “streamlin[ing]”
+the statutory language. Ibid. This contention, however, gets
+our ordinary presumption in statutory interpretation cases
+precisely backwards. We “usually presume differences in
+language . . . convey differences in meaning,”
+absent some indication from Congress to the contrary. BNSF
+R. Co. v. Loos, 586 U. S. ___, ___ (2019)
+(slip op., at 10) (internal quotation marks omitted). Thus, we have
+found the presumption overcome where, for example, Congress has
+expressly “billed” the changes as “effect[ing]
+only ‘[t]echnical [a]mendments.’ ”
+Id., at ___ (slip op., at 9).
+
+															Here, the majority points to no signal from
+Congress that it sought to change the encouragement
+provision’s language without changing its meaning. It seems
+that the only support the majority can muster for its
+“cleanup project” theory is a 1947 Supreme Court case
+that at several points refers to the statute as a prohibition on
+“encourag[ing]” or “induc[ing]” certain
+unlawful immigration. Ante, at 13 (citing United
+States v. Lem Hoy, 330 U.S.
+724 (1947)). From this, the majority infers that, when Congress
+amended the encouragement provision five years later to remove the
+words “solicit” and “assist,” it must have
+been adopting Lem Hoy’s shorthand characterization of
+the statute. But the majority fails to support this
+connection—tenuous on its face—with any evidence that
+Congress actually consulted our 1947 decision when it drafted the
+1952 amendments, or anything else that might establish the primary
+significance that the majority ascribes to our decision’s
+phrasing.
+
+															The majority similarly characterizes
+Congress’s decision to remove the intent requirement from the
+statute in 1986 as “a further effort to streamline” the
+encouragement provision. Ante, at 16. In other words, the
+Court today holds that Congress’s removal of “willfully
+or knowingly” in the 1986 amendments did not change the
+mens rea required to violate this statute. But the majority
+offers no support at all for its view that Congress didn’t
+really mean for the amendment to effect any substantive
+change. Instead, it conjures up its own “simple
+explanation”: There was “no need” for an explicit
+mens rea because “encourage” and
+“induce” carry the mens rea associated with
+solicitation and facilitation. Ante, at 15; see also
+ante, at 14 (reasoning that Congress’s use of
+“encourages” and “induces” brought along
+the “old soil” of “the traditional intent
+associated with solicitation and facilitation” (internal
+quotation marks omitted)). Of course, this argument merely assumes
+that Congress intended for “encourage” and
+“induce” as they appear in the encouragement provision
+to mean “solicit” and “facilitate”; it is a
+repackaging of the majority’s unwarranted conflation of those
+terms. See Part II–A, supra.
+
+															The majority also invokes the presumption that a
+criminal law contains an intent requirement even where Congress
+does not explicitly include one. Ante, at 15–16. But,
+here, the statutory history undermines that presumption. Congress
+most certainly focused on the mens rea question because it
+not only decided to remove “willfully or knowingly”
+from the statute, it did so while inserting a separate mens
+rea requirement for the knowledge of the noncitizen’s
+immigration status. The confluence of these choices implies that
+Congress’s removal of the primary mens rea requirement
+was deliberate. And, when this deliberate choice is considered
+alongside the history of the provision’s significant
+expansions, there is ample cause to think that Congress intended a
+substantive change in meaning.
+
+															C
+
+															Other features of the encouragement provision
+(beyond its plain text and historical development) also suggest
+that Congress did not mean for the statute to be construed in
+accordance with established characteristics of solicitation or
+aiding and abetting. These features further highlight the poor fit
+between this statute and the narrow
+solicitation/aiding-and-abetting box into which the majority tries
+to squeeze Congress’s broad language.
+
+															Recall that, in 1986, Congress made it a crime
+to encourage or induce a noncitizen not just to “come
+to” or “enter” the United States, but also to
+“reside” in this country. 100Stat. 3382; supra,
+at 8–9.[5] As the
+majority notes, while it is a crime for a noncitizen to
+enter the United States illegally, it is generally not a
+crime—just a civil violation—to remain in the
+United States without lawful status, such as when a noncitizen
+overstays a visitor or student visa. See Arizona v.
+United States, 567 U.S.
+387, 407 (2012); see ante, at 19. Thus, the
+encouragement provision on its face appears to criminally
+punish someone who merely encourages or induces a civil
+violation.[6]
+
+															That feature of the provision does not sit
+easily with its categorization as a solicitation or facilitation
+statute, because, ordinarily, a person may only be held criminally
+liable for aiding and abetting or solicitation when the underlying
+offense is itself a crime. Aiding-and-abetting liability is
+“a centuries-old view of culpability: that a person may be
+responsible for a crime he has not personally carried out if he
+helps another to complete its commission.” Rosemond v.
+United States, 572 U.S.
+65, 70 (2014) (citing J. Hawley & M. McGregor, Criminal Law
+81 (1899)); see also 18 U. S. C. §2(a) (the general
+federal aiding-and-abetting statute, providing that someone who
+“aids, abets, counsels, commands, induces or procures”
+the commission of a federal crime “is punishable as a
+principal”). As for solicitation, at common law, the
+solicited offense had to be a felony or a serious misdemeanor;
+otherwise, “the solicitor [was] guilty of no offense.”
+1 J. Ohlin, Wharton’s Criminal Law §9:2 (16th ed. 2021)
+(Wharton’s). Today, “in some jurisdictions, the offense
+solicited may be a felony or a misdemeanor; but in others, it can
+only be a felony”—either way, though, the underlying
+offense must be criminal. Ibid. (footnotes omitted); see
+also 18 U. S. C. §373 (the general federal
+solicitation statute, which is limited to the solicitation of
+violent felonies).
+
+															Here, by contrast, the encouragement provision
+on its face appears to permit a person to be punished as a felon
+for merely encouraging a civil violation. Thus, the statute is not
+an easy fit for the solicitation and facilitation role in which the
+majority has cast it.
+
+															This statute is fundamentally different from
+aiding-and-abetting liability and solicitation in other ways as
+well. As noted, aiding-and-abetting liability is a form of
+vicarious liability—i.e., a way in which a person
+becomes liable for the crimes of the principal. Likewise, for
+solicitation, “the punishment . . . is usually
+geared to . . . the punishment provided for the offense
+solicited.” Wharton’s §9:11; see, e.g., 18
+U. S. C. §373(a) (providing, for example, punishment
+of “not more than one-half the maximum term of imprisonment
+. . . of the crime solicited”). But, notably, a
+person who violates the encouragement provision is not punished as
+if he were a principal of the underlying offense, nor does the
+prescribed punishment depend on the penalty for the underlying
+offense. So, for example, even if the underlying immigration
+offense is a civil violation, the person who encourages or induces
+that infraction could be punished by up to 10 years’
+imprisonment for violating the encouragement provision. Unlike
+solicitation and facilitation, then, punishment for violation of
+the encouragement provision is not tied in any way to the
+punishment prescribed for the underlying offense.
+
+															It is also telling that aiding-and-abetting
+liability (but not solicitation) requires that the principal
+actually commit the underlying offense. 2 W. LaFave,
+Substantive Criminal Law §13.3(c) (3d ed. 2018) (“[T]he
+guilt of the principal must be established at the trial of the
+accomplice as a part of the proof on the charge against the
+accomplice”). Yet, the encouragement provision on its face
+does not require that a noncitizen actually enter or reside in the
+United States.
+
+															*  *  *
+
+															For these reasons, none of the traditional
+tools of statutory interpretation makes the encouragement provision
+readily susceptible to the majority’s narrowing
+construction.
+
+															III
+
+															The majority nevertheless revises the statute,
+leaning on the canon of constitutional avoidance. Ante, at
+16–17.[7] But that canon
+“comes into play only when, after the application of ordinary
+textual analysis, the statute is found to be susceptible of more
+than one construction.” Jennings v. Rodriguez,
+583 U. S. ___, ___ (2018) (slip op., at 12) (internal
+quotation marks omitted). It does not give the Court license
+“to rewrite a statute as it pleases.” Id., at
+___ (slip op., at 14). And, here, for the reasons explained above,
+it is clear that the majority has mounted “a serious invasion
+of the legislative domain.” Stevens, 559 U. S.,
+at 481 (internal quotation marks omitted). The majority’s
+rescue mission is especially problematic because it is taking place
+in the context of a First Amendment challenge to a statute on
+overbreadth grounds, as explained below.
+
+															A
+
+															Overbreadth challenges are an “exception
+to the usual rules governing standing,” a variation the Court
+has long permitted in recognition of the “danger of
+tolerating, in the area of First Amendment freedoms, the existence
+of a penal statute susceptible of sweeping and improper
+application.” Dombrowski, 380 U. S., at
+486–487 (internal quotation marks omitted). Absent
+overbreadth doctrine, “the contours of regulation[s]”
+that impinge on the freedom of speech “would have to be
+hammered out case by case—and tested only by those hardy
+enough to risk criminal prosecution to determine the proper scope
+of regulation.” Id., at 487. We thus allow defendants
+whose speech is constitutionally proscribed by a statute (like
+Hansen) to argue that the statute is nevertheless facially invalid
+under the First Amendment on the grounds that “a substantial
+number of its applications are unconstitutional, judged in relation
+to the statute’s plainly legitimate sweep.”
+Stevens, 559 U. S., at 473 (internal quotation marks
+omitted). By permitting this kind of challenge, the Court has
+“avoided making vindication of freedom of expression await
+the outcome of protracted litigation.” Dombrowski, 380
+U. S., at 487.
+
+															If this Court is willing to redline
+Congress’s work to save it from unconstitutionality, it
+“sharply diminish[es] Congress’s incentive to draft a
+narrowly tailored law in the first place,” Stevens,
+559 U. S., at 481 (internal quotation marks omitted), which
+runs directly counter to overbreadth’s goal of limiting
+criminal laws that chill constitutionally protected speech. Thus,
+in the particular context of an overbreadth challenge,
+countervailing constitutional concerns—namely, that
+constitutionally protected speech will be chilled—must be
+considered alongside the values that underpin our ordinary canon of
+constitutional avoidance.
+
+															Heavy reliance on constitutional avoidance where
+statutes would otherwise be facially overbroad also means that the
+broad language in the particular statute remains on the
+books—as compared to the alternative world, in which the
+Court holds the statute unconstitutional as facially overbroad and
+thereby prompts the enactment of a narrower replacement. Ordinary
+people confronted with the encouragement provision, for instance,
+will see only its broad, speech-chilling language. Even if they do
+consult this Court’s decision, and do recognize that it
+substantially narrows the statute’s scope, the Court’s
+decision leaves many things about future potential prosecutions up
+in the air.
+
+															For example, one does not know from
+today’s determination whether a noncitizen must actually
+complete the underlying offense of coming to, entering, or residing
+in the United States (à la aiding and abetting) or whether
+completion is not a prerequisite for prosecution (à la
+solicitation). This sort of uncertainty—the clarification of
+which, by the way, should be Congress’s policy
+prerogative—may itself dissuade people from engaging in
+protected speech.[8] Thus,
+regardless of whether a potential speaker has the ability, means,
+and time to track down and interpret this decision (or hire a
+lawyer to do so) to understand what the law requires, the known
+unknowns of the majority’s course portend further chill.
+
+															B
+
+															The majority attempts to downplay the
+encouragement provision’s threat to free expression by
+highlighting that Hansen “fails to identify a single
+prosecution for ostensibly protected expression in the 70 years
+since Congress enacted clause (iv)’s immediate
+predecessor.” Ante, at 17–18. But the purported
+lack of past prosecutions provides no comfort for several
+reasons.
+
+															The first is that we have already said as
+much—this Court squarely rejected that kind of argument when
+the Government raised it in a prior overbreadth challenge. In
+Stevens, the Government vigorously asserted that it had
+never brought a prosecution implicating the kind of protected
+expression that the plain text of the statute in question swept in,
+and that it did not intend to do so. 559 U. S., at 480. The
+Government “hi[t] this theme hard, invoking its prosecutorial
+discretion several times.” Ibid. But we were not
+moved: Such a prosecution was permitted by the statute, we noted,
+and that was enough to make it a serious threat. “[T]he First
+Amendment protects against the Government; it does not leave us at
+the mercy of noblesse oblige.” Ibid.
+
+															Second, just as in Stevens, “[t]his
+prosecution is itself evidence of the danger in putting faith in
+Government representations of prosecutorial restraint.”
+Ibid. At trial in this very case, the Government objected to
+Hansen’s proposed jury instructions, which would have
+required, among other things, that the Government prove that Hansen
+intended the noncitizen in question to reside in the United States
+illegally. The Government’s objection was telling. It was
+based on the argument that the proposed instructions added elements
+not found in the text of the statute itself. And the District Court
+was persuaded; it sided with the Government in that
+regard.[9] But now that the
+statute’s validity hangs in the balance, the Government has
+reversed course entirely—it now implores us to read into the
+statute the very element that it earlier opposed as atextual. See
+Brief for United States 23–28.
+
+															This debacle exemplifies the real and
+ever-present risk of continuing to have facially overbroad criminal
+statutes on the books. In its role as prosecutor, the Government
+often stakes out a maximalist position, only later to concede
+limits when the statute upon which it relies might be struck down
+entirely and the Government finds itself on its back foot.[10] I am not suggesting bad faith on
+anyone’s part; these kinds of turnabouts might well be
+chalked up to institutional incentives and coordination challenges
+in a massive prosecutorial system. But given these dynamics, the
+answer to whether the Government has, as of today, prosecuted
+Hansen’s hypothetical scenarios may understandably provide
+cold comfort to those living and working with immigrants.
+
+															In any event, it makes little sense for the
+number of unconstitutional prosecutions to be the litmus test for
+whether speech is being chilled by a facially overbroad statute.
+The number of people who have not exercised their right to speak
+out of fear of prosecution is, quite frankly, unknowable.
+
+															Moreover, criminal prosecutions are not the only
+method by which statutes can be wielded to chill free speech.
+Hansen’s amici detail how Customs and Border
+Protection (CBP) relied on the encouragement provision to justify
+its creation of a “watchlist” of potential speakers
+that CBP had compiled in connection with its monitoring of a large
+group of migrants—a list that included journalists simply
+reporting factual information about the group’s progress.
+Brief for Reporters Committee for Freedom of the Press as Amicus
+Curiae 5–6. CBP allegedly compiled dossiers on those
+reporters and singled them out as targets for special screenings.
+Ibid. There can be no doubt that this kind of Government
+surveillance—targeted at journalists reporting on an
+important topic of public concern, no less—tends to chill
+speech, even though it falls short of an actual prosecution.
+
+															Hansen’s amici also describe how a
+group of Members of Congress recently sent a letter to three
+religious organizations that help undocumented immigrants,
+directing the organizations to preserve documents and
+communications related to their work in advance of a potential
+congressional investigation into whether such organizations are
+“ ‘harbor[ing], transport[ing], and
+encourag[ing] ’ ” noncitizens to
+settle unlawfully in this country. Brief for Religious
+Organizations as Amici Curiae 34 (emphasis added). Again,
+this kind of letter invoking the language of the encouragement
+provision can plainly chill speech, even though it is not a
+prosecution (and, for that matter, even if a formal investigation
+never materializes).
+
+															The majority nevertheless derides the fears of
+Hansen and his amici as an overimaginative
+“parad[e]” of “horribles.” Ante, at
+18. But what may seem “fanciful” to this Court at great
+remove, ante, at 5, might well prove to be a significant
+obstacle for those on the ground who operate daily in the shadow of
+the law. The “gravity” of the encouragement
+provision’s chilling effect is “underscored by the
+filings of . . . amici curiae in support
+of ” Hansen—including briefs from lawyers,
+immigration advocacy organizations, religious and other charitable
+organizations, journalists, local governments, and nonprofit policy
+institutions from across the ideological spectrum. Americans for
+Prosperity Foundation v. Bonta, 594 U. S. ___, ___
+(2021) (slip op., at 17).
+
+															The substantial concerns that amici from
+such diverse walks of life raise illustrate that the
+“deterrent effect feared by” Hansen and his
+amici “is real and pervasive.” Id., at
+___ (slip op., at 18). Moreover, at the end of the day, those fears
+reflect a determination to view enacted statutes as serious
+business, and, essentially, to take Congress at its word. This
+Court should have done the same.
+
+															As written, the encouragement provision is
+overbroad. Therefore, it should have been deemed facially
+unconstitutional and invalid under the First Amendment, as the
+Ninth Circuit held.
+
+Notes
+1
+ Previously, even the
+Government rejected the majority’s view of the
+statute’s scope at trial, when it was seeking to convict the
+defendant. See Part III, infra.
+2
+ There is accordingly no
+need to dwell on the contents of category two here. The majority
+discusses several examples, like “issuing fraudulent Social
+Security numbers to noncitizens.” Ante, at 17 (citing
+Edwards v. Prime, Inc., 602 F.3d 1276,
+1295–1297 (CA11 2010)).
+3
+ This is not a surplusage
+argument. Cf. ante, at 15, n. 2. I agree with the
+majority that clause (iv) and clause (v)(II) have different aims.
+My point, instead, is that Congress’s failure to use the
+classic “aids or abets” language in clause (iv), which
+it deploys just next door in clause (v)(II), should give us pause
+before concluding that we can read clause (iv) as if it included
+the same terms.
+4
+ This revealing revision
+also sets apart the encouragement provision’s unadorned use
+of “encourages” and “induces” from the
+majority’s long list of state solicitation and facilitation
+laws. Ante, at 8. The majority includes that list in its
+effort to demonstrate that “encourages” and
+“induces” in the encouragement provision actually mean
+“solicits” or “aids and abets.” But in the
+vast majority of the cited statutes, classic narrowing
+terms—like “aided,” “abetted,”
+“solicits,” “commands,”
+“hires,” “coerces,” or
+“compels”—appear alongside
+“encourages” or “induces.” Ibid.;
+see App. to Brief for State of Montana et al. as Amici
+Curiae 1–44. Thus, unlike the one before us, such
+statutes might well be susceptible of a narrower
+reading.
+5
+ As a side note:
+Congress’s addition of “reside” might seem to
+sweep in speakers who encouraged or induced noncitizens “who
+were already unlawfully present in the U. S. to
+continue that unlawful presence.” 40 F. 4th 1049,
+1073, n. 1 (CA9 2022) (Collins, J., dissenting from denial of
+reh’g en banc). But as Judge Collins explained, the provision
+is “most naturally read” to reach only “those who
+encourage or induce particular [noncitizens] to acquire an
+unlawful presence or residence that they do not already
+have.” Ibid. After all, “[o]ne does not normally
+speak of ‘inducing’ another to do what he or she is
+already doing.” Ibid. And the principle of noscitur
+a sociis counsels in favor of such an understanding, given that
+“the first two listed verbs (‘come to’ and
+‘enter’) plainly refer to such an acquisition.”
+Ibid.
+6
+ Hansen takes issue with
+this feature of the statute, arguing that the
+“ ‘speech integral to criminal conduct’
+exception” to the First Amendment’s protection of free
+speech “does not permit the criminal punishment of
+speech encouraging only a civil law violation.” Brief
+for Respondent 39. The majority declines to address this argument,
+leaving it available in future as-applied challenges to this and
+other statutes. Ante, at 19, n. 5, 20.
+7
+ The majority implies that
+constitutional avoidance is a backup argument. Ante, at 16
+(suggesting that its reading of the statute is the “best
+one”). But, in my view, the text and history of the
+encouragement provision make it hard to get even close to the
+majority’s narrow reading without substantial reliance on the
+constitutional-avoidance principle.
+8
+ The Government also
+struggled at oral argument before this Court to articulate what
+scenarios the statute would (and would not) reach under its theory.
+But it notably represented that it did not believe it could validly
+prosecute a son who reassures his noncitizen mother (who lives
+unlawfully in the United States with him and his family) that she
+is not a burden on them and that his children love having their
+grandmother around. See Tr. of Oral Arg. 35.
+9
+ As the Government
+conceded during oral argument before this Court, given that its
+elements argument prevailed below, the instructions that the
+District Court gave to the jury in this case were legally
+erroneous. See Tr. of Oral Arg. 11; see also id., at
+39–40 (acknowledging that the Court “should send the
+case back to the Ninth Circuit and let the Ninth Circuit decide
+what’s appropriate in light of ” the flawed
+instructions).
+10  The
+Court has seen similar moves in multiple cases just this Term. See
+Ciminelli v. United States, 598 U.S. 306,
+316–317 (2023); Percoco v. United States, 598
+U.S. 319, 332–333 (2023); Dubin v. United
+States, 599 U. S. ___, ___–___ (2023) (slip op., at
+2–3).
+
+

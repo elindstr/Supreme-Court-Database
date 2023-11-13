@@ -1,0 +1,176 @@
+::SCDB_caseID:: 2017-042
+::decision_cite:: 16-1348
+::decision_name::  Currier v. Virginia
+::decision_year:: 2018
+::opinion_author:: Ginsburg
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 16–1348
+
+															_________________
+
+															MICHAEL NELSON CURRIER, PETITIONER v. VIRGINIA
+
+															on writ of certiorari to the supreme court of virginia
+
+															[June 22, 2018]
+
+															
+
+															Justice Ginsburg, with whom Justice Breyer, Justice Sotomayor, and Justice Kagan join, dissenting.
+
+															Michael Nelson Currier was charged in Virginia state court with (1) breaking and entering, (2) grand larceny, and (3) possessing a firearm after having been convicted of a felony.  All three charges arose out of the same criminal episode.  Under Virginia practice, unless the prosecutor and the defendant otherwise agree, a trial court must sever a charge of possession of a firearm by a convicted felon from other charges that do not require proof of a prior conviction.  Virginia maintains this practice recognizing that evidence of a prior criminal conviction, other than on the offense for which the defendant is being tried, can be highly prejudicial in jury trials.
+
+															After trial for breaking and entering and grand larceny, the jury acquitted Currier of both charges.  The prosecutor then chose to proceed against Currier on the severed felon-in-possession charge.  Currier objected to the second trial on double jeopardy grounds.  He argued that the jury acquittals of breaking and entering and grand larceny established definitively and with finality that he had not participated in the alleged criminal episode.  Invoking the issue-preclusion component of the double jeopardy ban, Currier urged that in a second trial, the Commonwealth could not introduce evidence of his alleged involvement in breaking and entering and grand larceny, charges on which he had been acquitted.  He further maintained that without allowing the prosecution a second chance to prove breaking and entering and grand larceny, the evidence would be insufficient to warrant conviction of the felon-in-possession charge.  
+
+															I would hold that Currier’s acquiescence in severance of the felon-in-possession charge does not prevent him from raising a plea of issue preclusion based on the jury acquittals of breaking and entering and grand larceny.
+
+															I
+
+															This Court’s decisions “have recognized that the [Double Jeopardy] Clause embodies two vitally important interests.”  Yeager v. United States,
+
+557 U. S. 110, 117 (2009).  “The first is the ‘deeply ingrained’ principle that ‘the State with all its resources and power should not be allowed to make repeated attempts to convict an individual for an alleged offense, thereby subjecting him to embarrassment, expense and ordeal and compelling him to live in a continuing state of anxiety and insecurity, as well as enhancing the possibility that even though innocent he may be found guilty.’ ”  Id., at 117–118 (quoting Green v. United States,
+
+355 U. S. 184, 187–188 (1957)).  The second interest the Clause serves is preservation of the “finality of judgments,” 557 U. S., at 118 (internal quotation marks omitted), particularly acquittals, see id., at 122–123 (an acquittal’s “finality is unassailable”); Evans v. Michigan,  
+
+568 U. S. 313, 319 (2013) (“The law attaches particular significance to an acquittal.” (internal quotation marks omitted)).
+
+															The Clause effectuates its overall guarantee through multiple protections.  Historically, among those protections, the Court has safeguarded the right not to be subject to multiple trials for the “same offense.”  See Brown v. Ohio,
+
+432 U. S. 161, 165 (1977).  That claim-preclusive rule stops the government from litigating the “same offense” or criminal charge in successive prosecutions, regardless of whether the first trial ends in a conviction or an acquittal.  See Bravo-Fernandez v. United States, 580 U. S. ___, ___ (2016) (slip op., at 3); Brown, 432 U. S., at 165.  To determine whether two offenses are the “same,” this Court has held, a court must look to the offenses’ elements.  Blockburger v. United States,
+
+284 U. S. 299, 304 (1932).  If each offense “requires proof of a fact which the other does not,” Blockburger established, the offenses are discrete and the prosecution of one does not bar later prosecution of the other.  Ibid.  If, however, two offenses are greater and lesser included offenses, the government cannot prosecute them successively.  See Brown, 432 U. S., at 169.
+
+															Also shielded by the Double Jeopardy Clause is the issue-preclusive effect of an acquittal.  First articulated in Ashe v. Swenson,
+
+397 U. S. 436 (1970), the issue-preclusive aspect of the Double Jeopardy Clause prohibits the government from relitigating issues necessarily resolved in a defendant’s favor at an earlier trial presenting factually related offenses.  Ashe involved the robbery of six poker players by a group of masked men.  Id., at 437.  Missouri tried Ashe first for the robbery of Donald Knight.  Id., at 438.  At trial, proof that Knight was the victim of a robbery was “unassailable”; the sole issue in dispute was whether Ashe was one of the robbers.  Id., at 438, 445.  A jury found Ashe not guilty.  Id., at 439.  Missouri then tried Ashe for robbing a different poker player at the same table.  Ibid.  The witnesses at the second trial “were for the most part the same,” although their testimony for the prosecution was “substantially stronger” than it was at the first trial.  Id., at 439–440.  The State also “refined its case” by declining to call a witness whose identification testimony at the first trial had been “conspicuously negative.”  Id., at 440.  The second time around, the State secured a conviction.  Ibid.
+
+															Although the second prosecution involved a different victim and thus a different “offense,” this Court held that the second prosecution violated the Double Jeopardy Clause.  A component of that Clause, the Court explained, rests on the principle that “when an issue of ultimate fact has once been determined by a valid and final judgment, that issue cannot again be litigated between the same parties in any future lawsuit.”  Id., at 443, 445.  Consequently, “after a jury determined by its verdict that [Ashe] was not one of the robbers,” the State could not “constitutionally hale him before a new jury to litigate that issue again.”  Id., at 446.
+
+															In concluding that the Double Jeopardy Clause includes issue-preclusion protection for defendants, the Court acknowledged that no prior decision had “squarely held [issue preclusion] to be a constitutional requirement.”  Id., at 445, n. 10.  “Until perhaps a century ago,” the Court explained, “few situations arose calling for [issue preclusion’s] application.”  Ibid.  “[A]t common law” and “under early federal criminal statutes, offense categories were relatively few and distinct,” and “[a] single course of criminal conduct was likely to yield but a single offense.”  Ibid.  “[W]ith the advent of specificity in draftsmanship and the extraordinary proliferation of overlapping and related statutory offenses,” however, “it became possible for prosecutors to spin out a startlingly numerous series of offenses from a single alleged criminal transaction.”  Ibid.  With this proliferation, “the potential for unfair and abusive reprosecutions became far more pronounced.”  Ibid.
+
+															Toward the end of the 19th century, courts increasingly concluded that greater protections than those traditionally afforded under the Double Jeopardy Clause were needed to spare defendants from prosecutorial excesses.  Federal courts, cognizant of the increased potential for exposing defendants to multiple charges based on the same criminal episode, borrowed issue-preclusion principles from the civil context to bar relitigation of issues necessarily resolved against the government in a criminal trial.  Ibid.; cf. United States v. Oppenheimer,
+
+242 U. S. 85, 87 (1916) (“It cannot be that the safeguards of the person, so often and so rightly mentioned with solemn reverence, are less than those that protect from a liability in debt.”).  By 1970, when Ashe was decided, issue preclusion, “[a]lthough first developed in civil litigation,” had become “an established rule of federal criminal law.”  Ashe, 397 U. S., at 443.  The question presented in Ashe was whether issue preclusion is not just an established rule of federal criminal procedure, but also a rule of constitutional stature.  The Court had no “hesitat[ion]” in concluding that it is.  Id., at 445.
+
+															Since Ashe, this Court has reaffirmed that issue preclusion ranks with claim preclusion as a Double Jeopardy Clause component.  Harris v. Washington,
+
+404 U. S. 55, 56 (1971) (per curiam).  Given criminal codes of prolix character, issue preclusion both arms defendants against prosecutorial excesses, see Ashe, 397 U. S., at 445, n. 10, and preserves the integrity of acquittals, see Yeager, 557 U. S., at 118–119.  See also id., at 119 (Double Jeopardy Clause shields defendants against “relitiga[tion] [of] any issue that was necessarily decided by a jury’s acquittal in a prior trial”).
+
+															II
+
+															On March 7, 2012, a large safe containing some $71,000 in cash and 20 firearms was stolen from Paul and Brenda Garrison’s home.  When police recovered the safe, which had been dumped in a river, the firearms remained inside, but most of the cash was gone.  After a neighbor reported seeing a white pickup truck leaving the Garrisons’ driveway around the time of the theft, police identified the Garrisons’ nephew, Bradley Wood, as a suspect.  Wood later implicated Currier as an accomplice.  A grand jury indicted Currier for breaking and entering, grand larceny, and possessing a firearm after having been convicted of a felony.  The felon aspect of the felon-in-possession charge was based on Currier’s prior convictions for burglary and larceny.  Currier was “in possession” of the firearms, the prosecution contended, based on his brief handling of the guns contained in the safe (taking them out and putting them back) when the remaining cash was removed from inside.
+
+															Virginia courts, like many others, recognize that trying a felon-in-possession charge together with offenses that do not permit the introduction of prior felony convictions can be hugely prejudicial to a defendant.  See Hackney v. Commonwealth, 28 Va. App. 288, 293–294, 504 S. E. 2d 385, 388 (1998) (en banc).  Evidence of prior convictions, they have observed, can “confus[e] the issues before the jury” and “prejudice the defendant in the minds of the jury by showing his or her depravity and criminal propensity.”  Id., at 293, 504 S. E. 2d, at 388.  Virginia courts therefore hold that “unless the Commonwealth and defendant agree to joinder, a trial court must sever a charge of possession of a firearm by a convicted felon from other charges that do not require proof of a prior conviction.”  Id., at 295, 504 S. E. 2d, at 389.  In Currier’s case, the prosecution and Currier acceded to the Commonwealth’s default rule, and the trial court accordingly severed the felon-in-possession charge from the breaking and entering and grand larceny charges.
+
+															The Commonwealth proceeded to try Currier first for breaking and entering and grand larceny.  Witnesses for the prosecution testified to Currier’s involvement in the crimes.  First, Wood testified that Currier helped him break into the Garrisons’ home and steal the safe.  Second, the Garrisons’ neighbor testified that she believed Currier was the passenger in the pickup truck she had seen leaving the Garrisons’ residence.  The prosecution also sought to introduce evidence that a cigarette butt found in Wood’s pickup truck carried Currier’s DNA.  But the court excluded that evidence because the prosecution failed to disclose it at least 21 days in advance of trial, as Virginia law required.
+
+															The sole issue in dispute at the first trial, Currier maintains, was whether he participated in the break-in and theft.  See App. 35 (prosecutor’s closing statement, stating “What is in dispute?  Really only one issue and one issue alone.  Was the defendant, Michael Currier, one of those people that was involved in the offense?”).  The case was submitted to the jury, which acquitted Currier of both offenses.
+
+															Despite the jury’s acquittal verdicts, the prosecution proceeded against Currier on the felon-in-possession charge.  In advance of his second trial, Currier moved to dismiss the gun-possession charge based on the issue-preclusion component of the Double Jeopardy Clause.  He urged that the jury at his first trial rejected the government’s contention that he was involved in the break-in and theft.  Cf. Ashe, 397 U. S., at 446 (common issue in first and second trials was whether Ashe was one of the robbers).  If the government could not attempt to prove anew his participation in the break-in and theft, he reasoned, there would be no basis for a conviction on the gun-possession charge.  I.e., his involvement in handling the guns, on the government’s theory of the case, depended on his anterior involvement in breaking and entering the Garrisons’ residence and stealing their safe.  The trial court refused to dismiss the prosecution or to bar the government from introducing evidence of Currier’s alleged involvement in the break-in and theft.
+
+															At the second trial, the prosecution shored up its attempt to prove Currier’s participation in the break-in and theft.  The witnesses refined their testimony.  Remedying its earlier procedural lapse by timely notifying Currier, the prosecution introduced the cigarette butt evidence.  And, of course, to show Currier was a felon, the prosecution introduced his prior burglary and larceny convictions.  The jury found Currier guilty of the felon-in-possession offense.
+
+															III
+
+															The Court holds that even if Currier could have asserted a double jeopardy issue-preclusion defense in opposition to the second trial, he relinquished that right by acquiescing in severance of the felon-in-possession charge.  This holding is not sustainable.  A defendant’s consent to severance does not waive his right to rely on the issue-preclusive effect of an acquittal.
+
+															A
+
+															It bears clarification first that, contra to the Court’s presentation, issue preclusion requires no showing of prosecutorial overreaching.  But cf. ante, at 7 (stating that “the Double Jeopardy Clause exists to prevent [prosecutorial oppression]”).  This Court so ruled in Harris v. Washington,
+
+404 U. S. 55, and it has subsequently reinforced the point in Turner v. Arkansas,
+
+407 U. S. 366 (1972) (per curiam), and Yeager v. United States,
+
+557 U. S. 110.
+
+															In Harris, the Washington Supreme Court declined to give an acquittal issue-preclusive effect because there was “no indication of bad faith of the state in deliberately making a ‘trial run’ in the first prosecution.”  State v. Harris, 78 Wash. 2d 894, 901, 480 P. 2d 484, 488 (1971).  The State Supreme Court further observed that “it was to the advantage of the defendant, and not the state, to separate the trials” because certain evidence was inadmissible in the first trial that would be admissible in the second.  Id., at 898, 480 P. 2d, at 486.  This Court reversed and explained that an acquittal has issue-preclusive effect “irrespective of the good faith of the State in bringing successive prosecutions.”  Harris, 404 U. S., at 57.
+
+															In Turner, Arkansas prosecutors believed the defendant had robbed and murdered someone.  407 U. S., at 366.  An Arkansas statute required that murder be charged separately, with no other charges appended.  Id., at 367.  After a jury acquitted Turner on the murder charge, the State sought to try him for robbery.  Id., at 366–367.  Even though state law, not an overzealous prosecutor, dictated the sequential trials, this Court held that the defendant was entitled to assert issue preclusion and found the case “squarely controlled by Ashe.”  Id., at 370.
+
+															In Yeager, the defendant stood trial on numerous factually related offenses.  557 U. S., at 113–114.  After a jury acquitted on some counts but hung on others, the prosecution sought to retry a number of the hung counts.  Id., at 115.  The defendant argued that issue preclusion should apply in the second trial.  In opposition, the prosecution stressed that a retrial “presen[ted] none of the governmental overreaching that double jeopardy is supposed to prevent.”  Brief for United States in Yeager v. United States, O. T. 2008, No. 08–67, p. 26 (internal quotation marks omitted).  Indeed, the prosecution had “attempted to bring all the charges in a single proceeding,” and it was seeking a second trial on some charges only “because the jury hung.”  Ibid.  The Court did not regard as controlling the lack of prosecutorial overreaching.  Instead, it emphasized that “[a] jury’s verdict of acquittal represents the community’s collective judgment regarding all the evidence  and arguments presented to it” and that, once rendered, an acquittal’s “finality is unassailable.”  557 U. S., at  122–123.
+
+															B
+
+															There is in Currier’s case no suggestion that he expressly waived a plea of issue preclusion at a second trial, or that he failed to timely assert the plea.  Instead, the contention, urged by the prosecution and embraced by this Court, is that Currier surrendered his right to assert the issue-preclusive effect of his first-trial acquittals by consenting to two trials.
+
+															This Court “indulge[s] every reasonable presumption against waiver of fundamental constitutional rights.”  Johnson v. Zerbst,
+
+304 U. S. 458, 464 (1938) (internal quotation marks omitted).  It has found “waiver by conduct” only where a defendant has engaged in “conduct inconsistent with the assertion of [the] right.”  Pierce Oil Corp. v. Phoenix Refining Co.,
+
+259 U.S. 125, 129 (1922).  For example, a defendant who “voluntarily absents himself” from trial waives his
+ 
+Sixth Amendment right to be present.  Taylor v. United States,
+
+414 U. S. 17, 19 (1973) (per curiam) (internal quotation marks omitted).  Similarly, a defendant who “obtains the absence of a witness by wrongdoing” may “forfeit” or “waive” his
+ 
+Sixth Amendment right to confront the absent witness.  Davis v. Washington,
+
+547 U. S. 813, 833 (2006).  Where, however, a defendant takes no action inconsistent with the assertion of a right, the defendant will not be found to have waived the right.
+
+															Currier took no action inconsistent with assertion of an issue-preclusion plea.  To understand why, one must comprehend just what issue preclusion forecloses.  Unlike the right against a second trial for the same offense (claim preclusion), issue preclusion prevents relitigation of a previously rejected theory of criminal liability without necessarily barring a successive trial.  Take Ashe, for example.  Issue preclusion prevented the prosecution from arguing, at a second trial, that Ashe was one of the robbers who held up the poker players at gunpoint.  But if the prosecution sought to prove, instead, that Ashe waited outside during the robbery and then drove the getaway car, issue preclusion would not have barred that trial.  Similarly here, the prosecution could not again attempt to prove that Currier participated in the break-in and theft of the safe at the Garrisons’ residence.  But a second trial could be mounted if the prosecution alleged, for instance, that Currier was present at the river’s edge when others showed up to dump the safe in the river, and that Currier helped to empty out and replace the guns contained in the safe.
+
+															In short, issue preclusion does not operate, as claim preclusion does, to bar a successive trial altogether.  Issue preclusion bars only a subset of possible trials—those in which the prosecution rests its case on a theory of liability a jury earlier rejected.  That being so, consenting to a second trial is not inconsistent with—and therefore does not foreclose—a defendant’s gaining the issue-preclusive effect of an acquittal.
+
+															The Court cites Jeffers v. United States,
+
+432 U. S. 137 (1977), United States v. Dinitz,
+
+424 U. S. 600 (1976), and United States v. Scott,
+
+437 U. S. 82 (1978), as support for a second trial, on the ground that Currier consented to it.  Those decisions do not undermine the inviolacy of an acquittal.
+
+															In Jeffers, the defendant was charged with two offenses, one of which was a lesser included offense of the other.  432 U. S., at 140–141, 150.  He asked for, and gained, separate trials of the two charges.  Id., at 142–143.  After conviction on the lesser included charge, he argued that a second trial on the remaining charge would violate his double jeopardy right “against multiple prosecutions.”  Id., at 139, 143–144.  A plurality of this Court rejected Jeffers’ argument, reasoning that he had waived the relevant right because he was “solely responsible for the successive prosecutions.”  Id., at 154.
+
+															Jeffers presented a claim-preclusion question.  The Court there said not one word about issue preclusion.  Nor did the Court address the staying power of an acquittal.  It had no occasion to do so, as Jeffers was convicted on the first charge.  Indeed, some years later, three Justices, including the author of the Jeffers plurality, stated: “There is no doubt that had the defendant in Jeffers been acquitted at the first trial, the [issue-preclusion protection] embodied in the Double Jeopardy Clause would have barred a second trial on the greater offense.”  Green v. Ohio,
+
+455 U. S. 976, 980 (1982) (White, J., joined by Blackmun and Powell, JJ., dissenting from the denial of certiorari) (emphasis added).
+
+															Dinitz and Scott are even weaker reeds.  In Dinitz, the defendant requested, and gained, a mistrial after the trial judge expelled his lead counsel from the courtroom.  424 U. S., at 602–605.  In Scott, the defendant sought and obtained dismissal of two of three counts prior to their submission to the jury.  437 U. S., at 84.  The question in each case was whether the defendant’s actions deprived him of the right to be spared from a second trial on the same offenses.  Both decisions simply concluded that when a defendant voluntarily seeks to terminate a trial before a substantive ruling on guilt or innocence, the Double Jeopardy Clause is not offended by a second trial.  The cases, however, said nothing about the issue-preclusive effect of a prior acquittal at a subsequent trial.  Cf. Burks v. United States,
+
+437 U. S. 1, 17 (1978) (“It cannot be meaningfully said that a person ‘waives’ his right to a judgment of acquittal by moving for a new trial.”).  As was the case in Jeffers, Dinitz and Scott presented no occasion to do so.[1]
+
+															IV
+
+															Venturing beyond Justice Kennedy’s rationale for resolving this case, the plurality would take us back to the days before the Court recognized issue preclusion as a constitutionally grounded component of the Double Jeopardy Clause.  See ante, at 14 (questioning whether issue preclusion “really . . . exist[s] in criminal law”).  I would not engage in that endeavor to restore things past.[2]
+
+															One decision, however, should be set straight.  The plurality asserts that Dowling v. United States,
+
+493 U. S. 342 (1990), established that issue preclusion has no role to play in regulating the issues or evidence presented at a successive trial.  Ante, at 12.  Dowling did no such thing.  The case is tied to Federal Rule of Evidence 404(b), which allows the prosecution to introduce evidence of a defendant’s past criminal conduct for described purposes other than to show a defendant’s bad character.  See Fed. Rule Evid. 404(b)(2).  The defendant in Dowling was prosecuted for robbing a bank.  493 U. S., at 344.  To bolster its case that Dowling was the perpetrator, the Government sought to introduce evidence that Dowling participated in a home invasion two weeks after the bank robbery.  Id., at 344–345.  One difficulty for the prosecution: Dowling had been acquitted of the home invasion.  Id., at 345.  Nevertheless, the trial court admitted the evidence, informing the jurors that Dowling had been acquitted of the home-invasion charge and instructing them on the “limited purpose” for which the evidence was introduced.  Id., at 345–346.
+
+															The Court in Dowling “decline[d] to extend Ashe” to forbid the prosecution from introducing evidence, under Rule 404(b), of a crime for which the defendant had been acquitted, one involving criminal conduct unrelated to the bank robbery for which Dowling stood trial.  Id., at 348.  The charge for which Dowling was acquitted took place at a different time and involved different property, a different location, and different victims.  Id., at 344.  See also United States v. Felix,
+
+503 U. S. 378, 386 (1992) (stressing that the two crimes in Dowling were “unrelated”).  It surely could not be said that, in the bank robbery trial, Dowling was being tried a second time for the later-occurring home invasion offense.  Here, by contrast, the two trials involved the same criminal episode.  See Ashe, 397 U. S., at 446 (“same robbery”); Turner, 407 U. S., at 368–369 (“the same set of facts, circumstances, and the same occasion” (internal quotation marks omitted)).
+
+															Extending Dowling from the Evidence Rule 404(b) context in which it was embedded to retrials involving the same course of previously acquitted conduct would undermine issue-preclusion’s core tenet.  That tenet was well stated by Judge Friendly in United States v. Kramer, 289 F. 2d 909 (CA2 1961):
+
+															“A defendant who has satisfied one jury that he had no responsibility for a crime ought not be forced to convince another of this [lack of responsibility]. . . . The very nub of [issue preclusion] is to extend res judicata beyond those cases where the prior judgment is a complete bar.  The Government is free, within limits set by the
+ 
+Fifth Amendment, to charge an acquitted defendant with other crimes claimed to arise from the same or related conduct; but it may not prove the new charge by asserting facts necessarily determined against it on the first trial . . . .”  Id., at 915–916 (citation omitted).
+
+															So here.  The first trial established that Currier did not participate in breaking and entering the Garrisons’ residence or in stealing their safe.  The government can attempt to prove Currier possessed firearms through a means other than breaking and entering the Garrisons’ residence and stealing their safe.  But the government should not be permitted to show in the felon-in-possession trial what it failed to show in the first trial, i.e., Currier’s participation in the charged breaking and entering and grand larceny, after a full and fair opportunity to do so.
+
+															*  *  *
+
+															For the reasons stated, I would reverse the judgment of the Virginia Supreme Court.
+Notes
+1
+ Ohio v. Johnson,
+
+467 U. S. 493 (1984), cited by Justice Kennedy, ante, at 2, is not in point.  It, too, like Jeffers, Scott, and Dinitz, involved claim preclusion, not issue preclusion, i.e., trial of greater offenses after guilty pleas to lesser offenses.  See supra, at 2–3.  The case does contain an enigmatic footnote stating, “in a case such as this, where the State has made no effort to prosecute the charges seriatim, the considerations of double jeopardy protection implicit in the application of [issue preclusion] are inapplicable.”  467 U. S., at 500, n. 9.  True in a case like Johnson, which involved no prior acquittals, I would not read more into a terse, unelaborated footnote that contains no citation.   Evans v. Michigan,
+
+568 U. S. 313 (2013), cited by the Court, ante, at 7, and Justice Kennedy, ante, at 2, is even further afield.  There, the trial court erroneously granted a judgment of acquittal.  The State sought retrial in view of the error.  This Court held that, despite the error, the acquittal was a final judgment, which could not be undone.  568 U. S., at 316.  Whatever may be said of Evans, that decision is certainly no authority for watering down the issue-preclusive effect of a judgment acquitting the defendant. Garrett v. United States,
+
+471 U. S. 773 (1985), cited by the plurality, ante, at 13, also involves claim preclusion, not issue preclusion.  The Court held, unremarkably, that a crime transpiring in one day is not the “same offense” as a continuing criminal enterprise spanning more than five years.  Id., at 788. 
+
+2
+ If issue preclusion does exist in criminal law, the plurality asserts, it has only “guarded application,” Bravo-Fernandez v. United States, 580 U. S. ___, ___ (2016) (slip op., at 4).  See ante, at 9.  I do not gainsay that assertion.  Bravo-Fernandez itself, however, involved the special problem of inconsistent verdicts rendered by the same jury.  It held only that an acquittal cannot convey rejection of the prosecutor’s allegations when the jury simultaneously convicts the defendant of an offense turning on acceptance of the same allegations.  580 U. S., at ___ (slip op., at 2).  
+
+

@@ -1,0 +1,1021 @@
+::SCDB_caseID:: 2012-069
+::decision_cite:: 570 U.S. 472 (2013)
+::decision_name::  Mutual Pharmaceutical Co. v. Bartlett
+::decision_year:: 2013
+::opinion_author:: Sotomayor
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 12–142
+
+															_________________
+
+															MUTUAL PHARMACEUTICAL COMPANY, INC.,
+PETITIONER v. KAREN L. BARTLETT
+
+															on writ of certiorari to the united states
+court of appeals for the first circuit
+
+															[June 24, 2013]
+
+															
+
+															     Justice Sotomayor,
+with whom Justice Ginsburg joins, dissenting.
+
+															     In PLIVA, Inc. v.
+Mensing, 564 U. S. ___ (2011), this Court expanded the scope
+of impossibility pre-emption to immunize generic drug manufacturers
+from state-law failure-to-warn claims. Today, the Court
+unnecessarily and unwisely extends its holding in Mensing to
+pre-empt New Hampshire’s law governing design-defects with
+respect to generic drugs.
+
+															     The Court takes this
+step by concluding that petitioner Mutual Pharmaceutical was held
+liable for a failure-to-warn claim in disguise, even though the
+District Court clearly rejected such a claim and instead allowed
+liability on a distinct theory. See infra, at 13–15. Of
+greater consequence, the Court appears to justify its revision of
+respondent Karen Bartlett’s state-law claim through an
+im-plicit and undefended assumption that federal law gives
+pharmaceutical companies a right to sell a federally approved drug
+free from common-law liability. Remarkably, the Court derives this
+proposition from a federal law that, in order to protect consumers,
+prohibits manufacturers from distributing new drugs in commerce
+without federal regulatory approval, and specifically disavows any
+intent to displace state law absent a direct and positive
+conflict.
+
+															     Karen Bartlett was
+grievously injured by a drug that a jury found was unreasonably
+dangerous. The jury relied upon evidence that the drug posed a
+higher than normal risk of causing the serious skin reaction that
+produced her horrific injuries; carried other risks; and possessed
+no apparent offsetting benefits compared to similar pain relievers,
+like aspirin. See 760 F. Supp. 2d 220, 233–241,
+243–244 (NH 2011). The Court laments her “tragic”
+situation, ante, at 20, but responsibility for the fact that Karen
+Bartlett has been deprived of a remedy for her injuries rests with
+this Court. If our established pre-emption principles were properly
+applied in this case, and if New Hampshire law were correctly
+construed, then federal law would pose no barrier to Karen
+Bartlett’s recovery. I re-spectfully dissent.
+
+															I
+
+															     I begin with
+“two cornerstones of our pre-emption jurisprudence,”
+Wyeth v. Levine, 555 U. S. 555, 565 (2009) , that should
+control this case but are conspicuously absent from the majority
+opinion. First, “ ‘the purpose of Congress is the
+ultimate touchstone’ in every pre-emption case.” Ibid.
+(quoting Medtronic, Inc. v. Lohr, 518 U. S. 470, 485 (1996) ).
+Second, we start from the “assumption that the historic
+police powers of the States [are] not to be superseded by [a]
+Federal Act unless that was the clear and manifest purpose of
+Congress.” Rice v. Santa Fe Elevator Corp., 331 U. S.
+218, 230 (1947) . “That assumption,” we have explained,
+“applies with particular force when,” as is the case
+here, “Congress has legislated in a field traditionally
+occupied by the States.” Altria Group, Inc. v. Good, 555
+U. S. 70, 77 (2008) . [ 1
+]
+
+															     The Court applied both
+of these principles to the Fed-eral Food, Drug, and Cosmetic Act
+(FDCA), ch. 675, 52Stat. 1040, as amended, 21 U. S. C.
+§301 et seq., in Levine, where we held that a state
+failure-to-warn claim against a brand-name drug manufacturer was
+not pre-empted by federal law. 555 U. S., at 581. Tracing the
+history of federal drug regulation from the 1906 Federal Food and
+Drugs Act, 34Stat. 768, up to the FDCA and its major amendments,
+the Court explained that federal drug law and state common-law
+liability have long been understood to operate in tandem to promote
+consumer safety. See Levine, 555 U. S., at 566–568, 574.
+That basic principle, which the majority opinion elides, is
+essential to understanding this case.
+
+															     The FDCA prohibits the
+“introduction into interstate commerce [of ] any new
+drug” without prior approval from the United States Food and
+Drug Administration (FDA). 21 U. S. C. §355(a).
+Brand-name and generic drug manufacturers are required to make
+different showings to receive agency approval in this premarketing
+review process. See ante, at 2–3. But in either case, the
+FDA’s per- mission to market a drug has never been regarded
+as a final stamp of approval of the drug’s safety. Under the
+FDCA, manufacturers, who have greater “access to information
+about their drugs” than the FDA, Levine, 555 U. S., at
+578–579, retain the ultimate responsibility for the safety of
+the products they sell. In addition to their ongoing obligations to
+monitor a drug’s risks and to report adverse drug responses
+to the FDA, see 21 CFR §§314.80, 314.81, 314.98 (2012),
+manufacturers may not sell a drug that is “deemed to be
+misbranded” because it is “dangerous to health”
+when used in the dosage or manner called for in the drug’s
+label. 21 U. S. C. §352(j); see §331(a); Brief
+for United States as Amicus Curiae 30–31 (hereinafter
+U. S. Brief) (indicating that the misbranding prohibition may
+apply to a drug that was previously approved for sale when
+significant new scientific evidence demonstrates that the drug is
+unsafe).
+
+															     Beyond federal
+requirements, state common law plays an important
+“complementary” role to federal drug regulation.
+Levine, 555 U. S., at 578. Federal law in this area was
+initially intended to “supplemen[t] the protection for
+consumers already provided by state regulation and common-law
+liability.” Id., at 566. And as Congress “enlarged the
+FDA’s powers,” it “took care to preserve state
+law.” Id., at 567. In the 1962 amendments to the FDCA, which
+established the FDA’s premarketing review in its modern form,
+Congress adopted a saving clause providing that the amendments
+should not be construed to invalidate any provision of state law
+absent “a direct and positive conflict.” §202,
+76Stat. 793. And in the years since, with “state common-law
+suits ‘continu[ing] unabated de-spite . . . FDA
+regulation,’ ” Levine, 555 U. S., at 567
+(quoting Riegel v. Medtronic, Inc., 552 U. S. 312, 340 (2008)
+(Ginsburg, J., dissenting)), Congress has not enacted a pre-emption
+provision for prescription drugs (whether brand-name or generic)
+even as it enacted such provisions with respect to other products
+regulated by the FDA. [ 2 ]
+
+															     Congress’
+preservation of a role for state law generally, and common-law
+remedies specifically, reflects a realistic understanding of the
+limitations of ex ante federal regu-latory review in this context.
+On its own, even rig- orous preapproval clinical testing of drugs
+is “generally . . . incapable of detecting adverse
+effects that oc- cur infrequently, have long latency periods, or
+affect subpopulations not included or adequately represented in the
+studies.” Kessler & Vladeck, A Critical Examina- tion of
+the FDA’s Efforts to Preempt Failure-to-Warn Claims, 96 Geo.
+L. J. 461, 471 (2008); see National Academies, Institute of
+Medicine, The Future of Drug Safety: Promoting and Protecting the
+Health of the Public 37–38 (2007) (hereinafter Future of Drug
+Safety) (discussing limitations “inherent” to a system
+of premarket clinical trials). Moreover, the FDA, which is tasked
+with monitoring thousands of drugs on the market and considering
+new drug applications, faces significant resource constraints that
+limit its ability to protect the public from dangerous drugs. See
+Levine, 555 U. S., at 578–579, and n. 11; Brief for
+Former FDA Commissioner Donald Kennedy et al. as Amici Curiae
+6–7, 12–20. Tort suits can help fill the gaps in
+federal regulation by “serv[ing] as a catalyst” to
+identify previously unknown drug dangers. Bates v. Dow Agrosciences
+LLC, 544 U. S. 431, 451 (2005) .
+
+															     Perhaps most
+significant, state common law provides injured consumers like Karen
+Bartlett with an opportu-nity to seek redress that is not available
+under federal law. “[U]nlike most administrative and
+legislative regulations,” common-law claims
+“necessarily perform an important re-medial role in
+compensating accident victims.” Sprietsma v. Mercury Marine,
+537 U. S. 51, 64 (2002) . While the Court has not always been
+consistent on this issue, it has repeatedly cautioned against
+reading federal statutes to “remove all means of judicial
+recourse for those injured” when Congress did not provide a
+federal remedy. Silkwood v. Kerr-McGee Corp., 464 U. S. 238,
+251 (1984) ; see e.g., Bates, 544 U. S., at 449; Lohr, 518
+U. S., at 487 (plurality opinion). And in fact, the
+legislative history of the FDCA suggests that Congress chose not to
+create a federal cause of action for damages precisely because it
+believed that state tort law would allow injured consumers to
+obtain compensation. See Levine, 555 U. S., at 574–575,
+and n. 7.
+
+															II
+
+															     In light of this
+background, Mutual should face an uphill climb to show that federal
+law pre-empts a New Hampshire strict-liability claim against a
+generic drug manufacturer for defective design. The majority
+nevertheless accepts Mutual’s argument that “compliance
+with both federal and state [law was] a physical
+impossibility.” Florida Lime & Avocado Growers, Inc. v.
+Paul, 373 U. S. 132 –143 (1963); see ante, at 7. But if
+state and fed-eral law are properly understood, it is clear that
+New Hampshire’s design-defect claim did not impose a legal
+obligation that Mutual had to violate federal law to satisfy.
+
+															A
+
+															     Impossibility
+pre-emption “is a demanding defense,” Le-vine, 555
+U. S., at 573, that requires the defendant to show an
+“irreconcilable conflict” between federal and state
+legal obligations, Silkwood, 464 U. S., at 256. The logic
+underlying true impossibility pre-emption is that when state and
+federal law impose irreconcilable affirmative requirements, no
+detailed “inquiry into congressional de-sign” is
+necessary because the inference that Congress would have intended
+federal law to displace the conflicting state requirement “is
+inescapable.” Florida Lime, 373 U. S., at 142–143.
+So, for example, if federal law requires a particular product label
+to include a complete list of ingredients while state law
+specifically forbids that labeling practice, there is little
+question that state law “must yield.” Felder v. Casey,
+487 U. S. 131, 138 (1988) .
+
+															     The key inquiry for
+impossibility pre-emption, then, is to identify whether state and
+federal law impose directly conflicting affirmative legal
+obligations such that state law “require[s] the doing of an
+act which is unlawful under” federal law. California Fed.
+Sav. & Loan Assn. v. Guerra, 479 U. S. 272, 292 (1987) .
+Impossibility does not exist where the laws of one sovereign permit
+an activity that the laws of the other sovereign restricts or even
+prohibits. See Barnett Bank of Marion Cty., N. A. v. Nelson,
+517 U. S. 25, 31 (1996) ; Michigan Canners & Freezers
+Assn., Inc. v. Agricultural Marketing and Bargaining Bd., 467
+U. S. 461, 478, n. 21 (1984) . So, to modify the previous
+example, if federal law permitted (but did not require) a labeling
+practice that state law prohibited, there would be no
+irreconcilable conflict; a manufacturer could com- ply with the
+more stringent regulation. And by the same logic, impossibility
+does not exist where one sovereign’s laws merely create an
+incentive to take an action that the other sovereign has not
+authorized because it is possible to comply with both laws.
+
+															     Of course, there are
+other types of pre-emption. Courts may find that state laws that
+incentivize what federal law discourages or forbid what federal law
+authorizes are pre-empted for reasons apart from impossibility: The
+state laws may fall within the scope of an express pre-emption
+provision, pose an obstacle to federal purposes and objectives, or
+intrude upon a field that Congress intended for federal law to
+occupy exclusively. See Crosby v. National Foreign Trade Council,
+530 U. S. 363 –373 (2000). But absent a direct conflict
+between two mutually incompatible legal requirements, there is no
+impossibility and courts may not automatically assume that Congress
+intended for state law to give way. Instead, a more careful inquiry
+into congressional intent is called for, and that inquiry should be
+informed by the presumption against pre-emption.
+
+															     In keeping with the
+strict standard for impossibility, cases that actually find
+pre-emption on that basis are rare. See Abrams, Plenary Power
+Preemption, 99 Va. L. Rev. 601, 608 (2013). Mensing is an
+outlier, as the Court found impossibility because a generic drug
+manufacturer could not strengthen its product label to come into
+line with a state-law duty to warn without the exercise of judgment
+by the FDA. See 564 U. S., at ___–___ (slip op., at
+13–14). But nothing in Mensing, nor any other precedent,
+dictates finding impossibility pre-emption here.
+
+															B
+
+															     To assess whether it
+is physically impossible for Mutual to comply with both federal and
+state law, it is necessary to identify with precision the relevant
+legal obligations imposed under New Hampshire’s design-defect
+cause of action.
+
+															     The majority insists
+that Mutual was required by New Hampshire’s design-defect law
+to strengthen its warning label. In taking this position, the
+majority effectively re-characterizes Bartlett’s
+design-defect claim as a de facto failure-to-warn claim. The
+majority then relies on that re-characterization to hold that the
+jury found Mutual liable for failing to fulfill its duty to label
+sulindac adequately, which Mensing forbids because a generic drug
+manufacturer cannot independently alter its safety label. Ante, at
+13; see Mensing, 564 U. S., at ___ (slip op., at 10). But the
+majority’s assertion that Mutual was held liable in this case
+for violating a legal obligation to change its label is
+inconsistent with both New Hampshire state law and the record.
+
+															     For its part, Mutual,
+in addition to making the argument now embraced by the majority,
+contends that New Hampshire’s design-defect law effectively
+required it to change the chemical composition of sulindac. Mutual
+claims that it was physically impossible to comply with that duty
+consistent with federal law because drug manufacturers may not
+change the chemical composition of their products so as to create
+new drugs without submitting a new drug application for FDA
+approval. See 21 CFR §§310.3(h), 314.70(b)(2)(i). But
+just as New Hampshire’s design-defect law did not impose a
+legal obligation for Mutual to change its label, it also did not
+mandate that Mutual change the drug’s design.
+
+															1
+
+															a
+
+															     Following blackletter
+products liability law under §402A of the Restatement (Second)
+of Torts (1963–1964) (hereinafter Second Restatement), New
+Hampshire recognizes strict liability for three different types of
+product defects: manufacturing defects, design defects, and warning
+defects. See Cheshire Medical Center v. W. R. Grace & Co.,
+49 F. 3d 26, 29 (CA1 1995). Because the District Court granted
+Mutual summary judgment on Bartlett’s failure-to-warn claim,
+only New Hampshire’s design-defect cause of action remains at
+issue in this case.
+
+															     A product has a
+defective design under New Hampshire law if it “poses
+unreasonable dangers to consumers.” Thibault v. Sears,
+Roebuck & Co., 118 N. H. 802, 807, 395 A. 2d 843, 846
+(1978). To determine whether a product is unreasonably dangerous, a
+jury is asked to make a risk-benefit assessment by considering a
+nonexhaustive list of factors. See ante, at 9–10. In
+addition, New Hamp-shire has specifically rejected the doctrine,
+advocated by the Restatement (Third) of Torts: Products Liability
+§2(b) (1997) (hereinafter Third Restatement), that a plaintiff
+must present evidence of a reasonable alternative design to show
+that a product’s design is defective. Instead, “while
+proof of an alternative design is relevant in a design defect
+case,” it is “neither a controlling factor nor an
+essential element.” Vautour v. Body Masters Sports
+Industries, Inc., 147 N. H. 150, 156, 784 A. 2d 1178,
+1183 (2001).
+
+															     While some
+jurisdictions have declined to apply design-defect liability to
+prescription drugs, New Hampshire, in common with many other
+jurisdictions, does subject prescriptions drugs to this distinct
+form of strict products liability. See 678 F. 3d 30, 35 (CA1
+2012) (citing Brochu v. Ortho Pharmaceutical Corp., 642 F. 2d
+652, 655 (CA1 1981)); see also Third Restatement §6, Comment f
+(collecting cases from other jurisdictions). Drug manufacturers in
+New Hampshire have an affirmative defense under comment k to
+§402A of the Second Restatement, which exempts
+“[u]navoidably unsafe products” from strict liability
+if the product is properly manufactured and labeled. As explained
+by the lower courts in this case, see 678 F. 3d, at 36; 731
+F. Supp. 2d 135, 150–151 (NH 2010), New Hampshire takes
+a case-by-case approach to comment k under which a defendant
+seeking to invoke the defense must first show that the product is
+highly useful and that the dan-ger imposed by the product could not
+have been avoided through a feasible alternative design. See
+Brochu, 642 F. 2d, at 657. Comment k did not factor into the
+jury’s assessment of liability in this case because Mutual
+abandoned a comment k defense before trial. Ante, at 12, n. 2.
+[ 3 ]
+
+															b
+
+															     The design-defect
+claim that was applied to Mutual subjects the manufacturer of an
+unreasonably dangerous product to liability, but it does not
+require that manufacturer to take any specific action that is
+forbidden by federal law. Specifically, and contrary to the
+majority, see ante, at 11, New Hampshire’s design-defect law
+did not require Mutual to change its warning label. A drug’s
+warning label is just one factor in a nonexclusive list for
+evaluating whether a drug is unreasonably dangerous, see Vautour,
+147 N. H., at 156, 784 A. 2d, at 1183, and an adequate
+label is therefore neither a necessary nor a sufficient con-dition
+for avoiding design-defect liability. Likewise, New Hampshire law
+imposed no duty on Mutual to change sulindac’s chemical
+composition. The New Hampshire Supreme Court has held that proof of
+an alternative fea-sible design is not an element of a
+design-defect claim, see Kelleher v. Marvin Lumber & Cedar Co.,
+152 N. H. 813, 831, 891 A. 2d 477, 492 (2006), and as the
+majority recognizes, ante, at 11, sulindac was not realistically
+capable of being redesigned anyway because it is a single-molecule
+drug. [ 4 ]
+
+															     To be sure, New
+Hampshire’s design-defect claim creates an incentive for drug
+manufacturers to make changes to its product, including to the
+drug’s label, to try to avoid liability. And respondent
+overstates her case somewhat when she suggests that New
+Hampshire’s strict-liability law is purely compensatory. See
+Brief for Respondent 19. As is typically true of strict-liability
+regimes, New Hampshire’s law, which mandates compensation
+only for “defective” products, serves both compensatory
+and regulatory purposes. See Heath v. Sears, Roebuck & Co., 123
+N. H. 512, 521–522, 464 A. 2d 288, 293 (1983). But
+exposure to liability, and the “incidental regulatory
+effects” that flow from that exposure, Goodyear Atomic Corp.
+v. Miller, 486 U. S. 174 –186 (1988), is not equivalent
+to a legal mandate for a regulated party to take (or refrain from
+taking) a specific action. This difference is a significant one: A
+mandate leaves no choice for a party that wishes to comply with the
+law, whereas an incentive may only influence a choice.
+
+															     Our cases reflect this
+distinction. In Bates, for exam-ple, we rejected an argument that
+design-defect claims brought against a pesticide manufacturer were
+pre-empted because they would likely “induce” the
+manufacturer to change its product label and thus run afoul of an
+express pre-emption provision forbidding state labeling
+“requirements” that were different or in addition to
+federal requirements. 544 U. S., at 444–446. A
+requirement, we explained, “is a rule of law that must be
+obeyed.” Id., at 445. “[A]n event, such as a jury
+verdict, that merely motivates an optional decision,” does
+not rise to that level. Ibid. [ 5 ]
+
+															     So too here. The fact
+that imposing strict liability for injuries caused by a defective
+drug design might make a drug manufacturer want to change its label
+or design (or both) does not mean the manufacturer was actually
+required by state law to take either action. And absent such a
+legal obligation, the majority’s impossibility argument does
+not get off the ground, because there was no state requirement that
+it was physically impossible for Mutual to comply with while also
+following federal law. The case is therefore unlike Mensing, where
+it was “undisputed” that applicable state tort law
+“require[d] a drug manufacturer that is or should be aware of
+its product’s danger” to strengthen its label—a
+requirement that conflicted with federal law preventing the
+manufacturer from doing so uni-laterally, 564 U. S., at ___,
+___ (slip op., at 4, 11–12). New Hampshire’s
+design-defect law did not require Mu-tual to do anything other than
+to compensate consumers who were injured by an unreasonably
+dangerous drug.
+
+															2
+
+															     Moreover, the trial
+record in this case confirms that, con-trary to the
+majority’s insistence, Mutual was not held liable for
+“breach[ing] [its] duty” “to label sulindac
+adequately.” Ante, at 13.
+
+															     When Bartlett filed
+suit against Mutual, she raised distinct claims based on design
+defect and failure to warn. App. 102–108; see 659
+F. Supp. 2d 279, 282 (NH 2009). Pursuing both claims was
+consistent with New Hampshire law’s recognition that
+“design defect and failure to warn claims are
+separate.” LeBlanc v. American Honda Motor Co., 141
+N. H. 579, 586, 688 A. 2d 556, 562 (1997). After the
+District Court granted summary judgment to Mutual on the
+failure-to-warn claim, the court repeatedly explained that an
+alleged failure to warn by Mutual could not and did not provide the
+basis for Bartlett’s recovery. See 760 F. Supp. 2d, at
+248–249. [ 6 ]
+
+															     The majority notes that
+the District Court admitted evidence regarding sulindac’s
+label. Ante, at 11–12. But the court did so because the label
+remained relevant for the more limited purpose of assessing, in
+combination with other factors, whether sulindac’s design was
+defective because the product was unreasonably dangerous. See 678
+F. 3d, at 41. The District Court’s instructions to the
+jury adhered to this limited purpose. The court first told the jury
+to determine whether sulindac was unreasonably dangerous by
+weighing its danger against its utility. App. 513. The court
+further instructed the jury that if it determined that sulindac was
+unreasonably dangerous without reference to the warning label, it
+could then consider the presence and efficacy of the label to
+evaluate whether the product was unreasonably dangerous “even
+with its warning.” Id., 513–514. In other words, to
+hold Mutual liable, the jury was required to find that sulindac
+“was unreasonably dangerous despite its warning, not because
+of it.” Id., at 341. The District Court also explained to the
+jury that because Bartlett’s claim addressed only whether
+sulindac’s design was defective, Mutual’s conduct,
+“which included any failure to change its warning, was
+‘not relevant to this case.’ ” 760
+F. Supp. 2d, at 248.
+
+															     The distinction drawn
+by the District Court between permissible and impermissible uses of
+evidence regarding sulindac’s label is faithful to New
+Hampshire law. That law recognizes that the effectiveness of a
+warning label is just one relevant factor in determining whether a
+product’s design is unreasonably dangerous, and that
+design-defect and failure-to-warn claims are
+“separate.” LeBlanc, 141 N. H., at 586, 688
+A. 2d, at 562. [ 7 ] In
+short, as the District Court made clear, Mutual was not held liable
+for “failing to change” its warning. 760 F. Supp.,
+at 248–249.
+
+															C
+
+															     Given the distinction
+that New Hampshire draws between failure-to-warn claims and
+design-defect claims, as well as the clear and repeated statements
+by the trial judge that Mutual’s liability was not predicated
+on breaching a duty to label sulindac adequately, on what basis
+does the majority reach a contrary conclusion? Though the majority
+insists otherwise, ante, at 17, it appears to rely principally on
+an implicit assumption about rights conferred by federal premarket
+approval under the FDCA. After correctly observing that changing
+sulindac’s chemical composition would create a new drug that
+would have to go through its own approval process, the majority
+reasons that Mutual must have been under a state-law duty to change
+its label because it had no other option to avoid liability while
+continuing to sell its product. Ante, at 10–11. But that
+conclusion is based on a false premise.
+
+															     A manufacturer of a
+drug that is unreasonably dangerous under New Hampshire law has
+multiple options: It can change the drug’s design or label in
+an effort to alter its risk-benefit profile, remove the drug from
+the market, or pay compensation as a cost of doing business. If
+federal law or the drug’s chemical properties take the
+redesign option off the table, then that does not mean the
+manufacturer suddenly has a legal obligation under state law to
+improve the drug’s label. Indeed, such a view of state law
+makes very little sense here because even if Mutual had
+strengthened its label to fully account for sulindac’s risks,
+the company might still have faced liability for having a defective
+design. See Thibault, 118 N. H., at 808, 395 A. 2d, at
+847 (explaining that strict liability “may attach even though
+. . . there was an adequate warning”). When a
+manufacturer cannot change the label or when doing so would not
+make the drug safe, the manufacturer may still choose between
+exiting the market or continuing to sell while knowing it may have
+to pay compensation to consumers injured by its product. [ 8 ]
+
+															     From a
+manufacturer’s perspective, that may be an un-welcome choice.
+But it is a choice that a sovereign State may impose to protect its
+citizens from dangerous drugs or at least ensure that seriously
+injured consumers receive compensation. That is, a State may impose
+such a choice unless the FDCA gives manufacturers an absolute right
+to sell their products free from common-law liability, or state law
+otherwise “stands as an obstacle to the accomplishment”
+of federal objectives. Crosby, 530 U. S., at 373 (internal
+quotation marks omitted). Because the majority does not rely on
+obstacle pre-emption, it must believe that a manufacturer that
+received FDA premarket approval has a right not only to keep its
+drug on the market unless and until the FDA revokes approval, but
+also to be free from state-law liability that makes doing so more
+expensive. That proposition is fundamentally inconsistent with the
+FDCA’s text, structure, saving clause, and his-tory. See
+supra, at 3–6; Levine, 555 U. S., at 583 (Thomas, J.,
+concurring in judgment).
+
+															     It is simply incorrect
+to say that federal law presupposes that drug manufacturers have a
+right to continue to sell a drug free from liability once it has
+been approved. Nothing in the language of the FDCA, which is framed
+as a prohibition on distribution without FDA approval, see 21
+U. S. C. §355(a), suggests such a right. Federal law
+itself bars the sale of previously approved drugs if new
+information comes to light demonstrating that the drug is
+“dangerous to health” and thus
+“misbranded.” See §§331(a), 352(j); see
+supra, at 3–4. [ 9 ] Even
+outside that sce- nario, manufacturers regularly take drugs off the
+market when evidence emerges about a drug’s risks, particu-
+larly when safer drugs that provide the same therapeutic benefits
+are available. [ 10 ]
+According to the FDA, while it has formal authority to withdraw
+approval for a drug based on new adverse information, see
+§355(e), it is far more common for a manufacturer to stop
+selling its product voluntarily after the FDA advises the
+manufacturer that the drug is unsafe and that its risk-benefit
+profile cannot be adequately addressed through labeling changes or
+other measures. See U. S. Brief 5.
+
+															     New Hampshire’s
+design-defect cause of action thus does no more than provide an
+impetus for an action that is permitted and sometimes encouraged or
+even required by federal law.
+
+															D
+
+															     The majority derides
+any suggestion that Mutual’s ability to “stop
+selling” sulindac is relevant to the validity of its
+impossibility pre-emption defense. Ante, at 2, 14–16. But the
+majority’s argument is built on the mistaken premise that
+Mutual is legally obligated by New Hampshire’s design-defect
+law to modify its label in a way that federal law forbids. It is
+not. See supra, at 11–13. For that reason, rejecting
+impossibility pre-emption here would not render the doctrine
+“a dead letter” or “ ‘all but
+meaningless.’ ” Ante, at 2, 15 (quoting Mensing,
+564 U. S., at ___ (slip op., at 14)). On the other hand, it is
+the major- ity that “work[s] a revolution in this
+Court’s [impossibility] pre-emption case law,” ante, at
+2, by inferring a state-law requirement from the steps a
+manufacturer might wish to take to avoid or mitigate its exposure
+to liability.
+
+															     Not all products can be
+made safe for sale with an improved warning or a tweak in design.
+New Hampshire, through its design-defect law, has made a judgment
+that some drugs that were initially approved for distribution turn
+out to be inherently and unreasonably dangerous and should
+therefore not be sold unless the manufacturer is willing to
+compensate injured consumers. Congressional intent to pre-empt such
+a cause of action cannot be gleaned from the existence of federal
+specifications that apply to the product if it is sold. Instead,
+whether New Hampshire’s design-defect cause-of-action is
+pre-empted depends on assessing whether it poses an obstacle to a
+federal policy to approve sulindac for use. Yet the major-ity skips
+that analysis and instead finds impossibility where it does not
+exist by relying on a question-begging assumption that Congress
+intended for Mutual to have a way to continue selling sulindac
+without incurring common-law liability. See ante, at
+9–11.
+
+															     The distinction between
+impossibility and obstacle pre-emption is an important one. While
+obstacle pre-emption can be abused when courts apply an overly
+broad conception of the relevant federal purpose to find
+pre-emption, see Levine, 555 U. S., at 601–602 (Thomas,
+J., concurring in judgment), it is a useful framework for a case
+like this one because it would at least lead the Court to ask the
+right questions.
+
+															     For example, properly
+evaluating the asserted conflict here through the lens of obstacle
+pre-emption would allow the Court to consider evidence about
+whether Congress intended the FDA to make an optimal safety
+determination and set a maximum safety standard (in which case
+state tort law would undermine the purpose) rather than a minimal
+safety threshold (in which case state tort law could supplement
+it). See, e.g., Williamson v. Mazda Motor of America, Inc., 562
+U. S. ___, ___ (2011) (slip op., at 11). By contrast, the
+majority’s overbroad impossibility framework takes no account
+of how federal drug safety review actually works. Though the
+majority gestures to the rigorous nature of the FDA’s review
+of new drug ap-plications, ante, at 2–3, nothing in the
+majority’s reasoning turns on how the FDA’s
+premarketing review operates or on the agency’s capacity to
+engage in postmarketing review.
+
+															     In taking the approach
+it does, the majority replaces careful assessment of regulatory
+structure with an ipse dixit that pharmaceutical companies must
+have a way to “escape liability,” ante, at 11, while
+continuing to sell a drug that received FDA approval. As a result,
+the major-ity effectively makes a highly contested policy judgment
+about the relationship between FDA review and state tort
+law—treating the FDA as the sole guardian of drug
+safety—without defending its judgment and without
+con-sidering whether that is the policy judgment that Congress
+made. [ 11 ]
+
+															III
+
+															     While the majority
+never addresses obstacle pre-emption, Mutual did argue in the
+alternative that Bartlett’s design-defect cause of action is
+pre-empted because it conflicts with the purposes and objectives of
+the FDCA, as supplemented by the Hatch-Waxman Act, 98Stat. 1585.
+Though it presents a closer question than the impossibility
+argument on which the majority relies, I would reject
+Mutual’s obstacle pre-emption defense as well.
+
+															     Mutual’s most
+substantial contention is that New Hamp-shire’s design-defect
+claim frustrates the policy under-lying the FDCA’s broader
+scheme of vesting authority in the FDA as an expert agency to
+determine which drug designs should enter and remain in interstate
+commerce. The FDA, through an amicus brief filed by the United
+States, generally supports this argument. The FDA states that the
+question whether a design-defect claim [ 12 ] is pre-empted is “difficult and
+close,” and it recognizes that “[s]everal factors do
+weigh in favor of finding no preemption,” including the
+absence of textual support in the FDCA for the idea that an
+approved drug must be made available in any particular State. See
+U. S. Brief 12, 21–22. But the FDA ultimately contends
+that design-defect claims are pre-empted unless they parallel the
+FDCA’s misbranding prohibition because the agency be-lieves
+that permitting juries to balance the health risks and benefits of
+an FDA-approved drug would undermine the FDA’s drug-safety
+determinations and could reduce access to drugs that the FDA has
+determined are safe and effective.
+
+															     Our cases have
+“given ‘some weight’ to an agency’s views
+about the impact of tort law on federal objectives when ‘the
+subject matter is technica[l] and the relevant history and
+background are complex and extensive.’ ” Levine,
+555 U. S., at 576 (quoting Geier v. American Honda Motor Co.,
+529 U. S. 861, 883 (2000) ). But courts do not “defe[r]
+to an agency’s conclusion that state law is
+pre-empted,” 555 U. S., at 576, and the tension that the
+FDA identifies in an effort to justify complete pre-emption of
+design-defect claims for prescription drugs does not satisfy the
+“ high threshold [that] must be met if a state law is to
+be pre-empted for conflicting with the purposes of a federal
+Act,” Chamber of Commerce of United States of America, v.
+Whiting, 563 U. S. ___, ___ (2011) (slip op., at 22) (internal
+quotation marks omitted); see Silkwood, 464 U. S., at 256.
+Given the FDCA’s core purpose of protecting consumers, our
+recognition in Levine that state tort law generally complements the
+statute’s safety goals, the practical limits on the
+FDA’s ability to monitor and promptly address concerns about
+drug safety once a drug is in the market, see supra, at 5,
+20–21, n. 11, and the absence of any federal remedy for
+injured consumers, I would reject this broad obstacle pre-emption
+argument as well. [ 13 ]
+
+															IV
+
+															     The most troubling
+aspect of the majority’s decision to once again expand the
+scope of this Court’s traditionally narrow impossibility
+pre-emption doctrine is what it implies about the relationship
+between federal premarket review and state common-law remedies more
+generally. Central to the majority’s holding is an assumption
+that manufacturers must have a way to avoid state-law lia-bility
+while keeping particular products in commerce. See ante, at
+9–11, 14–15. This assumption, it seems, will always
+create an automatic conflict between a federal premarket review
+requirement and state-law design-defect liability because premarket
+review, by definition, prevents manufacturers from unilaterally
+changing their products’ designs. [ 14 ] That is true, for example, of the designs (i.e.,
+the chemical composition) of brand-name drugs under the FDCA no
+less than it is for generic drugs. See ante, at 3–4.
+
+															     If the creation of such
+an automatic conflict is the ultimate end-point of the
+majority’s continued expansion of impossibility pre-emption,
+then the result is frankly astonishing. Congress adopted the
+FDCA’s premarketing approval requirement in 1938 and then
+strengthened it in 1962 in response to serious public-health
+episodes involving unsafe drugs. See Future of Drug Safety 152. Yet
+by the majority’s lights, the very act of creating that
+requirement in order to “safeguard the consumer,”
+United States v. Sullivan, 332 U. S. 689, 696 (1948) , also
+created by operation of law a shield for drug manufacturers to
+avoid paying common-law damages under state laws that are also
+designed to protect consumers. That is so notwithstanding
+Congress’ effort to disclaim any intent to pre-empt all state
+law. See supra, at 4. The majority’s reasoning thus
+“has the ‘perverse effect’ of granting broad
+immunity ‘to an entire industry that, in the judgment of
+Congress, needed more stringent regulation.’ ”
+Riegel, 552 U. S., at 338 (Ginsburg, J., dissenting) (quoting
+Lohr, 518 U. S., at 487 (plurality opinion)).
+
+															     This expanded notion of
+impossibility pre-emption threatens to disturb a considerable
+amount of state law. The FDCA’s premarket approval process
+for prescription drugs has provided a model for the regulation of
+many other products. [ 15 ]
+In some statutes, Congress has paired premarket regulatory review
+with express pre-emption provisions that limit the application of
+state common-law remedies, including, in some instances, claims for
+defective product design. See, e.g., Riegel, 552 U. S., at
+323–325; see supra, at 4, and n. 2. In other instances,
+such as with prescription drugs, it has not. Under the
+majority’s approach, it appears that design-defect claims are
+categorically displaced either way, and Congress’ efforts to
+set the boundaries of pre-emption more precisely were largely
+academic. This could have serious consequences for product safety.
+State design-defect laws play an important role not only in
+discovering risks, but also in providing in-centives for
+manufacturers to remove dangerous products from the market
+promptly. See Levine, 555 U. S., at 578–579; Bates, 544
+U. S., at 451; see also Conk, Is There a Design Defect in the
+Restatement (Third) of Torts: Products Liability? 109 Yale
+L. J. 1087, 1130 (2000) (“The tort system can encourage
+FDA regulatory vigor and competence”). If manufacturers of
+products that require preapproval are given de facto immunity
+from design-defect liability, then the public will have to rely
+exclusively on imperfect federal agencies with limited resources
+and sometimes limited legal authority to recall approved products.
+And consumers injured by those products will have no recourse.
+
+															     The manner in which
+Congress has addressed pre-emption with respect to vaccines is
+particularly instructive. “[V]accines have been subject to
+the same federal premarket approval process as prescription
+drugs,” and prior to Congress’ intervention,
+“compensation for vaccine-related injuries ha[d] been left
+largely to the States.” Bruesewitz v. Wyeth LLC, 562
+U. S. ___, ___ (2011) (slip op., at 1). In 1986, in response
+to a rise in tort suits that produced instability in the vaccine
+market, Congress enacted the National Childhood Vaccine Injury Act
+(Vaccine Act), 42 U. S. C. §300aa–22(b)(1).
+The Act established a no-fault compensation program funded through
+an excise tax on vaccines to compensate individuals injured or
+killed by vaccine side effects. “The quid pro quo for
+this” system, the Court stated in Bruesewitz, “was the
+provision of significant tort-liability protections for vaccine
+manufacturers.” 562 U. S., at ___ (slip op., at 4).
+
+															     While Members of this
+Court disagreed on the scope of the tort protections the Vaccine
+Act was intended to offer, the Act’s history demonstrates
+that Congress is perfectly capable of responding when it believes
+state tort law may compromise significant federal objectives under
+a scheme of premarket regulatory review for products it wants to
+make available. And it illustrates that “an important reason
+to require that preemption decisions be made by Congress,”
+rather than by courts on the basis of an expanded implied
+pre-emption doctrine, is Congress’ ability to tie its
+pre-emption decisions “to some alternative means for securing
+compensation.” Metzger, Federalism and Fed-eral Agency
+Reform, 111 Colum. L. Rev. 1, 33 (2011). By instead reaching
+out to find pre-emption in a context where Congress never intended
+it, the majority leaves consumers like Karen Bartlett to bear
+enormous losses on their own.
+
+															*  *  *
+
+															     The Court recognizes
+that “[t]his case arises out of tragic circumstances.”
+Ante, at 20. And I do not doubt that Members of the majority
+personally feel sympathy for Karen Bartlett. But the Court’s
+solemn affirmation that it merely discharges its duty to
+“follo[w] the law,” ante, at 17, and gives effect to
+Congress’ policy judgment, rather than its own, is hard to
+accept. By once again expanding the scope of impossibility
+pre-emption, the Court turns Congress’ intent on its head and
+arrives at a holding that is irreconcilable with our precedents. As
+a result, the Court has left a seriously injured consumer without
+any remedy despite Congress’ explicit efforts to preserve
+state common-law liability.
+
+															     I respectfully
+dissent.
+
+Notes
+1
+ The majority’s
+failure to adhere to the presumption against pre-emption is well
+illustrated by the fact that the majority calls on Congress to
+provide greater clarity with regard to the “difficult
+pre-emption questions that arise in the prescription drug
+context.” Ante, at 19–20. Certainly, clear direction
+from Congress on pre-emption questions is useful. But the whole
+point of the presumption against pre-emption is that congressional
+ambiguity should cut in favor of preserving state autonomy. See
+Rice v. Santa Fe Elevator Corp., .
+2
+ See (medical devices);
+§379r (labeling requirements for nonprescription drugs);
+§379s (labeling and packaging requirements for cosmetics);
+–22(b)(1) (vaccines). Instructively, Congress included a
+saving clause in the statutes addressing nonprescription drugs and
+cosmetics, which makes clear that the express pre-emption
+provisions in these statutes do not affect state product liability
+law. See 21 U. S. C. §§379r(e),
+379s(d).
+3
+ Though the majority does
+not rely on comment k to find pre-emption, it misleadingly implies
+that New Hampshire, like “a large majority of States,”
+has applied comment k categorically to prescription drugs to exempt
+manufacturers from “ ‘strict liability for side
+effects of properly manufactured prescription drugs that [are]
+accompanied by ade-quate warnings.’ ” Ante, at 12,
+n. 2 (quoting Bruesewitz v. Wyeth LLC, 562 U. S. ___,
+___, n. 41 (2011) (slip op., at 10, n. 41). That is in-correct. The
+majority also neglects to mention that while some courts have
+applied comment k categorically to prescription drug designs,
+“[m]ost courts have stated that there is no justification for
+giving all prescription drug manufacturers blanket immunity from
+strict liability under comment k.” 2 American Law of Products
+Liability 3d §17.45,p. 108 (2010). Like New Hampshire courts,
+these courts apply comment k on a case-by-case basis. See 1 L.
+Frumer & M. Friedman, Products Liability §8.07[5], pp.
+8–287 to 8–293 (2012).
+4
+ Because of this feature
+of New Hampshire law, it is unnecessary to consider whether the
+pre-emption analysis would differ in a jurisdiction that required
+proof of a feasible alternative design as an element of
+liability.
+5
+ The majority suggests my
+account of Bates is “simply misleading,” ante, at 18,
+but it simply misses the point. I recognize that, under the
+Court’s precedents, common-law duties may qualify as
+“requirements,” at least as that term has been used in
+express pre-emption provisions in federal law. See Riegel v.
+Medtronic, Inc., –324 (2008). But determining precisely what,
+if any, specific requirement a state common-law claim imposes is
+important. In Bates, the lower court had accepted the same basic
+argument that the majority advances here: that the
+plaintiffs’ design-defect claim that a pesticide was
+“unreasonably dangerous” was “merely a disguised
+claim for failure to warn” because success on the claim that
+the pesticide was dangerous to crops in soil above a certain pH
+level would “necessarily induce” a manufacturer to
+change its product’s label to avoid liability. Dow
+Agrosciences LLC v. Bates, 332 F. 3d 323, 332–333 (CA5
+2003). This Court explicitly rejected the notion that because
+design-defect liability might lead a manufacturer to make a label
+change, it meant that the State’s design-defect claim imposed
+a requirement for labeling or packaging. See 544 U. S., at
+445–446. The majority contends that this case is different
+because the duty to redesign sulindac’s label was an element
+of New Hampshire’s design-defect law. Ante, at 19. But it is
+not. See supra, at 11. Rather, altering a product label is merely
+one step a manufacturer might take to prevent its product from
+being considered unreasonably dangerous, and it is a step that New
+Hampshire law recognizes may be insufficient. See infra, at
+16.
+6
+ For example, in a ruling
+on proposed jury instructions, the District Court made clear that
+“Bartlett cannot be allowed to circumvent this court’s
+summary judgment ruling by using Sulindac’s warning to
+establish that the drug is unreasonably dangerous (i.e., arguing
+that Sulindac is unreasonably dangerous because of its warning),
+where this court has already ruled that any inadequacy in the
+warning did not cause Bartlett’s injuries.” App. 343.
+Doing so, the court explained “would effectively turn this
+case back into a failure-to-warn case, rendering the summary
+judgment ruling meaningless.” Ibid. The District Court later
+told counsel that it had removed a failure-to-warn instruction from
+the jury instructions because “[t]his is not a failure to
+warn case,” and the court admonished counsel to “tread
+care-fully” in arguing about the warning label because the
+label’s adequacy was “not an issue before this
+jury.” Id., at 496.
+7
+ To the extent the
+majority believes that the District Court in practice allowed the
+adequacy of the warning label to play a greater roleat trial than
+it should have, see ante, at 11–12, that is irrelevant to the
+question before the Court. Statements by counsel, even if improper,
+do not change the state law cause of action that we evaluate for
+pre-emption purposes. And the Court of Appeals specifically
+concluded that the District Court’s jury instructions were
+appropriate and that “[i]f Mutual wanted a further caution in
+the instructions” concerning its warning label, then Mutual
+“should have sought it.” 678 F. 3d 30, 41–42
+(CA1 2012).
+8
+ The majority’s
+suggestion that a manufacturer’s option of continuing to sell
+while paying compensation is akin to violating a statutory mandate
+and then suffering the consequence (such as paying a fine) is
+flawed. See ante, at 18. In that scenario, the manufacturer would
+have violated the law, and the fact that the law is enforced
+through monetary sanctions (rather than through an injunction or
+imprisonment) would not change that. Here, no matter how many times
+the majority insists otherwise, ibid., a manufacturer who sells a
+drug whose design is found unreasonably dangerous based on a
+balance of factors has not violated a state law requiring it to
+change its label. In both cases, the manufacturer may owe money.
+But only in the former will it have failed to follow the law. Cf.
+National Federation of Independent Business v. Sebelius, 567
+U. S. __, __ (2012) (slip op., at 32) (recognizing that a
+condition that triggers a tax is not necessarily a “legal
+command” to take a certain action).
+9
+ The majority properly
+leaves open the question whether state design-defect claims that
+parallel the federal misbranding statute are pre-empted. See ante,
+at 14, n. 4. The majority fails to appreciate, however, that
+this statute undermines its impossibility argument (as compared to
+an argument based on obstacle pre-emption) because it shows that
+there is no federal right or obligation to continue to sell a drug
+like sulindac that was previously approved. In fact, the statute
+demonstrates that sometimes a drug manufacturer like Mutual may
+have a federal duty not to sell its drug.
+10  See
+Government Accountability Office, Drug Safety: Improvement Needed
+in FDA’s Postmarket Decision-making and Oversight Process 10
+(GAO–06–402, 2006) (noting that 10 drugs were
+voluntarily withdrawn for safety reasons between 2000 and 2006);
+Wysowski & Swartz, Adverse Drug Event Surveillance and Drug
+Withdrawals in the United States, 1969–2002, 165 Archives
+Internal Med. 1363 (2005) (noting that more than 75 drugs and drug
+products were withdrawn from the market for safety reasons between
+1969 and 2002).
+11  Defending a policy judgment that
+treats the FDA as the exclusive guarantor of drug safety would be
+no easy task in light of evidence that resource constraints and
+gaps in legal authority, among other factors, limit the
+agency’s ability to safeguard public health. See Kessler
+& Vladeck, A Critical Examination of the FDA’s Efforts to
+Preempt Failure-to-Warn Claims, 96 Geo. L. J. 461,
+483–495 (2008); see also Wyeth v. Levine, –579, and n.
+11 (2009).
+12  The
+FDA purports to address what it calls a “pure”
+design-defect claim, and it references the Third Restatement
+§6 by way of illustration. The FDA’s separate discussion
+of a “pure” design-defect claim is based on the premise
+that New Hampshire’s design-defect claim turns on the
+adequacy of a drug’s warning. See U. S. Brief 20. But
+that is incorrect. See supra, at 11.
+13  I
+note that we are not confronted with a case in which the FDA
+promulgated “lawful specific regulations describing”
+whether and under what circumstances state design-defect liability
+interferes with “the safe drug-related medical care”
+sought through the FDCA. Levine, 555 U. S., at 582 (Breyer,
+J., concurring). See also ante, at 2–3 (Breyer, J.,
+dissenting).
+14  Or at
+least it creates an automatic conflict with the caveat that
+design-defect claims that parallel a federal duty for manufacturers
+to withdraw a product might not be pre-empted. See ante, at
+13–14, n. 3.
+15  See,
+e.g., (pesticides); (food additives); §360b (animal drugs);
+§§360c(a)(1)(C), 360e (certain medical devices);
+§379e (color additives).
+
+

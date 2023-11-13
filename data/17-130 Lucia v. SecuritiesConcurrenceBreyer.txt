@@ -1,0 +1,143 @@
+::SCDB_caseID:: 2017-069
+::decision_cite:: 17-130
+::decision_name::  Lucia v. Securities and Exchange Commission
+::decision_year:: 2018
+::opinion_author:: Breyer
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–130
+
+															_________________
+
+															RAYMOND J. LUCIA, et al., PETITIONERS v. SECURITIES AND EXCHANGE COMMISSION
+
+															on writ of certiorari to the united states court of appeals for the district of columbia circuit
+
+															[June 21, 2018]
+
+															
+
+															Justice Breyer, with whom Justice Ginsburg and Justice Sotomayor join as to Part III, concurring in the judgment in part and dissenting in part.
+
+															I agree with the Court that the Securities and Exchange Commission did not properly appoint the Administrative Law Judge who presided over petitioner Lucia’s hearing.  But I disagree with the majority in respect to two matters.  First, I would rest our conclusion upon statutory, not constitutional, grounds.  I believe it important to do so because I cannot answer the constitutional question that the majority answers without knowing the answer to a different, embedded constitutional question, which the Solicitor General urged us to answer in this case: the constitutionality of the statutory “for cause” removal protections that Congress provided for administrative law judges.  Cf. Free Enterprise Fund v. Public Company Accounting Oversight Bd.,
+
+561 U. S. 477 (2010).  Second, I disagree with the Court in respect to the proper remedy.
+
+															I
+
+															The relevant statute here is the Administrative Procedure Act.  That Act governs the appointment of administrative law judges.  It provides (as it has, in substance, since its enactment in 1946) that “[e]ach agency shall appoint as many administrative law judges as are neces- sary for” hearings governed by the Administrative Procedure Act.
+
+5 U. S. C. §3105; see also Administrative Procedure Act, §11,
+
+60Stat.
+244 (original version, which refers to “examiners” as administrative law judges were then called).  In the case of the Securities and Exchange Commission, the relevant “agency” is the Commission itself.  But the Commission did not appoint the Administrative Law Judge who presided over Lucia’s hearing.  Rather, the Commission’s staff appointed that Administrative Law Judge, without the approval of the Commissioners themselves.  See ante, at 1; App. to Pet. for Cert. 298a–299a.
+
+															I do not believe that the Administrative Procedure Act permits the Commission to delegate its power to appoint its administrative law judges to its staff.  We have held that, for purposes of the Constitution’s Appointments Clause, the Commission itself is a “ ‘Hea[d]’ ” of a “ ‘Departmen[t].’ ”  Free Enterprise Fund, supra, at 512–513.  Thus, reading the statute as referring to the Commission itself, and not to its staff, avoids a difficult constitutional question, namely, the very question that the Court answers today: whether the Commission’s administrative law judges are constitutional “inferior Officers” whose appointment Congress may vest only in the President, the “Courts of Law,” or the “Heads of Departments.”  Art. II, §2, cl. 2; see United States v. Jin Fuey Moy,
+
+241 U. S. 394, 401 (1916) (“A statute must be construed, if fairly possible, so as to avoid not only the conclusion that it is unconstitutional but also grave doubts upon that score”).
+
+															I have found no other statutory provision that would permit the Commission to delegate the power to appoint its administrative law judges to its staff.  The statute establishing and governing the Commission does allow the Commission to “delegate, by published order or rule, any of its functions to a division of the Commission, an individual Commissioner, an administrative law judge, or an employee or employee board.”
+
+15 U. S. C. §78d–1(a).  But this provision requires a “published order or rule,” and the Commission here published no relevant delegating order or rule.  Rather, Lucia discovered the Commission’s appointment system for administrative law judges only when the Commission’s enforcement division staff filed an affidavit in this case describing that staff-based system.  See App. to Pet. for Cert. 295a–299a.  Regardless, the same constitutional-avoidance reasons that should inform our construction of the Administrative Procedure Act should also lead us to interpret the Commission’s general delegation authority as excluding the power to delegate to staff the authority to appoint its administrative law judges, so as to avoid the constitutional question the Court reaches in this case.  See Jin Fuey Moy, supra, at 401.
+
+															The analysis may differ for other agencies that employ administrative law judges.  Each agency’s governing statute is different, and some, unlike the Commission’s, may allow the delegation of duties without a published order or rule.  See, e.g., 
+
+42 U. S. C. §902(a)(7) (applicable to the Social Security Administration).  Similarly, other agencies’ administrative law judges perform distinct functions, and their means of appointment may therefore not raise the constitutional questions that inform my reading of the relevant statutes here.
+
+															The upshot, in my view, is that for statutory, not constitutional, reasons, the Commission did not lawfully appoint the Administrative Law Judge here at issue.  And this Court should decide no more than that.
+
+															II
+
+															A
+
+															The reason why it is important to go no further arises from the holding in a case this Court decided eight years ago, Free Enterprise Fund, supra.  The case concerned statutory provisions protecting members of the Public Company Accounting Oversight Board from removal without cause.  The Court held in that case that the Executive Vesting Clause of the Constitution, Art. II, §1 (“[t]he executive Power shall be vested in a President of the United States of America”), forbade Congress from providing members of the Board with “multilevel protection from removal” by the President.  Free Enterprise Fund, 561 U. S., at 484; see id., at 514 (“Congress cannot limit the President’s authority” by providing “two levels of protection from removal for those who . . . exercise significant executive power”).  But see id., at 514–549 (Breyer, J., dissenting).  Because, in the Court’s view, the relevant statutes (1) granted the Securities and Exchange Commissioners protection from removal without cause, (2) gave the Commissioners sole authority to remove Board members, and (3) protected Board members from removal without cause, the statutes provided Board members with two levels of protection from removal and consequently violated the Constitution.  Id., at 495–498.
+
+															In addressing the constitutionality of the Board members’ removal protections, the Court emphasized that the Board members were “executive officers”—more specifically, “inferior officers” for purposes of the Appointments Clause.  E.g., id., at 492–495, 504–505.  The significance of that fact to the Court’s analysis is not entirely clear.  The Court said:
+
+															“The parties here concede that Board members are executive ‘Officers’, as that term is used in the Constitution.  We do not decide the status of other Government employees, nor do we decide whether ‘lesser functionaries subordinate to officers of the United States’ must be subject to the same sort of control as those who exercise ‘significant authority pursuant to the laws.’ ”  Id., at 506 (quoting Buckley v. Valeo,
+
+424 U. S. 1, 126, and n. 162 (1976) (per curiam); citations omitted).
+
+															Thus, the Court seemed not only to limit its holding to the Board members themselves, but also to suggest that Government employees who were not officers would be distinguishable from the Board members on that ground alone.
+
+															For present purposes, however, the implications of Free Enterprise Fund’s technical-sounding holding about “multilevel protection from removal” remain potentially dramatic.  561 U. S., at 484.  The same statute, the Administrative Procedure Act, that provides that the “agency” will appoint its administrative law judges also protects the administrative law judges from removal without cause.  In particular, the statute says that an
+
+															“action may be taken against an administrative law judge appointed under section 3105 of this title by the agency in which the administrative law judge is employed only for good cause established and determined by the Merit Systems Protection Board on the record after opportunity for hearing before the Board.”
+
+5 U. S. C. §7521(a).
+
+															As with appointments, this provision constituted an important part of the Administrative Procedure Act when it was originally enacted in 1946.  See §11,
+
+60Stat.
+244.
+
+															The Administrative Procedure Act thus allows administrative law judges to be removed only “for good cause” found by the Merit Systems Protection Board.  §7521(a).  And the President may, in turn, remove members of the Merit Systems Protection Board only for “inefficiency, neglect of duty, or malfeasance in office.”  §1202(d).  Thus, Congress seems to have provided administrative law judges with two levels of protection from removal without cause—just what Free Enterprise Fund interpreted the Constitution to forbid in the case of the Board members.
+
+															The substantial independence that the Administrative Procedure Act’s removal protections provide to administrative law judges is a central part of the Act’s overall scheme.  See Ramspeck v. Federal Trial Examiners Conference,
+
+345 U. S. 128, 130 (1953); Wong Yang Sung v. McGrath,
+
+339 U. S. 33, 46 (1950).  Before the Administrative Procedure Act, hearing examiners “were in a dependent status” to their employing agency, with their classification, compensation, and promotion all dependent on how the agency they worked for rated them.  Ramspeck, 345 U. S., at 130.  As a result of that dependence, “[m]any complaints were voiced against the actions of the hearing examiners, it being charged that they were mere tools of the agency concerned and subservient to the agency heads in making their proposed findings of fact and recommendations.”  Id., at 131.  The Administrative Procedure Act responded to those complaints by giving administrative law judges “independence and tenure within the existing Civil Service system.”  Id., at 132; cf. Wong Yang Sung, supra, at 41–46 (referring to removal protections as among the Administrative Procedure Act’s “safeguards . . . intended to ameliorate” the  perceived “evils” of commingling of adjudicative and prosecutorial functions in agencies).
+
+															If the Free Enterprise Fund Court’s holding applies equally to the administrative law judges—and I stress the “if”—then to hold that the administrative law judges are “Officers of the United States” is, perhaps, to hold that their removal protections are unconstitutional.  This would risk transforming administrative law judges from independent adjudicators into dependent decisionmakers, serving at the pleasure of the Commission.  Similarly, to apply Free Enterprise Fund’s holding to high-level civil servants threatens to change the nature of our merit-based civil service as it has existed from the time of President Chester Alan Arthur.  See Free Enterprise Fund, 561 U. S., at 540–542 (Breyer, J., dissenting).
+
+															I have stressed the words “if” and “perhaps” in the previous paragraph because Free Enterprise Fund’s hold- ing may not invalidate the removal protections applicable to the Commission’s administrative law judges even if the judges are inferior “officers of the United States” for purposes of the Appointments Clause.  In my dissent in Free Enterprise Fund, I pointed out that under the majority’s analysis, the removal protections applicable to administrative law judges—including specifically the Commission’s administrative law judges—would seem to be unconstitutional.  Id., at 542, 587.  But the Court disagreed, saying that “none of the positions [my dissent] identifie[d] are similarly situated to the Board.”  Id., at 506.
+
+															The Free Enterprise Fund Court gave three reasons why administrative law judges were distinguishable from the Board members at issue in that case.  First, the Court said that “[w]hether administrative law judges are necessarily ‘Officers of the United States’ is disputed.”  Id., at 507, n. 10.  Second, the Court said that “unlike members of the Board, many administrative law judges of course perform adjudicative rather than enforcement or policymaking functions, see [5 U. S. C.] §§554(d), 3105, or possess purely recommendatory powers.”  Ibid.  And, third, the Court pointed out that the civil service “employees” and administrative law judges to whom I referred in my dissent do not “enjoy the same significant and unusual protections from Presidential oversight as members of the Board.”  Id., at 506.  The Court added that the kind of “for cause” protection the statutes provided for Board members was “un- usually high.”  Id., at 503.
+
+															The majority here removes the first distinction, for it holds that the Commission’s administrative law judges are inferior “Officers of the United States.”  Ante, at 1.  The other two distinctions remain.  See, e.g., Wiener v. United States,
+
+357 U. S. 349, 355–356 (1958) (holding that Congress is free to protect bodies tasked with “ ‘adjudicat[ing] according to law’ . . . ‘from the control or coercive influence, direct or indirect,’ . . . of either the Executive or Congress”) (quoting Humphrey’s Executor v. United States, 
+
+295 U. S. 602, 629 (1935)). But the Solicitor General has nevertheless argued strongly that we should now decide the constitutionality of the administrative law judges’ removal protections as well as their means of appointment.  And in his view, the administrative law judges’ statutory removal protections violate the Constitution (as interpreted in Free Enterprise Fund), unless we construe those protections as giving the Commission substantially greater power to remove administrative law judges than it presently has.  See Merits Brief for Respondent 45–55.
+
+															On the Solicitor General’s account, for the administrative law judges’ removal protections to be constitutional, the Commission itself must have the power to remove administrative law judges “for failure to follow lawful instructions or perform adequately.”  Id., at 48.  The Merit Systems Protection Board would then review only the Commission’s factfinding, and not whether the facts (as found) count as “good cause” for removal.  Id., at 52–53.  This technical-sounding standard would seem to weaken the administrative law judges’ “for cause” removal protections considerably, by permitting the Commission to remove an administrative law judge with whose judgments it disagrees—say, because the judge did not find a securities-law violation where the Commission thought there  was one, or vice versa.  In such cases, the law allows the Commission to overrule an administrative law judge’s findings, for the decision is ultimately the Commission’s.  See
+
+15 U. S. C. §78d–1(b).  But it does not allow the Commission to fire the administrative law judge.  See
+
+5 U. S. C. §7521.
+
+															And now it should be clear why the application of Free Enterprise Fund to administrative law judges is important.  If that decision does not limit or forbid Congress’ statutory “for cause” protections, then a holding that the administrative law judges are “inferior Officers” does not conflict with Congress’ intent as revealed in the statute.  But, if the holding is to the contrary, and more particularly if a holding that administrative law judges are “inferior Officers” brings with it application of Free Enterprise Fund’s limitation on “for cause” protections from removal, then a determination that administrative law judges are, constitutionally speaking, “inferior Officers” would directly conflict with Congress’ intent, as revealed in the statute.  In that case, it would be clear to me that Congress did not intend that consequence, and that it therefore did not intend to make administrative law judges “inferior Offi- cers” at all.
+
+															B
+
+															Congress’ intent on the question matters, in my view, because the Appointments Clause is properly understood to grant Congress a degree of leeway as to whether particular Government workers are officers or instead mere employees not subject to the Appointments Clause.  The words “by Law” appear twice in the Clause.  It says that the President (“with the Advice and Consent of the Senate”) shall appoint “Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, . . . which shall be established by Law.”  Art. II, §2, cl. 2 (emphasis added).  It then adds that “Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.”  Ibid. (emphasis added).
+
+															The use of the words “by Law” to describe the establishment and means of appointment of “Officers of the United States,” together with the fact that Article I of the Constitution vests the legislative power in Congress, suggests that (other than the officers the Constitution specifically lists) Congress, not the Judicial Branch alone, must play a major role in determining who is an “Office[r] of the United States.”  And Congress’ intent in this specific respect is often highly relevant.  Congress’ leeway is not, of course, absolute—it may not, for example, say that positions the Constitution itself describes as “Officers” are not “Officers.”  But given the constitutional language, the Court, when deciding whether other positions are “Officers of the United States” under the Appointments Clause, should give substantial weight to Congress’ decision.
+
+															How is the Court to decide whether Congress intended that the holder of a particular Government position count as an “Office[r] of the United States”?  Congress might, of course, write explicitly into the statute that the employee “is an officer of the United States under the Appointments Clause,” but an explicit phrase of this kind is unlikely to appear.  If it does not, then I would approach the question like any other difficult question of statutory interpretation.  Several considerations, among others, are likely to be relevant.  First, as the Court said in Freytag v. Commissioner,
+
+501 U. S. 868, 881 (1991), and repeats today, ante, at 6, where Congress grants an appointee “ ‘significant authority pursuant to the laws to the United States,’ ” that supports the view that (but should not determinatively decide that) Congress made that appointee an “Office[r] of the United States.”  Freytag, supra, at 881 (quoting Buckley, 424 U. S., at 126); see also United States v. Germaine,
+
+99 U. S. 508, 511 (1879) (holding that the term “officer” “embraces the ideas of tenure, duration, emolument, and duties”).  The means of appointment that Congress chooses is also instructive.  Where Congress provides a method  of appointment that mimics a method the Appointments Clause allows for “Officers,” that fact too supports the view that (but does not determinatively decide that) Congress viewed the position as one to be held by an “Officer,” and vice versa.  See id., at 509–511.  And the Court’s decision in Free Enterprise Fund suggests a third indica- tion of “Officer” status—did Congress provide the position with removal protections that would be unconstitutional if provided for an “Officer”?  See 561 U. S., at 514.  That fact would support (but again not be determinative of) the opposite view—that Congress did not intend to confer “inferior Officer” status on the position.
+
+															As I said, these statutory features, while highly relevant, need not always prove determinative.  The vast number of different civil service positions, with different tasks, different needs, and different requirements for independence, mean that this is not the place to lay down bright-line rules.  Rather, as this Court has said, “[t]he versatility of circumstances often mocks a natural desire for definitiveness” in this area.  Wiener, 357 U. S., at 352.
+
+															No case from this Court holds that Congress lacks this sort of constitutional leeway in determining whether a particular Government position will be filled by an “Office[r] of the United States.”  To the contrary, while we have repeatedly addressed whether particular officials are “Officers,” in all cases but one, we have upheld the appointment procedures Congress enacted as consistent with the Appointments Clause.  See, e.g., Edmond v. United States,
+
+520 U. S. 651, 666 (1997) (holding that Congress’ appointment procedure for military court judges “is in conformity with the Appointments Clause of the Constitution”); Freytag, supra, at 888–891 (same as to special trial judges of the Tax Court); Rice v. Ames,
+
+180 U. S. 371, 378 (1901) (same as to district court “commissioners”); Ex parte Siebold,
+
+100 U. S. 371, 397–398 (1880) (same as  to “supervisors of election”).  But see Buckley, supra, at 124–137.
+
+															The one exception was Buckley, 424 U. S., at 124–137, in which the Court set aside Congress’ prescribed appointment method for some members of the Federal Election Commission—appointment by Congress itself—as inconsistent with the Appointments Clause.  But Buckley involved Federal Election Commission members with enormous powers.  They had “primary and substantial responsibility for administering and enforcing the” Federal Election Campaign Act of 1971, id., at 109, an “intricate statutory scheme . . . to regulate federal election campaigns,” id., at 12.  They had “extensive rulemaking and adjudicative powers,” id., at 110; the power to enforce the law through civil lawsuits, id., at 111; and the power to disqualify a candidate from running for federal office, id., at 112–113.  Federal Election Commissioners thus had powers akin to the “principal Officer[s]” of an Executive Department, whom the Constitution expressly refers to as “Officers,” see Art. II, §2, cl. 1.  It is not surprising that Congress exceeded any leeway the Appointments Clause granted when it deviated from the Clause’s appointments’ methods in respect to an office with powers very similar to those of the Officers listed in the Constitution itself.
+
+															Thus, neither Buckley nor any other case forecloses an interpretation of the Appointments Clause that focuses principally on whether the relevant statutes show that Congress intended that a particular Government position be held by an “Office[r] of the United States.”  Adopting such an approach, I would not answer the question whether the Securities and Exchange Commission’s administrative law judges are constitutional “Officers” without first deciding the pre-existing Free Enterprise Fund question—namely, what effect that holding would have on the statutory “for cause” removal protections that Congress provided for administrative law judges.  If, for example, Free Enterprise Fund means that saying administrative law judges are “inferior Officers” will cause them to lose their “for cause” removal protections, then I would likely hold that the administrative law judges are not “Officers,” for to say otherwise would be to contradict Congress’ enactment of those protections in the Administrative Procedure Act.  In contrast, if Free Enterprise Fund does not mean that an administrative law judge (if an “Office[r] of the United States”) would lose “for cause” protections, then it is more likely that interpreting the Administrative Procedure Act as conferring such status would not run contrary to Congress’ intent.  In such a case, I would more likely hold that, given the other features of the Administrative Procedure Act, Congress did intend to make administrative law judges inferior “Officers of the United States.”
+
+															III
+
+															Separately, I also disagree with the majority’s conclusion that the proper remedy in this case requires a hearing before a different administrative law judge.  Ante, at 12–13.  The Securities and Exchange Commission has now itself appointed the Administrative Law Judge in question, and I see no reason why he could not rehear the case.  After all, when a judge is reversed on appeal and a new trial ordered, typically the judge who rehears the case is the same judge who heard it the first time.  The reversal here is based on a technical constitutional question, and the reversal implies no criticism at all of the original judge or his ability to conduct the new proceedings.  For him to preside once again would not violate the structural purposes that we have said the Appointments Clause serves, see Freytag, 501 U. S., at 878, nor would it, in any obvious way, violate the Due Process Clause.  
+
+															Regardless, this matter was not addressed below and has not been fully argued here.  I would, at a minimum, ask the Court of Appeals to examine it on remand rather than decide it here now.  That is especially so because the majority seems to state a general rule that a different “Officer” must always preside after an Appointments Clause violation.  In a case like this one, that is a relatively minor imposition, because the Commission has other administrative law judges.  But in other cases—say, a case adjudicated by an improperly appointed (but since reap- pointed) Commission itself—the “Officer” in question may be the only such “Officer,” so that no substitute will be available.  The majority suggests that in such cases, the “rule of necessity” may excuse compliance with its newfound different-“Officer” requirement.  Ante, at 12–13, n. 5.  But that still does not explain why the Constitution would require a hearing before a different “Officer” at all.
+
+															*  *  *
+
+															The Court’s decision to address the Appointments Clause question separately from the constitutional removal question is problematic.  By considering each question in isolation, the Court risks (should the Court later extend Free Enterprise Fund) unraveling, step-by-step, the foundations of the Federal Government’s administrative adjudication system as it has existed for decades, and perhaps of the merit-based civil-service system in general.  And the Court risks doing so without considering that potential consequence.  For these reasons, I concur in the judgment in part and, with respect, I dissent in part.
+													

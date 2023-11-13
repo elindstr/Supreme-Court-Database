@@ -1,0 +1,89 @@
+::SCDB_caseID:: 2007-057
+::decision_cite:: 554 U.S. 33 (2008)
+::decision_name::  Florida Dept. of Revenue v. Piccadilly Cafeterias, Inc.
+::decision_year:: 2008
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+
+BREYER, J., DISSENTING
+FLORIDA DEPT. OF REVENUE V. PICCADILLYCAFETERIAS, INC.
+554 U. S. ____ (2008)
+SUPREME COURT OF THE UNITED STATES
+NO. 07-312
+
+
+
+
+
+															FLORIDA DEPARTMENT OF REVENUE, PETITIONER
+v. PICCADILLY CAFETERIAS, INC.
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 16, 2008]
+
+
+
+															   Justice Breyer, with whom Justice Stevens joins, dissenting.
+
+															
+   The Bankruptcy Code provides that the “transfer” of an asset “under a plan confirmed under section 1129 of this title, may not be taxed under any law imposing a stamp tax or similar tax.” 11 U. S. C. §1146(a) (2000 ed., Supp V) (previously §1146(c)) (emphasis added).  In this case, the debtor’s reorganization “plan” provides for the “transfer” of assets.  But the “plan” itself was not “confirmed under section 1129 of this title” (i.e., the Bankruptcy Judge did not formally approve the plan) until after the “transfer” of assets took place.  See §1129 (2000 ed. and Supp. V) (detailing the requirements for bankruptcy court approval of a Chapter 11 plan).
+
+															
+
+   Hence we must ask whether the time of transfer matters.  Do the statutory words “under a plan confirmed under section 1129 of this title” apply only where a transfer takes place “under a plan” that at the time of the transfer already has been “confirmed under section 1129 of this title”?  Or, do they also apply where a transfer takes place “under a plan” that subsequently is “confirmed under section 1129 of this title”?  The Court concludes that the statutory phrase applies only where a transfer takes place “under a plan” that at the time of transfer already has been “confirmed under section 1129 of this title.”  In my view, however, the statutory phrase applies “under a plan” that at the time of transfer either already has been or subsequently is “confirmed.”  In a word, the majority believes that the time (pre- or post-transfer) at which the bankruptcy judge confirms the reorganization plan matters.  I believe that it does not.  (And construing the provision to refer to a plan that simply “is” confirmed would require us to read fewer words into the statute than the Court’s construction, which reads the provision to refer only to a plan “that has been” confirmed, ante, at 19.)  
+
+															
+
+   The statutory language itself is perfectly ambiguous on the point.  Linguistically speaking, it is no more difficult to apply the words “plan confirmed” to instances in which the “plan” subsequently is “confirmed” than to restrict their application to instances in which the “plan” already has been “confirmed.”  See In re Piccadilly Cafeterias, Inc., 484 F. 3d 1299, 1304 (CA11 2007) (per curiam) (“[T]he statute can plausibly be read either as describing eligible transfers to include transfers ‘under a plan confirmed’ regardless of when the plan is confirmed, or . . . imposing a temporal restriction on when the confirmation of the plan must occur” (emphasis in original)).  Cf. In re Hechinger Inv. Co. of Del., 335 F. 3d 243, 252–253 (CA3 2003) (majority opinion of Alito, J.) (noting more than one “plausible interpretation”); In re NVR, LP, 189 F. 3d 442, 458 (CA4 1999) (Wilkinson, J., concurring in part and concurring in judgment) (“equally possible that the provision requires only that the transfer occur ‘under’—i.e., that it be inferior or subordinate to—‘a plan’ that is ultimately ‘confirmed’ ”).  But cf. ante, at 7 (majority believes its reading is “clearly the more natural”).
+
+															
+
+   Nor can I find any text-based argument that points clearly in one direction rather than the other.  Indeed, the majority, after methodically combing the textualist beaches, finds that a comparison with other somewhat similar phrases in the Bankruptcy Code sheds little light.  For example, on the one hand, if Congress thought the time of confirmation mattered, why did it not say so expressly as it has done elsewhere in the Code?  See, e.g., 11 U. S. C. §1127(b) (plan proponent may modify it “at any time after confirmation” (emphasis added)); §1104(a) (“[a]t any time after the commencement of the case but before confirmation” (emphasis added)); §1104(c) (“at any time before the confirmation of a plan” (emphasis added)); §1114(e)(2) (“before a plan confirmed under section 1129 of this title is effective” (emphasis added)).  On the other hand, if Congress thought the time of confirmation did not matter, why did it place this provision in a subchapter entitled “POSTCONFIRMATION MATTERS”?  See 11 U. S. C., ch. 11, subch. III.  (And yet one could also argue that the tax exemption provision appears under the “postconfirmation matters” title because the trigger for the exemption is plan confirmation.  Thus, the exemption is a “postconfirmation matter,” regardless of when the transfer occurs.)  
+
+															
+
+   The canons of interpretation offer little help.  And the majority, for the most part, seems to agree.  It ultimately rests its interpretive conclusion upon this Court’s statement that courts “must proceed carefully when asked to recognize an exemption from state taxation that Congress has not clearly expressed.”  California State Bd. of Equalization v. Sierra Summit, Inc., 490 U. S. 844, 851–852 (1989) (internal quotation marks omitted).  See ante, at 17.  But when, as here, we interpret a provision the express point of which is to exempt some category of state taxation, how can the statement in Sierra Summit prove determinative?  See §1146(a) (“The issuance, transfer, or exchange of a security, or the making or delivery of an instrument of transfer under a plan confirmed under section 1129 of this title, may not be taxed under any law imposing a stamp tax or similar tax” (emphasis added)).
+
+															
+
+   Neither does Florida’s related claim, protesting federal interference in the administration of a State’s taxation scheme seem plausible.  See Brief for Petitioner 32–33 (noting the “additional difficulties and complexities that will proliferate” under the lower court’s decision).  If Florida now requires transferees to file a pre-existing confirmed plan in order to avoid payment of the stamp tax, then why could Florida not require a transferee under a not-yet-confirmed plan to pay the stamp tax and then file the plan after its confirmation in order to obtain a refund?  (If there is some other, less curable, practical problem, Florida has not explained what it is.)  Given these difficulties, I suspect that the majority’s reliance upon Sierra Summit’s “canon,” ante, at 14, reflects no more than an effort to find the proverbial “any port” in this interpretive storm.
+
+															
+
+   The absence of a clear answer in text or canons, however, should not lead us to judicial despair.  Consistent with Court precedent, we can and should ask a further question: Why would Congress have insisted upon temporal limits?  What reasonable purpose might such limits serve?  See, e.g., Dolan v. Postal Service, 546 U. S. 481, 486 (2006) (“Interpretation of a word or phrase depends upon reading the whole statutory text, considering the purpose and context of the statute, and consulting any precedents or authorities that inform the analysis” (emphasis added)); Robinson v. Shell Oil Co., 519 U. S. 337, 346 (1997) (the Court’s construction of a statute’s meaning based in part on its consideration of the statute’s “primary purpose” (emphasis added)).  In fact, the majority’s reading of temporal limits in §1146(a) serves no reasonable congressional purpose at all.
+
+															
+
+   The statute’s purpose is apparent on its face.  It seeks to further Chapter 11’s basic objectives: (1) “preserving going concerns” and (2) “maximizing property available to satisfy creditors.”  Bank of America Nat. Trust and Sav. Assn. v. 203 North LaSalle Street Partnership, 526 U. S. 434, 453 (1999).  See also Toibb v. Radloff, 501 U. S. 157, 163 (1991) (Chapter 11 “embodies the general [Bankruptcy] Code policy of maximizing the value of the bankruptcy estate”).  As an important bankruptcy treatise notes, “[i]n addition to tax relief, the purpose of the exemption of [§1146(a)] is to encourage and facilitate bankruptcy asset sales.”  8 Collier on Bankruptcy ¶1146.02, p. 1146–3 (15th ed. rev. 2005).  It furthers these objectives where, e.g., asset transfers are at issue, by turning over to the estate (for the use of creditors or to facilitate reorganization) funds that otherwise would go to pay state stamp taxes on plan-related transferred assets.  The requirement that the transfers take place pursuant to a reorganization “plan” that is “confirmed” provides the bankruptcy judge’s assurance that the transfer meets with creditor approval and the requirements laid out in §1129.
+
+															
+
+   How would the majority’s temporal limitation further these statutory objectives?  It would not do so in any way.  From the perspective of these purposes, it makes no difference whether a transfer takes place before or after the plan is confirmed.  In both instances the exemption puts in the hands of the creditors or the estate money that would otherwise go to the State in the form of a stamp tax.  In both instances the confirmation of the related plan assures the legitimacy (from bankruptcy law’s perspective) of the plan that provides for the assets transfer.
+
+															
+
+   Moreover, one major reason why a transfer may take place before rather than after a plan is confirmed is that the preconfirmation bankruptcy process takes time.  As the Administrative Office of the United States Courts recently reported, “[a] Chapter 11 case may continue for many years.”  Bankruptcy Basics (Apr. 2006), online at http://www.uscourts.gov/bankruptcycourts/bankruptcybasics/
+chapter11.html (as visited June 13, 2008, and available in Clerk of Court’s case file).  Accord, In re Hechinger Inv. Co. of Del., 254 B. R. 306, 320 (Bkrtcy. Ct. Del. 2000) (noting it may run “a year or two”).  And a firm (or its assets) may have more value (say, as a going concern) where sale takes place quickly.  As the District Court in this case acknowledged, “there are times when it is more advantageous for the debtor to begin to sell as many assets as quickly as possible in order to insure that the assets do not lose value.”  In re Piccadilly Cafeterias, Inc., 379 B. R. 215, 224 (SD Fla. 2006) (internal quotations marks and alteration omitted).  See, e.g., In re Webster Classic Auctions, Inc., 318 B. R. 216, 219 (Bkrtcy. Ct. MD Fla. 2004) (recognizing “the inestimable benefit to a Chapter 11 estate to sell a piece of property at the most opportune time—whether pre- or postconfirmation—as opposed to requiring all concerned to wait for a postconfirmation sale in order to receive the tax relief Congress obviously intended”); In re Medical Software Solutions, 286 B. R. 431, 441 (Bkrtcy. Ct. Utah 2002) (approving preconfirmation sale of debtor’s assets recognizing that the assets’ “value is reducing rapidly” and there was only a narrow window for a viable sale of the assets).  Thus, an immediate sale can often make more revenue available to creditors or for reorganization of the remaining assets.  Stamp taxes on related transfers simply reduce the funds available for any such legitimate purposes.  And insofar as the Court’s interpretation of the statute reduces the funds made available, that interpretation inhibits the statute’s efforts to achieve its basic objectives.
+
+															
+
+   Worse than that, if the potential loss of stamp tax revenue threatens delay in implementing any such decision to sell, then creditors (or the remaining reorganized enterprise) could suffer far more serious harm.  They could lose the extra revenues that a speedy sale might otherwise produce.  See, e.g., In re Met-L-Wood Corp., 861 F. 2d 1012, 1017 (CA7 1988) (as suppliers and customers “shy away,” it can make sense quickly to sell business to other owners so that it “can continue” to operate “free of the stigma and uncertainty of bankruptcy”).  In the present case, for example, Piccadilly, by selling assets quickly after strategic negotiation, realized $80 million, considerably more than the $54 million originally offered before Piccadilly filed for bankruptcy.  That fact, along with the Bankruptcy Court’s finding of “sound business reasons” for the prompt sale of Piccadilly’s assets and that the expeditious sale was “in the best interests of creditors of [Piccadilly] and other parties in interest,” App. 32a, suggest that considerably less would have been available for creditors had Piccadilly waited until after the plan’s confirmation to execute the sale plan.
+
+															
+
+   What conceivable reason could Congress have had for silently writing into the statute’s language a temporal distinction with such consequences?  The majority can find none.  It simply says that the result is not “ ‘absurd’ ” and notes the advantages of a “bright-line rule.”  Ante, at 18.  I agree that the majority’s interpretation is not absurd and do not dispute the advantages of a clear rule.  But I think the statute supplies a clear enough rule—transfers are exempt when there is confirmation and are not exempt when there is no confirmation.  And I see no reason to adopt the majority’s preferred construction (that only transfers completed after plan confirmation are exempt), where it conflicts with the statute’s purpose.
+
+															
+
+   Of course, we should not substitute “ ‘ “our view of … policy” ’ ” for the statute that Congress enacted.  Ante, at 18 (emphasis added).  But we certainly should consider Congress’ view of the policy for the statute it created, and that view inheres in the statute’s purpose.  “Statutory interpretation is not a game of blind man’s bluff.  Judges are free to consider statutory language in light of a statute’s basic purposes.”  Dole Food Co. v. Patrickson, 538 U. S. 468, 484 (2003) (Breyer, J., concurring in part and dissenting in part).  It is the majority’s failure to work with this important tool of statutory interpretation that has led it to construe the present statute in a way that, in my view, runs contrary to what Congress would have hoped for and expected.
+
+															
+
+   For these reasons, I respectfully dissent.
+
+
+
+													

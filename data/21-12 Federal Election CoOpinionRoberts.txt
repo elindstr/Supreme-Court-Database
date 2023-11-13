@@ -1,0 +1,261 @@
+::SCDB_caseID:: 2021-040
+::decision_cite:: 21-12
+::decision_name::  Federal Election Commission v. Cruz
+::decision_year:: 2022
+::opinion_author:: Roberts
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–12
+
+															_________________
+
+															FEDERAL ELECTION COMMISSION, APPELLANT v. TED CRUZ FOR SENATE, et al.
+
+															on appeal from the united states district court for the district of columbia
+
+															[May 16, 2022]
+
+															
+
+															Chief Justice Roberts delivered the opinion of the Court.
+
+															In order to jumpstart a fledgling campaign or finish strong in a tight race, candidates for federal office often loan money to their campaign committees.  A provision of federal law regulates the repayment of such loans.  Among other things, it bars campaigns from using more than $250,000 of funds raised after election day to repay a candidate’s personal loans.  This limit on the use of post-election funds increases the risk that candidate loans over $250,000 will not be repaid in full, inhibiting candidates from making such loans in the first place.  The question is whether this restriction violates the
+ 
+First Amendment rights of candidates and their campaigns to engage in political speech.
+
+															I
+
+															A
+
+															Candidates for federal office may, consistent with federal law, use various sources to fund their campaigns.  A candidate may spend an unlimited amount of his own money in support of his campaign.  See Buckley v. Valeo,
+
+424 U.S. 1, 52–54 (1976) (per curiam).  His campaign—a legal entity distinct from the candidate himself—may borrow an unlimited amount from third-party lenders or from the candidate himself.  See 11 CFR §110.10 (2017);
+
+52 U. S. C. §30101(9)(A)(i); see also Buckley, 424 U. S., at 52–54.  And campaigns may, of course, accept contributions directly from other organizations or from individuals, subject to monetary limitations.  Individual contributions are capped at $2,900 for the primary and $2,900 for the general election.  See §§30116(a), (c); 86 Fed. Reg. 7869 (2021).  Campaigns may continue to receive contributions after election day, so long as those contributions go toward repaying campaign debts.  See 11 CFR §110.1(b)(3)(i).
+
+															Section 304 of the Bipartisan Campaign Reform Act of 2002 (BCRA),
+
+116Stat.
+98,
+
+52 U. S. C. §30116(j), further restricts the use of post-election funds.  Under that provision, a candidate who loans money to his campaign may not be repaid more than $250,000 of such loans from contributions made to the campaign after the date of the election.  Ibid.  To implement that limit, the Federal Election Commission (FEC) has promulgated regulations establishing three rules pertinent here: First, a campaign may repay up to $250,000 in candidate loans using contributions made “at any time before, on, or after the date of the election.”  11 CFR §116.12(a).  Second, to the extent the loans exceed $250,000, a campaign may use pre-election funds to repay the portion exceeding $250,000 only if the repayment occurs “within 20 days of the election.”  §116.11(c)(1).  And third, if more than $250,000 remains unpaid when the 20-day post-election deadline expires, the campaign must treat the portion above $250,000 as a contribution to the campaign, precluding later repayment.  §116.11(c)(2).
+
+															B
+
+															Appellee Ted Cruz represents Texas in the United States Senate.  This case arises from his 2018 reelection campaign, which was, at the time, the most expensive Senate race in history.  Before election day, Cruz loaned $260,000 to the other appellee here, Ted Cruz for Senate (Committee).  At the end of election day, however, the Committee was in the red by approximately $340,000.  App. 285.  It eventually began repaying Cruz’s loans, but by that time the 20-day post-election window for repaying amounts over $250,000 had closed.  See 11 CFR §§116.11(c)(1), (2).  The Committee accordingly repaid Cruz only $250,000, leaving $10,000 of his personal loans unpaid.
+
+															Cruz and the Committee filed this action in the United States District Court for the District of Columbia, alleging that Section 304 of BCRA violates the
+ 
+First Amendment.  They also raised challenges to the FEC’s implementing regulation, 11 CFR §116.11.  A three-judge panel was convened to hear the case.  See BCRA §403(a)(1),
+
+116Stat.
+113; see also
+
+28 U. S. C. §2284.
+
+															The three-judge District Court granted Cruz and his Committee summary judgment on their constitutional claim, holding that the loan-repayment limitation burdens political speech without sufficient justification.  542 F. Supp. 3d 1 (2021).  The District Court also ordered that appellees’ challenges to the regulation, previously held in abeyance, be dismissed as moot.  The Government appealed directly to this Court, as authorized by
+
+28 U. S. C. §1253.  We postponed consideration of our jurisdiction.  594 U. S. ___ (2021).
+
+															II
+
+															The Constitution limits federal courts to deciding “Cases” and “Controversies.”  Art. III, §2.  Among other things, that limitation requires a plaintiff to have standing.  The requisite elements of Article III standing are well established: A plaintiff must show (1) an injury in fact, (2) fairly traceable to the challenged conduct of the defendant, (3) that is likely to be redressed by the requested relief.  Lujan v. Defenders of Wildlife,
+
+504 U.S. 555, 560–561 (1992).
+
+															As the Government recognizes, the Committee’s present inability to repay the final $10,000 of Cruz’s loans constitutes an injury in fact both to Cruz and to his Committee.  See Reply Brief 8.  Cruz, of course, suffers a $10,000 pocketbook harm.  See Czyzewski v. Jevic Holding Corp.,
+
+580 U.S. 451, 464 (2017).  And the bar on repayment injures the Committee by preventing it from discharging its obligation to repay its debt, which may inhibit that form of financing in the future.  The Government maintains, however, that these injuries are not traceable to the threatened enforcement of Section 304, for two reasons: first, because the inability to repay Cruz’s loans was “self-inflicted,” and second, because it is the threatened enforcement of an agency regulation, not the statute itself, that causes the harm.  We address each argument in turn.
+
+															A
+
+															First, the Government argues that appellees lack standing because their injuries were “self-inflicted.”  Brief for Appellant 20.  Because appellees knowingly triggered the application of the loan-repayment limitation, the Government says, any resulting injury is in essence traceable to them, not the Government.  The predicate for this argument is appellees’ stipulation in the District Court that “the sole and exclusive motivation behind Senator Cruz’s actions in making the 2018 loan[s] and the [C]ommittee’s actions in waiting to repay them was to establish the factual basis for this challenge.”  App. 325.  At bottom, the Government asks us to recognize an exception to traceability for injuries that a party purposely incurs.
+
+															We have never recognized a rule of this kind under Article III.  To the contrary, we have made clear that an injury resulting from the application or threatened application of an unlawful enactment remains fairly traceable to such application, even if the injury could be described in some sense as willingly incurred.  See Evers v. Dwyer,
+
+358 U.S. 202, 204 (1958) (per curiam) (that the plaintiff subjected himself to discrimination “for the purpose of instituting th[e] litigation” did not defeat his standing); Havens Realty Corp. v. Coleman,
+
+455 U.S. 363, 374 (1982) (a “tester” plaintiff posing as a renter for purposes of housing-discrimination litigation still suffered an injury under Article III).
+
+															The cases the Government cites do not alter our conclusion.  In Clapper v. Amnesty Int’l USA,
+
+568 U.S. 398 (2013), for example, the plaintiffs attempted to manufacture standing by voluntarily taking costly and burdensome measures that they said were necessary to protect the confidentiality of their communications in light of the Government surveillance policy they sought to challenge.  Id., at 402.  Their problem, however, was that they could not show that they had been or were likely to be subjected to that policy in any event.  Id., at 416.  Likewise, in Pennsylvania v. New Jersey,
+
+426 U.S. 660 (1976) (per curiam), we held that the unilateral decisions by a group of States to reimburse their residents for taxes levied by other States was not a basis to attack the legality of those taxes.  Nothing in the challenged taxes required the plaintiff States to offer reimbursements; accordingly, the financial injury those States suffered was due to their own independent response to taxes levied on others.  Id., at 664.  Here, by contrast, the appellees’ injuries are directly inflicted by the FEC’s threatened enforcement of the provisions they now challenge.  That appellees chose to subject themselves to those provisions does not change the fact that they are subject to them, and will face genuine legal penalties if they do not comply.  See
+
+52 U. S. C. §30109(a)(5); 11 CFR §111.24.
+
+															One final point bears mentioning.  The Government maintains that it should not be blamed for appellees’ injuries because it provided the Committee with a legally available “alternative” that would have avoided any liability—repaying Cruz’s loans in full with pre-election funds, within 20 days of the election.  But even if such funds were available, the Government’s argument largely misses the point.  For standing purposes, we accept as valid the merits of appellees’ legal claims, so we must assume that the loan- repayment limitation—including the 20-day rule—unconstitutionally burdens speech.  See Warth v. Seldin,
+
+422 U.S. 490, 500 (1975) (“standing in no way depends on the merits of the plaintiff ’s contention that particular conduct is illegal”).  Demanding that the Committee comply with the Government’s “alternative” would therefore require it to forgo the exercise of a
+ 
+First Amendment right we must assume it has—the right to repay its campaign debts in full, at any time.  And this would require the Committee to subject itself to the very framework it says unconstitutionally burdens its speech.  Such a principle finds no support in our standing jurisprudence.  See, e.g., Susan B. Anthony List v. Driehaus,
+
+573 U.S. 149, 158–159 (2014).
+
+															B
+
+															The Government next asserts that although appellees would have standing to challenge the FEC’s implementing regulation, 11 CFR §116.11, they do not have standing to challenge Section 304 itself.  As a reminder, Section 304 prohibits the use of post-election funds to repay a candidate’s personal loans; it does not restrict the use of funds raised before the election.  See
+
+52 U. S. C. §30116(j).  That restriction comes instead from Section 304’s implementing regulation, 11 CFR §116.11.  This regulation provides that neither pre-election nor post-election funds may be used to repay candidate loans above $250,000 outstanding 20 days after the election.  §§116.11(c)(1)–(2).  Such amounts must instead be treated as contributions to the campaign, barring their repayment.
+
+															Bearing that in mind, the Government contends that the record before the District Court reveals that the Committee used funds raised before the election to repay the first $250,000 of Cruz’s loans.  For support, it naturally points to appellees’ stipulation that “none of the $250,000 of the loan that was repaid was from contributions raised after the election.”  App. 329.  Thus, the Government says, the Committee has not yet reached the cap in Section 304 on the use of post-election funds, and can still repay the remaining balance without running afoul of that statutory restriction.  It is instead the agency’s regulation—with its 20-day limit—that prevents repayment of the final $10,000.  This matters, the Government insists, because “[s]tanding is not dispensed in gross,” and plaintiffs must establish standing separately for each claim that they press and each form of relief that they seek.  Brief for Appellant 17 (quoting TransUnion LLC v. Ramirez, 594 U. S. ___, ___ (2021) (slip op., at 15)).  A challenge to the regulation, the Government argues, is separate from a challenge to the statute that authorized it.
+
+															For their part, appellees insist that the record, properly interpreted, shows that the Committee used post-election funds to repay Cruz.  During the period between election day and when the Committee repaid Cruz’s loans, the Committee received more than $250,000 in “redesignated” contributions to Cruz’s 2024 campaign.  Those contributions came from individuals who donated to the 2018 election in amounts exceeding their base limit and who, subsequent to the election, redesignated the overlimit amount to the 2024 campaign.  See 11 CFR §110.1(b)(5).  Such funds, appellees say, qualify as “post-election contributions” for purposes of Section 304, and may have been used to repay the first $250,000 of Cruz’s loans.  See §116.12(a).
+
+															These arguments have an Alice in Wonderland air about them, with the Government arguing that appellees would not violate the statute by repaying Cruz, and the appellees arguing that they would.  But this case has unfolded in an unusual way.  After all, Cruz and the Committee likely would have had standing to bring a pre-enforcement challenge (as they do now) to Section 304 in a much easier manner—by simply alleging and credibly demonstrating that Cruz wished to loan his campaign an amount larger than $250,000, but would not do so only because the loan- repayment limitation made it unlikely that such amount would be repaid.  See Susan B. Anthony List, 573 U. S., at 158–159.  In addition, it ordinarily would not matter whether a plaintiff was challenging the statute’s enforcement or instead the enforcement of a regulation and, in doing so, raising arguments about the validity of the statute that authorized the regulation.  Cf. Collins v. Yellen, 594 U. S. ___, ___–___ (2021) (slip op., at 18–19).  The parties here, however, assume that the distinction makes a difference because the subject-matter jurisdiction of the three-judge District Court is limited to actions challenging the enforcement of the statute.  See BCRA §403(a) (authorizing a three-judge court to hear any “action . . . brought for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act or any amendment made by this Act”).
+
+															It seems to us that the Government is likely correct that appellees have not shown that they exhausted Section 304’s cap on the use of post-election funds.  The loan-repayment limitation applies to contributions “made” after the date of the election.
+
+52 U. S. C. §30116(j).  And a contribution is “considered to be made when the contributor relinquishes control” over it, which occurs when the contribution is “delivered” to the Committee or the candidate.  11 CFR §110.1(b)(6).  The redesignated contributions on which appellees now rely, however, involve funds that were delivered to the Committee before the 2018 election.  And those funds have remained under the Committee’s control from that date, even if they were later redesignated to a different campaign.
+
+															But we need not go further down this rabbit hole.  Even under the Government’s account, appellees have standing to challenge the threatened enforcement of Section 304.  The present inability of the Committee to repay and Cruz to recover the final $10,000 Cruz loaned his campaign is, even if brought about by the agency’s threatened enforcement of its regulation, traceable to the operation of Section 304 itself.  An agency, after all, “literally has no power to act”—including under its regulations—unless and until Congress authorizes it to do so by statute.  Louisiana Pub. Serv. Comm’n v. FCC,
+
+476 U.S. 355, 374 (1986); see also FDA v. Brown & Williamson Tobacco Corp.,
+
+529 U.S. 120, 161 (2000).  An agency’s regulation cannot “operate independently of ” the statute that authorized it.  California v. Texas, 593 U. S. ___, ___ (2021) (slip op., at 15).  And here, the FEC’s 20-day rule was expressly promulgated to implement Section 304.  See 68 Fed. Reg. 3973 (2003).  Indeed, the Government admitted at oral argument that it could find no other basis to authorize enforcement of this regulation, Tr. of Oral Arg. 5, and “concede[d]” that “the most likely result, if the statute were declared invalid, is that the regulation would cease to be on the books or would cease to be enforceable,” ibid.  Thus, if Section 304 is invalid and unenforceable—as Cruz and the Committee contend—the agency’s 20-day rule is as well.  And the remedy appellees sought in the District Court—an order enjoining the Government from taking any action to enforce the loan- repayment limitation, App. 27—would redress appellees’ harm by preventing enforcement of the agency’s 20-day rule.  See Lujan, 504 U. S., at 561.
+
+															Contrary to the Government’s suggestion, the foregoing analysis does not call into question the principle that “a plaintiff injured by one law does not thereby acquire standing to challenge a different law.”  Brief for Appellant 17.  It is true that a litigant cannot, “by virtue of his standing to challenge one government action, challenge other governmental actions that did not injure him.”  DaimlerChrysler Corp. v. Cuno,
+
+547 U.S. 332, 353, n. 5 (2006).  Here, however, appellees seek to challenge the one Government action that causes their harm: the FEC’s threatened enforcement of the loan-repayment limitation, through its implementing regulation.  In doing so, they may raise constitutional claims against Section 304, the statutory provision that, through the agency’s regulation, is being enforced.  Cf. Collins, 594 U. S., at ___–___ (slip op., at 18–19).  Even on the Government’s version of the facts, then, we are satisfied that appellees have standing to challenge the threatened enforcement of Section 304.  And because they are challenging “the constitutionality of [a] provision of [BCRA],” §403(a), jurisdiction was proper in the three-judge District Court.  We thus proceed to the merits.
+
+															III
+
+															A
+
+															The
+ 
+First Amendment “has its fullest and most urgent application precisely to the conduct of campaigns for political office.”  Monitor Patriot Co. v. Roy,
+
+401 U.S. 265, 272 (1971).  It safeguards the ability of a candidate to use personal funds to finance campaign speech, protecting his freedom “to speak without legislative limit on behalf of his own candidacy.”  Buckley, 424 U. S., at 54.  This broad protection, we have explained, “reflects our profound national commitment to the principle that debate on public issues should be uninhibited, robust, and wide-open.”  Id., at 14 (internal quotation marks omitted).
+
+															The Government seems to agree with appellees that the loan-repayment limitation abridges
+ 
+First Amendment rights, at least to some extent, see Brief for Appellant 27–32, and we reach the same conclusion.  This provision, by design and effect, burdens candidates who wish to make expenditures on behalf of their own candidacy through personal loans.  See
+
+52 U. S. C. §30101(9)(A)(i) (defining “expenditure” to include loans); see also Buckley, 424 U. S., at 52.  By restricting the sources of funds that campaigns may use to repay candidate loans, Section 304 increases the risk that such loans will not be repaid.  That in turn inhibits candidates from loaning money to their campaigns in the first place, burdening core speech.
+
+															The data bear out the deterrent effect of Section 304.  After BCRA was passed, there appeared a “clear clustering of [candidate] loans right at the $250,000 threshold.”  A. Ovtchinnikov & P. Valta, Debt in Political Campaigns 26 (2020), Record 65–1 (Ovtchinnikov, Debt); see also Brief for United States Senator Roy Blunt et al. as Amici Curiae 6–7.  There was no such clustering before the loan-repayment limitation went into effect.  The Government’s evidence in the District Court, moreover, reflects that the percentage of loans by Senate candidates for exactly $250,000 has increased tenfold since BCRA was passed.  See App. 312–313.  Section 304, then, has altered “the propensity of many politicians to make large loans.”  Ovtchinnikov, Debt 26; see also Brief for Protect the First Foundation as Amicus Curiae 10–11.  In doing so, it has predictably restricted a candidate’s speech on behalf of his own candidacy.  See Buckley, 424 U. S., at 54.
+
+															Quite apart from this record evidence, the burden on
+ 
+First Amendment expression is “evident and inherent” in the choice that candidates and their campaigns must confront.  Arizona Free Enterprise Club’s Freedom Club PAC v. Bennett,
+
+564 U.S. 721, 745 (2011); see also id., at 746 (“we do not need empirical evidence to determinate that the law at issue is burdensome”); Davis v. Federal Election Comm’n,
+
+554 U.S. 724, 738–740 (2008) (requiring no empirical evidence of a burden).  Although Section 304 “does not impose a cap on a candidate’s expenditure of personal funds, it imposes an unprecedented penalty on any candidate who robustly exercises that
+ 
+First Amendment right.”  Id., at 738–739.  That penalty, of course, is the significant risk that a candidate will not be repaid if he chooses to loan his campaign more than $250,000.  And that risk in turn may deter some candidates from loaning money to their campaigns when they otherwise would, reducing the amount of political speech.  This “drag” on a candidate’s
+ 
+First Amendment right to use his own money to facilitate political speech is no less burdensome “simply because it attaches as a consequence of a statutorily imposed choice.”  Id., at 739.
+
+															The “drag,” moreover, is no small matter.  Debt is a ubiquitous tool for financing electoral campaigns.  The raw dollar amount of loans made to campaigns in any one election cycle is in the nine figures, “significantly exceeding” the amount of independent expenditures.  Ovtchinnikov, Debt 11.  And personal loans from candidates themselves constitute the bulk of this financing.  See Brief for Appellant 35 (“more than 90% of campaign debt consists of candidate loans”).  In fact, candidates who self-fund usually do so using personal loans.  See J. Steen, Self-Financed Candidates in Congressional Elections 21 (2006).
+
+															The ability to lend money to a campaign is especially important for new candidates and challengers.  As a practical matter, personal loans will sometimes be the only way for an unknown challenger with limited connections to front-load campaign spending.  See G. Jacobson, Money in Congressional Elections 97–101 (1980).  And early spending—and thus early expression—is critical to a newcomer’s success.  See Steen, Self-Financed Candidates in Congressional Elections, at 35, 171.  A large personal loan also may be a useful tool to signal that the political outsider is confident enough in his campaign to have skin in the game, attracting the attention of donors and voters alike.  See R. Biersack, P. Herrnson, C. Wilcox, Seeds for Success: Early Money in Congressional Elections, 18 Leg. Studies Q. 535, 537 (1993); see also Brief for United States Senator Roy Blunt et al. as Amici Curiae 13.  By inhibiting a candidate from using this critical source of campaign funding, however, Section 304 raises a barrier to entry—thus abridging political speech.
+
+															The dissent cannot and does not claim that Section 304 imposes no burden on candidate speech.  See post, at 5 (opinion of Kagan, J.) (“every contribution regulation has some kind of indirect effect on electoral speech”).  The dissent instead dismisses that burden as minor and insignificant.  Post, at 4–6.  As just explained, the extent of the burden may vary depending on the circumstances of a particular candidate and particular election.  But there is no doubt that the law does burden
+ 
+First Amendment electoral speech, and any such law must at least be justified by a permissible interest.  See McCutcheon v. Federal Election Comm’n,
+
+572 U.S. 185, 210 (2014) (plurality opinion) (“When the Government restricts speech, the Government bears the burden of proving the constitutionality of its actions.”).
+
+															B
+
+															With those
+ 
+First Amendment costs in mind, we turn to whether the loan-repayment limitation is justified.  The parties debate whether strict or “closely drawn” scrutiny should apply in answering that question.  Buckley, 424 U. S., at 25.  We need not resolve this dispute because, under either standard, the Government must prove at the outset that it is in fact pursuing a legitimate objective.  See McCutcheon, 572 U. S., at 210.  It has not done so here.
+
+															1
+
+															This Court has recognized only one permissible ground for restricting political speech: the prevention of “quid pro quo” corruption or its appearance.  See id., at 207; see also Federal Election Comm’n v. National Conservative Political Action Comm.,
+
+470 U.S. 480, 497 (1985).  We have consistently rejected attempts to restrict campaign speech based on other legislative aims.  For example, we have denied attempts to reduce the amount of money in politics, see McCutcheon, 572 U. S., at 191, to level electoral opportunities by equalizing candidate resources, see Bennett, 564 U. S., at 749–750, and to limit the general influence a contributor may have over an elected official, see Citizens United v. Federal Election Comm’n,
+
+558 U.S. 310, 359–360 (2010).  However well intentioned such proposals may be, the
+ 
+First Amendment—as this Court has repeatedly emphasized—prohibits such attempts to tamper with the “right of citizens to choose who shall govern them.”  McCutcheon, 572 U. S., at 227; see also Davis, 554 U. S., at 742; Bennett, 564 U. S., at 750.
+
+															The Government argues that the contributions at issue raise a heightened risk of corruption because of the use to which they are put: repaying a candidate’s personal loans.  It also maintains that post-election contributions are particularly troubling because the contributor will know—not merely hope—that the recipient, having prevailed, will be in a position to do him some good.
+
+															We greet the assertion of an anticorruption interest here with a measure of skepticism, for the loan-repayment limitation is yet another in a long line of “prophylaxis-upon-prophylaxis approach[es]” to regulating campaign finance.  McCutcheon, 572 U. S., at 221 (quoting Federal Election Comm’n v. Wisconsin Right to Life, Inc.,
+
+551 U.S. 449, 479 (2007) (opinion of Roberts, C. J.)).  Individual contributions to candidates for federal office, including those made after the candidate has won the election, are already regulated in order to prevent corruption or its appearance.  Such contributions are capped at $2,900 per election, see 86 Fed. Reg. 7869, and nontrivial contributions must be publicly disclosed, see 52 U. S. C. §§30104(b)(3)(A), (c)(1).  The dissent’s dire predictions about the impact of today’s decision elide the fact that the contributions at issue remain subject to these requirements.  See post, at 3, 14–15.  And the requirements are themselves prophylactic measures, given that “few if any contributions to candidates will involve quid pro quo arrangements.”  Citizens United, 558 U. S., at 357.  Such a prophylaxis-upon-prophylaxis approach, we have explained, is a significant indicator that the regulation may not be necessary for the interest it seeks to protect.  See McCutcheon, 572 U. S., at 221; see also Bennett, 564 U. S., at 752 (“In the face of [the State’s] contribution limits [and] strict disclosure requirements . . . it is hard to imagine what marginal corruption deterrence could be generated by [an additional measure].”).
+
+															There is no cause for a different conclusion here.  Because the Government is defending a restriction on speech as necessary to prevent an anticipated harm, it must do more than “simply posit the existence of the disease sought to be cured.”  Colorado Republican Federal Campaign Comm. v. Federal Election Comm’n,
+
+518 U.S. 604, 618 (1996).  It must instead point to “record evidence or legislative findings” demonstrating the need to address a special problem.  Ibid.  We have “never accepted mere conjecture as adequate to carry a
+ 
+First Amendment burden.”  McCutcheon, 572 U. S., at 210 (quoting Nixon v. Shrink Missouri Government PAC,
+
+528 U.S. 377, 392 (2000)).
+
+															Yet the Government is unable to identify a single case of quid pro quo corruption in this context—even though most States do not impose a limit on the use of post-election contributions to repay candidate loans.  Cf. Brief for Campaign Legal Center et al. as Amici Curiae 17–18 (citing the 10 States that do impose such a prohibition).  Our previous cases have found the absence of such evidence significant.  See Citizens United, 558 U. S., at 357 (the Government did not claim that the political process was corrupted in the 26 States that allowed unrestricted independent expenditures by corporations); McCutcheon, 572 U. S., at 209, n. 7 (the Government presented no evidence of corruption in the 30 States that did not impose aggregate limits on individual contributions).
+
+															The Government instead puts forward a handful of media reports and anecdotes that it says illustrate the special risks associated with repaying candidate loans after an election.  But as the District Court found, those reports “merely hypothesize that individuals who contribute after the election to help retire a candidate’s debt might have greater influence with or access to the candidate.”  542 F. Supp. 3d, at 15.  That is not the type of quid pro quo corruption the Government may target consistent with the
+ 
+First Amendment.  See McCutcheon, 572 U. S., at 207–208.  
+
+															The dissent at points shrugs off this distinction, see post, at 2, 12, n. 3, 13, but our cases make clear that “the Government may not seek to limit the appearance of mere influence or access.”  McCutcheon, 572 U. S., at 208.  As we have explained, influence and access “embody a central feature of democracy—that constituents support candidates who share their beliefs and interests, and candidates who are elected can be expected to be responsive to those concerns.”  Id., at 192.  
+
+															To be sure, the “line between quid pro quo corruption and general influence may seem vague at times, but the distinction must be respected in order to safeguard basic
+ 
+First Amendment rights.”  Id., at 209.  And in drawing that line, “the
+ 
+First Amendment requires us to err on the side of protecting political speech rather than suppressing it.”  Ibid. (quoting Wisconsin Right to Life, 551 U. S., at 457 (opinion of Roberts, C. J.)).
+
+															2
+
+															In the absence of direct evidence, the Government turns elsewhere.  It contends that a scholarly article, a poll, and statements by Members of Congress show that these contributions carry a heightened risk of at least the appearance of corruption.  Essentially all the Government’s evidence, however, concerns the sort of “corruption,” loosely conceived, that we have repeatedly explained is not legitimately regulated under the
+ 
+First Amendment.
+
+															The academic article—cited for various propositions by both sides—concludes that “indebted politicians” are “more likely to switch their votes” if they receive contributions from the banking or insurance industries.  Ovtchinnikov, Debt 31.  But the authors explicitly note that they cannot distinguish between voting pattern changes traceable to legitimate donor influence or access, and voting pattern changes as part of an illicit quid pro quo.  See A. Ovtchinnikov & P. Valta, Self-Funding of Political Campaigns, Management Science, Articles in Advance 18 (April 7, 2022) (Ovtchinnikov, Self-Funding).  As noted, our precedents demand adherence to that distinction.  See, e.g., McCutcheon, 572 U. S., at 209.  The authors also state that their analysis is merely a “first step” in understanding whether politicians’ self-funding decisions impact voting behavior, because they cannot “pin down a causal link” yet.  Ovtchinnikov, Self-Funding 21.
+
+															The online poll the Government asks us to consider similarly misses the mark.  The poll, conducted at the Government’s behest for this litigation, reports that most respondents thought it “very likely” or “likely” that a person who “donate[s] money to a candidate’s campaign after the election expect[s] a political favor in return.”  App. 351–352.  But it failed to ask whether those same respondents thought it likely that donors who contribute to a campaign before the election also are likely to expect political favors in return.  Nor did the poll mention that the individual base limits still apply to such contributions.  And it failed to define the term “political favor,” leaving unclear the critical issue whether the respondents associated such contributions with the direct exchange of money for official acts, which Congress may regulate, or simply increased influence and access, which Congress may not.
+
+															Finally, the Government places great weight on statements made by certain Members of Congress during debates that preceded the enactment of BCRA.  One Senator, for example, remarked that without the loan-repayment limitation, a winning candidate who loaned money to his campaign could “get it back from [his] constituents [at] fundraising events” where he could ask, “How would you like me to vote now that I am a Senator?”  147 Cong. Rec. S2462 (March 19, 2001) (remarks of Sen. Domenici).  Another stated that candidates “have a constitutional right to try to buy the office, but they do not have a constitutional right to resell it.”  147 Cong. Rec. S2541 (March 20, 2001) (remarks of Sen. Hutchison).  Nothing these legislators said, however, constitutes actual evidence that the loan-repayment limitation was necessary to prevent quid pro quo corruption or its appearance.  And a few stray floor statements are not the same as “legislative findings” that might suggest a special problem to be addressed.  Colorado Republican Federal Campaign Comm., 518 U. S., at 618.
+
+															All the above is pretty meager, given that we are considering restrictions on “the most fundamental
+ 
+First Amendment activities”—the right of candidates for political office to make their case to the American people.  Buckley, 434 U. S., at 14.  In any event, the legislative record helps appellees just as much as the Government, given that some Senators evidently viewed the limit as designed to protect incumbents like themselves from wealthy challengers.  See 147 Cong. Rec. S2465 (March 19, 2001) (remarks of Sen. Sessions) (“[Section 304] prohibits wealthy candidates, who incur personal loans in connection with their campaign that exceed $250,000, from repaying those loans from any contributions made to the candidate. . . .  I am glad I didn’t face a person who could write a check for $60 million, $10 million—or $5 million, for that matter.  If so, I would like to be able to have a level playing field so I could stay in the ball game.”); see also 147 Cong. Rec. S2541 (March 20, 2001) (remarks of Sen. Hutchison) (“Our purpose is to level the playing field.”).
+
+															That the limit may have been designed to protect incumbents should come as no surprise.  Section 304 was enacted as part of the “Millionaire’s Amendment” to BCRA, designed to hobble wealthy candidates mounting self-financed campaigns.  See Davis, 554 U. S., at 739.  And it was debated together with another provision we have already held unconstitutional, in part because it pursued the same impermissible goal of “level[ing] electoral opportunities for candidates of different personal wealth.”  Id., at 741.  The connection between these two provisions casts further doubt on the anticorruption interest the Government now asserts in this case.
+
+															3
+
+															Perhaps to make up for its evidentiary shortcomings, the Government falls back on what it calls a “common sense” analogy: Post-election contributions used to repay a candidate’s loans are akin to a “gift” because they “add to the candidate’s personal wealth” as opposed to the campaign’s treasury.  Brief for Appellant 33.  The risk of corruption is thus greater, the Government argues, because the donor is lining the pockets of a legislator or legislator-elect.
+
+															The dissent at multiple points makes the same argument, contending that contributions that go toward repaying a candidate’s loan “enrich the candidate personally,” allowing him to “buy a car or make tuition payments or join a country club.”  Post, at 7, 14; see also post, at 2, 3, 8, 13.  But this forgets that we are talking about repayment of a loan, not a gift.  If the candidate did not have the money to buy a car before he made a loan to his campaign, repayment of the loan would not change that in any way.  
+
+															On top of that, contributions that go toward retiring a candidate’s debt could only arguably enrich the candidate if the candidate does not otherwise expect to be repaid.  In other words, the Government’s gift comparison is meaningful only if the baseline is that the campaign will default.  The Government, however, provides no reason to believe that most or even many winning candidates—the only candidates with whom its anticorruption interest is concerned—expect not to be repaid by their campaigns.  To the contrary, the Government has recognized throughout this litigation that winning candidates are commonly repaid in full.  See App. 31–32 (citing the former FEC Commissioner’s statement that “only winners have an easy time dealing with debt”); id., at 317 (same); see also Ovtchinnikov, Self-Funding 11 (concluding that, even with BCRA’s limitations on loan repayment in place, two out of three winning campaigns were able to repay a candidate’s loans in full).  For such a candidate, then, post-election contributions bear little resemblance to a gift, because there is less of a chance that his campaign will default.  Such contributions instead restore the candidate to the status quo ante, a position to which he legitimately expected to return.  As for losing candidates, they are of course in no position to grant official favors, and the Government does not provide any anticorruption rationale to explain why post-election contributions to those candidates should be restricted.  See Brief for Appellant 45–46.
+
+															The analogy also proves too much.  By the Government’s logic, post-election contributions to retire candidate loans are little different from gifts given directly to the candidate.  But that logic is belied by how the Government treats the two categories of purported “gifts.”  On the one hand, federal law flatly prohibits candidates from using campaign contributions for personal purposes.  See
+
+52 U. S. C. §30114(b)(2).  And it forbids Senators from accepting gifts worth $250 or more.  See
+
+2 U. S. C. §4725(a)(1).  By contrast, the postulated “gift-by-loan-repayment” limits are simply the individual contribution limits, which are now more than ten times higher than the gift limit: $2,900 per election.  And Section 304 allows over 86 such “gifts” before a campaign hits the Act’s $250,000 cap.  Either the Government is openly tolerating a significant number of “gifts” far more generous than what it would normally think fit to allow, or post-election contributions that go toward retiring campaign debt are in no real sense “gifts” to a candidate.  We find the latter answer more persuasive.
+
+															As a final argument, the Government claims that if the matter is otherwise in doubt, we should defer to Congress’s “legislative judgment” that Section 304 furthers an anticorruption goal.  Brief for Appellant 39; see also post, at 8 (Kagan, J., dissenting) (also arguing that we have no “reason to second-guess Congress’s experience-based judgment”).  Such deference, the Government contends, is grounded “in part on the understanding that Congress ‘is far better equipped than the judiciary to amass and evaluate the vast amounts of data bearing upon legislative questions.’ ”  Brief for Appellant 40 (quoting Turner Broadcasting System, Inc. v. FCC,
+
+520 U.S. 180, 195 (1997) (some internal quotation marks omitted)).  But as explained, the evidence here is scant, and Congress’s judgment is hardly based on “vast amounts of data.”  Id., at 195.  Moreover, deference to Congress would be especially inappropriate where, as here, the legislative act may have been an effort to “insulate[ ] legislators from effective electoral challenge.”  Shrink Missouri Government PAC, 528 U. S., at 404 (Breyer, J., concurring); see also Randall v. Sorrell,
+
+548 U.S. 230, 248–249 (2006) (plurality opinion).
+
+															In the end, it remains our role to decide whether a particular legislative choice is constitutional.  See Sable Communications of Cal., Inc. v. FCC,
+
+492 U.S. 115, 129 (1989); see also Randall, 548 U. S., at 248–249 (stressing need for “the exercise of independent judicial judgment” in case raising concern that “contribution limits that are too low [may] harm the electoral process by preventing challengers from mounting effective campaigns against incumbent officeholders”).  And here the Government has not shown that Section 304 furthers a permissible anticorruption goal, rather than the impermissible objective of simply limiting the amount of money in politics.
+
+															*  *  *
+
+															For the reasons set forth, we conclude that Cruz and the Committee have standing to challenge the threatened enforcement of Section 304 of BCRA.  We also conclude that this provision burdens core political speech without proper justification.  The judgment of the District Court is affirmed.
+
+															It is so ordered.
+													

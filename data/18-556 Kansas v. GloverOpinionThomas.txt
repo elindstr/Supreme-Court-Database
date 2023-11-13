@@ -1,0 +1,164 @@
+::SCDB_caseID:: 2019-011
+::decision_cite:: 18-556
+::decision_name::  Kansas v. Glover
+::decision_year:: 2020
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–556
+
+															_________________
+
+															KANSAS, PETITIONER v. CHARLES GLOVER
+
+															on writ of certiorari to the supreme court of kansas
+
+															[April 6, 2020]
+
+															
+
+															Justice Thomas delivered the opinion of the Court.
+
+															This case presents the question whether a police officer violates the
+ 
+Fourth Amendment by initiating an investigative traffic stop after running a vehicle’s license plate and learning that the registered owner has a revoked driver’s license.  We hold that when the officer lacks information negating an inference that the owner is the driver of the vehicle, the stop is reasonable.
+
+															I
+
+															Kansas charged respondent Charles Glover, Jr., with driving as a habitual violator after a traffic stop revealed that he was driving with a revoked license.  See Kan. Stat. Ann. §8–285(a)(3) (2001).  Glover filed a motion to suppress all evidence seized during the stop, claiming that the officer lacked reasonable suspicion.  Neither Glover nor the police officer testified at the suppression hearing.  Instead, the parties stipulated to the following facts:
+
+															“1. Deputy Mark Mehrer is a certified law enforcement officer employed by the Douglas County Kansas Sheriff ’s Office.
+
+															2. On April 28, 2016, Deputy Mehrer was on routine patrol in Douglas County when he observed a 1995 Chevrolet 1500 pickup truck with Kansas plate 295ATJ.
+
+															3. Deputy Mehrer ran Kansas plate 295ATJ through the Kansas Department of Revenue’s file service.  The registration came back to a 1995 Chevrolet 1500 pickup truck.
+
+															4. Kansas Department of Revenue files indicated the truck was registered to Charles Glover Jr.  The files also indicated that Mr. Glover had a revoked driver’s license in the State of Kansas.
+
+															5. Deputy Mehrer assumed the registered owner of the truck was also the driver, Charles Glover Jr.
+
+															6. Deputy Mehrer did not observe any traffic infractions, and did not attempt to identify the driver [of] the truck.  Based solely on the information that the registered owner of the truck was revoked, Deputy Mehrer initiated a traffic stop.
+
+															7. The driver of the truck was identified as the defendant, Charles Glover Jr.”  App. to Pet. for Cert. 60–61.
+
+															The District Court granted Glover’s motion to suppress.  The Court of Appeals reversed, holding that “it was reasonable for [Deputy] Mehrer to infer that the driver was the owner of the vehicle” because “there were specific and articulable facts from which the officer’s common-sense inference gave rise to a reasonable suspicion.”  54 Kan. App. 2d 377, 385, 400 P.3d 182, 188 (2017).
+
+															The Kansas Supreme Court reversed.  According to the court, Deputy Mehrer did not have reasonable suspicion because his inference that Glover was behind the wheel amounted to “only a hunch” that Glover was engaging in criminal activity.  308 Kan. 590, 591, 422 P.3d 64, 66 (2018).  The court further explained that Deputy Mehrer’s “hunch” involved “applying and stacking unstated assumptions that are unreasonable without further factual basis,” namely, that “the registered owner was likely the primary driver of the vehicle” and that “the owner will likely disregard the suspension or revocation order and continue to drive.”  Id., at 595–597, 422 P. 3d, at 68–70.  We granted Kansas’ petition for a writ of certiorari, 587 U. S. ___ (2019), and now reverse.
+
+															II
+
+															Under this Court’s precedents, the
+ 
+Fourth Amendment permits an officer to initiate a brief investigative traffic stop when he has “a particularized and objective basis for suspecting the particular person stopped of criminal activity.”  United States v. Cortez,
+
+449 U.S. 411, 417–418 (1981); see also Terry v. Ohio,
+
+392 U.S. 1, 21–22 (1968).  “Although a mere ‘hunch’ does not create reasonable suspicion, the level of suspicion the standard requires is considerably less than proof of wrongdoing by a preponderance of the evidence, and obviously less than is necessary for probable cause.”  Prado Navarette v. California,
+
+572 U.S. 393, 397 (2014) (quotation altered); United States v. Sokolow,
+
+490 U.S. 1, 7 (1989).
+
+															Because it is a “less demanding” standard, “reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause.”  Alabama v. White,
+
+496 U.S. 325, 330 (1990).  The standard “depends on the factual and practical considerations of everyday life on which reasonable and prudent men, not legal technicians, act.”  Navarette, supra, at 402 (quoting Ornelas v. United States,
+
+517 U.S. 690, 695 (1996) (emphasis added; internal quotation marks omitted)).  Courts “cannot reasonably demand scientific certainty . . . where none exists.”  Illinois v. Wardlow,
+
+528 U.S. 119, 125 (2000).  Rather, they must permit officers to make “commonsense judgments and inferences about human behavior.”  Ibid.; see also Navarette, supra, at 403 (noting that an officer “ ‘need not rule out the possibility of innocent  conduct’ ”).
+
+															III
+
+															We have previously recognized that States have a “vital interest in ensuring that only those qualified to do so are permitted to operate motor vehicles [and] that licensing, registration, and vehicle inspection requirements are being observed.”  Delaware v. Prouse,
+
+440 U.S. 648, 658 (1979).  With this in mind, we turn to whether the facts known to Deputy Mehrer at the time of the stop gave rise to reason- able suspicion.  We conclude that they did.
+
+															Before initiating the stop, Deputy Mehrer observed an individual operating a 1995 Chevrolet 1500 pickup truck with Kansas plate 295ATJ.  He also knew that the registered owner of the truck had a revoked license and that the model of the truck matched the observed vehicle.  From these three facts, Deputy Mehrer drew the commonsense inference that Glover was likely the driver of the vehicle, which provided more than reasonable suspicion to initiate the stop.
+
+															The fact that the registered owner of a vehicle is not always the driver of the vehicle does not negate the reason- ableness of Deputy Mehrer’s inference.  Such is the case with all reasonable inferences.  The reasonable suspicion inquiry “falls considerably short” of 51% accuracy, see United States v. Arvizu,
+
+534 U.S. 266, 274 (2002), for, as we have explained, “[t]o be reasonable is not to be perfect,” Heien v. North Carolina,
+
+574 U.S. 54, 60 (2014).
+
+															Glover’s revoked license does not render Deputy Mehrer’s inference unreasonable either.  Empirical studies demonstrate what common experience readily reveals: Drivers with revoked licenses frequently continue to drive and therefore to pose safety risks to other motorists and pedestrians.  See, e.g., 2 T. Neuman et al., National Coop. Hwy. Research Program Report 500: A Guide for Addressing Collisions Involving Unlicensed Drivers and Drivers With Suspended or Revoked Licenses, p. III–1 (2003) (noting that 75% of drivers with suspended or revoked licenses continue to drive); National Hwy. and Traffic Safety Admin., Research Note: Driver License Compliance Status in Fatal Crashes 2 (Oct. 2014) (noting that approximately 19% of motor vehicle fatalities from 2008–2012 “involved drivers with invalid licenses”).
+
+															Although common sense suffices to justify this inference, Kansas law reinforces that it is reasonable to infer that an individual with a revoked license may continue driving.  The State’s license-revocation scheme covers drivers who have already demonstrated a disregard for the law or are categorically unfit to drive.  The Division of Vehicles of the Kansas Department of Revenue (Division) “shall” revoke a driver’s license upon certain convictions for involuntary manslaughter, vehicular homicide, battery, reckless driving, fleeing or attempting to elude a police officer, or conviction of a felony in which a motor vehicle is used.  Kan. Stat. Ann. §§8–254(a), 8–252.  Reckless driving is defined as “driv[ing] any vehicle in willful or wanton disregard for the safety of persons or property.”  §8–1566(a).  The Division also has discretion to revoke a license if a driver “[h]as been convicted with such frequency of serious offenses against traffic regulations governing the movement of vehicles as to indicate a disrespect for traffic laws and a disregard for the safety of other persons on the highways,” “has been convicted of three or more moving traffic violations committed on separate occasions within a 12-month period,” “is incompetent to drive a motor vehicle,” or “has been convicted of a moving traffic violation, committed at a time when the person’s driving privileges were restricted, suspended[,] or revoked.”  §§8–255(a)(1)–(4).  Other reasons include violating license restrictions, §8–245(c), being under house arrest, §21–6609(c), and being a habitual violator, §8–286, which Kansas defines as a resident or nonresident who has been convicted three or more times within the past five years of certain enumerated driving offenses, §8–285.  The concerns motivating the State’s various grounds for revocation lend further credence to the inference that a registered owner with a revoked Kansas driver’s license might be the one driving the vehicle.
+
+															IV
+
+															Glover and the dissent respond with two arguments as to why Deputy Mehrer lacked reasonable suspicion.  Neither is persuasive.
+
+															A
+
+															First, Glover and the dissent argue that Deputy Mehrer’s inference was unreasonable because it was not grounded in his law enforcement training or experience.  Nothing in our
+ 
+Fourth Amendment precedent supports the notion that, in determining whether reasonable suspicion exists, an officer can draw inferences based on knowledge gained only through law enforcement training and experience.  We have repeatedly recognized the opposite.  In Navarette, we noted a number of behaviors—including driving in the median, crossing the center line on a highway, and swerving—that as a matter of common sense provide “sound indicia of drunk driving.”  572 U. S., at 402.  In Wardlow, we made the unremarkable observation that “[h]eadlong flight—wherever it occurs—is the consummate act of evasion” and therefore could factor into a police officer’s reasonable suspicion determination.  528 U. S., at 124.  And in Sokolow, we recognized that the defendant’s method of payment for an airplane ticket contributed to the agents’ reasonable suspicion of drug trafficking because we “fe[lt] confident” that “[m]ost business travelers . . . purchase airline tickets by credit card or check” rather than cash.  490 U. S., at 8–9.  So too here.  The inference that the driver of a car is its registered owner does not require any specialized training; rather, it is a reasonable inference made by ordinary people on a daily basis.
+
+															The dissent reads our cases differently, contending that they permit an officer to use only the common sense derived from his “experiences in law enforcement.”  Post, at 5 (opinion of Sotomayor, J.).  Such a standard defies the “common sense” understanding of common sense, i.e., information that is accessible to people generally, not just some specialized subset of society.  More importantly, this standard appears nowhere in our precedent.  In fact, we have stated that reasonable suspicion is an “abstract” concept that cannot be reduced to “a neat set of legal rules,” Arvizu, 534 U. S., at 274 (internal quotation marks omitted), and we have repeatedly rejected courts’ efforts to impose a rigid structure on the concept of reasonableness, ibid.; Sokolow, 490 U. S., at 7–8.  This is precisely what the dissent’s rule would do by insisting that officers must be treated as bifurcated persons, completely precluded from drawing factual inferences based on the commonly held knowledge they have acquired in their everyday lives.
+
+															The dissent’s rule would also impose on police the burden of pointing to specific training materials or field experiences justifying reasonable suspicion for the myriad infractions in municipal criminal codes.  And by removing common sense as a source of evidence, the dissent would considerably narrow the daylight between the showing required for probable cause and the “less stringent” showing required for reasonable suspicion.  Prouse, 440 U. S., at 654; see White, 496 U. S., at 330.  Finally, it would impermissibly tie a traffic stop’s validity to the officer’s length of service.  See Devenpeck v. Alford,
+
+543 U.S. 146, 154 (2004).  Such requirements are inconsistent with our
+ 
+Fourth Amendment jurisprudence, and we decline to adopt them here.
+
+															In reaching this conclusion, we in no way minimize the significant role that specialized training and experience routinely play in law enforcement investigations.  See, e.g., Arvizu, 534 U. S., at 273–274.  We simply hold that such experience is not required in every instance.
+
+															B
+
+															Glover and the dissent also contend that adopting Kansas’ view would eviscerate the need for officers to base reasonable suspicion on “specific and articulable facts” particularized to the individual, see Terry, 392 U. S., at 21, because police could instead rely exclusively on probabilities.  Their argument carries little force.
+
+															As an initial matter, we have previously stated that officers, like jurors, may rely on probabilities in the reasonable suspicion context.  See Sokolow, 490 U. S., at 8–9; Cortez, 449 U. S., at 418.  Moreover, as explained above, Deputy Mehrer did not rely exclusively on probabilities.  He knew that the license plate was linked to a truck matching the observed vehicle and that the registered owner of the vehicle had a revoked license.  Based on these minimal facts, he used common sense to form a reasonable suspicion that a specific individual was potentially engaged in specific criminal activity—driving with a revoked license.  Traffic stops of this nature do not delegate to officers “broad and unlimited discretion” to stop drivers at random.  United States v. Brignoni-Ponce,
+
+422 U.S. 873, 882 (1975).  Nor do they allow officers to stop drivers whose conduct is no different from any other driver’s.  See Brown v. Texas,
+
+443 U.S. 47, 52 (1979).  Accordingly, combining database information and commonsense judgments in this context is fully consonant with this Court’s
+ 
+Fourth Amendment precedents.[1]
+
+															V
+
+															This Court’s precedents have repeatedly affirmed that “ ‘the ultimate touchstone of the
+ 
+Fourth Amendment is “reasonableness.” ’ ”  Heien, 574 U. S., at 60 (quoting Riley v. California,
+
+573 U.S. 373, 381 (2014)).  Under the totality of the circumstances of this case, Deputy Mehrer drew an entirely reasonable inference that Glover was driving while his license was revoked.
+
+															We emphasize the narrow scope of our holding.  Like all seizures, “[t]he officer’s action must be ‘justified at its inception.’ ”  Hiibel v. Sixth Judicial Dist. Court of Nev., Humboldt Cty.,
+
+542 U.S. 177, 185 (2004) (quoting United States v. Sharpe,
+
+470 U.S. 675, 682 (1985)).  “The standard takes into account the totality of the circumstances—the whole picture.”  Navarette, 572 U. S., at 397 (internal quotation marks omitted).  As a result, the presence of additional facts might dispel reasonable suspicion.  See Terry, supra, at 28.  For example, if an officer knows that the registered owner of the vehicle is in his mid-sixties but observes that the driver is in her mid-twenties, then the totality of the circumstances would not “raise a suspicion that the particular individual being stopped is engaged in wrongdoing.”  Cortez, 449 U. S., at 418; Ornelas, 517 U. S., at 696 (“ ‘[e]ach case is to be decided on its own facts and circumstances’ ” (quoting Ker v. California,
+
+374 U.S. 23, 33 (1963))).  Here, Deputy Mehrer possessed no exculpatory information—let alone sufficient information to rebut the reasonable inference that Glover was driving his own truck—and thus the stop was justified.[2]
+
+															*  *  *
+
+															For the foregoing reasons, we reverse the judgment of the Kansas Supreme Court, and we remand the case for further proceedings not inconsistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ The dissent contends that this approach “pave[s] the road to finding reasonable suspicion based on nothing more than a demographic profile.”  Post, at 6–7 (opinion of Sotomayor, J.).  To alleviate any doubt, we reiterate that the
+ 
+Fourth Amendment requires, and Deputy Mehrer had, an individualized suspicion that a particular citizen was engaged in a particular crime.  Such a particularized suspicion would be lacking in the dissent’s hypothetical scenario, which, in any event, is already prohibited by our precedents.  See United States v. Brignoni-Ponce,
+
+422 U.S. 873, 876 (1975) (holding that it violated the
+ 
+Fourth Amendment to stop and “question [a vehicle’s] occupants [about their immigration status] when the only ground for suspicion [was] that the occupants appear[ed] to be of Mexican ancestry”). 
+
+2
+ The dissent argues that this approach impermissibly places the burden of proof on the individual to negate the inference of reasonable suspicion.  Post, at 3.  Not so.  As the above analysis makes clear, it is the information possessed by the officer at the time of the stop, not any information offered by the individual after the fact, that can negate the inference. 
+
+

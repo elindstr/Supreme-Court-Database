@@ -1,0 +1,209 @@
+::SCDB_caseID:: 2020-019
+::decision_cite:: 19-783
+::decision_name::  Van Buren v. United States
+::decision_year:: 2021
+::opinion_author:: Barrett
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–783
+
+															_________________
+
+															NATHAN VAN BUREN, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the eleventh circuit
+
+															[June 3, 2021]
+
+															
+
+															Justice Barrett delivered the opinion of the Court.
+
+															Nathan Van Buren, a former police sergeant, ran a license-plate search in a law enforcement computer database in exchange for money.  Van Buren’s conduct plainly flouted his department’s policy, which authorized him to obtain database information only for law enforcement purposes.  We must decide whether Van Buren also violated the Computer Fraud and Abuse Act of 1986 (CFAA), which makes it illegal “to access a computer with authorization and to use such access to obtain or alter information in the computer that the accesser is not entitled so to obtain or alter.”
+
+															He did not.  This provision covers those who obtain information from particular areas in the computer—such as files, folders, or databases—to which their computer access does not extend.  It does not cover those who, like Van Buren, have improper motives for obtaining information that is otherwise available to them.
+
+															I
+
+															A
+
+															Technological advances at the dawn of the 1980s brought computers to schools, offices, and homes across the Nation.  But as the public and private sectors harnessed the power of computing for improvement and innovation, so-called hackers hatched ways to coopt computers for illegal ends.  After a series of highly publicized hackings captured the public’s attention, it became clear that traditional theft and trespass statutes were ill suited to address cybercrimes that did not deprive computer owners of property in the traditional sense.  See Kerr, Cybercrime’s Scope: Interpreting “Access” and “Authorization” in Computer Misuse Statutes, 78 N. Y. U. L. Rev. 1596, 1605–1613 (2003).
+
+															Congress, following the lead of several States, responded by enacting the first federal computer-crime statute as part of the Comprehensive Crime Control Act of 1984.  §2102(a),
+
+98Stat.
+2190–2192.  A few years later, Congress passed the CFAA, which included the provisions at issue in this case.  The Act subjects to criminal liability anyone who “intentionally accesses a computer without authorization or exceeds authorized access,” and thereby obtains computer information.
+
+18 U. S. C. §1030(a)(2).  It defines the term “exceeds authorized access” to mean “to access a computer with authorization and to use such access to obtain or alter information in the computer that the accesser is not entitled so to obtain or alter.”  §1030(e)(6).
+
+															Initially, subsection (a)(2)’s prohibition barred accessing only certain financial information.  It has since expanded to cover any information from any computer “used in or affecting interstate or foreign commerce or communication.”  §1030(e)(2)(B).  As a result, the prohibition now applies—at a minimum—to all information from all computers that connect to the Internet.  §§1030(a)(2)(C), (e)(2)(B).
+
+															Those who violate §1030(a)(2) face penalties ranging from fines and misdemeanor sentences to imprisonment for up to 10 years.  §1030(c)(2).  They also risk civil liability under the CFAA’s private cause of action, which allows persons suffering “damage” or “loss” from CFAA violations to sue for money damages and equitable relief.  §1030(g).
+
+															B
+
+															This case stems from Van Buren’s time as a police sergeant in Georgia.  In the course of his duties, Van Buren crossed paths with a man named Andrew Albo.  The deputy chief of Van Buren’s department considered Albo to be “very volatile” and warned officers in the department to deal with him carefully.  Notwithstanding that warning, Van Buren developed a friendly relationship with Albo.  Or so Van Buren thought when he went to Albo to ask for a personal loan.  Unbeknownst to Van Buren, Albo secretly recorded that request and took it to the local sheriff ’s office, where he complained that Van Buren had sought to “shake him down” for cash.
+
+															The taped conversation made its way to the Federal Bureau of Investigation (FBI), which devised an operation to see how far Van Buren would go for money.  The steps were straightforward: Albo would ask Van Buren to search the state law enforcement computer database for a license plate purportedly belonging to a woman whom Albo had met at a local strip club.  Albo, no stranger to legal troubles, would tell Van Buren that he wanted to ensure that the woman was not in fact an undercover officer.  In return for the search, Albo would pay Van Buren around $5,000.
+
+															Things went according to plan.  Van Buren used his  patrol-car computer to access the law enforcement database with his valid credentials.  He searched the database for the license plate that Albo had provided.  After obtaining the FBI-created license-plate entry, Van Buren told Albo that he had information to share.
+
+															The Federal Government then charged Van Buren with a felony violation of the CFAA on the ground that running the license plate for Albo violated the “exceeds authorized access” clause of
+
+18 U. S. C. §1030(a)(2).[1]  The trial evidence showed that Van Buren had been trained not to use the law enforcement database for “an improper purpose,” defined as “any personal use.”  App. 17.  Van Buren therefore knew that the search breached department policy.  And according to the Government, that violation of department policy also violated the CFAA.  Consistent with that position, the Government told the jury that Van Buren’s access of the database “for a non[- ]law[-]enforcement purpose” violated the CFAA “concept” against “using” a computer network in a way contrary to “what your job or policy prohibits.”  Id., at 39.  The jury convicted Van Buren, and the District Court sentenced him to 18 months in prison.
+
+															Van Buren appealed to the Eleventh Circuit, arguing that the “exceeds authorized access” clause applies only to those who obtain information to which their computer access does not extend, not to those who misuse access that they otherwise have.  While several Circuits see the clause Van Buren’s way, the Eleventh Circuit is among those that have taken a broader view.[2]  Consistent with its Circuit precedent, the panel held that Van Buren had violated the CFAA by accessing the law enforcement database for an “inappropriate reason.”  940 F.3d 1192, 1208 (2019). We granted certiorari to resolve the split in authority regarding the scope of liability under the CFAA’s “exceeds authorized access” clause.  590 U. S. ___ (2020).
+
+															II
+
+															A
+
+															1
+
+															Both Van Buren and the Government raise a host of policy arguments to support their respective interpretations.  But we start where we always do: with the text of the statute.  Here, the most relevant text is the phrase “exceeds authorized access,” which means “to access a computer with authorization and to use such access to obtain . . . information in the computer that the accesser is not entitled so to obtain.”  §1030(e)(6).
+
+															The parties agree that Van Buren “access[ed] a computer with authorization” when he used his patrol-car computer and valid credentials to log into the law enforcement database.  They also agree that Van Buren “obtain[ed] . . . information in the computer” when he acquired the license-plate record for Albo.  The dispute is whether Van Buren was “entitled so to obtain” the record.
+
+															“Entitle” means “to give . . . a title, right, or claim to something.”  Random House Dictionary of the English Language 649 (2d ed. 1987).  See also Black’s Law Dictionary 477 (5th ed. 1979) (“to give a right or legal title to”).  The parties agree that Van Buren had been given the right to acquire license-plate information—that is, he was “entitled to obtain” it—from the law enforcement computer database.  But was Van Buren “entitled so to obtain” the license-plate information, as the statute requires?
+
+															Van Buren says yes.  He notes that “so,” as used in this statute, serves as a term of reference that recalls “the same manner as has been stated” or “the way or manner described.”  Black’s Law Dictionary, at 1246; 15 Oxford English Dictionary 887 (2d ed. 1989).  The disputed phrase “entitled so to obtain” thus asks whether one has the right, in “the same manner as has been stated,” to obtain the relevant information.  And the only manner of obtaining information already stated in the definitional provision is “via a computer [one] is otherwise authorized to access.”  Reply Brief 3.  Putting that together, Van Buren contends that the disputed phrase—“is not entitled so to obtain”—plainly refers to information one is not allowed to obtain by using a computer that he is authorized to access.  On this reading, if a person has access to information stored in a computer—e.g., in “Folder Y,” from which the person could permissibly pull information—then he does not violate the CFAA by obtaining such information, regardless of whether he pulled the information for a prohibited purpose.  But if the information is instead located in prohibited “Folder X,” to which the person lacks access, he violates the CFAA by obtaining such information.
+
+															The Government agrees that the statute uses “so” in the word’s term-of-reference sense, but it argues that “so” sweeps more broadly.  It reads the phrase “is not entitled so to obtain” to refer to information one was not allowed to obtain in the particular manner or circumstances in which he obtained it.  The manner or circumstances in which one has a right to obtain information, the Government says, are defined by any “specifically and explicitly” communicated limits on one’s right to access information.  Brief for United States 19.  As the Government sees it, an employee might lawfully pull information from Folder Y in the morning for a permissible purpose—say, to prepare for a business meeting—but unlawfully pull the same information from Folder Y in the afternoon for a prohibited purpose—say, to help draft a resume to submit to a competitor employer.
+
+															The Government’s interpretation has surface appeal but proves to be a sleight of hand.  While highlighting that “so” refers to a “manner or circumstance,” the Government simultaneously ignores the definition’s further instruction that such manner or circumstance already will “ ‘ha[ve] been stated,’ ” “ ‘asserted,’ ” or “ ‘described.’ ”  Id., at 18 (quoting Black’s Law Dictionary, at 1246; 15 Oxford English Dictionary, at 887).  Under the Government’s approach, the relevant circumstance—the one rendering a person’s conduct illegal—is not identified earlier in the statute.  Instead, “so” captures any circumstance-based limit appearing anywhere—in the United States Code, a state statute, a private agreement, or anywhere else.  And while the Government tries to cabin its interpretation by suggesting that any such limit must be “specifically and explicitly” stated, “express,” and “inherent in the authorization itself,” the Government does not identify any textual basis for these guardrails.  Brief for United States 19; Tr. of Oral Arg. 41.
+
+															Van Buren’s account of “so”—namely, that “so” references the previously stated “manner or circumstance” in the text of §1030(e)(6) itself—is more plausible than the Government’s.  “So” is not a free-floating term that provides a hook for any limitation stated anywhere.  It refers to a stated, identifiable proposition from the “preceding” text; indeed, “so” typically “[r]epresent[s]” a “word or phrase already employed,” thereby avoiding the need for repetition.  15 Oxford English Dictionary, at 887; see Webster’s Third New International Dictionary 2160 (1986) (so “often used as a substitute . . . to express the idea of a preceding phrase”).  Myriad federal statutes illustrate this ordinary usage.[3]  We agree with Van Buren: The phrase “is not entitled so to obtain” is best read to refer to information that a person is not entitled to obtain by using a computer that he is authorized to access.[4]
+
+															2
+
+															The Government’s primary counterargument is that Van Buren’s reading renders the word “so” superfluous.  Recall the definition: “to access a computer with authorization and to use such access to obtain . . . information in the computer that the accesser is not entitled so to obtain.”  §1030(e)(6)  (emphasis added).  According to the Government, “so” adds nothing to the sentence if it refers solely to the earlier stated manner of obtaining the information through use of a computer one has accessed with authorization.  What matters on Van Buren’s reading, as the Government sees it, is simply that the person obtain information that he is not entitled to obtain—and that point could be made even if “so” were deleted.  By contrast, the Government insists, “so” makes a valuable contribution if it incorporates all of the circumstances that might qualify a person’s right to obtain information.  Because only its interpretation gives “so” work to do, the Government contends, the rule against superfluity means that its interpretation wins.  See Republic of Sudan v. Harrison, 587 U. S. ___, ___ (2019) (slip op., at 10).
+
+															But the canon does not help the Government because Van Buren’s reading does not render “so” superfluous.  As Van Buren points out, without “so,” the statute would allow individuals to use their right to obtain information in nondigital form as a defense to CFAA liability.  Consider, for example, a person who downloads restricted personnel files he is not entitled to obtain by using his computer.  Such a person could argue that he was “entitled to obtain” the information if he had the right to access personnel files through another method (e.g., by requesting hard copies of the files from human resources).  With “so,” the CFAA forecloses that theory of defense.  The statute is concerned with what a person does on a computer; it does not excuse hacking into an electronic personnel file if the hacker could have walked down the hall to pick up a physical copy.
+
+															This clarification is significant because it underscores that one kind of entitlement to information counts: the right to access the information by using a computer.  That can expand liability, as the above example shows.  But it narrows liability too.  Without the word “so,” the statute could be read to incorporate all kinds of limitations on one’s entitlement to information.  The dissent’s take on the statute illustrates why.
+
+															3
+
+															While the dissent accepts Van Buren’s definition of “so,” it would arrive at the Government’s result by way of the word “entitled.”  One is “entitled” to do something, the dissent contends, only when “ ‘proper grounds’ ” are in place.  Post, at 3 (opinion of Thomas, J.) (quoting Black’s Law Dictionary, at 477). Deciding whether a person was “entitled” to obtain information, the dissent continues, therefore demands a “circumstance dependent” analysis of whether access was proper.  Post, at 3.  This reading, like the Government’s, would extend the statute’s reach to any  circumstance-based limit appearing anywhere.
+
+															The dissent’s approach to the word “entitled” fares fine in the abstract but poorly in context.  The statute does not refer to “information . . . that the accesser is not entitled to obtain.”  It refers to “information . . . that the accesser is not entitled so to obtain.”
+
+18 U. S. C. §1030(e)(6) (emphasis added).  The word “entitled,” then, does not stand alone, inviting the reader to consider the full scope of the accesser’s entitlement to information.  The modifying phrase “so to obtain” directs the reader to consider a specific limitation on the accesser’s entitlement: his entitlement to obtain the information “in the manner previously stated.”  Supra, at 7.  And as already explained, the manner previously stated is using a computer one is authorized to access.  Thus, while giving lipservice to Van Buren’s reading of “so,” the dissent, like the Government, declines to give “so” any limiting function.[5]
+
+															The dissent cannot have it both ways.  The consequence of accepting Van Buren’s reading of “so” is the narrowed scope of “entitled.”  In fact, the dissent’s examples implicitly concede as much: They all omit the word “so,” thereby giving “entitled” its full sweep.  See post, at 3–4.  An approach that must rewrite the statute to work is even less persuasive than the Government’s.
+
+															4
+
+															The Government falls back on what it describes as the “common parlance” meaning of the phrase “exceeds authorized access.”  Brief for United States 20–21.  According to the Government, any ordinary speaker of the English language would think that Van Buren “exceed[ed] his authorized access” to the law enforcement database when he obtained license-plate information for personal purposes.  Id., at 21.  The dissent, for its part, asserts that this point “settles” the case.  Post, at 9.
+
+															If the phrase “exceeds authorized access” were all we had to go on, the Government and the dissent might have a point.  But both breeze by the CFAA’s explicit definition of the phrase “exceeds authorized access.”  When “a statute includes an explicit definition” of a term, “we must follow that definition, even if it varies from a term’s ordinary meaning.”  Tanzin v. Tanvir, 592 U. S. ___, ___ (2020) (slip op., at 3) (internal quotation marks omitted).  So the relevant question is not whether Van Buren exceeded his authorized access but whether he exceeded his authorized access as the CFAA defines that phrase.  And as we have already explained, the statutory definition favors Van Buren’s reading.
+
+															That reading, moreover, is perfectly consistent with the way that an “appropriately informed” speaker of the language would understand the meaning of “exceeds authorized access.”  Nelson, What Is Textualism?  91 Va. L. Rev. 347, 354 (2005).  When interpreting statutes, courts take note of terms that carry “technical meaning[s].”  A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 73 (2012). “Access” is one such term, long carrying a “well established” meaning in the “computational sense”—a meaning that matters when interpreting a statute about computers.  American Heritage Dictionary 10 (3d ed. 1992).  In the computing context, “access” references the act of entering a computer “system itself ” or a particular “part of a computer system,” such as files, folders, or databases.[6]  It is thus consistent with that meaning to equate “exceed[ing] authorized access” with the act of entering a part of the system to which a computer user lacks access privileges.[7]  The Government and the dissent’s broader interpretation is neither the only possible nor even necessarily the most natural one.
+
+															B
+
+															While the statute’s language “spells trouble” for the Government’s position, a “wider look at the statute’s structure gives us even more reason for pause.”  Romag Fasteners, Inc. v. Fossil Group, Inc., 590 U. S. ___, ___–___ (2020) (slip op., at 2–3).
+
+															The interplay between the “without authorization” and “exceeds authorized access” clauses of subsection (a)(2) is particularly probative.  Those clauses specify two distinct ways of obtaining information unlawfully.  First, an individual violates the provision when he “accesses a computer without authorization.”  §1030(a)(2).  Second, an individual violates the provision when he “exceeds authorized access” by accessing a computer “with authorization” and then obtaining information he is “not entitled so to obtain.”  §§1030(a)(2), (e)(6).  Van Buren’s reading places the provision’s parts “into an harmonious whole.”  Roberts v. Sea-Land Services, Inc.,
+
+566 U.S. 93, 100 (2012) (internal quotation marks omitted).  The Government’s does not.
+
+															Start with Van Buren’s view.  The “without authorization” clause, Van Buren contends, protects computers themselves by targeting so-called outside hackers—those who “acces[s] a computer without any permission at all.”  LVRC Holdings LLC v. Brekka, 581 F.3d 1127, 1133 (CA9 2009); see also Pulte Homes, Inc. v. Laborers’ Int’l Union of North Am., 648 F.3d 295, 304 (CA6 2011).  Van Buren reads the “exceeds authorized access” clause to provide complementary protection for certain information within computers.  It does so, Van Buren asserts, by targeting so-called inside hackers—those who access a computer with permission, but then “ ‘exceed’ the parameters of authorized access by entering an area of the computer to which [that] authorization does not extend.”  United States v. Valle, 807 F.3d 508, 524 (CA2 2015).
+
+															Van Buren’s account of subsection (a)(2) makes sense of the statutory structure because it treats the “without authorization” and “exceeds authorized access” clauses consistently.  Under Van Buren’s reading, liability under both clauses stems from a gates-up-or-down inquiry—one either can or cannot access a computer system, and one either can or cannot access certain areas within the system.[8]  And reading both clauses to adopt a gates-up-or-down approach aligns with the computer-context understanding of access as entry.  See supra, at 11–12.[9]
+
+															By contrast, the Government’s reading of the “exceeds authorized access” clause creates “inconsistenc[ies] with the design and structure” of subsection (a)(2).  University of Tex. Southwestern Medical Center v. Nassar,
+
+570 U.S. 338, 353 (2013).  As discussed, the Government reads the “exceeds authorized access” clause to incorporate purpose-based limits contained in contracts and workplace policies.  Yet the Government does not read such limits into the threshold question whether someone uses a computer “without authorization”—even though similar purpose restrictions, like a rule against personal use, often govern one’s right to access a computer in the first place.  See, e.g., Royal Truck & Trailer Sales & Serv., Inc. v. Kraft, 974 F.3d 756, 757 (CA6 2020).  Thus, the Government proposes to read the first phrase “without authorization” as a gates-up-or-down inquiry and the second phrase “exceeds authorized access” as one that depends on the circumstances.  The Government does not explain why the statute would prohibit accessing computer information, but not the computer itself, for an improper purpose.[10]
+
+															The Government’s position has another structural problem.  Recall that violating §1030(a)(2), the provision under which Van Buren was charged, also gives rise to civil liability.  See §1030(g).  Provisions defining “damage” and “loss” specify what a plaintiff in a civil suit can recover.  “ ‘[D]amage,’ ” the statute provides, means “any impairment to the integrity or availability of data, a program, a system, or information.”  §1030(e)(8).  The term “loss” likewise relates to costs caused by harm to computer data, programs, systems, or information services.  §1030(e)(11).  The statutory definitions of “damage” and “loss” thus focus on technological harms—such as the corruption of files—of the type unauthorized users cause to computer systems and data.  Limiting “damage” and “loss” in this way makes sense in a scheme “aimed at preventing the typical consequences of hacking.”  Royal Truck, 974 F. 3d, at 760.  The term’s definitions are ill fitted, however, to remediating “misuse” of sensitive information that employees may permissibly access using their computers.  Ibid.  Van Buren’s situation is illustrative: His run of the license plate did not impair the “integrity or availability” of data, nor did it otherwise harm the database system itself.
+
+															C
+
+															Pivoting from text and structure, the Government claims that precedent and statutory history support its interpretation.  These arguments are easily dispatched.
+
+															As for precedent, the Government asserts that this Court’s decision in Musacchio v. United States,
+
+577 U.S. 237 (2016), bolsters its reading.  There, in addressing a question about the standard of review for instructional error, the Court described §1030(a)(2) as prohibiting “(1) obtaining access without authorization; and (2) obtaining access with authorization but then using that access improperly.”  Id., at 240.  This paraphrase of the statute does not do much for the Government.  As an initial matter, Musacchio did not address—much less resolve in the Government’s favor—the “point now at issue,” and we thus “are not bound to follow” any dicta in the case.  Central Va. Community College v. Katz,
+
+546 U.S. 356, 363 (2006).  But in any event, Van Buren’s interpretation, no less than the Government’s, involves “using [one’s] access improperly.”  It is plainly “improper” for one to use the opportunity his computer access provides to obtain prohibited information from within the computer.
+
+															As for statutory history, the Government claims that the original 1984 Act supports its interpretation of the current version.  In a precursor to the “exceeds authorized access” clause, the 1984 Act covered any person who, “having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend,” and thus expressly alluded to the purpose of an insider’s computer access.
+
+18 U. S. C. §1030(a)(2) (1982 ed. Supp. III).  According to the Government, this confirms that the amended CFAA—which makes no mention of purpose in defining “exceeds authorized access”—likewise covers insiders like Van Buren who use their computer access for an unauthorized purpose.[11]  The Government’s argument gets things precisely backward.  “When Congress amends legislation, courts must presume it intends the change to have real and substantial effect.”  Ross v. Blake,
+
+578 U.S. 632, 641–642 (2016) (internal quotation marks and brackets omitted).  Congress’ choice to remove the statute’s reference to purpose thus cuts against reading the statute “to capture that very concept.”  Brief for United States 22.  The statutory history thus hurts rather than helps the Government’s position.
+
+															III
+
+															To top it all off, the Government’s interpretation of the statute would attach criminal penalties to a breathtaking amount of commonplace computer activity.  Van Buren frames the far-reaching consequences of the Government’s reading as triggering the rule of lenity or constitutional avoidance.  That is not how we see it: Because the text, context, and structure support Van Buren’s reading, neither of these canons is in play.  Still, the fallout underscores the implausibility of the Government’s interpretation.  It is “extra icing on a cake already frosted.”  Yates v. United States,
+
+574 U.S. 528, 557 (2015) (Kagan, J., dissenting).
+
+															If the “exceeds authorized access” clause criminalizes every violation of a computer-use policy, then millions of otherwise law-abiding citizens are criminals.  Take the workplace.  Employers commonly state that computers and electronic devices can be used only for business purposes.  So on the Government’s reading of the statute, an employee who sends a personal e-mail or reads the news using her work computer has violated the CFAA.  Or consider the Internet.  Many websites, services, and databases—which provide “information” from “protected computer[s],” §1030(a)(2)(C)—authorize a user’s access only upon his agreement to follow specified terms of service.  If the “exceeds authorized access” clause encompasses violations of circumstance-based access restrictions on employers’ computers, it is difficult to see why it would not also encompass violations of such restrictions on website providers’ computers.  And indeed, numerous amici explain why the Government’s reading of subsection (a)(2) would do just that—criminalize everything from embellishing an online-dating profile to using a pseudonym on Facebook.  See Brief for Orin Kerr as Amicus Curiae 10–11; Brief for Technology Companies as Amici Curiae 6, n. 3, 11; see also Brief for Reporters Committee for Freedom of the Press et al. as Amici Curiae 10–13 (journalism activity); Brief for Kyratso Karahalios et al. as Amici Curiae 11–17 (online civil-rights testing and research).
+
+															In response to these points, the Government posits that other terms in the statute—specifically “authorization” and “use”—“may well” serve to cabin its prosecutorial power.  Brief for United States 35; see Tr. of Oral Arg. 38, 40, 58 (“instrumental” use; “individualized” and “fairly specific” authorization).  Yet the Government stops far short of endorsing such limitations.  Cf. Brief for United States 37 (concept of “authorization” “may not logically apply”); id., at 38 (“ ‘use’ ” might be read in a more “limited” fashion, even though it “often has a broader definition”); see also, e.g., post, at 11–12 (mens rea requirement “might” preclude liability in some cases).  Nor does it cite any prior instance in which it has read the statute to contain such limitations—to the contrary, Van Buren cites instances where it hasn’t.  See Reply Brief 14–15, 17 (collecting cases); cf. Sandvig v. Barr, 451 F. Supp. 3d 73, 81–82 (DC 2020) (discussing Department of Justice testimony indicating that the Government could “ ‘bring a CFAA prosecution based’ ” on terms-of-service violations causing “ ‘de minimis harm’ ”).  If anything, the Government’s current CFAA charging policy shows why Van Buren’s concerns are far from “hypothetical,” post, at 12: The policy instructs that federal prosecution “may not be warranted”—not that it would be prohibited—“if the defendant exceed[s] authorized access solely by violating an access restriction contained in a contractual agreement or term of service with an Internet service provider or website.”[12]  And while the Government insists that the intent requirement serves as yet another safety valve, that requirement would do nothing for those who intentionally use their computers in a way their “job or policy prohibits”—for example, by checking sports scores or paying bills at work.  App. 39.
+
+															One final observation: The Government’s approach would inject arbitrariness into the assessment of criminal liability.  The Government concedes, as it must, that the “exceeds authorized access” clause prohibits only unlawful information “access,” not downstream information “ ‘misus[e].’ ”  Brief in Opposition 17 (statute does not cover “ ‘subsequen[t] misus[e of] information’ ”).  But the line between the two can be thin on the Government’s reading.  Because  purpose-based limits on access are often designed with an eye toward information misuse, they can be expressed as either access or use restrictions.  For example, one police department might prohibit using a confidential database for a non-law-enforcement purpose (an access restriction), while another might prohibit using information from the database for a non-law-enforcement purpose (a use restriction).  Conduct like Van Buren’s can be characterized either way, and an employer might not see much difference between the two.  On the Government’s reading, however, the conduct would violate the CFAA only if the employer phrased the policy as an access restriction.  An interpretation that stakes so much on a fine distinction controlled by the drafting practices of private parties is hard to sell as the most plausible.
+
+															IV
+
+															In sum, an individual “exceeds authorized access” when he accesses a computer with authorization but then obtains information located in particular areas of the computer—such as files, folders, or databases—that are off limits to him.  The parties agree that Van Buren accessed the law enforcement database system with authorization.  The only question is whether Van Buren could use the system to retrieve license-plate information.  Both sides agree that he could.  Van Buren accordingly did not “excee[d] authorized access” to the database, as the CFAA defines that phrase, even though he obtained information from the database for an improper purpose.  We therefore reverse the contrary judgment of the Eleventh Circuit and remand the case for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ Van Buren also was charged with and convicted of honest-services wire fraud.  In a separate holding not at issue here, the United States Court of Appeals for the Eleventh Circuit vacated Van Buren’s honest-services fraud conviction as contrary to this Court’s decision in McDonnell v. United States,
+
+579 U.S. 550 (2016). 
+
+2
+ Compare Royal Truck & Trailer Sales & Serv., Inc. v. Kraft, 974 F.3d 756 (CA6 2020); United States v. Valle, 807 F.3d 508 (CA2 2015); WEC Carolina Energy Solutions LLC v. Miller, 687 F.3d 199 (CA4 2012); United States v. Nosal, 676 F.3d 854 (CA9 2012) (en banc), with United States v. Rodriguez, 628 F.3d 1258 (CA11 2010); United States v. John, 597 F.3d 263 (CA5 2010); International Airport Centers, L.L.C. v. Citrin, 440 F.3d 418 (CA7 2006); EF Cultural Travel BV v. Explorica, Inc., 274 F.3d 577 (CA1 2001). 
+
+3
+ See, e.g.,
+
+7 U. S. C. §171(8) (authorizing Secretary of Agriculture “[t]o sell guayule or rubber processed from guayule and to use funds so obtained in replanting and maintaining an area”);
+
+18 U. S. C. §648 (any person responsible for “safe-keeping of the public moneys” who “loans, uses, or converts to his own use . . . any portion of the public moneys . . . is guilty of embezzlement of the money so loaned, used, converted, deposited, or exchanged”); §1163 (“[W]hoever embezzles, steals, [or] knowingly converts to his use” money or property “belonging to any Indian tribal organization,” or “[w]hoever, knowing any such moneys . . . or other property to have been so embezzled, stolen, [or] converted . . . retains the same with intent to convert it to his use,” is subject to punishment); §1708 (“[W]hoever steals, takes, or abstracts, or by fraud or deception obtains, or attempts so to obtain,” parcels of mail is subject to punishment). 
+
+4
+ The dissent criticizes this interpretation as inconsistent with “basic principles of property law,” and in particular the “familiar rule that an entitlement to use another person’s property is circumstance specific.”  Post, at 4–5 (opinion of Thomas, J.).  But common-law principles “should be imported into statutory text only when Congress employs a common-law term”—not when Congress has outlined an offense “analogous to a common-law crime without using common-law terms.”  Carter v. United States,
+
+530 U.S. 255, 265 (2000) (emphasis deleted).  Relying on the common law is particularly ill advised here because it was the failure of pre-existing law to capture computer crime that helped spur Congress to enact the CFAA.  See supra, at 2. 
+
+5
+ For the same reason, the dissent is incorrect when it contends that our interpretation reads the additional words “under any possible circumstance” into the statute.  Post, at 3 (emphasis deleted).  Our reading instead interprets the phrase “so to obtain” to incorporate the single “circumstance” of permissible information access identified by the statute: obtaining the information by using one’s computer. 
+
+6
+ 1 Oxford English Dictionary 72 (2d ed. 1989) (“[t]o gain access to . . . data, etc., held in a computer or computer-based system, or the system itself ”); Random House Dictionary of the English Language 11 (2d ed. 1987) (“Computers. to locate (data) for transfer from one part of a computer system to another . . . ”); see also C. Sippl & R. Sippl, Computer Dictionary and Handbook 2 (3d ed. 1980) (“[c]oncerns the process of obtaining data from or placing data in storage”); Barnhart Dictionary of New English 2 (3d ed. 1990) (“to retrieve (data) from a computer storage unit or device . . . ”); Microsoft Computer Dictionary 12 (4th ed. 1999) (“[t]o gain entry to memory in order to read or write data”); A Dictionary of Computing 5 (6th ed. 2008) (“[t]o gain entry to data, a computer system, etc.”). 
+
+7
+ The dissent makes the odd charge that our interpretation violates the “ ‘presumption against’ ” reading a provision “contrary to the ordinary meaning of the term it defines.”  Post, at 9.  But when a statute, like this one, is “addressing a . . . technical subject, a specialized meaning is to be expected.”  Scalia, Reading Law, at 73.  Consistent with that principle, our interpretation tracks the specialized meaning of “access” in the computer context.  This reading is far from “ ‘repugnant to’ ” the meaning of the phrase “exceeds authorized access,” post, at 9—unlike, say, a definitional provision directing that “ ‘the word dog is deemed to include all horses.’ ”  Scalia, supra, at 232, n. 29. 
+
+8
+ For present purposes, we need not address whether this inquiry turns only on technological (or “code-based”) limitations on access, or instead also looks to limits contained in contracts or policies.  Cf. Brief for Orin Kerr as Amicus Curiae 7 (urging adoption of code-based approach). 
+
+9
+ Van Buren’s gates-up-or-down reading also aligns with the CFAA’s prohibition on password trafficking.  See Tr. of Oral Arg. 33.  Enacted alongside the “exceeds authorized access” definition in 1986, the password-trafficking provision bars the sale of “any password or similar information through which a computer may be accessed without authorization.”  §1030(a)(6).  The provision thus contemplates a “specific type of authorization—that is, authentication,” which turns on whether a user’s credentials allow him to proceed past a computer’s access gate, rather than on other, scope-based restrictions.  Bellia, A Code-Based Approach to Unauthorized Access Under the Computer Fraud and Abuse Act, 84 Geo. Wash. L. Rev. 1442, 1470 (2016); cf. A Dictionary of Computing, at 30 (defining “authorization” as a “process by which users, having completed an . . . authentication stage, gain or are denied access to particular resources based on their entitlement”). 
+
+10
+ Unlike the Government, the dissent would read both clauses of subsection (a)(2) to require a circumstance-specific analysis.  Doing so, the dissent contends, would reflect that “[p]roperty law generally protects against both unlawful entry and unlawful use.”  Post, at 7.  This interpretation suffers from structural problems of its own.  Consider the standard rule prohibiting the use of one’s work computer for personal purposes.  Under the dissent’s approach, an employee’s computer access would be without authorization if he logged on to the computer with the purpose of obtaining a file for personal reasons.  In that event, obtaining the file would not violate the “exceeds authorized access” clause, which applies only when one accesses a computer “with authorization.”  §1030(e)(6) (emphasis added).  The dissent’s reading would therefore leave the “exceeds authorized access” clause with no work to do much of the time—an outcome that Van Buren’s interpretation (and, for that matter, the Government’s) avoids. 
+
+11
+ While the Government insists that Congress made this change “ ‘merely to clarify the language’ ” of §1030(a)(2), Brief for United States 28, the dissent has a different take.  In the dissent’s telling, the 1986 amendment in fact “expand[ed]” the provision to reach “time and manner” restrictions on computer access—not just purpose-based ones.  Post, at 10–11.  The dissent’s distinct explanation for why Congress removed §1030(a)(2)’s reference to “purpose” requires accepting that the “exceeds authorized access” definition supports a circumstance-specific approach.  We reject the dissent’s premise for the textual and structural reasons already discussed. 
+
+12
+ Memorandum from U. S. Atty. Gen. to U. S. Attys. & Assistant Attys. Gen. for the Crim. & Nat. Security Divs., Intake and Charging Policy for Computer Crime Matters 5 (Sept. 11, 2014), https://www.justice.gov/criminal-ccips/file/904941/download (emphasis added).  Although the Government asserts that it has “[h]istorically” prosecuted only “core conduct” like Van Buren’s and not the commonplace violations that Van Buren fears, Brief for United States 40, the contrary examples Van Buren and his amici cite give reason to balk at that assurance.  See Brief for Petitioner 32–33; Brief for Orin Kerr as Amicus Curiae 18–23; Brief for Technology Companies as Amici Curiae 11. 
+
+

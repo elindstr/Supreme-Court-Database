@@ -1,0 +1,637 @@
+::SCDB_caseID:: 2015-024
+::decision_cite:: 14-181
+::decision_name::  Gobeille v. Liberty Mut. Ins. Co.
+::decision_year:: 2016
+::opinion_author:: Ginsburg
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 14–181
+
+															_________________
+
+															ALFRED GOBEILLE, in his official capacity as
+chair of the vermont green mountaincare board, PETITIONER v.
+LIBERTYMUTUAL INSURANCE COMPANY
+
+															on writ of certiorari to the united states
+court of appeals for the second circuit
+
+															[March 1, 2016]
+
+															Justice Ginsburg, with whom Justice Sotomayor
+joins, dissenting.
+
+															To better control health care outcomes and
+costs, Vermont requires all public and private entities that pay
+for health care services provided to Vermont residents to supply
+data to the State’s all-payer claims database. Many States
+have similar databases in place or in development. The question
+presented in this case is whether Vermont’s health care
+data-collection law is preempted by the Employer Retirement Income
+Security Act of 1974 (ERISA), 88Stat. 832, 29 U. S. C.
+§1001 et seq., the federal law regulating employee
+benefit plans. I would hold that Vermont’s effort to track
+health care services provided to its residents and the cost of
+those services does not impermissibly intrude on ERISA’s
+dominion over employee benefit plans.
+
+															I
+
+															In 2005, the Vermont Legislature established
+the Vermont Health Care Uniform Reporting and Evaluation System, a
+database populated by information on health care claims paid by
+insurers and other coverage providers. See Vt. Stat. Ann., Tit. 18,
+§9410 (2015 Cum. Supp.); Reg. H–2008–01, Code Vt.
+Rules 21–040–021, §4(D) (2016) (directing insurers
+and other coverage providers to “submit medical claims data,
+pharmacy claims data, member eligibility data, provider data, and
+other information related to health care provided to Vermont
+residents and health care provided by Vermont health care providers
+and facilities”). Health insurers and other coverage
+providers must report the required data if they cover at least 200
+Vermont residents. §3(Ab).
+
+															Seventeen other States have enacted similar
+database systems, called “all-payer claims
+databases.”[1] These
+States, like Vermont, collect health-claims data to serve
+compelling interests, including identification of reforms effective
+to drive down health care costs, evaluation of relative utility of
+different treatment options, and detection of instances of
+discrimination in the provision of care. See Brief for National
+Governors Association et al. as Amici Curiae 11–14;
+Brief for Harvard Law School Center for Health Law and Policy
+Innovation et al. as Amici Curiae 11–18; Brief for
+State of New York et al. as Amici Curiae 12–20. See
+also Vt. Stat. Ann., Tit. 18, §9410(a)(1) (Vermont’s
+data-collection law is designed to help “identif[y] health
+care needs and infor[m] health care policy,”
+“evaluat[e] the effectiveness of intervention programs on
+improving patient outcomes,” “compar[e] costs between
+various treatment settings and approaches,”
+“determin[e] the capacity and distribution of existing
+resources,” and “provid[e] information to
+. . . purchasers of health care”).[2]
+
+															Respondent Liberty Mutual Insurance Company
+(Lib-erty), in common with legions of employers, provides health
+care to its employees through a self-insured plan, administered by
+Blue Cross/Blue Shield (Blue Cross).[3] Because Blue Cross administers thousands of health care
+policies in Vermont, the State requires it to report data for all
+of the plans it administers, and Blue Cross has complied with this
+mandate. In 2010, for example, Blue Cross reported data on over
+7,000 Vermont health care-plan beneficiaries. Roughly half of the
+beneficiaries received coverage through self-insured employer
+policies. App. 205. In 2011, at Liberty’s request, Blue Cross
+did not submit data on Vermont residents who received coverage
+through Liberty’s plan. Id., at 21–23. Vermont
+ordered Blue Cross to provide the claims data. Id., at 23,
+31–33. Lib-erty instructed Blue Cross not to comply and,
+shortly thereafter, filed the instant suit, seeking to block
+Vermont from obtaining the data.
+
+															In defense of its resistance to Vermont’s
+data-collection law, Liberty relies on its plan’s status as
+an ERISA-covered “employee welfare benefit plan,”
+defined as “any plan, fund, or program . . .
+established or maintained by an employer . . . for the
+purpose of providing for its participants or their beneficiaries,
+through the purchase of insurance or otherwise, . . .
+medical, surgical, or hospital care or benefits, or benefits in the
+event of sickness.” 29 U. S. C. §1002(1).
+Because ERISA directs plan fiduciaries to conserve plan assets for
+the purpose of “providing benefits to participants,”
+§1104(a)(1)(A)(ii), Liberty maintains that ERISA preempts
+diverse state health-claims reporting laws. If there is to be
+mandatory health-claims reporting by ERISA plans, Liberty urges,
+the source of the mandate should be a uniform national reporting
+regime. See Brief for Respondent 26–29; Tr. of Oral Arg.
+32–33.
+
+															Opposing ERISA-grounded preemption of its
+data-collection law, Vermont points out that the efficacy of the
+State’s law depends on comprehensive reporting, i.e.,
+collecting data on numerous beneficiaries from each of several
+major segments of the health care market. See Brief for Petitioner
+12; Brief for Harvard Law School Center for Health Law and Policy
+Innovation et al. as Amici Curiae 18–19.[4] About half of Americans with health
+insurance receive coverage from their employers, Dept. of Commerce,
+Bureau of Census, J. Smith & C. Medalia, Health Insurance
+Coverage in the United States: 2013, p. 2 (2014), and 61% of such
+persons are covered by an employer’s self-insured plan. Brief
+for Harvard Law School Center for Health Law and Policy Innovation
+et al. as Amici Curiae 20. In Vermont, about 20% of the
+database’s total content originates from employer
+self-insured plans. Brief for Petitioner 12, and n. 10. Stopping
+States from collecting claims data from self-insured employer
+health care plans would thus hugely undermine the reporting regimes
+on which Vermont and other States depend to maintain and improve
+the quality, and hold down the cost, of health care services.
+
+															The United States District Court for the
+District of Vermont rejected Liberty’s plea for preemption.
+Vermont’s data-collection law, that court determined, served
+the State’s undoubted interest in regulating health care
+markets, and did not substantially interfere with the operation of
+Liberty’s ERISA plans. See App. to Pet. for Cert.
+64–66, 78–79. The Court of Appeals for the Second
+Circuit reversed, two to one. Liberty Mut. Ins. Co.
+v. Donegan, 746 F. 3d 497 (2014). The majority
+acknowledged that the Supreme Court’s ERISA-preemption
+decisions of the 1990’s “marked something of a
+pivot” in starting with a presumption
+“ ‘that Congress does not intend to supplant state
+law,’ especially if the ‘state action [occurs] in
+fields of traditional state regulation,’ like health
+care.” Id., at 506 (quoting New York State
+Conference of Blue Cross & Blue Shield Plans v.
+Travelers Ins. Co., 514 U. S. 645 –655 (1995)).
+Nonetheless, the majority con-cluded that ERISA preempted the
+application of Vermont’s data-collection law to
+Liberty’s plan. 746 F. 3d, at 506, 508. The
+reporting of information about plan benefits, the majority
+reasoned, qualifies as a “core ERISA functio[n]” and,
+therefore, must be “subject to a uniform federal
+standard.” Id., at 505, 508. Judge Straub dissented,
+offering a concise critique of the majority’s opinion:
+
+															“The majority finds that the burden
+imposed by the Vermont reporting requirement warrants preemption of
+the [data-collection] statute. This conclusion falters for two
+primary reasons. First, the reporting requirement imposed by the
+Vermont statute differs in kind from the ‘reporting’
+that is required by ERISA and therefore was not the kind of state
+law Congress intended to preempt. Second, Liberty Mutual has failed
+to show any actual burden, much less a burden that triggers ERISA
+preemption. Rather, the Vermont statute . . . does not
+interfere with an ERISA plan’s administration of
+benefits.” Id., at 511.
+
+															II
+
+															Essentially for the reasons Judge Straub
+identified, I would hold that ERISA does not preempt
+Vermont’s data-collection statute. That law and ERISA serve
+different purposes. ERISA’s domain is the design and
+administration of employee benefit plans: notably, prescriptions on
+the vesting of benefits, claims processing, and the designation of
+beneficiaries. See Travelers, 514 U. S., at 656
+(“Congress intended to ensure that plans and plan sponsors
+would be subject to a uniform body of benefits
+law. . . .” (internal quotation marks
+omitted)). Its reporting requirements, geared to those functions,
+ensure that the plans in fact provide covered benefits.
+Vermont’s data-collection statute, in contrast, aims to
+improve the quality and utilization, and reduce the cost, of health
+care in Vermont by providing consumers, government officials, and
+researchers with comprehensive data about the health care delivery
+system. Nor does Vermont’s law impose burdens on ERISA plans
+of the kind this Court has found sufficient to warrant
+preemption.
+
+															ERISA’s preemption clause provides that
+the Act “shall supersede any and all State laws insofar as
+they may now or hereafter relate to any employee benefit
+plan.” 29 U. S. C. §1144(a). Lacking clear
+direction from the clause’s “opaque” text, De
+Buono v. NYSA–ILA Medical and Clinical Services
+Fund, 520 U. S. 806, 809 (1997) , the Court has sought to
+honor Congress’ evident call for an expansive preemption
+principle without invalidating state regulations falling outside
+ERISA’s domain. See Travelers, 514 U. S., at
+655–656 (“The governing text of [the] ERISA [preemption
+clause] is clearly expansive. . . . [But] [i]f
+‘relate to’ were taken to extend to the furthest
+stretch of its indeterminacy, then for all practical purposes
+pre-emption would never run its course, for really, universally,
+relations stop nowhere.” (some internal quotation marks
+omitted)).[5]
+
+															Seeking to bring some measure of determinacy to
+ERISA preemption, the Court has stated: “[A] law
+‘relates to’ an employee benefit plan . . .
+if it has a connection with or reference to such a plan.”
+Id., at 656 (some internal quotation marks omitted). In this
+case, the Court of Appeals found, and the parties do not here
+contest, that Vermont’s data-collection law lacks
+“reference to” ERISA plans because the law applies to
+all health care payers and does not home in on ERISA plans. See 746
+F. 3d, at 508, n. 9. The question, therefore, is whether
+the law has an impermissible “connection with” ERISA
+plans. Because the term “ ‘connection with’
+is scarcely more restrictive than ‘relate
+to,’ ” the Court has “cautioned against
+. . . uncritical literalism,” Egelhoff v.
+Egelhoff, 532 U. S. 141, 147 (2001) (internal quotation
+marks omitted), and has set out this further formulation:
+“[T]o determine whether a state law has the forbidden
+connection, we look both to the objectives of the ERISA statute as
+a guide to the scope of the state law that Congress understood
+would survive, as well as to the nature of the effect of the state
+law on ERISA plans.” Ibid. (internal quotation marks
+omitted).
+
+															In framing preemption doctrine, the Court does
+not “assum[e] lightly that Congress has derogated state
+regulation, but instead . . . addresse[s] claims of
+pre-emption with the starting presumption that Congress does not
+intend to supplant state law,” Travelers, 514
+U. S., at 654, especially where the State’s regulation
+deals with “matters of health and safety,” De
+Buono, 520 U. S., at 814 (internal quotation marks
+omitted). In Travelers and subsequent decisions upholding
+state laws against preemption challenges, this Court made clear
+that this presumption plays an important role in ERISA cases.
+Travelers, 514 U. S., at 654, 661; California Div.
+of Labor Standards Enforcement v. Dillingham Constr., N. A.,
+Inc., 519 U. S. 316 –331 (1997); De Buono,
+520 U. S., at 814. Vermont’s data-collection law is a
+vital part of the State’s control of its own health care
+market. See supra, at 1–2, 4; 746 F. 3d, at 513
+(Straub, J., dissenting). The presumption against preemption should
+thus apply full strength, and Liberty has not rebutted it,
+i.e., it has not shown that ERISA demands the preemption of
+Vermont’s data-collection law. To the contrary, the
+Court’s ERISA preemption precedent points against
+preemption in this case.
+
+															A
+
+															To determine whether Vermont’s
+data-collection law, as applied to Liberty’s plan, has an
+impermissible “connection with” ERISA plans, I look
+first to the “objectives of the ERISA statute as a
+guide.” Egelhoff, 532 U. S., at 147; Oneok,
+Inc. v. Learjet, Inc., 575 U. S. ___, ___ (2015)
+(slip op., at 11) (emphasizing “the importance of considering
+the target at which the state law aims” in
+applying ordinary field-preemption principles). Because
+ERISA’s reporting requirements and the Vermont law elicit
+different information and serve distinct purposes, there is no
+sensible reason to find the Vermont data-collection law
+preempted.
+
+															ERISA-covered benefit plans must, absent
+exemption, file annual reports containing financial and actuarial
+data to enable the Secretary of Labor to evaluate plans’
+management and solvency. See 29 U. S. C.
+§§1023, 1024(a)(2)(B); Dillingham, 519 U. S.,
+at 326–327 (Congress “established extensive reporting
+. . . requirements” to protect against “the
+mismanagement of funds accumulated to finance employee benefits and
+the failure to pay employees’ benefits from accumulated
+funds.” (internal quotation marks omitted)).[6]
+
+															Beyond debate, Vermont’s data-collection
+law does not seek to regulate the management and solvency of
+ERISA-covered welfare plans. See supra, at 2 (reciting
+objectives of the Vermont data-collection law). Vermont requests no
+information on plan finances. See Reg. H–2008–01, Code
+of Vt. Rules 21–040–021, §4(D); supra, at 2
+(detailing the types of data collected by Vermont). The State
+collects data on paid health care claims, not denied claims. See
+§5(A)(8). Vermont seeks a better understanding of how its
+residents obtain health care and how effective that care is. Unlike
+ERISA superintendence, Vermont’s interest does not lie in
+reviewing whether a self-insured provider is keeping its bargain to
+covered employees. Nor does Vermont’s statute even arguably
+regulate relationships among the prime ERISA entities:
+beneficiaries, participants, administrators, employees, trustees
+and other fiduciaries, and the plan itself.
+
+															Despite these significant differences between
+ERISA’s reporting requirements and Vermont’s
+data-collection regime, Liberty contends that Congress intended to
+spare ERISA plans from benefit-related reporting requirements
+unless those requirements are nationally uniform. In support of
+this contention, Liberty points to dicta from this Court’s
+opinions and selections from ERISA’s legislative history.
+See, e.g., Travelers, 514 U. S., at 661
+(“ ‘[S]ubject matters covered by ERISA [include]
+reporting, disclosure, fiduciary responsibility, and the
+like.’ ” (quoting Shaw v. Delta Air
+Lines, Inc., 463 U. S. 85, 98 (1983) )); Ingersoll-Rand
+Co. v. McClendon, 498 U. S. 133, 137 (1990) (ERISA
+“sets various uniform standards, including rules concerning
+reporting, disclosure, and fiduciary responsibility, for both
+pension and welfare plans.”); 120 Cong. Rec. 29942 (1974)
+(remarks of Sen. Javits) (“State laws compelling disclosure
+from . . . plans . . . will be
+superseded.”). Far from unambiguously endorsing
+Liberty’s sweeping view of ERISA’s preemptive scope,
+these statements can be read at least as reasonably for the
+unremarkable principle that ERISA preempts state reporting rules
+designed to serve the same purposes as ERISA’s reporting
+requirements. This more limited understanding is consistent with
+the Court’s admonition to pay close attention to the
+“objectives of the ERISA statute as a guide.”
+Egelhoff, 532 U. S., at 147.
+
+															B
+
+															Satisfied that ERISA’s objectives do not
+require preemption of Vermont’s data-collection law, I turn
+to the “nature of the effect of the state law on ERISA
+plans.” Ibid. The imposition of some burdens on the
+administration of ERISA plans, the Court has held, does not suffice
+to require preemption. See De Buono, 520 U. S., at 815.
+While a law imposing costs so acute as to effectively dictate how a
+plan is designed or administered could trigger preemption, see
+id., at 816, n. 16, no such extreme effects are present
+here. Moreover, no “central matter of plan
+administration,” Egelhoff, 532 U. S., at 148, is
+touched by Vermont’s data-collection law. That law prescribes
+no vesting requirements, benefit levels, beneficiary designations,
+or rules on how claims should be processed or paid. Indeed,
+Vermont’s law does not require Liberty to do anything. The
+burden of compliance falls on Blue Cross, which apparently provides
+the data without protest on behalf of other self-funded plans. See
+supra, at 3.
+
+															Reporting and disclosure are no doubt required
+of ERISA plans, but those requirements are ancillary to the areas
+ERISA governs. Reporting and recordkeeping incident to state laws
+of general applicability have been upheld as they bear on ERISA
+plans. In De Buono, 520 U. S., at 809–810, 816,
+for example, the Court held that a gross-receipts tax on patient
+services provided by a hospital operated by an ERISA plan was not
+preempted, even though administration of the tax required filing
+quarterly reports. And in Dillingham, 519 U. S., at
+319, the Court held that California’s prevailing-wage law was
+not preempted as applied to apprenticeship programs established by
+ERISA plans. Prevailing-wage laws typically require employees to
+keep records of the wages paid to employees and make them available
+for review by state authorities. See, e.g., Cal. Lab. Code
+Ann. §1776 (West 1989) (prevailing-wage law in
+Dillingham). The Second Circuit erred, then, in holding that
+ERISA preempts any state-law reporting obligation that is more than
+“slight.” See 746 F. 3d, at 508–509.
+
+															The Vermont data-collection statute keeps
+company with the laws considered in De Buono and
+Dillingham: It is generally applicable and does not involve
+“a central matter of plan administration.”
+Egelhoff, 532 U. S., at 148. And, as Judge Straub
+emphasized in his dissent, Liberty “failed to provide any
+details or showing of the alleged burden,” instead
+“arguing only that ‘all regulations have their
+costs.’ ” 746 F. 3d, at 515 (quoting
+Liberty’s appellate brief).
+
+															As the United States explains, the supposition
+indulged by the Second Circuit that Vermont’s law imposed a
+substantial burden “is not obvious, or even particularly
+plausible, without any factual support.” Brief for United
+States as Amicus Curiae 28. The data-collection law
+“essentially requires Blue Cross [Liberty’s third-party
+administrator] to take information generated in the ordinary course
+of its claims-payment operations and report that information in a
+prescribed format to the [State].” Ibid. The Court of
+Appeals majority accentuated the sheer number of data entries that
+must be reported to Vermont. See 746 F. 3d, at 509–510,
+and n. 13. Accord ante, at 1 (opinion of Breyer, J.)
+Entirely overlooked in that enumeration is the technological
+capacity for efficient computer-based data storage, formatting, and
+submission. See Brief for National Association of Health Data
+Organizations et al. as Amici Curiae 7–9, 13
+(describing three-step electronic path data take from health
+provider, to insurer or health care plan, and ultimately to the
+State’s database).[7]
+Where regulatory compliance depends upon the use of evolving
+technologies, it should be incumbent on the objector to show
+concretely what the alleged regulatory burden in fact
+entails.[8]
+
+															Because data-collection laws like
+Vermont’s are not uniform from State to State, compliance is
+inevitably burdensome, Liberty successfully argued in the Court of
+Appeals. The Court replays this reasoning in today’s opinion.
+See ante, at 7, 10. But state-law diversity is a hallmark of
+our political system and has been lauded in this Court’s
+opinions. See, e.g., Arizona State Legislature v. Arizona
+Independent Redistricting Comm’n, 576 U. S. ___, ___
+(2015) (slip op., at 28) (“This Court has long recognized the
+role of States as laboratories for devising solutions to difficult
+legal problems.” (citing New State Ice Co. v.
+Liebmann, 285 U. S. 262, 311 (1932) (Brandeis, J.,
+dissenting); internal quotation marks omitted)). Something more
+than an inherent characteristic of our federal system, therefore,
+must underpin the ERISA-grounded preemption Liberty urges.[9]
+
+															Liberty points to Egelhoff as exemplary.
+In Egelhoff, 532 U. S., at 143–144, a deceased
+ERISA-plan participant’s ex-spouse challenged a state law
+that revoked her beneficiary status automatically upon her divorce,
+even though the ERISA plan’s terms did not. The Court held
+that ERISA preempted the law because it “binds ERISA plan
+administrators to a particular choice of rules for determining
+beneficiary status.” Id., at 147. In that context, the
+Court said: “Requiring ERISA administrators to master the
+relevant laws of 50 States . . . would undermine the
+congressional goal of minimizing the administrative and financial
+burdens on plan administrators—burdens ultimately borne by
+the beneficiaries.” Id., at 149–150 (internal
+quotation marks and brackets omitted).
+
+															The Court took care, however, to confine
+Egelhoff to issues implicating “a central matter of
+plan administration,” in other words, “a core ERISA
+concern.” Id., at 147–148. What does that
+category comprise? As earlier described, see supra, at 6,
+11, prescriptions on benefit levels, beneficiary designations,
+vesting requirements, and rules on processing and payment of claims
+would rank under the central or core ERISA subject-matter
+rubric.[10] So, too, would
+reporting and disclosure obligations, but of what kind? Those that
+further regulation of the design and administration of employee
+benefit plans, i.e., reporting and disclosures tied to the
+areas ERISA governs. ERISA’s reporting and disclosure
+requirements are thus concerned with mismanagement of funds,
+failure to pay employee benefits, plan assets or allocations, all
+information bearing on the financial integrity of the plan. See
+supra, at 8–9. Vermont’s data-collection law,
+eliciting information on medical claims, services provided to
+beneficiaries, charges and payment for those services, and
+demographic makeup of those receiving benefits, does not fit the
+bill any more than reporting relating to a plan’s taxes or
+wage payments does.
+
+															Numerous States have informed the Court of their
+urgent need for information yielded by their health care
+data-collection laws. See Brief for National Governors Association
+et al. as Amici Curiae; Brief for State of New York et
+al. as Amici Curiae; Brief for Connecticut Health Insurance
+Exchange as Amicus Curiae; Brief for State of New Hampshire
+as Amicus Curiae. Wait until the Federal Government acts is
+the Court’s response. The Department of Labor’s
+capacious grant of statutory authority, the Court observes, might
+allow it to collect the same data Vermont and other States seek
+about ERISA plan health-benefit payments. See ante, at 10;
+ante, at 2–3 (opinion of Breyer, J.). Once the
+information is collected, the Court conjectures, the Department
+could pass the data on to the States. Cf. ante, at 2–3
+(opinion of Breyer, J.) (suggesting that States could seek the
+Department’s permission to enforce reporting requirements
+like Vermont’s). It is unsettling, however, to leave the
+States dependent on a federal agency’s grace, i.e.,
+the Department of Labor’s willingness to take on a chore
+divorced from ERISA’s objectives.[11]
+
+															*  *  *
+
+															Declaring “reporting,” unmodified,
+a central or core ERISA function, as the Second Circuit did, 746
+F. 3d, at 508, passes the line this Court drew in
+Travelers, De Buono, and Dillingham when it
+reined in §1144(a) so that it would no longer operate as a
+“super-preemption” provision. Bogan, Protecting Patient
+Rights Despite ERISA, 74 Tulane L. Rev. 951, 959 (2000); see
+supra, at 8. I dissent from the Court’s retrieval of
+preemption doctrine that belongs in the discard bin.
+
+Notes
+1
+ States, in addition to
+Vermont, so far maintaining all-payer claims databases are:
+Arkansas, Colorado, Connecticut, Kansas, Maine, Maryland,
+Massachusetts, Minnesota, New Hampshire, New York, Oregon, Rhode
+Island, Tennessee, Utah, Virginia, Washington, and West Virginia.
+Brief for National Governors Association et al. as Amici
+Curiae 8, and n. 9.
+2
+ Illustrative of the
+utility of all-payer claims databases, Minnesota evaluated data on
+emergency-room visits and concluded that the condition causing two
+of every three visits could have been treated more efficiently, and
+as effectively, in a nonhospital setting. Brief for State of New
+York et al. as Amici Curiae 12–13.
+3
+ Liberty’s plan
+would not, on its own, trigger Vermont’s reporting
+requirements. As of 2011, only 137 plan participants resided in the
+State, out of the total 84,711 individuals covered by
+Liberty’s plan. App. to Pet. for Cert. 50.
+4
+ The Federal Government
+supplies Medicare claims data to Vermont and other States that
+maintain similar databases. See 42 U. S. C.
+§1395kk(e) (requiring the Department of Health and Human
+Services (HHS) to make Medicare data available to state
+health-claims databases). And HHS has authorized the States to
+include Medicaid claims data in their databases. See Brief for
+United States as Amicus Curiae 7.
+5
+ I have joined opinions
+proposing that the Court acknowledge that the
+“ ‘relate to’ clause of the pre-emption
+provision is meant, not to set forth a test for pre-emption,
+but rather to identify the field in which ordinary field
+pre-emption applies—namely, the field of laws
+regulating” employee-benefit plans. California Div. of
+Labor Standards Enforcement v. Dillingham Constr., N. A.,
+Inc., 519 U. S. 316, 336 (1997) (Scalia, J., concurring);
+Egelhoff v. Egelhoff, 532 U. S. 141, 153 (2001)
+(Scalia, J., concurring). Whether measured against ordinary
+preemption principles or this Court’s ERISA-specific
+precedent, Vermont’s data-collection law should survive
+inspection.
+6
+ The Court suggests that
+the Department of Labor collects, pursuant to ERISA’s
+reporting rules, similar information to the data that
+Vermont’s regime elicits. See ante, at 8. But these
+reporting obligations are not remotely similar. As one of
+Liberty’s amici curiae explains, the Department of
+Labor reporting form cited by the Court requires reporting of the
+“total amount of claims paid annually by the plan,” not
+the “granular claim-by-claim” information (including
+data about the “location of services rendered”) that
+Vermont collects. Brief for National Coordinating Committee for
+Multiemployer Plans as Amicus Curiae 15, n. 4. See also
+Reply Brief 13, and n. 6. The data entries cited by the Court
+require a plan to enter, in merely a handful of boxes on a
+four-page form, the aggregate sums of all claims paid annually. See
+Dept. of Labor, Schedule H (Form 5500) Financial Information
+(2015), online at
+http://www.dol.gov/ebsa/pdf/2015-5500-Schedule-H.pdf (all Internet
+materials as last visited Feb. 24, 2016).
+7
+ Amici supporting
+Liberty point to several allegedly burdensome features of
+compliance with Vermont’s law, but they appear to be no more
+than everyday facets of modern regulatory compliance: installing
+and maintaining a software system to collect and remit data to the
+State, seeking variances from state regulators when health
+providers do not submit required information to the plan or its
+administrator, and reformatting data to comply with state-database
+formatting and encryption standards. See Brief for Blue Cross and
+Blue Shield Association as Amicus Curiae 30–32, and
+nn. 7–8; Brief for National Coordinating Committee for
+Multiemployer Plans as Amicus Curiae 11–13,
+16–18.
+8
+ Liberty contends that it
+need not quantify the precise cost of compliance with
+Vermont’s law to prove that the law is burdensome. But
+Liberty should at least introduce concrete evidence of the alleged
+burdens. A finder of fact would reasonably ask, for example: Do
+Blue Cross’s existing technologies for data storage already
+have capacity to store and report the data sought by Vermont? And
+is compliance with Vermont’s reporting rules any more
+burdensome than compliance with other state reporting laws with
+which the plan already complies?
+9
+ Concurring in the
+Court’s opinion, Justice Breyer worries that “[i]f each
+State is free to go its own way, . . . the result could
+well be unnecessary, duplicative, and conflicting reporting
+requirements.” Ante, at 1. In support, Justice Breyer
+cites a 2011 report. A. Costello & M. Taylor, APCD Council
+& NAHDO, Standardization of Data Collec-tion in All-Payer
+Claims Databases 1 (Jan. 1 online 2011), at
+https:// www.apcdcouncil.org / publication / standardization-data-collection-all-payer-claims-databases.
+In fact, the organizations that published this report inform us, in
+a brief supporting Vermont, that “submitting claims data to
+[all-payer claims databases] . . . is a routine,
+straightforward process” and that States and private
+organizations have worked in recent years to standardize
+data-reporting requirements. Brief for National Association of
+Health Data Organizations et al. as Amici Curiae
+13.
+10  The
+“core ERISA concern” (or “central matter of plan
+administration”) inquiry is not meaningfully different from
+the examination whether a state law is inconsistent with the
+“objectives of the ERISA statute.” Egelhoff, 532
+U. S., at 147; see supra, at 8–10. The Court
+appears to disagree, stating that “[a]ny difference in
+purpose” between ERISA and Vermont’s reporting
+requirements “does not transform [Vermont’s] direct
+regulation of a ‘central matter of plan administration’
+into an innocuous and peripheral set of additional rules.”
+Ante, at 11–12 (quoting Egelhoff, 532
+U. S., at 148). In other words, the Court assumes that a state
+law that is not inconsistent with ERISA’s purposes can
+nonetheless burden a “central matter of plan
+administration” or implicate a “core ERISA
+concern.” Missing from the Court’s opinion is any
+definition of these terms. What meaning can “central matter
+of plan administration” and “core ERISA concern”
+have if they are divorced from ERISA’s purposes?
+11  The
+Court’s analysis may hamper States’ abilities to
+require reporting, not just of plan benefits, but of plan assets as
+well. For example, the Department of Labor collects information
+about real property held in trust by a pension plan so that it can
+assess the plan’s financial well-being. See Tr. of Oral Arg.
+19. States may need to collect the same information for a very
+different purpose, such as assessing a property tax.
+
+

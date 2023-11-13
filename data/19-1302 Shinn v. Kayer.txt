@@ -1,0 +1,151 @@
+::SCDB_caseID:: 2020-037
+::decision_cite:: 19-1302
+::decision_name::  Shinn v. Kayer
+::decision_year:: 2020
+::opinion_author:: 
+::opinion_type:: 
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															DAVID SHINN, DIRECTOR, ARIZONA DEPARTMENT OF CORRECTIONS v. GEORGE RUSSELL KAYER
+
+															on petition for writ of certiorari to the united states court of appeals for the ninth circuit
+
+															No. 19–1302. Decided December 14, 2020
+
+															
+
+															Per Curiam.
+
+															The Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) restricts the power of federal courts to grant writs of habeas corpus based on claims that were “adjudicated on the merits” by a state court.
+
+28 U. S. C. §2254(d).  When a state court has applied clearly established federal law to reasonably determined facts in the process of adjudicating a claim on the merits, a federal habeas court may not disturb the state court’s decision unless its error lies “beyond any possibility for fairminded disagreement.”  Harrington v. Richter,
+
+562 U.S. 86, 103 (2011).  In this case, the Court of Appeals erred in ordering issuance of a writ of habeas corpus despite ample room for reasonable disagreement about the prisoner’s ineffective-assistance-of-counsel claim.  In so doing, the Court of Appeals clearly violated this Court’s AEDPA jurisprudence.  We therefore grant the petition for certiorari and vacate the judgment below.
+
+															I
+
+															A
+
+															Respondent George Kayer murdered Delbert Haas in 1994.  Haas, Kayer, and Lisa Kester were on a trip to gamble in Laughlin, Nevada.  While there, Kayer borrowed money from Haas and lost it gambling.  Kayer then devised a plan to rob Haas, but Kester questioned whether he could get away with robbing someone he knew.  Kayer responded, “ ‘I guess I’ll just have to kill him.’ ”  State v. Kayer, 194 Ariz. 423, 428, 984 P.2d 31, 36 (1999).  While the three drove home, Kayer took a detour to a secluded area and stopped on the side of a dirt road.  After Haas exited the vehicle to urinate, Kayer grabbed a gun, sneaked up to him, and shot him pointblank in the head.  After dragging Haas’ body into some bushes, Kayer stole his wallet, watch, and jewelry, and drove away.  Kayer soon realized that he had forgotten to take Haas’ house keys, and he therefore returned to the scene of the crime.  Fearing that Haas might not be dead, Kayer shot him in the head again while retrieving his keys.  Subsequently, Kayer stole a variety of firearms and other things of value from Haas’ home after instructing Kester to use a police scanner to look out for police activity.  The two sold many of the stolen items under aliases, but Kayer was arrested after Kester went to the police.  After a jury trial before Judge William T. Kiger, Kayer was found guilty of premeditated first-degree murder and related offenses.
+
+															After being found guilty, Kayer “made clear his desire to expedite the sentencing process.”  Id., at 429, 984 P. 2d,  at 37.  He refused to fully cooperate with a mitigation specialist.  When Kayer’s counsel stated that the specialist needed more time to evaluate Kayer’s case, Kayer refused to agree to a continuance, and the trial court ruled him competent to make that choice.  At sentencing, the judge again asked Kayer whether he would like more time for investigation, but Kayer “refused the offer and stated he would not cooperate with [the specialist] no matter how long sentencing was delayed.”  Id., at 429–430, 984 P. 2d, at 37–38.
+
+															The court proceeded to sentencing.  At that time, Arizona law required a judge, not a jury, to determine whether certain aggravating circumstances had been established, and a judge was authorized to impose a sentence of death only if at least one such aggravating circumstance was shown and there was no mitigating circumstance that was sufficient to call for leniency.  See Ariz. Rev. Stat. Ann. §13–703 (Supp. 1998); cf. Ring v. Arizona,
+
+536 U.S. 584, 609 (2002) (subsequently requiring juries “to find an aggravating circumstance necessary for imposition of the death penalty”).  In Kayer’s case, the judge found that the State had proved two aggravating factors beyond a reasonable doubt.  First, the court concluded that Kayer had been “previously convicted of a serious offense,” §13–703(F)(2), based on his conviction for first-degree burglary in 1981, see §13–703(H)(9); Kayer, 194 Ariz., at 433, 984 P. 2d, at 41.  Second, it determined that Kayer murdered Haas for “pecuniary gain,” see §13–703(F)(5).  On the other side of the balance, the court found that Kayer had demonstrated only one nonstatutory mitigator: his importance in his son’s life.  Weighing the aggravating and mitigating factors, Judge Kiger sentenced Kayer to death, and the Arizona Supreme Court affirmed his conviction and sentence.
+
+															B
+
+															Kayer subsequently filed a petition for postconviction relief in Arizona Superior Court.  Among his many claims, Kayer argued that he received ineffective assistance of counsel because his attorneys failed to investigate mitigating circumstances at the outset of the criminal proceedings.  The sentencing judge held a 9-day evidentiary hearing.
+
+															Kayer’s evidence at the hearing broke down into four main categories: evidence that he was addicted to alcohol and gambling; evidence that he had suffered a heart attack about six weeks before the murder; evidence of mental illness, including a diagnosis of bipolar disorder; and evidence that members of his family had suffered from similar addictions and illnesses in the past and that this had affected his childhood.  See Kayer v. Ryan, 923 F.3d 692, 708–713 (CA9 2019) (describing evidence in detail).
+
+															The court denied relief after applying the familiar two-part test from Strickland v. Washington,
+
+466 U.S. 668 (1984).  The court found that trial counsel’s performance was not deficient because Kayer had refused to cooperate with his mitigation team’s efforts to gather more mitigation evidence.  And, in the alternative, the court held that “if there had been a finding that the performance prong of the Strickland standard had been met, . . . no prejudice to the defendant can be found.”  App. to Pet. for Cert. 189.  The court added that “[i]n stating this conclusion[, it] ha[d] considered the assertion of mental illness, physical illness, jail conditions, childhood development, and any alcohol or gambling addictions.”  Ibid.  The Arizona Supreme Court denied Kayer’s petition to review the denial of postconviction relief.  State v. Kayer, No. CR–07–0163–PC (Nov. 7, 2007).
+
+															C
+
+															Kayer then filed an unsuccessful habeas petition in Federal District Court.  See
+
+28 U. S. C. §2254.  Relevant here, the District Court rejected Kayer’s ineffective-assistance claim for failure to show prejudice.  As an initial matter, the court concluded that Kayer could not “show prejudice because he waived an extension of the sentencing date and thereby waived presentation of the full-scale mitigation case.”  Kayer v. Ryan, 2009 WL 3352188, *21 (D Ariz.,  Oct. 19, 2009) (citing Schriro v. Landrigan,
+
+550 U.S. 465 (2007)).  Moreover, the court reasoned that Kayer’s mitigation evidence “fell short of the type of mitigation information that would have influenced the sentencing decision.”  2009 WL 3352188, *21.
+
+															A divided Ninth Circuit panel reversed.  On the question of trial counsel’s performance, the panel rejected the state court’s judgment because, in the judgment of the panel, Kayer’s attorneys should have begun to pursue mitigation evidence promptly after their appointment.  And on the question of prejudice, the court conducted its own review of the evidence and found that trial counsel’s alleged failings likely affected Kayer’s sentence.  Based on a “comparison of Kayer’s case with other Arizona cases,” the panel drew two conclusions: first, that “the evidence he presented to the [state postconviction] court was sufficient to establish a statutory mitigating circumstance” of mental impairment, 923 F. 3d, at 718, and second, that there was a reasonable probability that the Arizona Supreme Court would have vacated Kayer’s death sentence on direct review had it been presented with the mitigating evidence offered at the state postconviction relief hearing.  For these reasons, the panel majority found that “there is a reasonable probability Kayer’s sentence would have been less than death, and that the state [postconviction] court was unreasonable in concluding otherwise.”  Id., at 723.
+
+															Judge Owens dissented in relevant part, explaining that the Arizona postconviction court had not unreasonably applied federal law in light of the aggravating and mitigating circumstances in this case.  In his view, Kayer’s mitigating evidence was “hardly overwhelming,” and he argued that the majority had given short shrift to the “undisputedly strong aggravating factor” of pecuniary gain.  Id., at 727.  The majority’s holding, he concluded, resulted from “impermissibly substitut[ing] its own judgment that Kayer was prejudiced” for that of the state court.  Ibid.
+
+															Arizona then sought, and the Ninth Circuit denied, rehearing en banc.  Judge Bea authored a dissent from the denial of en banc review, which was joined by 11 other judges.  See Kayer v. Ryan, 944 F.3d 1147, 1156 (2019).  Judge Bea asserted that “the panel majority cast aside . . . AEDPA’s highly deferential standard of review.”  Id., at 1158.  Instead, he wrote, the panel majority had applied a “de-novo-masquerading-as-deference approach” that the “Supreme Court has repeatedly condemned.”  Id., at 1168; see also id., at 1157, n. 1 (citing 14 cases since 2002 in which this Court has reversed the Ninth Circuit’s application of AEDPA).  Under AEDPA and this Court’s precedent, he contended, “there [was] no ignoring the obvious conclusion that a reasonable jurist could conclude that Kayer was not in fact prejudiced by his counsel’s failings in this case.”  Id., at 1164.  The mitigating impact of Kayer’s new evidence was, at best, “highly debatable.”  Id., at 1169 (internal quotation marks omitted).  Applying the proper standard of review, Judge Bea explained that “it [was] possible that fairminded jurists could find [Kayer’s] evidence insufficient to establish a reasonable probability of a different outcome.”  Id., at 1168 (citing Richter, 562 U. S., at 102).
+
+															After the denial of rehearing en banc, Arizona filed a petition for certiorari in this Court.
+
+															II
+
+															A
+
+															Kayer asserts that his death sentence was imposed in violation of his
+ 
+Sixth Amendment right to effective assistance of counsel.  As the state court recognized, this Court’s decision in Strickland v. Washington,
+
+466 U.S. 668 (1984), provides the proper framework for assessing that claim.  Under Strickland, Kayer must show that his counsel provided “deficient” performance that “prejudiced the defense.”  Id., at 687.  In the capital sentencing context, the prejudice inquiry asks “whether there is a reasonable probability that, absent the errors, the sentencer—including an appellate court, to the extent it independently reweighs the evidence—would have concluded that the balance of aggravating and mitigating circumstances did not warrant death.”  Id., at 695.  The Strickland standard is “highly demanding.”  Kimmelman v. Morrison,
+
+477 U.S. 365, 382 (1986).  A reasonable probability means a “ ‘substantial,’ not just ‘conceivable,’ likelihood of a different result.”  Cullen v. Pinholster,
+
+563 U.S. 170, 189 (2011) (quoting Richter, 562 U. S., at 112).
+
+															When an ineffective-assistance-of-counsel claim is presented in a federal habeas petition, a state prisoner faces additional burdens.  Among other things, no relief may be granted “with respect to any claim that was adjudicated on the merits in State court proceedings unless the adjudication of the claim,” as relevant here, “resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States.”
+
+28 U. S. C. §2254(d).
+
+															Here, the state court applied “the correct governing legal principle . . . to the facts of the prisoner’s case,” Lockyer v. Andrade,
+
+538 U.S. 63, 75 (2003) (internal quotation marks omitted), so the question is whether its decision involved an “unreasonable application of ” this Court’s precedent.  To meet that standard, a prisoner must show far more than that the state court’s decision was “merely wrong” or “even clear error.”  Virginia v. LeBlanc, 582 U. S. ___, ___ (2017) (per curiam) (slip op., at 3) (internal quotation marks omitted).  The prisoner must show that the state court’s decision is so obviously wrong that its error lies “beyond any possibility for fairminded disagreement.”  Richter, 562 U. S., at 103.  Congress “meant” this standard to be “difficult to meet.”  Id., at 102.
+
+															We have recognized the special importance of the AEDPA framework in cases involving Strickland claims.  Ineffective -assistance claims can function “as a way to escape rules of waiver and forfeiture,” Richter, 562 U. S., at 105, and they can drag federal courts into resolving questions of state law.  Moreover, we have recognized that “the more general the rule, the more leeway state courts have.”  Sexton v. Beaudreaux, 585 U. S. ___, ___ (2018) (per curiam) (slip op., at 8) (quoting Renico v. Lett,
+
+559 U.S. 766, 776 (2010); quotation modified).  “[B]ecause the Strickland standard is a general standard, a state court has even more latitude to reasonably determine that a defendant has not satisfied that standard.”  Knowles v. Mirzayance,
+
+556 U.S. 111, 123 (2009).
+
+															B
+
+															The Ninth Circuit resolved this case in a manner fundamentally inconsistent with AEDPA.  Most striking, the panel “essentially evaluated the merits de novo, only tacking on a perfunctory statement at the end of its analysis asserting that the state court’s decision was unreasonable.”  Beaudreaux, 585 U. S., at ___ (slip op., at 7); see Richter, 562 U. S., at 101–102.  In other words, it appears “to have treated the unreasonableness question as a test of its confidence in the result it would reach under de novo review.”  Id., at 102.  More specifically, the panel concluded de novo that “there is a reasonable probability Kayer’s sentence would have been less than death,” and then simply appended the statement that “the state [postconviction review] court was unreasonable in concluding otherwise.”  923 F. 3d, at 723.  Indeed, the panel repeatedly reached conclusions—such as that the “evidence presented to the [postconviction] court established the statutory mitigating circumstance of mental impairment,” id., at 719, and that there was a “causal connection between Kayer’s mental impairment and the crime,” ibid.—without ever framing the relevant question as whether a fairminded jurist could reach a different conclusion.
+
+															Applying the proper standard of review, we vacate the Court of Appeals’ judgment.  Judge Kiger found that Kayer had failed to show deficient performance and, assuming deficient performance, that he failed to show prejudice.[1]  Federal courts may not disturb the judgments of state courts unless “each ground supporting the state court decision is examined and found to be unreasonable.”  Wetzel v. Lambert,
+
+565 U.S. 520, 525 (2012) (per curiam).  Thus, if a fairminded jurist could agree with either Judge Kiger’s deficiency or prejudice holding, the reasonableness of the other is “beside the point.”  Id., at 524; see Parker v. Matthews,
+
+567 U.S. 37, 42 (2012) (per curiam) (“[I]t is irrelevant [whether] the court also invoked a ground of questionable validity”); Richter, 562 U. S., at 102.
+
+															We focus on the state court’s prejudice determination.  Insofar as the state court offered its conclusion on the prejudice question without articulating its reasoning supporting that conclusion, we “must determine what arguments or theories . . . could have supported the state court’s” determination that Kayer failed to show prejudice.  Id., at 102.  Then we must assess whether “ ‘fairminded jurists could disagree’ on the correctness of the state court’s decision” if based on one of those arguments or theories.  Id., at 101 (quoting Yarborough v. Alvarado,
+
+541 U.S. 652, 664 (2004)); see Pinholster, 563 U. S., at 188.
+
+															Perhaps the most probable reason for Judge Kiger’s no-prejudice determination is simply that the new mitigation evidence offered in the postconviction proceeding did not create a substantial likelihood of a different sentencing outcome.  The Ninth Circuit generally considered that possibility, but in so doing impermissibly “substituted its own judgment for that of the state court” instead of applying deferential review.  Woodford v. Visciotti,
+
+537 U.S. 19, 25 (2002) (per curiam).[2]  It characterized Kayer’s prior-offense aggravator (first-degree burglary) as “relatively weak” in comparison with other offenses that qualified under the Arizona capital sentencing law.  923 F. 3d, at 718.  And on the other side of the balance, it attributed considerable weight to evidence that it viewed as showing that Kayer’s “capacity to appreciate the wrongfulness of his conduct or to conform his conduct to the requirements of law was significantly impaired.”  Ariz. Rev. Stat. Ann. §13–703(G)(1).
+
+															Perhaps some jurists would share those views, but that is not the relevant standard.  The question is whether a fairminded jurist could take a different view.  See Visciotti, 537 U. S., at 24–27; see also Pinholster, 563 U. S., at 200–202.  And the answer is yes.  For one thing, a fairminded jurist might differently evaluate the effect of Kayer’s prior-offense aggravator (let alone the pecuniary gain aggravator).  Arizona first-degree burglary required as an element that he or an accomplice was “armed with explosives, a deadly weapon or a dangerous instrument.”  Ariz. Rev. Stat. Ann. §13–1508(A) (1978).  And Judge Kiger determined that Kayer “was armed with a .41 caliber handgun” during his prior offense.  Excerpts of Record in No. 09–99027 (CA9), p. 935.  A fairminded jurist could see Kayer’s past conviction as having substantial weight in the context of this murder by shooting.
+
+															Fairminded jurists also could take a different view of Kayer’s mitigating evidence.  Kayer offered evidence that he suffered from bipolar disorder and untreated drinking and gambling addictions at the time of the crime, but reasonable jurists could debate the extent to which these factors significantly impaired his ability to appreciate the wrongfulness of his conduct or to conform his conduct to the law at the time of the murder.  For example, the record reveals that Kayer had extensive opportunities to consider his actions—planning the murder in advance, driving his victim to a remote area, and subsequently returning to the murder scene and shooting the victim in the head a second time.  Moreover, Kayer’s planning of the murder, efforts to hide the body, interactions with Kester before and after the murder, and attempts to profit from his crimes using an alias display a measure of control and intentionality.  On this record, a fairminded jurist reasonably could conclude that Kayer’s evidence of mental impairment, in the words of Judge Owens, was “hardly overwhelming.”  923 F. 3d, at 727; see also 944 F. 3d, at 1168–1171 (Bea, J., dissenting from denial of rehearing en banc).
+
+															Kayer counters that his claim is unusually strong because the Arizona Supreme Court would have “independently reweigh[ed] the evidence” on direct appeal.  Strickland, 466 U. S., at 695.  In his view, the similarity between his postconviction case and judgments that the State Supreme Court has issued in other cases on direct review supports his Strickland claim.  Arizona responds that the State Supreme Court would not have reweighed the evidence in the manner contemplated by Strickland.  And it asks this Court to hold that past state judgments on direct review are categorically irrelevant to AEDPA review.
+
+															We need not address these broad questions in order to resolve this case.  Even if Arizona’s sentencing practices involved reweighing evidence on direct appeal, capital sentencing requires “an individualized determination on the basis of the character of the individual and the circumstances of the crime.”  Zant v. Stephens,
+
+462 U.S. 862, 879 (1983).  For present purposes, it suffices to say that, because the facts in each capital sentencing case are unique, the weighing of aggravating and mitigating evidence in a prior published decision is unlikely to provide clear guidance about how a state court would weigh the evidence in a later case.
+
+															Kayer, like the panel below, focuses his argument on the Arizona Supreme Court’s decision in State v. Brookover, 124 Ariz. 38, 601 P.2d 1322 (1979), but that decision falls far short of placing the state court’s prejudice determination in this case beyond the realm of fairminded disagreement.  In Brookover, there was only one aggravating circumstance (a prior conviction for a serious offense), whereas Kayer’s sentencing involved two statutory aggravators.[3]  And as for the mitigating evidence in Brookover, while it is far from clear exactly what mitigating evidence influenced the court’s individualized sentencing determination, the opinion refers to evidence that appears significantly different from that in this case.  The Brookover opinion refers to evidence of a “ ‘neurological lesion’ ” of a type that caused “ ‘a relinquishment of one’s self autonomy.’ ”  Id., at 41, 601 P. 2d, at 1325.  By contrast, a reasonable jurist could view Kayer’s mitigation evidence in a different light for the reasons explained above.  In these circumstances, the Brookover decision does not come close to showing the sort of “extreme malfunctio[n] in the state criminal justice syste[m]” that would permit federal court intervention.  Richter, 562 U. S., at 102 (internal quotation marks omitted).
+
+															*  *  *
+
+															Under AEDPA, state courts play the leading role in assessing challenges to state sentences based on federal law.  A state court heard Kayer’s evidence and concluded that he failed to show prejudice.  The court below exceeded its authority in rejecting that determination, which was not so obviously wrong as to be “beyond any possibility for fairminded disagreement.”  Id., at 103.  Under §2254(d), that is “ ‘the only question that matters.’ ”  Id., at 102.
+
+															We grant the petition for a writ of certiorari, vacate the judgment of the United States Court of Appeals for the Ninth Circuit, and remand the case to that court for further proceedings consistent with this opinion.
+
+															It is so ordered.
+
+															
+
+															Justice Breyer, Justice Sotomayor, and Justice Kagan dissent.
+Notes
+1
+ Section 2254 calls for review of the “last state-court adjudication on the merits.”  Greene v. Fisher,
+
+565 U.S. 34, 40 (2011).  The Ninth Circuit treated the Superior Court’s decision, rather than the Arizona Supreme Court’s denial of review, as the last state-court adjudication on the merits.  Unreasoned dispositions by appellate courts sometimes qualify as adjudications on the merits.  In those cases, we apply a rebuttable presumption that the appellate court’s decision rested on the same grounds as the reasoned decision of a lower court.  See Wilson v. Sellers, 584 U. S. ___ (2018).  We may assume without deciding that the Arizona Supreme Court’s denial of discretionary review was not a merits adjudication because we conclude that the Superior Court did not unreasonably apply federal law.  In these circumstances, there would be no need to consider whether an unreasoned decision of a higher court may have rested on different grounds than the decision of a lower court. 
+
+2
+ In its efforts to distinguish Woodford v. Visciotti,
+
+537 U.S. 19, the panel found it “critically important” that Visciotti involved postconviction review by a State Supreme Court.  The panel emphasized that here, by contrast, it did not “know how the Arizona Supreme Court would have assessed [the new] evidence on collateral review because the Court denied without explanation Kayer’s petition for review.”  Kayer v. Ryan, 923 F.3d 692, 724 (2019).  But the lower court and the parties have not identified anything in AEDPA or this Court’s precedents permitting reduced deference to merits decisions of lower state courts.  See
+
+28 U. S. C. §2254. 
+
+3
+ The Ninth Circuit brushed past this distinction, reasoning that the Arizona Supreme Court could have found a pecuniary gain aggravating factor based on the facts of Brookover.  But that does not change the fact that the Brookover court did not weigh any second aggravating factor in reaching its decision.  See 124 Ariz., at 41–42, 601 P. 2d, at 1325–1326. 
+
+

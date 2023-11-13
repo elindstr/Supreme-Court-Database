@@ -1,0 +1,462 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1052
+::decision_name::  United States ex rel. Polansky v. Executive Health Resources, Inc.
+::decision_year:: 2023
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1052
+
+															_________________
+
+															UNITED STATES, ex rel. JESSE POLANSKY,
+M.D., M.P.H., PETITIONER v. EXECUTIVE HEALTH RESOURCES,
+INC., et al.
+
+															on writ of certiorari to the united states
+court of appeals for the third circuit
+
+															[June 16, 2023]
+
+															
+
+															Justice Thomas, dissenting.
+
+															In my view, the text and structure of the False
+Claims Act (FCA), 31 U. S. C.
+§§3729–3733, afford the Government no power to
+unilaterally dismiss a pending qui tam action after it
+has “decline[d] to take over the action” from the
+relator at its outset. §3730(b)(4)(B). Thus, I would vacate
+the judgment below and remand for the Third Circuit to consider the
+serious constitutional questions that may affect the disposition of
+the Government’s motion to dismiss petitioner’s
+qui tam suit. Because the Court instead affirms, I
+respectfully dissent.
+
+															I
+
+															The FCA provides that private parties known as
+relators may bring qui tam suits “for
+[themselves] and for the United States Government.”
+§3730(b)(1). It then sets out a reticulated scheme to govern
+the initiation of a qui tam suit, see §3730(b);
+the parties’ procedural rights during the suit, see
+§3730(c); and the rights of the parties to any proceeds at the
+end of the suit, see §3730(d). See also ante, at
+2–6, 18–21. The main structural feature of this scheme
+is the so-called seal period: a window of time at the start of
+every FCA qui tam action during which the suit is on
+hold and the Government must “elect” whether “to
+intervene and proceed with the action,” §3730(b)(2), or,
+alternatively, to “declin[e] to take over the action”
+and allow the relator to proceed, §3730(b)(4)(B).
+
+															This case requires us to decide whether the
+Government enjoys the same panoply of procedural rights when it
+takes over an action during the seal period and when (as here) it
+intervenes in the action “at a later date” after the
+relator has “proceed[ed] with the action.”
+§3730(c)(3). Today, the Court holds that the Government has
+all of the same procedural rights in both circumstances, including
+the right to “dismiss the action notwithstanding the
+objections of the [relator].” §3730(c)(2)(A). I would
+instead hold that the structure of the FCA’s
+qui tam provisions and the clear text of
+§3730(c)(3) do not permit the Government to seize the reins
+from the relator to unilaterally dismiss the suit after declining
+to proceed with an action during the seal period.
+
+															To bring out the statutory structure, it is
+helpful to take the FCA’s qui tam provisions from
+the top. Under §3730(b)(2), the first step in a
+qui tam suit is for the relator to file the complaint
+in camera and under seal, serving it on the Government but
+not the defendant. That filing starts the clock on a 60-day window
+in which “[t]he Government may elect to intervene and proceed
+with the action.” §3730(b)(2). The Government may move
+to extend this seal period for cause, see §3730(b)(3), but,
+ultimately, the Government faces a binary choice. It must either:
+“(A) proceed with the action, in which case the action shall
+be conducted by the Government; or (B) notify the court that it
+declines to take over the action, in which case the [relator] shall
+have the right to conduct the action.” §3730(b)(4).
+Thus, under §3730(b)(4), the Government’s seal-period
+choice to “proceed with the action” or not determines
+who “shall” “conduct” the suit—the
+Government or the relator.
+
+															Section 3730(c) picks up at this critical
+juncture, defining the respective litigating rights of the
+Government and the relator based on the Government’s choice
+to “proceed with the action” or not. First, paragraph
+(1) of subsection (c) (or, paragraph (c)(1)) provides: “If
+the Government proceeds with the action, it shall have the primary
+responsibility for prosecuting the action,” but the relator
+“shall have the right to continue as a party to the action,
+subject to [paragraph (c)(2)’s] limitations.”[1] As used here, the phrase
+“proceeds with the action” naturally refers to the same
+seal-period choice for which §3730 uses the same phrase in
+paragraph (b)(2) and subparagraph (b)(4)(A). And the Government
+“hav[ing] the primary responsibility for prosecuting the
+action” appears synonymous with the Government
+“conduct[ing]” the action under subparagraph (b)(4)(A).
+See 3 Oxford English Dictionary 691 (2d ed. 1989) (defining
+“conduct” as “[t]o lead, command, direct,
+manage”).
+
+															By contrast, paragraph (c)(3) provides:
+“If the Government elects not to proceed with the action, the
+[relator] shall have the right to conduct the action.” The
+conditional clause of this sentence is a clear reference to the
+seal-period “elect[ion]” described in paragraph
+(b)(2).[2] Likewise, the result
+clause plainly echoes “the right to conduct the action”
+referred to under subparagraph (b)(4)(B), which the relator
+acquires when the Government does not “proceed with the
+action” under subparagraph (b)(4)(A) at the end of the seal
+period.
+
+															In short, the initial clauses of paragraphs
+(c)(1) and (c)(3) track subparagraphs (b)(4)(A) and (b)(4)(B) and
+point back to the Government’s seal-period choice to
+“proceed with the action” or not. If the Government
+chooses to proceed with the action under §3730(b)(4)(A), then
+paragraph (c)(1) applies, along with the conditions of paragraph
+(c)(2). Conversely, if the Government elects not to proceed with
+the action under §3730(b)(4)(B), then paragraph (c)(3)
+applies.
+
+															To be sure, the last sentence of paragraph
+(c)(3) provides: “When [the relator] proceeds with the
+action, the court, without limiting the status and rights of the
+[relator], may nevertheless permit the Government to intervene at a
+later date upon a showing of good cause.” But this sentence
+is not, as the majority reads it, a secret pass in paragraph (c)(3)
+that leads the parties back to their relative rights under
+paragraphs (c)(1) and (c)(2). See ante, at 10–13. The
+sentence itself makes that clear by cautioning that the
+Government’s later intervention may not “limi[t] the
+status and rights of the [relator].” §3730(c)(3). Read
+in the context of §§3730(b)(4) and (c), this
+“without limiting” condition clearly preserves the
+relator’s status as an autonomous litigant and the
+“right to conduct the action” that he acquired when the
+Government declined to take over the action at its inception. In
+other words, the plain import of the condition is that the relator
+keeps “the right to conduct the action” under
+§§3730(b)(4)(B) and (c)(3), as opposed to being demoted
+to paragraph (c)(1)’s inferior “right to continue as a
+party” with the restrictions set out in paragraph (c)(2).
+
+															The majority short-circuits this straightforward
+conclusion by essentially stipulating that the Government
+“proceeds with the action”—and thus activates
+paragraphs (c)(1) and (c)(2)—whenever it is a party,
+regardless of when and how it became a party. See
+ante, at 11, and n. 3. Nothing in the FCA’s
+overall text or structure favors that interpretation. Nor does the
+text of paragraph (c)(3). When that provision describes the
+Government “interven[ing]” after the seal period, it
+does not use the phrase “proceed with the action”
+(except in reference to the relator). Cf. §3730(b)(2)
+(“The Government may elect to intervene and proceed
+with the action” (emphasis added)). Nor is the
+majority’s understanding compelled by the ordinary meaning of
+the term “proceed.” To “proceed” means to
+move forward, generally with the distinctive connotation of moving
+forward from a particular point. See 12 Oxford English
+Dictionary, at 544 (“[t]o go, move, or travel forward; to
+make one’s way onward; esp. to move onward after
+interruption or stoppage, or after reaching a certain
+point”). That idea fits the FCA like a glove. The Government
+“proceeds with the action”—as that phrase is used
+in §§3730(b)(2), (b)(4)(A), (c)(1), and (c)(3)—if
+it chooses to move forward with an action from the seal period,
+which is specifically set up for the Government to decide whether
+to “proceed with the action,” §3730(b)(2).
+
+															The majority’s interpretation of
+“proceeds with the action” in turn dictates an
+unnatural reading of paragraph (c)(3)’s “without
+limiting” condition. When the FCA says that the
+Government’s belated intervention may not
+“limi[t]” the relator’s “status and
+rights,” it naturally means the status and rights that the
+relator actually enjoyed under paragraph (c)(3) immediately before
+the Government sought to intervene. By contrast, to accommodate its
+misreading of “proceeds with the action,” the majority
+is compelled to read paragraph (c)(3) to protect only the status
+and rights that the relator would have enjoyed in an
+alternative timeline where the Government intervened during the
+seal period and paragraph (c)(3) never came into play at all. See
+ante, at 12. That reading is counterintuitive, to say the
+least.
+
+															Nor is that the end of the problems with the
+majority’s “seal-agnostic view.” Ibid.
+Immediately below subsection (c), §§3730(d)(1) and (d)(2)
+establish two alternative ranges for the relator’s share of
+any recovery at the end of a qui tam action. Like the
+parties’ litigation rights under paragraphs (c)(1) and
+(c)(3), those ranges depend on whether the Government has
+“proceed[ed] with” the action or not. “If the
+Government proceeds with an action brought . . . under
+subsection (b),” the relator is usually entitled to between
+15 and 25 percent of any recovery. §3730(d)(1). Conversely,
+“[i]f the Government does not proceed with [the]
+action,” the relator is entitled to 25 to 30 percent.
+§3730(d)(2). Given the majority’s view that intervention
+under paragraph (c)(3) counts as “proceed[ing] with the
+action,” it follows that even an eleventh-hour intervention
+by the Government would automatically shunt the relator out of
+paragraph (d)(2)’s more generous range and into paragraph
+(d)(1)’s less generous one. Surely, that result would qualify
+as “limiting the [relator’s] status and rights.”
+§3730(c)(3).
+
+															The majority bolsters its tenuous textual and
+structural case with an appeal to “the FCA’s
+Government-centered purposes.” Ante, at 12. But
+“every statute purposes, not only to achieve certain ends,
+but also to achieve them by particular means.” Freeman
+v. Quicken Loans, Inc., 566 U.S.
+624, 637 (2012) (alteration and internal quotation marks
+omitted). And, while it is certainly the FCA’s ultimate goal
+to “redress injuries against the Government,”
+ante, at 12–13, its chosen means is to empower private
+parties to seek redress of those injuries through litigation that
+the Government does not necessarily control and might not have
+brought if left to its own devices. Allowing the relator to
+maintain the suit after the Government has declined its initial
+opportunity to take it over (even if only to dismiss it) is fully
+consistent with the FCA.
+
+															Indeed, the FCA’s history undermines the
+majority’s free-floating account of its
+“purposes.” As enacted in 1863, the original FCA
+contained no provision for the Government to intervene in a
+relator’s suit at all. See 12 Stat. 698. In 1943,
+Congress first gave the Government that opportunity by creating the
+60-day seal period, which it set up to function as the very
+“on-off switch” the majority seems to consider
+implausible, ante, at 13: Either the Government intervened
+during the seal period and assumed sole control of the action, or
+it did not intervene and was permanently excluded from the action.
+See 57 Stat. 608–609. Finally, in 1986, Congress revamped the
+FCA into its modern form, under which (as never before) the
+Government and the relator can litigate side by side as
+co-plaintiffs in the same action. In creating this possibility,
+Congress tweaked both halves of the previous regime in roughly
+parallel ways. If the Government intervenes during the seal period,
+paragraphs (c)(1) and (c)(2) now permit the relator to remain a
+party and play a role in the litigation—but only a
+subordinate role. Conversely, if the Government does not intervene
+and proceed with the action during the seal period, it is not
+forever barred from taking a litigating role—but, if it
+intervenes later, it does not downgrade the relator’s
+“status and rights” to those of a second-chair
+litigant. §3730(c)(3).
+
+															In sum, the text, structure, and history of the
+FCA all point to the same conclusion. The FCA affords the
+Government no statutory right to unilaterally dismiss a declined
+action when it intervenes under §3730(c)(3).
+
+															II
+
+															However, the text and structure of the FCA are
+not the end of the story. Defendant-respondent has pointed to
+serious constitutional questions that might affect the disposition
+of the Government’s motion here. At the same time, it is not
+clear that the parties have examined these questions in their full
+complexity, and the Third Circuit’s reading of §3730(c)
+gave it no reason to do so. Therefore, after holding that the
+Government could not invoke the dismissal authority of
+§3730(c)(2)(A) as a statutory matter, I would remand this case
+for the Third Circuit to consider whether the Constitution
+nonetheless requires the dismissal of petitioner’s suit.
+
+															The FCA’s qui tam provisions
+have long inhabited something of a constitutional twilight zone.
+There are substantial arguments that the qui tam device
+is inconsistent with Article II and that private relators may not
+represent the interests of the United States in litigation. Because
+“[t]he entire ‘executive Power’ belongs to the
+President alone,” Seila Law LLC v. Consumer
+Financial Protection Bureau, 591 U. S. ___, ___ (2020)
+(slip op., at 11), it can only be exercised by the President and
+those acting under him, see id., at ___ (slip op., at 2)
+(Thomas, J., concurring in part and dissenting in part). And, as
+“[a] lawsuit is the ultimate remedy for a breach of the
+law,” the Court has held that “conducting civil
+litigation . . . for vindicating public rights” of
+the United States is an “executive functio[n]” that
+“may be discharged only by persons who are ‘Officers of
+the United States’ ” under the Appointments
+Clause, Art. II, §2, cl. 2. Buckley v.
+Valeo, 424 U.S.
+1, 138–140 (1976) (per curiam) (some internal
+quotation marks omitted). A private relator under the FCA, however,
+is not “appointed as an officer of the United States”
+under Article II. Cochise Consultancy, Inc. v. United
+States ex rel. Hunt, 587 U. S. ___, ___ (2019) (slip
+op., at 8). It thus appears to follow that Congress cannot
+authorize a private relator to wield executive authority to
+represent the United States’ interests in civil
+litigation.
+
+															The potential inconsistency of
+qui tam suits with Article II has been noticed for
+decades. See, e.g., Riley v. St. Luke’s
+Episcopal Hospital, 
+252 F.3d 749, 758–775 (CA5 2001) (en banc) (Smith, J.,
+dissenting); J. Blanch, Note, The Constitutionality of the False
+Claims Act’s Qui Tam Provision, 16 Harv.
+J. L. & Pub. Pol’y 701, 736–767 (1993);
+Constitutionality of the Qui Tam Provisions of the False
+Claims Act, 13 Op. OLC 207, 221–224, 228–232 (1989).
+The primary counterargument has emphasized the long historical
+pedigree of qui tam suits, including the fact that the
+First Congress passed a handful of qui tam statutes.
+See, e.g., Vermont Agency of Natural Resources v.
+United States ex rel. Stevens, 529 U.S.
+765, 801 (2000) (Stevens, J., dissenting); Riley, 252
+F. 3d, at 752–753 (“[H]istory alone resolves
+. . . whether the qui tam provisions in the FCA
+violate Article II”). “Standing alone,” however,
+“historical patterns cannot justify contemporary violations
+of constitutional guarantees,” Marsh v.
+Chambers, 463 U.S.
+783, 790 (1983), even when the practice in question
+“covers our entire national existence and indeed predates
+it,” Walz v. Tax Comm’n of City of New
+York, 397 U.S.
+664, 678 (1970). Nor is enactment by the First Congress a
+guarantee of a statute’s constitutionality. See
+Marbury v. Madison, 1 Cranch 137 (1803). Finally, we
+should be especially careful not to overread the early history of
+federal qui tam statutes given that the
+Constitution’s creation of a separate Executive Branch
+coequal to the Legislature was a structural departure from the
+English system of parliamentary supremacy, from which many legal
+practices like qui tam were inherited. See S. Prakash, The
+Chief Prosecutor, 73 Geo. Wash. L. Rev. 521, 589 (2005)
+(noting that, for this reason, “we ought to be cautious about
+importing English constraints or exceptions to the executive power,
+when those limitations might be based on the principle of
+parliamentary supremacy”).
+
+															In short, there is good reason to suspect that
+Article II does not permit private relators to represent the United
+States’ interests in FCA suits. However, even if that is
+true, the follow-on implications may not be as straightforward as
+they appear at first glance. Under the FCA, the relator brings suit
+“for [himself]” as well as “for the United
+States Government.” §3730(b)(1) (emphasis added). In
+Stevens, we read this language “as effecting a partial
+assignment of the Government’s damages claim,” which
+provided “the theoretical justification” for our
+holding “that a qui tam relator under the FCA has
+Article III standing.” 529 U. S., at 773, 778. For that
+holding to make sense, it appears that this assignment must be
+effective no later than the point in time at which the Government
+declines to intervene in the seal period and the relator may
+proceed with the action as the only plaintiff in court.
+
+															Under Stevens’ partial-assignment
+theory, it is not immediately clear that the Government may dismiss
+the relator’s interest in a qui tam suit,
+even assuming that the relator’s representation of the
+United States’ interest is unconstitutional. Whether the
+Government may do so may depend on the implicit conditions of the
+assignment; conceivably, it may also depend on whether the
+assignment is severable from the FCA’s attempt to vest the
+authority to represent the United States in litigation in a party
+outside the Executive Branch.
+
+															In examining these issues, moreover, it may be
+necessary to consider a question that Stevens left
+unaddressed: What is the source of Congress’ power to effect
+partial assignments of the United States’ damages claims? One
+candidate might be the Necessary and Proper Clause, Art. I,
+§8, cl. 18; but, if qui tam suits violate Article
+II, then it appears unlikely that any assignment effectuated by the
+FCA’s qui tam provisions could be considered
+“necessary and proper for carrying into Execution” any
+constitutional power. See Gonzales v. Raich,
+545 U.S.
+1, 60 (2005) (Thomas, J., dissenting) (“To act under the
+Necessary and Proper Clause,” “Congress must select a
+means” not “ ‘prohibited’ by the
+Constitution” or “inconsistent with ‘the letter
+and spirit of the Constitution’ ” (quoting
+McCulloch v. Maryland, 4 Wheat. 316, 421 (1819);
+alteration omitted)). Alternatively, such assignments might rely at
+least partly on the Property Clause, which empowers Congress
+“to dispose of and make all needful Rules and Regulations
+respecting the Territory or other Property belonging to the United
+States,” and which may include the power to assign claims for
+damages as “other Property.” Art. IV, §3,
+cl. 2; see also D. Engdahl, The Basis of the Spending Power,
+18 Seattle U. L. Rev. 215, 256–257 (1995) (“The
+Article IV Property Clause is most familiar, of course, in its
+application to landed property, . . . but it has
+been recognized as applying to personal property as
+well”).
+
+															In any event, these are complex questions, which
+I would leave for the parties and the court below to consider after
+resolving the statutory issues that have been the focus of this
+case up to now.[3] Therefore, I
+would vacate the judgment below granting the Government’s
+motion to dismiss and remand for the Third Circuit to consider the
+correct disposition of that motion in light of any applicable
+constitutional requirements.
+
+Notes
+1
+ The remainder of
+paragraphs (c)(1) and (c)(2) largely describe the contours of the
+Government’s primary responsibility vis-à-vis the
+relator’s circumscribed litigation rights. I agree with the
+Court’s holding that paragraph (c)(2) is clearly subordinate
+to paragraph (c)(1). See ante, at 8–10.
+2
+ One other provision of
+the FCA refers to the Government “making an election under
+section 3730(b),” which likewise clearly signifies the
+seal-period decision. 31 U. S. C.
+§3733(a)(1).
+3
+ For two reasons, the fact
+that my reading of §3730 would require confronting these
+constitutional questions in this case does not counsel in favor of
+a different interpretation. First, principles of constitutional
+avoidance can operate only “in the choice of fair
+alternatives,” not when the text and structure of a statute
+point to a clear answer. United States v. Rumely,
+345 U.S.
+41, 45 (1953); see also Skilling v. United
+States, 561 U.S.
+358, 423 (2010) (Scalia, J., concurring in part and concurring
+in judgment). Second, the force of constitutional-avoidance
+principles is inherently limited where, as here, the choice of
+interpretations is tangential to the constitutional questions at
+stake. On any interpretation, the FCA purports to authorize private
+parties to represent the United States in litigation. That basic
+feature of the qui tam device must be the core of any
+Article II objection to the FCA. If it is constitutionally
+problematic, then the majority’s interpretation of the FCA
+does not cure the problem; on the other hand, if
+qui tam is constitutional, then there is no
+constitutional problem to avoid.
+
+

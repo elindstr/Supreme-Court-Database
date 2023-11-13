@@ -1,0 +1,113 @@
+::SCDB_caseID:: 2016-013
+::decision_cite:: 15-1111
+::decision_name::  Bank of America Corp. v. City of Miami
+::decision_year:: 2017
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 15–1111 and 15–1112
+
+															_________________
+
+															BANK OF AMERICA CORPORATION, et al., PETITIONERS
+
+															15–1111v.
+
+															CITY OF MIAMI, FLORIDA
+
+															
+
+															WELLS FARGO & CO., et al., PETITIONERS
+
+															15–1112v.
+
+															CITY OF MIAMI, FLORIDA
+
+															on writs of certiorari to the united states court of appeals for the eleventh circuit
+
+															[May 1, 2017]
+
+															
+
+															Justice Thomas, with whom Justice Kennedy and Justice Alito join, concurring in part and dissenting in part.
+
+															These cases arise from lawsuits filed by the city of Miami alleging that residential mortgage lenders engaged in discriminatory lending practices in violation of the Fair Housing Act (FHA).  The FHA prohibits “discrimination” against “any person” because of “race, color, religion, sex, handicap, familial status, or national origin” with respect to the “sale or rental” of “a dwelling.”
+
+42 U. S. C. §3604; accord, §3605(a); §3606.  Miami’s complaints do not allege that any defendant discriminated against it within the meaning of the FHA.  Neither is Miami attempting to bring a lawsuit on behalf of its residents against whom petitioners allegedly discriminated.  Rather, Miami’s theory is that, between 2004 and 2012, petitioners’ allegedly discriminatory mortgage-lending practices led to defaulted loans, which led to foreclosures, which led to vacant houses, which led to decreased property values, which led to reduced property taxes and urban blight.  See 800 F. 3d 1262, 1268 (CA11 2015); 801 F. 3d 1258, 1266 (CA11 2015).  Miami seeks damages from the lenders for reduced property tax revenues and for the cost of increased municipal services—“police, firefighters, building inspectors, debris collectors, and others”—deployed to attend to the blighted areas.  800 F. 3d, at 1269; 801 F. 3d, at 1263.
+
+															The Court today holds that Congress intended to remedy those kinds of injuries when it enacted the FHA, but leaves open the question whether Miami sufficiently alleged that the discriminatory lending practices caused its injuries.  For the reasons explained below, I would hold that Miami’s injuries fall outside the FHA’s zone of interests.  I would also hold that, in any event, Miami’s alleged injuries are too remote to satisfy the FHA’s proximate-cause requirement.
+
+															I
+
+															A plaintiff seeking to bring suit under a federal statute must show not only that he has standing under Article III, ante, at 5, but also that his “complaint fall[s] within the zone of interests protected by the law” he invokes, Lexmark Int’l, Inc. v. Static Control Components, Inc., 572 U. S. ___, ___ (2014) (slip op., at 7) (internal quotation marks omitted).  The zone-of-interests requirement is “root[ed]” in the “common-law rule” providing that a plaintiff may “recover under the law of negligence for injuries caused by violation of a statute” only if “the statute ‘is interpreted as designed to protect the class of persons in which the plaintiff is included, against the risk of the type of harm which has in fact occurred as a result of its violation.’ ”  Id., at ___, n. 5 (slip op., at 11, n. 5) (quoting W. Keeton, D. Dobbs, R. Keeton, & D. Owen, Prosser and Keeton on Law of Torts §36, pp. 229–230 (5th ed. 1984)).  We have “made clear” that “Congress is presumed to legislate against the background” of that common-law rule.  Lexmark, 572 U. S., at ___ (slip op., at 10) (internal quotation marks omitted).  We thus apply it “to all statutorily created causes of action . . . unless it is expressly negated.”  Ibid. (emphasis added; internal quotation marks omitted).  “Whether a plaintiff comes within the zone of interests is an issue that requires us to determine, using traditional tools of statutory interpretation, whether a legislatively conferred cause of action encompasses a particular plaintiff’s claim.”  Id., at ___ (slip op., at 8) (internal quotation marks omitted).
+
+															A
+
+															Nothing in the text of the FHA suggests that Congress intended to deviate from the zone-of-interests limitation.  The statute’s private-enforcement mechanism provides that only an “aggrieved person” may sue, §3613(a)(1)(A), and the statute defines “aggrieved person” to mean someone who “claims to have been injured by a discriminatory housing practice” or who believes he “will be injured by a discriminatory housing practice that is about to occur,” §§3602(i)(1), (2).  That language does not hint—much less expressly provide—that Congress sought to depart from the common-law rule.
+
+															We have considered similar language in other statutes and reached the same conclusion.  In Thompson v. North American Stainless, LP,
+
+562 U. S. 170 (2011)
+, for example, we considered Title VII’s private-enforcement provision, which provides that “ ‘a person claiming to be aggrieved’ ” may file an employment discrimination charge with the Equal Employment Opportunity Commission.  Id., at 173  (quoting §2000e–5(b)).  We unanimously concluded that Congress did not depart from the zone-of-interests limitation in Title VII by using that language.  Id., at 175–178.  And in Lexmark, we interpreted a provision of the Lanham Act that permitted “any person who believes that he or she is likely to be damaged by a defendant’s false advertising” to sue.  572 U. S., at ___ (slip op., at 10) (internal quotation marks omitted).  Even when faced with the broader “any person” language, we expressly rejected the argument that the statute conferred a cause of action upon anyone claiming an Article III injury in fact.  We observed that it was unlikely that “Congress meant to allow all factually injured plaintiffs to recover,” and we concluded that the zone-of-interests test was the “appropriate tool for determining who may invoke the cause of action” under the statute.  Id., at ___, ___ (slip op., at 10, 11) (internal quotation marks omitted).
+
+															To be sure, some language in our older precedents suggests that the FHA’s zone of interests extends to the limits of Article III.  See Trafficante v. Metropolitan Life Ins. Co.,
+
+409 U. S. 205,
+209 (1972)
+; Gladstone, Realtors v. Village of Bellwood,
+
+441 U. S. 91,
+109 (1979)
+; Havens Realty Corp. v. Coleman,
+
+455 U. S. 363,
+372 (1982)
+.  But we have since described that language as “ill-considered” dictum leading to “absurd consequences.”  Thompson, 562 U. S., at 176.  And we have observed that the “holdings of those cases are compatible with the “ ‘zone of interests’ limitation” described in Thompson.  Ibid.  That limitation provides that a plaintiff may not sue when his “interests are so marginally related to or inconsistent with the purposes implicit in the statute that it cannot be assumed that Congress intended to permit the suit.”  Id., at 178 (internal quotation marks omitted).  It thus “exclud[es] plaintiffs who might technically be injured in an Article III sense but whose interests are unrelated to the statutory prohibitions.”  Ibid.
+
+															B
+
+															In my view, Miami’s asserted injuries are “so marginally related to or inconsistent with the purposes” of the FHA that they fall outside the zone of interests.  Here, as in any other case, the text of the FHA defines the zone of interests that the statute protects.  See Lexmark, supra, at ___ (slip op., at 9).  The FHA permits “[a]n aggrieved person” to sue, §3613(a)(1)(A), if he “claims to have been injured by a discriminatory housing practice” or believes that he “will be injured by a discriminatory housing practice that is about to occur,” §§3602(i)(1), (2) (emphasis added).  Specifically, the FHA makes it unlawful to do any of the following on the basis of “race, color, religion, sex, handicap, familial status, or national origin”: “refuse to sell or rent . . . a dwelling,” §3604(a); discriminate in the “terms, conditions, or privileges of sale or rental of a dwelling, or in the provision of services or facilities in connection therewith,” §3604(b); “make, print, or publish . . . any notice, statement, or advertisement, with respect to the sale or rental of a dwelling that indicates any preference, limitation, or discrimination,” §3604(c); “represent to any person . . . that any dwelling is not available for inspection, sale, or rental when such dwelling is in fact so available,” §3604(d); “induce any person to sell or rent any dwelling by representations regarding the entry or prospective entry into the neighborhood of a person or persons of” certain characteristics, §3604(e); or discriminate in the provision of real estate or brokerage services, §§3605, 3606.  The quintessential “aggrieved person” in cases involving violations of the FHA is a prospective home buyer or lessee discriminated against during the home-buying or leasing process.  Our cases have also suggested that the interests of a person who lives in a neighborhood or apartment complex that remains segregated (or that risks becoming segregated) as a result of a discriminatory housing practice may be arguably within the outer limit of the interests the FHA protects.  See Trafficante, supra, at 211 (concluding that one purpose of the FHA was to promote “truly integrated and balanced living patterns” (internal quotation marks omitted)).
+
+															Miami’s asserted injuries are not arguably related to the interests the statute protects.  Miami asserts that it received “reduced property tax revenues,” App. 233, 417, and that it was forced to spend more money on “municipal services that it provided and still must provide to remedy blight and unsafe and dangerous conditions,” id., at 417; see also ante, at 2. The city blames these expenditures on the falling property values and vacant homes that resulted from foreclosures.  But nothing in the text of the FHA suggests that Congress was concerned about decreased property values, foreclosures, and urban blight, much less about strains on municipal budgets that might follow.
+
+															Miami’s interests are markedly distinct from the interests this Court confronted in Trafficante, Gladstone, and Havens.  In Trafficante, one white and one black tenant of an apartment complex sued on the ground that the complex discriminated against nonwhite rental applicants.  409 U. S., at 206–208.  They argued that this discrimination deprived them of the social and economic benefits of living in an integrated community.  Id., at 208.  In Gladstone, residents in a village sued based on alleged discrimination in the home-buying process.  441 U. S., at 93–95.  They contended that white home buyers were steered away from a racially integrated neighborhood and toward an all-white neighborhood, whereas black home buyers were steered away from the all-white neighborhood and toward the integrated neighborhood.  Id., at 95.  The plaintiffs thus alleged that they were “denied their right to select housing without regard to race.”  Ibid. (internal quotation marks omitted).  The village also sued, alleging that the FHA violations were affecting its “racial composition, replacing what is presently an integrated neighborhood with a segregated one” and that its budget was strained from resulting lost tax revenues.  Id., at 110.  Finally, in Havens, one white and one black plaintiff sued after having posed as “testers,” for the purpose of “collecting evidence of unlawful steering practices.”  455 U. S., at 373.  According to their complaint, the owner of an apartment complex had told the white plaintiff that apartments were available, but had told the black plaintiff that apartments were not.  Id., at 368.  The Court held that the white plaintiff could not sue, because he had been provided truthful information, but that the black plaintiff could sue, because the FHA requires truthful information about housing without regard to race.  Id., at 374–375.  In all three of these cases, the plaintiffs claimed injuries based on racial steering and segregation—interests that, under this Court’s precedents, at least arguably fall within the zone of interests that the FHA protects.
+
+															Miami’s asserted injuries implicate none of those interests.  Miami does not assert that it was injured based on efforts by the lenders to steer certain residents into one neighborhood rather than another.  Miami does not even assert that it was injured because its neighborhoods were segregated.  Miami therefore is not, as the majority describes, “similarly situated” to the plaintiffs in Trafficante, Gladstone, and Havens.  Ante, at 7.  Rather, Miami asserts injuries allegedly resulting from foreclosed-upon and then vacant homes.  The FHA’s zone of interests is not so expansive as to include those kinds of injuries.
+
+															C
+
+															The Court today reaches the opposite conclusion, resting entirely on the brief mention in Gladstone of the village’s asserted injury of reduced tax revenues, and on principles of stare decisis.  See ante, at 9.  I do not think Gladstone compels the conclusion the majority reaches.  Unlike these cases, Gladstone involved injuries to interests in “racial balance and stability,” 441 U. S., at 111, which, our cases have suggested, arguably fall within the zone of interests protected by the FHA, see supra, at 6.  The fact that the village plaintiff asserted a budget-related injury in addition to its racial-steering injury does not mean that a city alleging only a budget-related injury is authorized to sue.  A budget-related injury might be necessary to establish a sufficiently concrete and particularized injury for purposes of Article III, but it is not sufficient to satisfy the FHA’s zone-of-interests limitation.
+
+															Although the Court’s reliance on Gladstone is misplaced, its opinion today is notable primarily for what it does not say.  First, the Court conspicuously does not reaffirm the broad language from Trafficante, Gladstone, and Havens suggesting that Congress intended to permit any person with Article III standing to sue under the FHA.  The Court of Appeals felt bound by that language, see 800 F. 3d, at 1277; 801 F. 3d, at 1266, and we granted review, despite the absence of a circuit conflict, to decide whether the language survived Thompson and Lexmark, see Brief for Petitioner in No. 15–1111, p. i (“By limiting suit to ‘aggrieved person[s],’ did Congress require that an FHA plaintiff plead more than just Article III injury-in-fact?”); Brief for Petitioner in No. 15–1112, p. i (“Whether the term ‘aggrieved’ in the Fair Housing Act imposes a zone-of-interests requirement more stringent than the injury-in-fact requirement of Article III”).  Today’s opinion avoids those questions presented and thus cannot be read as retreating from our more recent precedents on the zone-of-interests limitation.
+
+															Second, the Court does not reject the lenders’ arguments about many other kinds of injuries that fall outside of the FHA’s zone of interests.  We explained in Thompson that an expansive reading of Title VII’s zone of interests would allow a shareholder “to sue a company for firing a valuable employee for racially discriminatory reasons, so long as he could show that the value of his stock decreased as a consequence.”  562 U. S., at 177.  Petitioners similarly argue that, if Miami can sue for lost tax revenues under the FHA, then “plumbers, utility companies, or any other participant in the local economy could sue the Banks to recover business they lost when people had to give up their homes and leave the neighborhood as a result of the Banks’ discriminatory lending practices.”  Ante, at 8 (citing petitioners’ briefs).  The Court today decides that it “need not discuss” this argument because Gladstone and stare decisis compel the conclusion that Miami can sue.  Ante, at 8.  That conclusion is wrong, but at least it is narrow.  Accordingly, it should not be read to authorize suits by local businesses alleging the same injuries that Miami alleges here.
+
+															II
+
+															Although I disagree with its zone-of-interests holding, I agree with the Court’s conclusions about proximate cause, as far as they go.  The Court correctly holds that “foreseeability alone is not sufficient to establish proximate cause under the FHA.”  Ante, at 10.  Instead, the statute requires “ ‘some direct relation between the injury asserted and the injurious conduct alleged.’ ”  Ante, at 11 (quoting Holmes v. Securities Investor Protection Corporation,
+
+503 U. S. 258,
+268 (1992)
+).
+
+															After articulating this test for proximate cause, the Court remands to the Court of Appeals because it “decline[s]” to “draw the precise boundaries of proximate cause under the FHA” or to “determine on which side of the line the City’s financial injuries fall.”  Ante, at 12.  But these cases come to the Court on a motion to dismiss, and the Court of Appeals has no advantage over us in evaluating the complaint’s proximate-cause theory.  Moreover, the majority opinion leaves little doubt that neither Miami nor any similarly situated plaintiff can satisfy the rigorous standard for proximate cause that the Court adopts and leaves to the Court of Appeals to apply.  See ante, at 11 (“The general tendency in these cases, in regard to damages at least, is not to go beyond the first step” (internal quotation marks omitted)).
+
+															Miami’s own account of causation shows that the link between the alleged FHA violation and its asserted injuries is exceedingly attenuated.  According to Miami, the lenders’ injurious conduct was “target[ing] black and Latino customers in Miami for predatory loans.”  Brief for Respondent in No. 15–1111, p. 4 (internal quotation marks omitted).  And according to Miami, the injuries asserted are its “loss of tax revenues” and its expenditure of “additional monies on municipal services to address” the consequences of urban blight.  Id., at 6.
+
+															As Miami describes it, the chain of causation between the injurious conduct and its asserted injuries proceeds as follows: As a result of the lenders’ discriminatory loan practices, borrowers from predominantly minority neighborhoods were likely to default on their home loans, leading to foreclosures.  Id., at 5–6.  The foreclosures led to vacant houses.  Id., at 6.  The vacant houses, in turn, led to decreased property values for the surrounding homes.  Ibid.  Finally, those decreased property values resulted in homeowners paying lower property taxes to the city government.  Ibid.  Also, Miami explains, the foreclosed-upon, vacant homes eventually led to “vagrancy, criminal activity, and threats to public health and safety,” which the city had to address through the expenditures of municipal resources.  Ibid.  And all this occurred, according to Miami, between 2004 and 2012.  See ibid.  The Court of Appeals will not need to look far to discern other, independent events that might well have caused the injuries Miami alleges in these cases.
+
+															In light of this attenuated chain of causation, Miami’s asserted injuries are too remote from the injurious conduct it has alleged.  See Associated Gen. Contractors of Cal., Inc. v. Carpenters,
+
+459 U. S. 519
+, n. 25 (1983).  Indeed, any other conclusion would lead to disquieting consequences.  Under Miami’s own theory of causation, its injuries are one step further removed from the allegedly discriminatory lending practices than the injuries suffered by the neighboring homeowners whose houses declined in value.  No one suggests that those homeowners could sue under the FHA, and I think it is clear that they cannot.  Accordingly, I would hold that Miami has failed to sufficiently plead proximate cause under the FHA.
+
+															III
+
+															For the foregoing reasons, I would reverse the Court of Appeals.
+													

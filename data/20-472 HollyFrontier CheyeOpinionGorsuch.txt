@@ -1,0 +1,643 @@
+::SCDB_caseID:: 2020-064
+::decision_cite:: 20-472
+::decision_name::  HollyFrontier Cheyenne Refining, LLC v. Renewable Fuels Association
+::decision_year:: 2021
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the preliminary print of the
+United States Reports. Readers are requested to notify the
+Reporter of Decisions, Supreme Court of the United States,
+Washington, D. C. 20543, of any typographical or other formal
+errors, in order that corrections may be made before the
+preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–472
+
+															_________________
+
+															HOLLYFRONTIER CHEYENNE REFINING, LLC,
+et al., PETITIONERS v. RENEWABLE FUELS ASSOCIATION,
+et al.
+
+															on writ of certiorari to the united states
+court of appeals for the tenth circuit
+
+															[June 25, 2021]
+
+															
+
+															Justice Gorsuch delivered the opinion of the
+Court.
+
+															Congress requires most domestic refineries to
+blend a certain amount of ethanol and other renewable fuels into
+the transportation fuels they produce. But when it first adopted
+these mandates, Congress temporarily exempted small refineries
+across the board. Looking beyond that initial period, Congress
+authorized individual small refineries to apply for additional
+hardship “extensions” from the federal government
+“at any time.” The question before us is whether a
+small refinery that manages to comply with renewable fuel mandates
+in one year is forever forbidden from applying for an
+“extension” in any future year.
+
+															I
+
+															In 2005 and 2007, Congress created the
+renewable fuel program (RFP). §§201, 202(a)(1), 121Stat.
+1519, 42 U. S. C. §7545(o)(1)(J),
+(o)(1)(L), (o)(2)(A)(i). For 2006, Congress ordained
+the inclusion of 4 billion gallons of renewable fuel in the
+Nation’s fuel supply. §7545(o)(2)(B)(i)(I). By
+2022, the number will climb to 36 billion gallons. Ibid. For
+years after that, Congress has largely left it to the Environmental
+Protection Agency (EPA) to set the applicable volumes.
+§7545(o)(2)(B)(ii).
+
+															From the start, EPA has apportioned the
+nationwide volume mandates into individualized ones for each
+refinery. §7545(o)(3)(B); 40 CFR §80.1407(a)
+(2020). The Agency polices these mandates with a system of credits.
+Each credit represents the blending of a certain quantity of
+renewable fuel. 42 U. S. C.
+§7545(o)(5)(A)(i); 40 CFR §§80.1415, 80.1429.
+A refinery that blends renewables may either “retire”
+the credits it has earned (i.e., use them) to satisfy its
+own RFP volume obligation—or sell those credits to a
+different producer that needs them. 42 U. S. C.
+§7545(o)(5)(B); 40 CFR
+§§80.1425–80.1427. Any given refinery may therefore
+comply with the law thanks to its own blending efforts, the
+purchase of credits from someone else, or a combination of
+both.
+
+															Congress tempered its mandates in other ways
+too. For example, if a refinery is unable to generate or purchase
+sufficient credits in a given year, it may “carry
+forward” any deficit to the following year. 42
+U. S. C. §7545(o)(5)(D). But this reprieve
+has a snowball effect. The next year, the refinery must offset the
+deficit it carried forward. §7545(o)(5)(D)(ii).
+Elsewhere, Congress authorized more sweeping relief: EPA may waive
+RFP obligations in a particular State or region if it determines
+they “would severely harm the economy or environment”
+or if “there is an inadequate domestic supply.”
+§7545(o)(7)(A). That waiver lasts for only one year,
+“but [it] may be renewed.”
+§7545(o)(7)(C).
+
+															Most important for our case, however, is a
+different, if related, set of tempering features. Evidently,
+Congress was concerned that escalating RFP obligations could work
+special burdens on small refineries that lack the “inherent
+scale advantages of large refineries,” Sinclair Wyoming
+Refining Co. v. EPA, 887 F.3d 986, 989 (CA10 2017), and
+sometimes supply a major source of jobs in rural communities, Brief
+for State of Wyoming et al. as Amici Curiae
+19–25. To protect small refineries that produce (on average)
+fewer than 75,000 barrels a day “for a calendar year,”
+§7545(o)(1)(K), Congress created a blanket exemption
+from RFP obligations “until calendar year 2011,”
+§7545(o)(9)(A)(i). Congress also directed EPA to
+“extend the exemption under clause (i)” for at least
+two years if the Secretary of Energy determined RFP obligations
+would impose “a disproportionate economic hardship” on
+a given small refinery. §7545(o)(9)(A)(ii).
+Accordingly, subparagraph (A) anticipated temporary relief until
+2011 or at least 2013. In the next subparagraph, the one most
+squarely at issue before us, Congress offered the possibility of
+still further relief in future years: “A small refinery may
+at any time petition the Administrator for an extension of the
+exemption under subparagraph (A) for the reason of disproportionate
+economic hardship.” §7545(o)(9)(B)(i).
+
+															Here’s how things played out for small
+refineries once the law went into effect. Under subparagraph
+(A)(i), all small refineries were exempt through 2010. See Dept. of
+Energy, Office of Policy and International Affairs, D. Vashishat
+et al., Small Refinery Exemption Study 25 (Mar. 2011). In
+2011, EPA extended that exemption for 13 small refineries under
+subparagraph (A)(ii)—and it extended the exemption for an
+additional 11 small refineries under subparagraph (B)(i).
+Id., at 37. As time went on, and as economic conditions
+fluctuated, EPA extended more exemptions under subparagraph (B)(i)
+in some years than in others. For example, EPA granted 8 extensions
+in 2013, but expanded that number to 31 in 2018. EPA, RFS Small
+Refinery Exemptions, (May 20, 2021), https://www.epa.gov/fuels-
+registration-reporting-and-compliance-help / rfs-small-refinery-exemptions.
+
+															This case concerns three small refineries that
+initially received an exemption, saw it lapse for a period, and
+then petitioned for an exemption again under subparagraph (B)(i).
+HollyFrontier Woods Cross Refining LLC received only the blanket
+exemption under subparagraph (A)(i) through 2010. See Renewable
+Fuels Assn. v. EPA, 948 F.3d 1206, 1228 (CA10 2020).
+Wynnewood Refining Company received the blanket exemption under
+subparagraph (A)(i) and a 2-year extension under subparagraph
+(A)(ii) through 2012. Id., at 1229. HollyFrontier Cheyenne
+Refining LLC received subparagraph (A)(i)’s blanket
+exemption, subparagraph (A)(ii)’s 2-year extension, and then
+subparagraph (B)(i)’s hardship exemption in 2015. Id.,
+at 1227. After a lull, all three refineries petitioned for a
+hardship exemption under subparagraph (B)(i) in 2017 or 2018. EPA
+granted all three.
+
+															A group of renewable fuel producers objected.
+They petitioned for review of EPA’s decisions in the Tenth
+Circuit, arguing the Agency acted “in excess of statutory
+jurisdiction, authority, or limitations” by granting the
+petitions. 5 U. S. C. §706(2)(C). The court vacated
+EPA’s decisions. It concluded the refineries were ineligible
+for an “extension” of their exemptions because all
+three had allowed their exemptions to lapse at some point in the
+past. 948 F. 3d, at 1249. We granted review to consider the
+question for ourselves. 592 U. S. ___ (2021).
+
+															II
+
+															A
+
+															Where Congress does not furnish a definition
+of its own, we generally seek to afford a statutory term “its
+ordinary or natural meaning.” FDIC v. Meyer,
+510 U.S.
+471, 476 (1994). Before us, the parties agree on one thing: The
+key word here—“extension”—is nowhere
+defined in the statute and it can mean different things depending
+on context.
+
+															Sometimes, as the renewable fuel producers
+observe and the court of appeals held, an “extension”
+can refer to an increase in time. See, e.g., 5 Oxford
+English Dictionary 597 (2d ed. 1989) (OED) (“Enlargement in
+duration”); 7 U. S. C. §940f(a)
+(“extension of the final maturity” of a federal loan).
+In other settings, as the small refineries emphasize, an
+“extension” can mean the offering or making something
+available to someone, such as the granting of a benefit. See,
+e.g., 5 OED 595 (“[t]o hold out, accord,
+grant”); 15 U. S. C. §1141e(a)
+(“extension of [intellectual property] protection”).
+These definitional differences matter too. If Congress used the
+term in the second sense, everyone before us seems to accept the
+court of appeals erred: Just because a small refinery’s first
+exemption lapsed, nothing would foreclose the government from
+extending—in the sense of granting or conferring—a
+second exemption later.
+
+															Ultimately, however, we agree with the renewable
+fuel producers and the court of appeals that subparagraph (B)(i)
+uses “extension” in its temporal sense—referring
+to the lengthening of a period of time. We find three textual clues
+telling. First, the initial exemption described in subparagraph
+(A)(i) is described temporally (as lasting “until calendar
+year 2011”). 42 U. S. C.
+§7545(o)(9)(A)(i). Second, the next exemption described
+in subparagraph (A)(ii) speaks temporally too, and it does so using
+a variation of the very term in dispute—authorizing EPA to
+“extend the exemption under clause (i) for the small
+refinery for a period of not less than 2 years.”
+§7545(o)(9)(A)(ii)(II) (emphasis added). Finally,
+subparagraph (A)(ii) and subparagraph (B)(i) share an identical
+title—“Extension of exemption”—underscoring
+the likelihood that the two neighboring provisions use the term
+“extension” in one consistent sense. Nor do we see any
+persuasive countervailing evidence that Congress meant to adopt one
+meaning of the term in subparagraph (A)(ii) and a different one
+next door in subparagraph (B)(i). See Henson v. Santander
+Consumer USA Inc., 582 U. S. ___, ___ (2017) (slip op., at
+5) (absent contrary evidence, this Court normally presumes
+consistent usage).
+
+															B
+
+															Resolving that much, however, does not resolve
+this case. Really, it only takes us to the heart of the dispute.
+The Tenth Circuit didn’t just hold that an extension means an
+increase in time—it imposed a continuity requirement. On that
+court’s view, a small refinery becomes permanently ineligible
+for a further extension of time once its exemption lapses. Even
+accepting that subparagraph (B)(i) uses the term
+“extension” in its temporal sense, the small refineries
+submit this was error. On their view, small refineries whose
+exemptions have lapsed in one year may still seek an
+“extension” in a following year. Indeed, the small
+refineries candidly characterize this as their stronger argument
+for reversal.
+
+															We agree. It is entirely natural—and
+consistent with ordinary usage—to seek an
+“extension” of time even after some lapse. Think of the
+forgetful student who asks for an “extension” for a
+term paper after the deadline has passed, the tenant who does the
+same after overstaying his lease, or parties who negotiate an
+“extension” of a contract after its expiration. Perhaps
+for reasons like these, the respondents and court of appeals are
+unable to point to a single dictionary definition of the term
+“extension” requiring unbroken continuity. To be sure,
+some definitions speak of an extension as a
+“continuation.” See, e.g., Black’s Law
+Dictionary 703 (10th ed. 2014) (defining “extension” as
+“[t]he continuation of the same contract for a
+specified period” (emphasis added)). And the dissent urges us
+to read “extension” to mean “continuation.”
+Post, at 2 (opinion of Barrett, J.). But even that
+term can denote a resumption after some interrupting lapse. See,
+e.g., 3 OED 828 (defining “continuation” as
+“the resumption of any interrupted action or course”);
+Webster’s New Collegiate Dictionary 180 (1946) (defining
+“continuation” as the “[a]ct of continuing; esp.
+a resumption”); B. Garner, Modern English Usage 214 (4th ed.
+2016).
+
+															Much federal law proceeds on this same
+understanding. Under certain circumstances, a court “may
+. . . extend” a party’s “time for
+appeal” even “after the expiration of the time
+otherwise set for bringing appeal.” 28 U. S. C.
+§2107(c). In other words, the timer can start, run, finish,
+and then restart—because a court has the power to
+“extend” the time allotted even after a lapse.
+Likewise, the Federal Rules of Civil Procedure prescribe all sorts
+of rules about “[w]hen an act may or must be done within a
+specified time” in trial court proceedings. Fed. Rule Civ.
+Proc. 6(b)(1). And for almost all rules prescribing a
+deadline, a district court may “extend the time” even
+“after the time has expired.” Ibid.; cf. Fed.
+Rule Civ. Proc. 6(b)(2). More than a few lawyers and clients have
+taken advantage of “extensions” of just these
+sorts.
+
+															Still other examples exist. Maybe most notably,
+just last year Congress twice passed laws providing for the
+“extension” of public benefits that had lapsed or been
+interrupted. See Consolidated Appropriations Act of 2021, Pub. L.
+116–260, §203, 134Stat. 1182 (providing an
+“extension” of unemployment compensation starting on
+December 26, 2020, after lapsing on July 31, 2020); Coronavirus
+Aid, Relief, and Economic Security Act, Pub. L. 116–136,
+§2114, 134Stat. 281 (providing an “extension” of
+unemployment benefits starting in 2020, after lapsing in 2013). The
+dissent gives these particular examples short shrift because they
+appear in statutes “passed in an emergency context” a
+decade after the statute at issue here. Post, at 7. We do
+not doubt that meaning may change with time, but unless the dissent
+thinks the ordinary meaning of “extension” changed in
+just 10 years, it’s hard to understand why these enactments
+don’t shed at least some light on today’s question. If
+anything, the emergency context in which these laws were
+passed—forcing legislators to use a term on short
+notice—would seem to provide useful evidence of ordinary
+meaning.
+
+															Beyond that, the dissent counters by attempting
+to recast all these varied examples of temporal extensions after
+interruption. It imagines, for example, that when a teacher extends
+a paper deadline after a lapse, that act of grace always operates
+like a nunc pro tunc judicial decree—retroactively
+deeming the time originally allotted as now extending continuously
+to some new and future due date. But no one thinks extensions
+always work this way. As the COVID-19 statutes illustrate, a
+previously lapsed benefit can and sometimes is
+“extended” for a new period without any retroactive
+effect. Likewise, if a student misses the 4 p.m. deadline on
+Friday, his teacher may extend the deadline by authorizing him to
+hand in his paper the following Monday between 8 a.m. and 9 a.m.
+Besides, even looking to the nunc pro tunc analogy, what
+does it prove? It cannot change the fact that, absent time travel,
+a lapse or interruption has occurred. The student cannot go back in
+time and turn in his paper when it was originally due on Friday
+afternoon. His lapse may be forgiven or overlooked, maybe even with
+a Latin term invoked in the process, but none of that means a break
+in continuity, a lapse, or an interruption never happened. See
+infra, at 10, n. 2 (discussing treatment of a lapse
+under subparagraph (A)).
+
+															We do not mean to suggest that every use of the
+word “extension” must be read the same way. On
+occasion, for example, Congress requires “extensions”
+to be “consecutive” or “successive.”
+E.g., 8 U. S. C. §1184(g)(8)(D); 10
+U. S. C. §2304a(f ); 19 U. S. C.
+§2432(d)(1); 28 U. S. C. §594(b)(3)(A).
+Modifiers like those may well suggest a continuity requirement.
+See, e.g., Webster’s New Collegiate Dictionary, at 846
+(defining “successive” as “following each other
+without interruption”). Other contextual clues in a given
+statute may yield a similar conclusion. But none of that means the
+bare term “extension” obviously and always includes a
+strict continuity requirement. If anything, the absence of any
+parallel modifying language in the statute before us supplies one
+clue that continuity is not required here.
+
+															Further statutory clues confirm this
+understanding. Recall that subparagraph (B)(i) authorizes small
+refineries to seek hardship exemptions “at any time.”
+42 U. S. C. §7545(o)(9)(B)(i). Far from
+indicating that a refinery may apply for an exemption in a future
+year only if it has always received one in the past, this language
+suggests a much more “expansive meaning.” United
+States v. Gonzales, 520 U.S.
+1, 5 (1997). “At any time” does not connote a
+demand for some rigid continuity so much as its
+opposite—including the possibility that small refineries
+might apply for exemptions in different years in light of market
+fluctuations and changing hardship conditions, whether
+consecutively or otherwise.[1]
+
+															We find another feature telling too. Next door,
+subparagraph (A) uses the term “extension”
+without a continuity requirement. To see how subparagraph
+(A) was designed, imagine a small refinery avails itself of the
+blanket exemption in 2008 and 2009 under subparagraph (A)(i). Then
+in 2010, because of an increase in production capacity, the
+refinery loses “small refinery” status under
+§7545(o)(1)(K) and with it the blanket exemption that
+“appl[ies] to small refineries.”
+§7545(o)(9)(A)(i). One year later, production capacity
+falls and the refinery moves back into small refinery status for
+2011. If that refinery applies for an “extension” under
+subparagraph (A)(ii), the statute provides that EPA “shall
+extend the exemption under clause (i),” so long as the
+Secretary of Energy found the refinery would suffer a
+disproportionate hardship. The result? A refinery may receive an
+“extension” despite its exemption having lapsed. And if
+that’s how the term is used in subparagraph (A), we would
+once again expect subparagraph (B) to follow a consistent pattern
+of usage. See Henson, 582 U. S., at ___ (slip op., at
+5).[2]
+
+															The refineries suggest we need to place still
+another point in their column. They direct our attention to a
+regulation EPA adopted in 2014 to clarify the bounds of
+“small refinery” status. When EPA first sought public
+comment, some suggested a refinery should be eligible for exemption
+only if it constantly remained “small” from 2006
+onward—and EPA expressly rejected that view in favor of
+revisiting annually whether a refinery falls above or below the
+“small refinery” threshold. 40 CFR
+§80.1441(e)(2)(iii). Before the Tenth Circuit, the Agency
+insisted this regulation sheds light on the meaning of
+“extension” and underscores that it does not include a
+continuity requirement. Indeed, EPA asked the court of appeals to
+defer to its understanding under Chevron U. S. A.
+Inc. v. Natural Resources Defense Council, Inc.,
+467 U.S.
+837 (1984). Although the refineries repeat that ask here, the
+government does not. With the recent change in administrations,
+“the government is not invoking Chevron.” Brief
+for Federal Respondent 46–47. We therefore decline to
+consider whether any deference might be due its regulation.
+
+															Against the petitioners’ evidence of
+statutory meaning, the respondents ask us to consider one of their
+own. They point to the fact that subparagraph (A) is titled
+“temporary exemption,” that it was permitted to expire
+in 2013, and that subparagraph (B)(i) speaks of extending
+“the exemption under subparagraph (A).” Together,
+respondents say, these statutory features suggest that the whole
+scheme of exemptions was meant to end rapidly, that subparagraph
+(B)(i) was designed as a narrow exception to a 2013 sunset rule,
+and that any further exemptions it allows should therefore be
+construed narrowly to end as quickly as possible.
+
+															But this much we do not see. In the first place,
+we do not construe subparagraph (B) as part of some sunset scheme.
+To be sure, subparagraph (A)’s exemptions were permitted to
+expire in 2013, but did not have to do so. In theory, EPA could
+have granted a small refinery exemption under subparagraph (A)(ii)
+that lasted many years or indefinitely. See 42 U. S. C.
+7545(o)(9)(A)(ii)(II). In any case, subparagraph (B)(i)
+expressly contemplates exemptions beyond 2013—“at any
+time” hardship conditions are satisfied. If Congress really
+had wanted all exemptions to cease after a temporary period, that
+was surely an odd way to achieve it. Odder still in light of the
+fact that Congress had before it (but eschewed) many readymade
+models for a sunset statute if that’s what it wished here.
+See, e.g., §247d–7f(b) (providing that statutory
+provisions authorizing a “limited antitrust exemption”
+“shall expire at the end of [a] 17-year period” after
+the Act was passed). And maybe odder yet given that subparagraph
+(B)(i) exemptions are hardly destined to sunset quickly even on the
+respondents’ account, for they do not dispute that small
+refineries with an unbroken record of failing to comply with the
+RFP may continue to seek and obtain extensions forever. See Brief
+for Federal Respondent 43, n. 7; Brief for Industry
+Respondents 39.
+
+															Additionally, even assuming (without granting)
+that subparagraph (B) really did represent only some sort of
+exception to a general 2013 deadline, we still don’t see how
+that would help. The respondents urge us to construe statutory
+exceptions narrowly. But this Court has made clear that statutory
+exceptions are to be read fairly, not narrowly, for they “are
+no less part of Congress’s work than its rules and
+standards—and all are worthy of a court’s
+respect.” BP p.l.c. v. Mayor and City Council of
+Baltimore, ante, at 6. And fairly read, the key phrase
+at issue before us—“A small refinery may at any time
+petition the Administrator for an extension of the exemption under
+subparagraph (A) for the reason of disproportionate economic
+hardship”—simply does not contain the continuity
+requirement the court of appeals supposed. Instead, more naturally,
+it means exactly what it says: A small refinery can apply for (if
+not always receive) a hardship extension “at any
+time.”[3]
+
+															III
+
+															Everything else the respondents offer in
+defense of the court of appeals’ judgment involves surmise
+about legislative purpose and arguments from public policy. Like
+the Tenth Circuit, they emphasize that, by the time the petitioners
+sought new exemptions in 2017 and 2018, small refineries already
+“had many years to ponder . . . whether it made
+sense to enter into or remain in the market.” 948 F. 3d,
+at 1247. The respondents argue that subparagraph (B) was adopted
+for the purpose of “funnel[ing] small refineries toward
+compliance over time.” Id., at 1246. And they submit
+that enforcing a continuity requirement helps advance congressional
+goals such as increasing “biofuel production, energy
+independence, and environmental protection.” Ibid.
+
+															The dissent seemingly agrees. It acknowledges
+that Congress provided other ameliorating provisions to
+address various challenges to the fuel market. Post, at
+8–10. For example and as we have already seen,
+§7545(o)(7)(A) grants EPA authority to waive RFP
+obligations at any time across an entire State or region to address
+severe hardships or shortages. Section 7545(o)(7)(E)(ii)
+provides a more limited waiver with respect to biomass-based diesel
+fuels. And §7545(o)(8)(D)(i) provided a waiver
+authority to address hardships for consumers “in calendar
+year 2006.” But on the dissent’s view, everything else
+in the statute aims to “[f]unnel[ ] refineries toward
+compliance.” Post, at 9. Indeed, the dissent finds it
+“odd” that our reading would permit hardship relief
+only to small refineries in existence in 2008 and not to new ones,
+post, at 13—and that our reading “will require
+EPA to examine the 2008 study” when reviewing extension
+applications “decades from now,” post, at 9.
+
+															But, as usual, the other side presents a
+plausible competing narrative. On the petitioners’ account,
+the statute seeks to increase production of renewable fuel while
+also offering a “safety valve” each year for small
+refineries that might otherwise face extinction. According to the
+small refineries, the respondents’ competing
+“funnel” metaphor makes little sense because a small
+refinery’s compliance in one year is in no way dispositive of
+its ability to comply in a future year. Instead, compliance depends
+on numerous factors unique to each year and circumstances over
+which small refineries often have no control. Brief for Petitioners
+42–44. In particular, most small refineries cannot comply
+with RFP mandates but must purchase credits from those that can.
+Each year more credits are required. And the price for those
+credits reflect the famously volatile nature of the fuel
+market—in one recent year, prices shot up by as much as 100%.
+See id., at 45. Aware of these market realities, the small
+refineries say, a rational Congress could have created (and did
+create) a means for small refineries to seek a hardship exemption
+“at any time” rather than be forced to exit the
+market.
+
+															The petitioners say their “safety
+valve” analogy fits better for other reasons too. As the
+dissent acknowledges, Congress included many other “safety
+valve” provisions to address various challenges to the market
+that may arise at any time, including regional shortages and
+economic hardships. Post, at 8–10. Surely, Congress
+could have chosen to provide similar relief targeted to small
+refineries. Nor is there anything odd about the fact that Congress
+chose only to protect existing small refineries rather than new
+entrants. Often Congress chooses to protect existing market
+participants from shifts in the law while applying new restrictions
+fully to future entrants. Maybe, too, the petitioners suggest,
+Congress wasn’t particularly concerned with new entrants in
+2008 because, until last year, there had not been a new refinery of
+any size in this country for almost 50 years. See Blackmon, First
+Major U. S. Oil Refinery Since 1977 Targets Bakken Shale Crude,
+Forbes (July 25, 2020),
+https: // www.forbes.com / sites / davidblackmon / 2020 / 07 / 25/
+first - new - us -oil-refinery-since-1977-targets-bakken-shale-crude/.
+
+															The petitioners stress as well that, even on the
+respondents’ account, Congress did create a “safety
+valve” rather than a “funnel” for some
+small refineries: Those with an unbroken record of failing to
+comply with the RFP may continue to seek and obtain extensions
+forever without being “funneled” toward compliance.
+Supra, at 11–12. Yet the respondents never explain why
+the least compliant refineries should be the most favored in this
+way. Nor do they confront the fact that their rule would have the
+strange effect of disincentivizing small refineries from ever
+trying to comply. Brief for Petitioners 22; Brief for State of
+Wyoming et al. as Amici Curiae 13–14. And even on
+the respondents’ account, EPA will have to consult its 2008
+study in future years for these permanently noncompliant
+refineries.
+
+															Beyond that, the petitioners note, if
+subparagraph (B)(i) really did create a “miss one and
+done” rule for small refineries able to comply with RFP
+mandates in a single year the statute could wind up reducing
+overall domestic fuel supply—all without adding a single
+additional gallon of renewable fuel to the mix. See 42
+U. S. C. §7545(o)(5)(B); 40 CFR
+§80.1427. Permanently shuttering existing small refineries in
+the process could, as well, increase the Nation’s future
+reliance on imported fuels. Brief for Petitioners 41. All of which
+sits uneasily with even the respondents’ account of the
+statute’s purposes.
+
+															We mention all this not because we pick sides.
+Neither the statute’s text, structure, nor history afford us
+sufficient guidance to be able to choose with confidence between
+the parties’ competing narratives and metaphors. We mention
+this only to observe that both sides can offer plausible
+accounts of legislative purpose and sound public policy—and
+that it would therefore be a mistake to rely on appeals to some
+abstract intuition that the number of small refineries receiving
+exemptions “should have tapered down” over time.
+948 F. 3d, at 1246 (emphasis added). Instead, our analysis can
+be guided only by the statute’s text—and that nowhere
+commands a continuity requirement.
+
+															*
+
+															The respondents have not shown that
+EPA’s approval of the petitioners’ extension requests
+was in excess of the Agency’s statutory authority. 5
+U. S. C. §706(2)(C). To the extent the court of
+appeals vacated EPA’s orders on this ground, the judgment
+is
+
+															Reversed.
+
+Notes
+1
+On the dissent’s account,
+this language merely permits a small refinery to seek an extension
+for the following year after EPA’s November 30
+deadline for publishing the coming year’s RFP mandates.
+Post, at 10–11. But to pursue this interpretation we
+would effectively have to read words into the statute. A provision
+promising small refineries that they may seek an extension
+“at any time” would become a provision promising them
+only the chance to seek an extension “for the following
+year at any time before or after EPA’s November 30
+deadline for publishing next year’s RFP
+mandates.”
+2
+Replying to our example, the
+dissent posits that subparagraph (A)(i)’s exemption
+“existed in the year 2010 by virtue of statute—even if
+a particular refinery was not in a position to take advantage of
+it.” Post, at 12. But it’s hard to see how a
+refinery might have an “exemption[ ] currently in
+place” when it does not qualify for or receive its benefits.
+Post, at 1. Even putting that problem aside, following the
+dissent’s logic does not aid its cause. What is true for
+subparagraph (A)(i) should likewise be true for subparagraph
+(B)(i), which refers to “the exemption under subparagraph
+(A).” So, following the dissent’s reasoning, one might
+just as easily conceive of a subparagraph (B)(i) exemption as
+“existing” even in a year when a small refinery
+“was not in a position to take advantage of it.”
+Accordingly, on the dissent’s logic, if a small refinery
+lacked the exemption in one year (say, 2016) and then applied for
+it in a later year (say, 2017), it would seem the exemption always
+“presently exist[ed]” and can be
+“extended.” Post, at 4, 8.
+3
+Rather than argue subparagraph
+(B)(i) is an exception that should be construed narrowly, the
+dissent imagines some weakness in our position when we observe
+above that the word extension “can” or
+“may” be used to refer to an increase in time after a
+lapse. Supra, at 6. From this, the dissent supposes that we
+mean to say “HollyFrontier wins because its reading is
+[merely] possible.” Post, at 3. That is
+mistaken. As we have sought to explain, we simply recognize that
+the term “extension” may or may not convey a continuity
+requirement depending on context—much as the dissent
+acknowledges the term can sometimes tolerate a lapse of some sort.
+See supra, at 10, n. 2 (discussing subparagraph
+(A)(1)). Our holding today, too, should be clear. Rather than rule
+for HollyFrontier because it has advanced a permissible reading,
+and rather than offer assertions about “common sense”
+or what seems “more natural” to us, post, at
+3–5, we have sought to explain why this particular
+statute’s usage, context, and structure persuade us that
+continuity is not required here.
+
+

@@ -1,0 +1,672 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-227
+::decision_name::  Lac du Flambeau Band of Lake Superior Chippewa Indians v. Coughlin
+::decision_year:: 2023
+::opinion_author:: Jackson
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States Reports.
+Readers are requested to notify the Reporter of Decisions, Supreme
+Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal
+errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–227
+
+															_________________
+
+															LAC du FLAMBEAU BAND OF LAKE SUPERIOR CHIPPEWA
+INDIANS, et al., PETITIONERS v. BRIAN W. COUGHLIN
+
+															on writ of certiorari to the united states
+court of appeals for the first circuit
+
+															[June 15, 2023]
+
+															
+
+															Justice Jackson delivered the opinion of the
+Court.
+
+															The Bankruptcy Code expressly abrogates the
+sovereign immunity of “governmental unit[s]” for
+specified purposes. 11 U. S. C. §106(a). The
+question presented in this case is whether that express abrogation
+extends to federally recognized Indian tribes. Under our
+precedents, we will not find an abrogation of tribal sovereign
+immunity unless Congress has conveyed its intent to abrogate in
+unequivocal terms. That is a high bar. But for the reasons
+explained below, we find it has been satisfied here.
+
+															I
+
+															Petitioner Lac du Flambeau Band of Lake
+Superior Chippewa Indians (the Band) is a federally recognized
+Tribe that wholly owns several business entities. In 2019, one of
+the Band’s businesses, Lendgreen, allowed respondent Brian
+Coughlin to borrow $1,100 in the form of a high-interest,
+short-term loan. But Coughlin filed for Chapter 13 bankruptcy
+before he fully repaid the loan.
+
+															Under the Bankruptcy Code, Coughlin’s
+filing of the bankruptcy petition triggered an automatic stay
+against further collection efforts by creditors, including
+Lendgreen. See §362(a). Yet, according to Coughlin, Lendgreen
+continued its efforts to collect on his debt, even after it was
+reminded of the pending bankruptcy petition. Coughlin alleges that
+Lendgreen was so aggressive in its efforts to contact him and
+collect the money that he suffered substantial emotional distress,
+and at one point, even attempted to take his own life.
+
+															Coughlin eventually filed a motion in Bankruptcy
+Court, seeking to have the stay enforced against Lendgreen, its
+parent corporations, and the Band (collectively, petitioners).
+Coughlin also sought damages for emotional distress, along with
+costs and attorney’s fees. See §362(k) (providing a
+damages award to individuals injured by willful violations of the
+automatic stay).
+
+															Petitioners moved to dismiss. They argued that
+the Bankruptcy Court lacked subject-matter jurisdiction over
+Coughlin’s enforcement proceeding, as the Band and its
+subsidiaries enjoyed tribal sovereign immunity from suit.[1] The Bankruptcy Court agreed; it held
+that the suit had to be dismissed because the Bankruptcy Code did
+not clearly express Congress’s intent to abrogate tribal
+sovereign immunity.
+
+															In a divided opinion, the Court of Appeals for
+the First Circuit reversed, concluding that the Bankruptcy Code
+“unequivocally strips tribes of their immunity.”
+In re Coughlin, 33 F. 4th 600, 603–604
+(2022). In so holding, the First Circuit deepened a split among the
+Courts of Appeals on this question. Compare Krystal Energy
+Co. v. Navajo Nation, 
+357 F.3d 1055, 
+1061 (CA9 2004) (holding that the Bankruptcy Code abrogates
+tribal sovereign immunity), with In re Greektown Holdings,
+LLC, 917 F.3d 451, 460–461 (CA6 2019) (concluding the
+reverse). We granted certiorari to address the lower courts’
+inconsistent holdings. 598 U. S. ___ (2023).
+
+															II
+
+															A
+
+															Two provisions of the Bankruptcy Code lie at
+the crux of this case. The first— 11 U. S. C.
+§106(a)—abrogates the sovereign immunity of
+“governmental unit[s].” It provides:
+“Notwithstanding an assertion of sovereign immunity,
+sovereign immunity is abrogated as to a governmental unit to the
+extent set forth in this section.” Section 106(a) goes on to
+enumerate a list of Code provisions to which the abrogation
+applies, including the provision governing automatic stays.
+
+															The second relevant provision is §101(27).
+That provision defines “governmental unit” for purposes
+of the Code. It states that that term
+
+															“means United States; State;
+Commonwealth; District; Territory; municipality; foreign state;
+department, agency, or instrumentality of the United States (but
+not a United States trustee while serving as a trustee in a case
+under this title), a State, a Commonwealth, a District, a
+Territory, a municipality, or a foreign state; or other foreign or
+domestic government.”
+
+															The central question before us is whether the
+abrogation provision in §106(a) and the definition of
+“governmental unit” in §101(27), taken together,
+unambiguously abrogate the sovereign immunity of federally
+recognized tribes.
+
+															B
+
+															To “abrogate sovereign immunity,”
+Congress “must make its intent . . .
+‘unmistakably clear in the language of the
+statute.’ ” Financial Oversight and Management
+Bd. for P. R. v. Centro De Periodismo Investigativo,
+Inc., 598 U. S. ___, ___ (2023) (slip op., at 6). This
+well-settled rule applies to federally recognized tribes no less
+than other defendants with sovereign immunity. Ibid. We have
+held that tribes possess the “common-law immunity from suit
+traditionally enjoyed by sovereign powers.” Santa Clara
+Pueblo v. Martinez, 436 U.S.
+49, 58 (1978). Our cases have thus repeatedly emphasized that
+tribal sovereign immunity, absent a clear statement of
+congressional intent to the contrary, is the “baseline
+position.” Michigan v. Bay Mills Indian
+Community, 572 U.S.
+782, 790 (2014).
+
+															This clear-statement rule is a demanding
+standard. If “there is a plausible interpretation of the
+statute” that preserves sovereign immunity, Congress has not
+unambiguously expressed the requisite intent. FAA v.
+Cooper, 566 U.S.
+284, 290 (2012); accord, United States v. Nordic
+Village, Inc., 503 U.S.
+30, 37 (1992).
+
+															The rule is not a magic-words requirement,
+however. To abrogate sovereign immunity unambiguously,
+“Congress need not state its intent in any particular
+way.” Cooper, 566 U. S., at 291. Nor need
+Congress “make its clear statement in a single [statutory]
+section.” Kimel v. Florida Bd. of Regents,
+528 U.S.
+62, 76 (2000). The clear-statement question is simply whether,
+upon applying “traditional” tools of statutory
+interpretation, Congress’s abrogation of tribal sovereign
+immunity is “clearly discernable” from the statute
+itself. Cooper, 566 U. S., at 291.
+
+															III
+
+															We conclude that the Bankruptcy Code
+unequivocally abrogates the sovereign immunity of any and every
+government that possesses the power to assert such immunity.
+Federally recognized tribes undeniably fit that description;
+therefore, the Code’s abrogation provision plainly applies to
+them as well.
+
+															A
+
+															Several features of the provisions’ text
+and structure compel this conclusion.
+
+															As an initial matter, the definition of
+“governmental unit” exudes comprehensiveness from
+beginning to end. Congress has rattled off a long list of
+governments that vary in geographic location, size, and nature.
+§101(27) (including municipalities, districts, Territories,
+Commonwealths, States, the United States, and foreign states). The
+provision then proceeds to capture subdivisions and components of
+every government within that list. Ibid. (accounting for any
+“department, agency, or instrumentality of the United States
+. . . , a State, a Commonwealth, a District, a Territory,
+a municipality, or a foreign state”). And it concludes with a
+broad catchall phrase, sweeping in “other foreign or domestic
+government[s].” Ibid.
+
+															When faced with analogously structured
+provisions in other contexts, we have noted their all-encompassing
+scope. See, e.g., Taylor v. United States, 579
+U.S. 301, 305–306 (2016) (characterizing as
+“unmistakably broad” a criminal statute defining
+“commerce” to include a list of specific instances in
+which the Federal Government would have jurisdiction, followed by a
+broad residual phrase); see also Marietta Memorial Hospital
+Employee Health Benefit Plan v. DaVita Inc., 596
+U. S. ___, ___, n. 1 (2022) (slip op., at 4, n. 1)
+(similar). We find the strikingly broad scope of
+§101(27)’s definition of “governmental unit”
+to be significant in this context as well.
+
+															The catchall phrase Congress used in
+§101(27) is also notable in and of itself. Few phrases in the
+English language express all-inclusiveness more than the pairing of
+two extremes. “Rain or shine” is a classic example: If
+an event is scheduled to occur rain or shine, it will take place
+whatever the weather that day might be. Same with the phrase
+“near and far”: If people are traveling from near and
+far, they are coming from all over the map, regardless of the
+particular distance from point A to point B.
+
+															The pairing of “foreign” with
+“domestic” is of a piece with those other common
+expressions. For instance, if someone asks you to identify car
+manufacturers, “foreign or domestic,” your task is to
+name any and all manufacturers that come to mind, without
+particular regard to where exactly the cars are made or the
+location of the companies’ headquarters. Similarly, at the
+start of each Congress, a cadre of newly elected officials
+“ ‘solemnly swear’ ” to
+“ ‘support and defend the Constitution of the
+United States against all enemies, foreign and
+domestic.’ ” 5 U. S. C. §3331. That
+oath—which each Member of Congress who enacted the Bankruptcy
+Code took—indisputably pertains to enemies anywhere in the
+world. Accordingly, we find that, by coupling foreign and domestic
+together, and placing the pair at the end of an extensive list,
+Congress unmistakably intended to cover all governments in
+§101(27)’s definition, whatever their location, nature,
+or type.
+
+															It is also significant that the abrogation of
+sovereign immunity in §106(a) plainly applies to all
+“governmental unit[s]” as defined by §101(27).
+Congress did not cherry-pick certain governments from
+§101(27)’s capacious list and only abrogate immunity
+with respect to those it had so selected. Nor did Congress suggest
+that, for purposes of §106(a)’s abrogation of sovereign
+immunity, some types of governments should be treated
+differently than others. Instead, Congress categorically abrogated
+the sovereign immunity of any governmental unit that might
+attempt to assert it.
+
+															B
+
+															Other aspects of the Bankruptcy Code reinforce
+what §106(a)’s and §101(27)’s plain text
+conveys.
+
+															Through various provisions, the Bankruptcy Code
+offers debtors a fresh start by discharging and restructuring their
+debts in an “orderly and centralized” fashion. See,
+e.g., 1 Collier on Bankruptcy ¶1.01 (16th ed. 2023);
+Lamar, Archer & Cofrin, LLP v. Appling, 584
+U. S. ___, ___ (2018) (slip op., at 4). The automatic-stay
+requirement, for example, keeps creditors from
+“dismember[ing]” the estate while the bankruptcy case
+proceeds. Chicago v. Fulton, 592 U. S. ___, ___
+(2021) (slip op., at 2); 11 U. S. C. §362. The
+Code’s discharge provision enjoins creditors from trying to
+collect debts that have been discharged in a bankruptcy case.
+§524(a). And its plan-confirmation provisions, as relevant
+here, “bind . . . each creditor” to whatever
+repayment plan the bankruptcy court approves, “whether or not
+the claim of such creditor is provided for by the plan, and whether
+or not such creditor has objected to, has accepted, or has rejected
+the plan.” §1327(a); see also, e.g.,
+§§1141(a), 1227(a).
+
+															These protections sweep broadly, by their own
+terms. To facilitate the Code’s “orderly and
+centralized” debt- resolution process, Collier on Bankruptcy
+¶1.01, these provisions’ basic requirements generally
+apply to all creditors.[2] Courts can also enforce these requirements against any
+kind of noncompliant creditor—whether or not the creditor is
+a “governmental unit”—by virtue of
+§106(a)’s abrogation of sovereign immunity.
+§§106(a)(1)–(3).
+
+															At the same time, so as to avoid impeding the
+functioning of governmental entities when they act as creditors,
+the Code contains a number of limited exceptions. For instance, the
+automatic-stay requirement does not preclude “governmental
+unit[s]” from enforcing their “police and regulatory
+power[s]” in certain proceedings, §362(b)(4), or from
+pursuing specific tax-related activities, §§362(b)(9),
+(18), (26). The Code additionally exempts from discharge certain
+debts for a “fine, penalty, or forfeiture” owed to a
+“governmental unit.” §523(a)(7).
+
+															Reading the statute to carve out a subset of
+governments from the definition of “governmental unit,”
+as petitioners’ view of the statute would require, risks
+upending the policy choices that the Code embodies in this regard.
+That is, despite the fact that the Code generally subjects all
+creditors (including governmental units) to certain overarching
+requirements, under petitioners’ reading, some government
+creditors would be immune from key enforcement proceedings while
+others would face penalties for their noncompliance. And while the
+Code is finely tuned to accommodate essential governmental
+functions (like tax administration and regulation) as a general
+matter, petitioners would have us find that certain governments are
+excluded from those provisions’ reach, notwithstanding the
+fact that they engage in tax and regulatory activities too. There
+is no indication that Congress meant to categorically exclude
+certain governments from these provisions’ enforcement
+mechanisms and exceptions, let alone in such an anomalous manner.
+Cf. Law v. Siegel, 571 U.S.
+415, 424 (2014) (declining to read into the Code an exception
+Congress did not include in its “meticulous” and
+“carefully calibrated” scheme).
+
+															C
+
+															Our conclusion that all government creditors
+are subject to abrogation under §106(a) brings one remaining
+question to the fore—whether federally recognized tribes
+qualify as governments. Petitioners do not seriously dispute that
+federally recognized tribes are governments, and for good reason.
+Federally recognized tribes exercise uniquely governmental
+functions: “They have power to make their own substantive law
+in internal matters, and to enforce that law in their own
+forums.” Santa Clara Pueblo, 436 U. S., at
+55–56 (citations omitted). They can also “tax
+activities on the reservation.” Plains Commerce Bank
+v. Long Family Land & Cattle Co., 554 U.S.
+316, 327 (2008).
+
+															It is thus no surprise that Congress has
+repeatedly characterized tribes as governments.[3] And this Court has long recognized
+tribes’ governmental status as well. See, e.g., Bay
+Mills, 572 U. S., at 788–789; Santa Clara
+Pueblo, 436 U. S., at 57–58. We have done so
+generally and also in the specific context of tribal sovereign
+immunity. Tribal sovereign immunity, “we have explained, is
+‘a necessary corollary to Indian sovereignty and
+self-governance.’ ” Bay Mills, 572
+U. S., at 788; see also id., at 789 (discussing
+immunity as an example of tribes’ “governmental powers
+and attributes”).
+
+															Putting the pieces together, our analysis of the
+question whether the Code abrogates the sovereign immunity of
+federally recognized tribes is remarkably straightforward. The Code
+unequivocally abrogates the sovereign immunity of all governments,
+categorically. Tribes are indisputably governments. Therefore,
+§106(a) unmistakably abrogates their sovereign immunity
+too.[4]
+
+															IV
+
+															Petitioners raise two main arguments in an
+attempt to sow doubt into these clear statutory provisions. Neither
+creates the ambiguity petitioners seek.
+
+															A
+
+															For their opening salvo, petitioners try to
+make hay out of the simple fact that neither §101(27) nor
+§106(a) mentions Indian tribes by name. Had Congress wanted to
+abrogate tribal sovereign immunity, petitioners claim, the most
+natural and obvious way to have expressed that intent would have
+been to reference Indian tribes specifically, rather than smuggle
+them into a broadly worded catchall phrase.
+
+															But, as explained at the outset, supra,
+at 4, the clear-statement rule is not a magic-words requirement.
+Thus, Congress did not have to include a specific reference to
+federally recognized tribes in order to make clear that it intended
+for tribes to be covered by the abrogation provision. As long as
+Congress speaks unequivocally, it passes the clear-statement
+test—regardless of whether it articulated its intent in the
+most straightforward way. Cooper, 566 U. S., at
+291.
+
+															Trying a different tack, petitioners point to
+historical practice. In statute after statute, they say, Congress
+has specifically mentioned Indian tribes when abrogating their
+sovereign immunity. And in no case has this Court ever found an
+abrogation of tribal sovereign immunity where the statute did not
+reference Indian tribes explicitly. See Brief for Petitioners
+24–26.
+
+															These statistics sound quite noteworthy at first
+glance. But they do not move the needle in this case. For one
+thing, none of petitioners’ cited examples involved a
+statutory provision that was worded analogously to, and structured
+like, the ones at issue here.[5] Moreover, the universe of cases in which we have
+addressed federal statutes abrogating tribal sovereign immunity is
+exceedingly slim.[6]
+
+															In any event, the fact that Congress has
+referenced tribes specifically in some statutes abrogating tribal
+sovereign immunity does not foreclose it from using different
+language to accomplish that same goal in other statutory contexts.
+Even petitioners appear to concede this basic point. They agree
+that Congress could have used a phrase like “every
+government” or “any government with sovereign
+immunity” to express unambiguously the requisite intent to
+abrogate the sovereign immunity of tribes. Id., at 27
+(internal quotation marks omitted). For the reasons discussed
+above, we believe Congress did just that.
+
+															B
+
+															Petitioners further contend that even if the
+relevant provisions could theoretically cover tribes, the statute
+can plausibly be read in a way that preserves their immunity.
+
+															1
+
+															According to petitioners, the catchall phrase
+“other foreign or domestic government” might simply
+capture entities created through “interstate compacts,”
+which cannot neatly be characterized as a State or an
+instrumentality of a State under §101(27)’s enumerated
+list. Id., at 40–41 (internal quotation marks
+omitted). Interpreted in that fashion, petitioners maintain, the
+catchall phrase would exclude governmental entities that are not
+purely foreign or purely domestic—like tribes or the
+International Monetary Fund (IMF). Tr. of Oral Arg. 8–9.
+
+															If this interpretation of the statute sounds
+far-fetched, that is because it is. To find petitioners’
+construction plausible, we would have to interpret “other
+foreign or domestic government” to impose a rigid division
+between foreign governments on the one hand and domestic
+governments on the other, leaving out any governmental entity that
+may have both foreign and domestic characteristics (like tribes or
+the IMF). But Congress has expressly instructed that the word
+“or,” as used in the Code, “is not
+exclusive.” 11 U. S. C. §102(5). As a result,
+we have serious doubts that Congress meant for §101(27) to
+elicit the laser focus on “or” that petitioners’
+reading of “foreign or domestic” would entail.[7]
+
+															The dissent’s own arguments undermine any
+suggestion that Congress adopted such a siloed view. For instance,
+the dissent repeatedly paints tribes as occupying a hybrid position
+between foreign and domestic, post, at 6, 8–9 (opinion
+of Gorsuch, J.), and posits that Territories historically share
+this hybrid status as well, post, at 10 (describing
+Territories as tribes’ “close comparator”). Yet,
+as the dissent readily acknowledges, Congress expressly included
+Territories within §101(27)’s definition of
+“governmental unit.” If, on the dissent’s own
+account, Territories are “neither foreign nor
+domestic,” ibid.—and fall within
+§101(27)’s purview nevertheless—it is hard to see
+how §101(27)’s catchall phrase would simultaneously
+exclude other entities that share that same feature. §101(27)
+(“ ‘governmental unit’ means United States;
+State; . . . Territory; . . . foreign state; or
+other foreign or domestic government” (emphasis
+added)).
+
+															In any case, neither petitioners nor the dissent
+explain why the Code would draw such a line in the sand. None of
+the carefully calibrated exceptions noted in Part III–B,
+supra, for governmental units performing regulatory and
+tax-related functions turn on whether a government is purely
+foreign or domestic. Likewise, it is hard to see why the Code would
+subject purely foreign or domestic governments to enforcement
+proceedings while at the same time immunizing government creditors
+that have both foreign and domestic attributes. Considering that
+the one thing every entity in §101(27)’s
+enumerated list has in common is its governmental nature—and
+that is the same characteristic that matters when the Code
+addresses “governmental unit[s]” from one provision to
+the next[8]—we are highly
+skeptical that Congress distinguished between governments in
+the way petitioners suggest.
+
+															2
+
+															Undaunted, petitioners note that Congress has
+historically treated various types of governments differently for
+purposes of bankruptcy law. Tr. of Oral Arg. 14–15; Reply
+Brief 21. They assert that, in the decades leading up to the
+Bankruptcy Code’s enactment, bankruptcy law afforded certain
+benefits to “ ‘the United States or any State or
+any subdivision thereof,’ ” leaving out entities
+that did not fall into one of those enumerated categories. Reply
+Brief 21 (quoting §64(a)(4), 52Stat. 874).
+
+															Even if petitioners’ understanding of this
+history is correct, they have failed to demonstrate that the Code
+carried forward any such differential treatment. Congress ushered
+in “a new, unprecedented era in bankruptcy practice”
+when it enacted the Code in 1978. 1 W. Norton, Bankruptcy Law and
+Practice §1:9, p. 1-17 (3d ed. 2023); Northern
+Pipeline Constr. Co. v. Marathon Pipe Line Co.,
+458 U.S.
+50, 52–53 (1982) (plurality opinion) (describing the Code
+as “a comprehensive revision of the bankruptcy laws”).
+Both §101(27)’s definition of “governmental
+unit” and §106(a)’s abrogation of sovereign
+immunity were some of the many changes Congress made. The prior
+statute did not provide a general definition for governmental
+entities, much less include any provision expressly abrogating
+governments’ sovereign immunity. Instead, it set forth a
+general definition for “States,” which encompassed
+Territories, possessions, and the District of Columbia. 52Stat.
+842. Then, in each provision where governmental entities were
+relevant, Congress specified the particular governmental entities
+to which that provision pertained. See, e.g., §17(1),
+id., at 851 (exempting from discharge debts “due as a
+tax levied by the United States, or any State, county, district, or
+municipality”); id., at 874 (providing priority status
+to “the United States or any State or any subdivision
+thereof ”).
+
+															Section 101(27)’s definition of
+“governmental unit” has an undeniably broader reach
+than the statutory provisions that preceded it. Section
+101(27)’s definition includes, for instance, foreign
+countries and instrumentalities, when such entities had generally
+been previously absent. And the expansive definition of
+“governmental unit” in §101(27) applies throughout
+the Bankruptcy Code. In addition, for those who find legislative
+history useful, the Senate and House Reports that accompanied the
+Code indicate that “governmental unit” was intended to
+be defined “in the broadest sense.” S. Rep. No.
+95–989, p. 24 (1978); H. R. Rep. No. 95–595, p. 311
+(1977). When Congress later added §106(a)’s abrogation
+provision, it was that comprehensive definition of
+governmental unit that Congress used to specify the scope of the
+abrogation’s sweep.
+
+															Thus, however Congress may have treated
+governmental entities in bankruptcy law prior to 1978, it had
+clearly altered its view about the scope of coverage relative to
+governments by the time it enacted §101(27) and §106(a).
+Those provisions unequivocally extend to all governments,
+for the reasons already discussed, and we decline to read ambiguity
+into the statute where none exists.
+
+															*  *  *
+
+															We find that the First Circuit correctly
+concluded that the Bankruptcy Code unambiguously abrogates tribal
+sovereign immunity. Therefore, the decision below is affirmed.
+
+															
+
+															It is so ordered.
+
+Notes
+1
+ It is undisputed in this
+case, and we assume herein, that the Band’s subsidiaries are
+arms of the Tribe and enjoy the Band’s sovereign immunity.
+In re Coughlin, 33 F. 4th 600, 604, n. 1 (CA1
+2022); In re Coughlin, 622 B.R. 491, 493 (Bkrtcy. Ct.
+Mass. 2020).
+2
+  11 U. S. C.
+§362(a) (the filing of a bankruptcy petition “operates
+as a stay, applicable to all entities” (emphasis
+added)); §362(b) (providing limited exceptions to the
+automatic-stay provision, none of which categorically exclude a
+certain type of creditor for all purposes); §524(a)(2) (the
+discharge of a debt “operates as an injunction against the
+commencement or continuation of an action . . . to
+collect, recover or offset any [discharged] debt as a
+personal liability of the debtor” (emphasis added));
+§1327(a) (“The provisions of a confirmed plan bind the
+debtor and each creditor” (emphasis
+added)).
+3
+ See, e.g., Indian
+Self-Determination and Education Assistance Act, §104(a)(1),
+88Stat. 2207 (referring to “the strengthening or improvement
+of tribal government”); Tribal Self-Governance Act of 1994,
+§§202(2), (5)(A), 108Stat. 4271 (“recogniz[ing] a
+special government-to-government relationship with Indian
+tribes,” and “transferring control to tribal
+governments . . . over funding and decisionmaking for
+Federal programs”); Compact of Self-Governance Between the
+Duckwater Shoshone Tribe and the United States of America, Art. I,
+§2(c) (1995) (explaining that the Compact would allow the
+Tribe to “take its rightful place in the family of
+governments in the federal constitutional system,” and
+“reorganize tribal government programs and
+services”).
+4
+ Given this holding, we
+need not decide whether tribes qualify as purely
+“domestic” governments. Compare Brief for Petitioners
+33 (insisting tribes are not clearly domestic governments), and
+post, at 5–11 (Gorsuch, J., dissenting) (similar),
+with Brief for Respondent 40–41 (contending that they are).
+See also infra, at 12–14.
+5
+ Petitioners rely, for
+instance, on the Resource Conservation and Recovery Act of 1976,
+which authorizes a “person” to “commence a civil
+action.” 42 U. S. C. §6972(a).
+“Person” is defined under that statute to include a
+“municipality,” which is in turn defined to encompass
+“a city, town, borough, county, parish, district, or other
+public body created by or pursuant to State law . . . or
+an Indian tribe or authorized tribal organization.”
+§§6903(13), (15); see also Brief for Petitioners 25
+(citing similar provisions). The fact that Congress mentioned
+Indian tribes specifically when including them in the category of a
+“person” or “municipality” says little
+about Congress’s purported need to name Indian tribes when
+referring to them as a “governmental unit” or
+“other foreign or domestic government.”
+6
+ The parties’
+briefing identifies only two cases. See Michigan v. Bay
+Mills Indian Community, 572 U.S.
+782, 791 (2014) (recognizing partial abrogation); United
+States v. United States Fidelity & Guaranty Co.,
+309 U.S.
+506, 513 (1940).
+7
+ Our dissenting colleague
+puts forth two hypotheticals that supposedly cast doubt on this
+conclusion. See post, at 13–14 (opinion of Gorsuch,
+J.). The first involves choosing a pet that is
+“ ‘small or a dog,’ ” while the
+second concerns an offer to have “chocolate or vanilla”
+ice cream. Ibid. But these hypotheticals are not remotely
+analogous to “foreign or domestic.” For one thing, the
+terms “foreign” and “domestic” are two
+poles on a spectrum. See supra, at 5–6. Neither
+“small” and “dog” nor
+“chocolate” and “vanilla” fit that bill.
+For another, whereas the pairing of “foreign” and
+“domestic” often covers the waterfront, see
+supra, at 6, the dissent’s hypothetical pairings do
+not have that same effect. And unlike animals (which need not be
+small or doglike) or ice creams (which need not be chocolate or
+vanilla), every government must be foreign or domestic to
+some degree; the question is just where on the spectrum it falls.
+See post, at 6 (observing that the Constitution
+“appear[s] to ‘place Indian [T]ribes in an intermediate
+category between foreign and domestic states’ ”);
+post, at 8 (tribes occupy a “ ‘hybrid
+position’ between ‘foreign and domestic states’
+”).
+8
+ For example, the Code
+defines “domestic support obligation” to include debts
+“owed to or recoverable by” spouses as well as
+“governmental unit[s].” §101(14A). And the term
+“person” covers an “individual, partnership, and
+corporation,” as well as a “governmental unit that
+. . . acquires an asset from a person . . . as
+a result of the operation of a loan guarantee agreement” or
+“as receiver or liquidating agent of a person.”
+§101(41). The main feature that sets “governmental
+unit[s]” apart from other entities mentioned in these
+definitions is their governmental nature.
+
+

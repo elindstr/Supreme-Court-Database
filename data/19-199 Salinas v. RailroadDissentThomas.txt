@@ -1,0 +1,80 @@
+::SCDB_caseID:: 2020-012
+::decision_cite:: 19-199
+::decision_name::  Salinas v. Railroad Retirement Board
+::decision_year:: 2021
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–199
+
+															_________________
+
+															MANFREDO M. SALINAS, PETITIONER v. UNITED STATES RAILROAD RETIREMENT BOARD
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[February 3, 2021]
+
+															
+
+															Justice Thomas, with whom Justice Alito, Justice Gorsuch and Justice Barrett join, dissenting.
+
+															The Court may well correctly interpret the judicial review provision located in the Railroad Unemployment Insurance Act (RUIA).  See
+
+45 U. S. C. §355(f).  But this case concerns the judicial review provision located in the Railroad Retirement Act (RRA).  See
+
+45 U. S. C. §231g.  And though the RRA references the RUIA to explain how to obtain judicial review, it defines separately what may be reviewed—the key issue here.
+
+															The RRA provides that “[d]ecisions of the Board determining the rights or liabilities of any person under this subchapter shall be subject to judicial review in the same manner, subject to the same limitations, and all provisions of law shall apply in the same manner as though the decision were a determination of corresponding rights or liabilities under the [RUIA].”  Ibid.  This language directs courts to assess questions about reviewability in three steps.  First, resolve whether the Board’s decision determined rights or liabilities.  Second, locate the rights or liabilities under the RUIA, if any, that correspond to the ones determined by the Board.  And third, decide whether and how a determination of those parallel rights or liabilities would be reviewed under the RUIA.
+
+															The majority bypasses this structure entirely by overlooking the question whether the Board’s decision here determined any right or liability at all.  It did not.  A “right” is “[a] power, privilege, or immunity guaranteed under a constitution, statutes or decisional laws, or claimed as a result of long usage.”  Black’s Law Dictionary 1189 (5th ed. 1979).  Similarly, a “liability” is “an obligation one is bound in law or justice to perform.”  Id., at 823.  The Board here did not assess a legal obligation or claim.  As the majority points out, the Board decided only the “ultimately discretionary” matter of whether to reopen the 2006 decision.  Ante, at 13.  Neither the RRA nor the RUIA provides any statutory right to reopen a proceeding.  And the regulations that create reopening procedures make clear that no one has a right to that proceeding; the Board has plenary authority to “direct that any decision, which is otherwise subject to reopening under this part, shall not be reopened.”  20 CFR §261.11 (2020).
+
+															Nor did the Board’s decision determine any underlying statutory entitlement to benefits, as petitioner contends. The most recent reopening decision did not address the merits of the 2006 decision.  On the contrary, it briefly explained that petitioner failed to meet any of the threshold regulatory requirements to obtain a reopening in the first place.  As we unanimously said in a similar context, the “more natural” understanding of a reopening denial like this one is that it was simply “the refusal to make a new determination.”  Your Home Visiting Nurse Services, Inc. v. Shalala,
+
+525 U.S. 449, 453 (1999).
+
+															The majority skirts this analysis by noting that the statute at issue in Your Home was narrower than the RRA.  In Your Home, the statute involved determinations of “program reimbursement” amounts,
+
+42 U. S. C. §1395oo(a)(1) (A)(i), whereas the statute here provides review for determinations of “rights or liabilities,”
+
+45 U. S. C. §231g.  But that distinction is irrelevant.  The reasoning in Your Home was simply that the refusal to reopen a determination “is not a final determination . . . but rather the refusal to make a new determination.”  525 U. S., at 453 (internal quotation marks omitted).  So too here.[1] 
+
+															The majority also tries to sidestep text and precedent by invoking the presumption in favor of judicial review of administrative action that this Court sometimes applies.  But we have explained that this presumption is nothing more than a default rule that gives way to “a statute’s language or structure.”  Mach Mining, LLC v. EEOC,
+
+575 U.S. 480, 486 (2015); see also Block v. Community Nutrition Institute,
+
+467 U.S. 340, 351 (1984) (explaining that the presumption is “overcome. . . whenever the congressional intent to preclude judicial review is fairly discernible in the statutory scheme” (internal quotation marks omitted)).  Here, §231g limits judicial review to Board decisions determining rights or liabilities.  The statutory language alone controls the outcome.
+
+															Any presumption is further undercut because petitioner had full opportunity to seek judicial review of the 2006 decision that did determine his rights.  Congress gave petitioner 90 days to file a petition for review in a court of appeals.  §355(f).  Petitioner simply did not take advantage of it.   To require a court to review a reopening denial now—15 years after the statutory time for review expired—transforms a default presumption into a tool to “frustrate the statutory purpose of imposing a [time] limit on judicial review.”  Your Home, 525 U. S., at 454.  The presumption of judicial review is not a presumption of infinite judicial review.  See Califano v. Sanders,
+
+430 U.S. 99, 108 (1977) (rejecting “an interpretation that would allow a claimant judicial review simply by filing—and being denied—a petition to reopen his claim”).  We should not so readily allow a court-created presumption to overcome statutory time limits.
+
+															The majority opinion is doubly incorrect because it creates a new form of judicial review in a context where it is not clear how it can be exercised.  What standards a court could use to review Board decisions denying reopening remain elusive.  There are no statutory cues to guide review—indeed, it is not altogether clear that the Board has authority to reopen its final decisions.  See
+
+45 U. S. C. §355(g).  And the regulations that provide review give the Board discretion to deny reopening whenever it “deem[s] proper,” even if a case “is otherwise subject to reopening.  20 CFR §261.11.  The “impossibility of devising an adequate standard of review” for these sorts of decisions is yet another reason to conclude that no review is warranted.  ICC v. Locomotive Engineers,
+
+482 U.S. 270, 282 (1987); cf.
+
+5 U. S. C. §701(a)(2) (extending judicial review, “except to the extent that . . . agency action is committed to agency discretion by law”).[2]  Were courts to try to impose standards governing when the Board can deny reopening, the unintended effect may be to discourage the Board from offering reopenings in the first place.  I would not distort the RRA’s judicial review provision to force courts to review a decision where no standards of review are evident. 
+
+															Instead of reckoning with these serious questions, the majority interprets §231g to say nothing more than that the RUIA’s judicial review provision applies.  Ante, at 5.  But that interpretive gloss ignores the words Congress chose.  Only Board decisions “determining the rights or liabilities of any person” under the RRA are subject to judicial review.  
+
+45 U. S. C. §231g.  Because the Board’s decision below did not determine any right or liability, the RRA does not provide for judicial review.  I respectfully dissent.
+Notes
+1
+ That the Court noted the best reading of the statute also happened to be a reasonable one under Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+
+467 U.S. 837 (1984), does not undermine its logic. 
+
+2
+ Our precedent suggests that even if judicial review is generally precluded, it may still remain available for “the adjudication of colorable constitutional claims.”  Califano v. Sanders,
+
+430 U.S. 99, 109 (1977).  But we need not decide whether this exception applies because neither side contends that the Board decided such an issue below.   
+
+

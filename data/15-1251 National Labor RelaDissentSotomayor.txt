@@ -1,0 +1,121 @@
+::SCDB_caseID:: 2016-011
+::decision_cite:: 15-1251
+::decision_name::  National Labor Relations Board v. SW General, Inc
+::decision_year:: 2017
+::opinion_author:: Sotomayor
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–1251
+
+															_________________
+
+															NATIONAL LABOR RELATIONS BOARD, PETITIONER v. SW GENERAL, INC., dba SOUTHWEST AMBULANCE
+
+															on writ of certiorari to the united states court of appeals for the district of columbia circuit
+
+															[March 21, 2017]
+
+															
+
+															Justice Sotomayor, with whom Justice Ginsburg joins, dissenting.
+
+															Many high-level offices in the Executive Branch may be filled only by a person who has been nominated to the position by the President and confirmed by the Senate.  The Federal Vacancies Reform Act of 1998 (FVRA) cedes the Senate’s confirmation authority, partially and on a temporary basis, to allow executive agencies to continue to function when one of those high-level offices becomes vacant.  It authorizes certain categories of officials to perform the duties of vacant offices on an acting basis.  One of its provisions pulls back that authorization when an official has been nominated to fill the vacant office on a permanent basis.  The scope of that provision is at issue here.  I agree with the Court that the provision applies to first assistants to a vacant office who serve as acting officials automatically, by operation of the FVRA.  I dis-agree with the Court’s conclusion that the provision also applies to other officials who may serve as acting officials if the President directs them to serve in that capacity.  The Court gives the provision a broader reach than the text can bear with no support from the history of, or practice under, the FVRA.  I respectfully dissent.
+
+															I
+
+															As the Court explains, the FVRA governs vacancies in offices held by persons “whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate.”
+
+5 U. S. C. §3345(a).  These are known as “PAS” offices.  When an official in a PAS office “dies, resigns, or is otherwise unable to perform the functions and duties of the office” the FVRA steps in.  Ibid.; see also §3345(c)(2) (an “expiration of a term of office” makes an official unable “to perform the functions and duties” of the office).
+
+															Section 3345 of the FVRA authorizes four categories of officials to perform the duties of a vacant office.  Subsection (a)(1) contains a default rule: The “first assistant to the office” automatically assumes the vacant office and performs “the functions and duties of the office temporarily in an acting capacity.”  §3345(a)(1).  Subsections (a)(2), (a)(3), and (c)(1) authorize the President to override that default rule.  The President may direct a person already confirmed by the Senate to a PAS office to serve as the acting officer.  See §3345(a)(2).  The President may direct certain senior officials in the same agency to serve as the acting officer.  See §3345(a)(3).  Or the President may direct a person whose Senate-confirmed term in the office has expired and who has been nominated to a subsequent term in that same office to serve as the acting officer until the Senate acts on the nomination.  See §3345(c)(1).
+
+															Subsection (b)(1) takes away this authorization in a specific situation.  It provides that, “[n]otwithstanding subsection (a)(1)”—the first assistant default rule—a person may not serve as an acting official while nominated to fill the office if the person was not the first assistant to the office for at least 90 of the 365 days preceding the vacancy.  §3345(b)(1).  The prohibition in subsection (b)(1) does not apply to a person serving as the Senate-confirmed first assistant to the vacant office.  See §3345(b)(2).
+
+															II
+
+															In my view, the text, purpose, and history of the FVRA make clear that the prohibition in subsection (b)(1) applies only to a first assistant who performs the duties of a vacant office under subsection (a)(1).
+
+															A
+
+															As the Court observes, subsection (b)(1) contains some potentially broad language.  The provision specifies when “a person may not serve as an acting officer for an office under this section”—that is, §3345.  The words “person” and “this section,” taken in isolation, could signal that the prohibition applies to subsections (a)(1), (a)(2), (a)(3), and (c)(1) and thus covers all acting officials.  But context matters.  And here, the context cabins those words and gives subsection (b)(1) a more limited reach.
+
+															The text of subsection (b)(1) contains a clear signal that its prohibition applies only to first assistants who automatically assume a vacant office under subsection (a)(1): It begins with the clause “[n]otwithstanding subsection (a)(1).”  A notwithstanding clause identifies a potential conflict between two or more provisions and specifies which provision will prevail.  Under the familiar expressio unius est exclusio alterius interpretive canon, the choice to single out subsection (a)(1)—and only subsection (a)(1)—in this notwithstanding clause strongly suggests that the prohibition reaches, and conflicts with, subsection (a)(1), and only subsection (a)(1).
+
+															The rest of §3345 confirms this conclusion.  The prohibition in subsection (b)(1) establishes who may not perform the duties of a vacant office.  In doing so, it introduces a potential conflict with subsections (a)(1), (a)(2), (a)(3), and (c)(1), which identify four categories of persons who may perform the duties of a vacant office.  By stating that its prohibition applies “[n]otwithstanding subsection (a)(1),” subsection (b)(1) expressly states that its prohibition takes precedence over the default rule set out in subsection (a)(1).  The omission of any reference to subsections (a)(2), (a)(3), and (c)(1), in spite of the parallel potential for conflict with those subsections, suggests that the omission was a “ ‘deliberate choice, not inadvertence.’ ”  Bruesewitz v. Wyeth LLC,
+
+562 U. S. 223
+–233 (2011) (quoting Barnhart v. Peabody Coal Co.,
+
+537 U. S. 149,
+168 (2003)
+). That choice means that subsection (b)(1) trumps subsection (a)(1) but not subsections (a)(2), (a)(3), and (c)(1).
+
+															Nothing about a notwithstanding clause renders it impervious to this established rule of statutory interpretation.  The Court says that the rule has less force in the context of a notwithstanding clause because such a clause “confirms rather than constrains” the breadth of the provision to which it is attached.  Ante, at 11.  But the breadth of the attached provision is precisely the question here, and the clause’s specific reference to subsection (a)(1) and only subsection (a)(1) strongly supports reading the attached prohibition to limit only subsection (a)(1).  See Preseault v. ICC,
+
+494 U. S. 1
+–14 (1990) (a reference to “ ‘this Act’ ” in a notwithstanding clause limited the scope of the attached provision (emphasis deleted)).
+
+															The Court claims that the reference to subsection (a)(1) may serve a different purpose.  In its view, the reference might instead demonstrate a congressional concern that a conflict between subsection (b)(1) and subsection (a)(1) would be “quite likely to arise” or “particularly difficult to resolve.”  Ante, at 11.  A closer examination does not bear out this hypothesis.
+
+															The text itself refutes the theory that subsection (b)(1) is more likely to conflict with subsection (a)(1) than the other subsections.  The prohibition in subsection (b)(1) does not apply to a person who served as the first assistant to the vacant office for more than 90 days in the year before the vacancy arose, §3345(b)(1)(A), or who serves as a Senate-confirmed first assistant to the office, §3345(b)(2).  A person serving under subsection (a)(1)—by definition, only a first assistant—has a leg up in meeting those conditions and avoiding subsection (b)(1)’s prohibition altogether.  Those serving under subsections (a)(2), (a)(3), and (c)(1)—PAS officials, senior agency officials, or officials whose terms in the vacant office have expired—do not.  The prohibition in subsection (b)(1) is thus more likely, not less likely, to conflict with subsections (a)(2), (a)(3), and (c)(1).
+
+															And true enough, subsection (a)(1) sets out an automatic rule under which the first assistant assumes acting status upon a vacancy, whereas subsections (a)(2), (a)(3), and (c)(1) set out conditional rules, under which the President may choose to direct other officials to assume acting status.  But that distinction makes no difference when asking whether a conflict between subsections (b)(1) and (a)(1) would be harder to resolve without guidance than a conflict between subsection (b)(1) and the other subsections.  In stating who may not assume acting status, subsection (b)(1) conflicts equally with the rules about who may assume acting status set out in subsections (a)(1), (a)(2), (a)(3), and (c)(1).  The reference to subsection (a)(1) in subsection (b)(1)’s notwithstanding clause thus cannot be understood as a means to resolve a particularly vexing conflict.  The same conflict exists for all four categories.
+
+															Indeed, the Court’s explanations make the notwithstanding clause in subsection (b)(1) superfluous.  If the notwithstanding clause serves only to confirm the breadth of subsection (b)(1) and singles out subsection (a)(1) to address a conflict shared equally by other subsections, then it does no real work.  The clause could be deleted without changing the meaning of subsection (b)(1), as the Court all but admits.  See ante, at 12.
+
+															Worse still, a broad interpretation of subsection (b)(1) renders subsection (c)(1) superfluous.  Under subsection (c)(1), the President may designate a person whose term in an office has expired and who has been nominated to a subsequent term to serve as the acting official.  It is unlikely, even implausible, that a person who serves out a set term will have served as the first assistant to her own office during the year before her term expired.  Yet subsection (b)(1) requires such service before a person can serve as both an acting official and a nominee.[1]  As a result, if subsection (b)(1) applies to all acting officials, it would prohibit what subsection (c)(1) expressly permits: acting service by a person nominated by the President to serve out a consecutive Senate-confirmed term in the vacant office.  That is no way to read a statute.
+
+															Not a problem, the Court says.  “[S]ubsection (b)(1) has no effect on (c)(1)” because subsection (c)(1) contains a specific rule about acting service by a nominee for a second term that, under ordinary principles of statutory interpretation, controls over the general rule governing acting service by a nominee in subsection (b)(1).  Ante, at 14.  The Court’s reasoning on this point undercuts its opening claim that the words “person” and “under this section” in subsection (b)(1) must refer to “anyone who performs acting duties under the FVRA.”  Ante, at 9.  And it underscores why the “[n]otwithstanding subsection (a)(1)” clause in subsection (b)(1) is superfluous under the Court’s reading.  The general authorization of acting service by a first assistant in subsection (a)(1) would yield to the specific prohibition on acting service by certain nominees in subsection (b)(1) even without the notwithstanding clause.[2]
+
+															In contrast, reading subsection (b)(1) to apply only to a first assistant serving as an acting official under subsection (a)(1) renders no other provision superfluous.  The Court reasons that subsection (b)(2)(A)’s reference to a person “serving as the first assistant to the office” would be superfluous if subsection (b)(1) applies only to first assistants serving under subsection (a)(1).  See ante, at 13.  But recall that subsection (b)(2) creates an exception to subsection (b)(1).  Subsection (b)(1) provides that a person cannot serve as an acting official while nominated if that person was not the first assistant to the vacant office for at least 90 of the 365 days before the vacancy arose.  Subsection (b)(2) states that those requirements do “not apply to” current Senate-confirmed first assistants.  Put another way, subsection (b)(1) imposes requirements based on a person’s past service, and subsection (b)(2) lifts those requirements based on a person’s current service.  The reference in subsection (b)(2)(A) to a person “serving as the first assistant to the office” is thus necessary to convey the relevant time period of the service that triggers the exception to subsection (b)(1).
+
+															B
+
+															The events leading up to and following the enactment of the FVRA further support interpreting subsection (b)(1) to apply only to first assistants serving under subsection (a)(1).
+
+															First, nothing in the legislative history of the FVRA indicates that subsection (b)(1) was enacted as a broad prohibition on acting service by all nominees.  Under the Vacancies Act of 1868, the FVRA’s predecessor, the first assistant to a vacant office served as the acting official unless the President directed another PAS official to do so.  See Act of July 23, 1868, ch. 227,
+
+15Stat.
+168–169.  The Act did not prohibit any person, first assistant or otherwise, from serving as an acting official while nominated to fill the office.  This structure remained in place for over a century.
+
+															The events that prompted the FVRA’s enactment confirm, in line with the reading above, that the Act altered this pre-existing structure to prohibit certain first assistants from serving in an acting capacity while nominated to the vacant office.  The service of one acting official, Bill Lann Lee, was the turning point in a broader, long-running dispute between the political branches over Executive Branch compliance with the Vacancies Act of 1868.  In 1997, Lee was brought into the Department of Justice to serve as the Acting Assistant Attorney General for the Civil Rights Division after his nomination to the position failed.  He continued to serve in an acting capacity after he was renominated to the position.  The decision to bring Lee in to serve in the Department of Justice after his failed nomination led to strong congressional criticism.  See, e.g., Letter from A. Fois, Assistant Attorney General, Office of Legislative Affairs, to Sen. S. Thurmond, pp. 3–4 (Feb. 24, 1998).  Subsection (b)(1) addresses the Lee incident and prevents its recurrence.  See S. Rep. No. 105–250, p. 13 (1998) (explaining that an earlier version of subsection (b)(1) “prevent[s] manipulation of first assistants to include persons highly unlikely to be career officials”).  It bars a first assistant from serving under subsection (a)(1) while nominated unless the person was the first assistant for a significant period of time before the vacancy arose (90 of the previous 365 days) or the person is the Senate-confirmed first assistant to the vacant office.
+
+															In contrast, there is no indication of an intent to depart further from the century-old practice under the Vacancies Act of 1868 and prohibit acting service by other officials nominated to a vacant office.  No one has identified congressional statements expressing concern with such service or calling for a broader prohibition.  Indeed, an earlier version of subsection (b)(1) unquestionably applied only to first assistants serving under subsection (a)(1), even though the bill permitted the President to designate a PAS official as the acting official instead of the first assistant.  See id., at 25.  The legislative history does not document the reason for the changes to this subsection.  The Court suggests that an unspoken congressional compromise led to an expanded subsection (b)(1).  Ante, at 15–16.  While the compromise it hypothesizes is possible, no evidence supports it, and the absence of any hint that the compromise was hoped for during the development of or debate on the FVRA means that it is not probable.
+
+															Second, under the Court’s reading of subsection (b)(1), the Executive Branch began violating the FVRA almost immediately after its enactment.  Within months, the Department of Justice’s Office of Legal Counsel (OLC) advised Executive Branch agencies that the prohibition in subsection (b)(1) “applies only to persons who serve as acting officers by virtue of having been the first assistant to the office.”  Guidance on Application of Federal Vacancies Reform Act of 1998, 23 Op. OLC 60, 64 (1999).  The Government Accountability Office, tasked with aiding congressional enforcement of the FVRA, later reached the same conclusion.  See Letter from C. Joyner, Dir., Strategic Issues, to F. Thompson, Chairman, U. S. Senate Committee on Governmental Affairs, Subject: Eligibility Criteria for Individuals To Temporarily Fill Vacant Positions Under the Federal Vacancies Reform Act of 1998, pp. 3–4 (GAO–01–468R, Feb. 23, 2001).  Since the enactment of the FVRA, the Senate has received over 100 nominations of persons who continued to serve in an acting capacity after their nomination but had not satisfied the conditions in subsection (b)(1) for acting service by a nominee.  See App. A to Brief for United States.
+
+															And yet, this legion of would-be violations prompted no response.  No evidence suggests that the Senate reacted by requiring any of those nominees to cease their acting service.  Cf. Pet. for Cert. 28–29 (citing objections raised after the decision below).  The failure to object is all the more glaring in light of the enforcement mechanism written into the FVRA.  Section 3349 requires each Executive Branch agency to “immediately” notify the Comptroller General, who heads the Government Accountability Office, and both Houses of Congress of “a vacancy . . . and the date such vacancy occurred,” “the name of any person serving in an acting capacity and the date such service began,” “the name of any person nominated to the Senate to fill the vacancy and the date such nomination is submitted,” and the date a nomination is acted upon.  This provision leaves no doubt that Congress had all the information it needed to object to any FVRA violations it perceived.
+
+															Congressional silence in the face of a decade-plus practice of giving subsection (b)(1) a narrow reach casts serious doubt on the broader interpretation.  It indicates that Congress, like the Executive Branch, interpreted subsection (b)(1) in line with its text to reach only first assistants to the vacant office serving pursuant to subsection (a)(1).
+
+															*  *  *
+
+															The FVRA prohibits a limited set of acting officials—non-Senate confirmed first assistants who serve under subsection (a)(1) and did not serve as the first assistant to the vacant office for at least 90 of the 365 days before the vacancy arose—from performing the duties of a vacant office while also serving as the President’s nominee to fill that office.  Reading the provision more broadly to apply to all acting officials disregards the full text of the FVRA and finds no support in its purpose or history.  The Court prefers that reading.  I respectfully dissent.Notes
+
+1
+
+
+		 Subsection (b)(2)’s exception would not apply, as a person “nominated . . . for reappointment for an additional term to the same office . . . without a break in service,”
+
+5 U. S. C. §3345(c)(1), will of course not be a Senate-confirmed first assistant to that office.
+	
+
+
+2
+
+
+		 SW General offers a different response that a person directed to perform the duties of a vacant office under subsection (c)(1) does not “serve as an acting officer,” §3345(b)(1).  See Tr. of Oral Arg. 30.  This also misses the mark.  Like subsections (a)(1), (a)(2), and (a)(3), subsection (c)(1) is located in §3345, titled, “Acting officer.”  Div. C, §151(b),
+
+112Stat.
+2681–611.  Like those subsections, it addresses who may fill a vacant office.  See
+
+5 U. S. C. §3345(c)(2).  And like those subsections, it expressly subjects service to the time limits in §3346, which apply to “the person serving as an acting officer as described under section 3345.”  §3346(a).  Moreover, relegating officials directed to serve under subsection (c)(1) to some statutorily unnamed, non-acting official status would muddle other provisions of the FVRA.  See §3347(a) (making §§3345 and 3346 “the exclusive means for temporarily authorizing an acting official” to serve in a PAS office); §3349(a)(2) (requiring reporting of “the name of any person serving in an acting capacity and the date such service began immediately upon the designation”).
+	
+
+

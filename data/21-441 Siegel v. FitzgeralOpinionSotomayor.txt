@@ -1,0 +1,182 @@
+::SCDB_caseID:: 2021-064
+::decision_cite:: 21-441
+::decision_name::  Siegel v. Fitzgerald
+::decision_year:: 2022
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–441
+
+															_________________
+
+															ALFRED H. SIEGEL, TRUSTEE OF THE CIRCUIT CITY STORES, INC. LIQUIDATING TRUST, PETITIONER v. JOHN P. FITZGERALD, III, ACTING UNITED STATES TRUSTEE FOR REGION 4
+
+															on writ of certiorari to the united states court of appeals for the fourth circuit
+
+															[June 6, 2022]
+
+															
+
+															Justice Sotomayor delivered the opinion of the Court.
+
+															The Bankruptcy Clause empowers Congress to establish “uniform Laws on the subject of Bankruptcies throughout the United States.”  U. S. Const., Art. I, §8, cl. 4.  The Clause’s requirement that bankruptcy laws be “uniform” is not a straitjacket: Congress retains flexibility to craft legislation that responds to different regional circumstances that arise in the bankruptcy system.  Nor, however, is this uniformity requirement toothless.  The question in this case is whether Congress’ enactment of a significant fee increase that exempted debtors in two States violated the uniformity requirement.  Here, it did.
+
+															I
+
+															A
+
+															Bankruptcy cases involve both traditional judicial responsibilities and extensive administrative ones.  Until 1978, bankruptcy judges handled both.  This meant that, in addition to their traditional judicial function of ruling on disputed matters in adversarial proceedings, bankruptcy judges dealt with an array of administrative tasks, such as appointing private trustees where appropriate; organizing creditors’ committees; supervising the filing of required reports, schedules, and taxes; and monitoring cases for signs of abuse and fraud.  See H. R. Rep. No. 99–764, p. 17 (1986).
+
+															Concerned that these dual roles were overloading bankruptcy judges and creating an appearance of bias, particularly because judges were responsible for supervising trustees that they themselves had appointed, Congress in 1978 piloted the United States Trustee Program (Trustee Program) in 18 of the 94 federal judicial districts.  See id., at 17–18; Bankruptcy Reform Act of 1978,
+
+92Stat.
+2549.  To “rende[r] the separation of administrative and judicial functions complete,” the pilot program transferred the administrative functions previously handled by the bankruptcy courts to newly created U. S. Trustees, housed within the Department of Justice rather than the Administrative Office of the U. S. Courts.  H. R. Rep. No. 95–595, p. 115 (1977).
+
+															In 1986, Congress sought to make the pilot Trustee Program permanent and to expand it nationwide, but met resistance from stakeholders in North Carolina and Alabama.  See The United States Trustee System: Hearing on S. 1961 before the Subcommittee on Courts of the Senate Committee on the Judiciary, 99th Cong., 2d Sess., 129 (1986).  As a result, Congress opted to expand mandatorily the Trustee Program to all federal judicial districts except for the six judicial districts in North Carolina and Alabama.  Congress permitted only those six districts to continue judicial appointment of bankruptcy administrators, referring to that system as the Administrator Program.  §§111–115, 302(d)(3),
+
+100Stat.
+3090–3095, 3121–3123.  The Administrator Program was scheduled to phase out in 1992, but Congress extended it by 10 years.  §317(a),
+
+104Stat.
+5115.  At the end of those 10 years, however, Congress did not phase out the Administrator Program.  Instead, it eliminated the sunset period and permanently exempted the six districts from the requirement to transition to the Trustee Program, while providing that each district could individually elect to do so.  §501,
+
+114Stat.
+2421–2422 (2000 Act); §302(d)(3),
+
+100Stat.
+3121–3123.  Each of the six districts continues to participate in the Administrator Program. 
+
+															The Trustee Program and the Administrator Program handle the same core administrative functions, but have different funding sources.  Congress requires that the Trustee Program be funded in its entirety by user fees paid to the United States Trustee System Fund (UST Fund), the bulk of which are paid by debtors who file cases under Chapter 11 of the Bankruptcy Code.
+
+28 U. S. C. §589a(b)(5).  Those debtors pay a fee in each quarter of the year that their case remains pending at a rate set by Congress.  The fee varies according to the amount of funds paid out (“disbursed”) from the bankruptcy estate to creditors, suppliers, and other parties during that quarter.  See §1930(a).
+
+															In contrast, Congress does not require the Administrator Program to fund itself.  Instead, the Administrator Program is funded by the Judiciary’s general budget.  In re Circuit City Stores, Inc., 996 F.3d 156, 160 (CA4 2021).  Initially, Congress did not require Administrator Program district debtors to pay user fees at all.  After the Ninth Circuit held that system unconstitutional, see St. Angelo v. Victoria Farms, Inc., 38 F.3d 1525, 1532–1533 (1994), amended, 46 F.3d 969 (1995), Congress provided that “ ‘the Judicial Conference of the United States may require the debtor in a case under chapter 11 [filed in an Administrator Program district] to pay fees equal to those imposed’ ” in Trustee Program districts, 2000 Act §105,
+
+114Stat.
+2412 (enacting
+
+28 U. S. C. §1930(a)(7)).  Congress directed that any such fees be deposited into a fund that offsets appropriations to the Judicial Branch.  Ibid.  The Judicial Conference adopted a standing order in 2001 directing Administrator Program districts to charge fees “in the amounts specified in
+
+28 U. S. C. §1930, as those amounts may be amended from time to time.”  Report of the Proceedings of the Judicial Conference of the United States 46 (Sept./Oct. 2001).  Under this standing order, for the next 17 years, the Judicial Conference matched all Trustee Program fee increases with equivalent Administrator Program fee increases, meaning that all districts nationwide charged similarly situated debtors uniform fees.  
+
+															In 2017, concerned with a shortfall in the UST Fund, Congress enacted a temporary, but significant, increase in the fee rates applicable to large Chapter 11 cases.  See Pub. L. 115–72, Div. B,
+
+131Stat.
+1229 (2017 Act).  The increase was set to take effect only if the UST Fund balance dropped below $200 million as of September 30 of the most recent fiscal year.  If that condition was met, the increase applied on a quarterly basis to any debtors with a disbursement of $1 million or more during that quarter, regardless of whether their case was newly filed or already pending when the increase took effect.  For those debtors, the maximum fee was increased from $30,000 a quarter to $250,000 a quarter.  §1004(a), id., at 1232.  The statute provided that the fee raise would become effective in the first quarter of 2018 and would last only through 2022.
+
+															Despite the Judicial Conference’s standing order, and unlike with previous fee increases, the six districts in the two States participating in the Administrator Program did not immediately adopt the 2017 fee increase.  Only in September 2018 did the Judicial Conference order Administrator Program districts to implement the amended fee schedule.  Even then, however, two key differences remained between the fee increase faced by debtors in Trustee Program districts as opposed to those faced by debtors in Administrator Program districts.  First, the fee increase took effect for the six Administrator Program districts as of October 1, 2018, while the increase took effect for the Trustee Program districts as of the first quarter of 2018.  Second, in Administrator Program districts, the fee increase applied only to newly filed cases, while in Trustee Program districts, the increase applied to all pending cases.
+
+															In 2021, Congress amended the statute governing parity of fees between Trustee Program and Administrator Program districts, §1930(a)(7), to replace the word “may” with “shall.”  See Pub. L. 116–325,
+
+134Stat.
+5088.  As a result, the statute now provides that the Judicial Conference “shall require” imposition of fees in Administrator Program districts that are equal to those imposed in Trustee Program districts.  §1930(a)(7).  This change “confirm[ed] the longstanding intention of Congress that quarterly fee requirements remain consistent across all Federal judicial districts.”  Id., at 5086.
+
+															B
+
+															In 2008, Circuit City Stores, Inc., filed for Chapter 11 bankruptcy in the Eastern District of Virginia, a Trustee Program district.  In 2010, the Bankruptcy Court confirmed a joint-liquidation plan, overseen by a trustee (petitioner here), to collect, administer, distribute, and liquidate all of Circuit City’s assets.  The liquidation plan required petitioner to “ ‘pay quarterly fees to the U. S. Trustee until the Chapter 11 Cases are closed or converted.’ ”  In re Circuit City Stores, 606 B.R. 260, 263 (2019).  In 2010, when the plan was confirmed, the maximum quarterly fee was $30,000.
+
+															Circuit City’s bankruptcy was still pending when Congress raised the fees for Chapter 11 debtors in Trustee Program districts through the 2017 Act.  Across the first three quarters after the fee increase took effect, petitioner paid $632,542 in total fees.  Id., at 267, n. 20.  Had Congress not increased fees, petitioner would have paid $56,400 over that same period.  Ibid.
+
+															Petitioner filed for relief against the Acting U. S. Trustee for Region 4 (respondent here, represented by the Solicitor General) in the Bankruptcy Court of the Eastern District of Virginia.  Petitioner objected that the fee increase under the 2017 Act was nonuniform across Trustee Program districts and Administrator Program districts, in violation of the Constitution’s Bankruptcy Clause.  The Bankruptcy Court agreed, and directed that for the fees due from January 1, 2018, onward, the trustee pay the rate in effect prior to the 2017 Act.  Id., at 270–271.  The court reserved the question whether the trustee could recover any “overpayments” made under the 2017 Act.  Ibid. 
+
+															A divided panel of the Fourth Circuit reversed.  The court agreed that the uniformity requirement of the Bankruptcy Clause applied to the 2017 Act, but it interpreted the Clause as forbidding “only ‘arbitrary’ geographic differences.”  996 F. 3d, at 166. In the court’s view, the fee increase permissibly applied only to Trustee Program districts because the UST Fund, which funded that program alone, was dwindling.  Therefore, the court reasoned, Congress’ effort to remedy that problem was not arbitrary.  Judge Quattlebaum dissented in relevant part, interpreting the Bankruptcy Clause to preclude disparate treatment of bankruptcy districts unless the treatment was “aimed at addressing issues that are geographical in nature.”  Id., at 175.  In Judge Quattlebaum’s view, the difference between Trustee Program districts and Administrator Program districts was arbitrary, as there was nothing “geographically distinct about Alabama or North Carolina that justified a different approach in those states.”  Ibid.
+
+															This Court granted certiorari, 595 U. S. ___ (2022), to resolve a split that had developed in the lower courts over the constitutionality of the 2017 Act.[1]  
+
+															II
+
+															A
+
+															The Bankruptcy Clause empowers Congress to establish “uniform Laws on the subject of Bankruptcies throughout the United States.”  U. S. Const., Art. I, §8, cl. 4.  The first question before the Court is whether the 2017 Act is subject to the Bankruptcy Clause’s uniformity requirement at all.
+
+															Respondent contends that the 2017 Act was not a law “on the subject of Bankruptcies” to which the uniformity requirement applies, but, rather, a law meant to help administer substantive bankruptcy law.  Respondent interprets the Bankruptcy Clause as extending only to laws that “alter the substance of debtor-creditor relations,” such as laws that set priorities for claims or exempt property from an estate.  Brief for Respondent 25.  In respondent’s view, the Necessary and Proper Clause, U. S. Const., Art. I, §8, cl. 18, supplies the authority for Congress to pass a law auxiliary to a substantive bankruptcy law.
+
+															Nothing in the language of the Bankruptcy Clause itself, however, suggests a distinction between substantive and administrative laws.  This Court has repeatedly emphasized that the Bankruptcy Clause’s language, embracing “laws on the subject of Bankruptcies,” is broad.  For example, the Court has recognized that the “subject of bankruptcies is incapable of final definition,” and includes “nothing less than ‘the subject of the relations between [a] debtor and his creditors.’ ”  Wright v. Union Central Life Ins. Co.,
+
+304 U.S. 502, 513–514 (1938).  Without purporting to define the full scope of the Clause, the Court has interpreted the Clause to have “granted plenary power to Congress over the whole subject of ‘bankruptcies,’ ” and observed that the “language used” did not “limit” the scope of Congress’ authority.  Hanover Nat. Bank v. Moyses,
+
+186 U.S. 181, 187 (1902).
+
+															Nor has this Court ever distinguished between substantive and administrative bankruptcy laws or suggested that the uniformity requirement would not apply to both.  Respondent argues that each of this Court’s prior cases on the uniformity requirement has addressed what he terms “substantive bankruptcy laws,” Brief for Respondent 24, but these cases do not establish that the uniformity requirement only applies to such “substantive” laws.  This Court has stated that “the powers of the general grant” of the Necessary and Proper Clause must be added to the Bankruptcy Clause’s “specific grant” of power to Congress to legislate on the subject of bankruptcies.  Wright, 304 U. S., at 513.  The Court has never suggested, however, that all “administrative” bankruptcy laws, Brief for Respondent 13, are enacted pursuant to the Necessary and Proper Clause, nor that the Necessary and Proper Clause permits Congress to circumvent the limitations set by the Bankruptcy Clause.  To the contrary, the Court has held that Congress cannot evade the “affirmative limitation” of the uniformity requirement by enacting legislation pursuant to other grants of authority.  Railway Labor Executives’ Assn. v. Gibbons,
+
+455 U.S. 457, 468–469 (1982) (rejecting the contention that Congress could “enact nonuniform bankruptcy laws pursuant to the Commerce Clause,” because doing so “would eradicate from the Constitution a limitation on the power of Congress to enact bankruptcy laws”).
+
+															Not surprisingly, all courts to have considered this question to date (even those that have found the 2017 Act constitutional) have accepted that the statute is subject to the Bankruptcy Clause’s uniformity requirement.  See In re Clinton Nurseries, Inc., 998 F.3d 56, 64, and n. 6 (CA2 2021) (collecting cases).  The 2017 fee provision amended a statute titled “Bankruptcy fees.”
+
+28 U. S. C. §1930.  The provision’s effect is to set fees that must be paid by a bankruptcy trustee from the debtor’s estate in a bankruptcy proceeding.  The only “subject” of the 2017 Act is bankruptcy.  Moreover, and importantly, the 2017 Act does affect the “substance of debtor-creditor relations”: Increasing mandatory fees paid out of the debtor’s estate decreases the funds available for payment to creditors.  As a result, the obligations between creditors and debtors are changed.
+
+															Respondent also argues that historic and modern congressional practice support the notion that bankruptcy fees are wholly exempt from the uniformity requirement.  This argument glosses over the nature of the practices at issue.  The historic examples respondent cites concern uniform federal laws allowing for local variation by delegating discretion to districts to establish their own procedures for certain bankruptcy matters, including fees, in view of local needs and conditions.  See An Act to Establish an Uniform System of Bankruptcy Throughout the United States, §47,
+
+2Stat.
+33 (1800) (providing “[t]hat the district judges, in each district respectively, shall fix a rate of allowance to be made to the commissioners of bankruptcy”); An Act to Establish a Uniform System of Bankruptcy Throughout the United States, §6,
+
+5Stat.
+446 (1841) (establishing that district courts may “prescribe a tariff or table of fees and charges”).  Similarly, the contemporary laws respondent cites are uniform laws allowing for local determination of governing rules.  See, e.g., 28 U. S. C. §§158(b)(1), (6) (providing that district courts may, but need not, participate in the bankruptcy appellate panel for its circuit if the circuit has created one).  As discussed below, see infra, at 10–12, the uniformity requirement does not demand that Congress forbid or eliminate such local variation or choice.
+
+															The fee increase at issue here is materially different from these laws.  It does not confer discretion on bankruptcy districts to set regional policies based on regional needs.  Rather, Congress exempted debtors in only 2 States from a fee increase that applied to debtors in 48 States, without identifying any material difference between debtors across those States.  The only difference between the States in which the fee increase applied and the States in which it was not required was the desire of those two States not to participate in the Trustee Program.  The historical record therefore provides no support for respondent’s argument that the uniformity requirement does not apply where Congress sets different fee structures with different funding mechanisms for debtors in different bankruptcy districts.
+
+															B
+
+															Having determined that the 2017 Act falls within the ambit of the Bankruptcy Clause, the Court must now decide whether the Act was a permissible exercise of that Clause.  
+
+															1
+
+															Although the Bankruptcy Clause confers broad authority on Congress, the Clause also imposes a limitation on that authority: the requirement that the laws enacted be “uniform.”  The Court has addressed the uniformity requirement on three occasions.  Taken together, they stand for the proposition that the Bankruptcy Clause offers Congress flexibility, but does not permit arbitrary geographically disparate treatment of debtors.
+
+															The Court first addressed the uniformity requirement in rejecting a challenge to the constitutionality of the Bankruptcy Act of 1898, which permitted individual debtor exemptions, including homestead and wage exemptions under state laws.  Moyses,
+
+186 U.S. 181.  The Court in Moyses held that the Bankruptcy Clause’s uniformity principle does not require Congress to eliminate existing state exemptions in bankruptcy laws.  Id., at 188.  The Court explained that the “general operation of the law is uniform although it may result in certain particulars differently in different States.”  Id., at 190.  
+
+															Next, in the Regional Rail Reorganization Act Cases,
+
+419 U.S. 102 (1974), the Court affirmed the constitutionality of the Regional Rail Reorganization Act of 1973, which applied only to rail carriers operating within a defined region of the country, where “[n]o railroad reorganization . . . was pending outside that defined region.”  Id., at 159–160.  The Court described the “flexibility inherent” in the Bankruptcy Clause, id., at 158, which “does not deny Congress power to take into account differences that exist between different parts of the country, and to fashion legislation to resolve geographically isolated problems,” id., at 159.  Because the Regional Rail Reorganization Act “operate[d] uniformly upon all bankrupt railroads then operating in the United States,” it was consistent with the Bankruptcy Act’s uniformity principle.  Id., at 160.  Put simply, Congress may enact geographically limited bankruptcy laws consistent with the uniformity requirement if it is responding to a geographically limited problem.
+
+															While the uniformity requirement allows Congress to account for “differences that exist between different parts of the country,” id., at 159, it does not give Congress free rein to subject similarly situated debtors in different States to different fees because it chooses to pay the costs for some, but not others.  In Gibbons,
+
+455 U.S. 457, the Court struck down the Rock Island Railroad Transition and Employee Assistance Act (RITA), in which Congress altered the order of priority of claimants in a single railroad’s bankruptcy proceedings.  The Court recognized that the Bankruptcy Clause “contains an affirmative limitation or restriction upon Congress’ power,” namely, the uniformity requirement.  Id., at 468.  RITA exceeded this limitation, the Court explained, because it singled out one railroad and did not apply to other similarly situated railroads that were engaged in bankruptcy proceedings.  Id., at 470.  The Court reasoned that unlike the Regional Rail Reorganization Act, RITA was “not a response either to the particular problems of major railroad bankruptcies or to any geographically isolated problem: it is a response to the problems caused by the bankruptcy of one railroad.”  Ibid.  For that reason, RITA “cannot be said to apply uniformly even to major railroads in bankruptcy proceedings throughout the United States.”  Id., at 471.  The Court emphasized that its “holding . . . does not impair Congress’ ability under the Bankruptcy Clause to define classes of debtors and to structure relief accordingly” and summarized that “[t]o survive scrutiny under the Bankruptcy Clause, a law must at least apply uniformly to a defined class of debtors.”  Id., at 473.
+
+															In sum, our precedent provides that the Bankruptcy Clause offers Congress flexibility, but does not permit the arbitrary, disparate treatment of similarly situated debtors based on geography.
+
+															2
+
+															Here, there is no dispute that the 2017 Act’s fee increase was not geographically uniform.  The only remaining question is whether Congress permissibly imposed nonuniform fees because it was responding to a funding deficit limited to the Trustee Program districts.  Under the specific circumstances present here, the nonuniform fee increase violated the uniformity requirement.
+
+															All agree that the fee increase applied differently to Chapter 11 debtors in different regions.  Debtors in Alabama and North Carolina, unlike debtors in the remainder of the country, paid no fee increases for the first three quarters of 2018.  Moreover, the fee increase only applied to newly filed cases, and not pending cases, in those two States.  That geographical disparity meant that petitioner paid over $500,000 more in fees compared to an identical debtor in North Carolina or Alabama. 
+
+															Recognizing that the 2017 Act caused such disparities, respondent contends that those disparities were a permissible effort to solve a particular geographical problem: the budgetary shortfall that befell the UST Fund, which supports the Trustee Program but not the Administrator Program.  Respondent argues that this problem justified Congress’ imposition of fee increases specific to Trustee Program districts in order to replenish the UST Fund’s coffers.  It is true that Congress’ stated goal in raising fees in Trustee Program districts was to address this budgetary shortfall.  That shortfall, however, existed only because Congress itself had arbitrarily separated the districts into two different systems with different cost funding mechanisms, requiring Trustee Program districts to fund the Program through user fees while enabling Administrator Program districts to draw on taxpayer funds by way of the Judiciary’s general budget.  
+
+															The problem Congress sought to address here is thus different from the problem facing the debtors in the Regional Rail Reorganization Act Cases. There, a “national rail transportation crisis” prompted Congress to respond with the Regional Rail Reorganization Act of 1973.  419 U. S., at 159.  That crisis arose when eight major railroads located in the Northeast and the Midwest entered reorganization proceedings.  Id., at 108. Congress responded accordingly with legislation tailored to those regions.  Id., at 108–109.  The problems prompting Congress’ disparate treatment in this case, however, stem not from an external and geographically isolated need, but from Congress’ own decision to create a dual bankruptcy system funded through different mechanisms in which only districts in two States could opt into the more favorable fee system for debtors.
+
+															The Bankruptcy Clause affords Congress flexibility to “fashion legislation to resolve geographically isolated problems,” id., at 159, but as precedent instructs, the Clause does not permit Congress to treat identical debtors differently based on an artificial funding distinction that Congress itself created.  The Clause, after all, would clearly prohibit Congress from arbitrarily dividing States into two categories and charging different fees to States in different categories unrelated to the needs of, or conditions in, those States.  The Clause does not allow Congress to accomplish in two steps what it forbids in one.[2]
+
+															A few observations on the limits of this decision are in order.  The Court does not today address the constitutionality of the dual scheme of the bankruptcy system itself, only Congress’ decision to impose different fee arrangements in those two systems.  The Court’s holding today also should not be understood to impair Congress’ authority to structure relief differently for different classes of debtors or to respond to geographically isolated problems.  The Court holds only that the uniformity requirement of the Bankruptcy Clause prohibits Congress from arbitrarily burdening only one set of debtors with a more onerous funding mechanism than that which applies to debtors in other States.
+
+															C
+
+															The parties dispute the appropriate remedy.  Petitioner seeks a full refund of fees that it paid during the nonuniform period.  Respondent argues that any remedy should apply only prospectively, or should result in a fee increase for debtors who paid less in the Administrator Program districts.  The parties raise a host of legal and administrative concerns with each of the remedies proposed, including the practicality, feasibility, and equities of each proposal; their costs; and potential waivers by nonobjecting debtors.  The court below, however, has not yet had an opportunity to address these issues or their relevancy to the proper remedy.  “[M]indful that we are a court of review, not of first view,” Cutter v. Wilkinson,
+
+544 U.S. 709, 718, n. 7 (2005), this Court remands for the Fourth Circuit to consider these questions in the first instance.
+
+															*  *  *
+
+															For these reasons, the judgment of the Court of Appeals for the Fourth Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ Compare In re John Q. Hammons Fall 2006, LLC, 15 F. 4th 1011 (CA10 2021) (2017 Act is unconstitutional); In re Clinton Nurseries, Inc., 998 F.3d 56 (CA2 2021) (same), with In re Mosaic Mgmt. Group, Inc., 22 F. 4th 1291 (CA11 2022) (2017 Act is constitutional); In re Circuit City Stores, Inc., 996 F.3d 156 (CA4 2021) (same); In re Buffets, LLC, 979 F.3d 366 (CA5 2020) (same). 
+
+2
+ Respondent further argues that any uniformity violation should be attributed to the Judicial Conference and not to Congress, because Congress expected the Judicial Conference to implement the 2017 Act’s fee increase in Administrator Program districts.  As respondent sees it, it is the Judicial Conference’s failure to implement the fee increase that is responsible for the disparate fees, not the 2017 Act itself.  Respondent provides ample evidence that Congress likely understood, when it passed the 2017 Act, that the Judicial Conference would impose the same fee increase.  That said, prior to the 2021 amendment, the fee statute did not require the Judicial Conference to impose an equivalent increase.  It is that congressional decision that led to the disparities at issue here.  
+
+

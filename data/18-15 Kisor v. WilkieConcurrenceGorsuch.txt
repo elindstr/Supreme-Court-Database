@@ -1,0 +1,665 @@
+::SCDB_caseID:: 2018-063
+::decision_cite:: 18-15
+::decision_name::  Kisor v. Wilkie
+::decision_year:: 2019
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–15
+
+															_________________
+
+															james l. kisor, PETITIONER v. ROBERT WILKIE, SECRETARY OF VETERANS AFFAIRS
+
+															on writ of certiorari to the united states court of appeals for the federal circuit
+
+															[June 26, 2019]
+
+															
+
+															Justice Gorsuch, with whom Justice Thomas joins, with whom Justice Kavanaugh joins as to Parts I, II, III, IV, and V, and with whom Justice Alito joins as to Parts I, II, and III, concurring in the judgment.
+
+															It should have been easy for the Court to say goodbye to Auer v. Robbins.[1]  In disputes involving the relationship between the government and the people, Auer requires judges to accept an executive agency’s interpretation of its own regulations even when that interpretation doesn’t represent the best and fairest reading.  This rule creates a “systematic judicial bias in favor of the federal government, the most powerful of parties, and against everyone else.”[2]  Nor is Auer’s biased rule the product of some congressional mandate we are powerless to correct: This Court invented it, almost by accident and without any meaningful effort to reconcile it with the Administrative Procedure Act or the Constitution.  A legion of academics, lower court judges, and Members of this Court—even Auer’s author—has called on us to abandon Auer.  Yet today a bare majority flinches, and Auer lives on.
+
+															Still, today’s decision is more a stay of execution than a pardon.  The Court cannot muster even five votes to say that Auer is lawful or wise.  Instead, a majority retains Auer only because of stare decisis.  And yet, far from standing by that precedent, the majority proceeds to impose so many new and nebulous qualifications and limitations on Auer that The Chief Justice claims to see little practical difference between keeping it on life support in this way and overruling it entirely.  So the doctrine emerges maimed and enfeebled—in truth, zombified.
+
+															Respectfully, we owe our colleagues on the lower courts more candid and useful guidance than this.  And judges owe the people who come before them nothing less than a fair contest, where every party has an equal chance to persuade the court of its interpretation of the law’s demands.  One can hope that The Chief Justice is right, and that whether we formally overrule Auer or merely neuter it, the results in most cases will prove the same.  But means, not just ends, matter, and retaining even this debilitated version of Auer threatens to force litigants and lower courts to jump through needless and perplexing new hoops and in the process deny the people the independent judicial decisions they deserve.  All to what end?  So that we may pretend to abide stare decisis?
+
+															Consider this case.  Mr. Kisor is a Marine who lost out on benefits for post-traumatic stress disorder when the court of appeals deferred to a regulatory interpretation advanced by the Department of Veterans Affairs.  The court of appeals was guilty of nothing more than faithfully following Auer.  But the majority today invokes stare decisis, of all things, to vacate that judgment and tell the court of appeals to try again using its newly retooled, multi-factored, and far less determinate version of Auer.  Respectfully, I would stop this business of making up excuses for judges to abdicate their job of interpreting the law, and simply allow the court of appeals to afford Mr. Kisor its best independent judgment of the law’s meaning.
+
+															The Court’s failure to be done with Auer, and its decision to adorn Auer with so many new and ambiguous limitations, all but guarantees we will have to pass this way again.  When that day comes, I hope this Court will find the nerve it lacks today and inter Auer at last.  Until then, I hope that our judicial colleagues on other courts will take courage from today’s ruling and realize that it has transformed Auer into a paper tiger.
+
+															I. How We Got Here
+
+															Where did Auer come from?  Not from the Constitution, some ancient common law tradition, or even a modern statute.  Instead, it began as an unexplained aside in a decision about emergency price controls at the height of the Second World War.  Even then, the dictum sat on the shelf, little noticed, for years.  Only in the last few decades of the 20th century did lawyers and courts really begin to dust it off and shape it into the reflexive rule of deference to regulatory agencies we know today.  And they did so without ever pausing to consider whether a rule like that could be legally justified or even made sense.  Auer is really little more than an accident.
+
+															A
+
+															Before the mid-20th century, few federal agencies engaged in extensive rulemaking, and those that did rarely sought deference for their regulatory interpretations.[3]  But when the question arose, this Court did not hesitate to say that judges reviewing administrative action should decide all questions of law, including questions concerning the meaning of regulations.  As Justice Brandeis put it, “[t]he inexorable safeguard which the due process clause assures is . . . that there will be opportunity for a court to determine whether the applicable rules of law . . . were observed.”[4]  Unsurprisingly, the government’s early, longstanding, and consistent interpretation of a statute, regulation, or other legal instrument could count as powerful evidence of its original public meaning.[5]  But courts respected executive interpretations only because and to the extent “they embodied understandings made roughly contemporaneously with . . . enactment and stably maintained and practiced since that time,” not “because they were executive as such.”[6]
+
+															Writing for four Members of the Court, Justice Kagan suggests that Auer’s very different approach to the interpretation of agency regulations was foreshadowed as early as this Court’s 1898 decision in United States v. Eaton.[7]  Ante, at 7.  But this is mistaken.  The question in that case was whether Mr. Eaton’s appointment as temporary vice-consul to Siam was consistent with State Department regulations.  After several pages of careful and independent legal analysis, the Court held that the regulations did authorize the appointment.  That conclusion, the Court explained, was “rendered necessary by a consideration of the text.”[8]  Only after reaching this conclusion did the Court observe that the State Department had previously adopted the same construction, noting along the way that the Department’s views were “entitled to the greatest weight” and that the Court saw “no reason in this case to doubt [their] correctness.”[9]  Eaton thus simply followed the well-worn path of acknowledging that an agency’s interpretation of a regulation can supply evidence of its meaning.[10]  Nowhere did the Court even hint that it would have deferred to the State Department’s views about the meaning of the law if its own independent textual analysis had not led it to the same conclusion.
+
+															All this is borne out by the Court’s later teachings in Skidmore v. Swift & Co. in 1944.[11]  The question there was whether the time overnight employees spent waiting to respond to fire alarms could amount to compensable overtime under the Fair Labor Standards Act.  The lower courts had held as a matter of law that it could not.  In an opinion by Justice Jackson, this Court reversed.  The Court first held, based on its own independent analysis, that “no principle of law found either in the statute or in Court decisions precludes waiting time from also being working time.”[12]  Only then did the Court consider “what, if any, deference courts should pay” to the views of the Administrator of the Labor Department’s Wage and Hour Division.[13]  And on that question the Court reaffirmed the traditional rule that an agency’s interpretation of the law is “not controlling upon the courts” and is entitled only to a weight proportional to “the thoroughness evident in its consideration, the validity of its reasoning, its consistency with earlier and later pronouncements, and all those factors which give it power to persuade.”[14]  At the time, the influential administrative law scholar Kenneth Culp Davis considered this “[a]n entirely reliable statement” of the law.[15]
+
+															B
+
+															In truth, the seeds of the Auer doctrine were first planted only in 1945, in Bowles v. Seminole Rock & Sand Co.[16]  That case involved regulations issued by the Office of Price Administration (OPA), which Congress had tasked with stabilizing the national economy during the Second World War through the use of emergency price controls.  It was in that context that the Court declared—for the first time and without citing any authority—that “if the meaning of [the regulation were] in doubt,” the agency’s interpretation would merit “controlling weight unless it is plainly erroneous or inconsistent with the regulation.”[17]
+
+															Yet even then it was far from clear how much weight the Court really placed on the agency’s interpretation.  As it had in Eaton, the Court in Seminole Rock began with an extended discussion of “the plain words of the regulation,” which led it to conclude that the text “clearly” supported the government’s position.[18]  Only after reaching that conclusion based on its own independent analysis did the Court proceed to add that “[a]ny doubts . . . are removed by reference to the administrative construction.”[19]
+
+															So confused was all this that readers at the time didn’t perceive Seminole Rock’s dictum as changing anything.  Professor Davis observed that the Court’s discussion about giving “controlling weight” to the agency’s interpretation was an unexplained aside that made no difference to the case’s outcome.[20]  The dictum, too, was readily explained as reflecting the unusual factual context in which the case arose, involving an emergency government program created to deal with “unique circumstances of war and economic depression.”[21]  And the Court decided Seminole Rock the same Term it issued Skidmore, where it reaffirmed the traditional rule that an agency’s views about the law may persuade a court but can never control its judgment.  In fact, the Court in Seminole Rock was careful to note that the OPA interpretation before it bore many of the characteristics Skidmore would have recognized as increasing its persuasive force: It had been announced concurrently with the regulation, disseminated widely to the regulated community, and adhered to consistently by the agency.[22]
+
+															No wonder, then, that for many years after the decision, courts “connected Seminole Rock more closely with the deference framework . . . under Skidmore” and generally engaged in a Skidmore-type analysis, accepting the agency’s interpretation “only after independently examining the regulation and concluding that the agency interpretation was sound.”[23]  If Seminole Rock’s “controlling weight” dictum was afforded any force, it was usually only in the price control context; even then it was ordinarily extended only to “official” agency interpretations that were published contemporaneously with the regulation and widely distributed.[24]  The Fourth Circuit exemplified the early understanding of Seminole Rock when it observed—citing both Seminole Rock and Skidmore—that “under settled principles” an official agency interpretation in an opinion letter was entitled only to “respectful consideration.”[25]  The letter, the court stressed, did not “have the effect of law,” and “[i]t would be absurd to hold that the courts must subordinate their judgment as to the meaning of a . . . regulation to the mere unsupported opinion of an associate counsel in an administrative department.”[26]
+
+															C
+
+															This Court did not cite Seminole Rock’s “controlling weight” dictum again until 1965, in Udall v. Tallman.[27]  And though Tallman “did very little to advance the jurisprudential understanding of Seminole Rock,” it certainly helped fuel the expansion of so-called “Seminole Rock deference.”[28]  From the 1960s on, this Court and lower courts began to cite the Seminole Rock dictum with increasing frequency and in a wider variety of circumstances, but still without much explanation.  They also increasingly divorced Seminole Rock from Skidmore.[29]
+
+															Auer represents the apotheosis of this line of cases.  In the name of what some now call the Auer doctrine, courts have in recent years “mechanically applied and reflexively treated” Seminole Rock’s dictum “as a constraint upon the careful inquiry that one might ordinarily expect of courts engaged in textual analysis.”[30]  Under Auer, judges are forced to subordinate their own views about what the law means to those of a political actor, one who may even be a party to the litigation before the court.  After all, if the court agrees that the agency’s reading is the best one, Auer does no real work; the doctrine matters only when a court would conclude that the agency’s interpretation is not the best or fairest reading of the regulation.
+
+															To be sure, Justice Kagan paints a very different picture of Auer, asking us to imagine it riding to the rescue only in cases where the scales of justice are evenly balanced between two equally persuasive readings.  But that’s a fantasy: “If nature knows of such equipoise in legal arguments, the courts at least do not.”[31]  In the real world the judge uses his traditional interpretive toolkit, full of canons and tiebreaking rules, to reach a decision about the best and fairest reading of the law.  Of course, there are close cases and reasonable judges will sometimes disagree.  But every day, in courts throughout this country, judges manage with these traditional tools to reach conclusions about the meaning of statutes, rules of procedure, contracts, and the Constitution.  Yet when it comes to interpreting federal regulations, Auer displaces this process and requires judges instead to treat the agency’s interpretation as controlling even when it is “not . . . the best one.”[32]
+
+															If that were not troubling enough, Auer has also become “a doctrine of uncertain scope and application.”[33]  This Court has never offered meaningful guidance on how to decide whether the agency’s reading is “reasonable” enough to demand judicial deference—and lower courts have drawn that line in wildly different places.[34]  Deepening the confusion, this Court and lower courts have, over time, tried to soften Auer’s rigidity by declaring that it “might” not apply in some ill-defined circumstances, such as when the agency’s interpretation “conflicts with a prior interpretation” or reflects a “convenient litigating position” or a “post hoc rationalization” for past agency action.[35]  All this has resulted in “widespread confusion” about when and how to apply Auer deference.[36]
+
+															In light of Auer’s many problems, it should come as no surprise that several Members of this Court,[37] along with a great many lower court judges[38] and members of the legal academy,[39] have questioned Auer’s validity and pleaded with this Court to reconsider it.
+
+															D
+
+															That’s where things stood when James Kisor asked the Department of Veterans Affairs to reopen his disability benefits claim.  Mr. Kisor served as a United States Marine from 1962 through 1966 and saw combat in Vietnam.  In the early 1980s, a VA counselor observed that Mr. Kisor was battling depression and suicidal thoughts and suggested he might be suffering from post-traumatic stress disorder.  In light of this, Mr. Kisor filed a claim for disability benefits in 1982.  But, in the end, the VA denied the claim.
+
+															In 2006, Mr. Kisor sought to reopen the matter.  In connection with that request, he presented new evidence, including a psychiatrist’s report diagnosing him with PTSD and additional records documenting his service in Vietnam.  The VA reopened Mr. Kisor’s claim and granted him disability benefits effective June 5, 2006, the date he had submitted his new request.  Mr. Kisor argued that a VA regulation entitled him to an earlier effective date for disability benefits, one tracing back to his original submission in 1982.  But the Board of Veterans Appeals concluded that the applicable regulation didn’t authorize that relief.
+
+															Mr. Kisor appealed the Board’s ruling all the way to the Federal Circuit, arguing that the Board had misinterpreted the relevant regulation.  The Federal Circuit affirmed.  Relying on the Auer doctrine, the court held that it had no choice but to treat the Board’s interpretation as “ ‘controlling’ ” unless that interpretation was “ ‘plainly erroneous or inconsistent with the regulatio[n].’ ”[40]  Without even trying to determine who had the better reading of the regulation, the Board or Mr. Kisor, the court declared that “[t]he Board’s interpretation does not strike us as either plainly erroneous or inconsistent with the VA’s regulatory framework.”[41]  Case closed.
+
+															Mr. Kisor sought and was denied rehearing en banc.  Three judges dissented and joined those who have questioned “the logic behind continued adherence to the [Auer] doctrine”; they argued that, without Auer deference, Mr. Kisor’s reading of the regulation would likely prevail.[42]  Mr. Kisor then asked us to grant certiorari to reconsider Auer.  Thinking it past time to do so, we granted the  petition.[43]
+
+															II. The Administrative Procedure Act
+
+															When this Court speaks about the rules governing judicial review of federal agency action, we are not (or shouldn’t be) writing on a blank slate or exercising some common-law-making power.  We are supposed to be applying the Administrative Procedure Act.  The APA is a “seminal” statute that Congress wrote to define the relationship between courts and agencies.[44]  Some have even described it as a kind of constitution for our “administrative state.”  Yet, remarkably, until today this Court has never made any serious effort to square the Auer doctrine with the APA.  Even now, only four Justices make the attempt.  And for at least two reasons, their arguments are wholly unpersuasive.
+
+															A
+
+															The first problem lies in §706.  That provision instructs reviewing courts to “decide all relevant questions of law” and “set aside agency action . . . found to be . . . not in accordance with law.”[45]  Determining the meaning of a statute or regulation, of course, presents a classic legal question.  But in case these directives were not clear enough, the APA further directs courts to “determine the meaning” of any relevant “agency action,” including any rule issued by the agency.[46]  The APA thus requires a reviewing court to resolve for itself any dispute over the proper interpretation of an agency regulation.  A court that, in deference to an agency, adopts something other than the best reading of a regulation isn’t “decid[ing]” the relevant “questio[n] of law” or “determin[ing] the meaning” of the regulation.  Instead, it’s allowing the agency to dictate the answer to that question.  In doing so, the court is abdicating the duty Congress assigned to it in the APA.[47]
+
+															Justice Kagan seeks to address the glaring inconsistency between our judge-made rule and the controlling statute this way.  On her account, the APA tells a reviewing court to “determine the meaning” of regulations, but it does not tell the court “how” to do that.  Thus, we are told, reading the regulation for itself and deferring to the agency’s reading are just two equally valid ways for a court to fulfill its statutory duty to “determine the meaning” of the regulation.  Ante, at 20–21.
+
+															But the APA isn’t as anemic as that.  Its unqualified command requires the court to determine legal questions—including questions about a regulation’s meaning—by its own lights, not by those of political appointees or bureaucrats who may even be self-interested litigants in the case at hand.  Nor can there be any doubt that, when Congress wrote the APA, it knew perfectly well how to require judicial deference to an agency when it wished—in fact, Congress repeatedly specified deferential standards for judicial review elsewhere in the statute.[48]  But when it comes to the business of interpreting regulations, no such command exists; instead, Congress told courts to “determine” those matters for themselves.  Though one hardly needs to be an academic to recognize the point, “commentators in administrative law have ‘generally acknowledged’ that Section 706 seems to require de novo review on questions of law.”[49]
+
+															What the statutory language suggests, experience confirms.  If Auer deference were really just another way for courts to “determine the meaning” of regulations under §706, you might expect that a final judicial “determination” would at least settle, as a matter of precedent, the question of what the regulation “means.”  Of course, even after one court has spoken on a regulation’s meaning, that court or another might properly give weight to a new agency interpretation as part of the court’s own decision-making process.  See supra, at 6.  But in light of National Cable & Telecommunications Assn. v. Brand X Internet Services,[50] courts have interpreted Auer as forbidding a court from ever “determin[ing] the meaning” of a regulation with the force that normally attaches to precedent, because an agency is always free to adopt a different view and insist on judicial deference to its new judgment.[51]  And if an agency can not only control the court’s initial decision but also revoke that decision at any time, how can anyone honestly say the court, rather than the agency, ever really “determine[s]” what the regulation means?
+
+															To test the point further, consider a statute that tells a court to “determin[e]” an appropriate sentence in a criminal case.[52]  If the judge said he was sending a defendant to prison for longer than he believed appropriate only in deference to the government’s “reasonable” sentencing recommendation, would anyone really think that complied with the law?  Or take a statute that instructs a court to “determine” whether a consent judgment proposed by the government in a civil antitrust case “is in the public interest.”[53]  If a court thought the proposed judgment harmful to the public but decided to defer to the government’s “reasonable” contrary view anyway, would anyone suggest the court had complied with Congress’s instruction?
+
+															Nor does Justice Kagan’s reading of §706 offer any logical stopping point.  If courts can “determine the meaning” of a regulation by deferring to any “reasonable” agency reading, then why not by deferring to any agency reading?  If it were really true that the APA has nothing to say about how courts decide what regulations mean, then it would follow that the APA tolerates a rule that “the agency is always right.”  And if you find yourself in a place as absurd as that, you might want to consider whether you’ve taken a wrong turn along the way.
+
+															B
+
+															The problems don’t end there.  Auer is also incompatible with the APA’s instructions in §553.  That provision requires agencies to follow notice-and-comment procedures when issuing or amending legally binding regulations (what the APA calls “substantive rules”), but not when offering mere interpretations of those regulations.[54]  An agency wishing to adopt or amend a binding regulation thus must publish a proposal in the Federal Register, give interested members of the public an opportunity to submit written comments on the proposal, and consider those comments before issuing the final regulation.  Under the APA, that regulation then carries the force of law unless and until it is amended or repealed.[55]  By contrast, an agency can announce an interpretation of an existing substantive regulation without advance warning and in pretty much whatever form it chooses.
+
+															Auer effectively nullifies the distinction Congress drew here.  Under Auer, courts must treat as “controlling” not only an agency’s duly promulgated rules but also its mere interpretations—even ones that appear only in a legal brief, press release, or guidance document issued without affording the public advance notice or a chance to comment.  For all practical purposes, “the new interpretation might as well be a new regulation.”[56]  Auer thus oblit- erates a distinction Congress thought vital and supplies agencies with a shortcut around the APA’s required procedures for issuing and amending substantive rules that bind the public with the full force and effect of law.[57]
+
+															Think of it this way.  We’ve held that the Constitution’s specification of a “single, finely wrought” procedure for the enactment of statutes (bicameralism and presentment) necessarily implies that Congress cannot amend an enacted statute without following that procedure—say, by allowing a single House to change what the law requires.[58]  By the same logic, Congress’s specification in the APA of procedures for the creation of new substantive rules (like notice and comment) necessarily implies that an agency cannot amend a substantive rule without following those procedures.  To hold otherwise, as Auer demands, subverts the APA’s design.
+
+															Certain amici contend this argument is “out of place” in this particular case because the VA happened to issue the interpretation challenged here in an adjudicative proceeding.[59]  But the premise on which they proceed—that the APA permits agencies to issue “controlling” amendments to their regulations in adjudicative proceedings—is not correct.  Once an agency issues a substantive rule through notice and comment, it can amend that rule only by following the same notice-and-comment procedures.[60]  Whether an agency issues its interpretation in a press release or something it chooses to call an “adjudication,” all we have is the agency’s opinion about what an existing rule means, something that the APA tells us is not binding in a court of law or on the American people.
+
+															If that won’t work, Justice Kagan tries an alternative argument from nearly the opposite direction.  She replies that affording Auer deference to an agency’s interpretation of its own rules never offends the APA because the agency’s interpretation lacks “the force of law” associated with substantive rules.  Agency interpretations lack this force, we are told, because a court always retains the power to decide at least whether the interpretation is entitled to deference.  Ante, at 22–23.  But this argument rests on an implausibly narrow understanding of what it means for an agency action to bear the force of law.  Under Justice Kagan’s logic, even a binding substantive rule would lack the force of law because a court retains the power to decide whether the rule is arbitrary and capricious and thus invalid under the APA.  But no one believes that.  While an agency interpretation, just like a substantive rule, “must meet certain conditions before it gets deference,” “once it does so [Auer makes it] every bit as binding as a substantive rule.”[61]  To suggest that Auer does not make an agency’s interpretive guidance “binding o[n] anyone,” ante, at 23, is linguistic hocus-pocus.
+
+															C
+
+															If Auer cannot be squared with the text of the APA, Justice Kagan suggests it at least conforms to a reason- able “presumption about congressional intent.”  Ante, at 7.  The theory seems to be that whenever Congress grants an agency “rulemaking power,” it also implicitly gives the agency “ ‘the power authoritatively to interpret’ ” whatever rules the agency chooses to adopt.  Ante, at 8.  But against the clear statutory commands Congress gave us in the APA, what sense does it make to “presume” that Congress really, secretly, wanted courts to treat agency interpretations as binding?  Normally, this Court does not allow hidden legislative intentions to “muddy” such plainly expressed statutory directives.[62]
+
+															Even on its own terms, too, this argument proves pretty muddy.  It goes something like this: The drafters of the APA did not intend to “ ‘significantly alter’ ” established law governing judicial review of agency action as of 1946; the Auer doctrine was part of that established law; therefore, the APA implicitly requires courts to afford agencies Auer deference.  Ante, at 21–22.  But neither of this syllogism’s essential premises stands on solid ground.
+
+															Take the major premise—that those who adopted the APA intended to work no change in the established law of judicial review of agency action.  Justice Kagan is right, of course, that Attorney General Clark claimed as much shortly after the APA’s passage.  Ante, at 21.  But his view, which reflected the interests of the executive branch, was far from universally shared.  Others, including many members of Congress, thought the APA would clarify, if not expand, the scope of judicial review.  For example, Senator McCarran, the Chairman of the Judiciary Committee, wrote that it would be “hard . . . for anyone to argue that this Act did anything other than cut down the ‘cult of discretion’ so far as federal law is concerned.”[63]  And both the House and Senate reports on the APA said it was intended to “provid[e] that questions of law are for courts rather than agencies to decide in the last analysis.”[64]
+
+															Just five years after the APA’s passage, this Court seemed to side with those who thought the APA was intended to do more than just summarize existing law.  In an opinion by Justice Frankfurter, the Court opined that the APA required courts to assume “more responsibility” for reviewing agency decisions “than some courts ha[d] shown in the past.”[65]  One early commentator likewise observed that the APA seemed designed to eliminate all doubt that questions of law “shall be decided by the reviewing Court for itself, and in the exercise of its own independent judgment”; “[m]ore explicit words to impose this mandate,” he thought, “could hardly be found.”[66]
+
+															Justice Kagan’s syllogism runs into even more trouble with its minor premise—that the Auer doctrine was a well-established part of the common law background when Congress enacted the APA in 1946.  As we’ve seen, this Court planted the seeds of Auer deference for the first time in dictum in Seminole Rock, just a year before Congress passed the APA.  See Part I–B, supra.  And that dictum did not somehow immediately become an entrenched part of the common law: For years following Seminole Rock, courts and “commentators largely ignored” it,[67] and those who took notice weren’t sure what to make of it.  Professor Davis, for example, doubted that the dictum could be “taken at face value” given that it seemed “irreconcilable” with the Court’s approach in other cases.[68]  In truth, when Congress passed the APA the law of judicial review of agency action was in a confused state.  During the congressional hearings on the bill, one witness’s suggestion that Congress should leave the scope of judicial review “as it now is” drew this fair reply from Representative Walter, chairman of the House Subcommittee on Administrative Law and author of the House Report on the APA: “You say ‘as it now is.’  Frankly, I do not know what it now is . . . .  [T]he Supreme Court apparently changes its mind daily.”[69]
+
+															III. The Constitution
+
+															Not only is Auer incompatible with the APA; it also sits uneasily with the Constitution.  Article III, §1 provides that the “judicial Power of the United States” is vested exclusively in this Court and the lower federal courts.  A core component of that judicial power is “ ‘the duty of interpreting [the laws] and applying them in cases properly brought before the courts.’ ”[70]  As Chief Justice Marshall put it, “[i]t is emphatically the province and duty of the judicial department to say what the law is.”[71]  And never, this Court has warned, should the “judicial power . . . be shared with [the] Executive Branch.”[72]  Yet that seems to be exactly what Auer requires.
+
+															A
+
+															Our Nation’s founders were painfully aware of the dangers of executive and legislative intrusion on judicial decision-making.  One of the abuses of royal power that led to the American Revolution was King George’s attempt to gain influence over colonial judges.[73]  Colonial legislatures, too, had interfered with the courts’ independence “at the behest of private interests and factions.”[74]  These experiences had taught the founders that “ ‘there is no liberty if the power of judgment be not separated from the legislative and executive powers.’ ”[75]  They knew that when political actors are left free not only to adopt and enforce written laws, but also to control the interpretation of those laws, the legal rights of “litigants with unpopular or minority causes or . . . who belong to despised or suspect classes” count for little.[76]  Maybe the powerful, well-heeled, popular, and connected can wheedle favorable outcomes from a system like that—but what about everyone else?  They are left always a little unsure what the law is, at the mercy of political actors and the shifting winds of popular opinion, and without the chance for a fair hearing before a neutral judge.  The rule of law begins to bleed into the rule of men.
+
+															Experiencing all this in their own time, the founders sought to ensure that those who came after them would not.  Believing that “[n]o maxim was better established” than “that the power of making ought to be kept distinct from that of expounding, the laws,”[77] they designed a judiciary that would be able to interpret the laws “free from potential domination by other branches of government.”[78]  To that end, they resisted proposals that would have subjected judicial decisions to review by political actors.[79]  And they rejected the British tradition of using the upper house of the legislature as a court of last resort, out of fear that a body with “even a partial agency in passing bad laws” would operate under the “same spirit” in “interpreting them.”[80]  Instead, they gave federal judges life tenure, subject only to removal by impeachment; and they guaranteed that the other branches could not reduce judges’ compensation so long as they remained in office.
+
+															The founders afforded these extraordinary powers and protections not for the comfort of judges, but so that an independent judiciary could better guard the people from the arbitrary use of governmental power.  And sitting atop the judicial branch, this Court has always carried a special duty to “jealously guar[d]” the Constitution’s promise of judicial independence.[81]  So we have long resisted any effort by the other branches to “ ‘usurp a court’s power to interpret and apply the law to the circumstances before it.’ ”[82]  The judicial power to interpret the law, this Court has held, “can no more be shared with another branch than the Chief Executive, for example, can share with the Judiciary the veto power, or the Congress share with the Judiciary the power to override a Presidential veto.”[83]
+
+															Auer represents no trivial threat to these foundational principles.  Under the APA, substantive rules issued by federal agencies through notice-and-comment procedures bear “the ‘force and effect of law’ ”[84] and are part of the body of federal law, binding on private individuals, that the Constitution charges federal judges with interpreting.  Yet Auer tells the judge that he must interpret these binding laws to mean not what he thinks they mean, but what an executive agency says they mean.  Unlike Article III judges, executive officials are not, nor are they supposed to be, “wholly impartial.”[85]  They have their own interests, their own constituencies, and their own policy goals—and when interpreting a regulation, they may choose to “press the case for the side [they] represen[t]” instead of adopting the fairest and best reading.[86]  Auer thus means that, far from being “kept distinct,” the powers of making, enforcing, and interpreting laws are united in the same hands—and in the process a cornerstone of the rule of law is compromised.
+
+															Consider an analogy.  The Court has long held that Congress cannot “ ‘indirectly control the action of the courts, by requiring of them a construction of the law according to its own views.’ ”[87]  If Congress disagrees with how courts are interpreting an existing statute, it is free to amend the statute to establish a different rule going forward.  What it cannot do is issue “a mandate . . . to compel the courts to construe and apply [existing law], not according to the judicial, but according to the legislative judgment.”[88]  As early as 1804, when a lawyer argued before this Court that an Act of the North Carolina legislature could not control the Court’s construction of an earlier North Carolina statute because “[t]o declare what the law is, or has been, is a judicial power,” not a legislative power, the Court stopped him, deeming the point too plain for argument.[89]
+
+															But if the legislature can’t control a judge’s interpretation of an existing statute, how can an executive agency control a judge’s interpretation of an existing and equally binding regulation?  Auer allows an agency to do exactly what this Court has always said a legislature cannot do: “compel the courts to construe and apply” a law on the books, “not according to the judicial . . . judgment,” but according to the judgment of another branch.[90]  When we defer to an agency interpretation that differs from what we believe to be the best interpretation of the law, we compromise our judicial independence and deny the people who come before us the impartial judgment that the Constitution guarantees them.  And we mislead those whom we serve by placing a judicial imprimatur on what is, in fact, no more than an exercise of raw political executive power.[91]
+
+															B
+
+															What do our colleagues have to say about these concerns?  A majority has nothing to offer, and Justice Kagan dismisses them out of hand.  In fact, she barely mentions the Constitution, other than to assure us that Auer does not allow agencies to “usur[p] the interpretive role of courts” because “courts retain a firm grip on the interpretive function” through their ability to decide whether Auer deference applies.  Ante, at 25.  But that is no assurance at all.  The judicial power has always been understood to provide the people with a neutral arbiter who bears the responsibility and duty to “expound  and interpret” the governing law, not just the power to  say whether someone else’s interpretation, let alone the interpretation of a self-interested political actor, is  “reasonable.”[92]
+
+															To be sure, it’s conceivable that Congress might seek to limit the ability of judges to remedy an adverse agency action.  It might, for example, provide that a court shall have power to set aside agency action pursuant to a regulation only if the action was based on an unreasonable interpretation of the regulation.  But even assuming the constitutionality of a hypothetical statute like that, Auer is different.  It does not limit the scope of the judicial power; instead, it seeks to coopt the judicial power by requiring an Article III judge to decide a case before him according to principles that he believes do not accurately reflect the law.  Under Auer, a judge is required to lay aside his independent judgment and declare affirmatively that a regulation means what the agency says it means—and, thus, that the law is what the agency says it is.  Then the judge is compelled to exercise his judicial authority to adjust private rights and obligations based on the agency’s (mis)understanding of the law.  If Auer were a statute, it would not be an exercise of Congress’s “power (within limits) to tell the courts what classes of cases they may decide,” or what relief they may supply, but a forbidden attempt “to prescribe or superintend how they decide those cases.”[93]  And in the absence of any statute like that, this Court surely should not so freely give away to the executive branch its assigned responsibility to interpret the laws.  “Abdication of responsibility is not part of the constitutional design.”[94]
+
+															In the end, Justice Kagan’s only real reply is this: However misguided it may be to hand over our interpretive powers to executive agencies, at least there isn’t a mountain of empirical evidence showing that agencies have used this power to deliberately write “vague and open-ended” regulations to maximize their interpretive leeway.  Ante, at 24.  But even this misses the point.  Whether or not regulations are “ ‘designed’ ” to be vague, ibid., many can be read in different ways, especially when new and unanticipated applications arise; cases like that come before the courts all the time.  Without Auer’s shadow hanging over them, parties would receive a fair hearing before an impartial judge.  The agency’s interpretation would sometimes be rejected; and that, in turn, might lead it to solicit public comment on possible amendments to the regulation, which would provide an opportunity for public input that might produce better policy.  But with Auer, there is no fair hearing and no need for the agency to amend the regulation through notice and comment.  Whether purposeful or not, the agency’s failure to write a clear regulation winds up increasing its power, allowing it to both write and interpret rules that bear the force of law—in the process uniting powers the Constitution deliberately separated and denying the people their right to an independent judicial determination of the law’s meaning.
+
+															IV. Policy Arguments
+
+															Lacking support elsewhere, Justice Kagan is forced to resort to policy arguments to defend Auer.  But even the most sensible policy argument would not empower us to ignore the plain language of the APA or the demands of the Constitution.  And as we’ve seen, those documents reflect a very different “policy” judgment by the people  and their representatives.  Besides, the policy argu- ments offered today are not just unpersuasive, they are troubling.
+
+															Take the first and boldest offering.  Justice Kagan suggests that determining the meaning of a regulation is largely a matter of figuring out what the “person who wrote it . . . intended.”  Ante, at 8.  In this way, we’re told, a legally binding regulation isn’t all that different from “a memo or an e-mail”—if you “[w]ant to know what [it] means,” you’d better “[a]sk its author.”  Ante, at 8–9.  But the federal government’s substantive rules are not like memos or e-mails; they are binding edicts that carry the force of law for all citizens.  And if the rule of law means anything, it means that we are governed by the public meaning of the words found in statutes and regulations, not by their authors’ private intentions.  This is a vital part of what it means to have “a government of laws, and not of men.”[95]  When judges interpret a regulation, what we are trying to get at, as Justice Holmes explained long ago, is not the “particular intent” of those who wrote it, but “what [its] words would mean [to] a normal speaker of English . . . in the circumstances in which they were used.”[96]  If the best reading of the regulation turns out to be something other than what the agency claims to have intended, the agency is free to rewrite the regulation; but its secret intentions are not the law.
+
+															Nor does Justice Kagan’s account of the interpretive process even wind up supporting Auer.  If a court’s goal in interpreting a regulation really were to determine what its author “intended,” Auer would be an almost complete mismatch with the goal.  Agency personnel change over time, and an agency’s policy priorities may shift dramatically from one presidential administration to another.  Yet Auer tells courts that they must defer to the agency’s current view of what the regulation ought to mean, which may or may not correspond to the views of those who actually wrote it.  If interpreting a regulation really were just like reading an e-mail, Auer would be like seeking guidance about the e-mail’s meaning, years or decades later, from the latest user of the computer from which the e-mail was sent.  We’ve repeatedly rejected that approach in the context of statutory interpretation.  While Members of this Court sometimes disagree about the usefulness of pre-enactment legislative history, we all agree that legislators’ statements about the meaning of an already-enacted statute are not “a legitimate tool of statutory interpretation,’ ” much less a controlling one.[97]  So why on earth would we give “controlling weight” to an agency’s statements about the meaning of an already-promulgated regulation?
+
+															Proceeding farther down this doubtful path, Justice Kagan asserts that resolving ambiguities in a regulation “sounds more in policy than in law” and is thus a task more suited to executive officials than judges.  Ante, at 9.  But this claim, too, contradicts a basic premise of our legal order: that we are governed not by the shifting whims of politicians and bureaucrats, but by written laws whose meaning is fixed and ascertainable—if not by all members of the public, then at least by lawyers who can advise them and judges who must apply the law to individual cases guided by the neutral principles found in our traditional tools of interpretation.  The text of the regulation is treated as the law, and the agency’s policy judgment has the force of law only insofar as it is embodied in the regulatory text.  If “new issues demanding new policy calls” arise that aren’t addressed in existing regulations, ante, at 10, the solution is for the agency to promulgate new regulations using the notice-and-comment procedures set forth in the APA.  But an agency has no warrant to compel judges to change the law to conform with the agency’s current policy preferences.
+
+															To be sure, during the period of Auer’s ascendancy some suggested that the meaning of written law is always “radically indeterminate” and that judges expounding it are “for the most part, guided by policy—not text.”[98]  And in an environment like that it was perhaps thought a small step to conclude that, if legal disputes are going to be resolved on political grounds, then they ought to be resolved by real politicians in the executive branch rather than ersatz politicians on the bench.  But the proposed cure proved worse than the disease.  Arguments like these surrendered the judgment embodied in our Constitution and the APA that courts owe the people they serve their independent legal judgment about the law’s meaning.  Besides, we’ve long since come to realize that the real cure doesn’t lie in turning judges into rubber stamps for politicians, but in redirecting the judge’s interpretive task back to its roots, away from open-ended policy appeals and speculation about legislative intentions and toward the traditional tools of interpretation judges have employed for centuries to elucidate the law’s original public meaning.  Today it is even said that we judges are, to one degree or another, “all textualists now.”[99]
+
+															Pursuing a more modest tack, Justice Kagan next suggests that Auer is justified by the respect due agencies’ “technical” expertise.  Ante, at 10.  But no one doubts that courts should pay close attention to an expert agency’s views on technical questions in its field.  Just as a court “would want to know what John Henry Wigmore said about an issue of evidence law [or] what Arthur Corbin thought about a matter of contract law,” so too should courts carefully consider what the Food and Drug Administration thinks about how its prescription drug safety regulations operate.[100]  The fact remains, however, that even agency experts “can be wrong; even Homer nodded.”[101]  Skidmore and the traditional approach it embodied recognized both of these facts of life long ago, explaining that, while courts should of course afford respectful consideration to the expert agency’s views, they must remain open to competing expert and other evidence supplied in an adversarial setting.  Respect for an agency’s technical expertise demands no more.
+
+															Justice Kagan’s final policy argument is that Auer promotes “consistency” and “uniformity” in the interpretation of regulations.  Ante, at 10–11.  If we let courts decide what regulations mean, she warns, they might disagree, and it might take some time for higher courts to resolve those disagreements.  But consistency and uniformity are hardly grounds on which Auer’s advocates should wish to fight.  The judicial process is how we settle disputes about the meaning of written law, and our judicial system is more than capable of producing a single, uniform, and stable interpretation that will last until the regulation is amended or repealed.  Meanwhile, under Auer courts often disagree about whether deference is warranted, see supra, at 10–11, and a regulation’s “meaning” can be transformed with the stroke of a pen any time there is a new presidential administration.  “Consistency,” “uniformity,” and stability in the law are hardly among Auer’s crowning achievements.
+
+															V. Stare Decisis
+
+															In the end, a majority declines to endorse Justice Kagan’s arguments and insists only that, even if Auer is not “right and well-reasoned,” we’re stuck with it because of the respect due precedent.  Ante, at 27.
+
+															But notice: While pretending to bow to stare decisis, the majority goes about reshaping our precedent in new and experimental ways.  True, the majority admits, this Court has in the past accorded Auer deference “ ‘reflexive[ly],’ ” “without significant analysis of the underlying regulation” or “careful attention to [its] nature and context,” and encouraged lower courts to do the same.  Ante, at 12–13.  But no more.  From now on, the majority says, not only must judges “exhaust all the ‘traditional tools’ of construction” to decide whether the agency’s interpretation is “reasonable,” they must also make “an independent inquiry into whether the character and context of the agency interpretation” justifies deference.  Ante, at 13–15.  The majority candidly admits that it finds it impossible to “reduce” this new inquiry “to any exhaustive test,” so it settles for laying out some “markers.”  Ante, at 15.  What are the markers?  We are told that courts should often—but not always—withhold deference from an interpretation offered by mid-level agency staff; often—but not always—withhold deference from a nontechnical, “prosaic-seeming” interpretation; often—but not always—withhold deference from an interpretation advanced for the first time in an amicus brief; and often—but not always—withhold deference from an interpretation that conflicts with an earlier one.  See ante, at 15–18.  The only certainty in all this is that the majority isn’t really much moved by stare decisis; everyone recognizes, to one degree or another, that Auer cannot stand.  And between our remaining choices—continuing to make up new deference rules, or returning to the text of the APA and the approach to judicial review that prevailed for most of our history—the answer should have been easy.
+
+															A
+
+															There are serious questions about whether stare decisis should apply here at all.  To be sure, Auer’s narrow holding about the meaning of the regulation at issue in that case may be entitled to stare decisis effect.  The same may be true for the specific holdings in other cases where this Court has applied Auer deference.  But does stare decisis extend beyond those discrete holdings and bind future Members of this Court to apply Auer’s broader deference framework?
+
+															It seems doubtful that stare decisis demands that much.  We are not dealing with a precedent that purported to settle the meaning of a single statute or regulation or resolve a particular case.  The Auer doctrine claims to do much more than that—to prescribe an interpretive methodology governing every future dispute over the meaning of every regulation.  In other contexts, we do not regard statements in our opinions about such generally applicable interpretive methods, like the proper weight to afford historical practice in constitutional cases or legislative history in statutory cases, as binding future Justices with the full force of horizontal stare decisis.[102]  Why, then, should we regard as binding Auer’s statements about the weight to afford agencies’ interpretations in regulatory cases?  To the extent Auer purports to dictate “the interpretive inferences that future Justices must draw in construing statutes and regulations that the Court has never engaged,” it may well “exceed the limits of stare decisis.”[103]
+
+															Even if our past expressions of support for Auer deference bear some precedential force, they certainly are not entitled (as the majority suggests, ante, at 26–27) to the special, heightened form of stare decisis we reserve for narrow statutory decisions.  In contrast to precedents that fix the meaning of particular statutes and generate reliance interests in the process, the Auer doctrine is an abstract default rule of interpretive methodology that settles nothing of its own force.  And this Court has recognized that it is “inconsistent with the Court’s proper role” to insist that Congress exercise its legislative power to overturn such erroneous and judicially invented “default rule[s].”[104]  That should be especially so here because Auer’s default rule undermines judicial independence, which this Court has a special responsibility to defend.
+
+															Nor is it entirely clear that Congress could overturn the Auer doctrine legislatively.  The majority describes Auer as a “presumption” about how courts should interpret statutes granting rulemaking power to agencies.  Ante, at 12.  Congress can, of course, rebut the presumption on a statute-by-statute basis, or even for all past statutes.  But can Congress eliminate the Auer presumption for future statutes?  Perhaps—but legislation like that would raise questions, which the majority does not address, about the ability of one Congress to entrench its preferences by attempting to control the interpretation of legislation enacted by future Congresses.[105]  We should not be in the business of tossing “ ‘balls . . . into Congress’s court,’ ” ante, at 27, that would explode with constitutional questions if Congress tried to pick them up.
+
+															B
+
+															Even assuming for argument’s sake that standard stare decisis considerations apply, they still do not require us to retain Auer.  Even the majority implicitly recognizes this much, as it proceeds to vacate a lower court judgment that faithfully applied Auer and instruct that court to try again using the majority’s new directions.  If stare decisis allows us so freely to remodel Auer, it’s hard to see on what account it might require us to retain it.
+
+															We do not lightly overturn precedents, and we seek always to honor the thoughtful guidance of those who have preceded us.  At the same time, everyone agrees that stare decisis is not an “ ‘inexorable command,’ ”[106] and this Court should not always remain bound to decisions whose “rationale no longer withstands ‘careful analysis.’ ”[107]  Recognizing the need for balance in this area, the Court has, over time, fashioned principles to guide our treatment of precedent.  Those principles call on us to consider factors such as “the quality of [the precedent’s] reasoning, the workability of the rule it established, its consistency with other related decisions, developments since the decision was handed down, and reliance on the decision.”[108]  As applied to Auer, all of these considerations weigh strongly in favor of bidding farewell to the doctrine rather than keeping it on life support.
+
+															First, we’ve already seen that no persuasive rationale supports Auer.  From its humble origins as an unexplained bit of dictum in a wartime case about emergency price controls, the Auer doctrine evolved into a rigid rule of deference—all without any serious attempt by this Court to rationalize it or reconcile it with the APA, the Constitution, or traditional modes of judicial review.  See Part I, supra.  Even its fiercest defenders acknowledge that “Auer deference has not remained static over time” and urge the Court to continue to “shape” and “refin[e]” the doctrine.[109]  Today’s decision attempts just such a “refinement” by hedging Auer with new qualifications and limitations.  See ante, at 11–18.  This shifting ground “undermin[es] the force of stare decisis.”[110]
+
+															Second, today’s ruling all but admits that Auer has not proved to be a workable standard.  Even before this latest overhaul, uncertainty surrounding Auer’s scope and application had caused many to question whether there was any “practical benefit” in continuing to apply Auer “rather than a less deferential but more flexible and open-ended standard like Skidmore.”[111]  See supra, at 10–11.  Nor does the majority’s kinder, gentler version of Auer promise to solve the problem.  On the contrary, its newly mandated inquiry into the “character and context of the agency interpretation,” which it admits cannot be reduced “to any exhaustive test,” ante, at 15, seems destined only to compound the confusion.  See supra, at 35.  Many words come to mind to describe the tasks we assign lower court judges today, but “workable” is not among them.
+
+															Third, the Auer doctrine is, as we have also already seen, out of step with how courts normally interpret written laws.  When we interpret a regulation, we typically (at least when there is no agency say-so) proceed in the same way we would when interpreting any other written law: We “begin our interpretation of the regulation with its text” and, if the text is unclear, we “turn to other canons of interpretation” and tie-breaking rules to resolve the ambiguity.[112]  And when we interpret an ambiguous statute, we never ask what current members of Congress think it means; in fact, we’ve held unanimously that legislators’ post-enactment views about a statute’s meaning are not even a “ ‘legitimate tool of statutory interpretation.’ ”[113]  Affording “controlling weight” to regulators’ post-promulgation views about the meaning of an ambiguous regulation is hard to square with these usual judicial practices.[114]
+
+															Fourth, the explosive growth of the administrative state over the last half-century has exacerbated Auer’s potential for mischief.  When the Court first uttered its dictum in Seminole Rock, the administrative state was new and the APA was only a gleam in Congress’s eye.  Even 20 years later, when the Court began reviving the Seminole Rock dictum and turning it into a new deference doctrine, it was not yet apparent how pervasive the administrative state would become in the lives of ordinary Americans.  Now, in the 21st century, “[t]he administrative state wields vast power and touches almost every aspect of daily life.”[115]  Among other things, it produces “ ‘reams of regulations’ ”[116]—so many that they dwarf the statutes enacted by Congress.  As of 2018, the Code of Federal Regulations filled 242 volumes and was about 185,000 pages long, almost quadruple the length of the most recent edition of the U. S. Code.[117]  And agencies add thousands more pages of regulations every year.  Whether you think this administrative fecundity is a good or a bad thing, it surely means that the cost of continuing to deny citizens an impartial judicial hearing on the meaning of disputed regulations has increased dramatically since this Court started down this road.
+
+															Fifth, Auer has generated no serious reliance interests.  The only parties that might have relied on Auer’s promise of deference are agencies that use post hoc interpretations to bypass the APA’s notice-and-comment procedures.  But this Court has never suggested that the convenience of government officials should count in the balance of stare decisis, especially when weighed against the interests of citizens in a fair hearing before an independent judge and a stable and knowable set of laws.  In short, “ ‘[t]he fact that [agencies] may view [Auer deference] as an entitlement does not establish the sort of reliance interest that could outweigh the countervailing interest’ ” of all citizens “ ‘in having their constitutional rights fully protected.’ ”[118]
+
+															Coming closer to the mark, the majority worries that “abandoning Auer deference would cast doubt on many settled constructions” of regulations on which regulated parties might have relied.  Ante, at 26.  But, again, decisions construing particular regulations might retain stare decisis effect even if the Court announced that it would no longer adhere to Auer’s interpretive methodology.  After all, decisions construing particular statutes continue to command respect even when the interpretive methods that led to those constructions fall out of favor.  Besides, if the majority is correct that abandoning Auer would require revisiting regulatory constructions that were upheld based on Auer deference, the majority’s revision of Auer will yield exactly the same result.  There are innumerable lower court decisions that have followed this Court’s lead and afforded Auer deference mechanically, without conducting the inquiry the Court now holds is required.  Today’s ruling casts no less doubt on the continuing validity of those decisions than we would if we simply moved on from Auer.
+
+															*
+
+															Overruling Auer would have taken us directly back to Skidmore, liberating courts to decide cases based on their independent judgment and “follow [the] agency’s [view] only to the extent it is persuasive.”[119]  By contrast, the majority’s attempt to remodel Auer’s rule into a multi-step, multi-factor inquiry guarantees more uncertainty and much litigation.  Proceeding in this convoluted way burdens our colleagues on the lower courts, who will have to spend time debating deference that they could have spent interpreting disputed regulations.  It also continues to deny the people who come before us the neutral forum for their disputes that they rightly expect and deserve.
+
+															But this cloud may have a silver lining: The majority leaves Auer so riddled with holes that, when all is said and done, courts may find that it does not constrain their independent judgment any more than Skidmore.  As reengineered, Auer requires courts to “exhaust all the ‘traditional tools’ of construction” before they even consider deferring to an agency.  Ante, at 13–14.  And those tools include all sorts of tie-breaking rules for resolving ambiguity even in the closest cases.  Courts manage to make do with these tools in many other areas of the law, so one might hope they will hardly ever find them inadequate here.  And if they do, they will now have to conduct a further inquiry that includes so few firm guides and so many cryptic “markers” that they will rarely, if ever, have to defer to an agency regulatory interpretation that differs from what they believe is the best and fairest reading.
+
+															But whatever happens, this case hardly promises to be this Court’s last word on Auer.  If today’s opinion ends up reducing Auer to the role of a tin god—officious, but ultimately powerless—then a future Court should candidly admit as much and stop requiring litigants and lower courts to pay token homage to it.  Alternatively, if Auer proves more resilient, this Court should reassert its responsibility to say what the law is and afford the people the neutral forum for their disputes that they expect and deserve.
+Notes
+1
+ 
+
+519 U.S. 452 (1997). 
+
+2
+ Larkin & Slattery, The World After Seminole Rock and Auer, 42 Harv. J. L. & Pub. Pol’y 625, 641 (2019) (internal quotation marks omitted). 
+
+3
+ See Knudsen & Wildermuth, Unearthing the Lost History of Seminole Rock, 65 Emory L. J. 47, 55, 65, 68 (2015) (Lost History). 
+
+4
+ St. Joseph Stock Yards Co. v. United States,
+
+298 U.S. 38, 73 (1936) (concurring opinion).  See also FTC v. Gratz,
+
+253 U.S. 421, 427 (1920); ICC v. Union Pacific R. Co.,
+
+222 U.S. 541, 547 (1912); Belden v. Chase,
+
+150 U.S. 674, 698 (1893); Decatur v. Paulding, 14 Pet. 497, 515 (1840); accord, Woolhandler, Judicial Deference to Administrative Action—A Revisionist History, 43 Admin. L. Rev. 197, 206–207 (1991). 
+
+5
+ Bamzai, The Origins of Judicial Deference to Executive Interpretation, 126 Yale L. J. 908, 930–947 (2017) (Origins). 
+
+6
+ Id., at 943, 962; cf. NLRB v. Noel Canning,
+
+573 U.S. 513, 572–573 (2014) (Scalia, J., concurring in judgment) (an “open, widespread, and unchallenged” governmental practice can “guide [courts’] interpretation” of an ambiguous text, but it cannot “alter” the meaning of that text); Edward’s Lessee v. Darby, 12 Wheat. 206, 210 (1827) (“In the construction of a doubtful and ambiguous law, the cotemporaneous construction of those who were called upon to act under the law, and were appointed to carry its provisions into effect, is entitled to very great respect”). 
+
+7
+ 
+
+169 U.S. 331. 
+
+8
+ Id., at 342. 
+
+9
+ Id., at 342–343. 
+
+10
+ Cf. Newman, How Courts Interpret Regulations, 35 Cal. L. Rev. 509, 521, and n. 78 (1947) (noting that Eaton suggested administrative interpretations could be “ ‘persuasive’ but not binding”). 
+
+11
+ 
+
+323 U.S. 134. 
+
+12
+ Id., at 136–137.  Much of the legal analysis supporting this conclusion was contained in the companion case, Armour & Co. v. Wantock,
+
+323 U.S. 126 (1944), which made no mention of any administrative interpretations.  Id., at 129–134; see Skidmore, 323 U. S., at 136 (citing the “reasons set forth in the Armour case decided herewith”). 
+
+13
+ Id., at 139. 
+
+14
+ Id., at 140; see also id., at 139 (the agency’s views “are not, of course, conclusive, even in the cases with which they directly deal” and do not “bin[d] a district court’s processes, as an authoritative pronouncement of a higher court might do”). 
+
+15
+ Davis, Administrative Rules—Interpretative, Legislative, and Retroactive, 57 Yale L. J. 919, 936–939, and n. 86 (1948); see also K. Davis, Administrative Law §249, p. 901 (1951) (“[S]ubstitution of judicial judgment on the content of interpretative rules is always permissible, even though the reviewing court may give ‘weight’ or ‘great weight’ to the rule.  The best guide may be the Court’s formula in Skidmore . . . ”). 
+
+16
+ 
+
+325 U.S. 410. 
+
+17
+ Id., at 414. 
+
+18
+ Id., at 414–417. 
+
+19
+ Id., at 417. 
+
+20
+ See Davis, Scope of Review of Federal Administrative Action, 50 Colum. L. Rev. 559, 597 (1950). 
+
+21
+ Lost History 60; see also Anthony, The Supreme Court and the APA: Sometimes They Just Don’t Get It, 10 Admin. L. J. Am. U. 1, 12 (1996). 
+
+22
+ 325 U. S., at 417–418; see Pojanowski, Revisiting Seminole Rock, 16 Geo. J. L. & Pub. Pol’y 87, 88 (2018) (“A closer look at Seminole Rock suggests an unremarkable application of the less-deferential standard of review of Skidmore”). 
+
+23
+ Lost History 94–97; see Pojanowski, supra, at 92–96. 
+
+24
+ Lost History 65–68. 
+
+25
+ Southern Goods Corp. v. Bowles, 158 F.2d 587, 590 (1946). 
+
+26
+ Ibid. 
+
+27
+ 
+
+380 U.S. 1, 4, 17–18 (accepting a regulatory interpretation by the Secretary of the Interior that was consistent, widely disseminated, and heavily relied upon, while not suggesting any disagreement with the Secretary’s interpretation). 
+
+28
+ Lost History 80. 
+
+29
+ See generally id., at 68–92, 98. 
+
+30
+ Id., at 53. 
+
+31
+ Scalia, Judicial Deference to Administrative Interpretations of Law, 1989 Duke L. J. 511, 520. 
+
+32
+ Decker v. Northwest Environmental Defense Center,
+
+568 U.S. 597, 613 (2013); see Pauley v. BethEnergy Mines, Inc.,
+
+501 U.S. 680, 702 (1991) (the agency’s interpretation “need not be the best or most natural one by grammatical or other standards”). 
+
+33
+ Hickman & Thomson, The Chevronization of Auer, 103 Minn. L. Rev. Headnotes 103, 105 (2019). 
+
+34
+ See Kavanaugh, Fixing Statutory Interpretation, 129 Harv. L. Rev. 2118, 2134–2144 (2016). 
+
+35
+ Christopher v. SmithKline Beecham Corp.,
+
+567 U.S. 142, 155 (2012) (alterations and internal quotation marks omitted). 
+
+36
+ Leske, Splits in the Rock: The Conflicting Interpretations of the Seminole Rock Deference Doctrine by the U. S. Courts of Appeals, 66 Admin. L. Rev. 787, 832 (2014); see Hickman & Thomson, supra, at 111 (noting a “glut of recent cases in which members of the same court are openly divided on the proper application of Auer”). 
+
+37
+ See Perez v. Mortgage Bankers Assn.,
+
+575 U.S. 92, ___–___ (2015) (Alito, J., concurring in part and concurring in judgment) (slip op., at 1–2); id., at ___–___ (Scalia, J., concurring in judgment) (slip op., at 1–5); id., at ___–___ (Thomas, J., concurring in judgment) (slip op., at 8–23); Decker, 568 U. S., at 615–616 (Roberts, C. J., joined by Alito, J., concurring); id., at 616–621 (Scalia, J., concurring in part and dissenting in part); Talk America, Inc. v. Michigan Bell Telephone Co.,
+
+564 U.S. 50, 67–69 (2011) (Scalia, J., concurring); see also Kavanaugh, Keynote Address: Justice Scalia and Deference 19:06 (June 2, 2016), http://‌vimeo.com/‌169758593 (predicting “that Auer will someday be overruled and that Justice Scalia’s dissent in Decker will be the law of the land”). 
+
+38
+ See, e.g., Forrest Gen. Hospital v. Azar, ___ F. 3d ___, ___, 2019 WL 2417409, *7 (CA5 2019); San Diego Gas & Elec. Co. v. FERC, 913 F.3d 127, 145, n. 4 (CADC 2019) (Randolph, J., dissenting); United States v. Havis, 907 F.3d 439, 450–452 (CA6 2018) (Thapar, J., concurring), vacated, 921 F.3d 628, on reh’g en banc, ___ F. 3d ___ (CA6 2019); Marsh v. J. Alexander’s LLC, 905 F.3d 610, 652–653 (CA9 2018) (Ikuta, J., dissenting); Egan v. Delaware River Port Auth., 851 F.3d 263, 279 (CA3 2017) (Jordan, J., concurring in judgment); Perez v. Loren Cook Co., 803 F.3d 935, 938, n. 2 (CA8 2015) (en banc); Johnson v. McDonald, 762 F.3d 1362, 1366–1368 (CA Fed. 2014) (O’Malley, J., concurring); Exelon Generation Co. v. Local 15, Int’l Brotherhood of Elec. Workers, AFL–CIO, 676 F.3d 566, 576, n. 5 (CA7 2012). 
+
+39
+ See, e.g., Hickman & Thomson, supra, at 111–113; Adler, Auer Evasions, 16 Geo. J. L. & Pub. Pol’y 1, 26 (2018); Pojanowski, 16 Geo. J. L. & Pub. Pol’y, at 99; Knudsen & Wildermuth, Lessons From the Lost History of Seminole Rock, 22 Geo. Mason L. Rev. 647, 667 (2015); Leske, supra, at 789–793; Molot, The Judicial Perspective in the Administrative State: Reconciling Modern Doctrines of Deference with the Judiciary’s Structural Role, 53 Stan. L. Rev. 1, 108–110 (2000); Anthony, 10 Admin. L. J., at 4–12; Manning, Constitutional Structure and Judicial Deference to Agency Interpretations of Agency Rules, 96 Colum. L. Rev. 612, 696 (1996). 
+
+40
+ Kisor v. Shulkin, 869 F.3d 1360, 1367 (2017). 
+
+41
+ Id., at 1368. 
+
+42
+ Kisor v. Shulkin, 880 F.3d 1378, 1379 (CA Fed. 2018) (opinion of O’Malley, J.). 
+
+43
+ 586 U. S. ___ (2018). 
+
+44
+ Abbott Laboratories v. Gardner,
+
+387 U.S. 136, 140 (1967). 
+
+45
+ 
+
+5 U. S. C. §706. 
+
+46
+ Ibid.; see §551(13) (defining “agency action”). 
+
+47
+ The case before us doesn’t arise under the APA, but the statute that governs here is plainly modeled on the APA and contains essentially the same commands.  It directs a reviewing court to “decide all relevant questions of law” and to “set aside any regulation or any interpretation thereof ” that is “not in accordance with law.”
+
+38 U. S. C. §7292(d)(1). 
+
+48
+ See, e.g., §706(2)(A) (arbitrary and capricious, abuse of discretion); §706(2)(E) (substantial evidence); see also Universal Camera Corp. v. NLRB,
+
+340 U.S. 474, 482, n. 14 (1951) (noting that as originally proposed, the APA’s judicial review provision would have included an explicit requirement for courts to accord “due weight” to “the experience, technical competence, specialized knowledge, and legislative policy of the agency involved as well as the discretionary authority conferred upon it” (internal quotation marks omitted)). 
+
+49
+ Duffy, Administrative Common Law in Judicial Review, 77 Texas L. Rev. 113, 194–195 (1998); see Merrill, Capture Theory and the Courts: 1967–1983, 72 Chi.-Kent L. Rev. 1039, 1085–1086 (1997) (noting the “embarrassing” fact that “the APA appears to compel th[e] conclusion” that “courts should decide all questions of law de novo”).  See also, e.g., Origins 985; Mashaw, Rethinking Judicial Review of Administrative Action: A Nineteenth Century Perspective, 32 Cardozo L. Rev. 2241, 2243 (2011); Garrett, Legislating Chevron, 101 Mich. L. Rev. 2637, 2640 (2003); Molot, Reexamining Marbury in the Administrative State: A Structural and Institutional Defense of Judicial Power over Statutory Interpretation, 96 Nw. U. L. Rev. 1239, 1249 (2002); Anthony, 10 Admin. L. J. Am. U., at 9–10; Farina, Statutory Interpretation and the Balance of Power in the Administrative State, 89 Colum. L. Rev. 452, 473, and n. 85 (1989); Starr, Sunstein, Willard, & Morrison, Judicial Review of Administrative Action in a Conservative Era, 39 Admin. L. Rev. 353, 368 (1987) (remarks of Prof. Sunstein); Pierce & Shapiro, Political and Judicial Review of Agency Action, 59 Texas L. Rev. 1175, 1182 (1981); 4 K. Davis, Administrative Law §30.01, pp. 190–191 (1958). 
+
+50
+ 
+
+545 U.S. 967 (2005). 
+
+51
+ See, e.g., In re Lovin, 652 F.3d 1349, 1353–1354 (CA Fed. 2011); Levy v. Sterling Holding Co., 544 F.3d 493, 502–503 (CA3 2008). 
+
+52
+ 
+
+18 U. S. C. §3553(a). 
+
+53
+ 
+
+15 U. S. C. §16(e)(1). 
+
+54
+ See Perez, 575 U. S., at ___–___ (slip op., at 2–3). 
+
+55
+ United States v. Nixon,
+
+418 U.S. 683, 695–696 (1974). 
+
+56
+ Perez, 575 U. S., at ___ (Thomas, J., concurring in judgment) (slip op., at 16). 
+
+57
+ Ibid.; see id., at ___ (Scalia, J., concurring in judgment) (slip op., at 3) (Auer lets agencies “use [interpretive] rules not just to advise the public, but also to bind them”). 
+
+58
+ See INS v. Chadha,
+
+462 U.S. 919, 951, 954 (1983). 
+
+59
+ Brief for Administrative Law Scholars as Amici Curiae 9–10, n. 4. 
+
+60
+ See Perez, 575 U. S., at ___ (slip op., at 8); Marseilles Land & Water Co. v. FERC, 345 F.3d 916, 920 (CADC 2003). 
+
+61
+ Perez, 575 U. S., at ___ (Scalia, J., concurring in judgment) (slip op., at 3). 
+
+62
+ Milner v. Department of Navy,
+
+562 U.S. 562, 572 (2011). 
+
+63
+ McCarran, Improving “Administrative Justice”: Hearings and Evidence; Scope of Judicial Review, 32 A. B. A. J. 827, 893 (1946). 
+
+64
+ H. R. Rep. No. 1980, 79th Cong., 2d Sess., 44 (1946); accord, S. Rep. No. 752, 79th Cong., 1st Sess., 28 (1945); 92 Cong. Rec. 5654 (1946) (statement of Rep. Walter).  See also Shepherd, Fierce Compromise: The Administrative Procedure Act Emerges from New Deal Politics, 90 Nw. U. L. Rev. 1557, 1662–1666 (1996). 
+
+65
+ Universal Camera, 340 U. S., at 490 (emphasis added). 
+
+66
+ Dickinson, Administrative Procedure Act: Scope and Grounds of Broadened Judicial Review, 33 A. B. A. J. 434, 516 (1947).  See also Origins 990–991 (critiquing the Attorney General’s characterization of the APA as “inherently question begging” and unsupported by any analysis). 
+
+67
+ Adler, 16 Geo. J. L. & Pub. Pol’y, at 7; see Lost History 63; Pojanowski, 16 Geo. J. L. & Pub. Pol’y, at 95–96. 
+
+68
+ Davis, 50 Colum. L. Rev., at 597–598; see also Davis, 57 Yale L. J., at 936, n. 72; Newman, 35 Cal. L. Rev., at 521–522. 
+
+69
+ Hearings on H. R. 184 et al. before the House Committee on the Judiciary, 79th Cong., 1st Sess., 38 (1945); see Origins 988–989. 
+
+70
+ Patchak v. Zinke, 583 U. S. ___, ___ (2018) (plurality opinion) (slip op., at 5) (quoting Massachusetts v. Mellon,
+
+262 U.S. 447, 488 (1923)). 
+
+71
+ Marbury v. Madison, 1 Cranch 137, 177 (1803); see also Wayman v. Southard, 10 Wheat. 1, 46 (1825) (“[T]he legislature makes, the executive executes, and the judiciary construes the law”); The Federalist No. 78, p. 467 (C. Rossiter ed. 1961) (A. Hamilton). 
+
+72
+ Miller v. Johnson,
+
+515 U.S. 900, 922 (1995). 
+
+73
+ See Declaration of Independence ¶11. 
+
+74
+ Plaut v. Spendthrift Farm, Inc.,
+
+514 U.S. 211, 220–221 (1995). 
+
+75
+ The Federalist No. 78, at 466. 
+
+76
+ Palmore v. United States,
+
+411 U.S. 389, 412 (1973) (Douglas, J., dissenting); see Oil States Energy Services, LLC v. Greene’s Energy Group, LLC, 584 U. S. ___, ___ (2018) (Gorsuch, J., dissenting) (slip op., at 3) (“[W]hen an independent judiciary gives ground to bureaucrats in the adjudication of cases, the losers will often prove the unpopular and vulnerable”); United States v. Hatter,
+
+532 U.S. 557, 568–569 (2001) (quoting John Marshall’s admonition that a judge who may be called on to decide a dispute “ ‘between the most powerful individual in the community, and the poorest and most unpopular’ ” must be “ ‘perfectly and completely independent, with nothing to influence or control him but God and his conscience’ ” (alterations omitted)); Jackson, The Meaning of Statutes: What Congress Says or What the Court Says, 34 A. B. A. J. 535, 536 (1948) (“[T]he interpretation of [the laws’] fair meaning . . . should be made by judges as independent of politics as humanly possible and not serving the interests of the class for whom, or a majority by whom, legislation is enacted”). 
+
+77
+ 2 Records of the Federal Convention of 1787, p. 75 (M. Farrand ed. 1911); see also Manning, 96 Colum. L. Rev., at 640–648. 
+
+78
+ United States v. Will,
+
+449 U.S. 200, 218 (1980). 
+
+79
+ See The Federalist No. 81, at 482 (A. Hamilton). 
+
+80
+ Id., at 483. 
+
+81
+ Northern Pipeline Constr. Co. v. Marathon Pipe Line Co.,
+
+458 U.S. 50, 60 (1982) (plurality opinion). 
+
+82
+ Bank Markazi v. Peterson, 578 U. S. ___, ___ (2016) (slip op., at 12) (alterations omitted). 
+
+83
+ Stern v. Marshall,
+
+564 U.S. 462, 483 (2011) (internal quotation marks omitted). 
+
+84
+ Perez, 575 U. S., at ___ (slip op., at 2); see Chrysler Corp. v. Brown,
+
+441 U.S. 281, 295–296 (1979).  To be sure, our precedent allowing executive agencies to issue legally binding regulations to govern private conduct may raise constitutional questions of its own.  See, e.g., Department of Transportation v. Association of American Railroads,
+
+575 U.S. 43, ___–___ (2015) (Thomas, J., concurring in judgment) (slip op., at 4–11). 
+
+85
+ Cox, Judge Learned Hand and the Interpretation of Statutes, 60 Harv. L. Rev. 370, 390 (1947). 
+
+86
+ Id., at 390–391, and n. 58; see also Kavanaugh, 129 Harv. L. Rev., at 2151 (in pursuing their policy goals, “[e]xecutive branch agencies often think they can take a particular action unless it is clearly forbidden”). 
+
+87
+ Plaut, 514 U. S., at 225 (quoting T. Cooley, Constitutional Limitations 95 (1868)). 
+
+88
+ Id., at 95; see also Bank Markazi, 578 U. S., at ___, n. 17 (slip op., at 12, n. 17). 
+
+89
+ Ogden v. Blackledge, 2 Cranch 272, 277. 
+
+90
+ Cooley, supra, at 95. 
+
+91
+ Cf. Cary v. Curtis, 3 How. 236, 253, 257 (1845) (Story, J., dissenting) (if the “right to interpret the laws” is taken away from courts and “confided to an executive functionary,” then “the judicial power, designed by the Constitution to be the final and appellate jurisdiction to interpret our laws, is superseded in its most vital and important functions”). 
+
+92
+ Marbury, 1 Cranch, at 177. 
+
+93
+ Arlington v. FCC,
+
+569 U.S. 290, 297 (2013) (emphasis added). 
+
+94
+ Clinton v. City of New York,
+
+524 U.S. 417, 452 (1998) (Kennedy, J., concurring). 
+
+95
+ Marbury, 1 Cranch, at 163. 
+
+96
+ Holmes, The Theory of Legal Interpretation, 12 Harv. L. Rev. 417, 417–418 (1899); see INS v. Cardoza-Fonseca,
+
+480 U.S. 421, 452–453 (1987) (Scalia, J., concurring in judgment) (“Judges interpret laws rather than reconstruct legislators’ intentions”); H. Hart & A. Sacks, The Legal Process 1375 (1994) (“Unenacted intentions or wishes cannot be given effect as law”). 
+
+97
+ United States v. Woods,
+
+571 U.S. 31, 48 (2013). 
+
+98
+ O’Scannlain, “We Are All Textualists Now”: The Legacy of Justice Antonin Scalia, 91 St. John’s L. Rev. 303, 304–305 (2017) (contesting the radical indeterminacy of legal texts). 
+
+99
+ Id., at 313; see Siegel, Textualism and Contextualism in Administrative Law, 78 B. U. L. Rev. 1023, 1057 (1998). 
+
+100
+ Larkin & Slattery, 42 Harv. J. L. & Pub. Pol’y, at 647. 
+
+101
+ Ibid. 
+
+102
+ See Criddle & Staszewski, Against Methodological Stare Decisis, 102 Geo. L. J. 1573, 1577, and n. 12 (2014); C. Oldfather, Methodological Stare Decisis and Constitutional Interpretation, in Precedent in the United States Supreme Court 135, 135–136 (C. Peters ed. 2013). 
+
+103
+ Kozel, Statutory Interpretation, Administrative Deference, and the Law of Stare Decisis, 97 Texas L. Rev. 1125, 1159 (2019); see Raso & Eskridge, Chevron as a Canon, Not a Precedent: An Empirical Study of What Motivates Justices in Agency Deference Cases, 110 Colum. L. Rev. 1727, 1765–1766 (2010) (concluding that in practice, this Court has not treated administrative-deference regimes such as Chevron and Auer as binding precedents). 
+
+104
+ South Dakota v. Wayfair, Inc., 585 U. S. ___, ___ (2018) (slip op., at 18). 
+
+105
+ See, e.g., Alexander & Prakash, Mother May I?  Imposing Mandatory Prospective Rules of Statutory Interpretation, 20 Const. Comment. 97 (2003); Elhauge, Preference-Estimating Statutory Default Rules, 102 Colum. L. Rev. 2027, 2109–2110, and nn. 231–233 (2002). 
+
+106
+ Pearson v. Callahan,
+
+555 U.S. 223, 233 (2009). 
+
+107
+ Arizona v. Gant,
+
+556 U.S. 332, 348 (2009) (quoting Lawrence v. Texas,
+
+539 U.S. 558, 577 (2003)). 
+
+108
+ Janus v. State, County, and Municipal Employees, 585 U. S. ___, ___–___ (2018) (slip op., at 34–35). 
+
+109
+ Brief for Administrative Law Scholars as Amici Curiae 13. 
+
+110
+ Knick v. Township of Scott, ante, at 22; see Janus, 585 U. S., at ___ (slip op., at 23).  See also Lost History 54–92; Knudsen & Wildermuth, 22 Geo. Mason L. Rev., at 658–664. 
+
+111
+ Hickman & Thomson, 103 Minn. L. Rev. Headnotes, at 110. 
+
+112
+ Green v. Brennan, 578 U. S. ___, ___ (2016) (slip op., at 5); see, e.g., National Assn. of Home Builders v. Defenders of Wildlife,
+
+551 U.S. 644, 668–669 (2007) (construing regulation in light of text, history, and canon against surplusage). 
+
+113
+ Woods, 571 U. S., at 48; see also Bruesewitz v. Wyeth LLC,
+
+562 U.S. 223, 242 (2011); Jones v. United States,
+
+526 U.S. 227, 238 (1999); United States v. Mine Workers,
+
+330 U.S. 258, 281–282 (1947). 
+
+114
+ To be sure, under Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+
+467 U.S. 837 (1984), we sometimes defer to an agency’s construction of a statute.  But there are serious questions, too, about whether that doctrine comports with the APA and the Constitution.  See, e.g., Pereira v. Sessions, 585 U. S. ___, ___–___ (2018) (Kennedy, J., concurring); Michigan v. EPA, 576 U. S. ___, ___–___ (2015) (Thomas, J., concurring); Perez, 575 U. S., at ___–___ (Scalia, J., concurring in judgment) (slip op., at 2–3).  Regardless, it would be a mistake to suppose that Auer is in any way a “logical corollary to Chevron.”  Decker, 568 U. S., at 620 (Scalia, J., concurring in part and dissenting in part). 
+
+115
+ Arlington, 569 U. S., at 313 (Roberts, C. J., dissenting) (internal quotation marks omitted). 
+
+116
+ Federal Maritime Comm’n v. South Carolina Ports Authority,
+
+535 U.S. 743, 755 (2002). 
+
+117
+ See Office of the Federal Register, Code of Federal Regulations: Total Pages 1938–1949, and Total Volumes and Pages 1950–2018, http://‌www.‌federalregister.‌gov/‌uploads/‌2019/‌04/‌cfrTotalPages2018.pdf; United States v. Secretary, Fla. Dept. of Corrections, 778 F.3d 1223, 1225 (CA11 2015). 
+
+118
+ Janus, 585 U. S., at ___ (slip op., at 45) (quoting Gant, 556 U. S., at 349). 
+
+119
+ Gonzales v. Oregon,
+
+546 U.S. 243, 269 (2006); see Christopher, 567 U. S., at 159 (applying Skidmore after concluding that agency’s interpretation did not merit Auer deference). 
+
+

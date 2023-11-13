@@ -1,0 +1,697 @@
+::SCDB_caseID:: 2014-009
+::decision_cite:: 574 U.S. 318 (2015)
+::decision_name::  Teva Pharma. USA, Inc. v. Sandoz, Inc.
+::decision_year:: 2015
+::opinion_author:: Breyer
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE:â€‚This opinion is subject to formal
+revision before publication in the preliminary print of the United
+States Reports.â€ƒReaders are requested to notify
+the Reporter of Decisions, Supreme Court of the United States,
+Washington, D.Â C. 20543, of any typographical or other
+formal errors, in order that corrections may be made before the
+preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13â€“854
+
+															_________________
+
+															TEVA PHARMACEUTICALS USA, INC., etÂ al., PETITIONERS
+v. SANDOZ, INC., etÂ al.
+
+															on writ of certiorari to the united states court of appeals for
+the federal circuit
+
+															[January 20, 2015]
+
+															Justice Breyer delivered the opinion of the
+Court.
+
+															In Markman v. Westview Instruments, Inc.,517
+U.Â S. 370 (1996), we explained that a patent claim is
+that â€œportion of the patent document that
+defines the scope of the patenteeâ€™s
+rights.â€ Id., at 372. We held that
+â€œthe construction of a patent, including terms
+of art within its claim,â€ is not for a jury but
+â€œexclusivelyâ€ for
+â€œthe courtâ€ to determine.
+Ibid. That is so even where the construction of a term of
+art has â€œevidentiary underpinnings.â€
+Id., at 390.
+
+															Todayâ€™s case involves claim construction with
+â€œevidentiary underpinnings.â€ See
+Part III, infra. And, it requires us to determine what
+standard the Court of Appeals should use when it reviews a trial
+judgeâ€™s resolution of an underlying factual
+dispute. Should the Court of Appeals review the district
+courtâ€™s factfinding de novo as it would
+review a question of law? Or, should it review that factfinding as
+it would review a trial judgeâ€™s factfinding in
+other cases, namely by taking them as correct
+â€œunless clearly erroneous?â€ See Fed.
+Rule Civ. Proc. 52(a)(6). We hold that the appellate court must
+apply a â€œclear error,â€ not a de
+novo, standard of review.
+
+															I
+
+															The basic dispute in this case concerns the meaning of the words
+â€œmolecular weightâ€ as those words
+appear in a patent claim. The petitioners, Teva Pharmaceuticals
+(along with related firms), own the relevant patent. The patent
+covers a manufacturing method for Copaxone, a drug used to treat
+multiple sclerosis. The drugâ€™s active
+ingredient, called â€œcopolymer-1,â€ is
+made up of molecules of varying sizes. App. 1143a. And the relevant
+claim describes that ingredient as having â€œa
+molecular weight of 5 to 9 kilodaltons.â€ Id., at
+1145a.
+
+															The respondents, Sandoz, Inc. (and several other firms), tried
+to market a generic version of Copaxone. Teva sued Sandoz for
+patent infringement. 810 F.Â Supp. 2d 578, 581 (SDNY
+2011). Sandoz defended the suit by arguing that the patent was
+invalid. Ibid. The Patent Act requires that a claim
+â€œparticularly poin[t] out and distinctly clai[m]
+the subject matter which the applicant regards as his
+invention.â€35 U.Â S.Â C.
+Â§112 Â¶2 (2006 ed.); see Nautilus,
+Inc. v. Biosig Instruments, Inc., 572 U.Â S.
+___, ___, n. 1 (2014) (slip op., at 3, n. 1)). The phrase
+â€œmolecular weight of 5 to 9
+kilodaltons,â€ said Sandoz, did not satisfy this
+requirement.
+
+															The reason that the phrase is fatally indefinite, Sandoz argued,
+is that, in the context of this patent claim, the term
+â€œmolecular weightâ€ might mean any
+one of three different things. The phrase might refer (1) to
+molecular weight as calculated by the weight of the molecule that
+is most prevalent in the mix that makes up copolymer-1. (The
+scientific term for molecular weight so calculated is, we are told,
+â€œpeak average molecular weight.â€)
+The phrase might refer (2) to molecular weight as calculated by
+taking all the different-sized molecules in the mix that makes up
+copolymer-1 and calculating the average weight, i.e., adding
+up the weight of each molecule and dividing by the number of
+molecules. (The scientific term for molecular weight so calculated
+is, we are told, â€œnumber average molecular
+weight.â€) Or, the phrase might refer (3) to molecular
+weight as calculated by taking all the different-sized molecules in
+the mix that makes up copolymer-1 and calculating their average
+weight while giving heavier molecules a weight-related bonus when
+doing so. (The scientific term for molecular weight so calculated,
+we are told, is â€œweight average molecular
+weight.â€) See 723 F.Â 3d 1363, 1367 (CA Fed.
+2013); App. 124a. In Sandozâ€™s view, since
+Tevaâ€™s patent claim does not say which method of
+calculation should be used, the claimâ€™s phrase
+â€œmolecular weightâ€ is indefinite,
+and the claim fails to satisfy the critical patent law
+requirement.
+
+															The District Court, after taking evidence from experts,
+concluded that the patent claim was sufficiently definite. Among
+other things, it found that in context a skilled artisan would
+understand that the term â€œmolecular
+weightâ€ referred to molecular weight as calculated by
+the first method, i.e., â€œpeak average
+molecular weight.â€ 810 F.Â Supp. 2d, at 596;
+see Nautilus, supra, at ___ (slip op., at 12)
+(â€œ[T]he definiteness inquiry trains on the
+understanding of a skilled artisan at the time of the patent
+applicationâ€). In part for this reason, the District
+Court held the patent valid. 810 F.Â Supp. 2d, at
+596.
+
+															On appeal, the Federal Circuit held to the contrary. It found
+that the term â€œmolecular weightâ€ was
+indefinite. And it consequently held the patent invalid. 723
+F.Â 3d, at 1369. In reaching this conclusion, the
+Federal Circuit reviewed de novo all aspects of the District
+Courtâ€™s claim construction, including the
+District Courtâ€™s determination of subsidiary
+facts. Id., at 1369, 1373; see also Light-ing Ballast
+Control LLC v. Philips Electronics NorthAm. Corp., 744
+F. 3d 1272, 1276â€“1277 (CA Fed. 2014) (en banc)
+(reaffirming de novo review of district court claim
+construction).
+
+															Teva filed a petition for certiorari. And we granted that
+petition. The Federal Circuit reviews the claim construction
+decisions of federal district courts throughout the Nation, and we
+consequently believe it important to clarify the standard of review
+that it must apply when doing so.
+
+															II
+
+															A
+
+															Federal Rule of Civil Procedure 52(a)(6) states that a court of
+appeals â€œmust not .Â .Â .
+set asideâ€ a district courtâ€™s
+â€œ[fÂ ]indings of factâ€
+unless they are â€œclearly erroneous.â€
+In our view, this rule and the standard it sets forth must apply
+when a court of appeals reviews a district
+courtâ€™s resolution of subsidiary factual matters
+made in the course of its construction of a patent claim. We have
+made clear that the Rule sets forth a â€œclear
+command.â€ Anderson v. Bessemer City,470
+U.Â S. 564,574 (1985). â€œIt does not
+make exceptions or purport to exclude certain categories of factual
+findings from the obligation of a court of appeals to accept a
+district courtâ€™s findings unless clearly
+erroneous.â€ Pullman-Standard v. Swint,456
+U. S. 273,287 (1982). Accordingly, the Rule applies to both
+subsidiary and ultimate facts. Ibid. And we have said that,
+when reviewing the findings of a
+â€œÂ â€˜district court
+sitting without a jury, appellate courts must constantly have in
+mind that their function is not to decide factual issues
+deÂ novo.â€™Â â€
+Anderson, supra, at 573 (quoting Zenith Radio
+Corp. v. Hazeltine Research, Inc.,395 U.Â S.
+100,123 (1969)).
+
+															Even if exceptions to the Rule were permissible, we cannot find
+any convincing ground for creating an exception to that Rule here.
+The Rules Advisory Committee pointed out that, in general,
+exceptions â€œwould tend to undermine the
+legitimacy of the district courts .Â .Â . ,
+multiply appeals .Â .Â . , and needlessly
+reallocate judicial author-ity.â€ Advisory
+Committeeâ€™s 1985 Note on subd. (a) of Fed. Rule
+Civ. Proc. 52, 28 U.Â S.Â C. App., pp.
+908â€“909; see also Anderson, supra,
+at 574â€“575 (de novo review of fac-tual
+findings â€œwould very likely contribute only
+negligiblyâ€ to accuracy â€œat a huge
+cost in diversion of judicialresourcesâ€).
+
+															Our opinion in Markman neither created, nor argued for,
+an exception to Rule 52(a). The question presented in that case was
+a Seventh Amendment question: Should a jury or a judge construe
+patent claims? 517 U.Â S., at 372. We pointed out that
+history provides no clear answer. Id., at 388. The task
+primarily involves the construction of written instruments.
+Id., at 386, 388, 389. And that task is better matched to a
+judgeâ€™s skills. Id., at 388
+(â€œThe construction of written instruments is one
+of those things that judges often do and are likely to do better
+than jurors unburdened by training in exegesisâ€). We
+consequently held that claim construction falls
+â€œexclusively within the province of the
+court,â€ not that of the jury. Id., at 372.
+
+															When describing claim construction we concluded that it was
+proper to treat the ultimate question of the proper construction of
+the patent as a question of law in the way that we treat document
+construction as a question of law. Id., at
+388â€“391. But this does not imply an exception to
+Rule 52(a) for underlying factual disputes. We used the term
+â€œquestion of lawâ€ while pointing out
+that a judge, in construing a patent claim, is engaged in much the
+same task as the judge would be in construing other written
+instruments, such as deeds, contracts, or tariffs. Id., at
+384, 386, 388, 389; see also Motion Picture Patents Co. v.
+Universal Film Mfg. Co.,243 U.Â S. 502,510 (1917)
+(patent claims are â€œaptly likened to the
+description in a deed, which sets the bounds to the grant which it
+containsâ€); Goodyear Dental Vulcanite Co. v.
+Davis,102 U.Â S. 222,227 (1880) (analogizing
+patent construction to the construction of other written
+instruments like contracts). Construction of written instruments
+often presents a â€œquestion solely of
+law,â€ at least when the words in those instruments are
+â€œused in their ordinary meaning.â€
+Great Northern R. Co. v. Merchants Elevator Co., 259
+U. Â S. 285, 291 (1922). But sometimes, say when a
+written instrument uses â€œtechnical words or
+phrases not commonly understood,â€ id., at 292,
+those words may give rise to a factual dispute. If so, extrinsic
+evidence may help to â€œestablish a usage of trade
+or locality.â€ Ibid. And in that circumstance,
+the â€œdetermination of the matter of
+factâ€ will â€œpreced[e]â€
+the â€œfunction of construction.â€
+Ibid.; see also 12 R. Lord, Williston on Contracts
+Â§Â§34:1, p.Â 2, 34:19, p. 174
+(4th ed. 2012) (In contract interpretation, the existence of a
+â€œusageâ€â€”a
+â€œpractice or methodâ€ in the relevant
+industryâ€”â€œis a question of
+factâ€ (internal quotation marks omitted)). This factual
+determination, like all other factual determinations, must be
+reviewed for clear error. See Pullman-Standard, supra
+at 287 (The Rule does not â€œexclude certain
+categories of factual findingsâ€ and applies to both
+â€œsubsidiaryâ€ and
+â€œultimateâ€ facts (internal quotation
+marks omitted)).
+
+															Accordingly, when we held in Markman that the ultimate
+question of claim construction is for the judge and not the jury,
+we did not create an exception from the ordinary rule governing
+appellate review of factual matters. Markman no more creates
+an exception to Rule 52(a) than would a holding that judges, not
+juries, determine equit-able claims, such as requests for
+injunctions. A conclusion that an issue is for the judge does not
+indicate that Rule 52(a) is inapplicable. See Fed. Rule Civ. Proc.
+52 (setting the standard of review for
+â€œ[Factual] Findings and Conclusions by the
+Courtâ€ (emphasis added)).
+
+															While we held in Markman that the ultimate issue of the
+proper construction of a claim should be treated as a question of
+law, we also recognized that in patent construction, subsidiary
+factfinding is sometimes necessary. Indeed, we referred to claim
+construction as a practice with â€œevidentiary
+underpinnings,â€ a practice that
+â€œfalls somewhere between a pristine legal
+standard and a simple historical fact.â€ 517
+U.Â S., at 378, 388, 390. We added that sometimes courts
+may have to make â€œcredibility
+judgmentsâ€ about witnesses. Id., at 389. In
+other words, we recognized that courts may have to resolve
+subsidiary factual disputes. And, as explained above, the Rule
+requires appellate courts to review all such subsidiary factual
+findings under the â€œclearly
+erroneousâ€ standard.
+
+															Precedent further supports application of the
+â€œclearly erroneousâ€ standard. Before
+the creation of the Federal Circuit, the Second Circuit explained
+that in claim construction, the subsidiary
+â€œquestion .Â .Â . of how
+the art un-derstood the term .Â .Â . was
+plainly a question of fact; and unless the [district
+courtâ€™s] finding was â€˜clearly
+erroneous,â€™ we are to takeâ€ it
+â€œas controlling.â€ Harries v.
+Air King Products, Co., 183 F. 2d 158, 164 (CA2 1950) (L.
+Hand, C.Â J.). We have said the same as to subsidiary
+factual findings concerning other patent law inquiries, including
+â€œobviousness.â€ Dennison Mfg.
+Co. v. Panduit Corp.,475 U.Â S. 809,811
+(1986) (per curiam) (â€œsubsidiary
+determinations of the District Courtâ€ subject to Rule
+52(a)â€™s clear error standard).
+
+															Finally, practical considerations favor clear error review. We
+have previously pointed out that clear error review is
+â€œparticularlyâ€ important where
+patent law is at issue because patent law is â€œa
+field where so much depends upon familiarity with specific
+scientific problems and principles not usually contained in the
+general storehouse of knowledge and experience.â€
+Graver Tank & Mfg. Co. v. Linde Air Products
+Co.,339 U.Â S. 605,610 (1950). A district court
+judge who has presided over, and listened to, the entirety of a
+proceeding has a comparatively greater opportunity to gain that
+familiarity than an appeals court judge who must read a written
+transcript or perhaps just those portions to which the parties have
+referred. Cf. Lighting Ballast, 744 F. 3d, at 1311
+(Oâ€™Malley, J., dissenting) (Federal Circuit
+judges â€œlack the tools that district courts have
+available to resolve factual disputes fairly and
+accurately,â€ such as questioning the experts, examining
+the invention in operation, or appointing a court-appointed
+expert); Anderson, 470 U.Â S., at 574
+(â€œThe trial judgeâ€™s major
+role is the determination of fact, and with experience in
+fulfilling that role comes expertiseâ€).
+
+															B
+
+															Sandoz argues that claim construction mostly consists of
+construing a set of written documents that do not give rise to
+subsidiary factual disputes. Tr. of Oral Arg. 39. It adds that
+separating â€œfactualâ€ from
+â€œlegalâ€ questions is often
+difficult. And Sandoz, like the Federal Circuit itself, argues that
+it is simpler for that appellate court to review the entirety of
+the district courtâ€™s claim construction de
+novo rather than to apply two separate standards. Id.,
+at 38; see also Lighting Ballast, supra, at 1284
+(criticizing clear error review in part because of the purportedly
+difficult task of â€œdisentanglingâ€
+fact from law).
+
+															But even were we free to ignore the Federal Rule (which we are
+not), we would not find this argument convincing. Courts of appeals
+have long found it possible to separate factual from legal matters.
+See, e.g., First Options of Chicago, Inc. v.
+Kaplan,514 U.Â S. 938â€“948
+(1995) (review of factual findings for clear error and legal
+conclusions deÂ novo is the
+â€œordinaryâ€ standard for courts of
+appeals). At the same time, the Federal
+Circuitâ€™s efforts to treat factual findings and
+legal conclusions similarly have brought with them their own
+complexities. See e.g., Cybor Corp. v. FAS
+Technologies, Inc., 138 F. 3d 1448, 1454 (CA Fed. 1998) (en
+banc) (claim construction does not involve
+â€œfactual evidentiary findingsâ€
+(citation and internal quotation marks omitted)); Lighting
+Ballast, supra, at 1284 (claim construction has
+â€œarguably factual aspectsâ€); Dow
+Jones & Co. v. Ablaise Ltd., 606 F.Â 3d
+1338, 1344â€“1345 (CA Fed. 2010)
+(â€œ[T]his court,â€ while reviewing
+claim construction without deference, â€œtakes
+into account the views of the trial judgeâ€); Nazomi
+Communications Inc., v. Arm Holdings, PLC, 403 F. 3d
+1364, 1371 (CA Fed. 2005) (â€œ[C]ommon sense
+dictates that the trial judgeâ€™s view will carry
+weightâ€ (citation and internal quotation marks
+omitted)); Lightning Ballast, supra, at 1294 (Lourie, J.,
+concurring) (we should â€œrarelyâ€
+overturn district courtâ€™s true subsidiary
+factfinding; â€œwe should, and do, give proper
+informal deference to the work of judges of a subordinate
+tribunalâ€); Cybor, supra, at 1480
+(opinion of Newman, J.) (â€œBy continuing the
+fiction that there are no facts to be found in claim
+interpretations, we confound rather than ease the litigation
+processâ€); see also Anderson, supra, at
+575 (the parties â€œhave already been forced to
+concentrate their energies and resources on persuading the trial
+judge that their account of the facts is the correct one; requiring
+them to persuade three more judges at the appellate level is
+requiring too muchâ€); Brief for Peter S. Menell et al.
+as Amici Curiae 5 (Federal Circuit overturns district court
+claim construction at unusually high rate).
+
+															Finally, the Circuit feared that â€œclear
+errorâ€ review would bring about less uniformity.
+Lighting Ballast, supra, at 1280. Neither the Circuit
+nor Sandoz, however, has shown that (or explained why) divergent
+claim construction stemming from divergent findings of fact (on
+subsidiary matters) should occur more than occasionally. After all,
+the Federal Circuit will continue to review de novo the
+district courtâ€™s ultimate interpretation of the
+patent claims. And the attorneys will no doubt bring cases
+construing the same claim to the attention of the trial judge;
+those prior cases will sometimes be binding because of issue
+preclusion, see Markman, 517 U.Â S., at 391, and
+sometimes will serve as persuasive authority. Moreover, it is
+always possible to consolidate for discovery different cases that
+involve construction of the same claims. And, as we said in
+Markman, subsidiary factfinding is unlikely to loom large in
+the universe of litigated claim construction. Id., at
+389â€“390.
+
+															C
+
+															The dissent argues that claim construction does not involve any
+â€œfactfinding,â€ or, if it does, claim
+construction factfinding is akin to the factfinding that underlies
+our interpretation of statutes. Post, at 1,
+5â€“7 (opinion of Thomas, J.). Its first, broader
+contention runs contrary to our recognition in Markman that
+claim construction has â€œevidentiary
+underpinningsâ€ and that courts construing patent claims
+must sometimes make â€œcredibility
+judgmentsâ€ about witnesses. 517 U.Â S., at
+389â€“390. Indeed, as discussed in Part III,
+infra, this case provides a perfect example of the
+factfinding that sometimes underlies claim construction: The
+parties here presented the District Court with competing
+fact-related claims by different experts, and the District Court
+resolved the issues of fact that divided those experts.
+
+															The dissentâ€™s contention also runs contrary
+to Sandozâ€™s concession at oral argument that
+claim construction will sometimes require subsidiary factfinding.
+Tr. of Oral Arg. 33â€“34,
+38â€“40. It is in tension with our interpretation
+of related areas of patent law, such as the interpretation of
+â€œobviousness,â€ which we have said
+involves subsidiary factfinding subject to Rule
+52(a)â€™s clear error review. See Dennison,
+475 U. S., at 811. And it fights the question presented in this
+case, which assumes the existence of such factfinding. See
+Pet. for Cert. i (whether â€œa district
+courtâ€™s factual finding in support of its
+construction of a patent claim term may be reviewed
+deÂ novo, . . . or only for clear
+errorâ€).
+
+															Neither do we find factfinding in this context sufficiently
+similar to the factfinding that underlies statutory interpretation.
+Statutes, in general, address themselves to the general public;
+patent claims concern a small portion of that public. Statutes
+typically (though not always) rest upon congressional consideration
+of general facts related to a reasonably broad set of social
+circumstances; patents typically (though not always) rest upon
+consideration by a few private parties, experts, and administrators
+of more narrowly circumscribed facts related to specific technical
+matters. The public, and often an adversarial public, typically
+considers and discusses the relevant general facts before Congress
+enacts a statute; only private parties, experts, and administrators
+likely consider the relevant technical facts before the award of a
+patent. Given these differences, it is not surprising that this
+Court has never previously compared patent claim construction in
+any here relevant way to statutory construction. As discussed
+supra, at 5, however, the Court has repeatedly compared
+patent claim construction to the construction of other written
+instruments such as deeds and contracts. See, e.g., Markman,
+supra, at 384, 386, 388, 389; Motion Picture Patent
+Co., 243 U.Â S., at 510; Goodyear, 102
+U.Â S., at 227.
+
+															D
+
+															Now that we have set forth why the Federal Circuit must
+apply clear error review when reviewing subsidiary factfinding in
+patent claim construction, it is necessary to explain how
+the rule must be applied in that context. We recognize that a
+district courtâ€™s construction of a patent claim,
+like a district courtâ€™s interpretation of a
+written instrument, often requires the judge only to examine and to
+construe the documentâ€™s words without requiring
+the judge to resolve any underlying factual disputes. As all
+parties agree, when the district court reviews only evidence
+intrinsic to the patent (the patent claims and specifications,
+along with the patentâ€™s prosecution history),
+the judgeâ€™s determination will amount solely to
+a determination of law, and the Court of Appeals will review that
+construction de novo. See Brief for Petitioners 27, Re-ply
+Brief 16; Brief for Respondents 43; see also Brief for United
+States as Amicus Curiae 12â€“13.
+
+															In some cases, however, the district court will need to look
+beyond the patentâ€™s intrinsic evidence and to
+consult extrinsic evidence in order to understand, for example, the
+background science or the meaning of a term in the relevant art
+during the relevant time period. See, e.g., Seymour v.
+Osborne, 11 Wall. 516, 546 (1871) (a patent may be
+â€œso interspersed with technical terms and terms
+of art that the testimony of scientific witnesses is indispensable
+to a correct understanding of its meaningâ€). In cases
+where those subsidiary facts are in dispute, courts will need to
+make subsidiary factual findings about that extrinsic evidence.
+These are the â€œevidentiary
+underpinningsâ€ of claim construction that we discussed
+in Markman, and this subsidiary factfinding must be reviewed
+for clear error on appeal.
+
+															For example, if a district court resolves a dispute between
+experts and makes a factual finding that, in general, a certain
+term of art had a particular meaning to a person of ordinary skill
+in the art at the time of the invention, the district court must
+then conduct a legal analysis: whether a skilled artisan would
+ascribe that same meaning to that term in the context of the
+specific patent claim under review. That is because
+â€œ[e]xperts may be examined to explain terms of
+art, and the state of the art, at any given time,â€ but
+they cannot be used to prove â€œthe proper or
+legal construction of any instrument of writing.â€
+Winans v. New York & Erie R. Co., 21 How. 88,
+100â€“101 (1859); see also Markman,
+supra, at 388
+(â€œÂ â€˜Where
+technical terms are used, or where the qualities of substances
+.Â .Â . or any similar data necessary to the
+comprehension of the language of the patent are unknown to the
+judge, the testimony of witnesses may be received upon these
+subjects, and any other means of information be employed. But in
+the actual interpretation of the patent the court proceeds upon its
+own responsibility, as an arbiter of the law, giving to the patent
+its true and final character and
+forceâ€™Â â€ (quoting 2
+W. Robinson, Law of Patents Â§732, pp.
+482â€“483 (1890); emphasis in original)).
+
+															Accordingly, the question we have answered here concerns review
+of the district courtâ€™s resolution of a
+subsidiary factual dispute that helps that court determine the
+proper interpretation of the written patent claim. The district
+judge, after deciding the factual dispute, will then interpret the
+patent claim in light of the facts as he has found them. This
+ultimate interpretation is a legal conclusion. The appellate court
+can still review the district courtâ€™s ultimate
+construction of the claim de novo. But, to overturn the
+judgeâ€™s resolution of an underlying factual
+dispute, the Court of Appeals must find that the judge, in respect
+to those factual findings, has made a clear error. Fed. Rule Civ.
+Proc. 52(a)(6).
+
+															In some instances, a factual finding will play only a small role
+in a judgeâ€™s ultimate legal conclusion about the
+meaning of the patent term. But in some instances, a factual
+finding may be close to dispositive of the ultimate legal question
+of the proper meaning of the term in the context of the patent.
+Nonetheless, the ultimate question of construction will remain a
+legal question. Simply because a factual finding may be nearly
+dispositive does not render the subsidiary question a legal one.
+â€œ[A]n issue does not lose its factual character
+merely because its resolution is dispositive of the
+ultimateâ€ legal question. Miller v.
+Fenton,474 U.Â S. 104,113 (1985). It is analogous
+to a judge (sitting without a jury) deciding whether a defendant
+gave a confession voluntarily. The answer to the legal question
+about the voluntariness of the confes-sion may turn upon the answer
+to a subsidiary factual question, say â€œwhether
+in fact the police engaged in the intimidation tactics alleged by
+the defendant.â€ Id., at 112. An appellate court
+will review the trial judgeâ€™s factual
+determination about the alleged intimidation deferentially (though,
+after reviewing the factual findings, it will review a
+judgeâ€™s ultimate determination of voluntariness
+de novo). See id., at 112â€“118. An
+appellate court similarly should review for clear error those
+factual findings that underlie a district
+courtâ€™s claim construction.
+
+															III
+
+															We can illustrate our holding by considering an instance in
+which Teva, with the support of the Solicitor General,
+argues that the Federal Circuit wrongly reviewed the District
+Courtâ€™s factual finding de novo. See
+Brief for Petitioners 54â€“56; Brief for United
+States as Amicus Curiae 31â€“32. Recall
+that Tevaâ€™s patent claim specifies an active
+ingredient with a â€œmolecular weight of about 5
+to 9 kilodaltons.â€ Recall Sandozâ€™s
+basic argument, namely that the term â€œmolecular
+weightâ€ is indefinite or ambiguous. The term might
+refer to the weight of the most numerous molecule, it might refer
+to weight as calculated by the average weight of all molecules, or
+it might refer to weight as calculated by an average in which
+heavier molecules count for more. The claim, Sandoz argues, does
+not tell us which way we should calculate weight. See Part I,
+supra.
+
+															To illustrate, imagine we have a sample of copolymer-1 (the
+active ingredient) made up of 10 molecules: 4 weigh 6 kilodaltons
+each, 3 weigh 8 kilodaltons each, and 3 weigh 9 kilodaltons each.
+Using the first method of calculation, the
+â€œmolecular weightâ€ would be 6
+kilodaltons, the weight of the most prevalent molecule. Using the
+second method, the molecular weight would be 7.5 (total weight, 75,
+di-vided by the number of molecules, 10). Using the third method,
+the molecular weight would be more than 8, depend-ing upon how much
+extra weight we gave to the heavier molecules.
+
+															Teva argued in the District Court that the term
+â€œmolecular weightâ€ in the patent
+meant molecular weight calculated in the first way (the weight of
+the most prevalent molecule, or peak average molecular weight).
+Sandoz, however, argued that figure 1 of the patent showed that
+Teva could not be right. 810 F.Â Supp. 2d, at 590. (We
+have set forth figure 1 in the Appendix, infra). That
+figure, said Sandoz, helped to show that the patent term did
+not refer to the first method of calculation. Figure 1 shows
+how the weights of a sampleâ€™s molecules were
+distributed in three different samples. The curves indicate the
+number of molecules of each weight that were present in each of the
+three. For example, the figureâ€™s legend says
+that the first sampleâ€™s
+â€œmolecular weightâ€ is 7.7. According
+to Teva, that should mean that molecules weighing 7.7 kilodaltons
+were the most prevalent molecules in the sample. But, look at the
+curve, said Sandoz. It shows that the most prevalent molecule
+weighed, not 7.7 kilodaltons, but slightly less than 7.7 (about
+6.8) kilodaltons. See App. 138aâ€“139a. After all,
+the peak of the first molecular weight distribution curve
+(the solid curve in the figure) is not at precisely 7.7
+kilodaltons, but at a point just before 7.7. Thus, argued Sandoz,
+the figure shows that the patent claim term
+â€œmolecular weightâ€ did not mean
+molecular weight calculated by the first method. It must mean
+something else. It is indefinite. 810 F.Â Supp. 2d, at
+590.
+
+															The District Court did not accept Sandozâ€™s
+argument. Tevaâ€™s expert testified that a skilled
+artisan would understand that converting data from a chromatogram
+to molecular weight distribution curves like those in figure 1
+would cause the peak on each curve to shift slightly; this could
+explain the difference between the value indicated by the peak of
+the curve (about 6.8) and the value in the
+figureâ€™s legend (7.7). App.
+138aâ€“139a. Sandozâ€™s expert
+testified that no such shift would occur. App.
+375aâ€“376a. The District Court credited
+Tevaâ€™s expertâ€™s account,
+thereby rejecting Sandozâ€™s
+expertâ€™s explanation. 810 F.Â Supp.
+2d, at 589; Brief for Respondents 61. The District
+Courtâ€™s finding about this matter was a factual
+findingâ€”about how a skilled artisan would
+understand the way in which a curve created from chromatogram data
+reflects molecular weights. Based on that factual finding, the
+District Court reached the legal conclusion that figure 1 did not
+undermine Tevaâ€™s argument that molecular weight
+referred to the first method of calculation (peak average molecular
+weight). 810 F.Â Supp. 2d, at
+590â€“591.
+
+															When the Federal Circuit reviewed the District
+Courtâ€™s decision, it recognized that the peak of
+the curve did not match the 7.7 kilodaltons listed in the legend of
+figure 1. 723 F.Â 3d, at 1369. But the Federal Circuit
+did not accept Tevaâ€™s
+expertâ€™s explanation as to how a skilled artisan
+would expect the peaks of the curves to shift. And it failed to
+accept that explanation without finding that the District
+Courtâ€™s contrary determination was
+â€œclearly erroneous.â€ See
+ibid. The Federal Circuit should have accepted the District
+Courtâ€™s finding unless it was
+â€œclearly erroneous.â€ Our holding
+today makes clear that, in failing to do so, the Federal Circuit
+was wrong.
+
+															Teva claims that there are two additional instances in which the
+Federal Circuit rejected the District Courtâ€™s
+factual findings without concluding that they were clearly
+erroneous. We leave these matters for the Federal Circuit to
+consider on remand in light of todayâ€™s
+opinion.
+
+															We vacate the Federal Circuitâ€™s judgment, and
+we remand the case for further proceedings consistent with this
+opinion.
+
+															It is so ordered.
+
+															APPENDIX
+
+															FIG. 1 (with minor additions to emphasize that the peak of the
+solid curve does not correspond precisely to 7.7kDa)
+
+													

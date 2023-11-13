@@ -1,0 +1,454 @@
+::SCDB_caseID:: 2012-031
+::decision_cite:: 569 U.S. 27 (2013)
+::decision_name::  Comcast Corp. v. Behrend
+::decision_year:: 2013
+::opinion_author:: Ginsburg
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 11–864
+
+															_________________
+
+															COMCAST CORPORATION, et al., PETITIONERS
+v. CAROLINE BEHREND et al.
+
+															on writ of certiorari to the united states
+court of appeals for the third circuit
+
+															[March 27, 2013]
+
+															
+
+															Justice Ginsburg and Justice Breyer, with whom
+Justice Sotomayor and Justice Kagan join, dissenting.
+
+															Today the Court reaches out to decide a case
+hardly fit for our consideration. On both procedural and
+substantive grounds, we dissent.
+
+															I
+
+															This case comes to the Court infected by our
+misguided reformulation of the question presented. For that reason
+alone, we would dismiss the writ of certiorari as improvidently
+granted.
+
+															Comcast sought review of the following question:
+“[W]hether a district court may certify a class action
+without resolving ‘merits arguments’ that bear on
+[Federal Rule of Civil Procedure] 23’s prerequisites for
+certifica-tion, including whether purportedly common issues
+predominate over individual ones under Rule 23(b)(3).” Pet.
+for Cert. i. We granted review of a different question:
+“Whether a district court may certify a class action without
+resolving whether the plaintiff class has introduced admissible
+evidence, including expert testimony, to show that the case is
+susceptible to awarding damages on a class-wide basis.” 567
+U. S. ___ (2012) (emphasis added).
+
+															Our rephrasing shifted the focus of the dispute
+from the District Court’s Rule 23(b)(3) analysis to its
+attention (or lack thereof) to the admissibility of expert
+testimony. The parties, responsively, devoted much of their
+briefing to the question whether the standards for admissibility of
+expert evidence set out in Federal Rule of Evidence 702 and
+Daubert v. Merrell Dow Pharmaceuticals, Inc.,
+509 U.S.
+579 (1993), apply in class certification proceedings. See Brief
+for Petitioners 35–49; Brief for Respondents 24–37.
+Indeed, respondents confirmed at oral argument that they understood
+our rewritten question to center on admissibility, not Rule
+23(b)(3). See, e.g., Tr. of Oral Arg. 25.
+
+															As it turns out, our reformulated question was
+inapt. To preserve a claim of error in the admission of evidence, a
+party must timely object to or move to strike the evidence. Fed.
+Rule Evid. 103(a)(1). In the months preceding the District
+Court’s class certification order, Comcast did not object to
+the admission of Dr. McClave’s damages model under Rule 702
+or Daubert. Nor did Comcast move to strike his testimony and
+expert report. Consequently, Comcast forfeited any objection to the
+admission of Dr. McClave’s model at the certification stage.
+At this late date, Comcast may no longer argue that
+respondents’ damages evidence was inadmissible.
+
+															Comcast’s forfeiture of the question on
+which we granted review is reason enough to dismiss the writ as
+improvidently granted. See Rogers v. United States,
+522 U.S.
+252, 259 (1998) (O’Connor, J., concurring in result)
+(“[W]e ought not to decide the question if it has not been
+cleanly presented.”); The Monrosa v. Carbon Black
+Export, Inc., 359 U.S.
+180, 183 (1959) (dismissal appropriate in light of
+“circumstances . . . not fully apprehended at the time
+certiorari was granted” (internal quotation marks omitted)).
+The Court, however, elects to evaluate whether re-spondents
+“failed to show that the case is susceptible to awarding
+damages on a class-wide basis.” Ante, at 5, n. 4
+(internal quotation marks omitted). To justify this second revision
+of the question presented, the Court observes that Comcast
+“argued below, and continue[s] to argue here, that
+certification was improper because respondents had failed to
+establish that damages could be measured on a classwide
+basis.” Ibid. And so Comcast did, in addition
+to endeavoring to address the question on which we granted review.
+By treating the first part of our reformulated question as though
+it did not exist, the Court is hardly fair to respondents.
+
+															Abandoning the question we instructed the
+parties to brief does “not reflect well on the processes of
+the Court.” Redrup v. New York, 386 U.S.
+767, 772 (1967) (Harlan, J., dissenting). Taking their cue from
+our order, respondents did not train their energies on defending
+the District Court’s finding of predominance in their
+briefing or at oral argument. The Court’s newly revised
+question, focused on predominance, phrased only after briefing was
+done, left respondents without an unclouded opportunity to air the
+issue the Court today decides against them. And by resolving a
+complex and fact-intensive question without the benefit of full
+briefing, the Court invites the error into which it has fallen. See
+infra, at 5–11.
+
+															II
+
+															While the Court’s decision to review the
+merits of the District Court’s certification order is both
+unwise and un-fair to respondents, the opinion breaks no new ground
+on the standard for certifying a class action under Federal Rule of
+Civil Procedure 23(b)(3). In particular, the decision should not be
+read to require, as a prerequisite to certification, that damages
+attributable to a classwide injury be measurable
+“ ‘on a class-wide basis.’ ” See
+ante, at 2–3 (acknowledging Court’s dependence
+on the absence of contest on the matter in this case); Tr. of Oral
+Arg. 41.
+
+															To gain class-action certification under Rule
+23(b)(3), the named plaintiff must demonstrate, and the District
+Court must find, “that the questions of law or fact common to
+class members predominate over any questions affecting only
+individual members.” This predominance requirement is meant
+to “tes[t] whether proposed classes are sufficiently cohesive
+to warrant adjudication by representation,” Amchem
+Products, Inc. v. Windsor, 521 U.S.
+591, 623 (1997), but it scarcely demands commonality as to all
+questions. See 7AA C. Wright, A. Miller, & M. Kane, Federal
+Practice and Procedure §1778, p. 121 (3d ed. 2005)
+(hereinafter Wright, Miller, & Kane). In particular, when
+adjudication of questions of liability common to the class will
+achieve economies of time and expense, the predominance standard is
+generally satisfied even if damages are not provable in the
+aggregate. See Advisory Committee’s 1966 Notes on Fed. Rule
+Civ. Proc. 23, 28 U. S. C. App., p. 141 (“[A] fraud
+perpetrated on numerous persons by the use of similar
+misrepresentations may be an appealing situation for a class
+action, and it may remain so despite the need, if liability is
+found, for separate determination of the damages suffered by
+individuals within the class.”); 7AA Wright, Miller, &
+Kane §1781, at 235–237.[1]*
+
+															Recognition that individual damages calculations
+do not preclude class certification under Rule 23(b)(3) is well
+nigh universal. See 2 W. Rubenstein, Newberg on Class Actions
+§4:54, p. 205 (5th ed. 2012) (ordinarily, “individual
+damage[s] calculations should not scuttle class certification under
+Rule 23(b)(3)”). Legions of appellate decisions across a
+range of substantive claims are illustrative. See, e.g.,
+Tardiff v. Knox County, 
+365 F.3d 1, 6 (CA1 2004) ( Fourth Amendment); Chiang v.
+Veneman, 
+385 F.3d 256, 273 (CA3 2004) (Equal Credit Opportunity Act);
+Bertulli v. Independent Assn. of Continental Pilots,
+
+242 F.3d 290, 298 (CA5 2001) (Labor-Management Reporting and
+Disclosure Act and Railway Labor Act); Beattie v.
+CenturyTel, Inc., 511 F.3d 554, 564–566 (CA6 2007)
+(Federal Communications Act); Arreola v. Godinez, 546
+F.3d 788, 801 (CA7 2008) ( Eighth Amendment). Antitrust cases,
+which typically involve common allegations of antitrust violation,
+antitrust impact, and the fact of damages, are classic examples.
+See In re Visa Check/MasterMoney Antitrust Litigation,
+
+280 F.3d 124, 139–140 (CA2 2001). See also 2A P. Areeda,
+H. Hovenkamp, R. Blair, & C. Durrance, Antitrust Law ¶331,
+p. 56 (3d ed. 2007) (hereinafter Areeda & Hovenkamp); 6 A.
+Conte & H. Newberg, Newberg on Class Actions §18:27, p. 91
+(4th ed. 2002). As this Court has rightly observed,
+“[p]redominance is a test readily met” in actions
+alleging “violations of the antitrust laws.”
+Amchem, 521 U. S., at 625.
+
+															The oddity of this case, in which the need to
+prove damages on a classwide basis through a common methodology was
+never challenged by respondents, see Brief for Plaintiffs-Appellees
+in No. 10–2865 (CA3), pp. 39–40, is a further reason to
+dismiss the writ as improvidently granted. The Court’s ruling
+is good for this day and case only. In the mine run of cases, it
+remains the “black letter rule” that a class may obtain
+certification under Rule 23(b)(3) when liability questions common
+to the class predominate over damages questions unique to class
+members. 2 Rubenstein, supra, §4:54, at 208.
+
+															III
+
+															Incautiously entering the fray at this
+interlocutory stage, the Court sets forth a profoundly mistaken
+view of antitrust law. And in doing so, it relies on its own
+version of the facts, a version inconsistent with factual findings
+made by the District Court and affirmed by the Court of
+Appeals.
+
+															A
+
+															To understand the antitrust problem, some
+(simplified) background discussion is necessary. Plaintiffs below,
+re-spondents here, alleged that Comcast violated §§1 and
+2 of the Sherman Act. See 15 U. S. C. §§1, 2.
+For present purposes, the §2 claim provides the better
+illustration. A firm is guilty of monopolization under §2 if
+the plaintiff proves (1) “the possession of monopoly
+power in the relevant market” and (2) “the willful
+acquisition or maintenance of that power[,] as distinguished from
+growth or development as a consequence of a superior product,
+business acumen, or historic accident.” United States
+v. Grinnell Corp., 384 U.S.
+563, 570–571 (1966). A private plaintiff seeking damages
+must also show that (3) the monopolization caused
+“injur[y].” 15 U. S. C. §15. We have
+said that antitrust injuries must be “of the type the
+antitrust laws were intended to prevent and that flo[w] from that
+which makes defendants’ acts unlawful.” Atlantic
+Richfield Co. v. USA Petroleum Co., 495 U.S.
+328, 334 (1990) (quoting Brunswick Corp. v. Pueblo
+Bowl-O-Mat, Inc., 429 U.S.
+477, 489 (1977)). See 2A Areeda & Ho-venkamp ¶391a, at
+320 (To prove antitrust injury, “[a] private plaintiff must
+identify the economic rationale for a business practice’s
+illegality under the antitrust laws and show that its harm flows
+from whatever it is that makes the practice unlawful.”).
+
+															As plaintiffs below, respondents attempted to
+meet these requirements by showing that (1) Comcast obtained a 60%
+or greater share of the Philadelphia market, and that its share
+provides it with monopoly power; (2) Comcast acquired its share
+through exclusionary conduct consisting of a series of mergers with
+competitors and “swaps” of customers and locations; and
+(3) Comcast consequently injured respondents by charging them
+supra-competitive prices.
+
+															If, as respondents contend, Philadelphia is a
+separate well-defined market, and the alleged exclusionary conduct
+permitted Comcast to obtain a market share of at least 60%, then
+proving the §2 violation may not be arduous. As a point of
+comparison, the government considers a market shared by four firms,
+each of which has 25% market share, to be “highly
+concentrated.” Dept. of Justice & Federal Trade
+Commission, Horizontal Merger Guidelines §5.3, p. 19 (2010). A
+market, such as the one alleged by respondents, where one
+firm controls 60% is far worse. See id., §5.3, at
+18–19, and n. 9 (using a concentration index that
+determines a market’s concentration level by summing the
+squares of each firm’s market share, one firm with 100%
+yielding 10,000, five firms with 20% each yielding 2000, while a
+market where one firm accounts for 60% yields an index number of
+at least 3,600). The Guidelines, and any standard antitrust
+treatise, explain why firms in highly concentrated markets normally
+have the power to raise prices significantly above competitive
+levels. See, e.g., 2B Areeda & Hovenkamp ¶503, at
+115.
+
+															B
+
+															So far there is agreement. But consider the
+last matter respondents must prove: Can they show that Comcast
+injured them by charging higher prices? After all, a firm with
+monopoly power will not necessarily exercise that power by charging
+higher prices. It could instead act less competitively in other
+ways, such as by leading the quiet life. See J. Hicks, Annual
+Survey of Economic Theory: The Theory of Monopoly, 3 Econometrica
+1, 8 (1935) (“The best of all monopoly profits is a quiet
+life.”).
+
+															It is at this point that Dr. McClave’s
+model enters the scene. His model first selects a group of
+comparable outside-Philadelphia “benchmark”
+counties, where Comcast enjoyed a lower market share (and where
+satellite broadcasting accounted for more of the local business).
+Using multiple regression analysis, McClave’s model measures
+the effect of the anticompetitive conduct by comparing the class
+counties to the benchmark counties. The model concludes that the
+prices Philadelphia area consumers would have paid had the
+Philadelphia counties shared the properties of the benchmark
+counties (including a diminished Comcast market share), would have
+been 13.1% lower than those they actually paid. Thus, the model
+provides evidence that Comcast’s anticompetitive conduct,
+which led to a 60% market share, caused the class to suffer
+injuriously higher prices.
+
+															C
+
+															1
+
+															The special antitrust-related difficulty
+present here stems from the manner in which respondents attempted
+to prove their antitrust injuries. They proffered four
+“non-exclusive mechanisms” that allegedly
+“cause[d] the high prices” in the Philadelphia area.
+App. 403a. Those four theories posit that (1) due to
+Comcast’s acquisitions of competitors, customers found it
+more difficult to compare prices; (2) one set of potential
+competitors, namely Direct Broadcast Satellite companies, found it
+more difficult to obtain access to local sports broadcasts and
+consequently decided not to enter the Philadelphia market; (3)
+Comcast’s ability to obtain programming material at lower
+prices permitted it to raise prices; and (4) a number of potential
+competitors (called “overbuilders”), whose presence in
+the market would have limited Comcast’s power to raise
+prices, were ready to enter some parts of the market but decided
+not to do so in light of Comcast’s anticompetitive conduct.
+264 F.R.D. 150, 161–162 (ED Pa. 2010).
+
+															For reasons not here relevant, the District
+Court found the first three theories inapplicable and limited the
+liability-phase proof to the “overbuilder” theory. See
+App. to Pet. for Cert. 192a–193a. It then asked the parties
+to brief whether doing so had any impact on the viability of
+McClave’s model as a measure of classwide damages. See 264
+F. R. D., at 190. After considering the parties’
+arguments, the District Court found that striking the three
+theories “does not impeach Dr. McClave’s damages
+model” because “[a]ny anticompetitive conduct is
+reflected in the [higher Philadelphia] price [which Dr.
+McClave’s model determines], not in the [the model’s]
+selection of the comparison counties, [i.e., the lower-price
+‘benchmark counties’ with which the Philadelphia area
+prices were compared].” Id., at 190–191. The
+court explained that “whether or not we accepted all [four] .
+. . theories . . . is inapposite to Dr. McClave’s methods of
+choosing benchmarks.” Ibid. On appeal, the Third
+Circuit held that this finding was not an abuse of discretion. 655
+F.3d 182, 207 (2011).
+
+															2
+
+															The Court, however, concludes that “the
+model failed to measure damages resulting from the particular
+antitrust injury on which petitioners’ liability in this
+action is premised.” Ante, at 8. To reach this
+conclusion the Court must consider fact-based matters, namely what
+this econometric multiple-regression model is about, what it
+proves, and how it does so. And it must overturn two lower
+courts’ related factual findings to the contrary.
+
+															We are normally “reluctant to disturb
+findings of fact in which two courts below have concurred.”
+United States v. Doe, 465 U.S.
+605, 614 (1984). See also United States v.
+Virginia, 518 U.S.
+515, 589, n. 5 (1996) (Scalia, J., dissenting) (noting
+“our well-settled rule that we will not ‘undertake to
+review concurrent findings of fact by two courts below in the
+absence of a very obvious and exceptional showing of
+error’ ” (quoting Graver Tank & Mfg.
+Co. v. Linde Air Products Co., 336
+U.S. 271, 275 (1949))). Here, the District Court found
+McClave’s econometric model capable of measuring damages on a
+classwide basis, even after striking three of the injury theories.
+264 F. R. D., at 190–191. Contrary to the
+Court’s characterization, see ante, at 8–9,
+n. 5, this was not a legal conclusion about what the model
+proved; it was a factual finding about how the model worked.
+Under our typical practice, we should leave that finding alone.
+
+															In any event, as far as we can tell, the lower
+courts were right. On the basis of the record as we understand it,
+the District Court did not abuse its discretion in finding that
+McClave’s model could measure damages suffered by the
+class—even if the damages were limited to those caused by
+deterred overbuilding. That is because respondents alleged that
+Comcast’s anticompetitive conduct increased Comcast’s
+market share (and market power) by deterring potential entrants, in
+particular, overbuilders, from entering the Philadelphia area
+market. See App. 43a–66a. By showing that this was so,
+respondents’ proof tends to show the same in respect to other
+entrants. The overbuilders’ failure to enter deprives the
+market of the price discipline that their entry would have provided
+in other parts via threat of the overbuilders’ expansion or
+that of others potentially led on by their example. Indeed, in the
+District Court, Comcast argued that the three other theories,
+i.e., the three rejected theories, had no impact on prices.
+See 264 F. R. D., at 166, 176, 180–181. If Comcast
+was right, then the damages McClave’s model found must have
+stemmed exclusively from conduct that deterred new entry, say from
+“overbuilders.” Not surprisingly, the Court offers no
+support at all for its contrary conclusion, namely, that the
+District Court’s finding was “ ‘obvious[ly]
+and exceptional[ly]’ erroneous.” Ante, at
+8–9, n. 5 (quoting Virginia, 518 U. S., at
+589, n. 5 (Scalia, J., dissenting)).
+
+															We are particularly concerned about the matter
+because the Court, in reaching its contrary conclusion, makes broad
+statements about antitrust law that it could not mean to apply in
+other cases. The Court begins with what it calls an
+“unremarkable premise” that respondents could be
+“entitled only to damages resulting from reduced overbuilder
+competition.” Ante, at 7. In most §2
+cases, how-ever, the Court’s starting place would seem
+remarkable, not “unremarkable.”
+
+															Suppose in a different case a plaintiff were to
+prove that Widget, Inc. has obtained, through anticompetitive
+means, a 90% share of the California widget market. Suppose the
+plaintiff also proves that the two small remaining firms—one
+in Ukiah, the other in San Diego—lack the capacity to expand
+their widget output to the point where that pos-sibility could
+deter Widget, Inc. from raising its prices. Suppose further that
+the plaintiff introduces a model that shows California widget
+prices are now twice those in every other State, which, the model
+concludes is (after accounting for other possible reasons) the
+result of lack of competition in the California widget market. Why
+would a court hearing that case restrict damages solely to
+customers in the vicinity of Ukiah and San Diego?
+
+															Like the model in this example, Dr.
+McClave’s model does not purport to show precisely how
+Comcast’s conduct led to higher prices in the Philadelphia
+area. It simply shows that Comcast’s conduct brought
+about higher prices. And it measures the amount of subsequent
+harm.
+
+															*  *  *
+
+															Because the parties did not fully argue the
+question the Court now answers, all Members of the Court may lack a
+complete understanding of the model or the meaning of related
+statements in the record. The need for focused argument is
+particularly strong here where, as we have said, the underlying
+considerations are detailed, technical, and fact-based. The Court
+departs from our ordinary practice, risks inaccurate judicial
+decisionmaking, and is unfair to respondents and the courts below.
+For these rea-sons, we would not disturb the Court of
+Appeals’ judgment and, instead, would dismiss the writ as
+improvidently granted.
+
+Notes
+1
+* A class may be divided
+into subclasses for adjudication of damages. Fed. Rule Civ. Proc.
+23(c)(4)–(5). Or, at the outset, a class may be certified for
+liability purposes only, leaving individual damages calculations to
+subsequent proceedings. See 2 W. Rubenstein, Newberg on Class
+Actions §4:54, pp. 206–208 (5th ed. 2012). Further, a
+certification order may be altered or amended as the case unfolds.
+Rule 23(c)(1)(C).
+
+

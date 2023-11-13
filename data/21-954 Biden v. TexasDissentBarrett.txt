@@ -1,0 +1,263 @@
+::SCDB_caseID:: 2021-069
+::decision_cite:: 21-954
+::decision_name::  Biden v. Texas
+::decision_year:: 2022
+::opinion_author:: Barrett
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–954
+
+															_________________
+
+															JOSEPH R. BIDEN, JR., PRESIDENT OF THE UNITED
+STATES, et al., PETITIONERS v. TEXAS, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[June 30, 2022]
+
+															Justice Barrett, with whom Justice Thomas,
+Justice Alito, and Justice Gorsuch join as to all but the first
+sentence, dissenting.
+
+															I agree with the Court’s analysis of the
+merits—but not with its decision to reach them. The lower
+courts in this case concluded that 8 U. S. C.
+§1252(f )(1), a provision of the Immigration and
+Nationality Act sharply limiting federal courts’
+“jurisdiction or authority to enjoin or restrain the
+operation of ” certain immigration laws, did not present
+a jurisdictional bar. Just two weeks ago, however, we repudiated
+their reasoning in Garland v. Aleman Gonzalez, 596
+U. S. ___ (2022). Because we are a court of review and not
+first view, I would vacate and remand for the lower courts to
+reconsider their assertion of jurisdiction in light of Aleman
+Gonzalez.
+
+															*  *  *
+
+															Section 1252(f )(1) provides that
+“no court (other than the Supreme Court) shall have
+jurisdiction or authority to enjoin or restrain the operation
+of ” specified immigration provisions, except as applied
+to “an individual alien against whom proceedings under [those
+provisions] have been initiated.” Some lower courts have
+narrowly interpreted this provision, holding that it does not bar
+relief that a plaintiff frames as “requir[ing]” (rather
+than preventing) the Government’s enforcement of or
+compliance with the covered immigration laws. E.g., 20
+F. 4th 928, 1004 (CA5 2021). In this case, that was the only
+ground pressed by respondents below and relied on by the lower
+courts to hold that §1252(f )(1) did not “ba[r]
+jurisdiction.” Ibid.; see App. to Pet. for Cert. 184a;
+Brief for Appellees in No. 21–10806 (CA5),
+pp. 40–41. But we just rejected this interpretation in
+Aleman Gonzalez. There, we held that §1252(f )(1)
+deprives lower courts of “jurisdiction to entertain”
+requests for “injunctions that order federal officials to
+take or to refrain from taking actions to enforce, implement, or
+otherwise carry out the specified statutory provisions”
+(subject to an exception, indisputably inapplicable to this case,
+for a suit by an individual noncitizen in proceedings under those
+provisions). 596 U. S., at ___, ___ (slip op., at 1, 5).
+
+															In the normal course, we would vacate and remand
+this case for further proceedings in light of Aleman
+Gonzalez. Instead, the Court plows ahead to break new
+jurisdictional ground. Acting on a compressed timeline, it embraces
+a theory of §1252(f )(1) that—so far as I can
+tell—no court of appeals has ever adopted: that
+§1252(f )(1) limits only the lower courts’ remedial
+authority, not their subject-matter jurisdiction. The only court of
+appeals to have addressed this theory rejected it. Miranda
+v. Garland, 34 F. 4th 338, 354–356 (CA4 2022).
+Still, the Court is confident enough to proceed based on short,
+barely adversarial supplemental briefs. (The United States’
+original brief devoted only a conclusory footnote to the
+jurisdictional question, and Texas and Missouri did not respond.)
+And these supplemental briefs are particularly unhelpful because,
+having been submitted prior to our decision in Aleman
+Gonzalez, they could not address that decision’s
+significance for this case. In fact, they devoted a considerable
+portion of their allotted length to the issue that Aleman
+Gonzalez subsequently resolved.
+
+															This would all matter less if the jurisdictional
+question were easy or unimportant—but it is neither. The
+Court’s opinion papers over difficult issues, as I will
+discuss below, and its jurisdictional holding is likely to affect
+many cases. See, e.g., Texas v. Biden, ___
+F. Supp. 3d ___, ___, 2022 WL 658579, *14 (ND Tex., Mar. 4,
+2022) (§1252(f )(1) does not bar Texas’ claim that
+the Federal Government is wrongly refusing to detain noncitizens to
+determine if they have COVID–19); Defendants’
+Opposition to Plaintiffs’ Motion for Temporary Restraining
+Order 8–9 in Arizona v. CDC, Civ. No.
+6:22–cv–00885 (WD La., Apr. 22, 2022) (arguing that
+§1252(f )(1) prohibits a district court from constraining
+the Federal Government’s removal discretion in litigation
+challenging termination of Title 42 order). We should not short
+circuit the ordinary process.
+
+															I have several doubts about the Court’s
+analysis of §1252(f )(1). To begin with, the Court
+assumes that we face an either/or choice between subject-matter
+jurisdiction and remedial authority, with the former being only
+about a court’s authority to decide merits questions and the
+latter being only about the relief a court can grant. Ante,
+at 9. This dichotomy makes the Court’s job easier, because it
+can use the obvious point that §1252(f )(1) strips lower
+courts of remedial authority to establish that
+§1252(f )(1) does not strip them of subject-matter
+jurisdiction. But why is it a binary choice? I would think that
+Congress is free to link a court’s subject-matter
+jurisdiction to its remedial authority. That is not so different
+from an amount-in-controversy requirement, which conditions a
+district court’s ability to address the merits on the relief
+that the plaintiff seeks. See, e.g., 28 U. S. C.
+§1332 (district courts have subject-matter jurisdiction over
+diversity cases only when the amount in controversy exceeds
+$75,000). And the redressability requirement of Article III itself
+establishes a tie between jurisdiction and remedies, because a
+court’s inability to order effective relief deprives it of
+jurisdiction to decide the merits of a question otherwise within
+its competence. See, e.g., California v.
+Texas, 593 U. S. ___, ___ (2021) (slip op., at 7)
+(redressability “consider[s] the relationship between
+‘the judicial relief requested’ and the
+‘injury’ suffered”); Los Angeles v.
+Lyons, 461 U.S.
+95, 105–107 (1983) (failure to allege sufficient
+likelihood of future injury deprives a federal court of Article III
+“jurisdiction to entertain [the count] of the
+complaint” seeking injunctive relief ).
+
+															So it seems to me quite possible that
+§1252(f )(1) withdraws subject-matter jurisdiction over
+cases seeking certain remedies. Indeed, while the Government has a
+theory for why the Court can reach the merits in this case, it
+characterizes §1252(f )(1) as imposing
+“jurisdictional limitations” that “speak to
+‘a court’s power’ ” and
+“ ‘can never be forfeited or
+waived.’ ” Supplemental Brief for Petitioners
+19–20; see also Miranda, 34 F. 4th, at 354
+(concluding that “§1252(f )(1) is a
+jurisdiction-stripping statute” that cannot be waived). If
+there is a reason to treat limitations on subject-matter
+jurisdiction and limitations on remedial authority as mutually
+exclusive—either in general or in this statutory
+scheme—the Court does not explain it.
+
+															The Court breezes past other questions too. Most
+notably, it gives surprisingly little attention to a phrase on
+which it places significant weight: §1252(f )(1)’s
+parenthetical exempting “the Supreme Court” from its
+general bar on “jurisdiction or authority.” The parties
+hardly discuss this parenthetical, which does not appear to have an
+analogue elsewhere in the United States Code. The Court, however,
+takes the phrase as conclusive evidence that §1252(f )(1)
+does not deprive district courts of subject- matter jurisdiction
+over “non-individual claims under [the covered
+provisions],” because if it did, “no such claims could
+ever arrive at this Court, rendering the provision’s specific
+carveout for Supreme Court injunctive relief nugatory.”
+Ante, at 10.
+
+															While this interpretation has some surface
+appeal, the Court does not explain how it would work. Does it mean
+that the restriction on remedial authority is subject to waiver or
+forfeiture, so that a lower court can sometimes properly enter
+non-individual injunctive relief that this Court can then review?
+That a district court has the authority to enter some kinds of
+non-individual relief (for example, a classwide declaratory
+judgment) and that this Court can enter different relief (for
+example, a classwide injunction) on review of that judgment? Or
+that this Court can enter an injunction on appeal if the district
+court could have entered at least one form of relief, even
+if it actually entered only relief that exceeded its
+authority?[1]* Or perhaps the
+parenthetical serves the very different purpose of clarifying that
+§1252(f )(1) does not disturb any pre-existing authority
+this Court has under the All Writs Act or other sources. These are
+difficult questions, yet the Court does not address any of
+them.
+
+															Indeed, the Court explicitly chooses not
+to opine on some of the issues that might help explain the
+parenthetical’s unusual reservation. See ante, at 12,
+n. 4. For example, the Court declines to decide whether the
+bar in §1252(f )(1) is subject to forfeiture, even though
+that is a defining feature of nonjurisdictional rules. See,
+e.g., Hamer v. Neighborhood Housing Servs. of
+Chicago, 583 U. S. ___, ___–___ (2017) (slip op., at
+2–3). It reserves the question whether §1252(f )(1)
+bars declaratory relief, an issue on which there are conflicting
+views. Compare Alli v. Decker, 650 F.3d 1007, 1013
+(CA3 2011) (it does not bar declaratory relief ), with
+id., at 1019–1021 (Fuentes, J., dissenting) (it does),
+with Hamama v. Adducci, 912 F.3d 869, 880, n. 8
+(CA6 2018) (it depends). And it avoids a position on whether
+§1252(f )(1) prevents a lower court from vacating or
+setting aside an agency action under the Administrative Procedure
+Act. See 5 U. S. C. §706(2). Not that I fault the
+Court for holding back. Quite the contrary: The questions
+surrounding §1252(f )(1) are complex and deserve more
+attention than we can give them in this posture.
+
+															As a final touch, the Court asserts that our
+precedent has already charted this course. Ante, at
+11–12. But the Court cannot muster much on that front. It
+cites a passing statement rejecting an inapposite argument that
+§1252(f )(1) is a jurisdictional grant, see
+Reno v. American-Arab Anti- Discrimination Comm.,
+525 U.S.
+471, 481 (1999), a brief discussion from a plurality opinion in
+a case where the §1252(f )(1) issue had not been briefed
+or argued by the parties in this Court, see Nielsen v.
+Preap, 586 U. S. ___, ___–___ (2019) (slip op.,
+at 8–9), and a dissent, see Jennings v.
+Rodriguez, 583 U. S ___, ___ (2018) (opinion of Breyer,
+J.) (slip op., at 31). None provides a clear roadmap for this
+case.
+
+															*  *  *
+
+															Given all this, I would tread more carefully.
+We should let the lower courts be the first to address the
+substantial antecedent questions that §1252(f )(1)
+presents in light of our hot-off-the-presses decision in Aleman
+Gonzalez. I respectfully dissent.
+
+Notes
+1
+*For instance, in this case,
+the States sought declaratory relief, injunctive relief, and
+vacatur of the Government’s termination of the Migrant
+Protection Protocols, but the District Court expressly entered only
+the latter two. If the District Court could have issued a
+declaratory judgment, perhaps this Court could exercise appellate
+jurisdiction even if the District Court lacked authority to issue
+an injunction or vacatur. The Court suggests that this happened in
+Nielsen v. Preap, 586 U. S. ___ (2019), in
+which, it says, the District Court also awarded only injunctive
+relief. Ante, at 11. But the issue is more complicated than
+the Court lets on. Preap involved consolidated cases. In the
+first, the plaintiffs sought declaratory and injunctive relief, but
+the District Court entered only the latter. See Preap v.
+Johnson, 303 F.R.D. 566, 587 (ND Cal. 2014). In the second,
+however, the District Court entered “only [a] declaratory
+ruling,” with no accompanying injunction. Khoury v.
+Asher, 3 F. Supp. 3d 877, 892 (WD Wash. 2014). So
+unlike today’s case, Preap did not involve only a
+hypothetical declaratory judgment.
+
+

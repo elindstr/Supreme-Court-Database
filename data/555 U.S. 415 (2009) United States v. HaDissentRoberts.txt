@@ -1,0 +1,134 @@
+::SCDB_caseID:: 2008-024
+::decision_cite:: 555 U.S. 415 (2009)
+::decision_name::  United States v. Hayes
+::decision_year:: 2009
+::opinion_author:: Roberts
+::opinion_type:: Dissent
+::opinion:: 
+
+
+ROBERTS, C. J., DISSENTING
+UNITED STATES V. HAYES
+555 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NO. 07-608
+
+
+
+
+
+															UNITED STATES, PETITIONER v. RANDY EDWARD
+HAYES
+
+															on writ of certiorari to the united states court of
+appeals for the fourth circuit
+
+															[February 24, 2009]
+
+
+
+															   Chief Justice Roberts, with whom Justice Scalia joins, dissenting.
+
+															
+   A person convicted of a “misdemeanor crime of domestic violence” is prohibited from possessing a firearm.  18 U. S. C. §922(g)(9).  The question before the Court is whether the definition of “misdemeanor crime of domestic violence” in §921(a)(33)(A) includes misdemeanor offenses with no domestic-relationship element.
+
+															
+
+   Section 921(a)(33)(A) provides:
+
+															“[T]he term ‘misdemeanor crime of domestic violence’ means an offense that—
+
+															
+
+   “(i) is a misdemeanor under Federal, State, or Tribal law; and
+
+															
+
+   “(ii) has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent, or guardian of the victim.”  (Footnote omitted.)
+
+															
+   The majority would read the “committed by” phrase in clause (ii) to modify the word “offense” in the opening clause of subparagraph (A), leapfrogging the word “element” at the outset of clause (ii).  That reading does not require the specified domestic relationship in clause (ii) to be an element of the predicate misdemeanor statute.  Individuals convicted under generic use-of-force statutes containing no reference to domestic violence would therefore be subject to prosecution under §922(g)(9).
+
+															
+
+   The Court of Appeals held to the contrary that “committed by” modifies the immediately preceding phrase: “the use or attempted use of physical force, or the threatened use of a deadly weapon.”  §921(a)(33)(A); 482 F. 3d 749, 753–754 (CA4 2007).  Read that way, a domestic relationship is an element of the prior offense.
+
+															
+
+   That seems to be the most natural reading right off the bat.  The term at issue is “misdemeanor crime of domestic violence.”  That is a defined term—so the definition certainly must be parsed—but it would be at least surprising to find from that parsing that a “misdemeanor crime of domestic violence” need not by its terms have anything to do with domestic violence.
+
+															
+
+   1. The grammatical rule of the last antecedent indicates that the domestic relationship is a required element of the predicate offense.  That rule instructs that “a limiting clause or phrase . . . should ordinarily be read as modifying only the noun or phrase that it immediately follows.”  Barnhart v. Thomas, 540 U. S. 20, 26 (2003).  Pursuant to that rule, the “committed by” phrase in clause (ii) is best read to modify the preceding phrase “the use or attempted use of physical force, or the threatened use of a deadly weapon.”  See 482 F. 3d, at 754–755.  By not following the usual grammatical rule, the majority’s reading requires jumping over two line breaks, clause (i), a semicolon, and the first portion of clause (ii) to reach the more distant antecedent (“offense”).  Due to the floating “that” after “offense,” if “committed by” modified “offense” the text would read “offense that committed by.”
+
+															
+
+   The majority counters that people do not ordinarily say someone “commit[s]” a “use” of force.  See ante, at 6.  True enough, but only because “use” of force is a term that encompasses a variety of conduct, which if listed separately would not pose the objection the majority raises (e.g., commits a battery, robbery, or kidnaping).  There is no reason to believe that the reasonable drafting decision to insert “use” of force rather than coming up with a laundry list of offenses was meant to alter the meaning of the statute.
+
+															
+
+   The majority also relies on Congress’s use of the word “element” in the singular.  From that, the majority infers that Congress intended to describe only one required element—the use of force.  Ante, at 5.  In its view, Congress would have used the plural “elements” if it meant to encompass both the use of force and the offender’s relationship with the victim.  Ibid.
+
+															
+
+   That argument is contrary to the Dictionary Act, which specifies that unless the context indicates otherwise, “words importing the singular include and apply to several persons, parties, or things.”  1 U. S. C. §1; see Rowland v. California Men’s Colony, Unit II Men’s Advisory Council, 506 U. S. 194, 200 (1993).  More significantly, reading “element” as limited to the singular does not resolve what that element is.  See United States v. Barnes, 295 F. 3d 1354, 1369 (CADC 2002) (Sentelle, J., dissenting).  A single element often contains multiple components.  In the very provision at issue, the “threatened use of a deadly weapon” includes three concepts: (1) the threatened use (2) of a weapon (3) that is deadly.
+
+															
+
+   In other statutes, Congress has used the word “element” in the singular to refer to the use of force and its object.  See, e.g., 18 U. S. C. §16(a) (defining “crime of violence” as “an offense that has as an element the use, attempted use, or threatened use of physical force against the person or property of another”).  The majority finds it “unsurprising” that Congress would have chosen to combine the mode of aggression and its object in a “single, undifferentiated element.”  Ante, at 5, n. 4.  It asserts, however, that Congress would not have so joined the use of force and the offender’s relationship with the victim, because those requirements “are not readily conceptualized as a single element.”  Ibid.  That distinction is elusive; both 18 U. S. C. §16(a) and the provision at issue here contain as distinct components the act (use of force) and the target (person or property in the former case, domestic relationship victim in the latter).
+
+															
+
+   The majority also points out that interpreting “committed by” to modify the “use” of force would render the word “committed” superfluous.  That may be so, but as shown, reading “committed by” to modify “offense” has its own flaws.  All this goes to show that the statute is not an example of elegant syntax under either reading.  The majority properly acknowledges that, under its view, the statutory language reflects “less-than-meticulous drafting” and “syntactical awkwardness,” and “is not a model of the careful drafter’s art.”  Ante, at 6, 12, 13.  I am willing to acknowledge the same with respect to my reading.  But I conclude from such reciprocal shortcomings that the text is at least ambiguous.
+
+															
+
+   2. That brings us to the structure of the statute.  The most natural reading of the statute, as it is laid out, is that the underlying misdemeanor must have as an element the use of force committed by a person in a domestic relationship with the victim.  The definition of “misdemeanor crime of domestic violence” is twice qualified: first, by the relative clause “is a misdemeanor under Federal, State, or Tribal law”; and second by the relative clause “has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by [a person in a specified domestic relationship with the victim].” §921(a)(33)(A) (footnote omitted).  The fact that Congress included the domestic relationship language in the clause of the statute designating the element of the predicate offense strongly suggests that it is in fact part of the required element.
+
+															
+
+   The majority’s contrary reading requires restructuring the statute and adding words.  The majority first must place the “committed by” phrase in its own clause—set off by a line break, a semicolon, or “(iii)”—to indicate that “committed by” refers all the way back to “offense.”  And, as noted, because the word “that” appears at the end of subparagraph (A), the statute would then read “an offense that committed by.”  To arrive at its reading, the majority must ignore the floating “that” or add “and is” before “committed by.”
+
+															
+
+   The Government would define “misdemeanor crime of domestic violence” as “an offense, committed by a person with a domestic relationship with the victim, that is a misdemeanor and has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon.”  Brief for United States 13; see also Tr. of Oral Arg. 8–9.  That reading also requires rearranging the statute.  The “committed by” phrase would have to be severed from clause (ii) and moved up to appear after the word “offense” in subparagraph (A).  Changing and rearranging the wording as the Government does to explain what the actual words mean is, in any event, not a compelling line of argument.
+
+															
+
+   The majority attempts to diminish the magnitude of these alterations by stating that the lawmakers might have better conveyed their intent by setting off the “committed by” phrase with “a semicolon” or “a line break.”  Ante, at 6.  But those are not insignificant revisions; they alter the structure of the statute, and we have recognized that structure is often critical in resolving verbal ambiguity.  See Castillo v. United States, 530 U. S. 120, 124 (2000) (“The statute’s structure clarifies any ambiguity inherent in its literal language”).  I therefore respectfully disagree with the majority that “misdemeanor crime of domestic violence” is most sensibly read as including misdemeanor offenses without a domestic-relationship element.
+
+															
+
+   3. Moving beyond text and structure, the majority recognizes that there is “little . . . drafting history,” ante, at 13, but gamely trots out what there is: a statement on the floor of the Senate by the bill’s sponsor, see ante, at 12.  Such tidbits do not amount to much.  See Consumer Product Safety Comm’n v. GTE Sylvania, Inc., 447 U. S. 102, 118 (1980).  This is especially true here where the statement was delivered the day the legislation was passed and after the House of Representatives had passed the pertinent provision.  See Exxon Mobil Corp. v. Allapattah Services, Inc., 545 U. S. 546, 568 (2005); see also Brief for Respondent 33.  The majority nonetheless looks to the floor statement because “the legislative record is otherwise ‘absolutely silent.’ ”  Ante, at 12.  But that is no reason to accord the statement significance: We dismiss the value of such statements due to their inherent flaws as guides to legislative intent, flaws that persist (and indeed may be amplified) in the absence of other indicia of intent.
+
+															
+
+   The majority also finds it “highly improbable that Congress meant to extend §922(g)(9)’s firearm possession ban only to the relatively few domestic abusers prosecuted under laws rendering a domestic relationship an element of the offense.”  Ante, at 11.  In its view, construing §922(g)(9) to exclude persons convicted under a generic use-of-force statute would “frustrate Congress’ manifest purpose,” ante, at 10, of keeping guns out of the hands of domestic abusers.  See ante, at 10 (quoting statement of Sen. Lautenberg, 142 Cong. Rec. 22985 (1996)).
+
+															
+
+   Invoking the sponsor’s objective as Congress’s manifest purpose, however, “ignores the complexity of the problems Congress is called upon to address and the dynamics of legislative action.”  Board of Governors, FRS v. Dimension Financial Corp., 474 U. S. 361, 373–374 (1986).  Legislative enactments are the result of negotiations between competing interests; “the final language of the legislation may reflect hard-fought compromises.”  Id., at 374.  Even if there were sufficient sentiment to extend the gun ban, individual legislators might have disagreed on the appropriate reach of the new provision.  See ibid.  Some members might well have been willing to extend the ban beyond individuals convicted of felonies, but only if the predicate misdemeanor by its terms was addressed to domestic violence.
+
+															
+
+   4. The majority’s approach will entail significant problems in application.  Under the interpretation adopted by the court below, it is easy to determine whether an individual is covered by the gun ban: Simply look to the record of the prior conviction.  Under the majority’s approach, on the other hand, it will often be necessary to go beyond the fact of conviction and “engage in an elaborate factfinding process regarding the defendant’s prior offens[e],”  Taylor v. United States, 495 U. S. 575, 601 (1990), to determine whether it happened to involve domestic violence.
+
+															
+
+   That is one reason we adopted a categorical approach to predicate offenses under the Armed Career Criminal Act, 18 U. S. C. §924(e)(1), “looking only to the statutory definitions of the prior offenses, and not to the particular facts underlying those convictions.”  Taylor, supra, at 600; see Shepard v. United States, 544 U. S. 13, 19 (2005) (Court considered “predicate offens[e] in terms not of prior conduct but of prior ‘convictions’ and the ‘element[s]’ of crimes”).  As we warned in Taylor and reaffirmed in Shepard, “the practical difficulties and potential unfairness of a factual approach are daunting.”  Taylor, supra, at 601; see Shepard, supra, at 20.  Those same concerns are implicated here, given that the majority would require juries and courts to look at the particular facts of a prior conviction to determine whether it happened to involve domestic violence, rather than simply looking to the elements of the predicate offense.  See ante, at 4-5.  
+
+															
+
+   5. Taking a fair view, the text of §921(a)(33)(A) is ambiguous, the structure leans in the defendant’s favor, the purpose leans in the Government’s favor, and the legislative history does not amount to much.  This is a textbook case for application of the rule of lenity.
+
+															
+
+   “Because construction of a criminal statute must be guided by the need for fair warning, it is rare that legislative history or statutory policies will support a construction of a statute broader than that clearly warranted by the text.”  Crandon v. United States, 494 U. S. 152, 160 (1990).  It cannot fairly be said here that the text “clearly warrants” the counterintuitive conclusion that a “crime of domestic violence” need not have domestic violence as an element.  That leaves the majority’s arguments about legislative history and statutory purpose.  This is not the “rare” case in which such grounds provide “fair warning,” especially given that there is nothing wrong with the conduct punished—possessing a firearm—if the prior misdemeanor is not covered by the statute.
+
+															
+
+   If the rule of lenity means anything, it is that an individual should not go to jail for failing to conduct a 50-state survey or comb through obscure legislative history.  Ten years in jail is too much to hinge on the will-o’-the-wisp of statutory meaning pursued by the majority.
+
+
+
+													

@@ -1,0 +1,78 @@
+::SCDB_caseID:: 2008-077
+::decision_cite:: 557 U.S. 261 (2009)
+::decision_name::  Coeur Alaska, Inc. v. Southeast Alaska Conservation Council
+::decision_year:: 2009
+::opinion_author:: Breyer
+::opinion_type:: Concurrence
+::opinion:: 
+
+
+BREYER, J., CONCURRING
+COEUR ALASKA, INC. V. SOUTHEAST ALASKACONSERVATION COUNCIL
+557 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NOS. 07-984 AND 07-990
+
+
+
+
+
+															
+COEUR ALASKA, INC., PETITIONER
+
+															
+07–984   v.
+
+															
+SOUTHEAST ALASKA CONSERVATION COUNCIL
+et al.
+
+															
+ALASKA, PETITIONER
+
+															
+07–990   v.
+
+															
+SOUTHEAST ALASKA CONSERVATION COUNCIL
+et al.
+
+															on writs of certiorari to the united states court of
+appeals for the ninth circuit
+
+															[June 22, 2009]
+
+
+
+															   Justice Breyer, concurring.
+
+															
+   As I understand the Court’s opinion, it recognizes a legal zone within which the regulating agencies might reasonably classify material either as “dredged or fill material” subject to §404 of the Clean Water Act, 33 U. S. C. §1344(a), or as a “pollutant,” subject to §§402 and 306, 33 U. S. C. §§1342(a), 1316(a).  Within this zone, the law authorizes the environmental agencies to classify material as the one or the other, so long as they act within the bounds of relevant regulations, and provided that the classification, considered in terms of the purposes of the statutes and relevant regulations, is reasonable.
+
+															
+
+   This approach reflects the difficulty of applying §§402 and 306 literally to every new-source-related discharge of a “pollutant.”  The Environmental Protection Agency (EPA) applies §306 new source “performance standards” to a wide variety of discharges, ranging, for example, from those involved in the processing of apples into apple juice or apple cider, 40 CFR §407.10 (2008); to the manufacturing of cement, §411.10; to the production of fresh meat cuts by a meat cutter, §432.60; and to the manufacture of pharmaceutical products by fermentation, §439.10.  See generally 40 CFR pts. 405–471 (containing more than 800 pages of “new source performance” and effluent limitation regulations).  At the same time the regulations for any one point source often regulate numerous chemicals, minerals, and other substances produced by that point source; in the case of fermentation products, for example, the regulations provide performance standards for roughly 30 different chemicals.  §439.15.  These “standards of performance” “reflect the greatest degree of effluent reduction which the Administrator determines to be achievable through application of the best available demonstrated control technology … including, where practicable, a standard permitting no discharge of pollutants.”  33 U. S. C. §1316(a)(1).
+
+															
+
+   To literally apply these performance standards so as to forbid the use of any of these substances as “fill,” even when, say, they constitute no more than trace elements in dirt, crushed rock, or sand that is clearly being used as “fill” to build a levee or to replace dirt removed from a lake bottom may prove unnecessarily strict, cf. §1362(6) (defining “pollutant” to include “rock”), to the point that such application would undermine the objective of §404, which foresees the use of “dredged or fill material” in certain circumstances and with approval of the relevant agencies.  §1344.  At minimum, the EPA might reasonably read the statute and the applicable regulations as allowing the use of such material, say crushed rock, as “fill” in some of these situations.  Cf. Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837, 842–844 (1984); Auer v. Robbins, 519 U. S. 452, 461 (1997).
+
+															
+
+   At the same time, I recognize the danger that Justice Ginsburg warns against, namely, that “[w]hole categories of regulated industries” might “gain immunity from a variety of pollution-control standards,” if, say, a §404-permit applicant simply adds “sufficient solid matter” to a pollutant “to raise the bottom of a water body,” thereby turning a “pollutant” governed by §306 into “fill” governed by §404.  Post, at 7 (dissenting opinion).
+
+															
+
+   Yet there are safeguards against that occurring.  For one thing, as the Court recognizes, see ante, at 11, it is not the case that any material that has the “ ‘effect of … [c]hanging the bottom elevation’ ” of the body of water is automatically subject to §404, not §402.  The EPA has never suggested that it would interpret the regulations so as to turn §404 into a loophole, permitting evasion of a “performance standard” simply because a polluter discharges enough pollutant to raise the bottom elevation of the body of water.  For another thing, even where a matter is determined reasonably to be “fill” and consequently falls within §404, the EPA can retain an important role in the permitting process.  That is because the EPA may veto any §404 plan that it finds has an “unacceptable adverse effect on municipal water supplies, shellfish beds and fishery areas … , wildlife, or recreational areas.”  §1344(c).  Finally, EPA’s decision not to apply §306, but to allow permitting to proceed under §404, must be a reasonable decision; and court review will help assure that is so.  5 U. S. C. §706.
+
+															
+
+   In these cases, it seems to me that the EPA’s interpretation of the statute as permitting the EPA/Corps of Engineers “fill” definition to apply to the cases at hand is reasonable, hence lawful.  Lower Slate Lake, located roughly three miles from the Kensington Gold Mine, is 51 feet deep, 800 feet wide, and 2,000 feet long; downstream from the lake is Slate Creek.  Faced with a difficult choice between creating a huge pile of slurry on nearby wetlands or using part of the lake as a storage facility for mine tailings, see App. 294a–298a; see also ante, at 5–8, the EPA arrived at a compromise.  On the one hand, it would treat mine tailings placed directly into the lake as “fill” under the §404 permitting program.  App. 144a.  The tailings, the EPA recognized, would have the “immediate effect of filling the areas of water into which they are discharged.”  Ibid.  But it would also treat any spillover of the tailings, or chemicals from the tailings, into any nearby waterway, most particularly Slate Creek (running out of Slate Lake) as requiring a §402 permit.  The EPA’s §306 “performance standard” would apply and that standard insists upon no discharge of process wastewater at all.  Id., at 145a; see also 40 CFR §440.104(b).  The EPA reached this result because it recognized that, even though pollutants discharged into the creek might come “in the form of suspended and settleable solids,” such solids would “have, at most, an incidental filling effect.”  App. 145a.  The EPA thereby sought to apply the distinction it had previously recognized between discharges that have the immediate effect of raising the bottom elevation of water, and those that only have the “associated effect, over time, of raising the bottom elevation of a water due to settling of waterborne pollutants.”  See 67 Fed. Reg. 31135 (2002) (concluding that §402 applies to the latter); see also Brief for G. Tracy Mehan III as Amicus Curiae 22–23.
+
+															
+
+   I cannot say whether the EPA’s compromise represents the best overall environmental result; but I do believe it amounts to the kind of detailed decision that the statutes delegate authority to the EPA, not the courts, to make (subject to the bounds of reasonableness).  I believe the Court’s views are consistent with those I here express.  And with that understanding, I join its opinion.
+
+
+
+													

@@ -1,0 +1,132 @@
+::SCDB_caseID:: 2008-074
+::decision_cite:: 557 U.S. 167 (2009)
+::decision_name::  Gross v. FBL Financial Services, Inc.
+::decision_year:: 2009
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+
+OPINION OF THE COURT
+GROSS V. FBL FINANCIAL SERVICES, INC.
+557 U. S. ____ (2009)
+
+SUPREME COURT OF THE UNITED STATES
+NO. 08-441
+
+
+
+
+
+															JACK GROSS, PETITIONER v. FBL FINANCIAL
+SERVICES, INC.
+
+															on writ of certiorari to the united states court of appeals for the eighth circuit
+
+															[June 18, 2009]
+
+
+
+															   Justice Thomas delivered the opinion of the Court.
+
+															
+   The question presented by the petitioner in this case is whether a plaintiff must present direct evidence of age discrimination in order to obtain a mixed-motives jury instruction in a suit brought under the Age Discrimination in Employment Act of 1967 (ADEA), 81 Stat. 602, as amended, 29 U. S. C. §621 et seq.  Because we hold that such a jury instruction is never proper in an ADEA case, we vacate the decision below.
+
+															I
+
+															
+   Petitioner Jack Gross began working for respondent FBL Financial Group, Inc. (FBL), in 1971.  As of 2001, Gross held the position of claims administration director.  But in 2003, when he was 54 years old, Gross was reassigned to the position of claims project coordinator.  At that same time, FBL transferred many of Gross’ job responsibilities to a newly created position—claims administration manager.  That position was given to Lisa Kneeskern, who had previously been supervised by Gross and who was then in her early forties.  App. to Pet. for Cert. 23a (District Court opinion).  Although Gross (in his new position) and Kneeskern received the same compensation, Gross considered the reassignment a demotion because of FBL’s reallocation of his former job responsibilities to Kneeskern.
+
+															   In April 2004, Gross filed suit in District Court, alleging that his reassignment to the position of claims project coordinator violated the ADEA, which makes it unlawful for an employer to take adverse action against an employee “because of such individual’s age.”  29 U. S. C. §623(a).  The case proceeded to trial, where Gross introduced evidence suggesting that his reassignment was based at least in part on his age.  FBL defended its decision on the grounds that Gross’ reassignment was part of a corporate restructuring and that Gross’ new position was better suited to his skills.  See App. to Pet. for Cert. 23a (District Court opinion).
+
+															
+
+   At the close of trial, and over FBL’s objections, the District Court instructed the jury that it must return a verdict for Gross if he proved, by a preponderance of the evidence, that FBL “demoted [him] to claims projec[t] coordinator” and that his “age was a motivating factor” in FBL’s decision to demote him.  App. 9–10.  The jury was further instructed that Gross’ age would qualify as a “ ‘motivating factor,’ if [it] played a part or a role in [FBL]’s decision to demote [him].”  Id., at 10.  The jury was also instructed regarding FBL’s burden of proof.  According to the District Court, the “verdict must be for [FBL] … if it has been proved by the preponderance of the evidence that [FBL] would have demoted [Gross] regardless of his age.”  Ibid.  The jury returned a verdict for Gross, awarding him $46,945 in lost compensation.  Id., at 8.
+
+															
+
+   FBL challenged the jury instructions on appeal.  The United States Court of Appeals for the Eighth Circuit reversed and remanded for a new trial, holding that the jury had been incorrectly instructed under the standard established in Price Waterhouse v. Hopkins, 490 U. S. 228 (1989).  See 526 F. 3d 356, 358 (2008).  In Price Waterhouse, this Court addressed the proper allocation of the burden of persuasion in cases brought under Title VII of the Civil Rights Act of 1964, 78 Stat. 253, as amended, 42 U. S. C. §2000e et seq., when an employee alleges that he suffered an adverse employment action because of both permissible and impermissible considerations—i.e., a “mixed-motives” case.  490 U. S., at 232, 244–247 (plurality opinion).  The Price Waterhouse decision was splintered.  Four Justices joined a plurality opinion, see id., at 231–258, Justices White and O’Connor separately concurred in the judgment, see id., at 258–261 (opinion of White, J.); id., at 261–279 (opinion of O’Connor, J.), and three Justices dissented, see id., at 279–295 (opinion of Kennedy, J.).  Six Justices ultimately agreed that if a Title VII plaintiff shows that discrimination was a “motivating” or a “ ‘substantial’ ” factor in the employer’s action, the burden of persuasion should shift to the employer to show that it would have taken the same action regardless of that impermissible consideration.  See id., at 258 (plurality opinion); id., at 259–260 (opinion of White, J.); id., at 276 (opinion of O’Connor, J.).  Justice O’Connor further found that to shift the burden of persuasion to the employer, the employee must present “direct evidence that an illegitimate criterion was a substantial factor in the [employment] decision.”  Id., at 276.
+
+															
+
+   In accordance with Circuit precedent, the Court of Appeals identified Justice O’Connor’s opinion as controlling.  See 526 F. 3d, at 359 (citing Erickson v. Farmland Industries, Inc., 271 F. 3d 718, 724 (CA8 2001)).  Applying that standard, the Court of Appeals found that Gross needed to present “[d]irect evidence … sufficient to support a finding by a reasonable fact finder that an illegitimate criterion actually motivated the adverse employment action.”  526 F. 3d, at 359 (internal quotation marks omitted).  In the Court of Appeals’ view, “direct evidence” is only that evidence that “show[s] a specific link between the alleged discriminatory animus and the challenged decision.”  Ibid. (internal quotation marks omitted).  Only upon a presentation of such evidence, the Court of Appeals held, should the burden shift to the employer “ ‘to convince the trier of fact that it is more likely than not that the decision would have been the same absent consideration of the illegitimate factor.’ ”  Ibid. (quoting Price Waterhouse, supra, at 276 (opinion of O’Connor, J.)).
+
+															
+
+   The Court of Appeals thus concluded that the District Court’s jury instructions were flawed because they allowed the burden to shift to FBL upon a presentation of a preponderance of any category of evidence showing that age was a motivating factor—not just “direct evidence” related to FBL’s alleged consideration of age.  See 526 F. 3d, at 360.  Because Gross conceded that he had not presented direct evidence of discrimination, the Court of Appeals held that the District Court should not have given the mixed-motives instruction.  Ibid.  Rather, Gross should have been held to the burden of persuasion applicable to typical, non-mixed-motives claims; the jury thus should have been instructed only to determine whether Gross had carried his burden of “prov[ing] that age was the determining factor in FBL’s employment action.”  See ibid.
+
+															
+
+   We granted certiorari, 555 U. S. ___ (2008), and now vacate the decision of the Court of Appeals.
+
+															II
+
+															
+   The parties have asked us to decide whether a plaintiff must “present direct evidence of discrimination in order to obtain a mixed-motive instruction in a non-Title VII discrimination case.”  Pet. for Cert. i.  Before reaching this question, however, we must first determine whether the burden of persuasion ever shifts to the party defending an alleged mixed-motives discrimination claim brought under the ADEA.[Footnote 1]  We hold that it does not.
+
+															A
+
+															
+   Petitioner relies on this Court’s decisions construing Title VII for his interpretation of the ADEA.  Because Title VII is materially different with respect to the relevant burden of persuasion, however, these decisions do not control our construction of the ADEA.
+
+															   In Price Waterhouse, a plurality of the Court and two Justices concurring in the judgment determined that once a “plaintiff in a Title VII case proves that [the plaintiff’s membership in a protected class] played a motivating part in an employment decision, the defendant may avoid a finding of liability only by proving by a preponderance of the evidence that it would have made the same decision even if it had not taken [that factor] into account.” 490 U. S., at 258; see also id., at 259–260 (opinion of White, J.); id., at 276 (opinion of O’Connor, J.).  But as we explained in Desert Palace, Inc. v. Costa, 539 U. S. 90, 94–95 (2003), Congress has since amended Title VII by explicitly authorizing discrimination claims in which an improper consideration was “a motivating factor” for an adverse employment decision.  See 42 U. S. C. §2000e–2(m) (providing that “an unlawful employment practice is established when the complaining party demonstrates that race, color, religion, sex, or national origin was a motivating factor for any employment practice, even though other factors also motivated the practice” (emphasis added)); §2000e–5(g)(2)(B) (restricting the remedies available to plaintiffs proving violations of §2000e–2(m)).
+
+															
+
+   This Court has never held that this burden-shifting framework applies to ADEA claims.  And, we decline to do so now.   When conducting statutory interpretation, we “must be careful not to apply rules applicable under one statute to a different statute without careful and critical examination.”  Federal Express Corp. v. Holowecki, 552 U. S. ___, ___ (2008) (slip op., at 2).  Unlike Title VII, the ADEA’s text does not provide that a plaintiff may establish discrimination by showing that age was simply a motivating factor.  Moreover, Congress neglected to add such a provision to the ADEA when it amended Title VII to add §§2000e–2(m) and 2000e–5(g)(2)(B), even though it contemporaneously amended the ADEA in several ways, see Civil Rights Act of 1991, §115, 105 Stat. 1079; id., §302, at 1088.
+
+															
+
+   We cannot ignore Congress’ decision to amend Title VII’s relevant provisions but not make similar changes to the ADEA.  When Congress amends one statutory provision but not another, it is presumed to have acted intentionally.  See EEOC v. Arabian American Oil Co., 499 U. S. 244, 256 (1991).  Furthermore, as the Court has explained, “negative implications raised by disparate provisions are strongest” when the provisions were “considered simultaneously when the language raising the implication was inserted.”  Lindh v. Murphy, 521 U. S. 320, 330 (1997).  As a result, the Court’s interpretation of the ADEA is not governed by Title VII decisions such as Desert Palace and Price Waterhouse.[Footnote 2]
+
+															B
+
+															
+   Our inquiry therefore must focus on the text of the ADEA to decide whether it authorizes a mixed-motives age discrimination claim.  It does not.  “Statutory construction must begin with the language employed by Congress and the assumption that the ordinary meaning of that language accurately expresses the legislative purpose.”  Engine Mfrs. Assn. v. South Coast Air Quality Management Dist., 541 U. S. 246, 252 (2004) (internal quotation marks omitted).  The ADEA provides, in relevant part, that “[i]t shall be unlawful for an employer … to fail or refuse to hire or to discharge any individual or otherwise discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual’s age.”  29 U. S. C. §623(a)(1) (emphasis added).
+
+															   The words “because of” mean “by reason of: on account of.”  1 Webster’s Third New International Dictionary 194 (1966); see also 1 Oxford English Dictionary 746 (1933) (defining “because of” to mean “By reason of, on account of” (italics in original)); The Random House Dictionary of the English Language 132 (1966) (defining “because” to mean “by reason; on account”).  Thus, the ordinary meaning of the ADEA’s requirement that an employer took adverse action “because of” age is that age was the “reason” that the employer decided to act.  See Hazen Paper Co. v. Biggins, 507 U. S. 604, 610 (1993) (explaining that the claim “cannot succeed unless the employee’s protected trait actually played a role in [the employer’s decisionmaking] process and had a determinative influence on the outcome” (emphasis added)).  To establish a disparate-treatment claim under the plain language of the ADEA, therefore, a plaintiff must prove that age was the “but-for” cause of the employer’s adverse decision.  See Bridge v. Phoenix Bond & Indemnity Co., 553 U. S. ___, ___ (2008) (slip op., at 14) (recognizing that the phrase, “by reason of,” requires at least a showing of “but for” causation (internal quotation marks omitted)); Safeco Ins. Co. of America v. Burr, 551 U. S. 47, 63–64, and n. 14 (2007) (observing that “[i]n common talk, the phrase ‘based on’ indicates a but-for causal relationship and thus a necessary logical condition” and that the statutory phrase, “based on,” has the same meaning as the phrase, “because of” (internal quotation marks omitted)); cf. W. Keeton, D. Dobbs, R. Keeton, & D. Owen, Prosser and Keeton on Law of Torts 265 (5th ed. 1984) (“An act or omission is not regarded as a cause of an event if the particular event would have occurred without it”).[Footnote 3]
+
+															
+
+   It follows, then, that under §623(a)(1), the plaintiff retains the burden of persuasion to establish that age was the “but-for” cause of the employer’s adverse action.  Indeed, we have previously held that the burden is allocated in this manner in ADEA cases.  See Kentucky Retirement Systems v. EEOC, 554 U. S. ___, ___–___, ___–___ (2008) (slip op., at 2–4, 11–13); Reeves v. Sanderson Plumbing Products, Inc., 530 U. S. 133, 141, 143 (2000).  And nothing in the statute’s text indicates that Congress has carved out an exception to that rule for a subset of ADEA cases.  Where the statutory text is “silent on the allocation of the burden of persuasion,” we “begin with the ordinary default rule that plaintiffs bear the risk of failing to prove their claims.”  Schaffer v. Weast, 546 U. S. 49, 56 (2005); see also Meacham v. Knolls Atomic Power Laboratory, 554 U. S. ___, ___ (2008) (slip op., at 6) (“Absent some reason to believe that Congress intended otherwise, … we will conclude that the burden of persuasion lies where it usually falls, upon the party seeking relief” (internal quotation marks omitted)).  We have no warrant to depart from the general rule in this setting.
+
+															
+
+   Hence, the burden of persuasion necessary to establish employer liability is the same in alleged mixed-motives cases as in any other ADEA disparate-treatment action.  A plaintiff must prove by a preponderance of the evidence (which may be direct or circumstantial), that age was the “but-for” cause of the challenged employer decision.  See Reeves, supra, at 141–143, 147.[Footnote 4]
+
+															III
+
+															
+   Finally, we reject petitioner’s contention that our interpretation of the ADEA is controlled by Price Waterhouse, which initially established that the burden of persuasion shifted in alleged mixed-motives Title VII claims.[Footnote 5] In any event, it is far from clear that the Court would have the same approach were it to consider the question today in the first instance.  Cf. 14 Penn Plaza LLC v. Pyett, 556 U. S. ___, ___ (2009) (slip op., at 21) (declining to “introduc[e] a qualification into the ADEA that is not found in its text”); Meacham, supra, at ___ (slip op., at 16) (explaining that the ADEA must be “read … the way Congress wrote it”).
+
+															   Whatever the deficiencies of Price Waterhouse in retrospect, it has become evident in the years since that case was decided that its burden-shifting framework is difficult to apply.  For example, in cases tried to a jury, courts have found it particularly difficult to craft an instruction to explain its burden-shifting framework.  See, e.g., Tyler v. Bethlehem Steel Corp., 958 F. 2d 1176, 1179 (CA2 1992) (referring to “the murky water of shifting burdens in discrimination cases”); Visser v. Packer Engineering Associates, Inc., 924 F. 2d 655, 661 (CA7 1991) (en banc) (Flaum, J., dissenting) (“The difficulty judges have in formulating [burden-shifting] instructions and jurors have in applying them can be seen in the fact that jury verdicts in ADEA cases are supplanted by judgments notwithstanding the verdict or reversed on appeal more frequently than jury verdicts generally”).  Thus, even if Price Waterhouse was doctrinally sound, the problems associated with its application have eliminated any perceivable benefit to extending its framework to ADEA claims.  Cf. Continental T. V., Inc. v. GTE Sylvania Inc., 433 U. S. 36, 47 (1977) (reevaluating precedent that was subject to criticism
+and “continuing controversy and confusion”); Payne v. Tennessee, 501 U. S. 808, 839–844 (1991) (Souter, J., concurring).[Footnote 6]
+
+															IV
+
+															
+   We hold that a plaintiff bringing a disparate-treatment claim pursuant to the ADEA must prove, by a preponderance of the evidence, that age was the “but-for” cause of the challenged adverse employment action.  The burden of persuasion does not shift to the employer to show that it would have taken the action regardless of age, even when a plaintiff has produced some evidence that age was one motivating factor in that decision.  Accordingly, we vacate the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion.
+
+															It is so ordered.
+
+Footnote 1
+															 Although the parties did not specifically frame the question to include this threshold inquiry, “[t]he statement of any question presented is deemed to comprise every subsidiary question fairly included therein.”  This Court’s Rule 14.1; see also City of Sherrill v. Oneida Indian Nation of N. Y., 544 U. S. 197, 214, n. 8 (2005) (“ ‘Questions not explicitly mentioned but essential to the analysis of the decisions below or to the correct disposition of the other issues have been treated as subsidiary issues fairly comprised by the question presented’ ” (quoting R. Stern, E. Gressman, S. Shapiro, & K. Geller, Supreme Court Practice 414 (8th ed. 2002))); Ballard v. Commissioner, 544 U. S. 40, 46–47, and n. 2 (2005) (evaluating “a question anterior” to the “questions the parties raised”).
+
+Footnote 2
+															 Justice Stevens argues that the Court must incorporate its past interpretations of Title VII into the ADEA because “the substantive provisions of the ADEA were derived in haec verba from Title VII,” post, at 4 (dissenting opinion) (internal quotation marks omitted), and because the Court has frequently applied its interpretations of Title VII to the ADEA, see post, at 4–6.  But the Court’s approach to interpreting the ADEA in light of Title VII has not been uniform.  In General Dynamics Land Systems, Inc. v. Cline, 540 U. S. 581 (2004), for example, the Court declined to interpret the phrase “because of … age” in 29 U. S. C. §623(a) to bar discrimination against people of all ages, even though the Court had previously interpreted “because of … race [or] sex” in Title VII to bar discrimination against people of all races and both sexes, see 540 U. S., at 584, 592, n. 5.  And the Court has not definitively decided whether the evidentiary framework of McDonnell Douglas Corp. v. Green, 411 U. S. 792 (1973), utilized in Title VII cases is appropriate in the ADEA context.  See Reeves v. Sanderson Plumbing Products, Inc., 530 U. S. 133, 142 (2000); O’Connor v. Consolidated Coin Caterers Corp., 517 U. S. 308, 311 (1996).  In this instance, it is the textual differences between Title VII and the ADEA that prevent us from applying Price Waterhouse and Desert Palace to federal age discrimination claims.  
+
+Footnote 3
+															 Justice Breyer contends that there is “nothing unfair or impractical” about hinging liability on whether “forbidden motive … play[ed] a role in the employer’s decision.”  Post, at 2–3 (dissenting opinion).  But that is a decision for Congress to make.  See Florida Dept. of Revenue v. Piccadilly Cafeterias, Inc., 554 U. S. ___, ___ (2008) (slip op., at 18).  Congress amended Title VII to allow for employer liability when discrimination “was a motivating factor for any employment practice, even though other factors also motivated the practice,” 42 U. S. C. §2000e–2(m) (emphasis added), but did not similarly amend the ADEA, see supra, at 5–6.  We must give effect to Congress’ choice.  See 14 Penn Plaza LLC v. Pyett, 556 U. S. ___, ___ (2009) (slip op., at 21).
+
+Footnote 4
+															 Because we hold that ADEA plaintiffs retain the burden of persuasion to prove all disparate-treatment claims, we do not need to address whether plaintiffs must present direct, rather than circumstantial, evidence to obtain a burden-shifting instruction.  There is no heightened evidentiary requirement for ADEA plaintiffs to satisfy their burden of persuasion that age was the “but-for” cause of their employer’s adverse action, see 29 U. S. C. §623(a), and we will imply none.  “Congress has been unequivocal when imposing heightened proof requirements” in other statutory contexts, including in other subsections within Title 29, when it has seen fit.  See Desert Palace, Inc. v. Costa, 539 U. S. 90, 99 (2003); see also, e.g., 25 U. S. C. §2504(b)(2)(B) (imposing “clear and convincing evidence” standard); 29 U. S. C. §722(a)(2)(A) (same).
+
+Footnote 5
+															 Justice Stevens also contends that we must apply Price Waterhouse under the reasoning of Smith v. City of Jackson, 544 U. S. 228 (2005).   See post, at 7.  In Smith, the Court applied to the ADEA its pre-1991 interpretation of Title VII with respect to disparate-impact claims despite Congress’ 1991 amendment adding disparate-impact claims to Title VII but not the ADEA.  544 U. S., at 240.  But the amendments made by Congress in this same legislation, which added the “motivating factor” language to Title VII, undermine Justice Stevens’ argument.  Congress not only explicitly added “motivating factor” liability to Title VII, see supra, at 5–6, but it also partially abrogated Price Waterhouse’s holding by eliminating an employer’s complete affirmative defense to “motivating factor” claims, see 42 U. S. C. §2000e–5(g)(2)(B).  If such “motivating factor” claims were already part of Title VII, the addition of §2000e–5(g)(2)(B) alone would have been sufficient.  Congress’ careful tailoring of the “motivating factor” claim in Title VII, as well as the absence of a provision parallel to §2000e–2(m) in the ADEA, confirms that we cannot transfer the Price Waterhouse burden-shifting framework into the ADEA.
+
+Footnote 6
+															 Gross points out that the Court has also applied a burden-shifting framework to certain claims brought in contexts other than pursuant to Title VII.  See Brief for Petitioner 54–55 (citing, inter alia, NLRB v. Transportation Management Corp., 462 U. S. 393, 401–403 (1983) (claims brought under the National Labor Relations Act (NLRA)); Mt. Healthy City Bd. of Ed. v. Doyle, 429 U. S. 274, 287 (1977) (constitutional claims)).  These cases, however, do not require the Court to adopt his contra statutory position.  The case involving the NLRA did not require the Court to decide in the first instance whether burden shifting should apply as the Court instead deferred to the National Labor Relation Board’s determination that such a framework was appropriate.  See NLRB, supra, at 400–403.  And the constitutional cases such as Mt. Healthy have no bearing on the correct interpretation of ADEA claims, which are governed by statutory text.
+
+
+
+													

@@ -1,0 +1,131 @@
+::SCDB_caseID:: 2020-020
+::decision_cite:: 19-5807
+::decision_name::  Edwards v. Vannoy
+::decision_year:: 2021
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–5807
+
+															_________________
+
+															THEDRICK EDWARDS, PETITIONER v. DARREL VANNOY, WARDEN
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[May 17, 2021]
+
+															
+
+															Justice Thomas, with whom Justice Gorsuch joins, concurring.
+
+															I join the majority in full because it correctly charts its way through precedent to hold expressly what we have long implied: “New procedural rules do not apply retroactively on federal collateral review.”  Ante, at 15.  I write separately to highlight that we could also have resolved this case by applying the statutory text of the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA).  AEDPA directs federal courts to deny “any claim that was adjudicated on the merits in State court” unless the state court’s decision “was contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court.”
+
+28 U. S. C. §2254(d)(1).  In 2011, petitioner urged a Louisiana court to hold that the Federal Constitution requires jury unanimity, and the court rejected that claim on the merits.  That conclusion was consistent with Apodaca v. Oregon,
+
+406 U.S. 404 (1972), in which this Court determined that the Constitution does not require unanimous jury verdicts for state criminal convictions.  AEDPA thus leaves no room for this Court—or any federal court—to grant relief.
+
+															I
+
+															A
+
+															Congress first prescribed federal habeas jurisdiction in the Judiciary Act of 1789.  That statute did not clearly define the scope of relief, but “the black-letter principle of the common law [was] that the writ was simply not available at all to one convicted of crime by a court of competent jurisdiction.”[1]  Bator, Finality in Criminal Law and Federal Habeas Corpus for State Prisoners, 76 Harv. L. Rev. 441, 465–466 (1963) (Bator); see Felker v. Turpin,
+
+518 U.S. 651, 663 (1996) (citing Ex parte Watkins, 3 Pet. 193 (1830)).  And the writ did not extend at all to prisoners confined under state authority.  Bator 465.
+
+															Congress expanded the writ in the Habeas Corpus Act of 1867.  Ch. 28,
+
+14Stat.
+385.  This Act extended the writ to prisoners in state custody but again provided only “bare guidelines” about the scope of the writ.[2]  Wright v. West,
+
+505 U.S. 277, 285 (1992) (plurality opinion).  At first, this Court continued to apply the common-law rule that allowed a state petitioner to challenge only “the jurisdiction of the court that had rendered the judgment under which he was in custody.”  Ibid.  But the Court later “expand[ed] the category of claims deemed to be jurisdictional for habeas purposes.”  Ibid.  In 1874, for example, this Court found jurisdictional defects whenever state courts imposed sentences under unconstitutional statutes or imposed sentences not authorized by a statute.  Ibid. (collecting cases).  And a few decades later, the Court expanded relief to situations where, in the eyes of the federal court, “no state court had provided a full and fair opportunity to litigate” a prisoner’s federal claims.  Ibid.  But absent a “jurisdictional” defect, a state court judgment was entitled to “ ‘absolute respect’ ” as long as the prisoner “ ‘had been given an adequate opportunity to obtain full and fair consideration of his federal claim in the state courts.’ ”  Ibid.  That rule left no room to grant relief simply because a state court made an error of law.
+
+															In 1953, this Court abruptly changed course and decided that federal courts could grant a writ of habeas corpus simply because they disagreed with a state court’s judgment.  See Brown v. Allen,
+
+344 U.S. 443, 463.  Around the same time, this Court declared that many constitutional rights of criminal procedure—some old, and some new—applied against the States.  See, e.g., Mapp v. Ohio,
+
+367 U.S. 643 (1961) (exclusionary rule); Gideon v. Wainwright,
+
+372 U.S. 335 (1963) (right to a court-appointed attorney); Miranda v. Arizona,
+
+384 U.S. 436 (1966) (right to be informed of right against self-incrimination).  That combination predictably raised tough questions: Should new rules apply retroactively to final state-court judgments, allowing federal courts to grant habeas relief even if state courts did not err when issuing their decisions?  And if so, by what authority could federal courts grant that relief?
+
+															Admitting that “the Constitution neither prohibits nor requires retrospective effect,” Linkletter v. Walker, 
+381 U.S. 618, 629 (1965), the Court took an atextual and ad hoc approach, presumably based on its interpretation of the 1867 Act.  The Court declared that some federal decisions apply retroactively to final state convictions, thus allowing federal courts to grant habeas relief depending on the “merits and demerits in each case.”  Ibid.  To guide the analysis, Linkletter announced several factors for federal courts to consider: “the prior history of the rule in question, its purpose and effect, and whether retrospective operation will further or retard its operation.”  Ibid.
+
+															This rule did “not le[ad] to consistent results,” so two decades later the Court tried a new interpretation of the 1867 Act.  See Teague v. Lane,
+
+489 U.S. 288, 302 (1989) (plurality opinion); Danforth v. Minnesota,
+
+552 U.S. 264, 278 (2008) (“Teague’s general rule of nonretroactivity was an exercise of this Court’s power to interpret the federal habeas statute”).  Relevant here, Teague allowed federal courts to give new constitutional rules of criminal procedure retroactive effect on habeas review only if the new rule was “watershed,” “ ‘bedrock,’ ” or “ ‘essential.’ ”  489 U. S., at 311 (emphasis deleted).[3]
+
+															B
+
+															Teague, however, was not the final word on how federal courts should review the decisions of state courts.  In 1996, Congress enacted AEDPA, the most significant change to the habeas corpus statute since 1867.  AEDPA filled in the “bare guidelines” of the 1867 Act by creating a comprehensive system for addressing federal habeas claims brought by state prisoners.  See Wright, 505 U. S., at 285.
+
+															Directly relevant here are two provisions that ensure that state courts have the primary role in adjudicating these claims.  First, a prisoner must exhaust his claims in state court before he can seek relief in federal court.  If “any available [state-law] procedure” remains open, a federal “writ of habeas corpus . . . shall not be granted.”  §§2254(b)–(c).  Second, once a state court has had the opportunity to decide that claim, AEDPA demands that federal courts respect that judgment.  The law precludes relief “with respect to any claim that was adjudicated on the merits in State court proceedings unless the adjudication of the claim” either (1) “resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States,” or (2) “resulted in a decision that was based on an unreasonable determination of the facts in light of the evidence presented in the State court proceeding.”  §2254(d).  It is not enough for a federal court to disagree with the state court—much less disagree on a point of law that this Court had not yet settled when the state court issued its judgment.  Rather, the state court’s decision must conflict with clearly established law and be obviously wrong “beyond any possibility for fairminded disagreement.”  Harrington v. Richter,
+
+562 U.S. 86, 103 (2011); Greene v. Fisher,
+
+565 U.S. 34, 38–40 (2011).
+
+															II
+
+															A
+
+															Here, the system worked as designed.  Edwards presented his unanimous jury claim to a Louisiana court.  And the state court reasonably relied on Apodaca in rejecting that claim.  AEDPA is clear about what happens next—relief “shall not be granted.”  §2254(d).
+
+															Our analysis could have begun and ended there—with §2254(d)(1)’s plain text.  Congress, through AEDPA, has made clear that federal courts cannot provide relief in this case.  See Montgomery v. Louisiana,
+
+577 U.S. 190, 221 (2016) (Scalia, J., dissenting); see also Ex parte Bollman, 4 Cranch 75, 94 (1807) (Marshall, C. J.) (“[T]he power to award the writ by any of the courts of the United States, must be given by written law”).
+
+															B
+
+															The Court, instead, relies on Teague.  I join the Court’s opinion because it correctly applies precedent and leads to the same judgment, but I would be remiss if I did not point out two other problems with Teague.  
+
+															First, it has never been clear what gave this Court authority to grant habeas relief to state prisoners based on “new” constitutional rules of criminal procedure.  Teague did not explain why the 1867 Act gave federal courts this power.  Moreover, Teague primarily focused on moving the law in the opposite direction of Linkletter’s permissive approach to collaterally reviewing final state convictions.  See Danforth, 552 U. S., at 278 (“Teague . . . situated the rule it announced in th[e] line of cases adjusting the scope of federal habeas relief in accordance with equitable and prudential considerations”). Even if federal courts had this power, we never decided whether Congress’ most recent version of the habeas statute—AEDPA—continued to allow such relief.  Given all that, the majority wisely closes a door to retroactive relief that likely never existed in the first place. 
+
+															Second, the Court’s reliance on Teague today and in the past should not be construed to signal that AEDPA is an afterthought in analyzing a claim like petitioner’s or that Teague could justify relief where AEDPA forecloses it.  AEDPA does contemplate that some new constitutional rules might be retroactive in narrow circumstances.  See §§2254(e)(2)(A)(i) (evidentiary hearings), 2244(b)(2)(A) (second-or-successive bar), 2244(d)(1)(C) (statute of limitations).  But it does not contemplate retroactive rules upsetting a state court’s adjudication of an issue that reasonably applied the law at the time.  Section 2254(d)—the absolute bar on claims that state courts reasonably denied—has no exception for retroactive rights.  Congress’ decision to create retroactivity exceptions to the statute of limitations and to the bar on second-or-successive petitions but not for §2254(d) is strong evidence that Teague could never have led to relief here.  Russello v. United States,
+
+464 U.S. 16, 23 (1983).[4]  The plain text applies regardless of what a previous interpretation of a previous statute says.[5]
+
+															*  *  *
+
+															A state court rejected petitioner’s claim that he was entitled to a unanimous jury verdict.  That adjudication was not unreasonable or contrary to clearly established federal law.  AEDPA’s explicit directive thus independently resolves this case: “a writ of habeas corpus . . . shall not be granted.”  §2254(d).
+Notes
+1
+ Section 14 of the Judiciary Act provided that “courts of the United States . . . shall have power to issue writs of . . . habeas corpus” and that “justices of the supreme court, as well as judges of the district courts, shall have power to grant writs of habeas corpus for the purpose of an inquiry into the cause of commitment.—Provided, That writs of habeas corpus shall in no cases extend to prisoners in gaol, unless where they are in custody, under or by colour of the authority of the United States, or are committed for trial before some court of the same, or are necessary to be brought into court to testify.”
+
+1Stat.
+81–82. 
+
+2
+ The relevant language of the Act stated that courts, “in addition to the authority already conferred by [the Judiciary Act of 1789], shall have power to grant writs of habeas corpus in all cases where any person may be restrained of his or her liberty in violation of the constitution, or of any treaty or law of the United States.”
+
+14Stat.
+385. 
+
+3
+ Two years before Teague, this Court overruled cases that had allowed courts to apply the balancing test in Linkletter v. Walker,
+
+381 U.S. 618 (1965), to cases on direct review, holding instead that the Constitution required courts to apply new procedural rules retroactively to cases on direct appellate review.  Griffith v. Kentucky,
+
+479 U.S. 314, 328 (1987).  Teague also explained that new rules that “accord constitutional protection to . . . primary activity” retroactively apply to cases on federal collateral review.  489 U. S., at 307, 310–311.  These are considered substantive rules.  See Welch v. United States,
+
+578 U.S. 120, 128 (2016). 
+
+4
+ As Justice Gorsuch correctly points out, federal courts have “equitable discretion to decide whether to issue the writ or to provide a remedy,” which includes the powers to create doctrines such as harmless error.  Post, at 8 (concurring opinion).  And federal courts can rely on those doctrines as well as statutory bars to deny relief.  That is why, as Justice Gorsuch explains, an equitable retroactivity bar with no watershed exception can independently justify denying relief.  Post, at 9, n. 5. 
+
+5
+ The Constitution does not require that habeas relief be available for new “watershed” rules of criminal procedure.  See, e.g., Brown v. Allen,
+
+344 U.S. 443, 532–533 (1953) (Jackson, J., concurring in result); Linkletter, 381 U. S., at 629.  Teague also acknowledged that a later change in law does not require invalidating a final judgment.  See 489 U. S., at 308–309 (plurality opinion).  And again, habeas corpus traditionally did not apply at all to prisoners sentenced by a court with valid jurisdiction.  See Bator 465–466. 
+
+

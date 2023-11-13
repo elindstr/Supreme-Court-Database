@@ -1,0 +1,92 @@
+::SCDB_caseID:: 2021-058
+::decision_cite:: 21-328
+::decision_name::  Morgan v. Sundance, Inc.
+::decision_year:: 2022
+::opinion_author:: Kagan
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–328
+
+															_________________
+
+															ROBYN MORGAN, PETITIONER v. SUNDANCE, INC.
+
+															on writ of certiorari to the united states court of appeals for the eighth circuit
+
+															[May 23, 2022]
+
+															
+
+															Justice Kagan delivered the opinion of the Court.
+
+															When a party who has agreed to arbitrate a dispute instead brings a lawsuit, the Federal Arbitration Act (FAA) entitles the defendant to file an application to stay the litigation.  See
+
+9 U. S. C. §3.  But defendants do not always seek that relief right away.  Sometimes, they engage in months, or even years, of litigation—filing motions to dismiss, answering complaints, and discussing settlement—before deciding they would fare better in arbitration.  When that happens, the court faces a question: Has the defendant’s request to switch to arbitration come too late?
+
+															Most Courts of Appeals have answered that question by applying a rule of waiver specific to the arbitration context.  Usually, a federal court deciding whether a litigant has waived a right does not ask if its actions caused harm.  But when the right concerns arbitration, courts have held, a finding of harm is essential: A party can waive its arbitration right by litigating only when its conduct has prejudiced the other side.  That special rule, the courts say, derives from the FAA’s “policy favoring arbitration.”
+
+															We granted certiorari to decide whether the FAA authorizes federal courts to create such an arbitration-specific procedural rule.  We hold it does not.
+
+															I
+
+															Petitioner Robyn Morgan worked as an hourly employee at a Taco Bell franchise owned by respondent Sundance.  When applying for the job, she signed an agreement to “use confidential binding arbitration, instead of going to court,” to resolve any employment dispute.  App. 77.
+
+															Despite that agreement, Morgan brought a nationwide collective action against Sundance in federal court for violations of the Fair Labor Standards Act.  Under that statute, employers must pay overtime to covered employees who work more than 40 hours in a week.  See
+
+29 U. S. C. §207(a).  Morgan alleged that Sundance routinely flouted the Act—most notably, by recording hours worked in one week as instead worked in another to prevent any week’s total from exceeding 40.  See App. 12.
+
+															Sundance initially defended itself against Morgan’s suit as if no arbitration agreement existed.  Sundance first moved to dismiss the suit as duplicative of a collective action previously brought by other Taco Bell employees.  In that motion, Sundance suggested that Morgan either “join” the earlier suit or “refile her claim on an individual basis.”  Id., at 39.  But Morgan declined the invitation to litigate differently, and the District Court denied Sundance’s motion.  Sundance then answered Morgan’s complaint, asserting 14 affirmative defenses—but none mentioning the arbitration agreement.  Soon afterward, Sundance met in a joint mediation with the named plaintiffs in both collective actions.  The other suit settled, but Morgan’s did not.  She and Sundance began to talk about scheduling the rest of the litigation.
+
+															And then—nearly eight months after the suit’s filing—Sundance changed course.  It moved to stay the litigation and compel arbitration under Sections 3 and 4 of the FAA.  See §3 (providing for a stay of judicial proceedings on “issue[s] referable to arbitration”); §4 (providing for an order “directing the parties to proceed to arbitration”).  Morgan opposed the motion, arguing that Sundance had waived its right to arbitrate by litigating for so long.  Sundance responded that it had asserted its right as soon as this Court’s decision in Lamps Plus, Inc. v. Varela, 587 U. S. ___ (2019), clarified that the arbitration would proceed on a bilateral (not collective) basis.
+
+															The courts below applied Eighth Circuit precedent to decide the waiver issue.  See 992 F.3d 711, 713–715 (2021); No. 4:18–cv–316 (ND Iowa, June 28, 2019), App. to Pet. for Cert. 21–33.  Under that Circuit’s test, a party waives its contractual right to arbitration if it knew of the right; “acted inconsistently with that right”; and—critical here—“prejudiced the other party by its inconsistent actions.”  Erdman Co. v. Phoenix Land & Acquisition, LLC, 650 F.3d 1115, 1117 (CA8 2011).  The prejudice requirement, as explained later, is not a feature of federal waiver law generally.  See infra, at 5.  The Eighth Circuit adopted the requirement in the arbitration context because of the “federal policy favoring arbitration.”  Erdman, 650 F. 3d, at 1120; see id., at 1117.
+
+															Although the District Court found the prejudice requirement satisfied, the Court of Appeals disagreed and sent Morgan’s case to arbitration.  The panel majority reasoned that the parties had not yet begun formal discovery or contested any matters “going to the merits.”  992 F. 3d, at 715.  Judge Colloton dissented.  He argued that Sundance had “led Morgan to waste time and money” opposing the motion to dismiss and “engaging in a fruitless mediation.”  Id., at 717.  More fundamentally, he raised doubts about the Eighth Circuit’s prejudice requirement.  Outside the arbitration context, Judge Colloton observed, prejudice is not needed for waiver.  See id., at 716.  In line with that general principle, he continued, “some circuits allow a finding of waiver of arbitration without a showing of prejudice.”  Id., at 716–717.
+
+															We granted certiorari, 595 U. S. ___ (2021), to resolve that circuit split.  Nine circuits, including the Eighth, have invoked “the strong federal policy favoring arbitration” in support of an arbitration-specific waiver rule demanding a showing of prejudice.[1]  Two circuits have rejected that rule.[2]  We do too.
+
+															II
+
+															We decide today a single issue, responsive to the predominant analysis in the Courts of Appeals, rather than to all the arguments the parties have raised.  In their briefing, the parties have disagreed about the role state law might play in resolving when a party’s litigation conduct results in the loss of a contractual right to arbitrate.  The parties have also quarreled about whether to understand that inquiry as involving rules of waiver, forfeiture, estoppel, laches, or procedural timeliness.  We do not address those issues.  The Courts of Appeals, including the Eighth Circuit, have generally resolved cases like this one as a matter of federal law, using the terminology of waiver.  For today, we assume without deciding they are right to do so.  We consider only the next step in their reasoning: that they may create arbitration-specific variants of federal procedural rules, like those concerning waiver, based on the FAA’s “policy favoring arbitration.”  Moses H. Cone Memorial Hospital v. Mercury Constr. Corp.,
+
+460 U.S. 1, 24 (1983).  They cannot.  For that reason, the Eighth Circuit was wrong to condition a waiver of the right to arbitrate on a showing of prejudice.
+
+															Outside the arbitration context, a federal court assessing waiver does not generally ask about prejudice.  Waiver, we have said, “is the intentional relinquishment or abandonment of a known right.”  United States v. Olano,
+
+507 U.S. 725, 733 (1993) (internal quotation marks omitted).  To decide whether a waiver has occurred, the court focuses on the actions of the person who held the right; the court seldom considers the effects of those actions on the opposing party.  That analysis applies to the waiver of a contractual right, as of any other.  As Judge Colloton noted in dissent below, a contractual waiver “normally is effective” without proof of “detrimental reliance.”  992 F. 3d, at 716; see Cabinetree of Wisconsin, Inc. v. Kraftmaid Cabinetry, Inc., 50 F.3d 388, 390 (CA7 1995) (Posner, C. J., for the Court).  So in demanding that kind of proof before finding the waiver of an arbitration right, the Eighth Circuit applies a rule found nowhere else—consider it a bespoke rule of waiver for arbitration.
+
+															The Eighth Circuit’s arbitration-specific rule derives from a decades-old Second Circuit decision, which in turn grounded the rule in the FAA’s policy.  See Carcich v. Rederi A/B Nordie, 389 F.2d 692, 696 (CA2 1968); Erdman, 650 F. 3d, at 1120, n. 4 (“trac[ing] the origins of [the Eighth Circuit’s] prejudice requirement to Carcich”).  “[T]here is,” the Second Circuit declared, “an overriding federal policy favoring arbitration.”  Carcich, 389 F. 3d, at 696.  For that reason, the court held, waiver of the right to arbitrate “is not to be lightly inferred”: “[M]ere delay” in seeking a stay of litigation, “without some resultant prejudice” to the opposing party, “cannot carry the day.”  Ibid.  Over the years, both that rule and its reasoning spread.  Circuit after circuit (with just a couple of holdouts) justified adopting a prejudice requirement based on the “liberal national policy favoring arbitration.”  Carolina Throwing Co. v. S & E Novelty Corp., 442 F.2d 329, 331 (CA4 1971) (per curiam); see, e.g., PaineWebber Inc. v. Faragalli, 61 F.3d 1063, 1068–1069 (CA3 1995); Shinto Shipping Co. v. Fibrex & Shipping Co., Inc., 572 F.2d 1328, 1330 (CA9 1978).
+
+															 But the FAA’s “policy favoring arbitration” does not authorize federal courts to invent special, arbitration-preferring procedural rules.  Moses H. Cone, 460 U. S., at 24.  Our frequent use of that phrase connotes something different.  “Th[e] policy,” we have explained, “is merely an acknowledgment of the FAA’s commitment to overrule the judiciary’s longstanding refusal to enforce agreements to arbitrate and to place such agreements upon the same footing as other contracts.”  Granite Rock Co. v. Teamsters,
+
+561 U.S. 287, 302 (2010) (internal quotation marks omitted).  Or in another formulation: The policy is to make “arbitration agreements as enforceable as other contracts, but not more so.”  Prima Paint Corp. v. Flood & Conklin Mfg. Co.,
+
+388 U.S. 395, 404, n. 12 (1967).  Accordingly, a court must hold a party to its arbitration contract just as the court would to any other kind.  But a court may not devise novel rules to favor arbitration over litigation.  See Dean Witter Reynolds Inc. v. Byrd,
+
+470 U.S. 213, 218–221 (1985).  If an ordinary procedural rule—whether of waiver or forfeiture or what-have-you—would counsel against enforcement of an arbitration contract, then so be it.  The federal policy is about treating arbitration contracts like all others, not about fostering arbitration.  See ibid.; National Foundation for Cancer Research v. A. G. Edwards & Sons, Inc., 821 F.2d 772, 774 (CADC 1987) (“The Supreme Court has made clear” that the FAA’s policy “is based upon the enforcement of contract, rather than a preference for arbitration as an alternative dispute resolution mechanism”).
+
+															And indeed, the text of the FAA makes clear that courts are not to create arbitration-specific procedural rules like the one we address here.  Section 6 of the FAA provides that any application under the statute—including an application to stay litigation or compel arbitration—“shall be made and heard in the manner provided by law for the making and hearing of motions” (unless the statute says otherwise).  A directive to a federal court to treat arbitration applications “in the manner provided by law” for all other motions is simply a command to apply the usual federal procedural rules, including any rules relating to a motion’s timeliness.  Or put conversely, it is a bar on using custom-made rules, to tilt the playing field in favor of (or against) arbitration.  As explained above, the usual federal rule of waiver does not include a prejudice requirement.  So Section 6 instructs that prejudice is not a condition of finding that a party, by litigating too long, waived its right to stay litigation or compel arbitration under the FAA.
+
+															Stripped of its prejudice requirement, the Eighth Circuit’s current waiver inquiry would focus on Sundance’s conduct.  Did Sundance, as the rest of the Eighth Circuit’s test asks, knowingly relinquish the right to arbitrate by acting inconsistently with that right?  See supra, at 3.  On remand, the Court of Appeals may resolve that question, or (as indicated above) determine that a different procedural framework (such as forfeiture) is appropriate.  See supra, at 4.  Our sole holding today is that it may not make up a new procedural rule based on the FAA’s “policy favoring arbitration.”
+
+															*  *  *
+
+															For the reasons stated, we vacate the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+ Joca-Roca Real Estate, LLC v. Brennan, 772 F.3d 945, 948 (CA1 2014); see O. J. Distributing, Inc. v. Hornell Brewing Co., 340 F.3d 345, 355–356 (CA6 2003); PaineWebber Inc. v. Faragalli, 61 F.3d 1063, 1068–1069 (CA3 1995); S & H Contractors, Inc. v. A. J. Taft Coal Co., 906 F.2d 1507, 1514 (CA11 1990); Miller Brewing Co. v. Fort Worth Distributing Co., 781 F.2d 494, 497 (CA5 1986); ATSA of Cal., Inc. v. Continental Ins. Co., 702 F.2d 172, 175 (CA9 1983); Carolina Throwing Co. v. S & E Novelty Corp., 442 F.2d 329, 331 (CA4 1971) (per curiam); Carcich v. Rederi A/B Nordie, 389 F.2d 692, 696 (CA2 1968). 
+
+2
+ See St. Mary’s Medical Center of Evansville, Inc., v. Disco Aluminum Prods. Co., 969 F.2d 585, 590 (CA7 1992); National Foundation for Cancer Research v. A. G. Edwards & Sons, Inc., 821 F.2d 772, 774, 777 (CADC 1987). 
+
+

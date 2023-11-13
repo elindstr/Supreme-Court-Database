@@ -1,0 +1,616 @@
+::SCDB_caseID:: 2019-002
+::decision_cite:: 18-5924
+::decision_name::  Ramos v. Louisiana
+::decision_year:: 2020
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–5924
+
+															_________________
+
+															EVANGELISTO RAMOS, PETITIONER v. LOUISIANA
+
+															on writ of certiorari to the court of appeal of louisiana, fourth circuit
+
+															[April 20, 2020]
+
+															Justice Gorsuch announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I, II–A, III, and IV–B–1, an opinion with respect to Parts II–B, IV–B–2, and V, in which Justice Ginsburg, Justice Breyer, and Justice Sotomayor join, and an opinion with respect to Part IV–A, in which Justice Ginsburg and Justice Breyer join.
+
+															Accused of a serious crime, Evangelisto Ramos insisted on his innocence and invoked his right to a jury trial.  Eventually, 10 jurors found the evidence against him persuasive.  But a pair of jurors believed that the State of Louisiana had failed to prove Mr. Ramos’s guilt beyond reasonable doubt; they voted to acquit.
+
+															In 48 States and federal court, a single juror’s vote to acquit is enough to prevent a conviction.  But not in Louisiana.  Along with Oregon, Louisiana has long punished people based on 10-to-2 verdicts like the one here.  So instead of the mistrial he would have received almost anywhere else, Mr. Ramos was sentenced to life in prison without the possibility of parole.
+
+															Why do Louisiana and Oregon allow nonunanimous convictions?  Though it’s hard to say why these laws persist, their origins are clear.  Louisiana first endorsed nonunanimous verdicts for serious crimes at a constitutional convention in 1898.  According to one committee chairman, the avowed purpose of that convention was to “establish the supremacy of the white race,” and the resulting document included many of the trappings of the Jim Crow era: a poll tax, a combined literacy and property ownership test, and a grandfather clause that in practice exempted white residents from the most onerous of these requirements.[1]
+
+															Nor was it only the prospect of African-Americans voting that concerned the delegates.  Just a week before the convention, the U. S. Senate passed a resolution calling for an investigation into whether Louisiana was systemically excluding African-Americans from juries.[2]  Seeking to avoid unwanted national attention, and aware that this Court would strike down any policy of overt discrimination against African-American jurors as a violation of the
+ 
+Fourteenth Amendment,[3] the delegates sought to undermine  African-American participation on juries in another way.  With a careful eye on racial demographics, the convention delegates sculpted a “facially race-neutral” rule permitting 10-to-2 verdicts in order “to ensure that African-American juror service would be meaningless.”[4]
+
+															Adopted in the 1930s, Oregon’s rule permitting nonunanimous verdicts can be similarly traced to the rise of the Ku Klux Klan and efforts to dilute “the influence of racial, ethnic, and religious minorities on Oregon juries.”[5]  In fact, no one before us contests any of this; courts in both Louisiana and Oregon have frankly acknowledged that race was a motivating factor in the adoption of their States’ respective nonunanimity rules.[6]
+
+															We took this case to decide whether the
+ 
+Sixth Amendment right to a jury trial—as incorporated against the States by way of the
+ 
+Fourteenth Amendment—requires a unanimous verdict to convict a defendant of a serious offense.[7]  Louisiana insists that this Court has never definitively passed on the question and urges us to find its practice consistent with the
+ 
+Sixth Amendment.  By contrast, the dissent doesn’t try to defend Louisiana’s law on Sixth or
+ 
+Fourteenth Amendment grounds; tacitly, it seems to admit that the Constitution forbids States from using nonunanimous juries.  Yet, unprompted by Louisiana, the dissent suggests our precedent requires us to rule for the State anyway.  What explains all this?  To answer the puzzle, it’s necessary to say a bit more about the merits of the question presented, the relevant precedent, and, at last, the consequences that follow from saying what we know to be true.
+
+															I
+
+															The
+ 
+Sixth Amendment promises that “[i]n all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law.”  The Amendment goes on to preserve other rights for criminal defendants but says nothing else about what a “trial by an impartial jury” entails.
+
+															Still, the promise of a jury trial surely meant something—otherwise, there would have been no reason to write it down.  Nor would it have made any sense to spell out the places from which jurors should be drawn if their powers as jurors could be freely abridged by statute.  Imagine a constitution that allowed a “jury trial” to mean nothing but a single person rubberstamping convictions without hearing any evidence—but simultaneously insisting that the lone juror come from a specific judicial district “previously ascertained by law.”  And if that’s not enough, imagine a constitution that included the same hollow guarantee twice—not only in the
+ 
+Sixth Amendment, but also in Article III.[8]  No:  The text and structure of the Constitution clearly suggest that the term “trial by an impartial jury” carried with it some meaning about the content and requirements of a jury trial.
+
+															One of these requirements was unanimity.  Wherever we might look to determine what the term “trial by an impartial jury trial” meant at the time of the
+ 
+Sixth Amendment’s adoption—whether it’s the common law, state practices in the founding era, or opinions and treatises written soon afterward—the answer is unmistakable.  A jury must reach a unanimous verdict in order to convict.
+
+															The requirement of juror unanimity emerged in 14th- century England and was soon accepted as a vital right protected by the common law.[9]  As Blackstone explained, no person could be found guilty of a serious crime unless “the truth of every accusation . . . should . . . be confirmed by the unanimous suffrage of twelve of his equals and neighbors, indifferently chosen, and superior to all suspicion.”[10]  A “ ‘verdict, taken from eleven, was no verdict’ ” at all.[11]
+
+															This same rule applied in the young American States.  Six State Constitutions explicitly required unanimity.[12]  Another four preserved the right to a jury trial in more general terms.[13]  But the variations did not matter much; consistent with the common law, state courts appeared to regard unanimity as an essential feature of the jury trial.[14]
+
+															It was against this backdrop that James Madison drafted and the States ratified the
+ 
+Sixth Amendment in 1791.  By that time, unanimous verdicts had been required for about 400 years.[15]  If the term “trial by an impartial jury” carried any meaning at all, it surely included a requirement as long and widely accepted as unanimity.
+
+															Influential, postadoption treatises confirm this understanding.  For example, in 1824, Nathan Dane reported as fact that the U. S. Constitution required unanimity in criminal jury trials for serious offenses.[16]  A few years later, Justice Story explained in his Commentaries on the Constitution that “in common cases, the law not only presumes every man innocent, until he is proved guilty; but unanimity in the verdict of the jury is indispensable.”[17]  Similar statements can be found in American legal treatises throughout the 19th century.[18]
+
+															Nor is this a case where the original public meaning was lost to time and only recently recovered.  This Court has, repeatedly and over many years, recognized that the
+ 
+Sixth Amendment requires unanimity.  As early as 1898, the Court said that a defendant enjoys a “constitutional right to demand that his liberty should not be taken from him except by the joint action of the court and the unanimous verdict of a jury of twelve persons.”[19]  A few decades later, the Court elaborated that the
+ 
+Sixth Amendment affords a right to “a trial by jury as understood and applied at common law, . . . includ[ing] all the essential elements as they were recognized in this country and England when the Constitution was adopted.”[20]  And, the Court observed, this  includes a requirement “that the verdict should be unanimous.”[21]  In all, this Court has commented on the
+ 
+Sixth Amendment’s unanimity requirement no fewer than 13 times over more than 120 years.[22]
+
+															There can be no question either that the
+ 
+Sixth Amendment’s unanimity requirement applies to state and federal criminal trials equally.  This Court has long explained that the
+ 
+Sixth Amendment right to a jury trial is “fundamental to the American scheme of justice” and incorporated against the States under the
+ 
+Fourteenth Amendment.[23]  This Court has long explained, too, that incorporated provisions of the Bill of Rights bear the same content when asserted against States as they do when asserted against the federal government.[24]  So if the
+ 
+Sixth Amendment’s right to a jury trial requires a unanimous verdict to support a conviction in federal court, it requires no less in state court.
+
+															II
+
+															A
+
+															How, despite these seemingly straightforward principles, have Louisiana’s and Oregon’s laws managed to hang on for so long?  It turns out that the
+ 
+Sixth Amendment’s otherwise simple story took a strange turn in 1972.  That year, the Court confronted these States’ unconventional schemes for the first time—in Apodaca v. Oregon[25] and a companion case, Johnson v. Louisiana.[26]  Ultimately, the Court could do no more than issue a badly fractured set of opinions.  Four dissenting Justices would not have hesitated to strike down the States’ laws, recognizing that the
+ 
+Sixth Amendment requires unanimity and that this guarantee is fully applicable against the States under the
+ 
+Fourteenth Amendment.[27]  But a four-Justice plurality took a very different view of the
+ 
+Sixth Amendment.  These Justices declared that the real question before them was whether unanimity serves an important “function” in “contemporary society.”[28]  Then, having reframed the question, the plurality wasted few words before concluding that unanimity’s costs outweigh its benefits in the modern era, so the
+ 
+Sixth Amendment should not stand in the way of Louisiana or Oregon.
+
+															The ninth Member of the Court adopted a position that was neither here nor there.  On the one hand, Justice Powell agreed that, as a matter of “history and precedent, . . . the
+ 
+Sixth Amendment requires a unanimous jury verdict to convict.”[29]  But, on the other hand, he argued that the
+ 
+Fourteenth Amendment does not render this guarantee against the federal government fully applicable against the States.  In this way, Justice Powell doubled down on his belief in “dual-track” incorporation—the idea that a single right can mean two different things depending on whether it is being invoked against the federal or a state government.
+
+															Justice Powell acknowledged that his argument for dual-track incorporation came “late in the day.”[30]  Late it was.  The Court had already, nearly a decade earlier, “rejected the notion that the
+ 
+Fourteenth Amendment applies to the States only a ‘watered-down, subjective version of the individual guarantees of the Bill of Rights.’ ”[31]  It’s a point we’ve restated many times since, too, including as recently as last year.[32]  Still, Justice Powell frankly explained, he was “unwillin[g]” to follow the Court’s precedents.[33]  So he offered up the essential fifth vote to uphold Mr. Apodaca’s conviction—if based only on a view of the
+ 
+Fourteenth Amendment that he knew was (and remains) foreclosed by precedent.
+
+															B
+
+															In the years following Apodaca, both Louisiana and Oregon chose to continue allowing nonunanimous verdicts.  But their practices have always stood on shaky ground.  After all, while Justice Powell’s vote secured a favorable judgment for the States in Apodaca, it’s never been clear what rationale could support a similar result in future cases.  Only two possibilities exist:  Either the
+ 
+Sixth Amendment allows nonunanimous verdicts, or the
+ 
+Sixth Amendment’s guarantee of a jury trial applies with less force to the States under the
+ 
+Fourteenth Amendment.  Yet, as we’ve seen, both bear their problems.  In Apodaca itself, a majority of Justices—including Justice Powell—recognized that the
+ 
+Sixth Amendment demands unanimity, just as our cases have long said.  And this Court’s precedents, both then and now, prevent the Court from applying the
+ 
+Sixth Amendment to the States in some mutated and diminished form under the 
+ 
+Fourteenth Amendment.  So what could we possibly describe as the “holding” of Apodaca?
+
+															Really, no one has found a way to make sense of it.  In later cases, this Court has labeled Apodaca an “exception,” “unusual,” and in any event “not an endorsement” of Justice Powell’s view of incorporation.[34]  At the same time, we have continued to recognize the historical need for unanimity.[35]  We’ve been studiously ambiguous, even inconsistent, about what Apodaca might mean.[36]  To its credit, Louisiana acknowledges the problem.  The State expressly tells us it is not “asking the Court to accord Justice Powell’s solo opinion in Apodaca precedential force.”[37]  Instead, in an effort to win today’s case, Louisiana embraces the idea that everything is up for grabs.  It contends that this Court has never definitively ruled on the propriety of nonunanimous juries under the
+ 
+Sixth Amendment—and that we should use this case to hold for the first time that nonunanimous juries are permissible in state and federal courts alike.
+
+															III
+
+															Louisiana’s approach may not be quite as tough as trying to defend Justice Powell’s dual-track theory of incorporation, but it’s pretty close.  How does the State deal with the fact this Court has said 13 times over 120 years that the
+ 
+Sixth Amendment does require unanimity?  Or the fact that five Justices in Apodaca said the same?  The best the State can offer is to suggest that all these statements came in dicta.[38]  But even supposing (without granting) that Louisiana is right and it’s dicta all the way down, why would the Court now walk away from many of its own statements about the Constitution’s meaning?  And what about the prior 400 years of English and American cases requiring unanimity—should we dismiss all those as dicta too?
+
+															Sensibly, Louisiana doesn’t dispute that the common law required unanimity.  Instead, it argues that the drafting history of the
+ 
+Sixth Amendment reveals an intent by the framers to leave this particular feature behind.  The State points to the fact that Madison’s proposal for the
+ 
+Sixth Amendment originally read:  “The trial of all crimes . . . shall be by an impartial jury of freeholders of the vicinage, with the requisite of unanimity for conviction, of the right of challenge, and other accustomed requisites. . . .”[39]  Louisiana notes that the House of Representatives approved this text with minor modifications.  Yet, the State stresses, the Senate replaced “impartial jury of freeholders of the vicinage” with “impartial jury of the State and district wherein the crime shall have been committed” and also removed the explicit references to unanimity, the right of challenge, and “other accustomed requisites.”  In light of these revisions, Louisiana would have us infer an intent to abandon the common law’s traditional unanimity requirement.
+
+															But this snippet of drafting history could just as easily support the opposite inference.  Maybe the Senate deleted the language about unanimity, the right of challenge, and “other accustomed prerequisites” because all this was so plainly included in the promise of a “trial by an impartial jury” that Senators considered the language surplusage.  The truth is that we have little contemporaneous evidence shedding light on why the Senate acted as it did.[40]  So rather than dwelling on text left on the cutting room floor, we are much better served by interpreting the language Congress retained and the States ratified.  And, as we’ve seen, at the time of the Amendment’s adoption, the right to a jury trial meant a trial in which the jury renders a unanimous verdict.
+
+															Further undermining Louisiana’s inference about the drafting history is the fact it proves too much.  If the Senate’s deletion of the word “unanimity” changed the meaning of the text that remains, then the same would seemingly have to follow for the other deleted words as well.  So it’s not just unanimity that died in the Senate, but all the “other accustomed requisites” associated with the common law jury trial right—i.e., everything history might have taught us about what it means to have a jury trial.  Taking the State’s argument from drafting history to its logical conclusion would thus leave the right to a “trial by jury” devoid of meaning.  A right mentioned twice in the Constitution would be reduced to an empty promise.  That can’t be right.
+
+															Faced with this hard fact, Louisiana’s only remaining option is to invite us to distinguish between the historic features of common law jury trials that (we think) serve “important enough” functions to migrate silently into the
+ 
+Sixth Amendment and those that don’t.  And, on the State’s account, we should conclude that unanimity isn’t worthy enough to make the trip.
+
+															But to see the dangers of Louisiana’s overwise approach, there’s no need to look any further than Apodaca itself.  There, four Justices, pursuing the functionalist approach Louisiana espouses, began by describing the “ ‘essential’ ” benefit of a jury trial as “ ‘the interposition . . . of the commonsense judgment of a group of laymen’ ” between the defendant and the possibility of an “ ‘overzealous prosecutor.’ ”[41]  And measured against that muddy yardstick, they quickly concluded that requiring 12 rather than 10 votes to convict offers no meaningful improvement.[42]  Meanwhile, these Justices argued, States have good and important reasons for dispensing with unanimity, such as seeking to reduce the rate of hung juries.[43]
+
+															Who can profess confidence in a breezy cost-benefit analysis like that?  Lost in the accounting are the racially discriminatory reasons that Louisiana and Oregon adopted their peculiar rules in the first place.[44]  What’s more, the plurality never explained why the promised benefit of abandoning unanimity—reducing the rate of hung juries—always scores as a credit, not a cost.  But who can say whether any particular hung jury is a waste, rather than an example of a jury doing exactly what the plurality said it should—deliberating carefully and safeguarding against overzealous prosecutions?  And what about the fact, too, that some studies suggest that the elimination of unanimity has only a small effect on the rate of hung juries?[45]  Or the fact that others profess to have found that requiring unanimity may provide other possible benefits, including more open-minded and more thorough deliberations?[46]  It seems  the Apodaca plurality never even conceived of such  possibilities.
+
+															Our real objection here isn’t that the Apodaca plurality’s cost-benefit analysis was too skimpy.  The deeper problem is that the plurality subjected the ancient guarantee of a unanimous jury verdict to its own functionalist assessment in the first place.  And Louisiana asks us to repeat the error today, just replacing Apodaca’s functionalist assessment with our own updated version.  All this overlooks the fact that, at the time of the
+ 
+Sixth Amendment’s adoption, the right to trial by jury included a right to a unanimous verdict.  When the American people chose to enshrine that right in the Constitution, they weren’t suggesting fruitful topics for future cost-benefit analyses.  They were seeking to ensure that their children’s children would enjoy the same hard-won liberty they enjoyed.  As judges, it is not our role to reassess whether the right to a unanimous jury is “important enough” to retain.  With humility, we must accept that this right may serve purposes evading our current notice.  We are entrusted to preserve and protect that liberty, not balance it away aided by no more than social  statistics.[47]
+
+															IV
+
+															A
+
+															If Louisiana’s path to an affirmance is a difficult one, the dissent’s is trickier still.  The dissent doesn’t dispute that the
+ 
+Sixth Amendment protects the right to a unanimous jury verdict, or that the
+ 
+Fourteenth Amendment extends this right to state-court trials.  But, it insists, we must affirm Mr. Ramos’s conviction anyway.  Why?  Because the doctrine of stare decisis supposedly commands it.  There are two independent reasons why that answer falls short.
+
+															In the first place and as we’ve seen, not even Louisiana tries to suggest that Apodaca supplies a governing precedent.  Remember, Justice Powell agreed that the
+ 
+Sixth Amendment requires a unanimous verdict to convict, so he would have no objection to that aspect of our holding today.  Justice Powell reached a different result only by relying on a dual-track theory of incorporation that a majority of the Court had already rejected (and continues to reject).  And to accept that reasoning as precedential, we would have to embrace a new and dubious proposition:  that a single Justice writing only for himself has the authority to bind this Court to propositions it has already rejected.
+
+															This is not the rule, and for good reason—it would do more to destabilize than honor precedent.  To see how, consider a hypothetical.  Suppose we face a question of first impression under the
+ 
+Fourth Amendment:  whether a State must obtain a warrant before reading a citizen’s email in the hands of an Internet provider and using that email as evidence in a criminal trial.  Imagine this question splits the Court, with four Justices finding the
+ 
+Fourth Amendment requires a warrant and four Justices finding no such requirement.  The ninth Justice agrees that the
+ 
+Fourth Amendment requires a warrant, but takes an idiosyncratic view of the consequences of violating that right.  In her view, the exclusionary rule has gone too far, and should only apply when the defendant is prosecuted for a felony.  Because the case before her happens to involve only a misdemeanor, she provides the ninth vote to affirm a conviction based on evidence secured by a warrantless search.  Of course, this Court has longstanding precedent requiring the suppression of all evidence obtained in unconstitutional searches and seizures.  Mapp v. Ohio,
+
+367 U.S. 643 (1961).  But like Justice Powell, our hypothetical ninth Justice sticks to her view and expressly rejects this Court’s precedent.  Like Justice Powell, this Justice’s vote would be essential to the judgment.  So if, as the dissent suggests, that is enough to displace precedent, would Mapp’s exclusionary rule now be limited to felony prosecutions?
+
+															 Admittedly, this example comes from our imagination.  It has to, because no case has before suggested that a single Justice may overrule precedent.  But if the Court were to embrace the dissent’s view of stare decisis, it would not stay imaginary for long.  Every occasion on which the Court is evenly split would present an opportunity for single Justices to overturn precedent to bind future majorities.  Rather than advancing the goals of predictability and reliance lying behind the doctrine of stare decisis, such an approach would impair them.
+
+															The dissent contends that, in saying this much, we risk defying Marks v. United States.[48]  According to Marks, when “a fragmented Court decides a case and no single rationale explaining the result enjoys the assent of five Justices, ‘the holding of the Court may be viewed as that position taken by those Members who concurred in the judgments on the narrowest grounds.’ ”[49]  But notice that the dissent never actually gets around to telling us which opinion in Apodaca it considers to be the narrowest and controlling one under Marks—or why.  So while the dissent worries that we defy a Marks precedent, it is oddly coy about where exactly that precedent might be found.
+
+															The parties recognize what the dissent does not:  Marks has nothing to do with this case.  Unlike a Marks dispute where the litigants duel over which opinion represents the narrowest and controlling one, the parties before us accept that Apodaca yielded no controlling opinion at all.  In particular, both sides admit that Justice Powell’s opinion cannot bind us—precisely because he relied on a dual-track rule of incorporation that an unbroken line of majority opinions before and after Apodaca has rejected.  Still, the dissent presses the issue, suggesting that a single Justice’s opinion can overrule prior precedents under “the logic” of Marks.[50]  But, as the dissent itself implicitly acknowledges, Marks never sought to offer or defend such a rule.  And, as we have seen, too, a rule like that would do more to harm than advance stare decisis.
+
+															The dissent’s backup argument fares no better.  In the end, even the dissent is forced to concede that Justice Powell’s reasoning in Apodaca lacks controlling force.[51]  So far, so good.  But then the dissent suggests Apodaca somehow still manages to supply a controlling precedent as to its result.[52]  Look closely, though.  The dissent’s account of Apodaca’s result looks suspiciously like the reasoning of Justice Powell’s opinion:  “In Apodaca, this means that when (1) a defendant is convicted in state court, (2) at least 10 of the 12 jurors vote to convict, and (3) the defendant argues that the conviction violates the Constitution because the vote was not unanimous, the challenge fails.”[53]  Where does the convenient “state court” qualification come from?  Neither the Apodaca plurality nor the dissent included any limitation like that—their opinions turned on the meaning of the
+ 
+Sixth Amendment.  What the dissent characterizes as Apodaca’s result turns out to be nothing more than Justice Powell’s reasoning about dual-track incorporation dressed up to look like a logical proof.
+
+															All of this does no more than highlight an old truth.  It is usually a judicial decision’s reasoning—its ratio decidendi—that allows it to have life and effect in the disposition of future cases.[54]  As this Court has repeatedly explained in the context of summary affirmances, “ ‘unexplicated’ ” decisions may “ ‘settl[e] the issues for the parties, [but they are] not to be read as a renunciation by this Court of doctrines previously announced in our opinions.’ ”[55]  Much the same may be said here.  Apodaca’s judgment line resolved that case for the parties in that case.  It is binding in that sense.  But stripped from any reasoning, its judgment alone cannot be read to repudiate this Court’s repeated pre-existing teachings on the Sixth and
+ 
+Fourteenth Amendments.[56]
+
+															B
+
+															1
+
+															There’s another obstacle the dissent must overcome. Even if we accepted the premise that Apodaca established a precedent, no one on the Court today is prepared to say it was rightly decided, and stare decisis isn’t supposed to be the art of methodically ignoring what everyone knows to be true.[57]  Of course, the precedents of this Court warrant our deep respect as embodying the considered views of those who have come before.  But stare decisis has never been treated as “an inexorable command.”[58]  And the doctrine is “at its weakest when we interpret the Constitution”[59] because a mistaken judicial interpretation of that supreme law is often “practically impossible” to correct through other means.[60]  To balance these considerations, when it revisits a precedent this Court has traditionally considered “the quality of the decision’s reasoning; its consistency with related decisions; legal developments since the decision; and reliance on the decision.”[61]  In this case, each factor points in the same direction.
+
+															Start with the quality of the reasoning.  Whether we look to the plurality opinion or Justice Powell’s separate concurrence, Apodaca was gravely mistaken; again, no Member of the Court today defends either as rightly decided.  Without repeating what we’ve already explained in detail, it’s just an implacable fact that the plurality spent almost no time grappling with the historical meaning of the
+ 
+Sixth Amendment’s jury trial right, this Court’s long-repeated statements that it demands unanimity, or the racist origins of Louisiana’s and Oregon’s laws.  Instead, the plurality subjected the Constitution’s jury trial right to an incomplete functionalist analysis of its own creation for which it spared one paragraph.  And, of course, five Justices expressly rejected the plurality’s conclusion that the
+ 
+Sixth Amendment does not require unanimity.  Meanwhile, Justice Powell refused to follow this Court’s incorporation precedents.  Nine Justices (including Justice Powell) recognized this for what it was; eight called it an error.
+
+															Looking to Apodaca’s consistency with related decisions and recent legal developments compounds the reasons for concern.  Apodaca sits uneasily with 120 years of preceding case law.  Given how unmoored it was from the start, it might seem unlikely that later developments could have done more to undermine the decision.  Yet they have.  While Justice Powell’s dual-track theory of incorporation was already foreclosed in 1972, some at that time still argued that it might have a role to play outside the realm of criminal procedure.  Since then, the Court has held otherwise.[62]  Until recently, dual-track incorporation attracted at least a measure of support in dissent.  But this Court has now roundly rejected it.[63]  Nor has the plurality’s rejection of the 
+ 
+Sixth Amendment’s historical unanimity requirement aged more gracefully.  As we’ve seen, in the years since Apodaca, this Court has spoken inconsistently about its meaning—but nonetheless referred to the traditional unanimity requirement on at least eight occasions.[64]  In light of all this, calling Apodaca an outlier would be perhaps too suggestive of the possibility of company.
+
+															When it comes to reliance interests, it’s notable that neither Louisiana nor Oregon claims anything like the prospective economic, regulatory, or social disruption litigants seeking to preserve precedent usually invoke.  No one, it seems, has signed a contract, entered a marriage, purchased a home, or opened a business based on the expectation that, should a crime occur, at least the accused may be sent away by a 10-to-2 verdict.[65]  Nor does anyone suggest that nonunanimous verdicts have “become part of our national culture.”[66]  It would be quite surprising if they had, given that nonunanimous verdicts are insufficient to convict in 48 States and federal court.
+
+															Instead, the only reliance interests that might be asserted here fall into two categories.  The first concerns the fact Louisiana and Oregon may need to retry defendants convicted of felonies by nonunanimous verdicts whose cases are still pending on direct appeal.  The dissent claims that this fact supplies the winning argument for retaining Apodaca because it has generated “enormous reliance interests” and overturning the case would provoke a “crushing” “tsunami” of follow-on litigation.[67]
+
+															The overstatement may be forgiven as intended for dramatic effect, but prior convictions in only two States are potentially affected by our judgment.  Those States credibly claim that the number of nonunanimous felony convictions still on direct appeal are somewhere in the hundreds,[68] and retrying or plea bargaining these cases will surely impose a cost.  But new rules of criminal procedures usually do, often affecting significant numbers of pending cases across the whole country.  For example, after Booker v. United States held that the Federal Sentencing Guidelines must be advisory rather than mandatory, this Court vacated and remanded nearly 800 decisions to the courts of appeals.  Similar consequences likely followed when Crawford v. Washington overturned prior interpretations of the Confrontation Clause[69] or Arizona v. Gant changed the law for searches incident to arrests.[70]  Our decision here promises to cause less, and certainly nothing before us supports the dissent’s surmise that it will cause wildly more, disruption than these other decisions.
+
+															2
+
+															The second and related reliance interest the dissent seizes upon involves the interest Louisiana and Oregon have in the security of their final criminal judgments.  In light of our decision today, the dissent worries that defendants whose appeals are already complete might seek to challenge their nonunanimous convictions through collateral (i.e., habeas) review.
+
+															But again the worries outstrip the facts.  Under Teague v. Lane, newly recognized rules of criminal procedure do not normally apply in collateral review.[71]  True, Teague left open the possibility of an exception for “watershed rules” “implicat[ing] the fundamental fairness [and accuracy] of the trial.”[72]  But, as this language suggests, Teague’s test is a demanding one, so much so that this Court has yet to announce a new rule of criminal procedure capable of meeting it.[73]  And the test is demanding by design, expressly calibrated to address the reliance interests States have in the finality of their criminal judgments.[74]
+
+															Nor is the Teague question even before us.  Whether the right to jury unanimity applies to cases on collateral review is a question for a future case where the parties will have a chance to brief the issue and we will benefit from their adversarial presentation.  That litigation is sure to come, and will rightly take into account the States’ interest in the finality of their criminal convictions.  In this way, Teague frees us to say what we know to be true about the rights of the accused under our Constitution today, while leaving questions about the reliance interest States possess in their final judgments for later proceedings crafted to account for them.  It would hardly make sense to ignore that two-step process and count the State’s reliance interests in final judgments both here and again there.  Certainly the dissent cites no authority for such double counting.
+
+															Instead, the dissent suggests that the feeble reliance interests it identifies should get a boost because the right to a unanimous jury trial has “little practical importance going forward.”[75]  In the dissent’s telling, Louisiana has “abolished” nonunanimous verdicts and Oregon “seemed on the verge of doing the same until the Court intervened.”[76]  But, as the dissent itself concedes, a ruling for Louisiana would invite other States to relax their own unanimity requirements.[77]  In fact, 14 jurisdictions have already told us that they would value the right to “experiment” with nonunanimous juries.[78]  Besides, Louisiana’s law bears only prospective effect, so the State continues to allow nonunanimous verdicts for crimes committed before 2019.[79]  And while the dissent speculates that our grant of certiorari contributed to the failure of legal reform efforts in Oregon, its citation does not support its surmise.  No doubt, too, those who risk being subjected to nonunanimous juries in Louisiana and Oregon today, and elsewhere tomorrow, would dispute the dissent’s suggestion that their
+ 
+Sixth Amendment rights are of “little practical importance.”
+
+															That point suggests another.  In its valiant search for reliance interests, the dissent somehow misses maybe the most important one:  the reliance interests of the American people.  Taken at its word, the dissent would have us discard a
+ 
+Sixth Amendment right in perpetuity rather than ask two States to retry a slice of their prior criminal cases.  Whether that slice turns out to be large or small, it cannot outweigh the interest we all share in the preservation of our constitutionally promised liberties.  Indeed, the dissent can cite no case in which the one-time need to retry defendants has ever been sufficient to inter a constitutional right  forever.
+
+															In the final accounting, the dissent’s stare decisis arguments round to zero.  We have an admittedly mistaken decision, on a constitutional issue, an outlier on the day it was decided, one that’s become lonelier with time.  In arguing otherwise, the dissent must elide the reliance the American people place in their constitutionally protected liberties, overplay the competing interests of two States, count some of those interests twice, and make no small amount of new precedent all its own.
+
+															V
+
+															On what ground would anyone have us leave Mr. Ramos in prison for the rest of his life?  Not a single Member of this Court is prepared to say Louisiana secured his conviction constitutionally under the
+ 
+Sixth Amendment.  No one before us suggests that the error was harmless.  Louisiana does not claim precedent commands an affirmance.  In the end, the best anyone can seem to muster against Mr. Ramos is that, if we dared to admit in his case what we all know to be true about the
+ 
+Sixth Amendment, we might have to say the same in some others.  But where is the justice in that?  Every judge must learn to live with the fact he or she will make some mistakes; it comes with the territory.  But it is something else entirely to perpetuate something we all know to be wrong only because we fear the consequences of being right.  The judgment of the Court of Appeals is
+
+															
+
+															Reversed.
+Notes
+1
+ Official Journal of the Proceedings of the Constitutional Convention of the State of Louisiana 374 (H. Hearsey ed. 1898); Eaton, The Suffrage Clause in the New Constitution of Louisiana, 13 Harv. L. Rev. 279, 286–287 (1899); Louisiana v. United States,
+
+380 U.S. 145, 151–153 (1965). 
+
+2
+ See 31 Cong. Rec. 1019 (1898). 
+
+3
+ Strauder v. West Virginia,
+
+100 U.S. 303, 310 (1880). 
+
+4
+ State v. Maxie, No. 13–CR–72522 (La. 11th Jud. Dist., Oct. 11, 2018), App. 56–57; see also Frampton, The Jim Crow Jury, 71 Vand. L. Rev. 1593 (2018). 
+
+5
+ State v. Williams, No. 15–CR–58698 (C. C. Ore., Dec. 15, 2016), App. 104. 
+
+6
+ Maxie, App. 82; Williams, App. 104. 
+
+7
+ Under existing precedent and consistent with a common law tradition not at issue here, a defendant may be tried for certain “petty offenses” without a jury.  Cheff v. Schnackenberg,
+
+384 U.S. 373, 379 (1966). 
+
+8
+ See Art. III, §2. 
+
+9
+ See J. Thayer, Evidence at the Common Law 86–90 (1898) (Thayer); W. Forsyth, History of Trial by Jury 200 (J. Morgan ed., 2d ed. 1875); 1 W. Holdsworth, A History of English Law 318 (rev. 7th ed. 1956); Smith, The Historical and Constitutional Contexts of Jury Reform, 25 Hofstra L. Rev. 377, 397 (1996). 
+
+10
+ 4 W. Blackstone, Commentaries on the Laws of England 343 (1769). 
+
+11
+ Thayer 88–89, n. 4 (quoting Anonymous Case, 41 Lib. Assisarum 11 (1367)); see also 1 M. Hale, Pleas of the Crown 33 (1736). 
+
+12
+ See Del. Declaration of Rights §14 (1776), in 1 The Bill of Rights:  A Documentary History 278 (1971); Md. Declaration of Rights §XIX, in 3 Federal and State Constitutions 1688 (F. Thorpe ed. 1909) (Thorpe); N. C. Declaration of Rights §IX (1776), in 5 id., at 2787; Pa. Declaration of Rights §IX (1776), in 5 id., at 3083; Vt. Declaration of Rights, ch. I, §XI (1786), in 6 id., at 3753; Va. Declaration of Rights §8 (1776), in 7 id., at 3813. 
+
+13
+ See Ga. Const., Art. IV, §3 (1789), in 2 id., at 789; N. J. Const., Art. XXII (1776), in 5 id., at 2598; N. Y. Const., Art. XLI (1777), in 5 id., at 2637; S. C. Const., Art. IX, §6 (1790), in 6 id., at 3264. 
+
+14
+ See, e.g., Commonwealth v. Bowden, 9 Mass. 494, 495 (1813); People v. Denton, 2 Johns. Cas. 275, 277 (N. Y. 1801); Commonwealth v. Fells, 36 Va. 613, 614–615 (1838); State v. Doon & Dimond, 1 R. Charlton 1, 2 (Ga. Super. Ct. 1811); see also Respublica v. Oswald, 1 Dall. 319, 323 (Pa. 1788) (reporting Chief Justice McKean’s observations that unanimity would have been required even if the Pennsylvania Constitution had not said so explicitly). 
+
+15
+ To be sure, a few of the Colonies had relaxed (and then restored) the unanimity requirement well before the founding.  For example, during a two decade period in the late 17th century, the Carolinas experimented with a non-common law system designed to encourage a feudal social structure; this “reactionary” constitution permitted conviction by majority vote.  See Carolina Const., Art. 69 (1669), in 5 Thorpe 2781; Reinsch, The English Common Law in the Early American Colonies, in 1 Select Essays in Anglo-American Legal History 407 (1907).  But, as Louisiana admits, by the time of the
+ 
+Sixth Amendment’s adoption, unanimity had again become the accepted rule.  See Brief for Respondent 17. 
+
+16
+ 6 N. Dane, Digest of American Law, ch. LXXXII, Art. 2, §1, p. 226 (1824). 
+
+17
+ 2 J. Story, Commentaries on the Constitution of the United States §777, p. 248 (1833). 
+
+18
+ See, e.g., J. Pomeroy, An Introduction to Municipal Law §135, p. 78 (1864); J. Tiffany, Government and Constitutional Law §549, p. 367 (1867); T. Cooley, Constitutional Limitations 319–320 (1868); 1 J. Bishop, Criminal Procedure §897 (rev. 2d ed. 1872). 
+
+19
+ Thompson v. Utah,
+
+170 U.S. 343, 351 (1898).  See also Maxwell v. Dow,
+
+176 U.S. 581, 586 (1900). 
+
+20
+ Patton v. United States,
+
+281 U.S. 276, 288 (1930). 
+
+21
+ Ibid.  See also Andres v. United States,
+
+333 U.S. 740, 748 (1948) (“Unanimity in jury verdicts is required where the Sixth and
+ 
+Seventh Amendments apply”). 
+
+22
+ In addition to Thompson, Maxwell, Patton, and Andres, see Johnson v. Louisiana,
+
+406 U.S. 356, 369 (1972) (Powell, J., concurring); United States v. Gaudin,
+
+515 U.S. 506, 510 (1995); Richardson v. United States,
+
+526 U.S. 813, 817 (1999); Apprendi v. New Jersey,
+
+530 U.S. 466, 477 (2000); Southern Union Co. v. United States,
+
+567 U.S. 343, 356 (2012); Blakely v. Washington,
+
+542 U.S. 296, 301–302 (2004); United States v. Booker,
+
+543 U.S. 220, 233–239 (2005); Descamps v. United States,
+
+570 U.S. 254, 269 (2013); United States v. Haymond, 588 U. S. ___, ___–___ (2019) (plurality opinion) (slip op., at 6–7). 
+
+23
+ Duncan v. Louisiana,
+
+391 U.S. 145, 148–150 (1968). 
+
+24
+ Malloy v. Hogan,
+
+378 U.S. 1, 10–11 (1964). 
+
+25
+ 
+
+406 U.S. 404 (plurality opinion). 
+
+26
+ 
+
+406 U.S. 356. 
+
+27
+ See Apodaca, 406 U. S., at 414–415 (Stewart, J., joined by Marshall and Brennan, JJ., dissenting) (“Until today, it has been universally understood that a unanimous verdict is an essential element of a
+ 
+Sixth Amendment jury trial. . . . I would follow these settled
+ 
+Sixth Amendment precedents”); Johnson, 406 U. S., at 382–383, 391–393 (Douglas, J., joined by Marshall and Brennan, JJ., dissenting). 
+
+28
+ Apodaca, 406 U. S., at 410. 
+
+29
+ Johnson, 406 U. S., at 371 (concurring opinion). 
+
+30
+ Id., at 375. 
+
+31
+ Id., at 384 (Douglas, J., dissenting) (quoting Malloy, 378 U. S., at 10–11); Johnson, 406 U. S., at 395–396 (Brennan, J., dissenting) (collecting cases). 
+
+32
+ See, e.g., Timbs v. Indiana, 586 U. S. ___, ___ (2019) (slip op., at 3) (unanimously rejecting arguments for dual-track incorporation). 
+
+33
+ Johnson, 406 U. S., at 375–376, and n. 15 (concurring opinion). 
+
+34
+ McDonald v. Chicago,
+
+561 U.S. 742, 766, n. 14 (2010); see also Timbs, 586 U. S., at ___ (slip op., at 3) (quoting McDonald, 561 U. S., at 766, n. 14). 
+
+35
+ Gaudin, 515 U. S., at 510; Richardson, 526 U. S., at 817; Apprendi, 530 U. S., at 477; Southern Union Co., 567 U. S., at 356; Blakely, 542 U. S., at 301–302; Booker, 543 U. S., at 238; Descamps, 570 U. S., at 269; Haymond, 588 U. S., at ___–___ (plurality opinion) (slip op., at 6–7). 
+
+36
+ See, e.g., Burch v. Louisiana,
+
+441 U.S. 130, 136, and n. 9 (1979) (describing both plurality opinion and Justice Powell’s separate writing); Brown v. Louisiana,
+
+447 U.S. 323, 331 (1980) (plurality opinion) (describing neither); see also McKoy v. North Carolina,
+
+494 U.S. 433, 468 (1990) (Scalia, J., dissenting) (same).  On a few occasions we’ve suggested that perhaps Apodaca means the
+ 
+Sixth Amendment does not require unanimity at all.  See Ludwig v. Massachusetts,
+
+427 U.S. 618, 625 (1976) (quoting Apodaca plurality); Gaudin, 515 U. S., at 510, n. 2 (same); see also Holland v. Illinois,
+
+493 U.S. 474, 511 (1990) (Stevens, J., dissenting) (same).  But on another occasion, we suggested that it could make a difference whether a particular right was rooted in the
+ 
+Sixth Amendment’s jury trial guarantee or
+ 
+Fourteenth Amendment due process guarantee.  See Schad v. Arizona,
+
+501 U.S. 624, 634, n. 5 (1991) (plurality opinion).  The dissent contends that these cases have “reiterated time and again what Apodaca had established.”  Post, at 6 (opinion of Alito, J.).  More accurately, these “reiterations” have suggested different things at different times. 
+
+37
+ See Brief for Respondent 47; Tr. of Oral Arg. 37–38. 
+
+38
+ In at least some of these cases, that may be a fair characterization.  For example, while Thompson was quick to say that the U. S. Constitution requires “the unanimous verdict of a jury of twelve persons,” the question before the Court was whether, in the circumstances of the defendant’s case, a trial by eight jurors in a Utah state court would violate the Ex Post Facto Clause.  170 U. S., at 351.  The
+ 
+Sixth Amendment’s unanimity requirement was unnecessary to the outcome, and the Utah Constitution required unanimity either way.  Id., at 345. 
+
+39
+ 1 Annals of Cong. 435 (1789). 
+
+40
+ In private writings, Madison did explain some of the Senate’s objections with his original phrasing of the vicinage requirement.  See 5 Writings of James Madison 420–424 (G. Hunt ed. 1904) (letters to E. Pendleton, Sept. 14 and 23, 1789).  But this is little help in explaining the other changes made in the Senate. 
+
+41
+ 406 U. S., at 410 (plurality opinion) (quoting Williams v. Florida,
+
+399 U.S. 78, 100 (1970), and Duncan, 391 U. S., at 156). 
+
+42
+ 406 U. S., at 410–411. 
+
+43
+ Id., at 411. 
+
+44
+ The dissent chides us for acknowledging the racist history of Louisiana’s and Oregon’s laws, and commends the Apodaca plurality’s decision to disregard these facts.  Post, at 2–5, 14.  But if the
+ 
+Sixth Amendment calls on judges to assess the functional benefits of jury rules, as the Apodaca plurality suggested, how can that analysis proceed to ignore the very functions those rules were adopted to serve?  The dissent answers that Louisiana and Oregon eventually recodified their nonunanimous jury laws in new proceedings untainted by racism.  See post, at 3–4, n. 3. But that cannot explain Apodaca’s omission:  The States’ proceedings took place only after the Court’s decision.  Nor can our shared respect for “rational and civil discourse,” post, at 5, supply an excuse for leaving an uncomfortable past unexamined.  Still, the dissent is right about one thing—a jurisdiction adopting a nonunanimous jury rule even for benign reasons would still violate the
+ 
+Sixth Amendment. 
+
+45
+ See H. Kalven & H. Zeisel, The American Jury 461 (1966); Diamond, Rose, & Murphy, Revisiting the Unanimity Requirement:  The Behavior of the Nonunanimous Civil Jury, 100 Nw. U. L. Rev. 201, 207–208 (2006). 
+
+46
+ Devine et al., Jury Decision Making:  45 Years of Empirical Research on Deliberating Groups, 7 Psych. Pub. Pol’y & L. 622, 669 (2001); R. Hastie, S. Penrod, & N. Pennington, Inside the Jury 115, 164–165 (1983); Hans, The Power of Twelve:  The Impact of Jury Size and Unanimity on Civil Jury Decision Making, 4 Del. L. Rev. 1, 24–25 (2001). 
+
+47
+ The dissent seems to suggest that we must abandon the
+ 
+Sixth Amendment’s historical meaning in favor of Apodaca’s functionalism because a parade of horribles would follow otherwise.  In particular, the dissent reminds us that, at points and places in our history, women were not permitted to sit on juries.  See post, at 15–16.  But we hardly need Apodaca’s functionalism to avoid repeating that wrong.  Unlike the rule of unanimity, rules about who qualified as a defendant’s “peer” varied considerably at common law at the time of the
+ 
+Sixth Amendment’s adoption.  Reflecting that fact, the Judiciary Act of 1789—adopted by the same Congress that passed the
+ 
+Sixth Amendment—initially pegged the qualifications for federal jury service to the relevant state jury qualification requirements.
+
+1Stat.
+88.  As a result, for much of this Nation’s early history the composition of federal juries varied both geographically and over time.  See Hickey, Federal Legislation: Improvement of the Jury System in Federal Courts, 35 Geo. L. J. 500, 506–507 (1947); Taylor v. Louisiana,
+
+419 U.S. 522, 536 (1975).  Ultimately, however, the people themselves adopted further constitutional amendments that prohibit invidious discrimination.  So today the
+ 
+Sixth Amendment’s promise of a jury of one’s peers means a jury selected from a representative cross-section of the entire community.  See Strauder, 100 U. S., at 307–308; Smith v. Texas,
+
+311 U.S. 128, 130 (1940); Taylor, 419 U. S., at 527. Relatedly, the dissent suggests that, before doing anything here, we should survey all changes in jury practices since 1791.  See post, at 16, n. 26.  It sounds like an interesting study—but not one that could alter the plain meaning of the Constitution or obliviate its undisputed unanimity requirement. 
+
+48
+ 
+
+430 U.S. 188 (1977). 
+
+49
+ Id., at 193. 
+
+50
+ Post, at 10–11. 
+
+51
+ Post, at 11–12. 
+
+52
+ Post, at 8. 
+
+53
+ Ibid.  See also post, at 11, n. 6 (Kavanaugh, J., concurring in part) (offering the same argument by contending that “[t]he result of Apodaca” means “state criminal juries need not be unanimous”). 
+
+54
+ See J. Salmond, Jurisprudence §62, p. 191 (G. Williams ed., 10th ed. 1947) (“The concrete decision is binding between the parties to it, but is the abstract ratio decidendi which alone has the force of law as regards the world at large”); F. Schauer, Precedent, in Routledge Companion to Philosophy of Law 129 (A. Marmor ed. 2012) (“[T]he traditional answer to the question of what is a precedent is that subsequent cases falling within the ratio decidendi—or rationale—of the precedent case are controlled by that case”); N. Duxbury, The Nature and Authority of Precedent 65–66 (2008). 
+
+55
+ Mandel v. Bradley,
+
+432 U.S. 173, 176 (1977) (per curiam) (quoting Fusari v. Steinberg,
+
+419 U.S. 379, 392 (1975) (Burger, C. J., concurring); see also Bush v. Vera,
+
+517 U.S. 952, 1001–1002 (1996) (Thomas, J., concurring in judgment). 
+
+56
+ The dissent floats a different theory when it suggests this Court’s denials of certiorari in cases seeking to clarify Apodaca is evidence of Apodaca’s precedential force.  Post, at 7.  But “[t]he significance of a denial of a petition for certiorari ought no longer . . . require discussion.  This Court has said again and again and again that such a denial has no legal significance whatever bearing on the merits of the claim.”  Darr v. Burford,
+
+339 U.S. 200, 226 (1950) (Frankfurter, J., dissenting). 
+
+57
+ R. Cross & J. Harris, Precedent in English Law 1 (4th ed. 1991) (attributing this aphorism to Jeremy Bentham). 
+
+58
+ Pearson v. Callahan,
+
+555 U.S. 223, 233 (2009) (internal quotation marks omitted). 
+
+59
+ Agostini v. Felton,
+
+521 U.S. 203, 235 (1997). 
+
+60
+ Payne v. Tennessee,
+
+501 U.S. 808, 828 (1991) (internal quotation marks omitted). 
+
+61
+ Franchise Tax Bd. of Cal. v. Hyatt, 587 U. S. ___, ___ (2019) (slip op., at 17). 
+
+62
+ McDonald, 561 U. S., at 765–766. 
+
+63
+ Timbs, 586 U. S., at ___ (slip op., at 3).  Contrary to the dissent’s suggestion, this Court’s longstanding rejection of dual-track incorporation does not necessarily imply that the
+ 
+Fourteenth Amendment renders the entire Bill of Rights applicable to the States.  See post, at 17–18.  The scope of an incorporated right and whether a right is incorporated at all are two different questions.  See Timbs, 586 U. S., at ___–___ (slip op., at 2–3) (“[I]f a Bill of Rights protection is incorporated, there is no daylight between the federal and state conduct it prohibits or requires”). 
+
+64
+ See n. 35, supra. 
+
+65
+ Cf. Leegin Creative Leather Products, Inc. v. PSKS, Inc.,
+
+551 U.S. 877, 925–926 (2007) (Breyer, J., dissenting). 
+
+66
+ Dickerson v. United States,
+
+530 U.S. 428, 443 (2000). 
+
+67
+ Post, at 1, 19. 
+
+68
+ Brief for State of Oregon as Amicus Curiae 13 (“In 2018 alone . . . there were 673 felony jury trials in Oregon, and studies suggest that as many as two-thirds of those cases would have had a non-unanimous verdict”).  At most, Oregon says the number of cases remaining on direct appeal and affected by today’s decision “easily may eclipse a thousand.”  Id., at 12 (emphasis added). 
+
+69
+ 
+
+541 U.S. 36, 60–63 (2004). 
+
+70
+ 
+
+556 U.S. 332, 345–347 (2009). 
+
+71
+ 
+
+489 U.S. 288, 311–312 (1989) (plurality opinion). 
+
+72
+ Ibid. 
+
+73
+ See Whorton v. Bockting,
+
+549 U.S. 406, 417–418 (2007). 
+
+74
+ See Stringer v. Black,
+
+503 U.S. 222, 227–228 (1992). 
+
+75
+ Post, at 2. 
+
+76
+ Ibid. 
+
+77
+ Post, at 3. 
+
+78
+ Brief for State of Utah et al. as Amici Curiae 1. 
+
+79
+ See 2018 La. Reg. Sess., Act 722. 
+
+

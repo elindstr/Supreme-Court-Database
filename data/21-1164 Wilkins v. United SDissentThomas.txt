@@ -1,0 +1,123 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1164
+::decision_name::  Wilkins v. United States
+::decision_year:: 2023
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1164
+
+															_________________
+
+															LARRY STEVEN WILKINS, et al., PETITIONERS v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[March 28, 2023]
+
+															
+
+															Justice Thomas, with whom The Chief Justice and Justice Alito join, dissenting.
+
+															The doctrine of sovereign immunity bars suits against the United States.  But, in the Quiet Title Act of 1972, Congress waived this immunity and consented to suits against the United States in order to determine the status of disputed property.
+
+28 U. S. C. §2409a.  Congress conditioned this consent on, among other things, a 12-year statute of limitations: “Any civil action under this section, except for an action brought by a State, shall be barred unless it is commenced within twelve years of the date upon which it accrued.”  §2409a(g).  This Court has long construed such conditions on waivers of sovereign immunity as jurisdictional.  And, it has acknowledged the jurisdictional nature of the Quiet Title Act’s statute of limitations in several precedents.
+
+															In holding that §2409a(g) is not jurisdictional, the majority commits two critical errors.  First, it applies the same interpretive approach to a condition on a waiver of sovereign immunity that it would apply to any run-of-the-mill procedural rule.  Second, by reading the Court’s prior Quiet Title Act precedents in this way, the Court disregards their express recognition of the jurisdictional character of the Act’s time bar.  Accordingly, I respectfully dissent.
+
+															I
+
+															This Court’s skepticism of the jurisdictional character of procedural bars does not extend to conditions on a waiver of sovereign immunity.  In the context of a waiver of sovereign immunity, the Court presumes that procedural limitations are jurisdictional.  The Act’s time bar is one such provision, and, as such, this Court should interpret it as a jurisdictional bar to suit.
+
+															As a sovereign, the United States “is immune from suit save as it consents to be sued, . . . and the terms of its consent to be sued in any court define that court’s jurisdiction to entertain the suit.”  United States v. Sherwood,
+
+312 U.S. 584, 586 (1941); see also Lehman v. Nakshian,
+
+453 U.S. 156, 160 (1981); United States v. Mitchell,
+
+463 U.S. 206, 212 (1983) (describing this principle as “axiomatic”).  Consequently, “[s]overeign immunity is by nature jurisdictional.”  Henderson v. United States,
+
+517 U.S. 654, 675 (1996) (Thomas, J., dissenting).  This principle is longstanding, and the majority does not dispute it.  See ante, at 7–8.
+
+															“A necessary corollary of this rule,” however, “is that when Congress attaches conditions to legislation waiving the sovereign immunity of the United States, those conditions must be strictly observed, and exceptions thereto are not to be lightly implied.”  Block v. North Dakota ex rel. Board of Univ. and School Lands,
+
+461 U.S. 273, 287 (1983); see also United States v. Nordic Village, Inc.,
+
+503 U.S. 30, 34 (1992) (stating that a waiver of sovereign immunity “must be construed strictly in favor of the sovereign” and “not enlarge[d] . . . beyond what the language requires” (internal quotation marks omitted)).  Thus, “in many cases this Court has read procedural rules embodied in statutes waiving immunity strictly, with an eye to effectuating a restrictive legislative purpose when Congress relinquishes sovereign immunity.”  Honda v. Clark,
+
+386 U.S. 484, 501 (1967).  In United States v. Dalm,
+
+494 U.S. 596 (1990), the Court reaffirmed this “settled principl[e]” in the specific context of “[a] statute of limitations requiring that a suit against the Government be brought within a certain time period.”  Id., at 608.  Such a requirement, the Court explained, “is one of ” the “terms of [the United States’] consent to be sued” and, therefore, “define[s] th[e] court’s jurisdiction to entertain the suit.”  Ibid. (emphasis added; internal quotation marks omitted).
+
+															Those straightforward principles resolve this case.  The Quiet Title Act partially waives the immunity of the United States by granting federal district courts “exclusive original jurisdiction of civil actions under section 2409a to quiet title to an estate or interest in real property in which an interest is claimed by the United States.”
+
+28 U. S. C. §1346(f ).  This provision’s cross-reference to §2409a incorporates several conditions on this waiver.  For example, the Act specifies that the United States “shall not be disturbed in possession or control” of contested land “pending a final judgment or decree, the conclusion of any appeal therefrom, and sixty days,” and “if the final determination [is] adverse,” the United States shall have the right to purchase the land for just compensation.  §2409a(b).  Similarly, the Act provides that any “civil action against the United States under this section shall be tried by the court without a jury” and bars suits based on adverse possession.  §§2409a(f ), (n).  It also incorporates the time bar at issue here: “Any civil action under this section, except for an action brought by a State, shall be barred unless it is commenced within twelve years of the date upon which it accrued.  Such action shall be deemed to have accrued on the date the plaintiff or his predecessor in interest knew or should have known of the claim of the United States.”  §2409a(g).
+
+															These provisions carefully delineate the scope of the Act’s limited waiver of sovereign immunity, establishing conditions on which the United States has consented to be sued.  The United States has not, for example, consented to a jury trial or to be sued on an adverse possession theory.  Similarly, and just as critically, it has not consented to be sued (except by a State) once the 12-year statute of limitations has passed.
+
+															The majority acknowledges that these restrictions must be strictly construed.  See ante, at 8.  Yet, it concludes that the time bar should not be considered jurisdictional.  In another context, the majority’s conclusion is arguably plausible. But, in this context, it is simply incorrect.  As a condition on the United States’ limited waiver of sovereign immunity in the Quiet Title Act, the Act’s statute of limitations is jurisdictional.  Moreover, in light of this Court’s longstanding case law, the jurisdictional character of the time bar would have been well understood by the 1972 Congress.  See ante, at 3 (suggesting that the Court should “avoid judicial interpretations that undermine Congress’ judgment” when interpreting arguably jurisdictional provisions).
+
+															With no answer to the Court’s longstanding view that conditions on waivers of sovereign immunity are jurisdictional, the majority seeks refuge in Irwin v. Department of Veterans Affairs,
+
+498 U.S. 89 (1990).  Ante, at 7–8.  Irwin considered whether equitable tolling should apply to the time to file an employment-discrimination lawsuit against the Government under Title VII of the Civil Rights Act of 1964. There, the Court reasoned that “[t]ime requirements in lawsuits between private litigants are customarily subject to ‘equitable tolling,’ ” and that “[o]nce Congress has made . . . a waiver [of sovereign immunity], . . . making the rule of equitable tolling applicable to suits against the Government, in the same way that it is applicable to private suits, amounts to little, if any, broadening of the congressional waiver.”  Irwin, 498 U. S., at 95.  It thus concluded that “[s]uch a principle is likely to be a realistic assessment of legislative intent as well as a practically useful principle of interpretation.”  Ibid.
+
+															The majority suggests that Irwin stands for the proposition that a condition on a waiver of sovereign immunity must be strictly construed, but then goes on to argue that it is not necessarily jurisdictional.  Ante, at 8.  However, our decision in United States v. Williams,
+
+514 U.S. 527 (1995), decided five years after Irwin, demonstrates that statutes of limitations in suits brought against the United States are no less jurisdictional now than they were before Irwin.  In Williams, the Court cited Dalm’s holding that failure to file a claim against the Government for a federal tax refund within the statute-of-limitations period operates as a jurisdictional bar to suit, and the Court reaffirmed that a statute of limitations “narrow[s] the waiver of sovereign immunity.”  514 U. S., at 534, n. 7 (citing 494 U. S., at 602).[1]  Irwin, thus, does not disrupt this Court’s long held understanding that conditions on waivers of sovereign immunity are presumptively jurisdictional.
+
+															II
+
+															Regardless of whether conditions on waivers of sovereign immunity remain jurisdictional post-Irwin, we have said that, where the Court has offered a “definitive earlier interpretation” of a statutory time bar as jurisdictional, we will continue to treat it as jurisdictional unless and until Congress directs otherwise.  John R. Sand & Gravel Co. v. United States,
+
+552 U.S. 130, 137–138 (2008); see also United States v. Kwai Fun Wong,
+
+575 U.S. 402, 416 (2015) (reaffirming John R. Sand’s rule).  And, we have emphasized that Irwin “does not imply revisiting past precedents.”  John R. Sand, 552 U. S., at 137.
+
+															The John R. Sand standard is amply met here.  This Court concluded in Block v. North Dakota ex rel. Board of Univ. and School Lands,
+
+461 U.S. 273 (1983), and again in United States v. Mottaz,
+
+476 U.S. 834 (1986), that compliance with the Quiet Title Act’s 12-year time bar is a jurisdictional prerequisite.
+
+															Block considered whether the Act’s statute of limitations applied to state litigants.[2]  There, the Government had argued that the plaintiffs’ failure to sue within the 12-year deadline established by the statute meant that the “district court lacked jurisdiction” to consider the plaintiffs’ claims.  Brief for the Petitioners in Block v. North Dakota ex rel. Board of Univ. and School Lands, O. T. 1982, No. 81–2337, p. 5.  In assessing this argument, the Court made clear that it understood the Act’s statute of limitations to arise in the context of a waiver of sovereign immunity, discussing at some length the tradeoffs proposed as Congress deliberated over the scope of the Act.  See 461 U. S., at 280–285.  The Court also prominently invoked Sherwood and Lehman, cases discussing the jurisdictional nature of  sovereign-immunity waivers, to explain why the limitations provision must be “strictly observed.”  Block, 461 U. S., at 287.  After concluding that States were not exempt from the time bar, the Court stated that, “[i]f North Dakota’s suit is barred by [the statute of limitations], the courts below had no jurisdiction to inquire into the merits,” and it remanded for the lower courts to determine whether the suit was so barred.  Id., at 292–293.  This statement that the time bar went to “jurisdiction” was an integral part of the Court’s instructions on remand.  Moreover, on remand, the Eighth Circuit understood the Court to have used the term “jurisdiction” to refer to a court’s authority to hear the case.  See North Dakota ex rel. Board of Univ. and School Lands v. Block, 789 F.2d 1308, 1310 (CA8 1986) (noting that neither the Eighth Circuit nor the District Court had “ ‘jurisdiction to inquire into the merits’ ” because the Act’s “statute of limitations is jurisdictional”).
+
+															In Mottaz, three years after Block, the Court again considered the jurisdictional nature of the Act’s time bar.  In the lower courts, the Government initially defended against a “somewhat opaque” set of claims by relying on the general 6-year statute of limitations for actions against the United States,
+
+28 U. S. C. §2401(a).  Mottaz, 476 U. S., at 839.  The District Court held that the suit was time barred under §2401(a), but the Eighth Circuit reversed and remanded.  Id., at 838–839.  The Government then argued, for the first time, in its petition for rehearing in the Court of Appeals that the suit arose under the Quiet Title Act and was thus subject to the Act’s 12-year statute of limitations.  Id., at 840–841.  This Court granted certiorari “to consider whether [the] respondent’s claim was barred under either [the 6-year bar] or [the 12-year bar].”  Id., at 841.
+
+															In addressing these, the Court cited Sherwood for the proposition that, “[w]hen the United States consents to be sued, the terms of its waiver of sovereign immunity define the extent of the court’s jurisdiction.”  476 U. S., at 841.  It then quoted Block for the proposition that “ ‘[w]hen waiver legislation contains a statute of limitations, the limitations provision constitutes a condition on the waiver of sovereign immunity,’ ” treating Block as precedential on this point.  476 U. S., at 841.  The Court also characterized the statute of limitations as a “central condition of the consent given by the Act.”  Id., at 843 (citing Block, 461 U. S., at 283–285).  As in Block, this reasoning was a critical and substantial part of the Court’s opinion.  The Court ultimately concluded that the plaintiff ’s claim was untimely and thus barred under the Act.  476 U. S., at 844.  The Court further concluded that no other statute “conferred jurisdiction” on the lower courts to adjudicate her claim.  Id., at 841; see also id., 844–851.  In deciding the case, the Court noticeably did not engage in a forfeiture analysis, underscoring that it understood the Government’s late-raised statute-of-limitations argument to be jurisdictional and, thus, capable of being raised at any point in the proceedings.  See Arbaugh v. Y & H Corp.,
+
+546 U.S. 500, 514 (2006) (explaining that jurisdictional arguments cannot be forfeited).[3]
+
+															United States v. Beggerly,
+
+524 U.S. 38 (1998), on which the majority relies, see ante, at 10–11, is not to the contrary.  In that case, the Court considered whether the Quiet Title Act’s time bar may be equitably tolled.  After noting that the Court of Appeals had considered the statute of limitations jurisdictional, see Beggerly, 524 U. S., at 42, the Court turned to the language of the Act.  The Court emphasized that the 12-year statute of limitations began to accrue when the litigants knew or should have known of the claim of the United States, and it observed that the provision’s text “has already effectively allowed for equitable tolling.”  Id., at 48 (citing Irwin, 498 U. S., at 96).  “Given this fact, and the unusually generous nature of the [Act]’s limitations time period,” the Court concluded that “extension of the statutory period by additional equitable tolling would be unwarranted.”  524 U. S., at 48–49.  Thus, while Beggerly might be read to view the Act’s time bar as potentially susceptible to tolling (and thus, by inference, nonjurisdictional), the Court did not hold that the bar actually could be tolled.  Rather, the Court held the opposite.  Beggerly is therefore, at best, ambiguous with respect to the jurisdictional nature of the time bar.  As such, it does not overcome the Court’s clear prior view set out in both Block and Mottaz.
+
+															For the majority, the Court’s statements in Block and Mottaz are not “definitiv[e]” enough to satisfy John R. Sand.  Ante, at 11.  But, the import of the Court’s references to “jurisdiction” in Block and Mottaz would have been clear at the time.  A court in the 1980s discussing a provision of a statute as a waiver of sovereign immunity, citing Sherwood (and, later, Block), invoked a well-known set of ideas that readers at the time unmistakably associated with the concept of jurisdiction.  In fact, the Court in Dalm cited Block and Mottaz—and no other cases—for the proposition that conditions on waivers of sovereign immunity “define th[e] court’s jurisdiction to entertain the suit.”  494 U. S., at 608 (emphasis added; internal quotation marks omitted).  The Court’s precedents must be understood in that context.
+
+															*  *  *
+
+															The Quiet Title Act’s statute of limitations functions as a condition on a waiver of sovereign immunity, and is therefore jurisdictional.  This Court has repeatedly characterized the Act’s time bar as jurisdictional, and that interpretation remains authoritative under John R. Sand.  Accordingly, I respectfully dissent.
+Notes
+1
+ I have previously noted that Irwin “does perhaps narrow the scope of the sovereign immunity canon.”  Scarborough v. Principi,
+
+541 U.S. 401, 426 (2004) (dissenting opinion).  But, it “does so only in limited circumstances,” such as “where the Government is made subject to suit to the same extent and in the same manner as private parties are.”  Ibid. (emphasis added).  This is not one of those circumstances.  The Quiet Title Act’s framework exclusively governs actions to quiet title against the United States.  And, it includes a number of conditions favorable to the Federal Government that would not apply in traditional quiet title actions among private litigants. 
+
+2
+ At the time of the Court’s decision, the Act’s statute of limitations read as follows: “Any civil action under this section shall be barred unless it is commenced within twelve years of the date upon which it accrued.  Such action shall be deemed to have accrued on the date the plaintiff or his predecessor in interest knew or should have known of the claim of the United States.”
+
+28 U. S. C. §2409a(f ) (1982 ed.).  Congress subsequently amended the provision to add its current language excepting actions brought by States. 
+
+3
+ The majority suggests that United States v. Mottaz,
+
+476 U.S. 834, may have (sub silentio) concluded that forfeiture did not apply in that case.  See ante, at 10, and n. 5.  But, presumably, such a conclusion would have merited mention in the Court’s opinion.  To be sure, the majority notes that the Government had raised the statute of limitations “ ‘apparently for the first time’ ” in a petition for rehearing.  Ante, at 9 (quoting Mottaz, 476 U. S., at 840 (emphasis added)).  However, the use of the word “apparently” does not indicate that the Court “did not pause over its passing remark,” as the majority contends.  See ante, at 9–10.  To the contrary, it suggests that the Court did not need to conduct a forfeiture analysis, because the provision was jurisdictional in any event (and thus not subject to forfeiture). 
+
+

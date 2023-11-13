@@ -1,0 +1,171 @@
+::SCDB_caseID:: 2018-073
+::decision_cite:: 18-485
+::decision_name::  McDonough v. Smith
+::decision_year:: 2019
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–485
+
+															_________________
+
+															EDWARD G. McDONOUGH, PETITIONER v. YOUEL SMITH, individually and as SPECIAL DISTRICT ATTORNEY FOR THE COUNTY OF  RENSSELAER, NEW YORK,  aka TREY SMITH
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															[June 20, 2019]
+
+															
+
+															Justice Sotomayor delivered the opinion of the Court.
+
+															Petitioner Edward McDonough alleges that respondent Youel Smith fabricated evidence and used it to pursue criminal charges against him.  McDonough was acquitted, then sued Smith under
+
+42 U. S. C. §1983.  The courts below, concluding that the limitations period for McDonough’s fabricated-evidence claim began to run when the evidence was used against him, determined that the claim was untimely.  We hold that the limitations period did not begin to run until McDonough’s acquittal, and therefore reverse.
+
+															I
+
+															This case arises out of an investigation into forged absentee ballots that were submitted in a primary election in Troy, New York, in 2009.  McDonough, who processed the ballots in his capacity as a commissioner of the county board of elections, maintains that he was unaware that they had been forged.  Smith was specially appointed to investigate and to prosecute the matter.
+
+															McDonough’s complaint alleges that Smith then set about scapegoating McDonough (against whose family Smith harbored a political grudge), despite evidence that McDonough was innocent. Smith leaked to the press that McDonough was his primary target and pressured him to confess.  When McDonough would not, Smith allegedly fabricated evidence in order to inculpate him.  Specifically, McDonough alleges that Smith falsified affidavits, coached witnesses to lie, and orchestrated a suspect DNA analysis to link McDonough to relevant ballot envelopes.
+
+															Relying in part on this allegedly fabricated evidence, Smith secured a grand jury indictment against McDonough.  McDonough was arrested, arraigned, and released (with restrictions on his travel) pending trial.  Smith brought the case to trial a year later, in January 2012.  He again presented the allegedly fabricated testimony during this trial, which lasted more than a month and ended in a mistrial.  Smith then reprosecuted McDonough.  The second trial also lasted over a month, and again, Smith elicited allegedly fabricated testimony.  The second trial ended with McDonough’s acquittal on all charges on December 21, 2012.
+
+															On December 18, 2015, just under three years after his acquittal, McDonough sued Smith and other defendants under §1983 in the U. S. District Court for the Northern District of New York.  Against Smith, McDonough asserted two different constitutional claims: one for fabrication of evidence, and one for malicious prosecution without probable cause.  The District Court dismissed the malicious prosecution claim as barred by prosecutorial immunity, though timely.  It dismissed the fabricated-evidence claim, however, as untimely.
+
+															McDonough appealed to the U. S. Court of Appeals for the Second Circuit, which affirmed.  898 F.3d 259 (2018).  The Court of Appeals agreed with the District Court’s disposition of the malicious prosecution claim.  As for the timeliness of the fabricated-evidence claim, because all agreed that the relevant limitations period is three years, id., at 265, the question was when that limitations period began to run: upon McDonough’s acquittal, or at some point earlier.  In essence, given the dates at issue, McDonough’s claim was timely only if the limitations period began running at acquittal.
+
+															The Court of Appeals held that McDonough’s fabricated-evidence claim accrued, and thus the limitations period began to run, “when (1) McDonough learned that the evidence was false and was used against him during the criminal proceedings; and (2) he suffered a loss of liberty as a result of that evidence.”  Ibid.  This rule, in the Second Circuit’s view, followed from its conclusion that a plaintiff has a complete fabricated-evidence claim as soon as he can show that the defendant’s knowing use of the fabricated evidence caused him some deprivation of lib- erty.  Id., at 266.  Those events undisputedly had occurred by the time McDonough was arrested and stood trial.  Ibid.
+
+															As the Second Circuit acknowledged, id., at 267, other Courts of Appeals have held that the statute of limitations for a fabricated-evidence claim does not begin to run until favorable termination of the challenged criminal proceedings.[1]  We granted certiorari to resolve the conflict, 586 U. S. ___ (2019), and now reverse.
+
+															II
+
+															The statute of limitations for a fabricated-evidence claim like McDonough’s does not begin to run until the criminal proceedings against the defendant (i.e., the §1983 plaintiff) have terminated in his favor.  This conclusion follows both from the rule for the most natural common-law analogy (the tort of malicious prosecution) and from the practical considerations that have previously led this Court to defer accrual of claims that would otherwise constitute an untenable collateral attack on a criminal judgment.
+
+															A
+
+															The question here is when the statute of limitations began to run.  Although courts look to state law for the length of the limitations period, the time at which a §1983 claim accrues “is a question of federal law,” “conforming in general to common-law tort principles.”  Wallace v. Kato,
+
+549 U.S. 384, 388 (2007).  That time is presumptively “when the plaintiff has ‘a complete and present cause of action,’ ” ibid., though the answer is not always so simple.  See, e.g., id., at 388–391, and n. 3; Dodd v. United States,
+
+545 U.S. 353, 360 (2005).  Where, for example, a particular claim may not realistically be brought while a violation is ongoing, such a claim may accrue at a later date.  See Wallace, 549 U. S., at 389.
+
+															An accrual analysis begins with identifying “ ‘the specific constitutional right’ ” alleged to have been infringed.  Manuel v. Joliet, 580 U. S. ___, ___ (2017) (slip op., at 12) (quoting Albright v. Oliver,
+
+510 U.S. 266, 271 (1994) (plurality opinion)).  Though McDonough’s complaint does not ground his fabricated-evidence claim in a particular constitutional provision, the Second Circuit treated his claim as arising under the Due Process Clause.  898 F. 3d, at 266.  McDonough’s claim, this theory goes, seeks to vindicate a “ ‘right not to be deprived of liberty as a result of the fabrication of evidence by a government officer.’ ”  Ibid. (quoting Zahrey v. Coffey, 221 F.3d 342, 349 (CA2 2000)); see also, e.g., Napue v. Illinois,
+
+360 U.S. 264, 269 (1959).  We assume without deciding that the Second Circuit’s articulations of the right at issue and its contours are sound, having not granted certiorari to resolve those separate questions.  See Heck v. Humphrey,
+
+512 U.S. 477, 480, n. 2 (1994) (accepting the lower courts’ characterization of the relevant claims).[2]
+
+															B
+
+															As noted above, this Court often decides accrual questions by referring to the common-law principles governing analogous torts.  See Wallace, 549 U. S., at 388; Heck, 512 U. S., at 483.  These “principles are meant to guide rather than to control the definition of §1983 claims,” such that the common law serves “ ‘more as a source of inspired examples than of prefabricated components.’ ”  Manuel, 580 U. S., at ___ (slip op., at 12).
+
+															Relying on our decision in Heck, McDonough analogizes his fabricated-evidence claim to the common-law tort of malicious prosecution, a type of claim that accrues only once the underlying criminal proceedings have resolved in the plaintiff’s favor.  512 U. S., at 484; Prosser & Keeton §119, at 871, 874–875; Restatement (Second) of Torts §§653, 658 (1976); 3 D. Dobbs, P. Hayden, & E. Bublick, Law of Torts §§586, 590, pp. 388–389, 402–404 (2d ed. 2011) (Dobbs).  McDonough is correct that malicious prosecution is the most analogous common-law tort here.
+
+															Common-law malicious prosecution requires showing, in part, that a defendant instigated a criminal proceeding with improper purpose and without probable cause.  Restatement (Second) of Torts §653; see also Dobbs §586, at 388–389; Prosser & Keeton §119, at 871.[3]  The essentials of McDonough’s claim are similar: His claim requires him to show that the criminal proceedings against him—and consequent deprivations of his liberty[4]—were caused by Smith’s malfeasance in fabricating evidence.  At bottom, both claims challenge the integrity of criminal prosecutions undertaken “pursuant to legal process.”  See Heck, 512 U. S., at 484.[5]
+
+															We follow the analogy where it leads: McDonough could not bring his fabricated-evidence claim under §1983 prior to favorable termination of his prosecution.  As Heck explains, malicious prosecution’s favorable-termination requirement is rooted in pragmatic concerns with avoiding parallel criminal and civil litigation over the same subject matter and the related possibility of conflicting civil and criminal judgments.  See id., at 484–485; see also Prosser & Keeton §119, at 874; Dobbs §589, at 402.  The requirement likewise avoids allowing collateral attacks on criminal judgments through civil litigation.  Heck, 512 U. S., at 484.  These concerns track “similar concerns for finality and consistency” that have motivated this Court to refrain from multiplying avenues for collateral attack on criminal judgments through civil tort vehicles such as §1983.  Id., at 485; see also Preiser v. Rodriguez,
+
+411 U.S. 475, 490 (1973) (noting the “strong policy requiring exhaustion of state remedies” in order “to avoid the unnecessary friction between the federal and state court systems”); Younger v. Harris,
+
+401 U.S. 37, 43 (1971) (“Since the beginning of this country’s history Congress has, subject to few exceptions, manifested a desire to permit state courts to try state cases free from interference by federal courts”).  Because a civil claim such as McDonough’s, asserting that fabricated evidence was used to pursue a criminal judgment, implicates the same concerns, it makes sense to adopt the same rule.[6]
+
+															Heck confirms the strength of this analogy.  In Heck, a prisoner serving a 15-year sentence for manslaughter sought damages under §1983 against state prosecutors and an investigator for alleged misconduct similar to that alleged here, including knowingly destroying exculpatory evidence and causing an illegal voice identification procedure to be employed at the prisoner’s trial.  512 U. S., at 478–479.  The Court took as a given the lower courts’ conclusion that those claims all effectively “challeng[ed] the legality of” the plaintiff’s conviction.  Id., at 480, n. 2.   Looking first to the common law, the Court observed that malicious prosecution “provide[d] the closest analogy to” such claims because, unlike other potentially analogous common-law claims, malicious prosecution “permits damages for confinement imposed pursuant to legal process.”  Id., at 484.
+
+															Emphasizing the concerns with parallel litigation and conflicting judgments just discussed, see id., at 484–486, the Court in Heck held that “in order to recover damages for allegedly unconstitutional conviction or imprisonment, or for other harm caused by actions whose unlawfulness would render a conviction or sentence invalid,” a plaintiff in a §1983 action first had to prove that his conviction had been invalidated in some way, id., at 486.  This favorable-termination requirement, the Court explained, applies whenever “a judgment in favor of the plaintiff would necessarily imply” that his prior conviction or sentence was invalid.  Id., at 487.
+
+															This case differs from Heck because the plaintiff in Heck had been convicted, while McDonough was acquitted.  Although some claims do fall outside Heck’s ambit when a conviction is merely “anticipated,” Wallace, 549 U. S., at 393, however, McDonough’s claims are not of that kind, see infra, at 11–12.  As articulated by the Court of Appeals, his claims challenge the validity of the criminal proceedings against him in essentially the same manner as the plaintiff in Heck challenged the validity of his conviction.  And the pragmatic considerations discussed in Heck apply generally to civil suits within the domain of habeas corpus, not only to those that challenge convictions.  See Preiser, 411 U. S., at 490–491.  The principles and reasoning of Heck thus point toward a corollary result here: There is not “ ‘a complete and present cause of action,’ ” Wallace, 549 U. S., at 388, to bring a fabricated-evidence challenge to criminal proceedings while those criminal proceedings are ongoing.  Only once the criminal proceeding has ended in the defendant’s favor, or a resulting conviction has been invalidated within the meaning of Heck, see 512 U. S., at 486–487, will the statute of limitations begin to run.[7]
+
+															C
+
+															The soundness of this conclusion is reinforced by the consequences that would follow from the Second Circuit’s approach, which would impose a ticking limitations clock on criminal defendants as soon as they become aware that fabricated evidence has been used against them.  Such a rule would create practical problems in jurisdictions where prosecutions regularly last nearly as long as—or even longer than—the relevant civil limitations period.  See Brief for Petitioner 53–55; Brief for Criminal Defense Organizations et al. as Amici Curiae 23–24.  A significant number of criminal defendants could face an untenable choice between (1) letting their claims expire and (2) filing a civil suit against the very person who is in the midst of prosecuting them.  The first option is obviously undesir- able, but from a criminal defendant’s perspective the latter course, too, is fraught with peril: He risks tipping his hand as to his defense strategy, undermining his privilege against self-incrimination, and taking on discovery obligations not required in the criminal context.  See SEC v. Dresser Industries, Inc., 628 F.2d 1368, 1376 (CADC 1980) (en banc).  Moreover, as noted above, the parallel civil litigation that would result if plaintiffs chose the second option would run counter to core principles of federalism, comity, consistency, and judicial economy.  See supra, at 7–8.
+
+															Smith suggests that stays and ad hoc abstention are sufficient to avoid the problems of two-track litigation.  Such workarounds are indeed available when claims falling outside Heck’s scope nevertheless are initiated while a state criminal proceeding is pending, see Wallace, 549 U. S., at 393–394 (noting the power of district courts to stay civil actions while criminal prosecutions proceed); Heck, 512 U. S., at 487–488, n. 8 (noting possibility of abstention), but Smith’s solution is poorly suited to the type of claim at issue here.  When, as here, a plaintiff’s claim “necessarily” questions the validity of a state proceeding, id., at 487, there is no reason to put the onus to safeguard comity on district courts exercising case-by-case discretion—particularly at the foreseeable expense of potentially prejudicing litigants and cluttering dockets with dormant, unripe cases.  Cf. Panetti v. Quarterman,
+
+551 U.S. 930, 943 (2007) (noting that a scheme requiring “conscientious defense attorneys” to file unripe suits “would add to the burden imposed on courts, applicants, and the States, with no clear advantage to any”).  The accrual rule we adopt today, by contrast, respects the autonomy of state courts and avoids these costs to litigants and federal courts.
+
+															In deferring rather than inviting such suits, we adhere to familiar principles.  The proper approach in our federal system generally is for a criminal defendant who believes that the criminal proceedings against him rest on knowingly fabricated evidence to defend himself at trial and, if necessary, then to attack any resulting conviction through collateral review proceedings.  McDonough therefore had a complete and present cause of action for the loss of his liberty only once the criminal proceedings against him terminated in his favor.
+
+															III
+
+															Smith’s counterarguments do not sway the result.
+
+															First, Smith argues that Heck is irrelevant to McDonough’s claim, relying on this Court’s opinion in Wallace.  Wallace held that the limitations period begins to run on a §1983 claim alleging an unlawful arrest under the
+ 
+Fourth Amendment as soon as the arrestee “becomes detained pursuant to legal process,” not when he is ultimately released.  549 U. S., at 397.  The Court rejected the plaintiff’s reliance on Heck, stating that the Heck rule comes “into play only when there exists ‘a conviction or sentence that has not been . . . invalidated,’ that is to say, an ‘outstanding criminal judgment.’ ”  Wallace, 549 U. S., at 393.  The Court thus declined to adopt the plaintiff’s theory “that an action which would impugn an anticipated future conviction cannot be brought until that conviction occurs and is set aside,” because doing so in the context of an action for false arrest would require courts and litigants “to speculate about whether a prosecution will be brought, whether it will result in conviction, and whether the pending civil action will impugn that verdict—all this at a time when it can hardly be known what evidence the prosecution has in its possession.”  Ibid. (citations omitted).[8]
+
+															Smith is correct that Heck concerned a plaintiff serving a sentence for a still-valid conviction and that Wallace distinguished Heck on that basis, but Wallace did not displace the principles in Heck that resolve this case.  A false-arrest claim, Wallace explained, has a life independent of an ongoing trial or putative future conviction—it attacks the arrest only to the extent it was without legal process, even if legal process later commences.  See 549 U. S., at 389–390, 393.  That feature made the claim analogous to common-law false imprisonment.  Id., at 389.  By contrast, a claim like McDonough’s centers on evidence used to secure an indictment and at a criminal trial, so it does not require “speculat[ion] about whether a prosecution will be brought.”  Id., at 393.  It directly challenges—and thus necessarily threatens to impugn—the prosecution itself.  See Heck, 512 U. S., at 486–487.
+
+															Second, Smith notes (1) that a fabricated-evidence claim in the Second Circuit (unlike a malicious prosecution claim) can exist even if there is probable cause and (2) that McDonough was acquitted.  In other words, McDonough theoretically could have been prosecuted without the fabricated evidence, and he was not convicted even with it.  Because a violation thus could exist no matter its effect on the outcome, Smith reasons, “the date on which that outcome occurred is irrelevant.”  Brief for Respondent 26.
+
+															Smith is correct in one sense.  One could imagine a fabricated-evidence claim that does not allege that the violation’s consequence was a liberty deprivation occasioned by the criminal proceedings themselves.  See n. 2, supra. To be sure, the argument for adopting a favorable-termination requirement would be weaker in that context.  That is not, however, the nature of McDonough’s claim.
+
+															As already explained, McDonough’s claim remains most analogous to a claim of common-law malicious prosecution, even if the two are not identical.  See supra, at 6–7.  Heck explains why favorable termination is both relevant and required for a claim analogous to malicious prosecution that would impugn a conviction, and that rationale extends to an ongoing prosecution as well: The alternative would impermissibly risk parallel litigation and conflicting judgments.  See supra, at 7–8.  If the date of the favorable termination was relevant in Heck, it is relevant here.
+
+															It does not change the result, meanwhile, that McDonough suffered harm prior to his acquittal.  The Court has never suggested that the date on which a constitutional injury first occurs is the only date from which a limitations period may run.  Cf. Wallace, 549 U. S., at 389–391, and n. 3 (explaining that the statute of limitations for false-arrest claims does not begin running when the initial arrest takes place).  To the contrary, the injury caused by a classic malicious prosecution likewise first occurs as soon as legal process is brought to bear on a defendant, yet favorable termination remains the accrual date.  See Heck, 512 U. S., at 484.[9]
+
+															Third and finally, Smith argues that the advantages of his rule outweigh its disadvantages as a matter of policy.  In his view, the Second Circuit’s approach would provide more predictable guidance, while the favorable-termination approach fosters perverse incentives for prosecutors (who may become reluctant to offer favorable resolutions) and risks foreclosing meritorious claims (for example, where an outcome is not clearly “favorable”).  These arguments are unconvincing.  We agree that clear accrual rules are valuable but fail to see how assessing when proceedings terminated favorably will be, on balance, more burdensome than assessing when a criminal defendant “learned that the evidence was false and was used against him” and deprived him of liberty as a result.  898 F. 3d, at 265.  And while the risk of foreclosing certain claims and the potential incentive effects that Smith identifies could be valid considerations in other contexts,[10] they do not overcome the greater danger that plaintiffs will be deterred under Smith’s theory from suing for redress of egregious misconduct, see supra, at 10—nor do they override the guidance of the common law and precedent.
+
+															IV
+
+															The statute of limitations for McDonough’s §1983 claim alleging that he was prosecuted using fabricated evidence began to run when the criminal proceedings against him terminated in his favor—that is, when he was acquitted at the end of his second trial.  The judgment of the United States Court of Appeals for the Second Circuit is therefore reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+ See Floyd v. Attorney General of Pa., 722 Fed. Appx. 112, 114 (CA3 2018); Mills v. Barnard, 869 F.3d 473, 484 (CA6 2017); Bradford v. Scherschligt, 803 F.3d 382, 388 (CA9 2015); Castellano v. Fragozo, 352 F.3d 939, 959–960 (CA5 2003) (en banc). 
+
+2
+ In accepting the Court of Appeals’ treatment of McDonough’s claim as one sounding in denial of due process, we express no view as to what other constitutional provisions (if any) might provide safeguards against the creation or use of fabricated evidence enforceable through a
+
+42 U. S. C. §1983 action.  See Soldal v. Cook County,
+
+506 U.S. 56, 70 (1992) (“Certain wrongs affect more than a single right and, accord-ingly, can implicate more than one of the Constitution’s commands”).  Moreover, because the Second Circuit understood McDonough’s due process claim to allege a deprivation of liberty, we have no occasion to consider the proper handling of a fabricated-evidence claim founded on an allegation that the use of fabricated evidence was so egregious as to shock the conscience, see, e.g., County of Sacramento v. Lewis,
+
+523 U.S. 833, 849 (1998), or caused harms exclusively to “interests other than the interest in freedom from physical restraint,” Albright v. Oliver,
+
+510 U.S. 266, 283 (1994) (Kennedy, J., concurring in judgment); see also, e.g., W. Keeton, D. Dobbs, R. Keeton, & D. Owen, Prosser and Keeton on Law of Torts §119, p. 870 (5th ed. 1984) (Prosser & Keeton) (“[O]ne who is wrongfully prosecuted may suffer both in reputation and by confinement”).  Accordingly, we do not address what the accrual rule would be for a claim rooted in other types of harm independent of a liberty deprivation, as no such claim is before us.  See 898 F.3d 259, 266 (CA2 2018). 
+
+3
+ The Second Circuit borrowed the common-law elements of malicious prosecution to govern McDonough’s distinct constitutional malicious prosecution claim, which is not before us.  See 898 F. 3d, at 268, n. 10.  This Court has not defined the elements of such a §1983 claim, see Manuel v. Joliet, 580 U. S. ___, ___–___ (2017) (slip op., at 14–15), and this case provides no occasion to opine on what the elements of a constitutional malicious prosecution action under §1983 are or how they may or may not differ from those of a fabricated-evidence claim.  Similarly, while noting that only McDonough’s malicious prosecution claim was barred on absolute-immunity grounds below, we make no statement on whether or how the doctrine of absolute immunity would apply to McDonough’s fabricated-evidence claim.  Any further consideration of that question is properly addressed by the Second Circuit on remand, subject to ordinary principles of waiver and forfeiture. 
+
+4
+ Though McDonough was not incarcerated pending trial, he was subject to restrictions on his ability to travel and other “ ‘restraints not shared by the public generally,’ ” Justices of Boston Municipal Court v. Lydon,
+
+466 U.S. 294, 301 (1984), and as the case comes to this Court, it is undisputed that McDonough has pleaded a liberty deprivation.  See 898 F. 3d, at 266. 
+
+5
+ Smith urges the Court to steer away from the comparison to malicious prosecution, noting that the Second Circuit treats malicious prosecution claims and fabricated-evidence claims as distinct.  See id., at 268, and n. 12.  But two constitutional claims may differ yet still both resemble malicious prosecution more than any other common-law tort; comparing constitutional and common-law torts is not a one-to-one matching exercise.  See, e.g., Heck, 512 U. S., at 479, 484 (analogizing malicious prosecution to several distinct claims).  Tellingly, Smith has not suggested an alternative common-law analogy.  See Tr. of Oral Arg. 44–46. 
+
+6
+ Such considerations are why Congress has determined that a petition for writ of habeas corpus, not a §1983 action, “is the appropriate remedy for state prisoners attacking the validity of the fact or length of their confinement,” Preiser v. Rodriguez, 
+411 U.S. 475, 490 (1973), including confinement pending trial before any conviction has occurred, see id., at 491 (citing Braden v. 30th Judicial Circuit Court of Ky.,
+
+410 U.S. 484 (1973)). 
+
+7
+ Because McDonough was not free to sue prior to his acquittal, we need not reach his alternative argument that his claim was timely because it alleged a continuing violation. 
+
+8
+ Heck itself suggested that a similar rule might allow at least some
+ 
+Fourth Amendment unlawful-search claims to proceed without a favorable termination.  See 512 U. S., at 487, n. 7. 
+
+9
+ As for Smith’s suggestion that the fabricated evidence could not have caused any liberty deprivation where, as here, there could have been probable cause and there was in fact an acquittal, it suffices to reiterate that we assume the contours of the claim as defined by the Second Circuit, see supra, at 5, 6–7, and nn. 2, 4, and thus accept its undisputed conclusion that there was a sufficient liberty deprivation here, see 898 F. 3d, at 266; see also Garnett v. Undercover Officer C0039, 838 F.3d 265, 277 (CA2 2016) (explaining that “a further deprivation of liberty can result from the fabrication of evidence even if the initial arrest is lawful”). 
+
+10
+ Because McDonough’s acquittal was unquestionably a favorable termination, we have no occasion to address the broader range of ways a criminal prosecution (as opposed to a conviction) might end favorably to the accused.  Cf. Heck, 512 U. S., at 486–487.  To the extent Smith argues that the law in this area should take account of prosecutors’ broad discretion over such matters as the terms on which pleas will be offered or whether charges will be dropped, those arguments more properly bear on the question whether a given resolution should be understood as favorable or not.  Such considerations might call for a context-specific and more capacious understanding of what constitutes “favorable” termination for purposes of a §1983 false-evidence claim, but that is not the question before us. 
+
+

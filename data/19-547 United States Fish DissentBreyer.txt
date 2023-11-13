@@ -1,0 +1,63 @@
+::SCDB_caseID:: 2020-011
+::decision_cite:: 19-547
+::decision_name::  United States Fish and Wildlife Service v. Sierra Club, Inc.
+::decision_year:: 2021
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–547
+
+															_________________
+
+															UNITED STATES FISH AND WILDLIFE SERVICE, et al., PETITIONERS v. SIERRA CLUB, INC.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[March 4, 2021]
+
+															
+
+															Justice Breyer, with whom Justice Sotomayor joins, dissenting.
+
+															Because the word “draft” may here prove misleading, it should help the reader understand my argument if he or she keeps in mind three different but related kinds of documents: “Final Biological Opinions,” “Draft Biological Opinions,” and “Drafts of Draft Biological Opinions.”  A Final Biological Opinion, as its name suggests, embodies a final agency decision, for example, a decision by the Services that a proposed Environmental Protection Agency (EPA) action will jeopardize an endangered species.  We all agree, I believe, that a Final Biological Opinion is not deliberative and that Exemption 5 of the Freedom of Information Act (FOIA) does not protect it from disclosure.  I also agree with the Court about the third kind of document, a Draft of a Draft Biological Opinion.  That kind of document normally is not final.  It normally is deliberative.  And Exemption 5 normally protects it from disclosure.
+
+															But what about the second kind of document, a Draft Biological Opinion?  Does it normally set forth a “final” Services view, or is it normally a “deliberative” document?  I agree with the Court that whether a document is “final” or “deliberative” primarily depends upon its “function[ ]” within an agency’s decision-making process.  Ante, at 10; see also NLRB v. Sears, Roebuck & Co.,
+
+421 U.S. 132, 138 (1975) (“[T]he function of the documents” and “the context of the administrative process which generated them” is “[c]rucial” to understanding whether the deliberative process privilege applies).  I believe that, in the context before us, the Services’ Draft Biological Opinions reflect “final” decisions regarding the “jeopardy” the EPA’s then-proposed actions would have caused.  Hence, they would normally fall outside, not within, Exemption 5. 
+
+															Five features of the Draft Biological Opinion lead me to this conclusion.  First, literally speaking, a Draft Biological Opinion is a “final” document with respect to its content.  That is in fact the key difference between a Draft Biological Opinion and a Draft of a Draft Biological Opinion.  If further deliberation about the draft’s content is likely, the document is not a Draft Biological Opinion.  It is a Draft of a Draft.  I recognize that in principle a Service might change its mind about the content of even the most final of Draft Biological Opinions.  It might then prepare a new Draft Biological Opinion.  But, in principle, a Service could also change its mind about a Final Biological Opinion, withdrawing a Final Biological Opinion already issued and substituting a new one in its place.  See, e.g., Oregon Natural Resources Council v. Allen, 476 F.3d 1031, 1032 (CA9 2007) (Fish and Wildlife Service “voluntarily reinitiated consultation . . . [and] withdrew its favorable Biological Opinion”); see also 50 CFR §402.16 (2019) (requiring the Services to reinitiate consultation in specified circumstances, including when “new information reveals effects of the action that may affect listed species or critical habitat in a manner or to an extent not previously considered”).  The mere possibility of a future change does not alter the finality, or the final effect, of the original document.
+
+															Second, a Final Biological Opinion and a Draft Biological Opinion finding jeopardy serve the same functions within the formal administrative process.  Both explain the Services’ findings.  Both set forth “reasonable and prudent” modifications or alternatives.
+
+16 U. S. C. §1536(b)(3)(A).  And both have substantially the same effect on the EPA (the action agency in this case).  In response to both documents, the EPA has essentially four options: It can drop the proposed action; it can accept the proposed modifications; it can take the proposed action and potentially expose itself to considerable penalties, or it can seek a Cabinet-level exemption.  See National Assn. of Home Builders v. Defenders of Wildlife,
+
+551 U.S. 644, 652 (2007); see also §§1536(b)(4), (g); 50 CFR §402.15; U. S. Fish and Wildlife Service, Consultations | Frequently Asked Questions (June 10, 2020), https://www.fws.gov/endangered/ what-we-do/faq.html.  The EPA could also, of course, propose a new course of action embodying modifications not proposed by the Services—possibly generating a new consultation—but that is just as true of a Final Biological Opinion.  See ibid. (noting that an agency can always choose to alter its proposed action).     
+
+															A Draft Biological Opinion differs from a Final Biological Opinion in only one way that matters.  The Services must make the Draft Biological Opinion available to the EPA before it issues a Final Biological Opinion.  50 CFR §402.14(g)(5).  It then continues its consultation with the EPA but not with an eye toward changing the Services’ environmental analysis or conclusions.  Rather, the negotiations are designed to find less damaging alternatives to the original EPA-proposed action.  See ibid. (allowing the action agency to request the Draft Biological Opinion “for the purpose of analyzing the reasonable and prudent alternatives”).  If the agencies find suitable alternatives, the EPA will then publicly adopt those alternatives, and the process will culminate in a Final Biological Opinion finding no jeopardy. 
+
+															The function of a Draft Biological Opinion finding jeopardy then is much the same as that of a Final Biological Opinion finding jeopardy.  Transmitting the Draft Biological Opinion to the EPA simply allows the EPA to make its choice before a Final Biological Opinion issues.  See ibid.  
+
+															Third, agency practice shows that the Draft Biological Opinion, not the Final Biological Opinion, is the document that informs the EPA of the Services’ conclusions about jeopardy and alternatives and triggers within the EPA the process of deciding what to do about those conclusions.  Amici tell us without contradiction that “out of 6,829 formal consultations” between 2008 and 2015, the Fish and Wildlife Service “issued a [Final Biological Opinion finding] jeopardy” “only twice.”  Brief for Center for Biological Diversity et al. as Amici Curiae 22–23.  If a Final Biological Opinion is discoverable under FOIA, as all seem to agree it is, why would a Draft Biological Opinion, embodying the same Service conclusions (and leaving the EPA with the same four choices), not be?
+
+															Fourth, permitting discovery of Draft Biological Opinions under FOIA is unlikely to chill frank discussion within a Service because the Services’ staff are already aware that these Drafts may well be made public.  And for good reason.  When a private party prompts the agency action under review, say, by seeking an EPA permit, regulations require the Service to make the Draft Biological Opinion available to the private applicant, removing the Draft Biological Opinion from Exemption 5’s protection.  See 50 CFR §402.14(g)(5) (requiring disclosure of Draft Biological Opinions to private applicants if requested); see also Department of Interior v. Klamath Water Users Protective Assn.,
+
+532 U.S. 1, 4–5 (2001) (documents exchanged between agency and third party not covered by Exemption 5 because they are no longer inter-agency or intra-agency communications).  To hold that Draft Biological Opinions are discoverable when a private party seeks an EPA permit but not when, as here, the EPA seeks to write a generally applicable rule that governs private party conduct seems highly anomalous.
+
+															Even where there is no private applicant, the evaluating agencies have a long history of disclosing Draft Biological Opinions to the public.  See, e.g., App. 93–98, 102–104 (discussing timing of Draft Biological Opinion disclosure); see also id., at 93–98 (discussing roll-out plan and public talking points for Draft Biological Opinion); Supp. Record in No. 17–16560 (CA9), pp. 164–199 (citing additional examples of public disclosure of Draft Biological Opinions); L. Schiffer, National Oceanic and Atmospheric Admin., Guidelines for Compiling an Agency Administrative Record 10 (Dec. 21, 2012), https://www.gc.noaa.gov/documents/2012/ AR_Guidelines_122112-Final.pdf (“Final draft documents with independent legal significance, such as final draft environmental impact statements, . . . will not be flagged for potential listing on the agency’s Privilege Log” (emphasis in original)).  The EPA too may well release a Service’s Draft Biological Opinion.  See App. 96 (“EPA [Office of Water] has a track record of putting these drafts on their docket which then show up on regulations.gov”); see also id., at 95 (“I agree that it is likely that EPA will put this draft on their docket”).  
+
+															Fifth, legal consequences flow from the Services’ completion of a Draft Biological Opinion.  The Services’ regulations state that “[i]f requested, the Service shall make available to the Federal agency [i.e., the EPA] the draft biological opinion for the purpose of analyzing the reasonable and prudent alternatives.”  50 CFR §402.14(g)(5).  Once the Draft Biological Opinion is under review at the EPA, the Services may not issue a Final Biological Opinion prior to the specified deadline.  Ibid.  Moreover, as explained, Draft Biological Opinions, like Final Biological Opinions, limit the EPA’s set of available options.  Cf. Bennett v. Spear,
+
+520 U.S. 154, 178 (1997) (holding that a Final Biological Opinion has “legal consequences,” even though the action agency is not legally obligated to accept the opinion’s recommendations or conclusions, because the opinion “alter[s] the legal regime to which the action agency is subject”).  Why, then, would these same consequences (together with the other factors mentioned above) not also place Draft Biological Opinions outside Exemption 5’s protection? 
+
+															In sum, the likely finality of a Draft Biological Opinion, its similarity to a Final Biological Opinion, the similar purposes it serves, the agency’s actual practice, the anomaly that would otherwise exist depending upon the presence or absence of a private party, and the presence of at least some regulation-based legal constraints—convince me that a Draft Biological Opinion would not normally enjoy a deliberative privilege from FOIA disclosure.
+
+															The question remains whether the particular documents at issue here are Draft Biological Opinions or Drafts of Draft Biological Opinions.  As the majority points out, there are reasons to believe some of them may be the latter.  See ante, at 7, n. 4, 9. The National Marine Fisheries Service’s documents contain highlighting and editing marks reflective of a work-in-progress.  But the Fish and Wildlife Service documents do not, and the record indicates they may have been complete but for a final signature.  See App. 105.  Given the fact-intensive nature of this question, I would remand to allow the Court of Appeals to determine just how much work was left to be done.  If the court determines that the documents are merely Drafts of Draft Biological Opinions, I agree with the majority that a segregability analysis would be appropriate.  
+
+															For these reasons, I dissent.
+													

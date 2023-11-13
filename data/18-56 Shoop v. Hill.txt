@@ -1,0 +1,102 @@
+::SCDB_caseID:: 2018-053
+::decision_cite:: 18-56
+::decision_name::  Shoop v. Hill
+::decision_year:: 2019
+::opinion_author:: 
+::opinion_type:: 
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															TIM SHOOP, WARDEN v. DANNY HILL
+
+															on petition for writ of certiorari to the united states court of appeals for the sixth circuit
+
+															No. 18–56. Decided January 7, 2019
+
+															
+
+															Per Curiam.
+
+															The United States Court of Appeals for the Sixth Circuit held that respondent Danny Hill, who has been sentenced to death in Ohio, is entitled to habeas relief under
+
+28 U. S. C. §2254(d)(1) because the decisions of the Ohio courts concluding that he is not intellectually disabled were contrary to Supreme Court precedent that was clearly established at the time in question.  In reaching this de- cision, the Court of Appeals relied repeatedly and extensively on our decision in Moore v. Texas, 581 U. S. ___ (2017), which was not handed down until long after the state-court decisions.
+
+															The Court of Appeals’ reliance on Moore was plainly improper under §2254(d)(1), and we therefore vacate that decision and remand so that Hill’s claim regarding intellectual disability can be evaluated based solely on holdings of this Court that were clearly established at the relevant time.
+
+															I
+
+															In September 1985, 12-year old Raymond Fife set out on his bicycle for a friend’s home.  When he did not arrive, his parents launched a search, and that evening his father found Raymond—naked, beaten, and burned—in a wooded field.  Although alive, he had sustained horrific injuries that we will not describe.  He died two days later.
+
+															In 1986, respondent Danny Hill was convicted for torturing, raping, and murdering Raymond, and he was sentenced to death.  An intermediate appellate court affirmed his conviction and sentence, as did the Ohio Supreme Court.  We denied certiorari.  Hill v. Ohio,
+
+507 U. S. 1007 (1993).
+
+															After unsuccessful efforts to obtain postconviction relief in state and federal court, Hill filed a new petition in the Ohio courts contending that his death sentence is illegal under Atkins v. Virginia,
+
+536 U. S. 304 (2002), which held that the
+ 
+Eighth Amendment prohibits the imposition of a death sentence on a defendant who is “mentally retarded.”  In 2006, the Ohio trial court denied this claim, App. to Pet. for Cert. 381a–493a, and in 2008, the Ohio Court of Appeals affirmed, State v. Hill, 177 Ohio App. 3d 171, 2008-Ohio-3509, 894 N. E. 2d 108.  In 2009, the Ohio Supreme Court denied review.  State v. Hill, 122 Ohio St. 3d 1502, 2009-Ohio-4233, 912 N. E. 2d 107.
+
+															In 2010, Hill filed a new federal habeas petition under
+
+28 U. S. C. §2254, seeking review of the denial of his Atkins claim.  The District Court denied the petition, App. to Pet. for Cert. 77a–210a, but the Sixth Circuit reversed and granted habeas relief under §2254(d)(1), which applies when a state-court adjudication “resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States.”  See Hill v. Anderson, 881 F. 3d 483 (2018). The Sixth Circuit found two alleged deficiencies in the Ohio courts’ decisions: First, they “overemphasized Hill’s adaptive strengths”; and second, they “relied too heavily on adaptive strengths that Hill exhibited in the controlled environment of his death-row prison cell.”  Id., at 492.  In reaching these conclusions, the court relied repeatedly on our decision in Moore v. Texas, 581 U. S. ___.  See 881 F. 3d, at 486, 487, 488, n. 4, 489, 491, 492, 493, 495, 496, 498, 500.  The court acknowledged that “[o]rdinarily, Supreme Court decisions that post-date a state court’s determination cannot be ‘clearly established law’ for the purposes of [the federal habeas statute],” but the court argued “that Moore’s holding regarding adaptive strengths [was] merely an application of what was clearly established by Atkins.”  Id., at 487.
+
+															The State filed a petition for a writ of certiorari, contending that the Sixth Circuit violated §2254(d)(1) because a fundamental underpinning of its decision was Moore, a case decided by this Court well after the Ohio courts’ decisions.  Against this, Hill echoes the Court of Appeals’ argument that Moore merely spelled out what was clearly established by Atkins regarding the assessment of adaptive skills.
+
+															II
+
+															The federal habeas statute, as amended by the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), imposes important limitations on the power of federal courts to overturn the judgments of state courts in criminal cases.  The statute respects the authority and ability of state courts and their dedication to the protection of constitutional rights.  Thus, under the statutory provision at issue here,
+
+28 U. S. C. §2254(d)(1), habeas relief may be granted only if the state court’s adjudication “resulted in a decision that was contrary to, or involved an unreasonable application of,” Supreme Court precedent that was “clearly established” at the time of the adjudication.  E.g., White v. Woodall,
+
+572 U. S. 415, 419–420 (2014); Metrish v. Lancaster,
+
+569 U. S. 351, 357–358 (2013). This means that a state court’s ruling must be “so lacking in justification that there was an error well understood and comprehended in existing law beyond any possibility for fairminded dis- agreement.”  Harrington v. Richter,
+
+562 U. S. 86, 103 (2011).  We therefore consider what was clearly established regarding the execution of the intellectually dis- abled in 2008, when the Ohio Court of Appeals rejected Hill’s Atkins claim.
+
+															Of course, Atkins itself was on the books, but Atkins gave no comprehensive definition of “mental retardation” for
+ 
+Eighth Amendment purposes.[1]  The opinion of the Court noted that the definitions of mental retardation adopted by the American Association on Mental Retardation and the American Psychiatric Association required both “subaverage intellectual functioning” and “significant limitations in adaptive skills such as communication, self-care, and self-direction that became manifest before age 18.”  536 U. S., at 318; see also id., at 308, n. 3 (quoting definitions).  The Court also noted that state statutory definitions of mental retardation at the time “[were] not identical, but generally conform[ed] to the[se] clinical definitions.”  Id., at 317, n. 22.  The Court then left “ ‘to the State[s] the task of developing appropriate ways to enforce the constitutional restriction’ ” that the Court adopted.  Id., at 317 (quoting Ford v. Wainwright,
+
+477 U. S. 399, 416 (1986) (plurality opinion)).
+
+															More than a decade later, we expounded on the definition of intellectual disability in two cases.  In Hall v. Florida,
+
+572 U. S. 701 (2014), we considered a rule restricting Atkins to defendants with “an IQ test score of 70 or less.”  572 U. S., at 704.  We held that this rule violated the
+ 
+Eighth Amendment because it treated an IQ score higher than 70 as conclusively disqualifying and thus prevented consideration of other evidence of intellectual disability, such as evidence of “deficits in adaptive functioning over [the defendant’s] lifetime.”  Id., at 724.
+
+															Three years later in Moore, we applied Hall and faulted the Texas Court of Criminal Appeals (CCA) for concluding that the petitioner’s IQ scores, some of which were at or below 70, established that he was not intellectually dis- abled.  Moore, 581 U. S., at ___–___.  We also held that the CCA improperly evaluated the petitioner’s adaptive functioning.  It erred, we concluded, in “overemphasiz[ing] [petitioner’s] perceived adaptive strengths,” despite the medical community’s focus on “adaptive deficits.”  Id., at ___ (slip op., at 12). And we found that the CCA also went astray in “stress[ing] [petitioner’s] improved behavior in prison,” even though the medical community “caution[ed] against reliance on adaptive strengths developed in a controlled setting, as a prison surely is.”  Id., at ___ (slip op., at 13) (internal quotation marks omitted).
+
+															III
+
+															In this case, no reader of the decision of the Court of Appeals can escape the conclusion that it is heavily based on Moore, which came years after the decisions of the Ohio courts.  Indeed, the Court of Appeals, in finding an unreasonable application of clearly established law, drew almost word for word from the two statements in Moore quoted above.  See 881 F. 3d, at 492 (“Contrary to Atkins, the Ohio courts overemphasized Hill’s adaptive strengths and relied too heavily on adaptive strengths that Hill exhibited in the controlled environment of his death-row prison cell.  In so doing, they unreasonably applied clearly established law”).  Although the Court of Appeals asserted that the holding in Moore was “merely an application of what was clearly established by Atkins,” 881 F. 3d, at 487, the court did not explain how the rule it applied can be teased out of the Atkins Court’s brief comments about the meaning of what it termed “mental retardation.”  While Atkins noted that standard definitions of mental retardation included as a necessary element “significant limitations in adaptive skills . . . that became manifest before age 18,” 536 U. S., at 318, Atkins did not definitively resolve how that element was to be evaluated but instead left its application in the first instance to the States.  Id., at 317.
+
+															Moreover, the posture in which Moore reached this Court (it did not arise under AEDPA) and the Moore majority’s primary reliance on medical literature that postdated the Ohio courts’ decisions, 581 U. S., at ___, ___, provide additional reasons to question the Court of Appeals’ analysis.  Cf. Cain v. Chappell, 870 F. 3d 1003, 1024, n. 9 (CA9 2017) (because “Moore is not an AEDPA case” and was “decided just this spring,” “Moore itself cannot serve as ‘clearly established’ law at the time the state court decided Cain’s claim”).
+
+															IV
+
+															The centrality of Moore in the Court of Appeals’ analysis is reflected in the way in which the intellectual-disability issue was litigated below.  The Atkins portion of Hill’s habeas petition did not focus on §2254(d)(1), the provision on which the decision below is based.[2]  Instead, it began and ended with appeals to a different provision of the habeas statute, §2254(d)(2), which supports relief based on a state court’s “unreasonable determination of the facts.”  In particular, Hill opened with the claim that the Ohio courts’ findings on “adaptive functioning” “were an unreasonable determination of the facts in light of the evidence,” Amended Pet. for Habeas Corpus in No. 96–CV–795 (ND Ohio) (Doc. 94), p. 15, ¶44 (citing §2254(d)(2)), and he closed with the claim that the state trial court’s assessment that he is “not mentally retarded” was based on “an unreasonable determination of the facts,” id., at 36–37, ¶101 (citing §2254(d)(2)).  Indeed, Hill’s reply to the State’s answer to his petition explicitly “concur[red] . . . that it is proper to review [his Atkins claim] under §2254(d)(2).”  Traverse in No. 96–CV–795 (ND Ohio) (Doc. 102), p. 47.  And so, unsurprisingly, the District Court analyzed Hill’s Atkins claim solely under §2254(d)(2), noting that “[a]s Hill concedes in his Traverse, his Atkins claim is more appropriately addressed as it relates to the Ohio appellate court’s factual analysis under §2254(d)(2).”  App. to Pet. for Cert. 121a.
+
+															Hill pressed the same §2254(d)(2) argument in his opening brief in the Sixth Circuit.  There, he argued that the state courts’ finding on “adaptive functioning . . . was  an unreasonable determination of the facts.”  Brief for Petitioner–Appellant in No. 14–3718 (CA6), p. 34 (citing §2254(d)(2)); see also id., at 65 (“As such, the state courts’ findings of fact that [Hill] is not mentally retarded constitute an unreasonable determination of facts in light of the evidence presented.  (§2254(d)(2))”).
+
+															It appears that it was not until the Court of Appeals asked for supplemental briefing on Moore that Hill introduced the §2254(d)(1) argument that the Court of Appeals adopted.  Although, as noted, the Court of Appeals ultimately disclaimed reliance on Moore, it explicitly asked the parties for supplemental briefing on how Moore “should be applied to this case.”  Because the reasoning of the Court of Appeals leans so heavily on Moore, its decision must be vacated.  On remand, the court should determine whether its conclusions can be sustained based strictly on legal rules that were clearly established in the decisions of this Court at the relevant time.
+
+															*  *  *
+
+															The petition for certiorari and Hill’s motion for leave to proceed in forma pauperis are granted, the judgment of the United States Court of Appeals for the Sixth Circuit is vacated, and the case is remanded for further proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+ The Court explained that it was “fair to say that a national consensus” had developed against the execution of “mentally retarded” offenders.  Atkins v. Virginia, 536 U. S., 304, 316 (2002). 
+
+2
+ While Hill’s petition argued at one point that certain unidentified “procedures” used by the state courts in making the relevant decisions “violated clearly established federal law of Ford/Panetti/Atkins,” Amended Pet. for Habeas Corpus in No. 96–CV–795 (ND Ohio) (Doc. 94), p. 15, ¶45, the petition plainly did not encompass his current argument that the Ohio Court of Appeals unreasonably applied clearly established law under Atkins by overemphasizing adaptive strengths and improperly considering his prison behavior. 
+
+

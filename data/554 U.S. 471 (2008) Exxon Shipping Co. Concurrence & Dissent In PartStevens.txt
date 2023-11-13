@@ -1,0 +1,134 @@
+::SCDB_caseID:: 2007-069
+::decision_cite:: 554 U.S. 471 (2008)
+::decision_name::  Exxon Shipping Co. v. Baker
+::decision_year:: 2008
+::opinion_author:: Stevens
+::opinion_type:: Concurrence & Dissent In Part
+::opinion:: 
+
+
+OPINION OF STEVENS, J.
+EXXON SHIPPING CO. V. BAKER
+554 U. S. ____ (2008)
+SUPREME COURT OF THE UNITED STATES
+NO. 07-219
+
+
+
+
+
+															EXXON SHIPPING COMPANY, et al., PETITIONERS v.
+GRANT BAKER et al.
+
+															on writ of certiorari to the united states court of
+appeals for the ninth circuit
+
+															[June 25, 2008]
+
+
+
+															   Justice Stevens, concurring in part and dissenting in part.
+
+															
+   While I join Parts I, II, and III of the Court’s opinion, I believe that Congress, rather than this Court, should make the empirical judgments expressed in Part IV.  While maritime law “ ‘is judge-made law to a great extent,’ ” ante, at 16 (quoting Edmonds v. Compagnie Generale Transatlantique, 443 U. S. 256, 259 (1979)), it is also statutory law to a great extent; indeed, “[m]aritime tort law is now dominated by federal statute.”  Miles v. Apex Marine Corp., 498 U. S. 19, 36 (1990).  For that reason, when we are faced with a choice between performing the traditional task of appellate judges reviewing the acceptability of an award of punitive damages, on the one hand, and embarking on a new lawmaking venture, on the other, we “should carefully consider whether [we], or a legislative body, are better equipped to perform the task at hand.”  Boyle v. United Technologies Corp., 487 U. S. 500, 531 (1988) (Stevens, J., dissenting).
+
+															
+
+   Evidence that Congress has affirmatively chosen not to restrict the availability of a particular remedy favors adherence to a policy of judicial restraint in the absence of some special justification.  The Court not only fails to offer any such justification, but also ignores the particular features of maritime law that may counsel against imposing the sort of limitation the Court announces today.  Applying the traditional abuse-of-discretion standard that is well grounded in the common law, I would affirm the judgment of the Court of Appeals.
+
+															I
+
+															
+   As we explained in Miles v. Apex Marine Corp., 498 U. S., at 27, “an admiralty court must be vigilant not to overstep the well-considered boundaries imposed by federal legislation.”  In light of the many statutes governing liability under admiralty law, the absence of any limitation on an award of the sort at issue in this case suggests that Congress would not wish us to create a new rule restricting the liability of a wrongdoer like Exxon.
+
+															   For example, the Limitation of Shipowners’ Liability Act (Limitation Act), 46 U. S. C. App. §183[Footnote 1], a statute that has been part of the fabric of our law since 1851, provides in relevant part:
+
+															“The liability of the owner of any vessel, whether American or foreign, for any embezzlement, loss, or destruction by any person of any property, goods, or merchandise shipped or put onboard of such vessel, or for any loss, damage, or injury by collision, or for any act, matter, or thing, loss, damage, or forfeiture, done, occasioned, or incurred, without the privity or knowledge of such owner or owners, shall not, except in the cases provided for in subsection (b) of this section, exceed the amount or value of the interest of such owner in such vessel, and her freight then pending.”  §183(a) (emphasis added).
+
+															
+   This statute operates to shield from liability shipowners charged with wrongdoing committed without their privity or knowledge; the Limitation Act’s protections thus render large punitive damages awards functionally unavailable in a wide swath of admiralty cases.[Footnote 2]  Exxon evidently did not invoke the protection of the Limitation Act because it recognized the futility of attempting to establish that it lacked “privity or knowledge” of Captain Hazelwood’s drinking.[Footnote 3]  Although the existence of the Limitation Act does not resolve this case, the fact that Congress chose to provide such generous protection against liability without including a party like Exxon within that protection counsels against extending a similar benefit here.
+
+															
+
+   The Limitation Act is only one of several statutes that point to this conclusion.  In the Trans-Alaska Pipeline Authorization Act (TAPAA), 87 Stat. 584, 43 U. S. C. §1651 et seq., Congress altered the liability regime governing certain types of Alaskan oil spills, imposing strict liability but also capping recovery; notably, it did not restrict the availability of punitive damages.[Footnote 4]  (Exxon unsuccessfully argued that the TAPAA precluded punitive damages at an earlier stage of this litigation, see App. 101–107.)  And the Court today rightly decides that in passing the Clean Water Act, Congress did not displace or in any way diminish the availability of common-law punitive damages remedies.  Ante, at 14–15.
+
+															
+
+   The congressional choice not to limit the availability of punitive damages under maritime law should not be viewed as an invitation to make policy judgments on the basis of evidence in the public domain that Congress is better able to evaluate than is this Court.
+
+															II
+
+															
+   The Court’s analysis of the empirical data it has assembled is problematic for several reasons.  First, I believe that the Court fails to recognize a unique feature of maritime law that may counsel against uncritical reliance on data from land-based tort cases: General maritime law limits the availability of compensatory damages.  Some maritime courts bar recovery for negligent infliction of purely emotional distress, see 1 T. Schoenbaum, Admiralty and Maritime Law §5–15 (4th ed. 2004),[Footnote 5] and, on the view of many courts, maritime law precludes recovery for purely “economic losses … absent direct physical damage to property or a proprietary interest,” 2 id., §14–7, at 124.[Footnote 6]  Under maritime law, then, more than in the land-tort context, punitive damages may serve to compensate for certain sorts of intangible injuries not recoverable under the rubric of compensation.
+
+															   We observed in Cooper Industries, Inc. v. Leatherman Tool Group, Inc., 532 U. S. 424, 437–438, n. 11 (2001):
+
+															“Until well into the 19th century, punitive damages frequently operated to compensate for intangible injuries, compensation which was not otherwise available under the narrow conception of compensatory damages prevalent at the time… .  As the types of compensatory damages available to plaintiffs have broadened, see, e.g., 1 J. Nates, C. Kimball, D. Axelrod, & R. Goldstein, Damages in Tort Actions §3.01[3][a](2000) (pain and suffering are generally available as species of compensatory damages), the theory behind punitive damages has shifted toward a more purely punitive … understanding.”
+
+															
+   Although these sorts of intangible injuries are now largely a species of ordinary compensatory damages under general tort law, it appears that maritime law continues to treat such injuries as less than fully compensable, or not compensable at all.  Accordingly, there may be less reason to limit punitive damages in this sphere than there would be in any other.
+
+															
+
+   Second, both caps and ratios of the sort the Court relies upon in its discussion are typically imposed by legislatures, not courts.  Although the Court offers a great deal of evidence that States have acted in various ways to limit punitive damages, it is telling that the Court fails to identify a single state court that has imposed a precise ratio, as the Court does today, under its common-law authority.  State legislatures have done so, of course; and indeed Congress would encounter no obstacle to doing the same as a matter of federal law.  But Congress is far better situated than is this Court to assess the empirical data, and to balance competing policy interests, before making such a choice.[Footnote 7]
+
+															
+
+   The Court concedes that although “American punitive damages have been the target of audible criticism in recent decades,” “most recent studies tend to undercut much of [that criticism].”  Ante, at 24.  It further acknowledges that “[a] survey of the literature reveals that discretion to award punitive damages has not mass-produced runaway awards.”  Ibid.  The Court concludes that the real problem is large outlier awards, and the data seem to bear this out.  But the Court never explains why abuse-of-discretion review is not the precise antidote to the unfairness inherent in such excessive awards.
+
+															
+
+   Until Congress orders us to impose a rigid formula to govern the award of punitive damages in maritime cases, I would employ our familiar abuse-of-discretion standard: “If no constitutional issue is raised, the role of the appellate court, at least in the federal system, is merely to review the trial court’s ‘determination under an abuse-of-discretion standard,’ ” Cooper Industries, Inc., 532 U. S., at 433; see also Pacific Mut. Life Ins. Co. v. Haslip, 499 U. S. 1, 15 (1991) (“Under the traditional common-law approach, the amount of the punitive award is initially determined by a jury instructed to consider the gravity of the wrong and the need to deter similar wrongful conduct.  The jury’s determination is then reviewed by trial and appellate courts to ensure that it is reasonable”).   
+
+															
+
+   On an abuse-of-discretion standard, I am persuaded that a reviewing court should not invalidate this award.[Footnote 8]  In light of Exxon’s decision to permit a lapsed alcoholic to command a supertanker carrying tens of millions of gallons of crude oil through the treacherous waters of Prince William Sound, thereby endangering all of the individuals who depended upon the sound for their livelihoods, the jury could reasonably have given expression to its “moral condemnation” of Exxon’s conduct in the form of this award.  Cooper Industries, Inc., 532 U. S., at 432.
+
+															
+
+   I would adhere to the principle that “ ‘it better becomes the humane and liberal character of proceedings in admiralty to give than to withhold the remedy, when not required to withhold it by established and inflexible rules.’ ”  Moragne v. States Marine Lines, Inc., 398 U. S. 375, 387 (1970) (quoting Chief Justice Chase in The Sea Gull, 21 F. Cas. 909, 910 (CC Md. 1865)).
+
+															*  *  *
+
+															
+   While I do not question that the Court possesses the power to craft the rule it announces today, in my judgment it errs in doing so.  Accordingly, I respectfully dissent
+from Parts IV and V of the Court’s opinion, and from its judgment.
+
+Footnote 1
+															 The Limitation Act is now codified as amended at 46 U. S. C. §30505.  See Pub. L. 109–304, §3, 120 Stat. 1513.
+
+Footnote 2
+															 See Lewis v. Lewis & Clark Marine, Inc., 531 U. S. 438, 446 (2001) (“Admiralty and maritime law includes a host of special rights, duties, rules, and procedures… .  Among these provisions is the Limitation Act… .  The Act allows a vessel owner to limit liability for damage or injury, occasioned without the owner’s privity or knowledge, to the value of the vessel or the owner’s interest in the vessel”); Coryell v. Phipps, 317 U. S. 406, 412 (1943) (“One who selects competent men to store and inspect a vessel and who is not on notice as to the existence of any defect cannot be denied the benefit of the limitation as respects a loss incurred by an explosion during the period of storage, unless ‘privity’ or ‘knowledge’ are to become empty words”).
+
+Footnote 3
+															 Testimony at an early phase of this protracted litigation confirmed as much.  In a hearing before the District Court, one of Exxon’s attorneys explained that his firm advised Exxon in 1989 that Exxon would “ ‘never be able to sustain its burden to show lack of privity or knowledge with the use of alcohol by Captain Hazelwood.’ ”  App. to Brief in Opposition 43a.
+
+Footnote 4
+															 Although the issue has not been resolved by this Court, there is evidence that in passing TAPAA, Congress meant to prevent application of the Limitation Act to the trans-Alaskan transportation of oil.  The House Conference Report includes the following passage:
+
+															
+
+“Under the Limitation of Liability Act of 1851 (46 U. S. C. 183), the owner of a vessel is entitled to limit his liability for property damage caused by the vessel… The Conferees concluded that existing maritime law would not provide adequate compensation to all victims … in the event of the kind of catastrophe which might occur.  Consequently, the Conferees established a rule of strict liability for damages from discharges of the oil transported through the trans-Alaska Pipeline up to $100,000,000.”  H. R. Conf. Rep. No. 93–624, p. 28 (1973).
+
+															
+
+   See also In re Glacier Bay, 944 F. 2d 577, 583 (CA9 1991) (“[W]e hold that TAPAA implicitly repealed the Limitation Act with regard to the transportation of trans-Alaska oil”).
+
+Footnote 5
+															 Schoenbaum explains that “[n]either the general maritime law nor the Jones Act recognizes a right to recover damages for negligent infliction of emotional distress unaccompanied by physical injury.”  §5–15, p. 239.  See also Gough v. Natural Gas Pipeline Co. of Am., 996 F. 2d 763, 765 (CA5 1993) (purely emotional injuries are compensable under maritime law when maritime plaintiffs “satisfy the ‘physical injury or impact rule’ ”).
+
+Footnote 6
+															 The latter limitation has its roots in the “dry dock doctrine” of Robins Dry Dock & Repair Co. v. Flint, 275 U. S. 303 (1927) (opinion for the Court by Holmes, J.).  See Barber Lines A/S v. M/V Donau Maru, 764 F. 2d 50 (CA1 1985) (opinion for the Court by Breyer, J.) (tracing the history and purposes of the doctrine, and resolving to adhere to its rule); see also Louisiana v. M/V Testbank, 752 F. 2d 1019, 1020 (CA5 1985) (en banc) (affirming rule denying recovery for economic loss absent “physical damage to a proprietary interest … in cases of unintentional maritime tort”).
+
+Footnote 7
+															 See Turner Broadcasting System, Inc. v. FCC, 512 U. S. 622, 665–666 (1994) (plurality opinion) (“As an institution … Congress is far better equipped than the judiciary to amass and evaluate the vast amounts of data bearing upon an issue as complex and dynamic as that presented here” (internal quotation marks omitted)); Patsy v. Board of Regents of Fla., 457 U. S. 496, 513 (1982) (when “relevant policy considerations do not invariably point in one direction, and there is vehement disagreement over the validity of the assumptions underlying many of them[, t]he very difficulty of these policy considerations, and Congress’ superior institutional competence to pursue this debate, suggest that legislative not judicial solutions are preferable”).  
+
+															
+
+   The Court points to United States v. Reliable Transfer Co., 421 U. S. 397 (1975), a case in which the Court adopted a rule of proportional liability in maritime tort cases, as an illustrative example of the Court’s power to craft “flexible and fair remedies in the law maritime.”  Id., at 409.  In that case, however, the Court noted that not only was the new proportional liability rule not barred by any “statutory or judicial precept,” but also that its adoption would “simply bring recovery for property damage in maritime collision cases into line with the rule of admiralty law long since established by Congress for personal injury cases.”  Ibid.  By contrast, the Court in this case has failed to demonstrate that adoption of the rule it announces brings the maritime law into line with expressions of congressional intent in this (or any other) context.
+
+Footnote 8
+															 The idiosyncratic posture of this case makes true abuse-of-discretion appellate review something of a counterfactual, since the $5 billion award returned by the jury was, after several intervening steps, ultimately remitted to $2.5 billion by the Ninth Circuit in order to conform with this Court’s Due Process cases.  472 F. 3d 600 (2006) (per curiam).  Suffice it to say, for now, that although the constitutional limits and the abuse-of-discretion standard are not identical, in this case the $2.5 billion the Ninth Circuit believed survived de novo constitutional scrutiny would, in my judgment, also satisfy abuse-of-discretion review.
+
+
+

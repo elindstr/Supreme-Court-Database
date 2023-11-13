@@ -1,0 +1,264 @@
+::SCDB_caseID:: 2018-041
+::decision_cite:: 17-1594
+::decision_name::  Return Mail, Inc. v. United States Postal Service
+::decision_year:: 2019
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1594
+
+															_________________
+
+															RETURN MAIL, INC., PETITIONER v. UNITED STATES POSTAL SERVICE, et al.
+
+															on writ of certiorari to the united states court of appeals for the federal circuit
+
+															[June 10, 2019]
+
+															
+
+															Justice Sotomayor delivered the opinion of the Court.
+
+															In the Leahy-Smith America Invents Act of 2011,
+
+35 U. S. C. §100 et seq., Congress created the Patent Trial and Appeal Board and established three new types of administrative proceedings before the Board that allow a “person” other than the patent owner to challenge the validity of a patent post-issuance.  The question presented in this case is whether a federal agency is a “person” able to seek such review under the statute.  We conclude that it is not.
+
+															I
+
+															A
+
+															The Constitution empowers Congress “[t]o promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective . . . Discoveries.”  Art. I, §8, cl. 8.  Pursuant to that authority, Congress established the United States Patent and Trademark Office (Patent Office) and tasked it with “the granting and issuing of patents.”  35 U. S. C. §§1, 2(a)(1).
+
+															To obtain a patent, an inventor submits an application describing the proposed patent claims to the Patent Office.  See §§111(a)(1), 112.  A patent examiner then reviews the application and prior art (the information available to the public at the time of the application) to determine whether the claims satisfy the statutory requirements for patent- ability, including that the claimed invention is useful, novel, nonobvious, and contains eligible subject matter.  See §§101, 102, 103.  If the Patent Office accepts the claim and issues a patent, the patent owner generally obtains exclusive rights to the patented invention throughout the United States for 20 years.  §§154(a)(1), (2).
+
+															After a patent issues, there are several avenues by which its validity can be revisited.  The first is through a defense in an infringement action.  Generally, one who intrudes upon a patent without authorization “infringes the patent” and becomes subject to civil suit in the federal district courts, where the patent owner may demand a jury trial and seek monetary damages and injunctive relief.  §§271(a), 281–284.  If, however, the Federal Government is the alleged patent infringer, the patent owner must sue the Government in the United States Court of Federal Claims and may recover only “reasonable and entire compensation” for the unauthorized use.
+
+28 U. S. C. §1498(a).
+
+															Once sued, an accused infringer can attempt to prove by clear and convincing evidence “that the patent never should have issued in the first place.”  Microsoft Corp. v. i4i L. P.,
+
+564 U.S. 91, 96–97 (2011); see
+
+35 U. S. C. §282(b).  If a defendant succeeds in showing that the claimed invention falls short of one or more patentability requirements, the court may deem the patent invalid and absolve the defendant of liability.
+
+															The Patent Office may also reconsider the validity of issued patents.  Since 1980, the Patent Act has empowered the Patent Office “to reexamine—and perhaps cancel—a patent claim that it had previously allowed.”  Cuozzo Speed Technologies, LLC v. Lee, 579 U. S. ___, ___ (2016) (slip op., at 3).  This procedure is known as ex parte reexamination.  “Any person at any time” may cite to the Patent Office certain prior art that may “bea[r] on the patentability of any claim of a particular patent”; and the person may additionally request that the Patent Office reexamine the claim on that basis.  35 U. S. C. §§301(a), 302(a).  If the Patent Office concludes that the prior art raises “a substantial new question of patentability,” the agency may reexamine the patent and, if warranted, cancel the patent or some of its claims.  §§303(a), 304–307.  The Director of the Patent Office may also, on her “own initiative,” initiate such a proceeding.  §303(a).
+
+															In 1999 and 2002, Congress added an “inter partes reexamination” procedure, which similarly invited “[a]ny person at any time” to seek reexamination of a patent on the basis of prior art and allowed the challenger to participate in the administrative proceedings and any subsequent appeal.  See §311(a) (2000 ed.); §§314(a), (b) (2006 ed.); Cuozzo Speed Technologies, 579 U. S., at ___ (slip op., at 3).
+
+															B
+
+															In 2011, Congress overhauled the patent system by enacting the America Invents Act (AIA), which created the Patent Trial and Appeal Board and phased out inter partes reexamination.  See
+
+35 U. S. C. §6; H. R. Rep. No. 112–98, pt. 1, pp. 46–47.  In its stead, the AIA tasked the Board with overseeing three new types of post-issuance review proceedings.
+
+															First, the “inter partes review” provision permits “a person” other than the patent owner to petition for the review and cancellation of a patent on the grounds that the invention lacks novelty or nonobviousness in light of “patents or printed publications” existing at the time of the patent application.  §311.
+
+															Second, the “post-grant review” provision permits “a person who is not the owner of a patent” to petition for review and cancellation of a patent on any ground of pat- entability.  §321; see §§282(b)(2), (b)(3).  Such proceedings must be brought within nine months of the patent’s issuance.  §321.
+
+															Third, the “covered-business-method review” (CBM review) provision provides for changes to a patent that claims a method for performing data processing or other operations used in the practice or management of a financial product or service.  AIA §§18(a)(1), (d)(1),
+
+125Stat.
+329, note following
+
+35 U. S. C. §321, p. 1442.  CBM review tracks the “standards and procedures of” post-grant review with two notable exceptions: CBM review is not limited to the nine months following issuance of a patent, and “[a] person” may file for CBM review only as a defense against a charge or suit for infringement.  §18(a)(1)(B),
+
+125Stat.
+330.[1]
+
+															The AIA’s three post-issuance review proceedings are adjudicatory in nature.  Review is conducted by a three-member panel of the Patent Trial and Appeal Board,
+
+35 U. S. C. §6(c), and the patent owner and challenger may seek discovery, file affidavits and other written memo- randa, and request an oral hearing, see §§316, 326; AIA §18(a)(1),
+
+125Stat.
+329; Oil States Energy Services, LLC v. Greene’s Energy Group, LLC, 584 U. S. ___, ___–___ (2018) (slip op., at 3–4).  The petitioner has the burden of proving unpatentability by a preponderance of the evidence.  §§282, 316(e), 326(e).  The Board then either confirms the patent claims or cancels some or all of the claims.  §§318(b), 328(b).  Any party “dissatisfied” with the Board’s final decision may seek judicial review in the Court of  
+
+															Appeals for the Federal Circuit, §§319, 329; see §141(c), and the Director of the Patent Office may intervene, §143.
+
+															In sum, in the post-AIA world, a patent can be reexamined either in federal court during a defense to an infringement action, in an ex parte reexamination by the Patent Office, or in the suite of three post-issuance review proceedings before the Patent Trial and Appeal Board.  The central question in this case is whether the Federal Government can avail itself of the three post-issuance review proceedings, including CBM review.
+
+															C
+
+															Return Mail, Inc., owns U. S. Patent No. 6,826,548 (’548 patent), which claims a method for processing mail that is undeliverable.  Beginning in 2003, the United States Postal Service allegedly began exploring the possibility of licensing Return Mail’s invention for use in handling the country’s undelivered mail.  But the parties never reached an agreement.
+
+															In 2006, the Postal Service introduced an enhanced address-change service to process undeliverable mail.  Return Mail’s representatives asserted that the new service infringed the ’548 patent, and the company renewed its offer to license the claimed invention to the Postal Service.  In response, the Postal Service petitioned for ex parte reexamination of the ’548 patent.  The Patent Office canceled the original claims but issued several new ones, confirming the validity of the ’548 patent.  Return Mail then sued the Postal Service in the Court of Federal Claims, seeking compensation for the Postal Service’s unauthorized use of its invention, as reissued by the Pat- ent Office.
+
+															While the lawsuit was pending, the Postal Service again petitioned the Patent Office to review the ’548 patent, this time seeking CBM review.  The Patent Board instituted review.  The Board agreed with the Postal Service that Return Mail’s patent claims subject matter that was ineligible to be patented, and it canceled the claims underlying the ’548 patent.  A divided panel of the Court of Appeals for the Federal Circuit affirmed.  See 868 F.3d 1350 (2017).  As relevant here, the Federal Circuit held, over a dissent, that the Government is a “person” eligible to petition for CBM review.  Id., at 1366; see AIA §18(a)(1)(B),
+
+125Stat.
+330 (only a qualifying “person” may petition for CBM review).  The court then affirmed the Patent Board’s decision on the merits, invalidating Return Mail’s patent claims.
+
+															We granted certiorari to determine whether a federal agency is a “person” capable of petitioning for post-issuance review under the AIA.[2]  586 U. S. ___ (2018).
+
+															II
+
+															 The AIA provides that only “a person” other than the patent owner may file with the Office a petition to institute a post-grant review or inter partes review of an issued patent.  35 U. S. C. §§311(a), 321(a).  The statute likewise provides that a “person” eligible to seek CBM review may not do so “unless the person or the person’s real party in interest or privy has been sued for infringement.”  AIA §18(a)(1)(B),
+
+125Stat.
+330.  The question in this case is whether the Government is a “person” capable of instituting the three AIA review proceedings.
+
+															A
+
+															The patent statutes do not define the term “person.”  In  
+
+															the absence of an express statutory definition, the Court applies a “longstanding interpretive presumption that ‘person’ does not include the sovereign,” and thus excludes a federal agency like the Postal Service.  Vermont Agency of Natural Resources v. United States ex rel. Stevens,
+
+529 U.S. 765, 780–781 (2000); see United States v. Mine Workers,
+
+330 U.S. 258, 275 (1947); United States v. Cooper Corp.,
+
+312 U.S. 600, 603–605 (1941); United States v. Fox,
+
+94 U.S. 315, 321 (1877).
+
+															This presumption reflects “common usage.”  Mine Workers, 330 U. S., at 275.  It is also an express directive from Congress: The Dictionary Act has since 1947 provided the definition of “ ‘person’ ” that courts use “[i]n determining the meaning of any Act of Congress, unless the context indicates otherwise.”
+
+1 U. S. C. §1; see Rowland v. California Men’s Colony, Unit II Men’s Advisory Council,
+
+506 U.S. 194, 199–200 (1993).  The Act provides that the word “ ‘person’ . . . include[s] corporations, companies, associations, firms, partnerships, societies, and joint stock companies, as well as individuals.”  §1.  Notably absent from the list of “person[s]” is the Federal Government.  See Mine Workers, 330 U. S., at 275 (reasoning that Congress’ express inclusion of partnerships and corporations in §1 implies that Congress did not intend to include the Government).  Thus, although the presumption is not a “hard and fast rule of exclusion,” Cooper, 312 U. S., at 604–605, “it may be disregarded only upon some affirmative showing of statutory intent to the contrary,” Stevens, 529 U. S., at 781.
+
+															The Postal Service contends that the presumption is strongest where interpreting the word “person” to include the Government imposes liability on the Government, and is weakest where (as here) interpreting “person” in that way benefits the Government.  In support of this argument, the Postal Service points to a different interpretive canon: that Congress must unequivocally express any waiver of sovereign immunity for that waiver to be effective.  See FAA v. Cooper,
+
+566 U.S. 284, 290 (2012). That clear-statement rule inherently applies only when a party seeks to hold the Government liable for its actions; otherwise immunity is generally irrelevant.  In the Postal Service’s view, the presumption against treating the Government as a statutory person works in tandem with the clear-statement rule regarding immunity, such that both apply only when a statute would subject the Government to liability.
+
+															Our precedents teach otherwise.  In several instances, this Court has applied the presumption against treating the Government as a statutory person when there was no question of immunity, and doing so would instead exclude the Federal Government or one of its agencies from accessing a benefit or favorable procedural device.  In Cooper, 312 U. S., at 604–605, 614, for example, the Court held that the Federal Government was not “ ‘[a]ny person’ ” who could sue for treble damages under §7 of the Sherman Anti-Trust Act.  Accord, International Primate Protection League v. Administrators of Tulane Ed. Fund,
+
+500 U.S. 72, 82–84 (1991) (concluding that the National Institutes of Health was not authorized to remove an action as a “ ‘person acting under [a federal]’ officer” pursuant to
+
+28 U. S. C. §1442(a)(1)); Davis v. Pringle,
+
+268 U.S. 315, 317–318 (1925) (reasoning that “normal usages of speech” indicated that the Government was not a “person” entitled to priority under the Bankruptcy Act); Fox, 94 U. S., at 321 (holding that the Federal Government was not a “ ‘person capable by law of holding real estate,’ ” absent “an express definition to that effect”).
+
+															Thus, although the presumption against treating the Government as a statutory person is “ ‘particularly applicable where it is claimed that Congress has subjected the [sovereign] to liability to which they had not been subject before,’ ” Stevens, 529 U. S., at 781, it is hardly confined to such cases.  Here, too, we proceed from the presumption that the Government is not a “person” authorized to initiate these proceedings absent an affirmative showing to the contrary.
+
+															B
+
+															Given the presumption that a statutory reference to a “person” does not include the Government, the Postal Service must show that the AIA’s context indicates otherwise.  Although the Postal Service need not cite to “an express contrary definition,” Rowland, 506 U. S., at 200, it must point to some indication in the text or context of the statute that affirmatively shows Congress intended to include the Government.  See Cooper, 312 U. S., at 605.
+
+															The Postal Service makes three arguments for displacing the presumption.  First, the Postal Service argues that the statutory text and context offer sufficient evidence that the Government is a “person” with the power to petition for AIA review proceedings.  Second, the Postal Service contends that federal agencies’ long history of participation in the patent system suggests that Congress intended for the Government to participate in AIA review proceedings as well.  Third, the Postal Service maintains that the statute must permit it to petition for AIA review because §1498 subjects the Government to liability for infringement.  None delivers.
+
+															1
+
+															The Postal Service first argues that the AIA’s reference to a “person” in the context of post-issuance review proceedings must include the Government because other references to persons in the patent statutes appear to do so.  Indeed, it is often true that when Congress uses a word to mean one thing in one part of the statute, it will mean the same thing elsewhere in the statute.  See Merrill Lynch, Pierce, Fenner & Smith Inc. v. Dabit,
+
+547 U.S. 71, 86 (2006).  This principle, however, “readily yields to context,” especially when a statutory term is used throughout a statute and takes on “distinct characters” in distinct statutory provisions.  See Utility Air Regulatory Group v. EPA,
+
+573 U.S. 302, 320 (2014) (internal quotation marks omitted).  That is the case here.  The Patent Act and the AIA refer to “person[s]” in at least 18 different places, and there is no clear trend: Sometimes “person” plainly includes the Government,[3] sometimes it plainly excludes the Government,[4] and sometimes—as here—it might be read either way.
+
+															Looking on the bright side, the Postal Service and the dissent, see post, at 2, focus on §207(a)(1), which authorizes “[e]ach [f]ederal agency” to “apply for, obtain, and maintain patents or other forms of protection . . . on inventions in which the Federal Government owns a right, title, or interest.”  It follows from §207(a)(1)’s express inclusion of  
+
+															federal agencies among those eligible to apply for patents that the statute’s references to “person[s]” in the subsections governing the patent-application process and questions of patentability (§§102(a), 118, and 119) must also include federal agencies.[5]  In other words, the right described in §207(a)(1) provides a sufficient contextual clue that the word “person”—when used in the other provisions governing the application process §207(a)(1) makes available to federal agencies—includes the Government.
+
+															But §207(a)(1) provides no such clue as to the interpretation of the AIA review provisions because it implies nothing about what a federal agency may or may not do following the issuance of someone else’s patent.  Conversely, reading the review provisions to exclude the Govern- ment has no bearing on a federal agency’s right to obtain a patent under §207(a)(1).  An agency may still apply for and obtain patents whether or not it may petition for a review proceeding under the AIA seeking cancellation of a patent it does not own.  There is thus no reason to think that “person” must mean the same thing in these two different parts of the statute.  See Utility Air, 573 U. S., at 320.[6]
+
+															The Postal Service cites other provisions that may refer to the Government—namely, the “intervening rights” provisions that offer certain protections for “any person” who is lawfully making or using an invention when the Patent Office modifies an existing patent claim in a way that deems the person’s (previously lawful) use to be infringement.  See §§252, 307(b), 318(c), 328(c).  The Postal Service argues that the Government must be among those protected by these provisions and from there deduces that it must also be permitted to petition for AIA review proceedings because the review provisions and the intervening-rights provisions were all added to the Patent Act by the AIA at the same time.  See Powerex Corp. v. Reliant Energy Services, Inc.,
+
+551 U.S. 224, 232 (2007) (invoking the consistent-usage canon where the same term was used in related provisions enacted at the same time).
+
+															But regardless of whether the intervening-rights provisions apply to the Government (a separate interpretive question that we have no occasion to answer here), the Postal Service’s chain of inferences overlooks a confounding link: The consistent-usage canon breaks down where Congress uses the same word in a statute in multiple conflicting ways.  As noted, that is the case here.  In the face of such inconsistency, the mere existence of some Government-inclusive references cannot make the “affirmative showing,” Stevens, 529 U. S., at 781, required to overcome the presumption that Congress did not intend to include the Government among those “person[s]” eligible to petition for AIA review proceedings.[7]
+
+															2
+
+															The Postal Service next points to the Federal Government’s longstanding history with the patent system.  It reminds us that federal officers have been able to apply for patents in the name of the United States since 1883, see Act of Mar. 3, 1883,
+
+22Stat.
+625—which, in the Postal Service’s view, suggests that Congress intended to allow the Government access to AIA review proceedings as well.  But, as already explained, the Government’s ability to obtain a patent under §207(a)(1) does not speak to whether Congress meant for the Government to participate as a third-party challenger in AIA review proceedings.  As to those proceedings, there is no longstanding practice: The AIA was enacted just eight years ago.[8]
+
+															More pertinently, the Postal Service and the dissent both note that the Patent Office since 1981 has treated federal agencies as “persons” who may cite prior art to the agency or request an ex parte reexamination of an issued patent.  See post, at 5.  Recall that §301(a) provides that “[a]ny person at any time may cite to the Office in writing . . . prior art . . . which that person believes to have a bearing on the patentability of any claim of a particular patent.”  As memorialized in the Patent Office’s Manual of Patent Examining Procedure (MPEP), the agency has understood §301’s reference to “any person” to include “governmental entit[ies].”  Dept. of Commerce, Patent and Trademark Office, MPEP §§2203, 2212 (4th rev. ed., July 1981).
+
+															We might take account of this “executive interpretation”  
+
+															if we were determining whether Congress meant to include the Government as a “person” for purposes of the ex parte reexamination procedures themselves.  See, e.g., United States v. Hermanos y Compañia,
+
+209 U.S. 337, 339 (1908).  Here, however, the Patent Office’s statement in the 1981 MPEP has no direct relevance.  Even assuming that the Government may petition for ex parte reexamination, ex parte reexamination is a fundamentally different process than an AIA post-issuance review proceeding.[9]  Both share the common purpose of allowing non-patent owners to bring questions of patent validity to the Patent Office’s attention, but they do so in meaningfully different ways.
+
+															In an ex parte reexamination, the third party sends information to the Patent Office that the party believes bears on the patent’s validity, and the Patent Office decides whether to reexamine the patent.  If it decides to do so, the reexamination process is internal; the challenger is not permitted to participate in the Patent Office’s process.  See 35 U. S. C. §§302, 303.  By contrast, the AIA post-issuance review proceedings are adversarial, adjudicatory proceedings between the “person” who petitioned for review and the patent owner: There is briefing, a hearing, discovery, and the presentation of evidence, and the losing party has appeal rights.  See supra, at 4–5.  Thus, there are good reasons Congress might have authorized the Government to initiate a hands-off ex parte reexamination but not to become a party to a full-blown adversarial proceeding before the Patent Office and any subsequent  
+
+															appeal.  After all, the Government is already in a unique position among alleged infringers given that
+
+28 U. S. C. §1498 limits patent owners to bench trials before the Court of Federal Claims and monetary damages, whereas
+
+35 U. S. C. §271 permits patent owners to demand jury trials in the federal district courts and seek other types of relief.
+
+															Thus, there is nothing to suggest that Congress had the 1981 MPEP statement in mind when it enacted the AIA.  It is true that this Court has often said, “[w]hen administrative and judicial interpretations have settled the meaning of an existing statutory provision, repetition of the same language in a new statute indicates, as a general matter, the intent to incorporate its administrative and judicial interpretations as well.”  Bragdon v. Abbott,
+
+524 U.S. 624, 645 (1998).  But there is no “settled” meaning of the term “person” with respect to the newly established AIA review proceedings.  Accordingly, the MPEP does not justify putting aside the presumptive meaning of “person” here.
+
+															3
+
+															Finally, the Postal Service argues that it must be a “person” who may petition for AIA review proceedings because, like other potential infringers, it is subject to civil liability and can assert a defense of patent invalidity.  See §§282(b)(2)–(3).  In the Postal Service’s view, it is anomalous to deny it a benefit afforded to other infringers—the ability to challenge a patent de novo before the Patent Office, rather than only as an infringement defense that must be proved by clear and convincing evidence.  See ibid.; Microsoft Corp., 564 U. S., at 95 (holding that §282’s presumption of validity in litigation imposes a clear and convincing evidence standard on defendants seeking to prove invalidity).
+
+															The Postal Service overstates the asymmetry.  Agencies retain the ability under §282 to assert defenses to infringement.  Once sued, an agency may, like any other accused infringer, argue that the patent is invalid, and the agency faces the same burden of proof as a defendant in any other infringement suit.  The Postal Service lacks only the additional tool of petitioning for the initiation of an administrative proceeding before the Patent Office under the AIA, a process separate from defending an infringement suit.
+
+															We see no oddity, however, in Congress’ affording nongovernmental actors an expedient route that the Government does not also enjoy for heading off potential infringement suits.  Those other actors face greater and more uncertain risks if they misjudge their right to use technology that is subject to potentially invalid patents.  Most notably, §1498 restricts a patent owner who sues the Government to her “reasonable and entire compensation” for the Government’s infringing use; she cannot seek an injunction, demand a jury trial, or ask for punitive damages, all of which are available in infringement suits against nongovernmental actors under §271(e)(4).  Thus, although federal agencies remain subject to damages for impermissible uses, they do not face the threat of preliminary injunctive relief that could suddenly halt their use of a patented invention, and they enjoy a degree of certainty about the extent of their potential liability that ordinary accused infringers do not.  Because federal agencies face lower risks, it is reasonable for Congress to have treated them differently.[10]
+
+															Finally, excluding federal agencies from the AIA review proceedings avoids the awkward situation that might result from forcing a civilian patent owner (such as Return Mail) to defend the patentability of her invention in an adversarial, adjudicatory proceeding initiated by one federal agency (such as the Postal Service) and overseen by a different federal agency (the Patent Office).  We are therefore unpersuaded that the Government’s exclusion from the AIA review proceedings is sufficiently anomalous to overcome the presumption that the Government is not a “person” under the Act.[11]
+
+															III
+
+															For the foregoing reasons, we hold that a federal agency is not a “person” who may petition for post-issuance re-  
+
+															view under the AIA.  The judgment of the United States Court of Appeals for the Federal Circuit is therefore reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															It is so ordered.
+Notes
+1
+ The CBM review program will stop accepting new claims in 2020.  See AIA §18(a)(3)(A),
+
+125Stat.
+330; 77 Fed. Reg. 48687 (2012). 
+
+2
+ The Federal Circuit rejected Return Mail’s argument that the Postal Service cannot petition for CBM review for the independent reason that a suit against the Government under
+
+28 U. S. C. §1498 is not a suit for infringement.  868 F.3d 1350, 1366 (2017).  We denied Return Mail’s petition for certiorari on this question and therefore have no occasion to resolve it in this case.  Accordingly, we assume that a §1498 suit is one for infringement and refer to it as the same. 
+
+3
+ For example, the statute expressly includes the Government as a “person” in §296(a), which, as enacted, provided that States “shall not be immune . . . from suit in Federal court by any person, including any governmental or nongovernmental entity, for infringement of a patent under section 271.”
+
+35 U. S. C. §296(a) (1988 ed., Supp. IV) (ruled unconstitutional by Florida Prepaid Postsecondary Ed. Expense Bd. v. College Savings Bank,
+
+527 U.S. 627, 630 (1999)). 
+
+4
+ For example, in §6(a), the Patent Act provides that the administrative patent judges comprising the Board must be “persons of competent legal knowledge and scientific ability.”  Likewise, §257(e) requires the Patent Office Director to treat as confidential any referral to the Attorney General of suspected fraud in the patent process unless the United States charges “a person” with a criminal offense in connection with the fraud.  See also §2(b)(11) (authorizing the Patent Office to cover the expenses of “persons” other than federal employees attending programs on intellectual-property protection); §100(h) (defining a “ ‘joint research agreement’ ” as a written agreement between “2 or more persons or entities”).  Some of these provisions (§§2(b)(11), 6(a), and 100(h)) were enacted as part of the AIA, alongside the AIA review proceedings.  See
+
+125Stat.
+285,
+313,
+335. 
+
+5
+ Section 102(a) provides that “[a] person shall be entitled to a patent” as long as the patent is novel.  Section 118 states that “[a] person to whom the inventor has assigned” an invention may file a patent application.  Section 119 discusses the effect of a patent application filed in a foreign country “by any person” on the patent-application process in the United States. 
+
+6
+ Likewise, we are not persuaded by the dissent’s suggestion that §207(a)(3)—which authorizes federal agencies “to protect and administer rights” to federally owned inventions—provides a statutory basis for the Postal Service’s initiation of AIA review proceedings.  See post, at 5–6.  The statute explains how a federal agency is to “protect” those rights: “either directly or through contract,” such as by “acquiring rights for and administering royalties” or “licensing.”  §207(a)(3).  TheAIA review proceedings, which a “person” may initiate regardless of ownership, do not fall clearly within the ambit of §207(a)(3).   
+
+7
+ The dissent responds that we should set aside the statutory references to “person[s]” that naturally exclude the Government and instead count only those references that expressly or impliedly include the Government.  See post, at 3–4.  But the point of the canon the PostalService invokes is to ascertain the meaning of a statutory term from its consistent usage in other parts of the statute, not to pick sides among differing uses. 
+
+8
+ Moreover, for those of us who consider legislative history, there is none that suggests Congress considered whether the Federal Government or its agencies would have access to the AIA review proceedings. 
+
+9
+ As discussed above, see supra, at 2–4, ex parte reexamination is not one of the three new proceedings added by the AIA, and therefore the question whether its reference to a “person” includes the Government is beyond the scope of the question presented.  Moreover, neither party contests that a federal agency may cite prior art to the Patent Office and ask for ex parte reexamination. 
+
+10
+ If the Government were a “person” under the AIA, yet another anomaly might arise under the statute’s estoppel provisions.  Those provisions generally preclude a party from relitigating issues in any subsequent proceedings in federal district court, before the International Trade Commission, and (for inter partes review and post-grant review) before the Patent Office.  See 35 U. S. C. §§315(e), 325(e); AIA§18(a)(1)(D),
+
+125Stat.
+330.  Because infringement suits against the Government must be brought in the Court of Federal Claims—which is not named in the estoppel provisions—the Government might not be precluded by statute from relitigating claims raised before the Patent Office if it were able to institute post-issuance review under the AIA.  See
+
+28 U. S. C. §1498(a).  Although Return Mail cites this asymmetry in support of its interpretation, we need not rely on it, because Return Mail already prevails for the reasons given above.  At any rate, the practical effect of the estoppel provisions’ potential inapplicability to the Government is uncertain given that this Court has not decided whether common-law estoppel applies in §1498 suits. 
+
+11
+ Nor do we find persuasive the dissent’s argument that the Postal Service should be allowed to petition for post-issuance review proceedings because its participation would further the purpose of the AIA: to provide a cost-effective and efficient alternative to litigation in the courts.  See post, at 5; H. R. Rep. No. 112–98, pt. 1, pp. 47–48 (2001).  Statutes rarely embrace every possible measure that would further their general aims, and, absent other contextual indicators of Congress’ intent to include the Government in a statutory provision referring to a “person,” the mere furtherance of the statute’s broad purpose does not overcome the presumption in this case.  See Cooper, 312 U. S., at 605 (“[I]t is not our function to engraft on a statute additions which we think the legislature logically might or should have made”). 
+
+

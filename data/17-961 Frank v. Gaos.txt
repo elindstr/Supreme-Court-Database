@@ -1,0 +1,79 @@
+::SCDB_caseID:: 2018-015
+::decision_cite:: 17-961
+::decision_name::  Frank v. Gaos
+::decision_year:: 2019
+::opinion_author:: 
+::opinion_type:: 
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–961
+
+															_________________
+
+															THEODORE H. FRANK, et al., PETITIONERS v. PALOMA GAOS, individually and on behalf of all others similarly situated, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[March 20, 2019]
+
+															
+
+															Per Curiam.
+
+															Three named plaintiffs brought class action claims against Google for alleged violations of the Stored Communications Act.  The parties negotiated a settlement agreement that would require Google to include certain disclosures on some of its webpages and would distribute more than $5 million to cy pres recipients, more than $2 million to class counsel, and no money to absent class members.  We granted certiorari to review whether such cy pres settlements satisfy the requirement that class settlements be “fair, reasonable, and adequate.”  Fed. Rule Civ. Proc. 23(e)(2).  Because there remain substantial questions about whether any of the named plaintiffs has standing to sue in light of our decision in Spokeo, Inc. v. Robins, 578 U. S. ___ (2016), we vacate the judgment of the Ninth Circuit and remand for further proceedings.
+
+															Google operates an Internet search engine.  The search engine allows users to search for a word or phrase by typing a query into the Google website.  Google returns a list of webpages that are relevant to the indicated term or phrase.  The complaints alleged that when an Internet user conducted a Google search and clicked on a hyperlink to open one of the webpages listed on the search results page, Google transmitted information including the terms of the search to the server that hosted the selected webpage.  This so-called referrer header told the server that the user arrived at the webpage by searching for particular terms on Google’s website.
+
+															Paloma Gaos challenged Google’s use of referrer headers.  She filed a complaint in Federal District Court on behalf of herself and a putative class of people who conducted a Google search and clicked on any of the resulting links within a certain time period.  Gaos alleged that Google’s transmission of users’ search terms in referrer headers violated the Stored Communications Act,
+
+18 U. S. C. §2701 et seq.  The SCA prohibits “a person or entity providing an electronic communication service to the public” from “knowingly divulg[ing] to any person or entity the contents of a communication while in electronic storage by that service.”  §2702(a)(1).  The Act also creates a private right of action that entitles any “person aggrieved by any violation” to “recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.”  §2707(a).  Gaos also asserted several state law claims.
+
+															Google moved to dismiss for lack of standing three times.  Its first attempt was successful.  The District Court reasoned that although “a plaintiff may establish standing through allegations of violation of a statutory right,” Gaos had “failed to plead facts sufficient to support a claim for violation of her statutory rights.”  Gaos v. Google, Inc., 2011 WL 7295480, *3 (ND Cal., Apr. 7, 2011).  In particular, the court faulted Gaos for failing to plead “that she clicked on a link from the Google search page.”  Ibid.
+
+															After Gaos filed an amended complaint, Google again moved to dismiss.  That second attempt was partially successful.  The District Court dismissed Gaos’ state law claims, but denied the motion as to her SCA claims.  The court reasoned that because the SCA created a right to be free from the unlawful disclosure of certain communications, and because Gaos alleged a violation of the SCA that was specific to her (i.e., based on a search she conducted), Gaos alleged a concrete and particularized injury.  Gaos v. Google Inc., 2012 WL 1094646, *4 (ND Cal., Mar. 29, 2012).  The court rested that conclusion on Edwards v. First American Corp., 610 F.3d 514 (2010)—a Ninth Circuit decision reasoning that an Article III injury exists whenever a statute gives an individual a statutory cause of action and the plaintiff claims that the defendant violated the statute.  2012 WL 1094646, *3.
+
+															After the District Court ruled on Google’s second motion to dismiss, we granted certiorari in Edwards to address whether an alleged statutory violation alone can support standing.  First American Financial Corp. v. Edwards,
+
+564 U.S. 1018 (2011).  In the meantime, Gaos and an additional named plaintiff filed a second amended complaint against Google.  Google once again moved to dismiss.  Google argued that the named plaintiffs did not have standing to bring their SCA claims because they had failed to allege facts establishing a cognizable injury.  Google recognized that the District Court had previously relied on Edwards to find standing based on the alleged violation of a statutory right.  But because this Court had agreed to review Edwards, Google explained that it would continue to challenge the District Court’s conclusion.  We eventually dismissed Edwards as improvidently granted,
+
+567 U.S. 756 (2012) (per curiam), and Google then withdrew its argument that Gaos lacked standing for the SCA claims.
+
+															Gaos’ putative class action was consolidated with a similar complaint, and the parties negotiated a classwide settlement.  The terms of their agreement required Google to include certain disclosures about referrer headers on three of its webpages.  Google could, however, continue its practice of transmitting users’ search terms in referrer headers.  Google also agreed to pay $8.5 million.  None of those funds would be distributed to absent class members.  Instead, most of the money would be distributed to six cy pres recipients.  In the class action context, cy pres refers to the practice of distributing settlement funds not amenable to individual claims or meaningful pro rata distribution to nonprofit organizations whose work is determined to indirectly benefit class members.  Black’s Law Dictionary 470 (10th ed. 2014).  In this case, the cy pres recipients were selected by class counsel and Google to “promote public awareness and education, and/or to support research, development, and initiatives, related to protecting privacy on the Internet.”  App. to Pet. for Cert. 84.  The rest of the funds would be used for administrative costs and fees, given to the named plaintiffs in the form of incentive payments, and awarded to class counsel as attorney’s fees.
+
+															The District Court granted preliminary certification of the class and preliminary approval of the settlement.  Five class members, including petitioners Theodore Frank and Melissa Holyoak, objected to the settlement on several grounds.  They complained that settlements providing only cy pres relief do not comply with the requirements of Rule 23(e), that cy pres relief was not justified in this case, and that conflicts of interest infected the selection of the  cy pres recipients.  After a hearing, the District Court granted final approval of the settlement.
+
+															Frank and Holyoak appealed.  After briefing before the Ninth Circuit was complete, but prior to decision by that court, we issued our opinion in Spokeo, Inc. v. Robins, 578 U. S. ___ (2016).  In Spokeo, we held that “Article III standing requires a concrete injury even in the context of a statutory violation.”  Id., at ___ (slip op., at 9).  We rejected the premise, relied on in the decision then under review and in Edwards, that “a plaintiff automatically satisfies the injury-in-fact requirement whenever a statute grants a person a statutory right and purports to authorize that person to sue to vindicate that right.”  578 U. S., at ___ (slip op., at 9); see also id., at ___ (slip op., at 5).  Google notified the Ninth Circuit of our opinion.
+
+															A divided panel of the Ninth Circuit affirmed, without addressing Spokeo.  In re Google Referrer Header Privacy Litigation, 869 F.3d 737 (2017).  We granted certiorari, 584 U. S. ___ (2018), to decide whether a class action settlement that provides a cy pres award but no direct relief to class members satisfies the requirement that a settlement binding class members be “fair, reasonable, and adequate.”  Fed. Rule Civ. Proc. 23(e)(2).
+
+															In briefing on the merits before this Court, the Solicitor General filed a brief as amicus curiae supporting neither party.  He urged us to vacate and remand the case for the lower courts to address standing.  The Government argued that there is a substantial open question about whether any named plaintiff in the class action actually had standing in the District Court.  Because Google withdrew its standing challenge after we dismissed Edwards as improvidently granted, neither the District Court nor the Ninth Circuit ever opined on whether any named plaintiff sufficiently alleged standing in the operative complaint.
+
+															“We have an obligation to assure ourselves of litigants’ standing under Article III.”  DaimlerChrysler Corp. v. Cuno,
+
+547 U.S. 332, 340 (2006) (quoting Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.,
+
+528 U.S. 167, 180 (2000); internal quotation marks omitted).  That obligation extends to court approval of proposed class action settlements.  In ordinary non-class litigation, parties are free to settle their disputes on their own terms, and plaintiffs may voluntarily dismiss their claims without a court order.  Fed. Rule Civ. Proc. 41(a)(1)(A).  By contrast, in a class action, the “claims, issues, or defenses of a certified class—or a class proposed to be certified for purposes of settlement—may be settled, voluntarily dismissed, or compromised only with the court’s approval.”  Fed. Rule Civ. Proc. 23(e).  A court is powerless to approve a proposed class settlement if it lacks jurisdiction over the dispute, and federal courts lack jurisdiction if no named plaintiff has standing.  Simon v. Eastern Ky. Welfare Rights Organization,
+
+426 U.S. 26, 40, n. 20 (1976).
+
+															When the District Court ruled on Google’s second motion to dismiss, it relied on Edwards to hold that Gaos had standing to assert a claim under the SCA.  Our decision in Spokeo abrogated the ruling in Edwards that the violation of a statutory right automatically satisfies the injury-in-fact requirement whenever a statute authorizes a person to sue to vindicate that right.  578 U. S., at ___ (slip op., at 9); see Edwards, 610 F. 3d, at 517–518.  Since that time, no court in this case has analyzed whether any named plaintiff has alleged SCA violations that are sufficiently concrete and particularized to support standing.  After oral argument, we ordered supplemental briefing from the parties and Solicitor General to address that question.
+
+															After reviewing the supplemental briefs, we conclude that the case should be remanded for the courts below to address the plaintiffs’ standing in light of Spokeo.  The supplemental briefs filed in response to our order raise a wide variety of legal and factual issues not addressed in the merits briefing before us or at oral argument.  We “are a court of review, not of first view.”  Cutter v. Wilkinson,
+
+544 U.S. 709, 718, n. 7 (2005).  Resolution of the standing question should take place in the District Court or the Ninth Circuit in the first instance.  We therefore vacate and remand for further proceedings.  Nothing in our opinion should be interpreted as expressing a view on any particular resolution of the standing question.
+
+															*  *  *
+
+															The judgment of the United States Court of Appeals for the Ninth Circuit is vacated, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+													

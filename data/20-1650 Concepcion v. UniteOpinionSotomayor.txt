@@ -1,0 +1,222 @@
+::SCDB_caseID:: 2021-041
+::decision_cite:: 20-1650
+::decision_name::  Concepcion v. United States
+::decision_year:: 2022
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–1650
+
+															_________________
+
+															CARLOS CONCEPCION, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the first circuit
+
+															[June 27, 2022]
+
+															
+
+															Justice Sotomayor delivered the opinion of the Court.
+
+															There is a longstanding tradition in American law, dating back to the dawn of the Republic, that a judge at sentencing considers the whole person before him or her “as an individual.”  Koon v. United States,
+
+518 U.S. 81, 113 (1996).  In line with this history, federal courts today generally “exercise a wide discretion in the sources and types of evidence used” to craft appropriate sentences.  Williams v. New York,
+
+337 U.S. 241, 246 (1949).  When a defendant appears for sentencing, the sentencing court considers the defendant on that day, not on the date of his offense or the date of his conviction.  Pepper v. United States,
+
+562 U.S. 476, 492 (2011).  Similarly, when a defendant’s sentence is set aside on appeal, the district court at resentencing can (and in many cases, must) consider the defendant’s conduct and changes in the Federal Sentencing Guidelines since the original sentencing.  Ibid.
+
+															Congress enacted the First Step Act of 2018 against that backdrop.  The First Step Act authorizes district courts to reduce the prison sentences of defendants convicted of certain offenses involving crack cocaine.  The Act allows a district court to impose a reduced sentence “as if ” the revised penalties for crack cocaine enacted in the Fair Sentencing Act of 2010 were in effect at the time the offense was committed.  The question in this case is whether a district court adjudicating a motion under the First Step Act may consider other intervening changes of law (such as changes to the Sentencing Guidelines) or changes of fact (such as behavior in prison) in adjudicating a First Step Act motion.
+
+															The Court holds that they may.  It is only when Congress or the Constitution limits the scope of information that a district court may consider in deciding whether, and to what extent, to modify a sentence, that a district court’s discretion to consider information is restrained.  Nothing in the First Step Act contains such a limitation.  Because district courts are always obligated to consider nonfrivolous arguments presented by the parties, the First Step Act requires district courts to consider intervening changes when parties raise them.  By its terms, however, the First Step Act does not compel courts to exercise their discretion to reduce any sentence based on those arguments.
+
+															The District Court in this case declined to consider petitioner Carlos Concepcion’s arguments that intervening changes of law and fact supported his motion, erroneously believing that it did not have the discretion to do so, and the Court of Appeals affirmed.  The Court now reverses.
+
+															I
+
+															A
+
+															In 2007, Concepcion pleaded guilty to one count of distributing five or more grams of crack cocaine in violation of
+
+21 U. S. C. §841(a)(1) (2006 ed.).  Concepcion admitted that he sold 13.8 grams of crack cocaine, and he was sentenced in 2009 to 19 years (228 months) in prison.  Two features of his sentencing are relevant here.  First, Concepcion was sentenced under a scheme that created a 100-to-1 disparity between crack-cocaine and powder-cocaine offenders.  At the time Concepcion was sentenced, an offense involving five or more grams of crack cocaine resulted in a statutory sentencing range of 5 to 40 years’ imprisonment; it required 100 times as much powder cocaine to trigger the same penalties.  Second, when Concepcion was initially sentenced, he qualified as a “career offender.”  The career offender provision, together with other enhancements, increased Concepcion’s Guidelines range from 57 to 71 months to 262 to 327 months.
+
+															Both of these features of Concepcion’s sentencing have since been altered.  Just one year after Concepcion was sentenced, Congress passed the Fair Sentencing Act of 2010 to correct the harsh disparities between crack and powder cocaine sentencing.  Section 2 of that Act increased the amount of crack cocaine needed to trigger the 5-to-40-year sentencing range from 5 grams to 28 grams.  §2(a)(2),
+
+124Stat.
+2372.  The Sentencing Commission then retroactively amended the Sentencing Guidelines to lower the Guidelines range for crack-cocaine offenses, but that amendment did not benefit all prisoners serving sentences handed down during the 100-to-1 regime. See United States Sentencing Commission, Guidelines Manual App. C, Amdt. 750 (Supp. Nov. 2011) (USSG).  Concepcion was not eligible for retroactive relief under that 2011 Sentencing Commission’s amendment because he was sentenced under the career offender enhancement, but he became eligible to have his sentence reduced in 2018, when Congress passed the First Step Act.  The First Step Act authorized district courts to “impose a reduced sentence” for qualifying movants “as if sections 2 and 3 of the Fair Sentencing Act . . . were in effect at the time the covered offense was committed.”  Pub. L. 115–391, §404(b),
+
+132Stat.
+5222.
+
+															B
+
+															Concepcion filed a pro se motion under the First Step Act in 2019.  He argued that he was serving a sentence for a “covered offense” because §2 of the Fair Sentencing Act “modified” the statutory penalties for his conviction under
+
+21 U. S. C. §841(a)(1).  Concepcion contended that retroactive application of the Fair Sentencing Act lowered his Guidelines range from 262 to 327 months to 188 to 235 months. The Government conceded Concepcion’s eligibility for relief and his calculation of the Guidelines but opposed the motion, emphasizing that Concepcion’s original sentence of 228 months fell within the new Guidelines range of 188 to 235 months.  While recognizing Concepcion’s participation in various programs in prison, the Government detailed “troubling behaviors such as ‘[f]ighting (12/19/2017); Interfering with Staff (11/15/2012); and Possession of a Weapon’ ” in Concepcion’s prison records that, in the Government’s view, counseled against a sentence reduction.  Electronic Case Filing in No. 1:07–cr–10197 (Mass.) (ECF), Doc. 78, pp. 4–5, n. 4.
+
+															In his reply brief, represented by counsel, Concepcion made two primary arguments in support of a reduced sentence.  First, he argued that he would no longer be considered a career offender under the amended Guidelines, because one of his prior convictions had been vacated and his remaining convictions would no longer be considered crimes of violence that trigger the enhancement.[1]  Without the career offender enhancement, Concepcion argued that his revised Guidelines range should be 57 to 71 months.  Second, Concepcion pointed to postsentencing evidence of rehabilitation.  Concepcion highlighted his successfully completed drug and vocational programming, as well as his stable reentry plan.  He also submitted a letter from a Bureau of Prisons chaplain who attested to Concepcion’s spiritual growth while incarcerated.
+
+															The District Court denied Concepcion’s motion.  It adopted the Government’s argument that if the Court “considered only the changes in law that the Fair Sentencing Act enacted, [Concepcion’s] sentence would be the same.”  App. to Pet. for Cert. 71a.  The court declined to consider that Concepcion would no longer qualify as a career offender on the ground that the First Step Act “does not authorize such relief.”  Id., at 72a.  In doing so, the District Court adopted the reasoning of the Fifth Circuit, which understood the First Step Act to require a district court to “ ‘plac[e] itself in the time frame of the original sentencing, altering the relevant legal landscape only by the changes mandated by the 2010 Fair Sentencing Act.’ ”  Id., at 74a (quoting United States v. Hegwood, 934 F.3d 414, 418 (CA5 2019)).  The District Court did not address Concepcion’s evidence of rehabilitation or the Government’s countervailing evidence of Concepcion’s disciplinary record.
+
+															The Court of Appeals affirmed in a divided opinion.  The court interpreted the First Step Act as requiring a “two-step inquiry.”  991 F.3d 279, 289 (CA1 2021).  At the first step of that inquiry, a district court decides whether a movant should be resentenced at all, considering only the changes wrought by the Fair Sentencing Act.  Ibid.  If the district court answers in the affirmative at the first step, it may then, in its discretion, consider new factual or legal developments in determining how to resentence the movant.  Id., at 289–290.  Judge Barron dissented, rejecting the panel’s bifurcated approach.  In his view, the First Step Act requires only one step of analysis, at which district courts have “substantial discretion” to consider evidence of rehabilitation and Guidelines changes.  Id., at 293, 309–310.
+
+															The Court of Appeals opinion added to the disagreement among the Circuits as to whether a district court deciding a First Step Act motion must, may, or may not consider intervening changes of law or fact.[2]  This Court granted certiorari to resolve this disagreement.  594 U. S. ___ (2021).
+
+															II
+
+															“From the beginning of the Republic, federal judges were entrusted with wide sentencing discretion.”  K. Stith & J. Cabranes, Fear of Judging: Sentencing Guidelines in the Federal Courts 9 (1998) (Stith & Cabranes).  Federal courts historically have exercised this broad discretion to consider all relevant information at an initial sentencing hearing, consistent with their responsibility to sentence the whole person before them.  That discretion also carries forward to later proceedings that may modify an original sentence.  Such discretion is bounded only when Congress or the Constitution expressly limits the type of information a district court may consider in modifying a sentence.
+
+															A
+
+															There is a “long” and “durable” tradition that sentencing judges “enjo[y] discretion in the sort of information they may consider” at an initial sentencing proceeding.  Dean v. United States,
+
+581 U.S. 62, 66 (2017).[3]  This history dates back to before the founding: “[B]oth before and since the American colonies became a nation, courts in this country and in England practiced a policy under which a sentencing judge could exercise a wide discretion in the sources and types of evidence used to assist him in determining the kind and extent of punishment to be imposed within limits fixed by law.”  Williams, 337 U. S., at 246.  Early state and English courts broadly recognized this discretion.  See, e.g., Rex v. Bunts, 2 T. R. 683, 100 Eng. Rep. 368 (K. B. 1788) (“[W]hen any defendant shall be brought up for sentence on any indictment” the court shall hear evidence from the prosecution and the defense in determining an appropriate sentence); State v. Summers, 98 N. C. 702, 705, 4 S.E. 120, 121 (1887) (“It was competent for [the trial judge] to hear such evidence as he might deem necessary and proper to aid his judgment and discretion in determining the punishment to be imposed”); State v. Reeder, 79 S. C. 139, 141, 60 S.E. 434, 435 (1908) (rejecting claim that trial court erred in considering aggravating evidence at sentencing, and explaining that “[t]he circuit judge merely permitted himself to be informed as to the character of the accused and the circumstances of the crime, so that he might be able to exercise his discretion intelligently and pronounce a just sentence”).
+
+															That unbroken tradition characterizes federal sentencing history as well.  “Federal judges exercising sentencing discretion have always considered a wide variety of aggravating and mitigating factors relating to the circumstances of both the offense and the offender.”  Stith & Cabranes 14.  Indeed, “[i]t has been uniform and constant in the federal judicial tradition for the sentencing judge to consider every convicted person as an individual and every case as a unique study in the human failings that sometimes mitigate, sometimes magnify, the crime and the punishment to ensue.”  Koon, 518 U. S., at 113; see, e.g., United States v. Randall, 27 F. Cas. 696, 708 (No. 16,118) (DC Ore. 1869) (considering the defendant’s “former good reputation” in imposing sentence); United States v. Nye, 27 F. Cas. 210, 211 (No. 15,906) (CC Mass. 1855) (considering “palliating circumstance[s],” including that the defendants were “sober, and fit for duty,” in imposing sentence); Lyon’s Case, 15 F. Cas. 1183, 1185 (No. 8,646) (CC Vt. 1798) (considering the “reduced condition of [the defendant’s] estate” in imposing sentence).  Accordingly, a federal judge in deciding to impose a sentence “may appropriately conduct an inquiry broad in scope, largely unlimited either as to the kind of information he may consider, or the source from which it may come.”  United States v. Tucker,
+
+404 U.S. 443, 446 (1972).
+
+															B
+
+															The discretion federal judges hold at initial sentencings also characterizes sentencing modification hearings.  Relying on Williams and Koon, the Court in Pepper found it “clear that when a defendant’s sentence has been set aside on appeal and his case remanded for resentencing, a district court may consider evidence of a defendant’s rehabilitation since his prior sentencing.”  562 U. S., at 490.  Pepper reached that conclusion in light of the “federal sentencing framework” that allows sentencing judges to consider the “ ‘fullest information possible concerning the defendant’s life and characteristics.’ ”  Id., at 488, 490.
+
+															Accordingly, federal courts resentencing individuals whose sentences were vacated on appeal regularly consider evidence of rehabilitation developed after the initial sentencing.  See, e.g., United States v. Rodriguez, 2020 WL 2521551, *5 (SDNY, May 18, 2020) (considering the movant’s “exemplary conduct during a lengthy period of incarceration”); United States v. Raifsnider, 2020 WL 1503527, *3 (D Kan., Mar. 30, 2020) (considering that the movant “has completed his GED, taken hundreds of hours of programming offered by the Bureau of Prisons, and is taking college classes”).  Similarly, district courts in resentencing proceedings frequently consider evidence of violence and rule breaking in prison.  See, e.g., United States v. Riley, 785 Fed. Appx. 282, 285 (CA6 2019) (considering a “ ‘series of disciplinary violations while in the Bureau of Prisons’ ”); United States v. Diaz, 486 Fed. Appx. 979, 980 (CA3 2012) (considering “infractions while in prison, e.g., possession of marijuana”).
+
+															Where district courts must calculate new Guidelines ranges as part of resentencing proceedings, courts have also considered unrelated Guidelines changes in their discretion.  See, e.g., United States v. Frates, 896 F.3d 93, 101–102 (CA1 2018) (distinguishing between recalculating a Guidelines range based on nonretroactive intervening changes of law and considering those changes as a matter of “discretion to select an appropriate sentence”); United States v. Taylor, 648 F.3d 417, 425 (CA6 2011) (“[T]he district court can consider subsequent amendments to the Guidelines for purposes of fashioning an appropriate sentence [at resentencing]”); United States v. Gilmore, 599 F.3d 160, 166–167 (CA2 2010) (considering subsequently updated Guidelines as “evidence of society’s judgment of the seriousness of [the movant’s] offense”).  In many cases, a district court is prohibited from recalculating a Guidelines range in light of nonretroactive Guidelines amendments, but the court may find those amendments to be germane when deciding whether to modify a sentence at all, and if so, to what extent.
+
+															C
+
+															The only limitations on a court’s discretion to consider any relevant materials at an initial sentencing or in modifying that sentence are those set forth by Congress in a statute or by the Constitution.  See Pepper, 562 U. S., at 489, n. 8 (“Of course, sentencing courts’ discretion . . . is subject to constitutional constraints”); Mistretta v. United States,
+
+488 U.S. 361, 364 (1989) (“[T]he scope of judicial discretion with respect to a sentence is subject to congressional control”).
+
+															Congress is not shy about placing such limits where it deems them appropriate.  At an initial sentencing, Congress has provided generally that “[n]o limitation shall be placed on the information concerning the background, character, and conduct of a person convicted of an offense” when deciding what sentence to impose.
+
+18 U. S. C. §3661.  Congress has, however, expressly prohibited a district court in crafting an initial sentence from considering a defendant’s need for rehabilitation in support of a prison sentence.  See §3582(a); Tapia v. United States,
+
+564 U.S. 319, 328 (2011).
+
+															In other aspects of sentencing, Congress also has expressly limited district courts to considering only certain factors.  For example, in determining whether to include a term of supervised release, and the length of any such term, Congress has expressly precluded district courts from considering the need for retribution.  See §3583(c); id., at 326.
+
+															Congress has further imposed express statutory limitations on one type of sentencing modification proceeding.  Section 3582(c)(2) provides that
+
+															“in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission . . . the court may reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the extent that they are applicable, if such a reduction is consistent with applicable policy statements issued by the Sentencing Commission.”
+
+															For those proceedings, Congress expressly cabined district courts’ discretion by requiring courts to abide by the Sentencing Commission’s policy statements.  See also §3582(c)(1)(A) (permitting district courts to grant compassionate release in certain circumstances if “such a reduction is consistent with applicable policy statements issued by the Sentencing Commission”).[4]
+
+															III
+
+															A
+
+															Congress in the First Step Act simply did not contravene this well-established sentencing practice.  Nothing in the text and structure of the First Step Act expressly, or even implicitly, overcomes the established tradition of district courts’ sentencing discretion.
+
+															The first section of the First Step Act, §404(a), sets out who is eligible for relief: 
+
+															“In this section, the term ‘covered offense’ means a violation of a Federal criminal statute, the statutory penalties for which were modified by section 2 or 3 of the Fair Sentencing Act of 2010 . . . that was committed before August 3, 2010.”
+
+132Stat.
+5222.
+
+															The second section, §404(b), describes what relief is available for the parties who meet §404(a)’s criteria:
+
+															“A court that imposed a sentence for a covered offense may, on motion of the defendant, the Director of the Bureau of Prisons, the attorney for the Government, or the court, impose a reduced sentence as if sections 2 and 3 of the Fair Sentencing Act of 2010 . . . were in effect at the time the covered offense was committed.”
+
+132Stat.
+5222.
+
+															The third section, §404(c), places two explicit limitations on available relief:
+
+															“No court shall entertain a motion made under this section to reduce a sentence if the sentence was previously imposed or previously reduced in accordance with the amendments made by sections 2 and 3 of the Fair Sentencing Act of 2010 . . . or if a previous motion made under this section to reduce the sentence was, after the date of enactment of this Act, denied after a complete review of the motion on the merits.  Nothing in this section shall be construed to require a court to reduce any sentence pursuant to this section.”
+
+132Stat.
+5222.
+
+															The text of the First Step Act does not so much as hint that district courts are prohibited from considering evidence of rehabilitation, disciplinary infractions, or unrelated Guidelines changes.  The only two limitations on district courts’ discretion appear in §404(c): A district court may not consider a First Step Act motion if the movant’s sentence was already reduced under the Fair Sentencing Act or if the court considered and rejected a motion under the First Step Act.  Neither of those limitations applies here.  By its terms, §404(c) does not prohibit district courts from considering any arguments in favor of, or against, sentence modification.  In fact, §404(c) only underscores that a district court is not required to modify a sentence for any reason.  “Drawing meaning from silence is particularly inappropriate” in the sentencing context, “for Congress has shown that it knows how to direct sentencing practices in express terms.”  Kimbrough v. United States,
+
+552 U.S. 85,
+
+															
+
+															 103 (2007).[5]
+
+															Nor did Congress hide any limitations on district courts’ discretion outside of §404(c).  Section 404(b) does not erect any additional such limitations.  The term “as if ” simply enacts the First Step Act’s central goal: to make retroactive the changes in the Fair Sentencing Act.  That language is necessary to overcome
+
+1 U. S. C. §109, which creates a presumption that Congress does not repeal federal criminal penalties unless it says so “expressly.”  To defeat the presumption established by this statute, Congress needed to make clear that the Fair Sentencing Act applied retroactively.  Notably, the “as if ” clause requires a district court to apply the Fair Sentencing Act as if it applied at the time of the commission of the offense, not at the time of the original sentencing.  Had Congress intended to constrain district courts to consider only the record as it existed at the time of the original sentencing, Congress would have written the “as if ” clause to refer to that sentencing, not the commission of the offense.  Thus, the language Congress enacted in the First Step Act specifically requires district courts to apply the legal changes in the Fair Sentencing Act when calculating the Guidelines if they chose to modify a sentence.[6]  The “as if ” clause does not, however, limit the information a district court may use to inform its decision whether and how much to reduce a sentence.
+
+															B
+
+															Consistent with this text and structure, district courts deciding First Step Act motions regularly have considered evidence of postsentencing rehabilitation and unrelated Guidelines amendments when raised by the parties.  By definition, First Step Act movants have amassed prison records of over a decade.  See §404(a),
+
+132Stat.
+5222 (requiring the movant to have been sentenced for an offense “committed before August 3, 2010”).  Those records are naturally of interest to judges authorized by the First Step Act to reduce prison sentences or even to release movants immediately.  See, e.g., United States v. Crawford, 483 F. Supp. 3d 378, 381 (ND W. Va. 2020) (considering that the movant earned his GED in prison, obtained a carpentry certification through a local community college, and was sanctioned for only “two minor write-ups” in the nine years preceding his motion); United States v. Henderson, 399 F. Supp. 3d 648, 656 (WD La. 2019) (considering that the movant “ha[d] not seen his children in eight years,” that he had “possible employment opportunities . . . upon his release,” and that he “ha[d] received only two incident reports” while incarcerated); United States v. Mitchell, 2019 WL 2647571, *8 (D DC, June 27, 2019) (considering that the movant “incurred no disciplinary infractions over his last fourteen years in prison” and that the movant would no longer be considered a career offender based on an intervening change of law).
+
+															Likewise, when deciding whether to grant First Step Act motions and in deciding how much to reduce sentences, courts have looked to postsentencing evidence of violence or prison infractions as probative.  See, e.g., United States v. Rose, 841 Fed. Appx. 328, 329 (CA2 2021) (affirming partial denial of motion where the district court relied on the movant’s “lengthy history of prison disciplinary infractions, which included many recent violent infractions”); United States v. Barlow, 544 F. Supp. 3d 491, 505 (NJ 2021) (considering, in denying motion, that the movant was disciplined in prison seven times, including “three times for possessing a dangerous weapon,” “once for possessing marijuana,” and “once for fighting”); United States v. Slutzkin, 2019 WL 5696122, *8 (Conn., Nov. 4, 2019) (considering in denying motion the movant’s “behavior once incarcerated [as] perhaps the greatest concern to the Court,” in light of “25 disciplinary citations while in state incarceration and six more in federal prison”).[7]
+
+															Moreover, when raised by the parties, district courts have considered nonretroactive Guidelines amendments to help inform whether to reduce sentences at all, and if so, by how much.  See, e.g., United States v. Coachman, 2020 WL 6939890, *3 (ND Fla., June 22, 2020) (considering that the movant “would not qualify for career offender status” at the time of his sentence modification hearing); United States v. Frederick, 2020 WL 555302, *4 (WD Pa., Feb. 4, 2020) (considering “the fact that [the movant] would not qualify as a career offender under the current version of the career offender provisions . . . as a factor favoring the exercise of the discretionary relief that may be awarded”); United States v. Newton, 2019 WL 1007100, *5 (WD Va., Mar. 1, 2019) (considering that the movant, “if he were sentenced today,” would no longer qualify for career offender status).  Nothing express or implicit in the First Step Act suggests that these courts misinterpreted the Act in considering such relevant and probative information.[8]
+
+															C
+
+															The Court therefore holds that the First Step Act allows district courts to consider intervening changes of law or fact in exercising their discretion to reduce a sentence pursuant to the First Step Act.
+
+															It follows, under the Court’s sentencing jurisprudence, that when deciding a First Step Act motion, district courts bear the standard obligation to explain their decisions and demonstrate that they considered the parties’ arguments.  It is well established that a district court must generally consider the parties’ nonfrivolous arguments before it.  See Golan v. Saada, 596 U. S. ___, ___ (2022) (slip op., at 11).  Of course, a district court is not required to be persuaded by every argument parties make, and it may, in its discretion, dismiss arguments that it does not find compelling without a detailed explanation.  Nor is a district court required to articulate anything more than a brief statement of reasons. See Rita v. United States,
+
+551 U.S. 338, 356 (2007).  Nothing in the First Step Act contravenes those background principles.  
+
+															When it comes to that reasoned explanation, the First Step Act “ ‘leaves much . . . to the judge’s own professional judgment.’ ”  Chavez-Meza v. United States, 585 U. S. ___, ___ (2018) (slip op., at 3) (quoting Rita, 551 U. S., at 356).  The First Step Act does not “require courts to expressly rebut each argument” made by the parties.  United States v. Maxwell, 991 F.3d 685, 694 (CA6 2021).  In excising its discretion, the court is free to agree or disagree with any of the policy arguments raised before it.  Cf. Kimbrough, 552 U. S., at 111.  All that the First Step Act requires is that a district court make clear that it “reasoned through [the parties’] arguments.”  991 F. 3d, at 693.
+
+															The broad discretion that the First Step Act affords to district courts also counsels in favor of deferential appellate review.  As a general matter, “it is not the role of an appellate court to substitute its judgment for that of the sentencing court as to the appropriateness of a particular sentence.”  Solem v. Helm,
+
+463 U.S. 277, 290, n. 16 (1983).  Section 404(c) of the First Step Act confers particular discretion, clarifying that the Act does not “require a court to reduce any sentence.”  Other than legal errors in recalculating the Guidelines to account for the Fair Sentencing Act’s changes, see Gall v. United States,
+
+552 U.S. 38, 51 (2007), appellate review should not be overly searching.
+
+															Put simply, the First Step Act does not require a district court to accept a movant’s argument that evidence of rehabilitation or other changes in law counsel in favor of a sentence reduction, or the Government’s view that evidence of violent behavior in prison counsels against providing relief.  Nor does the First Step Act require a district court to make a point-by-point rebuttal of the parties’ arguments.  All that is required is for a district court to demonstrate that it has considered the arguments before it. 
+
+															*  *  *
+
+															The First Step Act does not require a district court to be persuaded by the nonfrivolous arguments raised by the parties before it, but it does require the court to consider them.  The contrary judgment of the Court of Appeals for the First Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ In 2015, this Court held that the Armed Career Criminal Act’s residual clause was unconstitutional, see Johnson v. United States,
+
+576 U.S. 591, prompting the Sentencing Commission to amend the identical clause of the career offender Guideline, see USSG App. C, Amdt. 798 (Supp. Aug. 2016).  The Sentencing Commission did not apply the amendment retroactively. 
+
+2
+ Compare United States v. Collington, 995 F.3d 347, 355, 360 (CA4 2021) (must consider changed law and facts); United States v. Easter, 975 F.3d 318, 325–327 (CA3 2020) (same); United States v. Brown, 974 F.3d 1137, 1144–1145 (CA10 2020) (must consider intervening Circuit precedent); United States v. White, 984 F.3d 76, 93 (CADC 2020) (must consider changed facts), with United States v. Maxwell, 991 F.3d 685, 689 (CA6 2021) (may consider); United States v. Moore, 975 F.3d 84, 92, n. 36 (CA2 2020) (same); United States v. Harris, 960 F.3d 1103, 1106 (CA8 2020) (same); United States v. Shaw, 957 F.3d 734, 741–742 (CA7 2020) (same), with United States v. Denson, 963 F.3d 1080, 1089 (CA11 2020) (may not consider); United States v. Kelley, 962 F.3d 470, 475 (CA9 2020) (same); United States v. Hegwood, 934 F.3d 414, 418–419 (CA5 2019) (same). 
+
+3
+ The dissent invokes another background principle: the importance of “finality of criminal judgments.”  Post, at 2 (opinion of Kavanaugh, J.).  No one doubts the importance of finality.  Here, however, the Court interprets a statute whose very purpose is to reopen final judgments.   
+
+4
+ The dissent brushes aside this venerable tradition of discretion by emphasizing the differences between initial sentencings and sentence modification proceedings.  See post, at 2–3.  Of course there are differences between the two, but the feature common to both is that only Congress and the Constitution limit the historic scope of district courts’ discretion. 
+
+5
+ The dissent demands that Congress expressly specify the scope of information that a district court can consider in a sentencing modification proceeding.  See post, at 3.  This gets it backward.  The consistent historic norm is that a district court can consider any information in crafting a new or modified sentence, subject to congressional or constitutional limits.  See supra, at 6–11.  Moreover, the dissent’s reliance on §3582(c)(1)(B), post, at 3, misses the point.  Section 3582(c)(1)(B) is simply a gateway provision that refers to whichever statute “expressly permit[s]” the sentencing modification.  Ibid.  It does not impose any substantive or procedural limits on a district court’s discretion; for those details, it refers to the statute authorizing the sentence modification.  See United States v. Triestman, 178 F.3d 624, 629 (CA2 1999) (“ ‘[S]ubsection (c)(1)(B) simply notes the authority to modify a sentence if modification is permitted by statute’ ” (quoting S. Rep. No. 98–225 (1984)).  
+
+6
+ A district court cannot, however, recalculate a movant’s benchmark Guidelines range in any way other than to reflect the retroactive application of the Fair Sentencing Act.  Rather, the First Step Act directs district courts to calculate the Guidelines range as if the Fair Sentencing Act’s amendments had been in place at the time of the offense.  That Guidelines range “anchor[s]” the sentencing proceeding.  Peugh v. United States,
+
+569 U.S. 530, 541 (2013).  The district court may then consider postsentencing conduct or nonretroactive changes in selecting or rejecting an appropriate sentence, with the properly calculated Guidelines range as the benchmark.   
+
+7
+ In the dissent’s view, each of these District Courts erred in considering evidence outside of the original sentencing record.  See post, at 1–2.  Instead, the dissent’s interpretation would require a district court adjudicating a First Step Act motion to decide whether, and by how much, to reduce a sentence based only on the original sentencing record.  But again, the text of the First Step Act does not require that counterfactual procedure.   
+
+8
+ The dissent contends that permitting a district court to consider nonretroactive Guidelines amendments will create a disparity between First Step Act-eligible movants and other defendants.  See post, at 3–4.  To reiterate, the First Step Act does not require a district court to recalculate a movant’s Guidelines in any respect other than applying the Fair Sentencing Act.  See n. 6, supra.  In any event, it is a feature of our sentencing law that different judges may respond differently to the same sentencing arguments.  Cf. Kimbrough v. United States,
+
+552 U.S. 85, 110 (2007) (permitting, but not requiring, district courts to consider certain policy arguments at sentencing).  Moreover, disparities are always unavoidable when some, but not all, defendants are permitted to move for modifications of an original sentence.  Even the dissent’s interpretation would create disparities between First Step Act movants and defendants eligible for a sentence reduction under the 2011 retroactive crack-cocaine Guidelines, see supra, at 3, because the Commission permitted the latter group to argue postsentencing developments, see USSG §1B1.10, comment, n. 1(B)(iii).   
+
+

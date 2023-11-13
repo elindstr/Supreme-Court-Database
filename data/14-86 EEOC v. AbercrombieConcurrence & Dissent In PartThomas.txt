@@ -1,0 +1,121 @@
+::SCDB_caseID:: 2014-046
+::decision_cite:: 14-86
+::decision_name::  EEOC v. Abercrombie & Fitch Stores, Inc.
+::decision_year:: 2015
+::opinion_author:: Thomas
+::opinion_type:: Concurrence & Dissent In Part
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 14–86
+
+															_________________
+
+															EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, PETITIONER v. ABERCROMBIE & FITCHSTORES, INC.
+
+															on writ of certiorari to the united states court of appeals for the tenth circuit
+
+															[June 1, 2015]
+
+															
+
+															Justice Thomas, concurring in part and dissenting in part.
+
+															I agree with the Court that there are two—and only two—causes of action under Title VII of the Civil Rights Act of 1964 as understood by our precedents: a disparate-treatment (or intentional-discrimination) claim and a disparate-impact claim.  Ante, at 3.  Our agreement ends there.  Unlike the majority, I adhere to what I had thought before today was an undisputed proposition: Mere application of a neutral policy cannot constitute “intentional discrimination.”  Because the Equal Employment Opportunity Commission (EEOC) can prevail here only if Abercrombie engaged in intentional discrimination, and because Abercrombie’s application of its neutral Look Policy does not meet that description, I would affirm the judgment of the Tenth Circuit.
+
+															I
+
+															This case turns on whether Abercrombie’s conduct constituted “intentional discrimination” within the meaning of
+
+42 U. S. C. §1981a(a)(1).  That provision allows a Title VII plaintiff to “recover compensatory and punitive damages” only against an employer “who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact).”  The damages award EEOC obtained against Abercrombie is thus proper only if that company engaged in “intentional discrimination”—as opposed to “an employment practice that is unlawful because of its disparate impact”—within the meaning of §1981a(a)(1).
+
+															The terms “intentional discrimination” and “disparate impact” have settled meanings in federal employment discrimination law.  “[I]ntentional discrimination . . . occur[s] where an employer has treated a particular person less favorably than others because of a protected trait.”  Ricci v. DeStefano,
+
+557 U. S. 557,
+577 (2009)
+(internal quotation marks and alteration omitted).  “[D]isparate-impact claims,” by contrast, “involve employment practices that are facially neutral in their treatment of different groups but that in fact fall more harshly on one group than another and cannot be justified by business necessity.”  Raytheon Co. v. Hernandez,
+
+540 U. S. 44,
+52 (2003)
+ (internal quotation marks omitted).  Conceived by this Court in Griggs v. Duke Power Co.,
+
+401 U. S. 424 (1971)
+, this “theory of discrimination” provides that “a facially neutral employment practice may be deemed illegally discriminatory without evidence of the employer’s subjective intent to discriminate that is required in a disparate-treatment case,” Raytheon, supra, at 52–53 (internal quotation marks and alteration omitted).
+
+															I would hold that Abercrombie’s conduct did not constitute “intentional discrimination.”  Abercrombie refused to create an exception to its neutral Look Policy for Samantha Elauf’s religious practice of wearing a headscarf.  Ante, at 2.  In doing so, it did not treat religious practices less favorably than similar secular practices, but instead remained neutral with regard to religious practices.  To be sure, the effects of Abercrombie’s neutral Look Policy, absent an accommodation, fall more harshly on those who wear headscarves as an aspect of their faith.  But that is a classic case of an alleged disparate impact.  It is not what we have previously understood to be a case of disparate treatment because Elauf received the same treatment from Abercrombie as any other applicant who appeared unable to comply with the company’s Look Policy.  See ibid.; App. 134, 144.  Because I cannot classify Abercrombie’s conduct as “intentional discrimination,” I would affirm.
+
+															II
+
+															A
+
+															Resisting this straightforward application of §1981a, the majority expands the meaning of “intentional discrimination” to include a refusal to give a religious applicant “favored treatment.”  Ante, at 6–7.  But contrary to the majority’s assumption, this novel theory of discrimination is not commanded by the relevant statutory text.
+
+															Title VII makes it illegal for an employer “to fail or refuse to hire . . . any individual . . . because of such individual’s . . . religion.”  §2000e–2(a)(1).  And as used in Title VII, “[t]he term ‘religion’ includes all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee’s or prospective employee’s religious observance or practice without undue hardship on the conduct of the employer’s business.”  §2000e( j).  With this gloss on the definition of “religion” in §2000e–2(a)(1), the majority concludes that an employer may violate Title VII if he “refuse[s] to hire . . . any individual . . . because of such individual’s . . . religious . . . practice” (unless he has an “undue hardship” defense).  See ante, at 3–4.
+
+															But inserting the statutory definition of religion into §2000e–2(a) does not answer the question whether Abercrombie’s refusal to hire Elauf was “because of her religious practice.”  At first glance, the phrase “because of such individual’s religious practice” could mean one of two things.  Under one reading, it could prohibit taking an action because of the religious nature of an employee’s particular practice.  Under the alternative reading, it could prohibit taking an action because of an employee’s practice that happens to be religious.
+
+															The distinction is perhaps best understood by example.  Suppose an employer with a neutral grooming policy forbidding facial hair refuses to hire a Muslim who wears a beard for religious reasons.  Assuming the employer applied the neutral grooming policy to all applicants, the motivation behind the refusal to hire the Muslim applicant would not be the religious nature of his beard, but its existence.  Under the first reading, then, the Muslim applicant would lack an intentional-discrimination claim, as he was not refused employment “because of” the religious nature of his practice.  But under the second reading, he would have such a claim, as he was refused employment “because of” a practice that happens to be religious in nature.
+
+															One problem with the second, more expansive reading is that it would punish employers who have no discrimina-tory motive.  If the phrase “because of such individual’s religious practice” sweeps in any case in which an employer takes an adverse action because of a practice that hap-pens to be religious in nature, an employer who had no idea that a particular practice was religious would be penalized.  That strict-liability view is plainly at odds with the concept of intentional discrimination.  Cf. Raytheon, supra, at 54, n. 7 (“If [the employer] were truly unaware that such a disability existed, it would be impossible for her hiring decision to have been based, even in part, on [the applicant’s] disability.  And, if no part of the hiring decision turned on [the applicant’s] status as disabled, he cannot, ipso facto, have been subject to disparate treatment”).  Surprisingly, the majority leaves the door open to this strict-liability theory, reserving the question whether an employer who does not even “suspec[t] that the practice in question is a religious practice” can nonetheless be punished for intentional discrimination.  Ante, at 6, n. 3.
+
+															For purposes of today’s decision, however, the majority opts for a compromise, albeit one that lacks a foothold in the text and fares no better under our precedents.  The majority construes §2000e–2(a)(1) to punish employers who refuse to accommodate applicants under neutral policies when they act “with the motive of avoiding accommodation.”  Ante, at 5.  But an employer who is aware that strictly applying a neutral policy will have an adverse effect on a religious group, and applies the policy anyway, is not engaged in intentional discrimination, at least as that term has traditionally been understood.  As the Court explained many decades ago, “ ‘Discriminatory purpose’ ”—i.e., the purpose necessary for a claim of intentional discrimination—demands “more than . . . awareness of consequences.  It implies that the decisionmaker . . . selected or reaffirmed a particular course of action at least in part ‘because of,’ not merely ‘in spite of,’ its adverse effects upon an identifiable group.”  Personnel Administrator of Mass. v. Feeney,
+
+442 U. S. 256,
+279 (1979)
+ (internal citation and footnote omitted).
+
+															I do not dispute that a refusal to accommodate can, in some circumstances, constitute intentional discrimination.  If an employer declines to accommodate a particular religious practice, yet accommodates a similar secular (or other denominational) practice, then that may be proof that he has “treated a particular person less favorably than others because of [a religious practice].”  Ricci, 557 U. S., at 577 (internal quotation marks and alteration omitted); see also, e.g., Dixon v. Hallmark Cos., 627 F. 3d 849, 853 (CA11 2010) (addressing a policy forbidding display of “religious items” in management offices).  But merely refusing to create an exception to a neutral policy for a religious practice cannot be described as treating a particular applicant “less favorably than others.”  The majority itself appears to recognize that its construction requires something more than equal treatment.  See ante, at 6–7 (“Title VII does not demand mere neutrality with regard to religious practices,” but instead “gives them favored treatment”).  But equal treatment is not disparate treatment, and that basic principle should have disposed of this case.
+
+															B
+
+															The majority’s novel theory of intentional discrimination is also inconsistent with the history of this area of employment discrimination law.  As that history shows, cases arising out of the application of a neutral policy absent religious accommodations have traditionally been understood to involve only disparate-impact liability.
+
+															When Title VII was enacted in 1964, it prohibited discrimination “because of . . . religion” and did not include the current definition of “religion” encompassing “religious observance and practice” that was added to the statute in 1972.  Civil Rights Act of 1964, §§701, 703(a),
+
+78Stat.
+253–255.  Shortly thereafter, the EEOC issued guidelines purporting to create “an obligation on the part of the employer to accommodate to the religious needs of employees.”  31 Fed. Reg. 8370 (1966).  From an early date, the EEOC defended this obligation under a disparate-impact theory.  See Brief for United States as Amicus Curiae in Dewey v. Reynolds Metals Co., O. T. 1970, No. 835, pp. 7, 13, 29–32.  Courts and commentators at the time took the same view.  See, e.g., Reid v. Memphis Publishing Co., 468 F. 2d 346, 350 (CA6 1972); Dewey v. Reynolds Metals Co., 300 F. Supp. 709, 713 (WD Mich. 1969), rev’d, 429 F. 2d 324 (CA6 1970), aff’d by an equally di-vided Court,
+
+402 U. S. 689 (1971)
+ (per curiam); 1 B. Lindemann & P. Grossman, Employment Discrimination Law 187–188 (3d ed. 1976).
+
+															This Court’s first decision to discuss a refusal to accommodate a religious practice, Trans World Airlines, Inc. v. Hardison,
+
+432 U. S. 63 (1977)
+, similarly did not treat such conduct as intentional discrimination.  Hardison involved a conflict between an employer’s neutral seniority system for assigning shifts and an employee’s observance of a Saturday Sabbath.  The employer denied the employee an accommodation, so he refused to show up for work on Saturdays and was fired.  Id., at 67–69.  This Court held that the employer was not liable under Title VII because the proposed accommodations would have imposed an undue hardship on the employer.  Id., at 77.  To bolster its conclusion that there was no statutory violation, the Court relied on a provision of Title VII shielding the application of a “ ‘bona fide seniority or merit system’ ” from challenge unless that application is “ ‘the result of an intention to discriminate because of . . . religion.’ ”  Id., at 81–82 (quoting §2000e–2(h)).  In applying that provision, the Court observed that “[t]here ha[d] been no suggestion of discriminatory intent in th[e] case.”  Id., at 82.  But if the major-ity’s view were correct—if a mere refusal to accommodate a religious practice under a neutral policy could constitute intentional discrimination—then the Court in Hardison should never have engaged in such reasoning.  After all, the employer in Hardison knew of the employee’s religious practice and refused to make an exception to its neutral seniority system, just as Abercrombie arguably knew of Elauf’s religious practice and refused to make an exception to its neutral Look Policy.[1]*
+
+															Lower courts following Hardison likewise did not equate a failure to accommodate with intentional discrimination.  To the contrary, many lower courts, including the Tenth Circuit below, wrongly assumed that Title VII creates a freestanding failure-to-accommodate claim distinct from either disparate treatment or disparate impact.  See, e.g., 731 F. 3d 1106, 1120 (2013) (“A claim for religious discrimination under Title VII can be asserted under several different theories, including disparate treatment and failure to accommodate” (internal quotation marks omitted)); Protos v. Volkswagen of Am., Inc., 797 F. 2d 129, 134, n. 2 (CA3 1986) (“In addition to her religious accommodation argument, [the plaintiff] maintains that she prevailed in the district court on a disparate treatment claim”).  That assumption appears to have grown out of statements in our cases suggesting that Title VII’s definitional provision concerning religion created an independent duty.  See, e.g., Ansonia Bd. of Ed. v. Philbrook,
+
+479 U. S. 60
+, n. 1 (1986) (“The reasonable accommodation duty was incorporated into the statute, somewhat awkwardly, in the definition of religion”).  But in doing so, the lower courts correctly recognized that a failure-to-accommodate claim based on the application of a neutral policy is not a disparate-treatment claim.  See, e.g., Reed v. International Union, United Auto, Aerospace and Agricultural Implement Workers of Am., 569 F. 3d 576, 579–580 (CA6 2009); Chalmers v. Tulon Co. of Richmond, 101 F. 3d 1012, 1018 (CA4 1996).
+
+															At least before we granted a writ of certiorari in this case, the EEOC too understood that merely applying a neutral policy did not automatically constitute intentional discrimination giving rise to a disparate-treatment claim.  For example, the Commission explained in a recent compliance manual, “A religious accommodation claim is distinct from a disparate treatment claim, in which the question is whether employees are treated equally.”  EEOC Compliance Manual §12–IV, p. 46 (2008).  Indeed, in asking us to take this case, the EEOC dismissed one of Abercrombie’s supporting authorities as “a case addressing intentional discrimination, not religious accommodation.”  Reply to Brief in Opposition 7, n.  Once we granted certiorari in this case, however, the EEOC altered course and advanced the intentional-discrimination theory now adopted by the majority.  The Court should have rejected this eleventh-hour request to expand our understanding of “intentional discrimination” to include merely applying a religion-neutral policy.
+
+															*  *  *
+
+															The Court today rightly puts to rest the notion that Title VII creates a freestanding religious-accommodation claim, ante, at 3, but creates in its stead an entirely new form of liability: the disparate-treatment-based-on-equal-treatment claim.  Because I do not think that Congress’ 1972 redefinition of “religion” also redefined “intentional discrimination,” I would affirm the judgment of the Tenth Circuit.  I respectfully dissent from the portions of the majority’s decision that take the contrary view.Notes
+
+1
+
+
+		* Contrary to the EEOC’s suggestion, Trans World Airlines, Inc. v. Hardison,
+
+432 U. S. 63 (1977)
+, did not establish that a refusal to accommodate a religious practice automatically constitutes intentional discrimination.  To be sure, Hardison remarked that the “effect of ” the 1972 amendment expanding the definition of religion “was to make it an unlawful employment practice under [§2000e–2(a)(1)] for an employer not to make reasonable accommodations, short of undue hardship, for the religious practices of his employees and prospective employees.”  Id., at 74.  But that statement should not be understood as a holding that such conduct automatically gives rise to a disparate-treatment claim.  Although this Court has more recently described §2000e–2(a)(1) as originally creating only disparate-treatment liability, e.g., Ricci v. DeStefano,
+
+557 U. S. 557,
+577 (2009)
+, it was an open question at the time Hardison was decided whether §2000e–2(a)(1) also created disparate-impact liability, see, e.g., Nashville Gas Co. v. Satty,
+
+434 U. S. 136,
+144 (1977)
+; General Elec. Co. v. Gilbert,
+
+429 U. S. 125
+–155 (1976) (Brennan, J., dissenting).  In fact, both the employee and the EEOC in Hardison argued before this Court that the employer had violated §2000e–2(a)(1) under a disparate-impact theory.  See Brief for Respondent 15, 25–26, and Brief for United States et al. as Amici Curiae 33–36, 50, in Trans World Airlines, Inc. v. Hardison, O. T. 1976, No. 75–1126 etc.  In any event, the relevant language in Hardison is dictum.  Because the employee’s termination had occurred before the 1972 amendment to Title VII’s definition of religion, Hardison applied the then-existing EEOC guideline—which also contained an “undue hardship” defense—not the amended statutory definition.  432 U. S.,at 76, and n. 11.  Hardison’s comment about the effect of the 1972 amendment was thus entirely beside the point.
+	
+
+

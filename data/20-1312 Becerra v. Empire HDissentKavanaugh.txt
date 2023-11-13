@@ -1,0 +1,59 @@
+::SCDB_caseID:: 2021-027
+::decision_cite:: 20-1312
+::decision_name::  Becerra v. Empire Health Foundation, For Valley Hospital Medical Center
+::decision_year:: 2022
+::opinion_author:: Kavanaugh
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–1312
+
+															_________________
+
+															XAVIER BECERRA, SECRETARY OF HEALTH AND HUMAN SERVICES, PETITIONER v. EMPIRE HEALTH FOUNDATION, FOR VALLEY HOSPITAL MEDICAL CENTER
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 24, 2022]
+
+															
+
+															Justice Kavanaugh, with whom The Chief Justice, Justice Alito, and Justice Gorsuch join, dissenting.
+
+															Under the Medicare statute, HHS pays higher reimbursements to hospitals that serve a significant number of low-income patients.  The statutory formula for determining exactly how much HHS will pay to those hospitals is mind-numbingly complex.  But embedded within the complicated overall formula are various subsidiary calculations, some of which are relatively straightforward.
+
+															This case concerns one of those straightforward subsidiary calculations.  Consistent with traditional insurance and coordination-of-benefits principles, Medicare by statute cannot pay for a patient’s hospital care if, for example, the patient is covered by private insurance, the patient has exhausted her Medicare benefits, or a third-party tortfeasor is liable for the patient’s care.  The retrospective reimbursement question raised by the statutory provision in this case is this:  Was a patient “entitled to” have payment made by Medicare for a particular day in the hospital if the patient by statute could not (and did not) have payment made by Medicare for that day?  In my view, the answer to that narrow question is straightforward and commonsensical:  No.
+
+															Importantly, from the time the statute was enacted in 1986 until 2003, HHS interpreted this statutory provision in the exact same way that I do.  See 51 Fed. Reg. 31460−31461 (1986); Brief for Petitioner 32−33.  Then in 2004, HHS abruptly changed course.  Why?  Presumably to save money.  HHS was trying hard to find ways to contain Medicare costs in light of increasing Medicare expenditures and the country’s fiscal situation.  To that end, HHS’s new 2004 interpretation of this statutory provision had the downstream effect of significantly reducing HHS’s reimbursements to hospitals that serve low-income patients.
+
+															Whatever HHS’s precise motivations for the 2004 change, we now must focus on the statutory text and HHS’s current interpretation of it.  To begin, both parties offer a dog’s breakfast of arguments about broad statutory purposes, real-world effects, surplusage, structure, consistent usage, inconsistent usage, agency deference, and the like.  But this case is resolved by the most fundamental principle of statutory interpretation:  Read the statute.
+
+															The relevant text of this reimbursement provision refers to “the number of . . . patient days . . . which were made up of patients who (for such days) were entitled to benefits under part A.”
+
+42 U. S. C. §1395ww(d)(5)(F)(vi)(I).  Importantly, the statute elsewhere says that “[t]he benefits provided” under Medicare Part A consist of a patient’s “entitlement to have payment made on his behalf . . . (subject to the provisions of this part).”  §1395d(a) (emphasis added); see also §426(c) (“entitlement” means “entitlement to have payment made under, and subject to the limitations in, part A” (emphasis added)).
+
+															Zero in on the phrases “entitlement to have payment made” and “for such days.”  In my view (and in HHS’s view from 1986 to 2003), a patient was entitled to have payment made by Medicare for particular days in the hospital if Medicare was obligated to pay for the patient’s care for those days.  Stated the other way, a patient was not entitled to have payment made by Medicare for particular days in the hospital if the patient by statute could not (and did not) have payment made by Medicare for those days—for example, because the patient had other insurance, the patient had exhausted his Medicare benefits, or a third-party tortfeasor was paying.  Simple enough.
+
+															To be sure, patients who satisfy certain criteria (for example, those who are age 65 or older) are generally “entitled” to Medicare hospitalization benefits.  No one disputes that point.  But this reimbursement provision looks to whether the patient was entitled to have payment made by Medicare for a particular day in the hospital.  And the answer to that question is no if Medicare by statute could not (and did not) pay for that day in the hospital.
+
+															Suppose that a college says that your academic record entitles you to a scholarship for next year if your family’s income is under $60,000, unless you have received another scholarship.  And suppose that your family’s income is under $60,000, but you have received another scholarship.  Are you still entitled to the first scholarship?  Of course not.  So too here.
+
+															The Court concludes otherwise, mainly by (i) saying that “entitled to benefits” is a term of art in the Medicare statute, (ii) diminishing the value of the statutory phrase “(for such days),” in part because the phrase appears in a parenthetical, and (iii) invoking a parade of horribles about what could happen to other provisions of the Medicare statute if the Court were to read this provision as I would.
+
+															With respect, none of that adds up.  First, although the Medicare statute generally uses “entitled” to refer to those who meet the basic statutory criteria for Medicare benefits, the retrospective reimbursement provision at issue here focuses laser-like on whether the patient was actually entitled to have payment made by Medicare for particular days in the hospital.  A patient cannot be simultaneously entitled and disentitled to have payment made by Medicare for a particular day in the hospital.
+
+															Second, contrary to the Court’s suggestion, we cannot brush aside the statutory phrase “(for such days)” simply because that phrase appears in a parenthetical.  See Duncan v. Walker,
+
+533 U.S. 167, 174 (2001).  Parentheticals can be important, as the Constitution itself makes clear.  See, e.g., Art. I, §7 (counting days for bill to become law with “(Sundays excepted)”); Art. IV, §4 (affording federal protection to States on application by the Executive but only “(when the Legislature cannot be convened)”).
+
+															Third, properly interpreting this specific reimbursement provision will not “make a hash” of other provisions or render the Medicare statute “unworkable.”  Ante, at 11−12.  We need not speculate about that point:  For nearly two decades from the time that the statute was enacted in 1986 through 2003, HHS interpreted this reimbursement provision in the same way that I do.  And HHS did so without any noted problems for other provisions in the Medicare statute.
+
+															To sum up:  A patient was not entitled to have payment made by Medicare “for such days” in the hospital if the patient by statute could not (and thus did not) have payment made by Medicare for those days—for example, because private insurance was already covering the patient’s care, or the patient had exhausted his Medicare benefits.  Both statutory text and common sense point to that conclusion.  HHS’s contrary interpretation boils down to the proposition that a patient can be simultaneously entitled and disentitled to have payment made by Medicare for a particular day in the hospital.  That interpretation does not work.  And HHS’s misreading of the statute has significant real-world effects:  It financially harms hospitals that serve low-income patients, thereby hamstringing those hospitals’ ability to provide needed care to low-income communities.
+
+															In my view, HHS’s 2004 interpretation is not the best reading of this statutory reimbursement provision.  I respectfully dissent.
+													

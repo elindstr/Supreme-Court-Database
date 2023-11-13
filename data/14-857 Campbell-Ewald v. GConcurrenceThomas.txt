@@ -1,0 +1,96 @@
+::SCDB_caseID:: 2015-009
+::decision_cite:: 14-857
+::decision_name::  Campbell-Ewald v. Gomez
+::decision_year:: 2016
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 14–857
+
+															_________________
+
+															CAMPBELL-EWALD COMPANY, PETITIONERv. JOSE GOMEZ
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[January 20, 2016]
+
+															
+
+															Justice Thomas, concurring in the judgment.
+
+															The Court correctly concludes that an offer of complete relief on a claim does not render that claim moot.  But, in my view, the Court does not advance a sound basis for this conclusion.  The Court rests its conclusion on modern contract law principles and a recent dissent concerning Federal Rule of Civil Procedure 68.  See ante, at 6–9.  I would rest instead on the common-law history of tenders.  That history—which led to Rule 68—demonstrates that a mere offer of the sum owed is insufficient to eliminate a court’s jurisdiction to decide the case to which the offer related.  I therefore concur only in the judgment.
+
+															I
+
+															The text of Article III’s case-or-controversy requirement, that requirement’s drafting history, and our precedents do not appear to provide sufficiently specific principles to resolve this case.  When faced with such uncertainty, it seems particularly important for us to look to how courts traditionally have viewed a defendant’s offer to pay the plaintiff’s alleged damages.  That history—which stretches from the common law directly to Rule 68 and modern settlement offers—reveals one unbroken practice that should resolve this case: A defendant’s offer to pay the plaintiff—without more—would not have deprived a court of jurisdiction.  Campbell-Ewald’s offers thus do not bar federal courts from continuing to hear this case.
+
+															A
+
+															Modern settlement procedure has its origins in the law of tenders, as refined in the 18th and 19th centuries.  As with much of the early common law, the law of tenders had many rigid formalities.  These formalities make clear that, around the time of the framing, a mere offer of relief was insufficient to deprive a court of jurisdiction.
+
+															At common law, a prospective defendant could prevent a case from proceeding, but he needed to provide substantially more than a bare offer.  A “mere proposal or proposition” to pay a claim was inadequate to end a case.  A. Hunt, A Treatise on the Law of Tender, and Bringing Money Into Court §§1–2, 3–4 (1903) (Hunt) (citing cases from the 1800’s).  Nor would a defendant’s “readiness and an ability to pay the money” suffice to end a case.  Holmes v. Holmes, 12 Barb. 137, 144 (N. Y. 1851).  Rather, a prospective defendant needed to provide a “tender”—an offer to pay the entire claim before a suit was filed, accompanied by “actually produc[ing]” the sum “at the time of tender” in an “unconditional” manner.  M. Bacon, A New Abridgment of the Law, 314–315, 321 (1856) (citing cases from the early 1800’s).
+
+															Furthermore, in state and federal courts, a tender of the amount due was deemed “an admission of a liability” on the cause of action to which the tender related, so any would-be defendant who tried to deny liability could not effectuate a tender.  Hunt §400, at 448; see Cottier v. Stimpson, 18 F. 689, 691 (Ore. 1883) (explaining that a tender constitutes “an admission of the cause of action”); The Rossend Castle Dillenback v. The Rossend Castle, 30 F. 462, 464 (SDNY 1887) (same).  As one treatise explained, “[a] tender must be of a specific sum which the tenderor admits to be due”—“[t]here must be no denial of the debt.”  Hunt §242, at 253 (emphasis added).  The tender had to offer and actually deliver complete relief.  See id., §2, at 4; Sheredine v. Gaul, 2 Dall. 190, 191 (Pa. 1792) (defendant must “brin[g] the money into Court”).  And an offer to pay less than what was demanded was not a valid tender.  See, e.g., Elderkin v. Fellows, 60 Wis. 339, 340–341, 19 N. W. 101, 102 (1884).
+
+															Even when a potential defendant properly effectuated a tender, the case would not necessarily end.  At common law, a plaintiff was entitled to “deny that [the tender was] sufficient to satisfy his demand” and accordingly “go on to trial.”  Raiford v. Governor, 29 Ala. 382, 384 (1856); see also Hunt §511, at 595.[1]*
+
+															This history demonstrates that, at common law, a defendant or prospective defendant had to furnish far more than a mere offer of settlement to end a case.  This history also demonstrates that courts at common law would not have understood a mere offer to strip them of jurisdiction.
+
+															B
+
+															Although 19th-century state statutes expanded the common-law-tender regime, the law retained its essential features.  See Bone, “To Encourage Settlement”: Rule 68, Offers of Judgment, and the History of the Federal Rules of Civil Procedure, 102 Nw. U. L. Rev. 1561, 1585 (2008) (Bone).  These changes, for example, allowed defendants to offer a tender “during the pendency of an action,” as well as before it commenced.  Taylor v. Brooklyn Elevated R. Co., 119 N. Y. 561, 564, 23 N. E. 1106, 1107 (1890); cf. Colby v. Reed,
+
+99 U. S. 560,
+566 (1879)
+ (at common law, generally no “right of tender after action brought”).  Statutes also expanded the right of tender to cover types of actions in which damages were not certain.  Compare Dedekam v. Vose, 7 F. Cas. 337, 338 (SDNY 1853) (“[T]ender could not be maintained, according to the strict principles of the common law” in cases where damages were not easily ascertainable), with Patrick v. Illawaco Oyster Co., 189 Wash. 152, 155, 63 P. 2d 520, 521 (1937) (state statute “extend[ed] the common-law rule” to tort actions).
+
+															Nevertheless, state statutes generally retained the core of the common-law tender rules.  Most critically for this case, a mere offer remained insufficient to end a lawsuit.  See, e.g., Kilts v. Seeber, 10 How. Pr. 270, 271 (N. Y. 1854) (under New York law, a mere offer was insufficient to preclude litigation).  Like the common-law tender rules, state statutes recognized that plaintiffs could continue to pursue litigation by rejecting an offer.  See Bone 1586.
+
+															C
+
+															The offer-of-judgment procedure in Rule 68 was modeled after a provision in the New York Field Code that was enacted in the mid-19th century.  See id., at 1583–1584.  That code abrogated many of the common-law formalities governing civil procedure.  Among its innovations, the code allowed defendants in any cause of action to make an offer in writing to the plaintiff proposing to accept judgment against the defendant for a specified sum.  See The Code of Procedure of the State of New York From 1848 to 1871: Comprising the Act as Originally Enacted and the Various Amendments Made Thereto, to the Close of the Session of 1870 §385, p. 274 (1870).  The plaintiff could accept the offer, which would end the litigation, or reject the offer, in which case the offer was considered with drawn without any admission of liability by the defendant.  Ibid. 
+
+															In 1938, Rule 68 was adopted as part of the Federal Rules of Civil Procedure, and has subsisted throughout the years without material changes.  See Bone 1564.  As it did in 1938, Rule 68 now authorizes “a party defending against a claim” to “serve on an opposing party an offer to allow judgment on specified terms.”  Rule 68(a).  Rule 68 also provides a plaintiff the option to accept or reject an offer.  If the plaintiff accepts the offer, the “clerk must then enter judgment,” but “[a]n unaccepted offer is considered withdrawn.”  Rules 68(a)–(b).  Withdrawn offers (unlike common-law tenders) cannot be used in court as an admission against defendants.  Rule 68(b).
+
+															D
+
+															In light of the history discussed above, a rejected offer does not end the case.  And this consistent historical practice demonstrates why Campbell-Ewald’s offers do not divest a federal court of jurisdiction to entertain Gomez’s suit.  Campbell-Ewald made two settlement offers after Gomez sued—one filed with the District Court under Rule 68 and one freestanding settlement offer.  But with neither of these offers did the company make payment; it only declared its intent to pay.  Because Campbell-Ewald only offered to pay Gomez’s claim but took no further steps, the court was not deprived of jurisdiction.
+
+															II
+
+															Although the Court reaches the right result, I cannot adopt its reasoning.  Building on the dissent in Genesis HealthCare Corp. v. Symczyk, 569 U. S. ___ (2013), the Court relies on principles of contract law that an unaccepted offer is a legal nullity.  But the question here is not whether Campbell-Ewald’s offer formed an enforceable contract.  The question is whether its continuing offer of complete relief eliminated the case or controversy required by Article III.  By looking only to contract law and one recent Rule 68 opinion, the Court fails to confront this broader issue.  Instead, I believe that we must resolve the meaning of “case” and “controversy” in Article III by looking to “the traditional, fundamental limitations upon the powers of common-law courts” because “cases” and “controversies” “have virtually no meaning except by reference to that tradition.”  Honig v. Doe,
+
+484 U. S. 305,
+340 (1988)
+ (Scalia, J., dissenting).
+
+															The Chief Justice’s dissent argues that examining whether the requirements of common-law tenders have been met does not answer “whether there is a case or controversy for purposes of Article III.”  Post, at 9, n. 3.  As explained above, however, courts have historically refused to dismiss cases when an offer did not conform to the strict tender rules.  The logical implications of The Chief Justice’s reasoning are that the common-law-tender rules conflict with Article III and that the Constitution bars Article III courts from following those principles.  But see Colby, supra, at 566 (stating that, to stop litigation, a party “must adopt the measure prescribed by the common law, except in jurisdictions where a different mode of proceeding is prescribed by statute”).  That reasoning, therefore, calls into question the history and tradition that the case-or-controversy requirement embodies.
+
+															The Chief Justice also contends that our precedents “plainly establish that an admission of liability is not required for a case to be moot under Article III.”  Post, at 10, n. 3.  But we need not decide today whether compliance with every common-law formality would be necessary to end a case.  The dispositive point is that state and federal courts have not considered a mere offer, without more, sufficient to moot the case.  None of the cases cited by The Chief Justice hold that a retrospective claim for money damages can become moot based on a mere offer. California v. San Pablo & Tulare R. Co.,
+
+149 U.S. 308 (1893)
+, is inapposite because that decision involved a fully tendered offer that extinguished the tax debt under California law.  Id., at 313–314.  Alvarez v. Smith,
+
+558 U.S. 87 (2009)
+, and Already, LLC v. Nike, Inc., 568 U.S. ___ (2013), are also not on point.  Both involved claims for injunctive or declaratory relief that became moot when the defendants ceased causing actual or threatened injury.  But whether a claim for prospective relief is moot is different from the issue in this case, which involves claims for damages to remedy past harms.  See, e.g., Parents Involved in Community Schools v. Seattle School Dist. No. 1,
+
+551 U. S. 701,
+720 (2007)
+ (plaintiff “sought damages in her complaint, which is sufficient to preserve our ability to consider the question”); Alvarez, supra, at 92 (suggesting that a “continuing controversy over damages” would mean that the case was not moot).
+
+															As explained above, I would follow history and tradition in construing Article III, and so I find that Campbell-Ewald’s mere offers did not deprive the District Court of jurisdiction.  Accordingly, I concur in the judgment only.Notes
+
+1
+
+
+		* Nevertheless, the common law strongly encouraged a plaintiff to accept a tender by penalizing plaintiffs who improperly rejected them.  A plaintiff would not be able to recover any damages that accrued after the tender, nor could he receive the costs of the suit if the jury returned a verdict for either the amount offered or less.  See Hunt §§363–364, at 403–404.  This rule remains today.  See Fed. Rule Civ. Proc. 68(d) (taxing costs to plaintiff who fails to recover more than the offer of judgment).
+	
+
+

@@ -1,0 +1,224 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1158
+::decision_name::  Percoco v. United States
+::decision_year:: 2023
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1158
+
+															_________________
+
+															JOSEPH PERCOCO, PETITIONER v. UNITED
+STATES
+
+															on writ of certiorari to the united states
+court of appeals for the second circuit
+
+															[May 11, 2023]
+
+															
+
+															Justice Gorsuch, with whom Justice Thomas
+joins, concurring in the judgment.
+
+															The Court holds that the jury instructions in
+this case were “too vague.” Ante, at 10. I
+agree. But to my mind, the problem runs deeper than that because no
+set of instructions could have made things any better. To this day,
+no one knows what “honest-services fraud” encompasses.
+And the Constitution’s promise of due process does not
+tolerate that kind of uncertainty in our laws—especially when
+criminal sanctions loom. “Vague laws” impermissibly
+“hand off the legislature’s responsibility for defining
+criminal behavior to unelected prosecutors and judges, and they
+leave people with no sure way to know what consequences will attach
+to their conduct.” United States v. Davis, 588
+U. S. ___, ___ (2019) (slip op., at 1).
+
+															Honest-services fraud and this Court’s
+vagueness jurisprudence are old friends. The story traces back to
+the early 1940s when a string of lower courts began stretching the
+federal mail-fraud statute’s phrase “scheme or artifice
+to defraud.” 18 U. S. C. §1341. Everyone
+understood that the phrase covers efforts to swindle money or
+property. But some lower courts began suggesting that the phrase
+also sweeps in schemes to deprive others of “intangible
+rights,” including the right to “honest
+services.” Skilling v. United States, 561 U.S.
+358, 400 (2010) (citing cases). What did this new
+“honest-services fraud” concept encompass? Even the
+lower courts that devised the theory could not agree. They clashed
+over everything from who owes a duty of honest services to what
+sources of law may give rise to that duty to what sort of actions
+constitute a breach of it. See id., at 416–420
+(Scalia, J., concurring in part and concurring in judgment).
+
+															Eventually, that uncertainty demanded this
+Court’s attention. In McNally v. United States,
+483 U.S.
+350 (1987), the Court held that, while §1341
+“clearly protects property rights,” it does not protect
+more abstract interests like a right to “honest
+. . . government.” Id., at 355, 356.
+McNally rested, in no small part, on vagueness concerns. Any
+other interpretation, the Court emphasized, would leave the
+law’s “outer boundaries ambiguous.” Id.,
+at 360. If Congress wanted to extend the law to protect more than
+property rights, the Court added, “it must speak more clearly
+than it has.” Ibid.
+
+															Soon Congress did speak. It enacted §1346,
+which now defines the phrase “scheme or artifice to
+defraud” to include “a scheme or artifice to deprive
+another of the intangible right of honest services.” In one
+sense, the new law did offer clarity. It dispelled any doubt about
+whether Congress intended the mail-fraud statute (and later the
+wire-fraud statute, §1343) to protect a right to “honest
+services.” But in another sense, the law clarified nothing.
+Congress did not address McNally’s concern that the
+phrase “honest-services fraud” is unworkably
+vague. Nothing in the new law attempted to resolve when the
+duty of honest services arises, what sources of law create that
+duty, or what amounts to a breach of it. Nor did the new law
+cross-reference any portion of the federal criminal code that might
+have lent clarity to the concept.
+
+															These problems resurfaced in Skilling.
+There, a majority of the Court acknowledged that a “vagueness
+challenge [to §1346] ha[d] force.” 561 U. S., at
+405. But instead of “throw[ing] out the statute as
+irremediably vague,” the majority elected to fill in some of
+the blanks. Id., at 403–404. To that end, the majority
+“look[ed] to the doctrine” of honest-services fraud as
+it had developed in the lower courts “in pre-McNally
+cases.” Id., at 404. Recognizing the many internal
+tensions in that line of cases, the majority attempted to
+“pare that body of precedent down to its core.”
+Ibid. What exactly falls within that “core”? The
+majority could not say. All it could muster was that, “[i]n
+the main,” honest-services convictions had involved
+“fraudulent schemes to deprive another of honest services
+through bribes or kickbacks supplied by a third party who had not
+been deceived.” Ibid.
+
+															Justice Scalia, Justice Kennedy, and Justice
+Thomas declined to participate in Skilling’s rescue
+mission. They saw the Court’s decision as an act of
+“not interpretation but invention.” Id., at 422
+(opinion of Scalia, J.). Nothing in the statute, they observed,
+confined breaches of the duty of honest services to bribes or
+kickbacks. Indeed, not a single lower court had understood the
+concept to be limited in that way. Id., at 423. Nor could
+the dissenters find anything in the judicial power permitting them
+to “replac[e] a vague criminal standard that Congress adopted
+with a more narrow one (included within the vague one).”
+Id., at 422.
+
+															Even on its own terms, the dissenters noted, the
+majority’s reconstruction of the statute failed “to
+eliminate [its] vagueness.” Id., at 421. The majority
+had not attempted to define what constitutes a breach of the
+“ ‘honest services’ obligation,” but sought
+to identify only conduct that fell within its “core.”
+Ibid. Nor had the majority done anything to “solve the
+most fundamental indeterminacy” in honest-services-fraud
+theory, ibid., for nothing in its decision explained what
+kinds of fiduciary relationships are sufficient to trigger a duty
+of honest services in the first place. Is the duty of honest
+services limited “to public officials” serving the
+government? Ibid. Does it also apply “to private
+individuals who contract with the public?” Ibid. Or
+does it apply to “everyone” who owes some sort of
+fiduciary responsibility to others, including (say) a corporate
+officer? Ibid. What source of law, too, should a court
+consult to answer these questions? Must a fiduciary duty arise from
+positive state or federal law, or can it arise from general trust
+law, “a corpus juris festooned with various
+duties”? Id., at 417–418. All these questions,
+the dissenters observed, had long divided lower courts and remained
+unanswered.
+
+															Today, the Court returns to these quandaries.
+The jury instructions in this case sought to identify at least one
+instance when a duty of honest services arises—namely, when a
+private individual has “ ‘dominated and controlled
+any governmental business’ ” and
+“ ‘people working in the government actually
+relied on him because of a special relationship he had with the
+government.’ ” Ante, at 9–10. But
+that formulation, the Court holds, is “too vague” to
+pass constitutional muster. Ante, at 10. That is so,
+the Court reasons, because it could result in the conviction of
+anyone whose “clout exceeds some ill-defined
+threshold” and thus sweep in “effective
+lobbyists” exercising their First Amendment right to petition
+the government. Ibid. The Court also pauses briefly to
+address two alternative tests the government suggests for defining
+when a duty of honest services may attach. But the Court takes no
+view on the first and rejects the second. Ante, at
+11–12. In the end, we may now know a little bit more about
+when a duty of honest services does not arise, but we still
+have no idea when it does.
+
+															It’s a situation that leaves prosecutors
+and lower courts in a bind. They must continue guessing what kind
+of fiduciary relationships this Court will find sufficient to give
+rise to a duty of honest services. For them, it is back to the
+drawing board in their indictments and their jury instructions. But
+they are not the main victims here. That plight belongs to private
+citizens. In this country, a criminal law is supposed to provide
+“ordinary people fair notice of the conduct it
+punishes.” Johnson v. United States, 576 U.S.
+591, 595 (2015); see also Connally v. General Constr.
+Co., 269 U.S.
+385, 391 (1926). Yet even 80 years after lower courts began
+experimenting with the honest-services-fraud theory, no one can say
+what sort of fiduciary relationship is enough to sustain a federal
+felony conviction and decades in federal prison.
+
+															To be sure, I cannot fault the Court for the
+problem. The difficulty here stems from the statute and the lower
+court decisions that inspired it. I have no doubt that if all nine
+Justices put our heads together, we could rewrite §1346 to
+provide fair notice and minimize the risk of uneven enforcement. I
+have no doubt, too, that we could find a hook for any such rule
+somewhere in the morass of pre-McNally lower-court case law.
+Maybe, too, that is the path we are on, effectively writing this
+law bit by bit in decisions spanning decades with the help of
+prosecutors and lower courts who present us with one option after
+another. But that is not a path the Constitution tolerates. Under
+our system of separated powers, the Legislative Branch must do the
+hard work of writing federal criminal laws. Congress cannot give
+the Judiciary uncut marble with instructions to chip away all that
+does not resemble David. See United States v. Reese,
+92 U.S.
+214, 221 (1876) (“It would certainly be dangerous if the
+legislature could set a net large enough to catch all possible
+offenders, and leave it to the courts to step inside and say who
+could be rightfully detained, and who should be set at
+large”); United States v. Wiltberger, 5 Wheat.
+76, 95 (1820) (Marshall, C. J.) (“It is the legislature,
+not the Court, which is to define a crime, and ordain its
+punishment”).
+
+															Doubtless, Congress had high and worthy
+intentions when it enacted §1346. But it must do more than
+invoke an aspirational phrase and leave it to prosecutors and
+judges to make things up as they go along. The Legislature must
+identify the conduct it wishes to prohibit. And its prohibition
+must be knowable in advance—not a lesson to be learned by
+individuals only when the prosecutor comes calling or the judge
+debuts a novel charging instruction. Perhaps Congress will someday
+set things right by revising §1346 to provide the clarity it
+desperately needs. Until then, this Court should decline further
+invitations to invent rather than interpret this law.
+
+													

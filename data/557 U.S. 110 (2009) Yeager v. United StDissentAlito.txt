@@ -1,0 +1,74 @@
+::SCDB_caseID:: 2008-072
+::decision_cite:: 557 U.S. 110 (2009)
+::decision_name::  Yeager v. United States
+::decision_year:: 2009
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+
+ALITO, J., DISSENTING
+YEAGER V. UNITED STATES
+557 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NO. 08-67
+
+
+
+
+
+															F. SCOTT YEAGER, PETITIONER v. UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[June 18, 2009]
+
+
+
+															   Justice Alito, with whom Justice Scalia and Justice Thomas join, dissenting.
+
+															
+   I join Justice Scalia’s dissenting opinion.  When a jury acquits on some counts but cannot reach agreement on others, I do not think that the Double Jeopardy Clause precludes retrial on the “hung” counts.
+
+															
+
+   As a result of today’s decision, however, the law is now to the contrary, and I write separately to note that the Court’s holding makes it imperative that the doctrine of issue preclusion be applied with the rigor prescribed in Ashe v. Swenson, 397 U. S. 436 (1970).  Loose application of the doctrine will lead to exceedingly complicated and protracted litigation, both in the trial court and on appeal, and may produce unjust results.
+
+															
+
+   Ashe made it clear that an acquittal on one charge precludes a subsequent trial on a different charge only if “a rational jury” could not have acquitted on the first charge without finding in the defendant’s favor on a factual issue that the prosecution would have to prove in order to convict in the later trial.  Id., at 444.  This is a demanding standard.  The second trial is not precluded simply because it is unlikely—or even very unlikely—that the original jury acquitted without finding the fact in question.  Only if it would have been irrational for the jury to acquit without finding that fact is the subsequent trial barred.  And the defendant has the burden of showing that “the issue whose relitigation he seeks to foreclose was actually decided in the first proceeding.”  Dowling v. United States, 493 U. S. 342, 350 (1990).
+
+															
+
+   The situation presented in a case like the one now before us—where the jury acquits on some counts but cannot reach a verdict on others—calls for special care in the application of the Ashe standard.  In such a situation, the conclusion that the not-guilty verdicts preclude retrial on the hung counts necessarily means that the jury did not act rationally.  But courts should begin with the presumption that a jury’s actions can rationally be reconciled.  In an analogous situation—where it is claimed that a verdict must be set aside on the ground that the findings set out in a jury’s answers to special interrogatories are inconsistent—“it is the duty of the courts to attempt to harmonize the answers, if it is possible under a fair reading of them: ‘Where there is a view of the case that makes the jury’s answers to special interrogatories consistent, they must be resolved that way.’ ”  Gallick v. Baltimore & Ohio R. Co., 372 U. S. 108, 119 (1963) (quoting Atlantic & Gulf Stevedores, Inc. v. Ellerman Lines, Ltd., 369 U. S. 355, 364 (1962)).  A similar approach is appropriate here.
+
+															
+
+   In the present case, there is reason to question whether the Ashe standard was met.  It is clear that the fraud counts required proof of an element not necessary for conviction on the insider trading charge, namely, that petitioner “caused” material misstatements or omissions to be made at the January 20, 2000, analyst conference and in the press releases that formed the basis for the wire fraud counts.  See App. 107 (jury instruction on count two (securities fraud)), 118 (jury instruction on counts three through six (wire fraud)).  And it is far from apparent that the jury’s not-guilty verdict on the fraud counts could not have rationally been based on a determination that this element—that petitioner caused the material misstatements or omissions—was not proved beyond a reasonable doubt.
+
+															
+
+   The District Court Judge, who was of course familiar with the trial evidence, analyzed this issue as follows:
+
+															“The theory of the defense, evident in closing argument and the direct testimony of Defendant Yeager, argued that Defendant Yeager did not participate in the crafting of the statements in the press releases; did not participate in the creation of slides or statements presented at the analysts conference; and did not reach an agreement with any other person to make false, misleading, or deceptive statements or material omissions of fact.”  App. to Pet. for Cert. 55a.
+
+															
+   The record provides support for the District Court’s analysis.  In his summation, petitioner’s attorney argued that “Scott Yeager had nothing to do with Counts 3 to 6 [the securities and wire fraud counts].”  80 Tr. 13384.  With respect to the January 20, 2000, conference that provided the basis for the securities fraud count, petitioner’s attorney emphasized that his client “didn’t say anything.”  Id., at 13365.  Counsel reiterated that petitioner “didn’t make a presentation.  He didn’t make a statement.”  Ibid.; id., at 13394.  Counsel’s summation on this point summarized portions of petitioner’s trial testimony in which he minimized his involvement in matters relating to the conference.  See 52 id., at 9932–9933, 9938–9947, and 9953.
+
+															
+
+   With respect to the press releases on which the wire fraud counts were based, petitioner’s attorney argued: “Scott Yeager had nothing to do with the press releases.”  80 id., at 13384.  “We didn’t make any press releases.”  Id., at 13394.  “Show me the evidence.  Show me where Scott participated in a press release.”  Id., at 13406.  Again, counsel’s comments in summation tracked petitioner’s testimony denying participation in the press releases.  See 52 id., at 9911, 9913; 80 id., at 13384.
+
+															
+
+   The above portions of the record suggest that a rational jury might have found that petitioner did not “cause” the misstatements or omissions at the conference or in the press releases.  In light of the length and complexity of the trial record, I am not in a position to say with certainty that the Ashe standard was not met in this case, but the brief discussion of this question in the opinion of the Court of Appeals does not satisfactorily show that the District Court’s analysis was incorrect.  Concluding that the not-guilty verdict on the securities fraud count could not have been based on a finding that respondent did not cause the misstatements or omissions at the conference, the Court of Appeals stated that petitioner “did not dispute” that he “helped shape the message of the conference presentations.”  App. to Pet. for Cert. 20a.  But there is surely tension between that statement and the previously mentioned portions of petitioner’s trial testimony and the defense summation.
+
+															
+
+   Because the Court of Appeals held that Ashe does not apply when a jury acquits on some counts and hangs on others, that court’s analysis of the possible grounds for the jury’s securities fraud verdict was not necessary to support the court’s decision.  Now that this Court has held that Ashe does govern in this context, a reexamination of
+the possible grounds for the fraud count acquittals is
+warranted.
+
+
+
+													

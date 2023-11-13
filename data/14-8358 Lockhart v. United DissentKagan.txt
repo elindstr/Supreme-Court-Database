@@ -1,0 +1,195 @@
+::SCDB_caseID:: 2015-012
+::decision_cite:: 14-8358
+::decision_name::  Lockhart v. United States
+::decision_year:: 2016
+::opinion_author:: Kagan
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 14–8358
+
+															_________________
+
+															AVONDALE LOCKHART, PETITIONER v.UNITED STATES
+
+															on writ of certiorari to the united states court of appeals for the second circuit
+
+															[March 1, 2016]
+
+															
+
+															Justice Kagan, with whom Justice Breyer joins, dissenting.
+
+															Imagine a friend told you that she hoped to meet “an actor, director, or producer involved with the new Star Wars movie.”  You would know immediately that she wanted to meet an actor from the Star Wars cast—not an actor in, for example, the latest Zoolander.  Suppose a real estate agent promised to find a client “a house, condo, or apartment in New York.”  Wouldn’t the potential buyer be annoyed if the agent sent him information about condos in Maryland or California?  And consider a law imposing a penalty for the “violation of any statute, rule, or regulation relating to insider trading.”  Surely a person would have cause to protest if punished under that provision for violating a traffic statute.  The reason in all three cases is the same: Everyone understands that the modifying phrase—“involved with the new Star Wars movie,” “in New York,” “relating to insider trading”—applies to each term in the preceding list, not just the last.
+
+															That ordinary understanding of how English works, in speech and writing alike, should decide this case.  Avondale Lockhart is subject to a 10-year mandatory minimum sentence for possessing child pornography if, but only if, he has a prior state-law conviction for “aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward.”
+
+18 U. S. C. §2252(b)(2).  The Court today, relying on what is called the “rule of the last antecedent,” reads the phrase “involving a minor or ward” as modifying only the final term in that three-item list.  But properly read, the modifier applies to each of the terms—just as in the examples above.  That normal construction finds support in uncommonly clear-cut legislative history, which states in so many words that the three predicate crimes all involve abuse of children.  And if any doubt remained, the rule of lenity would command the same result: Lockhart’s prior conviction for sexual abuse of an adult does not trigger §2252(b)(2)’s mandatory minimum penalty.  I respectfully dissent.
+
+															I
+
+															Begin where the majority does—with the rule of the last antecedent.  See ante, at 3.  This Court most fully discussed that principle in Barnhart v. Thomas,
+
+540 U. S. 20 (2003)
+, which considered a statute providing that an individual qualifies as disabled if “he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy.”  Id., at 21–22 (quoting
+
+42 U. S. C. §423(d)(2)(A)) (emphasis added).  The Court held, invoking the last-antecedent rule, that the italicized phrase modifies only the term “substantial gainful work,” and not the term “previous work” occurring earlier in the sentence.  Two points are of especial note.  First, Barnhart contained a significant caveat: The last-antecedent rule “can assuredly be overcome by other indicia of meaning.”  540 U. S., at 26; see, e.g., Nobelman v. American Savings Bank,
+
+508 U. S. 324
+–331 (1993) (refusing to apply the rule when a contrary interpretation was “the more reasonable one”).  Second, the grammatical structure of the provision in Barnhart is nothing like that of the statute in this case: The modifying phrase does not, as here, immediately follow a list of multiple, parallel terms.  That is true as well in the other instances in which this Court has followed the rule.  See, e.g., Jama v. Immigration and Customs Enforcement,
+
+543 U. S. 335 (2005)
+; Batchelor v. United States,
+
+156 U. S. 426 (1895)
+; Sims Lessee v. Irvine, 3 Dall. 425 (1799).
+
+															Indeed, this Court has made clear that the last-antecedent rule does not generally apply to the grammatical construction present here: when “[t]he modifying clause appear[s] . . . at the end of a single, integrated list.”  Jama, 543 U. S., at 344, n. 4.  Then, the exact opposite is usually true: As in the examples beginning this opinion, the modifying phrase refers alike to each of the list’s terms.  A leading treatise puts the point as follows: “When there is a straightforward, parallel construction that involves all nouns or verbs in a series,” a modifier at the end of the list “normally applies to the entire series.”  A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 147 (2012); compare id., at 152 (“When the syntax involves something other than [such] a parallel series of nouns or verbs,” the modifier “normally applies only to the nearest reasonable referent”).  That interpretive practice of applying the modifier to the whole list boasts a fancy name—the “series-qualifier canon,” see Black’s Law Dictionary 1574 (10th ed. 2014)—but, as my opening examples show, it reflects the completely ordinary way that people speak and listen, write and read.[1]
+
+															Even the exception to the series-qualifier principle is intuitive, emphasizing both its common-sensical basis and its customary usage.  When the nouns in a list are so disparate that the modifying clause does not make sense when applied to them all, then the last-antecedent rule takes over.  Suppose your friend told you not that she wants to meet “an actor, director, or producer involved with Star Wars,” but instead that she hopes someday to meet “a President, Supreme Court Justice, or actor involved with Star Wars.”  Presumably, you would know that she wants to meet a President or Justice even if that person has no connection to the famed film franchise.  But so long as the modifying clause “is applicable as much to the first and other words as to the last,” this Court has stated, “the natural construction of the language demands that the clause be read as applicable to all.”  Paroline v. United States, 572 U. S. ___, ___ (2014) (slip op., at 9) (quoting Porto Rico Railway, Light & Power Co. v. Mor,
+
+253 U. S. 345,
+348 (1920)
+).  In other words, the modifier then qualifies not just the last antecedent but the whole series.
+
+															As the majority itself must acknowledge, see ante, at 7–8, this Court has repeatedly applied the series-qualifier rule in just that manner.  In Paroline, for example, this Court considered a statute requiring possessors of child pornography to pay restitution to the individuals whose abuse is recorded in those materials.  The law defines such a victim’s losses to include “medical services relating to physical, psychiatric, or psychological care; physical and occupational therapy or rehabilitation; necessary transportation, temporary housing, and child care expenses; lost income; attorneys’ fees, as well as other costs incurred; and any other losses suffered by the victim as a proximate result of the offense.”  18 U. S. C. §§2259(b)(3)(A)–(F) (lettering omitted).  The victim bringing the lawsuit invoked the last-antecedent rule to argue that the modifier at the end of the provision—“as a proximate result of the offense”—pertained only to the last item in the preceding list, and not to any of the others.  See 572 U. S., at ___ (slip op., at 9).  But the Court rejected that view: It recited the “canon[ ] of statutory construction,” derived from the “natural” use of language, that “[w]hen several words are followed by a clause” that can sensibly modify them all, it should be understood to do so.  Ibid.  Thus, the Court read the proximate-cause requirement to cover each and every term in the list.
+
+															United States v. Bass,
+
+404 U. S. 336 (1971)
+, to take just one other example, followed the same rule.  There, the Court confronted a statute making it a crime for a convicted felon to “receive[ ], possess[ ], or transport[ ] in commerce or affecting commerce . . . any firearm.”  18 U. S. C. App. §1202(a) (1970 ed.) (current version at
+
+18 U. S. C. §922(g)).  The Government contended that the modifying clause—“in commerce or affecting commerce”—applied only to“transport” and not to “receive” or “possess.”  But the Court rebuffed that argument.  “[T]he natural construction of the language,” the Court recognized, “suggests that the clause ‘in commerce or affecting commerce’ qualifies all three antecedents in the list.”  404 U. S., at 339 (some internal quotation marks omitted).  Relying on longstanding precedents endorsing such a construction, the Court explained: “Since ‘in commerce or affecting commerce’ undeniably applies to at least one antecedent, and since it makes sense with all three, the more plausible construction here is that it in fact applies to all three.”  Id., at 339–340 (citing United States v. Standard Brewery, Inc.,
+
+251 U. S. 210,
+218 (1920)
+; Porto Rico Railway, 253 U. S., at 348); see also, e.g., Jones v. United States,
+
+529 U. S. 848,
+853 (2000)
+ (similarly treating the interstate commerce element in the phrase “any building, vehicle, or other real or personal property used in interstate or foreign commerce” as applying to buildings and vehicles).
+
+															That analysis holds equally for §2252(b)(2), the sentencing provision at issue here.  The relevant language—“aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward”—contains a “single, integrated list” of parallel terms (i.e., sex crimes) followed by a modifying clause.  Jama, 543 U. S., at 344, n. 4.  Given the close relation among the terms in the series, the modifier makes sense “as much to the first and other words as to the last.”  Paroline, 572 U. S., at ___ (slip op., at 9).  In other words, the reference to a minor or ward applies as well to sexual abuse and aggravated sexual abuse as to abusive sexual conduct.  (The case would be different if, for example, the statute established a mandatory minimum for any person previously convicted of “arson, receipt of stolen property, or abusive sexual conduct involving a minor or ward.”)  So interpreting the modifier “as applicable to all” the preceding terms is what “the natural construction of the language” requires.  Ibid.; Bass, 404 U. S., at 339.
+
+															The majority responds to all this by claiming that the “inelegant phrasing” of §2252(b)(2) renders it somehow exempt from a grammatical rule reflecting “how people ordinarily” use the English language.  Ante, at 10.  But to begin with, the majority is wrong to suggest that the series-qualifier canon is only about “colloquial” or “conversational” English.  Ibid.  In fact, it applies to both speech and writing, in both their informal and their formal varieties.  Here is a way to test my point: Pick up a journal, or a book, or for that matter a Supreme Court opinion—most of which keep “everyday” colloquialisms at a far distance.  Ibid.  You’ll come across many sentences having the structure of the statutory provision at issue here: a few nouns followed by a modifying clause.  And you’ll discover, again and yet again, that the clause modifies every noun in the series, not just the last—in other words, that even (especially?) in formal writing, the series-qualifier principle works.[2]  And the majority is wrong too in suggesting that the “odd repetition” in §2252(b)(2)’s list of state predicates causes the series-qualifier principle to lose its force.  Ibid.  The majority’s own made-up sentence proves that much.  If a friend asked you “to get her tart lemons, sour lemons, or sour fruit from Mexico,” you might well think her list of terms perplexing: You might puzzle over the difference between tart and sour lemons, and wonder why she had specifically mentioned lemons when she apparently would be happy with sour fruit of any kind.  But of one thing, you would have no doubt: Your friend wants some produce from Mexico; it would not do to get her, say, sour lemons from Vietnam.  However weird the way she listed fruits—or the way §2252(b)(2) lists offenses—the modifying clause still refers to them all.
+
+															The majority as well seeks refuge in the idea that applying the series-qualifier canon to §2252(b)(2) would violate the rule against superfluity.  See ante, at 9–10.  Says the majority: “Any conduct that would qualify as ‘aggravated sexual abuse . . . involving a minor or ward’ or ‘sexual abuse . . . involving a minor or ward’ would also qualify as ‘abusive sexual conduct involving a minor or ward.’ ”  Ante, at 9.  But that rejoinder doesn’t work.  “[T]he canon against superfluity,” this Court has often stated, “assists only where a competing interpretation gives effect to every clause and word of a statute.”  Microsoft Corp. v. i4i Ltd. Partnership,
+
+564 U. S. 91,
+106 (2011)
+ (internal quotation marks omitted); see, e.g., Bruesewitz v. Wyeth LLC,
+
+562 U. S. 223,
+236 (2011)
+.  And the majority’s approach (as it admits, see ante, at 9) produces superfluity too—and in equal measure.  Now (to rearrange the majority’s sentence) any conduct that would qualify as “abusive sexual conduct involving a minor or ward” or “aggravated sexual abuse” would also qualify as “sexual abuse.”  In other words, on the majority’s reading as well, two listed crimes become subsets of a third, so that the three could have been written as one.  And indeed, the majority’s superfluity has an especially odd quality, because it relates to themodifying clause itself: The majority, that is, makes the term “involving a minor or ward” wholly unnecessary.  Remember the old adage about the pot and the kettle?  That is why the rule against superfluity cannot excuse the majority from reading §2252(b)(2)’s modifier, as ordinary usage demands, to pertain to all the terms in the preceding series.[3]
+
+															II
+
+															Legislative history confirms what the natural construction of language shows: Each of the three predicate of-fenses at issue here must involve a minor.  The list of those crimes appears in two places in §2252(b)—both in§2252(b)(1), which contains a sentencing enhancement for those convicted of distributing or receiving child pornography, and in §2252(b)(2), which includes a similar enhancement for those (like Lockhart) convicted of possessing such material.  Descriptions of that list of offenses, made at the time Congress added it to those provisions, belie the majority’s position.
+
+															The relevant language—again, providing for a manda-tory minimum sentence if a person has a prior state-lawconviction for “aggravated sexual abuse, sexual abuse, or abusive sexual conduct involving a minor or ward”—first made its appearance in 1996, when Congress inserted it into §2252(b)(1).  See Child Pornography Prevention Act of 1996, §121(5),
+
+110Stat.
+3009–30,
+
+18 U. S. C. §2251 note.  At that time, the Senate Report on the legislation explained what the new language meant: The mandatory minimum would apply to an “offender with a prior conviction under . . . any State child abuse law.”  S. Rep. No. 104–358, p. 9 (1996) (emphasis added).  It is hard to imagine saying any more directly that the just-added state sexual-abuse predicates all involve minors, and minors only.[4]
+
+															Two years later, in urging Congress to include the same predicate offenses in §2252(b)(2), the Department of Justice (DOJ) itself read the list that way.  In a formal bill comment, DOJ noted that proposed legislation on child pornography failed to fix a statutory oddity: Only §2252(b)(1), and not §2252(b)(2), then contained the state predicates at issue here.  DOJ described that discrepancy as follows: Whereas §2252(b)(1) provided a penalty enhancement for “individuals charged with receipt or distribution of child pornography and who have prior state convictions for child molestation,” the adjacent §2252(b)(2) contained no such enhancement for those “charged with possession of child pornography who have prior convictions for child abuse.”  H. R. Rep. No. 105–557, p. 31 (1998) (emphasis added).  That should change, DOJ wrote: A possessor of child pornography should also be subject to a 2-year mandatory minimum if he had “a prior conviction for sexual abuse of a minor.”  Ibid. (emphasis added).  DOJ thus made clear that the predicate offenses it recom-mended adding to §2252(b)(2)—like those already in§2252(b)(1)—related not to all sexual abuse but only to sexual abuse of children.  And Congress gave DOJ just what it wanted: Soon after receiving the letter, Congress added the language at issue to §2252(b)(2), resulting in the requested 2-year minimum sentence.  See Protection of Children From Sexual Predators Act of 1998, §202(a)(2),
+
+112Stat.
+2977,
+
+18 U. S. C. §1 note.  So every indication, in 1998 no less than in 1996, was that all the predicate crimes relate to children alone.
+
+															The majority’s response to this history fails to blunt its force.  According to the majority, the reference to “any state child abuse law” in the Senate Report is simply an “incomplete[ ] descri[ption]” of “the state sexual-abuse predicates.”  Ante, at 12.  And similarly, the majority ventures, the DOJ letter was merely noting “one of the provision’s many salient features.”  Ibid.  But suppose that you (like the Senate Report’s or DOJ letter’s authors) had to paraphrase or condense the statutory language at issue here, and that you (like the majority) thought it captured all sexual-abuse crimes.  Would you then use the phrase “any state child abuse law” as a descriptor (as the Senate Report did)?  And would you refer to the whole list of state predicates as involving “sexual abuse of a minor” (as the DOJ letter did)?  Of course not.  But you might well use such shorthand if, alternatively, you understood the statutory language (as I do) to cover only sexual offenses against children.  And so the authors of the Report and letter did here.  Such documents of necessity abridge statutory language; but they do not do so by conveying an utterly false impression of what that language is most centrally about—as by describing a provision that (supposedly) covers all sexual abuse as one that reaches only child molestation.[5]
+
+															Further, the majority objects that the Senate Report’s (and DOJ letter’s) drafters did “nothing to explain why” Congress would have limited §2252(b)’s state sexual-abuse predicates to those involving children when the provision’s federal sexual-abuse predicates (as all agree) are not so confined.  Ante, at 13 (emphasis in original).  But Congress is under no obligation to this Court to justify its choices.  (Nor is DOJ obliged to explain them to Congress itself.)  Rather, the duty is on this Court to carry out those decisions, regardless of whether it understands all that lay behind them.  The Senate Report (and DOJ letter too) says what it says about §2252(b)’s meaning, confirming in no uncertain terms the most natural reading of the statutory language.  Explanation or no, that is more than sufficient.
+
+															And the majority (as it concedes) cannot claim that Congress simply must have wanted §2252(b)(2)’s federal and state predicates to be the same.  See ante, at 11 (“[O]ur construction of §2252(b)(2)’s sexual-abuse predicates does not rely on a general assumption that Congress sought full parity between all of the federal and state predicates”).  That is because both §2252(b)(1) and §2252(b)(2) contain many federal predicates lacking state matches.  Under §2252(b)(1), for example, a person is subject to a mandatory minimum if he previously violated 
+
+18 U. S. C. §1591, which prohibits “[s]ex trafficking of children or [sex trafficking] by force, fraud, or coercion.”  But if the prior conviction is under state law, only sex trafficking of children will trigger that minimum; trafficking of adults, even if by force, fraud, or coercion, will not.  That mismatch—trafficking of both adults and children on the federal side, trafficking of children alone on the state side—precisely parallels my view of the sexual-abuse predicates at issue here.  More generally, ten federal obscenity crimes trigger both §2252(b)(1)’s and §2252(b)(2)’s enhanced punishments; but equivalent state crimes do not do so.  And five federal prostitution offenses prompt mandatory minimums under those provisions; but no such state offenses do.  Noting those disparities, the Government concedes: “[W]hen Congress adds state-law offenses to the lists of predicate offenses triggering child-pornography recidivist enhancements, it sometimes adds state offenses corresponding to only a subset of the federal offenses” previously included.  Brief for United States 43.  Just so.  And this Court ought to enforce that choice.
+
+															III
+
+															As against the most natural construction of §2252(b)(2)’s language, plus unusually limpid legislative history, the majority relies on a structural argument.  See ante, at 5–7.  The federal sexual-abuse predicates in §2252(b)(2), the majority begins, are described as crimes “under . . . Chapter 109A,” and that chapter “criminalizes a range of sexual-abuse offenses involving adults or minors.”  Ante, at 5–6(emphasis in original).  Once again, the majority cannot say that this fact alone resolves the question presented, given the many times (just discussed) that Congress opted to make federal crimes, but not equivalent state crimes, predicates for §2252(b)(2)’s mandatory minimums.  But the majority claims to see more than that here: The headings of the sections in Chapter 109A, it contends, “mirror precisely the order . . . and nearly precisely the words used to describe” the state predicate crimes at issue.  Ante, at 6.  The majority “cannot state with certainty,” but hazards a guess that Congress thus used Chapter 109A “as a template for the list of state predicates”—or, otherwise said, that Congress “followed” the “structure and language of Chapter 109A” in defining those state-law offenses.  Ibid.
+
+															But §2252(b)(2)’s state predicates are not nearly as similar to the federal crimes in Chapter 109A as the majority claims.  That Chapter includes the following offenses: “Aggravated sexual abuse,” §2241, “Sexual abuse,”§2242, “Sexual abuse of a minor or ward,” §2243, and “Abusive sexual contact,” §2244.  The Chapter thus contains four crimes—one more than found in §2252(b)(2)’s list of state offenses.  If the drafters of §2252(b)(2) meant merely to copy Chapter 109A, why would they have left out one of its crimes?  The majority has no explanation.[6]  And there is more.  Suppose Congress, for whatever hard-to-fathom reason, wanted to replicate only Chapter 109A’s first three offenses.  It would then have used the same language, referring to “the laws of any State relating to aggravated sexual abuse, sexual abuse, or sexual abuse of a minor or ward.”  (And had Congress used that language, the phrase “of a minor or ward” would clearly have applied only to the third term, to differentiate it from the otherwise identical second.)  But contra the majority, see ante, at 6, 9–10, that is not what §2252(b)(2)’s drafters did.  Rather than repeating the phrase “sexual abuse,” they used the phrase “abusive sexual conduct” in the list’s last term—which echoes, if anything, the separate crime of “abusive sexual contact” (included in Chapter 109A’s fourth offense, as well as in other places in the federal code, see, e.g., 
+
+10 U. S. C. §920(d)).  The choice of those different words indicates, yet again, that Congress did not mean, as the majority imagines, to duplicate Chapter 109A’s set of offenses.
+
+															Indeed, even the Government has refused to accept the notion that the federal and state sexual-abuse predicates mirror each other.  The Government, to be sure, has argued that it would be “anomalous” if federal, but notstate, convictions for sexually abusing adults trigger§2252(b)(2)’s enhanced penalty.  Brief for United States 23.  (I have discussed that more modest point above: Anomalous or not, such differences between federal and state predicates are a recurring feature of the statute.  See supra, at 12–13.)  But the Government, in both briefing and argument, rejected the idea that Congress wanted the list of state predicates in §2252(b)(2) to mimic the crimes in Chapter 109A; in other words, it denied that Congress meant for the state and federal offenses to bear the same meaning.  See Brief for United States 22, n. 8; Tr. of Oral Arg. 26.  Even in the face of sustained questioning from Members of this Court, the Government held fast to that position.  See, e.g., Tr. of Oral Arg. 25–26 (Justice Alito: “[W]hy do you resist the argument that what Congress was doing was picking up basically the definitions of the Federal offenses [in Chapter 109A] that are worded almost identically?”  Assistant to the Solicitor General: “[W]e don’t think that Congress was trying” to do that).  The listed state and federal offenses, the Government made clear, are not intended to be copies.
+
+															The majority seems to think that view somehow consistent with its own hypothesis that Chapter 109A served as a “template” for §2252(b)(2)’s state predicates, ante, at 6; in responding to one of Lockhart’s arguments, the majority remarks that the state predicates might have a “generic” meaning, distinct from Chapter 109A’s, ante, at 14.  But if that is so, the majority’s supposed template is not much of a template after all.  The predicate state offenses would “follow” or “parallel” Chapter 109A in a single respect, but not in any others—that is, in including sexual abuse of adults, but not in otherwise defining wrongful sexual conduct (whether concerning adults or children).  Ante, at 6.  The template, one might say, is good for this case and this case only.  And the majority has no theory for why that should be so: It offers not the slimmest explanation of how Chapter 109A can resolve today’s question but not the many issues courts will face in the future involving the meaning of §2252(b)(2)’s state predicate offenses.  That is because no rationale would make sense.  The right and consistent view is that Chapter 109A, like the other federal predicates in §2252(b)(2), is across-the-board irrelevant in defining that provision’s state predicates.  Thus, the federal chapter’s four differently worded crimes are independent of the three state offenses at issue here—all of which, for the reasons I’ve given, must “involv[e] a minor or ward.”
+
+															IV
+
+															Suppose, for a moment, that this case is not as clear as I’ve suggested.  Assume there is no way to know whether to apply the last-antecedent or the series-qualifier rule.  Imagine, too, that the legislative history is not quite so compelling and the majority’s “template” argument not quite so strained.  Who, then, should prevail?
+
+															This Court has a rule for how to resolve genuine ambiguity in criminal statutes: in favor of the criminal defendant.  As the majority puts the point, the rule of lenity insists that courts side with the defendant “when the ordinary canons of statutory construction have revealed no satisfactory construction.”  Ante, at 14 (citing Callanan v. United States,
+
+364 U. S. 587,
+596 (1961)
+); see also Bifulco v. United States,
+
+447 U. S. 381,
+387 (1980)
+ (holding that the rule of lenity “applies not only to interpretations of the substantive ambit of criminal prohibitions, but also to the penalties they impose”).  At the very least, that principle should tip the scales in Lockhart’s favor, because nothing the majority has said shows that the modifying clause in §2252(b)(2) unambiguously applies to only the last term in the preceding series.
+
+															But in fact, Lockhart’s case is stronger.  Consider the following sentence, summarizing various points made above: “The series-qualifier principle, the legislative history, and the rule of lenity discussed in this opinion all pointin the same direction.”  Now answer the following question: Has only the rule of lenity been discussed in this opinion, or have the series-qualifier principle and the legislative history been discussed as well?  Even had you not read the preceding 16-plus pages, you would know the right answer—because of the ordinary way all of us use language.  That, in the end, is why Lockhart should win.Notes
+
+1
+
+
+		 The majority’s baseball example, see ante, at 4, reads the other way only because its three terms are not parallel.  The words “catcher” and “shortstop,” but not “pitcher,” are qualified separate and apart from the modifying clause at the end of the sentence: “Pitcher” thus calls for a modifier of its own, and the phrase “from the Kansas City Royals” answers that call.  Imagine the sentence is slightly reworded to refer to a “defensive catcher, quick-footed shortstop, or hard-throwing pitcher from the Kansas City Royals.”  Or, alternatively, suppose the sentence referred simply to a “catcher, shortstop, or pitcher from the Kansas City Royals.”  Either way, all three players must come from the Royals—because the three terms (unlike in the majority’s sentence) are a parallel series with a modifying clause at the end.
+	
+
+
+2
+
+
+		 Too busy to carry out this homework assignment?  Consider some examples (there are many more) from just the last few months of this Court’s work.  In OBB Personenverkehr AG v. Sachs, 577 U. S. ___, ___ (2015) (slip op., at 5–6), this Court described a lawsuit as alleging “wrongful arrest, imprisonment, and torture by Saudi police.”  In James v. Boise, 577 U. S. ___, ___ (2016) (per curiam) (slip op., at 2) (quoting Martin v. Hunter’s Lessee, 1 Wheat. 304, 348 (1816)), this Court affirmed that state courts must follow its interpretations of “the laws, the treaties, and the constitution of the United States.”  In Musacchio v. United States, 577 U. S. ___, ___ (2016) (slip op., at 8) (quoting Reed Elsevier, Inc. v. Muchnick,
+
+559 U. S. 154,
+166 (2010)
+), this Court noted that in interpreting statutes it looks to the “text, context, and relevant historical treatment of the provision at issue.”  In FERC v. Electric Power Supply Assn., 577 U. S. ___, ___ (2016) (slip op., at 15), this Court applied a statute addressing “any rule, regulation, practice, or contract affecting [a wholesale] rate [or] charge.”  And in Montanile v. Board of Trustees of Nat. Elevator Industry Health Benefit Plan, 577 U. S. ___, ___ (2016) (slip op., at 2), this Court interpreted an employee benefits plan requiring reimbursement “for attorneys’ fees, costs, expenses or damages claimed by the covered person.”  In each case, of course, the italicized modifying clause refers to every item in the preceding list.  That is because the series-qualifier rule reflects how all of us use language, in writing and in speech, in formal and informal contexts, all the time.
+	
+
+
+3
+
+
+		 The majority asserts that it has found, concealed within §2252(b)(2)’s structure, an “explanation” for its own superfluity, ante, at 9, but that claim, as I’ll soon show, collapses on further examination.  See infra, at 13–16.
+	
+
+
+4
+
+
+		 And it makes no difference that the Senate Report accompanied §2252(b)(1)’s, rather than §2252(b)(2)’s, amendment.  No one can possibly think (and the majority therefore does not try to argue) that the disputed language means something different in §2252(b)(2) than in its neighbor and model, §2252(b)(1).
+	
+
+
+5
+
+
+		 The majority tries to bolster its “incomplete description” claim by highlighting another summary statement in the Senate Report, but that reference merely illustrates my point.  In amending §2252(b)(1) (and later §2252(b)(2)), Congress added not only the child sexual-abuse predicates at issue here, but also a set of predicate state offenses relating to child pornography.  Specifically, Congress provided a mandatory minimum sentence for individuals previously convicted of the “production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography.”  Child Pornography Prevention Act, §121(5),
+
+110Stat.
+3009–30.  The Senate Report described those predicate crimes in an abbreviated fashion as “relating to the production, receipt or distribution of child pornography.”  S. Rep. No. 104–358, p. 9 (1996).  That synopsis doubtless leaves some things out, as any synopsis does; but no reader of the Report would be terribly surprised to see the fuller statutory list.  The same cannot be said of the phrase “any state child abuse law” if that in fact refers to laws prohibiting all rape, sexual assault, and similar behavior.
+	
+
+
+6
+
+
+		 In a footnote, the majority intimates that Chapter 109A contains only three crimes—but that reading is unambiguously wrong.  Unlike the fifth through eighth sections of that chapter (which the majority invokes to no purpose), the fourth—again, entitled “[a]busive sexual contact”—sets out an independent substantive offense, criminalizing acts not made illegal in the first three sections.  §§2244(a)–(c); see also
+
+42 U. S. C. §16911 (separately listing this offense in identifying who must register as a sex offender).  The majority, as noted above, gives no reason why Congress would have ignored that fourth crime had it been using Chapter 109A as a template.
+	
+
+

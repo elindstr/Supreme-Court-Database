@@ -1,0 +1,131 @@
+::SCDB_caseID:: 2016-009
+::decision_cite:: 15-927
+::decision_name::  SCA Hygiene Products Aktiebolag v. First Quality Baby Products, LLC
+::decision_year:: 2017
+::opinion_author:: Breyer
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–927
+
+															_________________
+
+															SCA HYGIENE PRODUCTS AKTIEBOLAG, et al., PETITIONERS v. FIRST QUALITY BABYPRODUCTS, LLC, et al.
+
+															on writ of certiorari to the united states court of appeals for the federal circuit
+
+															[March 21, 2017]
+
+															Justice Breyer, dissenting.
+
+															Laches is a doctrine that bars a plaintiff’s claim when there has been unreasonable, prejudicial delay in commencing suit.  See 1 D. Dobbs, Law of Remedies §2.3(5), p. 89 (2d ed. 1993).  The question before us is whether a court can apply this doctrine in a patent infringement action for damages brought within the statute of limitations.  The Court holds that a court cannot.  Laches, it says, is a “gap-filling doctrine,” generally applicable where there is no statute of limitations.  But the 1952 Patent Act contains a statute of limitations.  Hence there is “no gap to fill.”  Ante, at 5.
+
+															In my view, however, the majority has ignored the fact that, despite the 1952 Act’s statute of limitations, there remains a “gap” to fill.  See infra, at 2–3.  Laches fills this gap.  And for more than a century courts with virtual unanimity have applied laches in patent damages cases. Congress, when it wrote the 1952 statute, was aware of and intended to codify that judicial practice.  I fear that the majority, in ignoring this legal history, opens a new “gap” in the patent law, threatening harmful and unfair legal consequences.
+
+															I
+
+															Consider the relevant statutory language.  Section 286 of the Patent Act says: “Except as otherwise provided by law, no recovery shall be had for any infringement committed more than six years prior to the filing of the complaint or counterclaim for infringement in the action.”
+
+35 U. S. C. §286 (emphasis added).  Section 282 says what the word “otherwise” means.  It tells us that “unenforceability” shall be a defense “in any action involving the validity or infringement of a patent.”  §282(b) (emphasis added).
+
+															Two features of this statutory language are important.  First, the limitations provision, unlike those in many other statutes, does not set forth a period of time in which to sue, beginning when a claim accrues and then expiring some time later.  (The False Claims Act, for example, gives a plaintiff six years from the date of the violation or three years from the date of discovery to file his suit,
+
+31 U. S. C. §3731(b).)  Rather, it permits a patentee to sue at any time after an infringement takes place.  It simply limits damages to those caused within the preceding six years.  That means that a patentee, after learning of a possible infringement in year 1, might wait until year 10 or year 15 or year 20 to bring a lawsuit.  And if he wins, he can collect damages for the preceding six years of infringement.
+
+															This fact creates a gap.  Why?  Because a patentee might wait for a decade or more while the infringer (who perhaps does not know or believe he is an infringer) invests heavily in the development of the infringing product (of which the patentee’s invention could be only a small component), while evidence that the infringer might use to, say, show the patent is invalid disappears with time.  Then, if the product is a success, the patentee can bring his lawsuit, hoping to collect a significant recovery.  And if business-related circumstances make it difficult or impossible for the infringer to abandon its use of the patented invention (i.e., if the infringer is “locked in”), then the patentee can keep bringing lawsuits, say, in year 10 (collecting damages from years 4 through 10), in year 16 (collecting damages from years 10 through 16), and in year 20 (collecting any remaining damages).  The possibility of this type of outcome reveals a “gap.”  Laches works to fill the gap by barring recovery when the patentee unreasonably and prejudicially delays suit.
+
+															Second, the Patent Act’s language strongly suggests that Congress, when writing the statutory provisions before us, intended to permit courts to continue to use laches to fill this gap.  The statute says that there are “except[ions]” to its 6-year damages limitation rule.  It lists “unenforceability” as one of those exceptions.  At common law, the word “unenforceability” had a meaning that encompassed laches.  See, e.g., United States v. New Orleans Pacific R. Co.,
+
+248 U. S. 507,
+511 (1919)
+ (considering whether an agreement “had become unenforceable by reason of inexcusable laches”).  We often read statutes as incorporating common-law meanings.  See Neder v. United States,
+
+527 U. S. 1,
+21 (1999)
+.  And here there are good reasons for doing so.  For one thing, the principal technical drafter of the Patent Act (in a commentary upon which this Court has previously relied, e.g., Warner-Jenkinson Co. v. Hilton Davis Chemical Co.,
+
+520 U. S. 17,
+28 (1997)
+) stated that §282 was meant to codify “equitable defenses such as laches.”  P. Federico, Commentary on the New Patent Act, 35 U. S. C. A. 1, 55 (West 1954).  For another thing, there is a long history of prior case law that shows with crystal clarity that Congress intended the statute to keep laches as a defense.
+
+															II
+
+															The pre-1952 case law that I shall discuss is directly relevant because, as this Court has recognized, the 1952 Patent Act was primarily intended to codify existing law.  See Halo Electronics v. Pulse Electronics, Inc., 579 U. S. ___, ___ (2016) (slip op., at 4); accord, H. R. Rep. No. 1923, 82d Cong., 2d Sess., 3 (1952) (stating that the “main purpose” of the Patent Act was “codification and enactment” of existing law); 98 Cong. Rec. 9323 (1952) (drafter of the Act stating that it was generally intended to “codif[y] the present patent laws”).
+
+															Now consider the existing law that the Patent Act’s drafters intended the Act to reflect.  The decisions that find or say or hold that laches can bar monetary relief in patent infringement actions stretch in a virtually unbroken chain from the late 19th century through the Patent Act’s enactment in 1952.  They number in the dozens and include every federal appeals court to have considered the matter.  (We have found only two contrary decisions, both from the same District Court: Thorpe v. Wm. Filene’s Sons Co., 40 F. 2d 269 (Mass. 1930); and Concord v. Norton, 16 F. 477 (CC Mass. 1883).)
+
+															Here are the cases from the Federal Courts of Appeals alone: Lukens Steel Co. v. American Locomotive Co., 197 F. 2d 939, 941 (CA2 1952); Chicago Pneumatic Tool Co. v. Hughes Tool Co., 192 F. 2d 620, 625 (CA10 1951); Brennan v. Hawley Prods. Co., 182 F. 2d 945, 948 (CA7 1950); Shaffer v. Rector Well Equip. Co., 155 F. 2d 344, 345–347 (CA5 1946); Rome Grader & Mach. Corp. v. J. D. Adams Mfg. Co., 135 F. 2d 617, 619–620 (CA7 1943); France Mfg. Co. v. Jefferson Elec. Co., 106 F. 2d 605, 609–610 (CA6 1939); Universal Coin Lock Co. v. American Sanitary Lock Co., 104 F. 2d 781, 781–783 (CA7 1939); Union Shipbuilding Co. v. Boston Iron & Metal Co., 93 F. 2d 781, 783 (CA4 1938); Gillons v. Shell Oil Co. of Cal., 86 F. 2d 600, 608–610 (CA9 1936); Holman v. Oil Well Supply Co., 83 F. 2d 538 (CA2 1936) (per curiam); Dock & Term. Eng. Co. v. Pennsylvania R. Co., 82 F. 2d 19, 19–20 (CA3 1936); Banker v. Ford Motor Co., 69 F. 2d 665, 666 (CA3 1934); Westco-Chippewa Pump Co. v. Delaware Elec. & Supply Co., 64 F. 2d 185, 186–188 (CA3 1933); Window Glass Mach. Co. v. Pittsburgh Plate Glass Co., 284 F. 645, 650–651 (CA3 1933); Dwight & Lloyd Sintering Co. v. Greenawalt, 27 F. 2d 823, 827 (CA2 1928); George J. Meyer Mfg. Co. v. Miller Mfg. Co., 24 F. 2d 505, 507–508 (CA7 1928); Wolf Mineral Process Corp. v. Minerals Separation N. Am. Corp., 18 F. 2d 483, 490 (CA4 1927); Cummings v. Wilson & Willard Mfg. Co., 4 F. 2d 453, 455 (CA9 1925); Ford v. Huff, 296 F. 652, 654–655 (CA5 1924); Wolf, Sayer & Heller, Inc. v. United States Slicing Mach. Co., 261 F. 195, 197–198 (CA7 1919); A. R. Mosler & Co. v. Lurie, 209 F. 364, 371 (CA2 1913); Safety Car Heating & Lighting Co. v. Consolidated Car Heating Co., 174 F. 658, 662 (CA2 1909) (per curiam); Richardson v. D. M. Osborne & Co., 93 F. 828, 830–831 (CA2 1899); and Woodmanse & Hewitt Mfg. Co. v. Williams, 68 F. 489, 493–494 (CA6 1895).
+
+															The majority replies that this list proves nothing.  After all, it says, nearly all of these decisions come from courts of equity. Courts of equity ordinarily applied laches “ ‘to claims of an equitable cast for which the Legislature ha[d] provided no fixed time limitation,’ ” ante, at 5 (quoting Petrella v. Metro-Goldwyn-Mayer, Inc., 572 U. S. ___, ___ (2014) (slip op., at 12)), not to requests for damages, “a quintessential legal remedy,” ante, at 3.  Since “laches is a gap-filling doctrine,” the fact that it was applied to equit-able claims without statutes of limitations says little about whether it should apply to legal damages claims when “there is a statute of limitations,” and therefore “no gap to fill.”  Ante, at 5.
+
+															Good reply.  But no cigar.  Why not?  (1) Because in 1897 Congress enacted a statute of limitations—very much like the one before us now—for patent claims brought in courts of equity.  Ch. 391, §6,
+
+29Stat.
+694 (“[I]n any suit or action . . . there shall be no recovery of profits or damages for any infringement committed more than six years before” filing).  Thus, after 1897, there was no statute of limitations gap for equity courts to fill, and yet they continued to hold that laches applied.  See, e.g., France Mfg., supra, at 609 (“[N]otwithstanding the statute of limitations, relief may be denied on the ground of laches . . . ”); Dwight & Lloyd, supra, at 827 (Hand, J.) (explaining how laches operates in conjunction with the statute of limit-ations to allow an infringer to “garne[r] the harvest of even the earliest of the 6 years to which recovery is in any event limited, with just confidence that he will not be disturbed”).
+
+															(2) Because in 1870 Congress enacted a statute that gave courts of equity the power to award legal relief, namely, damages, in patent cases.  Act of July 8, 1870, §55,
+
+16Stat.
+206.  Congress did not give law courts an equivalent power to grant injunctive relief in patent suits.  As a result, from the late 19th century until the merger of law and equity in 1938, nearly all patent litigation—including suits for damages—took place in courts of equity that were applying laches in conjunction with a statute of limitations.  See Lemley, Why Do Juries Decide If Patents Are Valid? 99 Va. L. Rev. 1673, 1704 (2013) (discussing the predominance of equity litigation).
+
+															(3) Because Congress recognized that damages suits for patent infringement took place almost exclusively in equity courts, not law courts.  Whenever Congress wished to modify patent damages law, it rewrote the statutory provisions governing damages in equity, not law.  See, e.g., §8,
+
+42Stat.
+392 (modifying the equity damages statute to allow equity courts to award a “reasonable sum” even if a patentee had difficulty proving actual damages, but making no change to the legal damages provision).  The 1952 Congress, seeking to understand whether, or how, laches applied in patent damages cases, would almost certainly have looked to equity practice.
+
+															(4) Because, in any event, in those few pre-law/equity-merger cases in which courts of law considered whether laches could bar a patent damages action, they, like their equity counterparts, held that it could.  See Universal Coin, 104 F. 2d, at 781–783; Banker, 69 F. 2d, at 666; Ford, supra, at 658.  As the majority points out, these cases brought in law courts constitute “only a handful of decisions.”  Ante, at 13.  But that is simply because, as I just noted, almost all patent damages litigation took place in courts of equity.  Regardless, before the merger of law and equity both law courts and equity courts recognized laches as a defense.  And, after the merger of law and equity in 1938, federal courts still applied laches to patent damages claims.  E.g., Brennan, 182 F. 2d, at 948 (holding that “laches on the part of the plaintiff” can “bar his right to recover damages”).  This, of course, would make no sense if laches for patent damages was really an equity-only rule.
+
+															Does the majority have any other good reason to ignore the mountain of authority recognizing laches as a defense? It refers to many general statements in opinions and treatises that say that laches is “no defense at law.”  United States v. Mack,
+
+295 U. S. 480,
+489 (1935)
+.  But these statements are not about patent damages cases.  They do not claim to encompass the problem at issue here.  And they do not prevent Congress from enacting a statute that, recognizing patent litigation’s history, combines a statute of limitations with a laches defense.  And that is what Congress has done in the Patent Act.
+
+															The majority also tries to discredit the persuasiveness of the pre-Patent Act case law authority.  It goes through the lengthy list of decisions, finding some judicial statements too vague, others just dicta, and still others having confused an equitable claim for “accounting” with a legal claim for “damages.”  I agree that it has found weaknesses in the reasoning of some individual cases.  But those weaknesses were not sufficient to prevent a 1951 treatise writer from concluding, on the basis of the great weight of authority, that in patent cases, “[l]aches . . . may be interposed in an action at law.”  3 A. Deller, Walker on Patents 106 (Cum. Supp. 1951).
+
+															In any event, with all its efforts, the majority is unable to identify a single case—not one—from any court of appeals sitting in law or in equity before the merger, or sitting after the merger but before 1952, holding that laches could not bar a patent claim for damages.  Furthermore, the majority concedes that it is unable to distinguish, by my count, at least six Court of Appeals cases directly holding that laches could bar a patent claim for damages.  See Wolf, Sayer & Heller, 261 F. 195; Lurie, 209 F. 364; Universal Coin, supra; Banker, 69 F. 2d 665; Brennan, supra; Lukens, 197 F. 2d 939.  And that is the case law situation that Congress faced when it wrote a statute that, as we have said, sought primarily to codify existing patent law.  See supra, at 3–4.
+
+															The majority tries to minimize the overall thrust of this case law by dividing the cases into subgroups and then concluding that the number of undistinguishable precedents in each subgroup is “too few to establish a settled, national consensus.”  Ante, at 12.  The problem with this approach is that, once we look at the body of case law as a whole, rather than in subgroups, we find what I have said and repeated, namely, that all the cases say the same thing: Laches applies.  The majority’s insistence on subdivision makes it sound a little like a Phillies fan who announces that a 9–0 loss to the Red Sox was a “close one.”  Why close?  Because, says the fan, the Phillies lost each inning by only one run.
+
+															For the sake of completeness I add that, since 1952, every Federal Court of Appeals to consider the question has held that laches remains available for damages claims brought under the Patent Act.  See A. C. Aukerman Co. v. R. L. Chaides Constr. Co., 960 F. 2d 1020, 1030 (CA Fed. 1992) (en banc).  Yet, Congress has repeatedly reenacted 
+
+35 U. S. C. §282’s “unenforceability” language without material change.  See, e.g., §§15(a), 20(g)(2)(B),
+
+125Stat.
+328,
+334.  See also Texas Dept. of Housing and Community Affairs v. Inclusive Communities Project, Inc., 576 U. S. ___, ___ (2015) (slip op., at 14) (holding that congressional reenactment provides “convincing support for the conclusion that Congress accepted and ratified the unanimous holdings of the Courts of Appeals”); Microsoft Corp. v. i4i Ltd. Partnership,
+
+564 U. S. 91
+–114 (2011) (when Congress has “often amended §282” while “le[aving] the Federal Circuit’s interpretation of §282 in place,” any further “recalibration” should be left to the Legislature).
+
+															III
+
+															The majority’s strongest argument is Petrella.  There, the Court held that laches could not bar a damages claim brought within the Copyright Act’s limitations period.  The present case holds roughly the same in respect to the Patent Act, providing a degree of consistency.
+
+															There are relevant differences, however, between patent law and copyright law.  For one thing, copyright law, unlike patent law, does not contain a century and a half of history during which courts held that laches and a statute of limitations could coexist.  When Congress enacted the Patent Act in 1952, patent statutes had already contained a 6-year statute of limitations for 55 years (since 1897), during which time courts had continued to apply laches to patent damages cases.  Copyright law, on the other hand, contained no federal statute of limitations until 1957.  See Petrella, 572 U. S., at ___ (slip op., at 3).
+
+															For another thing, the Copyright Act, unlike the Patent Act, has express provisions that mitigate the unfairness of a copyright holder waiting for decades to bring his lawsuit.  A copyright holder who tries to lie in wait to see if a defendant’s investment will prove successful will discover that the Copyright Act allows that defendant to “prove and offset against . . . profits ‘deductible expenses’ incurred in generating those profits.”  Id., at ___ (slip op., at 12) (quoting
+
+17 U. S. C. §504(b)).  Thus, if the defendant invests say $50 million in a film, a copyright holder who waits until year 15 (when the film begins to earn a profit) to bring a lawsuit may be limited to recovering the defendant’s profits less an apportioned amount of the defendant’s initial $50 million investment.  But the Patent Act has no such deduction provision.
+
+															Further, the Court, in Petrella, pointed out that the evidentiary loss that occurs while a copyright holder waits to bring suit is “at least as likely to affect plaintiffs as it is to disadvantage defendants.”  572 U. S., at ___ (slip op., at 18).  But that symmetry does not exist to the same degree in patent law.  To win a copyright suit the copyright holder must show that the defendant copied his work.  The death of witnesses and loss of documents from the time of the alleged infringement can therefore significantly impair the copyright holder’s ability to prove his case.  There is no such requirement in a patent suit.  Patent infringement is a strict-liability offense: There need not be any copying, only an end product (or process) that invades the area the patentee has carved out in his patent.
+
+															At the same time, the passage of time may well harm patent defendants who wish to show a patent invalid by raising defenses of anticipation, obviousness, or insufficiency.  These kinds of defenses can depend upon contemporaneous evidence that may be lost over time, and they arise far more frequently in patent cases than any of their counterparts do in copyright cases.  See Brief for Electronic Frontier Foundation et al. as Amici Curiae 23 (reporting that of all copyright cases pending as of January 2009, only 2.7% of judgment events resulted in a finding of a lack of ownership or validity of the copyright at issue); Allison, Lemley, & Schwartz, Understanding the Realities of Modern Patent Litigation, 92 Texas L. Rev. 1769, 1778, 1784–1785 (2014) (finding that 70% of summary judgment motions in patent cases filed in 2008–2009 related to anticipation or obviousness).  The upshot is an absence here of the symmetrical effect of delay upon which the Court relied in Petrella.
+
+															Finally, there is a “lock-in” problem that is likely to be more serious where patents are at issue.  Once a business chooses to rely on a particular technology, it can become expensive to switch, even if it would have been cheap to do so earlier.  See Lee & Melamed, Breaking the Vicious Cycle of Patent Damages, 101 Cornell L. Rev. 385, 409–410 (2016).  As a result, a patentee has considerable incentive to delay suit until the costs of switching—and accordingly the settlement value of a claim—are high.  The practical consequences of such delay can be significant, as the facts of this case illustrate: First Quality invested hundreds of millions of dollars in its allegedly infringing technologies during the years that SCA waited to bring its suit.  App. to Pet. for Cert. 107a–108a.  And amici have provided numerous other examples that suggest this fact pattern is far from uncommon.  See Brief for Dell et al. 11–19.
+
+															I recognize the Majority’s suggestion that the doctrine of “equitable estoppel” might help alleviate some of these problems.  See ante, at 15.  I certainly hope so.  But I would be more “cautious before adopting changes that disrupt the settled expectations of the inventing commu-nity.”  Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.,
+
+535 U. S. 722,
+739 (2002)
+.
+
+															I add or confess that I believe that Petrella too was wrongly decided.  Today’s case helps illustrate why I think that Petrella started this Court down the wrong track.  I would stop, finding adequate grounds to distinguish Petrella.  But the majority remains “determined to stay the course and continue on, travelling even further away,” Mathis v. United States, 579 U. S. ___, ___ (2016) (Alito, J., dissenting) (slip op., at 9), from Congress’ efforts, in the Patent Act, to promote the “Progress of Science and useful Arts,” U. S. Const., Art. I, §8, cl. 8.  Trite but true: Two wrongs don’t make a right.
+
+															With respect, I dissent.
+													

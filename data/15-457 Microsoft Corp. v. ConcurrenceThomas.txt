@@ -1,0 +1,79 @@
+::SCDB_caseID:: 2016-053
+::decision_cite:: 15-457
+::decision_name::  Microsoft Corp. v. Baker
+::decision_year:: 2017
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–457
+
+															_________________
+
+															MICROSOFT CORPORATION, PETITIONER v.SETH BAKER, et al.
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 12, 2017]
+
+															
+
+															Justice Thomas, with whom The Chief Justice and Justice Alito join, concurring in the judgment.
+
+															I agree with the Court that the Court of Appeals lacked jurisdiction over respondents’ appeal, but I would ground that conclusion in Article III of the Constitution instead of
+
+28 U. S. C. §1291.  I therefore concur only in the judgment.
+
+															The plaintiffs in this case, respondents here, sued Microsoft, petitioner here, to recover damages after they purchased allegedly faulty video game consoles that Microsoft manufactured.  The plaintiffs brought claims for themselves (individual claims) and on behalf of a putative class of similarly situated consumers (class allegations).  Early in the litigation, the District Court granted Microsoft’s motion to strike the class allegations, effectively declining to certify the class.  The Court of Appeals denied permission to appeal that decision under Federal Rule of Civil Procedure 23(f), which requires a party to obtain permission from the court of appeals before appealing a decision regarding class certification.
+
+															The plaintiffs decided not to pursue their individual claims, instead stipulating to a voluntary dismissal of those claims with prejudice.  They then filed a notice of appeal from the voluntary dismissal order.  On appeal, they did not ask the Court of Appeals to reverse the District Court’s dismissal of their individual claims.  They instead asked the Court of Appeals to reverse the order striking their class allegations.  The question presented in this case is whether the Court of Appeals had jurisdiction to hear the appeal under both §1291, which grants appellate jurisdiction to the courts of appeals over “final decisions” by district courts, and under Article III of the Constitution, which limits the jurisdiction of federal courts to “cases” and “controversies.”
+
+															The Court today holds that the Court of Appeals lacked jurisdiction under §1291 because the voluntary dismissal with prejudice did not result in a “final decision.”  I dis-agree with that holding.  A decision is “final” for purposes of §1291 if it “ends the litigation on the merits and leaves nothing for the court to do but execute the judgment.”  Catlin v. United States,
+
+324 U. S. 229,
+233 (1945)
+.  The order here dismissed all of the plaintiffs’ claims with prejudice and left nothing for the District Court to do but execute the judgment.  See App. to Pet. for Cert. 39a (“direct[ing] the Clerk to enter Judgment . . . and close th[e] case”).
+
+															The Court reaches the opposite conclusion, relying not on the text of §1291 or this Court’s precedents about finality, but on Rule 23(f).  Rule 23(f) makes interlocutory orders regarding class certification appealable only with the permission of the court of appeals.  The Court concludes that the plaintiffs’ “voluntary dismissal” “does not qualify as a ‘final decision’ ” because allowing the plaintiffs’ appeal would “subvert the balanced solution Rule 23(f) put in place for immediate review of class-action orders.”  Ante, at 2.
+
+															The Court’s conclusion does not follow from its reasoning.  Whether a dismissal with prejudice is “final” depends on the meaning of §1291, not Rule 23(f).  Rule 23(f) says nothing about finality, much less about the finality of an order dismissing individual claims with prejudice.  I agree with the Court that the plaintiffs are trying to avoid the requirements for interlocutory appeals under Rule 23(f), but our view of the balance struck in that rule should not warp our understanding of finality under §1291.
+
+															Although I disagree with the Court’s reading of §1291, I agree that the plaintiffs could not appeal in these circumstances.  In my view, they could not appeal because the Court of Appeals lacked jurisdiction under Article III of the Constitution.  The “judicial Power” of the United States extends only to “Cases” and “Controversies.”  Art. III, §2.  This requirement limits the jurisdiction of the federal courts to issues presented “in an adversary context,” Flast v. Cohen,
+
+392 U. S. 83,
+95 (1968)
+, in which the parties maintain an “actual” and “concrete” interest, Campbell-Ewald Co. v. Gomez, 577 U. S. ___, ___ (2016) (slip op., at 6) (internal quotation marks omitted).  Put another way, “Article III denies federal courts the power to decide questions that cannot affect the rights of litigants in the case before them, and confines them to resolving real and substantial controversies admitting of specific relief through a decree of a conclusive character.”  Lewis v. Continental Bank Corp.,
+
+494 U. S. 472,
+477 (1990)
+ (internal quotation marks, citation, and alteration omitted).
+
+															The plaintiffs’ appeal from their voluntary dismissal did not satisfy this jurisdictional requirement.  When the plaintiffs asked the District Court to dismiss their claims, they consented to the judgment against them and dis-avowed any right to relief from Microsoft.  The parties thus were no longer adverse to each other on any claims, and the Court of Appeals could not “affect the[ir] rights” in any legally cognizable manner.  Ibid.  Indeed, it has long been the rule that a party may not appeal from the voluntary dismissal of a claim, since the party consented to the judgment against it.  See, e.g., Evans v. Phillips, 4 Wheat. 73 (1819); Lord v. Veazie, 8 How. 251, 255–256 (1850); United States v. Babbitt,
+
+104 U. S. 767 (1882)
+; Deakins v. Monaghan,
+
+484 U. S. 193
+–200 (1988).
+
+															The plaintiffs contend that their interest in reversing the order striking their class allegations is sufficient to satisfy Article III’s case-or-controversy requirement, but they misunderstand the status of putative class actions.  Class allegations, without an underlying individual claim, do not give rise to a “case” or “controversy.”  Those allegations are simply the means of invoking a procedural mechanism that enables a plaintiff to litigate his individual claims on behalf of a class.  See Shady Grove Orthopedic Associates, P. A. v. Allstate Ins. Co.,
+
+559 U. S. 393,
+408 (2010)
+ (plurality opinion).  Thus, because the Court of Appeals lacked Article III jurisdiction to adjudicate the individual claims, it could not hear the plaintiffs’ appeal of the order striking their class allegations.
+
+															Plaintiffs’ representation that they hope to “revive their [individual] claims should they prevail” on the appeal of the order striking their class allegations does not undermine this conclusion.  Brief for Respondents 45.  This Court has interpreted Article III “to demand that an ac-tual controversy be extant at all stages of review, not merely at the time the complaint is filed.”  Campbell Ewald Co., supra, at ___ (slip op., at 6) (internal quotation marks and alterations omitted).  And in any event, a favorable ruling on class certification would not “revive” their individual claims: A court’s decision about class allegations “in no way touch[es] the merits” of those claims.  Gardner v. Westinghouse Broadcasting Co.,
+
+437 U. S. 478,
+482 (1978)
+.
+
+															*  *  *
+
+															Because I would hold that the Court of Appeals lacked jurisdiction under Article III to consider respondents’ appeal, I concur in the judgment.
+													

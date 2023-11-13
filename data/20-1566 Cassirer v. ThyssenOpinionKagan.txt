@@ -1,0 +1,93 @@
+::SCDB_caseID:: 2021-038
+::decision_cite:: 20-1566
+::decision_name::  Cassirer v. Thyssen-Bornemisza Collection Foundation
+::decision_year:: 2022
+::opinion_author:: Kagan
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–1566
+
+															_________________
+
+															DAVID CASSIRER, et al., PETITIONERS v. THYSSEN-BORNEMISZA COLLECTION FOUNDATION
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[April 21, 2022]
+
+															
+
+															Justice Kagan delivered the opinion of the Court.
+
+															Under the Foreign Sovereign Immunities Act of 1976 (FSIA),
+
+28 U. S. C. §1602 et seq., a foreign state or instrumentality is amenable in specified circumstances to suit in an American court.  In this case, the plaintiffs brought such a suit to recover expropriated property.  The question presented is what choice-of-law rule the court should use to determine the applicable substantive law.  The answer is: whatever choice-of-law rule the court would use if the defendant were not a foreign-state actor, but instead a private party.  Here, that means applying the forum State’s choice-of-law rule, not a rule deriving from federal common law.
+
+															I
+
+															Although the legal issue before us is prosaic, the case’s subject matter and background are anything but.  At issue is the ownership of an Impressionist painting depicting a Paris streetscape: Camille Pissarro’s Rue Saint-Honoré in the Afternoon, Effect of Rain (shown in this opinion’s appendix).  Pissarro’s agent sold the painting in 1900 to Paul Cassirer, a member of a prominent German Jewish family owning an art gallery and publishing house.  Some quarter century later, Lilly Cassirer inherited the painting and displayed it in her Berlin home (as also pictured in the appendix).  But in 1933, the Nazis came to power.  After years of intensifying persecution of German Jews, Lilly decided in 1939 that she had to do anything necessary to escape the country.  To obtain an exit visa to England, where her grandson Claude Cassirer had already relocated, she surrendered the painting to the Nazis.  The underlying question in this case—which this opinion will not resolve—is whether the Cassirer family can get the painting back.
+
+															The post-war search for Rue Saint-Honoré was a long one.  Lilly and Claude, who both eventually ended up in the United States, had no success tracking down the painting.  After being legally declared the rightful owner, Lilly agreed in 1958 to accept compensation from the German Federal Republic—about $250,000 in today’s dollars.  (The painting is now thought to be worth tens of millions.)  In fact, Rue Saint-Honoré was nearby: Like the Cassirers, the painting had also arrived in the United States after the war, and sat in a private collection in St. Louis from 1952 to 1976.  In that year, the Baron Hans Heinrich Thyssen-Bornemisza (descended from the founder of a German steel empire) purchased the painting and brought it back to Europe.  Rue Saint-Honoré hung at his residence in Switzerland until the early 1990s.  At that time, the Baron sold much of his art collection, including Rue Saint-Honoré, to an entity the Kingdom of Spain created and controlled, called the Thyssen-Bornemisza Collection Foundation.  In addition to financing the $300 million-plus purchase, the Spanish Government provided the Foundation with a palace in Madrid to serve as a museum for the collection.  The museum, as museums do, published a catalogue of its holdings.  An acquaintance of Claude’s saw the catalogue and made the connection, telling him in 1999 where Rue Saint-Honoré was now located.  (Lilly had by then long since died, with Claude as her sole heir.)
+
+															After informal efforts to recover the painting failed, Claude sued the Foundation in federal court in the Central District of California, near where he then lived.  His complaint asserted various property-law claims, all alleging that he owned Rue Saint-Honoré and was entitled to its return.  And because the Foundation is an “instrumentality” of the Kingdom of Spain, the complaint invoked the FSIA to establish the court’s jurisdiction.  See §1603(b) (describing an instrumentality as a legally separate but state- controlled entity).  The FSIA governs whether a foreign state or instrumentality is amenable to suit in an American court.  It provides the sovereign actor with immunity unless the claim against it falls within a specified exception.  See §§1605–1607.  The complaint here asserted that the statute’s expropriation exception applied.  That exception removes immunity for cases involving “rights in property taken in violation of international law.”  §1605(a)(3).  At a prior stage of this litigation, the courts below held that the Nazi confiscation of Rue Saint-Honoré brought Claude’s suit against the Foundation within the expropriation exception.  See 461 F. Supp. 2d 1157, 1176–1177 (CD Cal. 2006), aff ’d, 616 F.3d 1019, 1037 (CA9 2010) (en banc), cert. denied,
+
+564 U.S. 1037 (2011).  That determination, which is no longer at issue, meant that the suit could go forward.  (Claude, though, would not live to see anything further; he passed away in 2010, and his heirs became the plaintiffs.)[1]
+
+															But go forward pursuant to what law?  The courts had to decide whose property law (Spain’s? California’s?) should govern the suit, and thus determine the painting’s rightful owner.  Resolving that question required application of a choice-of-law rule—a means of selecting which jurisdiction’s law governs the determination of liability.  Yet there another issue lurked.  For the parties contested which choice-of-law rule should apply—serving up, so to speak, a choice of choice-of-law principles.  The Cassirer plaintiffs urged the use of California’s choice-of-law rule; the defendant Foundation advocated a rule based in federal common law.  The courts below, relying on a minimally reasoned Ninth Circuit precedent, picked the federal option.  See 153 F. Supp. 3d 1148, 1154 (CD Cal. 2015), aff ’d, 862 F.3d 951, 961 (CA9 2017), cert. denied, 584 U. S. ___ (2018).  That federal choice-of-law rule, they further held, commanded the use of Spanish (not Californian) property law to resolve the ownership issue.  See 153 F. Supp. 3d, at 1155, aff ’d, 862 F. 3d, at 963.  Finally, the courts below determined after a trial that under Spanish law the Foundation was the rightful owner, because it purchased Rue Saint-Honoré without knowing the painting was stolen and had held it long enough to gain title through possession.  See No. 05–cv–03459 (CD Cal., Apr. 30, 2019), ECF Doc. 621, pp. 26–30, aff ’d, 824 Fed. Appx. 452, 454–455 (CA9 2020).
+
+															The Cassirers sought our review, limited to a single issue: whether a court in an FSIA case raising non-federal claims (relating to property, torts, contracts, and so forth) should apply the forum State’s choice-of-law rule, or instead use a federal one.  We granted certiorari, 594 U. S. ___ (2021), because that question has generated a split in the Courts of Appeals.  The Ninth Circuit stands alone in using a federal choice-of-law rule to pick the applicable substantive law.  All other Courts of Appeals to have addressed the issue apply the choice-of-law rule of the forum State.[2]  We agree with that more common approach, and now vacate the judgment below.
+
+															II
+
+															The FSIA, as indicated above, creates a uniform body of federal law to govern the amenability of foreign states and their instrumentalities to suit in the United States.  See supra, at 3.  The statute first lays down a baseline principle of foreign sovereign immunity from civil actions.  See §1604.  It then lists a series of exceptions from that principle (including the expropriation exception found to apply here).  See §§1605–1607; supra, at 3.  The result is to spell out, as a matter of federal law, the suits against foreign sovereigns that American courts do, and do not, have power to decide.
+
+															Yet the FSIA was never “intended to affect the substantive law determining the liability of a foreign state or instrumentality” deemed amenable to suit.  First Nat. City Bank v. Banco Para el Comercio Exterior de Cuba,
+
+462 U.S. 611, 620 (1983).  To the contrary, Section 1606 of the statute provides:
+
+															“As to any claim for relief with respect to which a foreign state is not entitled to immunity under [the FSIA], the foreign state shall be liable in the same manner and to the same extent as a private individual under like circumstances.”
+
+															So when a foreign state is not immune from suit, it is subject to the same rules of liability as a private party.  Which is just to say that the substantive law applying to the latter also applies to the former.  See First Nat. City Bank, 462 U. S., at 622, n. 11.  As one court put the point, Section 1606 directs a “pass-through” to the substantive law that would govern a similar suit between private individuals.  Oveissi v. Islamic Republic of Iran, 573 F.3d 835, 841 (CADC 2009).  The provision thus ensures that a foreign state, if found ineligible for immunity, must answer for its conduct just as any other actor would.
+
+															And in so doing, Section 1606 also dictates the selection of a choice-of-law rule: It, too, must mirror the rule that would apply in a similar suit between private parties.  For only the same choice-of-law rule can guarantee use of the same substantive law—and thus (see above) guarantee the same liability.  See Barkanic v. General Admin. of Civ. Aviation of People’s Republic of China, 923 F.2d 957, 959–960 (CA2 1991) (“[T]he same choice of law analysis” is needed to “apply[ ] identical substantive laws,” and so to “ensure identity of liability” between a foreign state and a private individual).  Consider two suits seeking recovery of a painting—one suit against a foreign-state-controlled museum (as here), the other against a private museum.  If the choice-of-law rules in the two suits differed, so might the substantive law in fact chosen.  And if the substantive law differed, so might the suits’ outcomes.  In one case, say, the plaintiff would recover the art, and in the other not.  Contrary to Section 1606, the two museums would not be “liable in the same manner and to the same extent.”
+
+															In this case, then, Section 1606 requires the use of California’s choice-of-law rule—because that is the rule a court would use in comparable private litigation.  Consider the just-hypothesized suit against a private museum for return of a piece of art, brought as this case was in California.  The claims asserted (again, as in this case) turn only on state or foreign property law, with no substantive federal component.  If the private suit were filed in state court, California’s choice-of-law rule would of course govern.  And if the private suit were filed in federal court, under diversity-of-citizenship jurisdiction, the same would be true.  According to long-settled precedent, a federal court sitting in diversity borrows the forum State’s choice-of-law rule.  See Klaxon Co. v. Stentor Elec. Mfg. Co.,
+
+313 U.S. 487, 496 (1941).  So the private-museum suit would begin with the application of California’s choice-of-law rule, to decide on the governing substantive law.  And if that choice-of-law rule applies in the private-museum suit, so too it must apply in the suit here, against the Foundation.  That is the only way to ensure—as Section 1606 demands—that the Foundation, although a Spanish instrumentality, will be liable in the same way as a private party.
+
+															In choosing instead to apply a federal choice-of-law rule, the courts below could well have created a mismatch between the Foundation’s liability and a private defendant’s.  As described earlier, those courts found that the federal rule commanded the use of Spanish property law to determine Rue Saint-Honoré ’s rightful owner.  See supra, at 4.  Spanish law (as the courts below understood it) made everything depend on whether, at the time of acquisition, the Foundation knew the painting was stolen: If the Foundation did not know—as the courts in fact found—then it owned the painting by virtue of possession.  See ECF Doc. No. 621, at 26–30, aff ’d, 824 Fed. Appx., at 454–455.  But now consider the possible result if the courts below had instead applied California’s choice-of-law rule, as they would have done in a private suit.  The Cassirer plaintiffs contend that the California rule would lead to the application of California property law.  See Brief for Petitioners 13.  And they argue that under California property law, even a good-faith purchaser of stolen property cannot prevail against the rightful pre-theft owner.  See ibid.  We do not today decide those questions; they remain in the hands of the lower courts.  But if the Cassirers are right, the use of a federal choice-of-law rule in the courts below stopped Section 1606 from working: That rule led to the Foundation keeping the painting when a private museum would have had to give it back.
+
+															And even were Section 1606 not so clear, we would likely reach the same result, because we see scant justification for federal common lawmaking in this context.  Judicial creation of federal common law to displace state-created rules must be “necessary to protect uniquely federal interests.”  Texas Industries, Inc. v. Radcliff Materials, Inc.,
+
+451 U.S. 630, 640 (1981).  Foreign relations is of course an interest of that kind.  But even the Federal Government, participating here in support of the Cassirers’ position, disclaims any necessity for a federal choice-of-law rule in FSIA suits raising non-federal claims.  See Brief for United States as Amicus Curiae 9, 20–23.  As the Government notes, such FSIA suits arise only when a foreign state has lost its broad immunity and become subject to standard-fare legal claims involving property, contract, or the like.  See id., at 9.  No one would think federal law displaces the substantive rule of decision in those suits; and we see no greater warrant for federal law to supplant the otherwise applicable choice-of-law rule.  See id., at 21 (State choice-of-law rules do not “ordinarily pose a greater threat to foreign relations than” state-law principles determining “the rights and liabilities of the parties”).  Courts outside the Ninth Circuit have long applied state choice-of-law rules in FSIA suits.  See supra, at 4, and n. 2.  Yet the Government says it knows of no case in which that practice has created foreign relations concerns.  See Tr. of Oral Arg. 20–21.[3]  So the Ninth Circuit’s use of a federal choice-of-law rule in FSIA cases has been a solution in search of a problem, rejecting without any reason the usual role of state law.
+
+															*  *  *
+
+															The path of our decision has been as short as the hunt for Rue Saint-Honoré was long; our ruling is as simple as the conflict over its rightful owner has been vexed.  A foreign state or instrumentality in an FSIA suit is liable just as a private party would be.  See §1606.  That means the standard choice-of-law rule must apply.  In a property-law dispute like this one, that standard rule is the forum State’s (here, California’s)—not any deriving from federal common law.
+
+															Accordingly, the judgment of the Court of Appeals for the Ninth Circuit is vacated, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ Claude’s children, David and Ava Cassirer, along with the Jewish Federation of San Diego County, succeeded to his claims.  Some years later, Ava also died; her estate is now a substitute plaintiff. 
+
+2
+ See Barkanic v. General Admin. of Civ. Aviation of People’s Republic of China, 923 F.2d 957, 959–961 (CA2 1991); Northrop Grumman Ship Systems, Inc. v. Ministry of Defense of Republic of Venezuela, 575 F.3d 491, 498 (CA5 2009); O’Bryan v. Holy See, 556 F.3d 361, 381, n. 8 (CA6), cert. denied,
+
+558 U.S. 819 (2009); Oveissi v. Islamic Republic of Iran, 573 F.3d 835, 841 (CADC 2009). 
+
+3
+ Were such an unusual case to occur, the Government states that it would be “best addressed by applying limits on the application of state law derived from the Constitution, applicable treaties or statutes, international comity, the Act of State doctrine, or other sources reflecting distinctly federal interests—rather than displacing state choice-of-law rules across the board.”  Brief for United States as Amicus Curiae 21; see Tr. of Oral Arg. 20–23, 25–26.  We express no view on whether or when imposing such limits on state law would be proper. 
+
+

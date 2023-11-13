@@ -1,0 +1,170 @@
+::SCDB_caseID:: 2018-040
+::decision_cite:: 17-1484
+::decision_name::  Azar v. Allina Health Services
+::decision_year:: 2019
+::opinion_author:: Gorsuch
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1484
+
+															_________________
+
+															ALEX M. AZAR, II, SECRETARY OF HEALTH AND HUMAN SERVICES, PETITIONER v. ALLINA HEALTH SERVICES, et al.
+
+															on writ of certiorari to the united states court of appeals for the district of columbia circuit
+
+															[June 3, 2019]
+
+															Justice Gorsuch delivered the opinion of the Court.
+
+															One way or another, Medicare touches the lives of nearly all Americans.  Recognizing this reality, Congress has told the government that, when it wishes to establish or change a “substantive legal standard” affecting Medicare benefits, it must first afford the public notice and a chance to comment.
+
+42 U. S. C. §1395hh(a)(2).  In 2014, the government revealed a new policy on its website that dramatically—and retroactively—reduced payments to hospitals serving low-income patients.  Because affected members of the public received no advance warning and no chance to comment first, and because the government has not identified a lawful excuse for neglecting its statutory notice-and-comment obligations, we agree with the court of appeals that the new policy cannot stand.
+
+															I
+
+															Today, Medicare stands as the largest federal program after Social Security.  It spends about $700 billion annually to provide health insurance for nearly 60 million aged or disabled Americans, nearly one-fifth of the Nation’s population.  Needless to say, even seemingly modest modifications to the program can affect the lives of millions.
+
+															As Medicare has grown, so has Congress’s interest in ensuring that the public has a chance to be heard before changes are made to its administration.  As originally enacted in 1965, the Medicare Act didn’t address the possibility of public input.  Nor did the notice-and-comment procedures of the Administrative Procedure Act apply.  While the APA requires many other agencies to offer public notice and a comment period before adopting new regulations, it does not apply to public benefit programs like Medicare.
+
+5 U. S. C. §553(a)(2).  Soon enough, though, the government volunteered to follow the informal notice-and-comment rulemaking procedures found in the APA when proceeding under the Medicare Act.  See Clarian Health West, LLC v. Hargan, 878 F.3d 346, 356–357 (CADC 2017).
+
+															This solution came under stress in the 1980s.  By then, Medicare had grown exponentially and the burdens and benefits of public comment had come under new scrutiny.  The government now took the view that following the APA’s procedures had become too troublesome and proposed to relax its commitment to them.  See 47 Fed. Reg. 26860–26861 (1982).  But Congress formed a different judgment.  It decided that, with the growing scope of Medicare, notice and comment should become a matter not merely of administrative grace, but of statutory duty.  See §9321(e)(1),
+
+100Stat.
+2017; §4035(b),
+
+101Stat.
+1330–78.
+
+															Notably, Congress didn’t just adopt the APA’s notice-and-comment regime for the Medicare program.  That, of course, it could have easily accomplished in just a few words.  Instead, Congress chose to write a new, Medicare-specific statute.  The new statute required the government to provide public notice and a 60-day comment period (twice the APA minimum of 30 days) for any “rule, requirement, or other statement of policy (other than a national coverage determination) that establishes or changes a substantive legal standard governing the scope of benefits, the payment for services, or the eligibility of individuals, entities, or organizations to furnish or receive services or benefits under [Medicare].”
+
+42 U. S. C. §1395hh(a)(2).
+
+															Our case involves a dispute over this language.  Since Medicare’s creation and under what’s called “Medicare Part A,” the federal government has paid hospitals directly for providing covered patient care.  To ensure hospitals have the resources and incentive to serve low-income patients, the government has also long offered additional payments to institutions that serve a “disproportionate number” of such persons.  §1395ww(d)(5)(F)(i)(I).  These payments are calculated in part using a hospital’s so-called “Medicare fraction,” which asks how much of the care the hospital provided to Medicare patients in a given year was provided to low-income Medicare patients.  The fraction’s denominator is the time the hospital spent caring for patients who were “entitled to benefits under” Medicare Part A.  The numerator is the time the hospital spent caring for Part-A-entitled patients who were also entitled to income support payments under the Social Security Act.  §1395ww(d)(5)(F)(vi)(I).  The bigger the fraction, the bigger the payment.
+
+															Calculating Medicare fractions got more complicated in 1997.  That year, Congress created “Medicare Part C,” sometimes referred to as Medicare Advantage.  Under Part C, beneficiaries may choose to have the government pay their private insurance premiums rather than pay for their hospital care directly.  This development led to the question whether Part C patients should be counted as “entitled to benefits under” Part A when calculating a hospital’s Medicare fraction.  The question is important as a practical matter because Part C enrollees, we’re told, tend to be wealthier than patients who opt for traditional Part A coverage.  Allina Health Services v. Price, 863 F.3d 937, 939 (CADC 2017).  So counting them makes the fraction smaller and reduces hospitals’ payments considerably—by between $3 and $4 billion over a 9-year period, according to the government.  Pet. for Cert. 23.
+
+															The agency overseeing Medicare has gone back and forth on whether to count Part C participants in the Medicare fraction.  At first, it did not include them.  See Northeast Hospital Corp. v. Sebelius, 657 F.3d 1, 15–16 (CADC 2011).  In 2003, the agency even proposed codifying that practice in a formal rule.  68 Fed. Reg. 27208.  But after the public comment period, the agency reversed field and issued a final rule in 2004 declaring that it would begin counting Part C patients.  69 Fed. Reg. 49099.  This abrupt change prompted various legal challenges from hospitals.  In one case, a court held that the agency couldn’t apply the 2004 rule retroactively.  Northeast Hospital, 657 F. 3d, at 14.  In another case, a court vacated the 2004 rule because the agency had “ ‘pull[ed] a surprise switcheroo’ ” by doing the opposite of what it had proposed.  Allina Health Services v. Sebelius, 746 F.3d 1102, 1108 (CADC 2014).  Eventually, and in response to these developments, the agency in 2013 issued a new rule that prospectively “readopt[ed] the policy” of counting Part C patients.  78 Fed. Reg. 50620.  Challenges to the 2013 rule are pending.
+
+															The case before us arose in 2014.  That’s when the agency got around to calculating hospitals’ Medicare fractions for fiscal year 2012.  When it did so, the agency still wanted to count Part C patients.  But it couldn’t rely on the 2004 rule, which had been vacated.  And it couldn’t rely on the 2013 rule, which bore only prospective effect.  The agency’s solution?  It posted on a website a spreadsheet announcing the 2012 Medicare fractions for 3,500 hospitals nationwide and noting that the fractions included Part C patients.
+
+															That Internet posting led to this lawsuit.  A group of hospitals who provided care to low-income Medicare patients in 2012 argued (among other things) that the government had violated the Medicare Act by skipping its statutory notice-and-comment obligations.  In reply, the government admitted that it hadn’t provided notice and comment but argued it wasn’t required to do so in these circumstances.  Ultimately, the court of appeals sided with the hospitals.  863 F. 3d, at 938.  But in doing so the court created a conflict with other circuits that had suggested, if only in passing, that notice and comment wasn’t needed in cases like this.  See, e.g., Via Christi Regional Medical Center, Inc. v. Leavitt, 509 F.3d 1259, 1271, n. 11 (CA10 2007); Baptist Health v. Thompson, 458 F.3d 768, 776, n. 8 (CA8 2006).  We granted the government’s petition for certiorari to resolve the conflict.  585 U. S. ___ (2018).
+
+															II
+
+															This case hinges on the meaning of a single phrase in the notice-and-comment statute Congress drafted specially for Medicare in 1987.  Recall that the law requires the government to provide the public with advance notice and a chance to comment on any “rule, requirement, or other statement of policy” that “establishes or changes a substantive legal standard governing . . . the payment for services.”  §1395hh(a)(2).  Before us, everyone agrees that the government’s 2014 announcement of the 2012 Medicare fractions governed “payment for services.”  It’s clear, too, that the government’s announcement was at least a “statement of policy” because it “le[t] the public know [the agency’s] current . . . adjudicatory approach” to a critical question involved in calculating payments for thousands of hospitals nationwide.  Syncor Int’l Corp. v. Shalala, 127 F.3d 90, 94 (CADC 1997).  So whether the government had an obligation to provide notice and comment winds up turning on whether its 2014 announcement established or changed a “substantive legal standard.”  That phrase doesn’t seem to appear anywhere else in the entire United States Code, and the parties offer at least two ways to read it.
+
+															The hospitals suggest the statute means to distinguish a substantive from a procedural legal standard.  On this account, a substantive standard is one that “creates duties, rights and obligations,” while a procedural standard specifies how those duties, rights, and obligations should be enforced.  Black’s Law Dictionary 1281 (5th ed. 1979) (defining “substantive law”).  And everyone agrees that a policy of counting Part C patients in the Medicare fraction is substantive in this sense, because it affects a hospital’s right to payment.  From this it follows that the public had a right to notice and comment before the government could adopt the policy at hand.  863 F. 3d, at 943.
+
+															Very differently, the government suggests the statute means to distinguish a substantive from an interpretive legal standard.  Under the APA, “substantive rules” are those that have the “force and effect of law,” while “interpretive rules” are those that merely “ ‘advise the public of the agency’s construction of the statutes and rules which it administers.’ ”  Perez v. Mortgage Bankers Assn.,
+
+575 U.S. 92, ___–___ (2015) (slip op., at 2–3).  On the government’s view, the 1987 Medicare notice-and-comment statute meant to track the APA’s usage in this respect.  And the government submits that, because the policy of counting Part C patients in the Medicare fractions would be treated as interpretive rather than substantive under the APA, it had no statutory obligation to provide notice and comment before adopting its new policy.
+
+															Who has the better reading?  Several statutory clues persuade us of at least one thing: The government’s interpretation can’t be right.  Pretty clearly, the Medicare Act doesn’t use the word “substantive” in the same way the APA does—to identify only those legal standards that have the “force and effect of law.”
+
+															First, the Medicare Act contemplates that “statements of policy” like the one at issue here can establish or change a “substantive legal standard.”
+
+42 U. S. C. §1395hh(a)(2) (emphasis added).  Yet, by definition under the APA, statements of policy are not substantive; instead they are grouped with and treated as interpretive rules.
+
+5 U. S. C. §553(b)(A).  This strongly suggests the Medicare Act just isn’t using the word “substantive” in the same way as the APA.  Even the government acknowledges that its contrary reading leaves the Medicare Act’s treatment of policy statements “incoherent.”  Tr. of Oral Arg. 19.
+
+															To be sure, the government suggests that the statutory incoherence produced by its reading turns out to serve a rational purpose: It clarifies that the agency overseeing Medicare can’t evade its notice-and-comment obligations for new rules that bear the “force and effect” of law by the simple expedient of “call[ing]” them mere “statements of policy.”  Id., at 19–20.  The dissent echoes this argument, suggesting that Congress included “statements of policy” in §1395hh(a)(2) in order to capture “substantive rules in disguise.”  Post, at 5 (opinion of Breyer, J.).
+
+															But the statute doesn’t refer to things that are labeled or disguised as statements of policy; it just refers to “statements of policy.”  Everyone agrees that when Congress used that phrase in the APA and in other provisions of §1395hh, it referred to things that really are statements of policy.  See, e.g., Pacific Gas & Elec. Co. v. Federal Power Comm’n, 506 F.2d 33, 38 (CADC 1974); post, at 4–5 (discussing §1395hh(e)(1)).  Yet, to accept the government’s view, we’d have to hold that when Congress used the very same phrase in §1395hh(a)(2), it sought to refer to things an agency calls statements of policy but that in fact are nothing of the sort.  The dissent admits this “may seem odd at first blush,” post, at 5, but further blushes don’t bring much improvement.  This Court does not lightly assume that Congress silently attaches different meanings to the same term in the same or related statutes.  See Law v. Siegel,
+
+571 U.S. 415, 422 (2014).
+
+															Besides, even if the statute’s reference to “statements of policy” could bear such an odd construction, the government and the dissent fail to explain why Congress would have thought it necessary or appropriate.  Agencies have never been able to avoid notice and comment simply by mislabeling their substantive pronouncements.  On the contrary, courts have long looked to the contents of the agency’s action, not the agency’s self-serving label, when deciding whether statutory notice-and-comment demands apply.  See, e.g., General Motors Corp. v. Ruckelshaus, 742 F.2d 1561, 1565 (CADC 1984) (en banc) (“[T]he agency’s own label, while relevant, is not dispositive”); Guardian Fed. Sav. & Loan Assn. v. Federal Sav. & Loan Ins. Corp., 589 F.2d 658, 666–667 (CADC 1978) (if “a so-called policy statement is in purpose or likely effect . . . a binding rule of substantive law,” it “will be taken for what it is”).  Nor is there any evidence before us suggesting that Congress thought it important to underscore this prosaic point in the Medicare Act (and yet not in the APA)—let alone any reason to think Congress would have sought to make the point in such an admittedly incoherent way.
+
+															Second, the government’s reading would introduce another incoherence into the Medicare statute.  Subsection (e)(1) of §1395hh gives the government limited authority to make retroactive “substantive change[s]” in, among other things, “interpretative rules” and “statements of policy.”  But this statutory authority would make no sense if the Medicare Act used the term “substantive” as the APA does.  It wouldn’t because, again, interpretive rules and statements of policy—and any changes to them—are not substantive under the APA by definition.
+
+															Here, too, the government offers no satisfactory reply.  It concedes, as it must, that the term “substantive” in subsection (e)(1) can’t carry the meaning it wishes to ascribe to the same word in subsection (a)(2).  Tr. of Oral Arg. 16–18.  So that leaves the government to suggest (again) that the same word should mean two different things in the same statute.  In (e)(1), the government says, it may bear the meaning the hospitals propose, but in (a)(2) it means the same thing it does in the APA.  But, once more, the government fails to offer any good reason or evidence to unseat our normal presumption that, when Congress uses a term in multiple places within a single statute, the term bears a consistent meaning throughout.  See Law, 571 U. S., at 422.
+
+															Third, the government suggests Congress used the phrase “substantive legal standard” in the Medicare Act as a way to exempt interpretive rules and policy statements from notice and comment.  But Congress had before it—and rejected—a much more direct path to that destination.  In a single sentence the APA sets forth two exemp- tions from the government’s usual notice-and-comment obligations:
+
+															“Except when notice or hearing is required by statute, this subsection [requiring notice and comment] does not apply—
+
+															“(A) to interpretative rules, general statements of policy, or rules of agency organization, procedure, or practice; or
+
+															“(B) when the agency for good cause finds . . . that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest.”
+
+5 U. S. C. §553(b).
+
+															In the Medicare Act, Congress expressly borrowed one of the APA’s exemptions, the good cause exemption, by cross-referencing it in §1395hh(b)(2)(C).  If, as the government supposes, Congress had also wanted to borrow the other APA exemption, for interpretive rules and policy statements, it could have easily cross-referenced that exemption in exactly the same way.  Congress had recently done just that, cross-referencing both of the APA’s exceptions in the Clean Air Act.  See §305(a),
+
+91Stat.
+772,
+
+42 U. S. C. §7607(d)(1).  Yet it didn’t do the same thing in the Medicare Act, and Congress’s choice to include a cross-reference to one but not the other of the APA’s neighboring exemptions strongly suggests it acted “ ‘intentionally and purposefully in the disparate’ ” decisions.  Russello v. United States,
+
+464 U.S. 16, 23 (1983).
+
+															The government’s response asks us to favor a most unlikely reading over this obvious one.  The government submits that Congress simply preferred to mimic the APA’s interpretive-rule exemption in the Medicare Act by using the novel and enigmatic phrase “substantive legal standard” instead of a simple cross-reference.  But the government supplies no persuasive account why Congress would have thought it necessary or wise to proceed in this convoluted way.  The dissent suggests that a cross-reference could not have taken the place of other language in §1395hh(a)(2) limiting the notice-and-comment requirement to rules governing benefits, payment, or eligibility, post, at 17; but we can’t see why this would have made a cross-reference less desirable than the phrase “substantive legal standard” as a means of incorporating the APA’s interpretive-rule exemption.  So we’re left with nothing but the doubtful proposition that Congress sought to accomplish in a “surpassingly strange manner” what it could have accomplished in a much more straightforward way.  RadLAX Gateway Hotel, LLC v. Amalgamated Bank,
+
+566 U.S. 639, 647 (2012); see Advocate Health Care Network v. Stapleton, 581 U. S. ___, ___ (2017) (slip op., at 8) (“When legislators did not adopt ‘obvious alternative’ language, ‘the natural implication is that they did not intend’ the alternative”).
+
+															The dissent would have us disregard all of the textual clues we’ve found significant because the word “substantive” carried “a special meaning in the context of administrative law” in the 1980s, making it “almost a certainty” that Congress had that meaning in mind when it used the word “substantive” in §1395hh(a)(2).  Post, at 3, 8.  But it was the phrase “substantive rule” that was a term of art in administrative law, and Congress chose not to use that term in the Medicare Act.  Instead, it introduced a seemingly new phrase to the statute books when it spoke of “substantive legal standards.”  And, for all the reasons we have already explored, the term “substantive legal standard” in the Medicare Act appears to carry a more expansive scope than that borne by the term “substantive rule” under the APA.
+
+															In reply, the dissent stresses that §1395hh refers to agency actions requiring notice and comment as “regulations.”  This is significant, the dissent says, because “courts had sometimes treated [the term ‘regulations’] as interchangeable with the term ‘substantive rules’ ” around the time of the 1987 Medicare Act amendments.  Post,  at 4.  So if only “regulations” must proceed through notice and comment, the dissent reasons, that necessarily encompasses only things that qualify as substantive rules under the APA.  In fact, however, by 1987 courts had commonly referred to both substantive and interpretive rules as “regulations,” so the dissent’s logical syllogism fails on its own terms.  To see this, one need look no further than Chrysler Corp. v. Brown,
+
+441 U.S. 281 (1979), which described the substantive-interpretive divide as “the central distinction among agency regulations found in the APA.”  Id., at 301 (emphasis added); see also, e.g., Batterton v. Francis,
+
+432 U.S. 416, 425, n. 9 (1977) (distinguishing between “[l]egislative, or substantive, regulations” and “interpretative regulation[s]”); United Technologies Corp. v. EPA, 821 F.2d 714, 719 (CADC 1987) (“most of the regulations at issue are . . . interpretative”).[1]
+
+															In the end, all of the available evidence persuades us that the phrase “substantive legal standard,” which appears in §13955hh(a)(2) and apparently nowhere else in the U. S. Code, cannot bear the same construction as the term “substantive rule” in the APA.  We need not, however, go so far as to say that the hospitals’ interpretation, adopted by the court of appeals, is correct in every particular.  To affirm the judgment before us, it is enough to say the government’s arguments for reversal fail to withstand scrutiny.  Other questions about the statute’s meaning can await other cases.  The dissent would like us to provide more guidance, post, at 13–14, but the briefing before us focused on the issue whether the Medicare Act borrows the APA’s interpretive-rule exception, and we limit our holding accordingly.  In doing so, we follow the well-worn path of declining “to issue a sweeping ruling when a narrow one will do.”  McWilliams v. Dunn, 582 U. S. ___, ___ (2017) (slip op., at 14).[2]
+
+															III
+
+															Unable to muster support for its position in the statu- tory text or structure, the government encourages us to look elsewhere.  It begins by inviting us to follow it into the legislative history lurking behind the Medicare Act.  “But legislative history is not the law.”  Epic Systems Corp. v. Lewis, 584 U. S. ___, ___ (2018) (slip op., at 23).  And even those of us who believe that clear legislative history can “illuminate ambiguous text” won’t allow “ambiguous legislative history to muddy clear statutory language.”  Milner v. Department of Navy,
+
+562 U.S. 562, 572 (2011).  Yet the text before us clearly forecloses the government’s position in this case, and the legislative history presented to us is ambiguous at best.
+
+															The government points us first to a conference report on the 1986 bill that adopted §1395hh(b).  The 1986 report opined that the bill adopted at that time wouldn’t require notice and comment for interpretive rules.  See H. R. Conf. Rep. No. 99–1012, p. 311 (1986).  But the 1986 bill didn’t include the statutory language at issue here.  Congress added that language only the following year, when it enacted §1395hh(a)(2).  Nor does the government try to explain how a report on a 1986 bill sheds light on the meaning of statutory terms first introduced in 1987.  If anything, the fact that Congress revisited the statute in 1987 may suggest it wasn’t satisfied with the 1986 notice-and-comment requirements and wished to enhance them.  Some legislative history even says as much.  See H. R. Rep. No. 100–391(I), p. 430 (1987) (expressing concern that, despite the 1986 legislation, the agency was still announcing “important policies” without notice and  comment).
+
+															The conference report on the 1987 bill that did adopt the statutory language before us today doesn’t offer much help to the government either.  The House version of the bill would have required notice and comment for rules with a “significant effect” on payments, a condition no doubt present here.  H. R. 3545, 100th Cong., 1st Sess., reprinted in 133 Cong. Rec. 30019.  Later, the conference committee replaced the House’s language with the current language of subsection (a)(2), which the report said “reflect[ed] recent court rulings.”  H. R. Conf. Rep. No. 100–495, p. 566 (1987).  The government contends that this was an oblique reference to a then-recent decision discussing the APA’s interpretive-rule exception and an implicit suggestion that interpretive rules shouldn’t be subject to notice and comment.  See American Hospital Assn. v. Bowen, 834 F.2d 1037, 1045–1046 (CADC 1987).  But, as the hospitals point out, Bowen was mostly about the APA’s treatment of procedural rules.  See id., at 1047–1057.  So it seems at least equally plausible that the conference committee revised the House’s language because it feared that language would have subjected procedural rules to notice-and-comment obligations.
+
+															The hospitals call our attention to other indications, too, that Members of Congress didn’t understand the conference’s language to track the APA.  For example, the relevant provision in the final bill was titled “Publication as Regulations of Significant Policies.”  §4035(b),
+
+101Stat.
+1330–78 (emphasis added).  And, as we’ve seen, “significant policies” don’t always amount to substantive rules under the APA.  The House Ways and Means Committee likewise described the final bill as requiring notice and comment for “[s]ignificant policy changes,” not just substantive rules.  Summary of Conference Agreement on Reconciliation Provisions Within the Jurisdiction of the Committee on Ways and Means, 100th Cong., 1st Sess., 12–13 (Comm. Print 1987).  So in the end and at most, we are left with exactly the kind of murky legislative history that we all agree can’t overcome a statute’s clear text and structure.
+
+															That leads us to the government’s final redoubt: a policy argument.  But as the government knows well, courts aren’t free to rewrite clear statutes under the banner of our own policy concerns.  If the government doesn’t like Congress’s notice-and-comment policy choices, it must take its complaints there.  See, e.g., Henson v. Santander Consumer USA Inc., 582 U. S. ___, ___–___ (2017) (slip op., at 9–10); Sebelius v. Cloer,
+
+569 U.S. 369, 381 (2013).  Besides, the government’s policy arguments don’t carry much force even on their own terms.  The government warns that providing the public with notice and a chance to comment on all Medicare interpretive rules, like those in its roughly 6,000-page “Provider Reimbursement Manual,” would take “ ‘many years’ ” to complete.  Brief for Petitioner 18, 42.  But the dissent points to only eight manual provisions that courts have deemed interpretive over the last four decades, see post, at 10–12, and the government hasn’t suggested that providing notice and comment for these or any other specific manual provisions would prove excessively burdensome.  Nor has the government identified any court decision invalidating a manual provision under §1395hh(a)(2) in the nearly two years since the court of appeals issued its opinion in this case.  For their part, the hospitals claim that only a few dozen pages of the Provider Reimbursement Manual might even arguably require notice and comment.  Tr. of Oral Arg. 49–51.  And they tell us that the agency regularly and without much difficulty undertakes notice-and-comment rulemaking for many other decisions affecting the Medicare program.  See Brief for Respondents 58; App. to Brief in Opposition 1a–3a.  The government hasn’t rebutted any of these points.
+
+															Not only has the government failed to document any draconian costs associated with notice and comment, it also has neglected to acknowledge the potential countervailing benefits.  Notice and comment gives affected parties fair warning of potential changes in the law and an opportunity to be heard on those changes—and it affords the agency a chance to avoid errors and make a more informed decision.  See 1 K. Hickman & R. Pierce, Administrative Law §4.8 (6th ed. 2019). Surely a rational Congress could have thought those benefits especially valuable when it comes to a program where even minor changes to the agency’s approach can impact millions of people and billions of dollars in ways that are not always easy for regulators to anticipate.  None of this is to say Congress had to proceed as it did.  It is only to say that Congress reasonably could have believed that the policy decision reflected in the statute would yield benefits sufficient to outweigh the speculative burdens the government has suggested.  And if notice and comment really does threaten to “become a major roadblock to the implementation of” Medicare, post, at 10, the agency can seek relief from Congress, which—unlike the courts—is both qualified and constitutionally entitled to weigh the costs and benefits of different approaches and make the necessary policy  judgment.
+
+															IV
+
+															There are two more lines of argument that deserve brief acknowledgment.  One concerns §1395hh(a)(4), which provides that a Medicare regulation struck down for not being a logical outgrowth of the government’s proposal can’t “take effect” until the agency provides a “further opportunity for public comment.”  The hospitals claim, and the court of appeals held, that subsection (a)(4) also and independently required notice and comment here.  But given our holding affirming the court of appeals’ judgment under §1395hh(a)(2), we have no need to reach this  question.
+
+															Separately, we can imagine that the government might have sought to argue that the policy at issue here didn’t “establis[h] or chang[e]” a substantive legal standard—and so didn’t require notice and comment under §1395hh(a)(2)—because the statute itself required it to count Part C patients in the Medicare fraction.  But we need not consider this argument either, this time because the government hasn’t pursued it and we normally have no obligation to entertain grounds for reversal that a party hasn’t presented.  Far from suggesting that the Medicare Act supplies the controlling legal standard for determining whether to count Part C patients, the government has insisted that the statute “does not speak directly to the issue,” Brief for Appellant in Northeast Hospital Corp. v. Sebelius, No. 10–5163 (CADC), p. 22, and thus leaves a “ ‘gap’ ” for the agency to fill, Brief for Appellee in Allina v. Price, No. 16–5255 (CADC), p. 50 (quoting Northeast Hospital Corp., 657 F. 3d, at 13).  The courts below ac- cepted the government’s submission, and the government hasn’t sought to take a different position in this Court.  So we express no opinion on whether the statute in fact contains such a “gap.”  We hold simply that, when the government establishes or changes an avowedly “gap”-filling policy, it can’t evade its notice-and-comment obligations under §1395hh(a)(2) on the strength of the arguments it has advanced in this case.
+
+															*
+
+															The judgment of the court of appeals is
+
+															Affirmed.
+
+															
+
+															Justice Kavanaugh took no part in the consideration or decision of this case.
+Notes
+1
+ Nor does §1395hh(e)(1) imply that the statute is using “regulations” and “interpretative rules” to mean different things.  Post, at 4–5.  True, that provision refers to “regulations, manual instructions, interpretative rules, statements of policy, or guidelines of general applicability.”  But contrary to the dissent’s suggestion that each item in the list “refers to something different,” post, at 5, the items appear to have substantial overlap.  For example, many manual instructions surely qualify as guidelines of general applicability; and, as explained above, the statute explicitly requires some statements of policy to be issued as regulations. 
+
+2
+ Nor is it obvious that the dissent’s approach would provide significantly clearer guidance.  Lower courts have often observed “that it is quite difficult to distinguish between substantive and interpretative rules,” Syncor Int’l Corp. v. Shalala, 127 F.3d 90, 93 (CADC 1997), and precisely where to draw the boundary has been a subject “of much scholarly and judicial debate,” Perez v. Mortgage Bankers Assn.,
+
+575 U.S. 92, ___ (2015) (slip op., at 3). 
+
+

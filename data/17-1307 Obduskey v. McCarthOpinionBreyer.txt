@@ -1,0 +1,146 @@
+::SCDB_caseID:: 2018-037
+::decision_cite:: 17-1307
+::decision_name::  Obduskey v. McCarthy & Holthus LLP
+::decision_year:: 2019
+::opinion_author:: Breyer
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 17–1307
+
+															_________________
+
+															DENNIS OBDUSKEY, PETITIONER v. McCARTHY & HOLTHUS LLP
+
+															on writ of certiorari to the united states court of appeals for the tenth circuit
+
+															[March 20, 2019]
+
+															Justice Breyer delivered the opinion of the Court.
+
+															The Fair Debt Collection Practices Act regulates “ ‘debt collector[s].’ ”
+
+15 U. S. C. §1692a(6); see
+
+91Stat.
+874,
+
+15 U. S. C. §1692 et seq.  A “ ‘debt collector,’ ” the Act says, is “any person . . . in any business the principal purpose of which is the collection of any debts, or who regularly collects or attempts to collect, directly or indirectly, debts.”  §1692a(6).  This definition, however, goes on to say that “[f]or the purpose of section 1692f(6)” (a separate provision of the Act), “[the] term [debt collector] also includes any person . . . in any business the principal purpose of which is the enforcement of security interests.”  Ibid.
+
+															The question before us concerns this last sentence.  Does it mean that one principally involved in “the enforcement of security interests” is not a debt collector (except “[f ]or the purpose of section 1692f(6)”)?  If so, numerous other provisions of the Act do not apply.  Or does it simply reinforce the fact that those principally involved in the enforcement of security interests are subject to §1692f(6) in addition to the Act’s other provisions?
+
+															In our view, the last sentence does (with its §1692f(6) exception) place those whose “principal purpose . . . is the enforcement of security interests” outside the scope of the  primary “debt collector” definition, §1692a(6), where the business is engaged in no more than the kind of security-interest enforcement at issue here—nonjudicial foreclosure proceedings.
+
+															I
+
+															A
+
+															When a person buys a home, he or she usually borrows money from a lending institution, such as a bank.  The resulting debt is backed up by a “mortgage”—a security interest in the property designed to protect the creditor’s investment.  Restatement (Third) of Property: Mortgages §1.1 (1996) (Restatement).  (In some States, this security interest is known as a “deed of trust,” though for present purposes the difference is immaterial.  See generally ibid.)  The loan likely requires the homeowner to make monthly payments.  And if the homeowner defaults, the mortgage entitles the creditor to pursue foreclosure, which is “the process in which property securing a mortgage is sold to pay off the loan balance due.”  2 B. Dunaway, Law of Distressed Real Estate §15:1 (2018) (Dunaway).
+
+															Every State provides some form of judicial foreclosure: a legal action initiated by a creditor in which a court supervises sale of the property and distribution of the proceeds.  Id., §16:1.  These procedures offer various protections for homeowners, such as the right to notice and to protest the amount a creditor says is owed.  Id., §§16:17, 16:20; Restatement §8.2.  And in the event that the foreclosure sale does not yield the full amount due, a creditor pursuing a judicial foreclosure may sometimes obtain a deficiency judgment, that is, a judgment against the homeowner for the unpaid balance of a debt.  National Consumer Law Center (NCLC), Foreclosures and Mortgage Servicing §§12.3.1–2 (5th ed. 2014).
+
+															About half the States also provide for what is known as nonjudicial foreclosure, where notice to the parties and sale of the property occur outside court supervision.  2 Dunaway §17:1.  Under Colorado’s form of nonjudicial foreclosure, at issue here, a creditor (or more likely its agent) must first mail the homeowner certain preliminary information, including the telephone number for the Colorado foreclosure hotline.  Colo. Rev. Stat. §38–38–102.5(2) (2018).  Thirty days later, the creditor may file a “notice of election and demand” with a state official called a “public trustee.”  §38–38–101.  The public trustee records this notice and mails a copy, alongside other materials, to the homeowner.  §§38–38–102, 38–38–103.  These materials give the homeowner information about the balance of the loan, the homeowner’s right to cure the default, and the time and place of the foreclosure sale.  §§38–38–101(4), 38–38–103.  Assuming the debtor does not cure the default or declare bankruptcy, the creditor may then seek an order from a state court authorizing the sale.  Colo. Rule Civ. Proc. 120 (2018); see Colo. Rev. Stat. §38–38–105.  (Given this measure of court involvement, Colorado’s “nonjudicial” foreclosure process is something of a hybrid, though no party claims these features transform Colorado’s nonjudicial scheme into a judicial one.)  In court, the homeowner may contest the creditor’s right to sell the property, and a hearing will be held to determine whether the sale should go forward.  Colo. Rules Civ. Proc. 120(c), (d).
+
+															If the court gives its approval, the public trustee may then sell the property at a public auction, though a homeowner may avoid a sale altogether by curing the default up until noon on the day before.  Colo. Rev. Stat. §§38–38–110, 38–38–104(VI)(b).  If the sale goes forward and the house sells for more than the amount owed, any profits go first to lienholders and then to the homeowner.  §38–38–111.  If the house sells for less than what is owed, the creditor cannot hold the homeowner liable for the balance due unless it files a separate action in court and obtains a deficiency judgment.  See §38–38–106(6); Bank of America v. Kosovich, 878 P.2d 65, 66 (Colo. App. 1994).  Other States likewise prevent creditors from obtaining deficiency judgments in nonjudicial foreclosure proceedings.  Restatement §8.2.  And in some States, pursuing nonjudicial foreclosure bars or curtails a creditor’s ability to obtain a deficiency judgment altogether.  NCLC, Foreclosures and Mortgage Servicing §12.3.2.
+
+															B
+
+															In 2007, petitioner Dennis Obduskey bought a home in Colorado with a $329,940 loan secured by the property.  About two years later, Obduskey defaulted.
+
+															In 2014, Wells Fargo Bank, N. A., hired a law firm, McCarthy & Holthus LLP, the respondent here, to act as its agent in carrying out a nonjudicial foreclosure.  According to the complaint, McCarthy first mailed Obduskey a letter that said it had been “instructed to commence foreclosure” against the property, disclosed the amount outstanding on the loan, and identified the creditor, Wells Fargo.  App. 37–38; see id., at 23.  The letter purported to provide notice “[p]ursuant to, and in compliance with,” both the Fair Debt Collection Practices Act (FDCPA) and Colorado law.  Id., at 37.  (The parties seem not to dispute that this and other correspondence from McCarthy was required under state law.  Because that is a question of Colorado law not briefed by the parties before us nor passed on by the courts below, we proceed along the same assumption.)  Obduskey responded with a letter invoking §1692g(b) of the FDCPA, which provides that if a con- sumer disputes the amount of a debt, a “debt collector” must “cease collection” until it “obtains verification of the debt” and mails a copy to the debtor.
+
+															Yet, Obduskey alleges, McCarthy neither ceased collecting on the debt nor provided verification.  App. 22–23.  Instead, the firm initiated a nonjudicial foreclosure action by filing a notice of election and demand with the county public trustee.  Ibid.; see id., at 39–41.  The notice stated the amount due and advised that the public trustee would “sell [the] property for the purpose of paying the indebtedness.”  Id., at 40.
+
+															Obduskey then filed a lawsuit in federal court alleging that the firm had violated the FDCPA by, among other things, failing to comply with the verification procedure.  Id., at 29.  The District Court dismissed the suit on the ground that the law firm was not a “debt collector” within the meaning of the Act, so the relevant Act requirements did not apply.  Obduskey v. Wells Fargo, 2016 WL 4091174, *3 (D Colo., July 19, 2016).
+
+															On appeal, the Court of Appeals for the Tenth Circuit affirmed the dismissal, concluding that the “mere act of enforcing a security interest through a non-judicial foreclosure proceeding does not fall under” the Act.  Obduskey v. Wells Fargo, 879 F.3d 1216, 1223 (2018).
+
+															Obduskey then petitioned for certiorari.  In light of different views among the Circuits about application of the FDCPA to nonjudicial foreclosure proceedings, we granted the petition.  Compare ibid. and Vien-Phuong Thi Ho v. ReconTrust Co., NA, 858 F.3d 568, 573 (CA9 2016) (holding that an entity whose only role is the enforcement of security interests is not a debt collector under the Act), with Kaymark v. Bank of America, N. A., 783 F.3d 168, 179 (CA3 2015) (holding that such an entity is a debt collector for the purpose of all the Act’s requirements), Glazer v. Chase Home Fin. LLC, 704 F.3d 453, 461 (CA6 2013) (same), and Wilson v. Draper & Goldberg, P. L. L. C., 443 F.3d 373, 376 (CA4 2006) (same).
+
+															II
+
+															A
+
+															The FDCPA’s definitional section,
+
+15 U. S. C. §1692a, defines a “debt” as:
+
+															“any obligation or alleged obligation of a consumer to pay money arising out of a transaction in which the money, property, insurance, or services which are the subject of the transaction are primarily for personal, family, or household purposes.”  §1692a(5) (emphasis added).
+
+															The Act then sets out the definition of the term “debt collector.”  §1692a(6).  The first sentence of the relevant paragraph, which we shall call the primary definition, says that the term “debt collector”:
+
+															“means any person . . . in any business the principal purpose of which is the collection of any debts, or who regularly collects or attempts to collect, directly or indirectly, debts owed or asserted to be owed or due another.”  Ibid.
+
+															The third sentence, however, provides what we shall call the limited-purpose definition:
+
+															“For the purpose of section 1692f(6) [the] term [debt collector] also includes any person . . . in any business the principal purpose of which is the enforcement of security interests.”  Ibid.
+
+															The subsection to which the limited-purpose definition refers, §1692f(6), prohibits a “debt collector” from:
+
+															“Taking or threatening to take any nonjudicial action to effect dispossession or disablement of property if—
+
+															“(A) there is no present right to possession of the property . . . ;
+
+															“(B) there is no present intention to take possession of the property; or
+
+															“(C) the property is exempt by law from such dispossession or disablement.”
+
+															The rest of the Act imposes myriad other requirements on debt collectors.  For example, debt collectors may not use or threaten violence, or make repetitive annoying phone calls.  §1692d.  Nor can debt collectors make false, deceptive, or misleading representations in connection with a debt, like misstating a debt’s “character, amount, or legal status.”  §1692e.  And, as we have mentioned, if a consumer disputes the amount of a debt, a debt collector must “cease collection” until it “obtains verification of the debt” and mails a copy to the debtor.  §1692g(b).
+
+															No one here disputes that McCarthy is, by virtue of its role enforcing security interests, at least subject to the specific prohibitions contained in §1692f(6).  The question is whether other provisions of the Act apply.  And they do if, but only if, McCarthy falls within the scope of the Act’s primary definition of “debt collector.”
+
+															B
+
+															Three considerations lead us to conclude that McCarthy is not subject to the main coverage of the Act.
+
+															First, and most decisive, is the text of the Act itself.  As a preliminary matter, we concede that if the FDCPA contained only the primary definition, a business engaged in nonjudicial foreclosure proceedings would qualify as a debt collector for all purposes.  We have explained that a home loan is an obligation to pay money, and the purpose of a mortgage is to secure that obligation.  See supra, at 2.  Foreclosure, in turn, is “the process in which property securing a mortgage is sold to pay off the loan balance due.”  2 Dunaway §15:1.  In other words, foreclosure is a means of collecting a debt.  And a business pursuing nonjudicial foreclosures would, under the capacious language of the Act’s primary definition, be one that “regularly collects or attempts to collect, directly or indirectly, debts.”  §1692a(6).
+
+															It is true that, as McCarthy points out, nonjudicial foreclosure does not seek “a payment of money from the debtor” but rather from sale of the property itself.  Brief for Respondent 17 (emphasis added).  But nothing in the primary definition requires that payment on a debt come “from a debtor.”  The statute speaks simply of the “collection of any debts . . . owed or due.”  §1692a(6).  Moreover, the provision sweeps in both “direc[t]” and “indirec[t]” debt collection.  Ibid.  So, even if nonjudicial foreclosure were not a direct attempt to collect a debt, because it aims to collect on a consumer’s obligation by way of enforcing a security interest, it would be an indirect attempt to collect a debt.
+
+															The Act does not, however, contain only the primary definition.  And the limited-purpose definition poses a serious, indeed an insurmountable, obstacle to subjecting McCarthy to the main coverage of the Act.  It says that “[f]or the purpose of section 1692f(6)” a debt collector “also includes” a business, like McCarthy, “the principal purpose of which is the enforcement of security interests.”  §1692a(6) (emphasis added).  This phrase, particularly the word “also,” strongly suggests that one who does no more than enforce security interests does not fall within the scope of the general definition.  Otherwise why add this sentence at all?
+
+															It is logically, but not practically, possible that Congress simply wanted to emphasize that the definition of “debt collector” includes those engaged in the enforcement of security interests.  But why then would Congress have used the word “also”?  And if security-interest enforcers are covered by the primary definition, why would Congress have needed to say anything special about §1692f(6)?  After all, §1692f(6), just like all the provisions applicable to debt collectors, would have already applied to those who enforce security interests.  The reference to §1692f(6) would on this view be superfluous, and we “generally presum[e] that statutes do not contain surplusage.”  Arlington Central School Dist. Bd. of Ed. v. Murphy,
+
+548 U.S. 291, 299, n. 1 (2006).  By contrast, giving effect to every word of the limited-purpose definition narrows the primary definition, so that the debt-collector-related prohibitions of the FDCPA (with the exception of §1692f(6)) do not apply to those who, like McCarthy, are engaged in no more than security-interest enforcement.
+
+															Second, we think Congress may well have chosen to treat security-interest enforcement differently from ordinary debt collection in order to avoid conflicts with state nonjudicial foreclosure schemes.  As Colorado’s law makes clear, supra, at 3–4, state nonjudicial foreclosure laws provide various protections designed to prevent sharp collection practices and to protect homeowners, see 2 Dunaway §17:1.  And some features of these laws are in tension with aspects of the Act.  For example, the FDCPA broadly limits debt collectors from communicating with third parties “in connection with the collection of any debt.”  §1692c(b).  If this rule were applied to nonjudicial foreclosure proceedings, then advertising a foreclosure sale—an essential element of such schemes—might run afoul of the FDCPA.  Given that a core purpose of publicizing a sale is to attract bidders, ensure that the sale price is fair, and thereby protect the borrower from further liability, the result would hardly benefit debtors.  See 2 Dunaway §17:4.  To be sure, it may be possible to resolve these conflicts without great harm to either the Act or state foreclosure schemes.  See Heintz v. Jenkins,
+
+514 U.S. 291, 296–297 (1995) (observing that the FDCPA’s protections may contain certain “implici[t] exception[s]”).  But it is also possible, in light of the language it employed, that Congress wanted to avoid the risk of such conflicts altogether.
+
+															Third, for those of us who use legislative history to help interpret statutes, the history of the FDCPA supports our reading.  When drafting the bill, Congress considered a version that would have subjected security-interest enforcers to the full coverage of the Act.  That version defined a debt collector as “any person who engages in any business the principal purpose of which is the collection of any debt or enforcement of security interests.”  S. 918, 95th Cong., 1st Sess., §803(f ) (1977) (emphasis added).  A different version of the bill, however, would have totally excluded from the Act’s coverage “any person who enforces or attempts to enforce a security interest in real or personal property.”  S. 1130, 95th Cong., 1st Sess., §802(8)(E) (1977).  Given these conflicting proposals, the Act’s present language has all the earmarks of a compromise: The prohibitions contained in §1692f(6) will cover security-interest enforcers, while the other “debt collector” provisions of the Act will not.
+
+															These considerations convince us that, but for §1692f(6), those who engage in only nonjudicial foreclosure proceedings are not debt collectors within the meaning of the Act.
+
+															III
+
+															Obduskey makes several arguments to the contrary.  But, on balance, we do not find them determinative.
+
+															First, Obduskey acknowledges that unless the limited-purpose definition is superfluous, it must make some kind of security-interest enforcer a “debt collector” who would not otherwise fall within the primary definition.  Reply Brief 11–13.  But, according to Obduskey, “repo men”—those who seize automobiles and other personal property in response to nonpayment—fit the bill.  See Black’s Law Dictionary 1493 (10th ed. 2014) (explaining that “repo” is short for “repossession,” which means “retaking property; esp., a seller’s retaking of goods sold on credit when the buyer has failed to pay for them”).  This is so, he says, because repossession often entails only “limited communication” with the debtor, as when the repo man sneaks up and “tows a car in the middle of the night.”  Brief for Petitioner 25–26, and n. 13.  And because, according to Obduskey, the language of §1692f(6), which forbids “[t]aking or threatening to take any nonjudicial action to effect dispossession or disablement of property,” applies more naturally to the seizure of personal property than to nonjudicial foreclosure.  (Emphasis added.)
+
+															But we do not see why that is so.  The limited-purpose provision speaks broadly of “the enforcement of security interests,” §1692a(6), not “the enforcement of security interests in personal property”; if Congress meant to cover only the repo man, it could have said so.  Moreover, Obduskey’s theory fails to save the limited-purpose definition from superfluity.  As we have just discussed, supra, at 7–8, if the Act contained only the primary definition, enforcement of a security interest would at least be an indirect collection of a debt.  The same may well be true of repo activity, a form of security-interest enforcement, as the point of repossessing property that secures a debt is to collect some or all of the value of the defaulted debt.  And while Obduskey argues that the language of §1692f(6) fits more comfortably with repossession of personal property than nonjudicial foreclosure, we think it at least plausible that “threatening” to foreclose on a consumer’s home without having legal entitlement to do so is the kind of “nonjudicial action” without “present right to possession” prohibited by that section.  §1692f(6)(A).  (We need not, however, here decide precisely what conduct runs afoul of §1692f(6).)
+
+															We are also unmoved by Obduskey’s argument that repossession would not fall under the primary definition because it generally involves only limited communication with the debtor.  For one thing, while some of the FDCPA’s substantive protections apply where there has been a “communicat[ion]” with a consumer, see, e.g., §1692c, the primary definition of debt collector turns on the “collection of . . . debts,” without express reference to communication, §1692a(6).  For another, while Obduskey imagines a silent repo man striking in the dead of night, state law often requires communication with a debtor during the repossession process, such as notifying a consumer of a sale.  NCLC, Repossessions §10.4 (9th ed. 2017).
+
+															Second, Obduskey points to the Act’s venue provision,
+
+15 U. S. C. §1692i(a), which states that “[a]ny debt collector who brings any legal action on a debt against any consumer shall . . . in the case of an action to enforce an interest in real property securing the consumer’s obligation, bring such action only in a judicial district” where the “property is located.”  (Emphasis added.)  This provision, he says, makes clear that a person who judicially enforces a real-property-related security interest is a debt collector; hence, a person who nonjudicially enforces such an interest must also be a debt collector.  Indeed, he adds, this subsection “only makes sense” if those who enforce secu- rity interests in real property are debt collectors subject to all prohibitions and requirements that come with that designation.  Brief for Petitioner 21.
+
+															This argument, however, makes too much of too little.  To begin with, the venue section has no direct application in this case, for here we consider nonjudicial foreclosure.  And whether those who judicially enforce mortgages fall within the scope of the primary definition is a question we can leave for another day.  See 879 F. 3d, at 1221–1222 (noting that the availability of a deficiency judgment is a potentially relevant distinction between judicial and nonjudicial foreclosures).
+
+															More to the point, the venue provision does nothing to alter the definition of a debt collector.  Rather, it applies whenever a “debt collector” brings a “legal action . . . to enforce an interest in real property.”  §1692i(a)(1).  In other words, the provision anticipates that a debt collector can bring a judicial action respecting real property, but it nowhere says that an entity is a debt collector because it brings such an action.  Obduskey suggests that under our interpretation this provision will capture a null set.  We think not.  A business that qualifies as a debt collector based on other activities (say, because it “regularly collects or attempts to collect” unsecured credit card debts, §1692a(6)) would have to comply with the venue provi- sion if it also filed “an action to enforce an interest in real property,” §1692i(a)(1).  Here, however, the only basis alleged for concluding that McCarthy is a debt collector under the Act is its role in nonjudicial foreclosure proceedings.
+
+															Third, Obduskey argues that even if “simply enforcing a security interest” falls outside the primary definition, McCarthy engaged in more than security-interest enforcement by sending notices that any ordinary homeowner would understand as an attempt to collect a debt backed up by the threat of foreclosure.  Brief for Petitioner 15–16; see Reply Brief 13.  We do not doubt the gravity of a letter informing a homeowner that she may lose her home unless she pays her outstanding debts.  But here we assume that the notices sent by McCarthy were antecedent steps required under state law to enforce a security interest.  See supra, at 4.  Indeed, every nonjudicial foreclosure scheme of which we are aware involves notices to the homeowner.  See 2 Dunaway §17:4 (describing state procedures concerning notice of sale).  And because he who wills the ends must will the necessary means, we think the Act’s (partial) exclusion of “the enforcement of security interests” must also exclude the legal means required to do so.  This is not to suggest that pursuing nonjudicial foreclosure is a license to engage in abusive debt collection practices like repetitive nighttime phone calls; enforcing a security interest does not grant an actor blanket immunity from the Act.  But given that we here confront only steps required by state law, we need not consider what other conduct (related to, but not required for, enforcement of a security interest) might transform a security-interest enforcer into a debt collector subject to the main coverage of the Act.
+
+															Finally, Obduskey fears that our decision will open a loophole, permitting creditors and their agents to engage in a host of abusive practices forbidden by the Act.  States, however, can and do guard against such practices, for example, by requiring notices, review by state officials such as the public trustee, and limited court supervision.  See supra, at 3–4, 9.  Congress may think these state protections adequate, or it may choose to expand the reach of the FDCPA.  Regardless, for the reasons we have given, we believe that the statute exempts entities engaged in no more than the “enforcement of security interests” from the lion’s share of its prohibitions.  And we must enforce the statute that Congress enacted.
+
+															For these reasons, the judgment of the Court of Appeals is
+
+															Affirmed.
+													

@@ -1,0 +1,821 @@
+::SCDB_caseID:: 2019-074
+::decision_cite:: 19-715
+::decision_name::  Trump v. Mazars USA, LLP
+::decision_year:: 2020
+::opinion_author:: Roberts
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the preliminary print of the
+United States Reports. Readers are requested to notify the
+Reporter of Decisions, Supreme Court of the United States,
+Washington, D. C. 20543, of any typographical or other formal
+errors, in order that corrections may be made before the
+preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–715 and 19–760
+
+															_________________
+
+															DONALD J. TRUMP, et al., PETITIONERS
+
+															19–715v.
+
+															MAZARS USA, LLP, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the district of columbia circuit
+
+															
+
+															DONALD J. TRUMP, et al., PETITIONERS
+
+															19–760v.
+
+															DEUTSCHE BANK AG, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the second circuit
+
+															[July 9, 2020]
+
+															
+
+															Chief Justice Roberts delivered the opinion of
+the Court.
+
+															Over the course of five days in April 2019,
+three committees of the U. S. House of Representatives issued
+four subpoenas seeking information about the finances of President
+Donald J. Trump, his children, and affiliated businesses. We have
+held that the House has authority under the Constitution to issue
+subpoenas to assist it in carrying out its legislative
+responsibilities. The House asserts that the financial information
+sought here—encompassing a decade’s worth of
+transactions by the President and his family—will help guide
+legislative reform in areas ranging from money laundering and
+terrorism to foreign involvement in U. S. elections. The
+President contends that the House lacked a valid legislative aim
+and instead sought these records to harass him, expose personal
+matters, and conduct law enforcement activities beyond its
+authority. The question presented is whether the subpoenas exceed
+the authority of the House under the Constitution.
+
+															We have never addressed a congressional subpoena
+for the President’s information. Two hundred years ago, it
+was established that Presidents may be subpoenaed during a federal
+criminal proceeding, United States v. Burr, 25 F.
+Cas. 30 (No. 14,692d) (CC Va. 1807) (Marshall, Cir. J.), and
+earlier today we extended that ruling to state criminal
+proceedings, Trump v. Vance, ante, p. ___.
+Nearly fifty years ago, we held that a federal prosecutor could
+obtain information from a President despite assertions of executive
+privilege, United States v. Nixon, 418
+U.S. 683 (1974), and more recently we ruled that a private
+litigant could subject a President to a damages suit and
+appropriate discovery obligations in federal court, Clinton
+v. Jones, 520 U.S.
+681 (1997).
+
+															This case is different. Here the
+President’s information is sought not by prosecutors or
+private parties in connection with a particular judicial
+proceeding, but by committees of Congress that have set forth broad
+legislative objectives. Congress and the President—the two
+political branches established by the Constitution—have an
+ongoing relationship that the Framers intended to feature both
+rivalry and reciprocity. See The Federalist No. 51, p. 349 (J.
+Cooke ed. 1961) (J. Madison); Youngstown Sheet & Tube
+Co. v. Sawyer, 343 U.S.
+579, 635 (1952) (Jackson, J., concurring). That distinctive
+aspect necessarily informs our analysis of the question before
+us.
+
+															I
+
+															A
+
+															Each of the three committees sought
+overlapping sets of financial documents, but each supplied
+different justifications for the requests.
+
+															The House Committee on Financial Services issued
+two subpoenas, both on April 11, 2019. App. 128, 154, 226. The
+first, issued to Deutsche Bank, seeks the financial information of
+the President, his children, their immediate family members, and
+several affiliated business entities. Specifically, the subpoena
+seeks any document related to account activity, due diligence,
+foreign transactions, business statements, debt schedules,
+statements of net worth, tax returns, and suspicious activity
+identified by Deutsche Bank. The second, issued to Capital One,
+demands similar financial information with respect to more than a
+dozen business entities associated with the President. The Deutsche
+Bank subpoena requests materials from “2010 through the
+present,” and the Capital One subpoena covers “2016
+through the present,” but both subpoenas impose no time
+limitations for certain documents, such as those connected to
+account openings and due diligence. Id., at 128, 155.
+
+															According to the House, the Financial Services
+Committee issued these subpoenas pursuant to House Resolution 206,
+which called for “efforts to close loopholes that allow
+corruption, terrorism, and money laundering to infiltrate our
+country’s financial system.” H. Res. 206, 116th
+Cong., 1st Sess., 5 (Mar. 13, 2019). Such loopholes, the resolution
+explained, had allowed “illicit money, including from Russian
+oligarchs,” to flow into the United States through
+“anonymous shell companies” using investments such as
+“luxury high-end real estate.” Id., at 3. The
+House also invokes the oversight plan of the Financial Services
+Committee, which stated that the Committee intends to review
+banking regulation and “examine the implementation,
+effectiveness, and enforcement” of laws designed to prevent
+money laundering and the financing of terrorism.
+H. R. Rep. No. 116–40, p. 84 (2019). The plan
+further provided that the Committee would “consider proposals
+to prevent the abuse of the financial system” and
+“address any vulnerabilities identified” in the real
+estate market. Id., at 85.
+
+															On the same day as the Financial Services
+Committee, the Permanent Select Committee on Intelligence issued an
+identical subpoena to Deutsche Bank—albeit for different
+reasons. According to the House, the Intelligence Committee
+subpoenaed Deutsche Bank as part of an investigation into foreign
+efforts to undermine the U. S. political process. Committee
+Chairman Adam Schiff had described that investigation in a previous
+statement, explaining that the Committee was examining alleged
+attempts by Russia to influence the 2016 election; potential links
+between Russia and the President’s campaign; and whether the
+President and his associates had been compromised by foreign actors
+or interests. Press Release, House Permanent Select Committee on
+Intelligence, Chairman Schiff Statement on House Intelligence
+Committee Investigation (Feb. 6, 2019). Chairman Schiff added that
+the Committee planned “to develop legislation and policy
+reforms to ensure the U. S. government is better positioned to
+counter future efforts to undermine our political process and
+national security.” Ibid.
+
+															Four days after the Financial Services and
+Intelligence Committees, the House Committee on Oversight and
+Reform issued another subpoena, this time to the President’s
+personal accounting firm, Mazars USA, LLP. The subpoena demanded
+information related to the President and several affiliated
+business entities from 2011 through 2018, including statements of
+financial condition, independent auditors’ reports, financial
+reports, underlying source documents, and communications between
+Mazars and the President or his businesses. The subpoena also
+requested all engagement agreements and contracts “[w]ithout
+regard to time.” App. to Pet. for Cert. in 19–715, p.
+230.
+
+															Chairman Elijah Cummings explained the basis for
+the subpoena in a memorandum to the Oversight Committee. According
+to the chairman, recent testimony by the President’s former
+personal attorney Michael Cohen, along with several documents
+prepared by Mazars and supplied by Cohen, raised questions about
+whether the President had accurately represented his financial
+affairs. Chairman Cummings asserted that the Committee had
+“full authority to investigate” whether the President:
+(1) “may have engaged in illegal conduct before and during
+his tenure in office,” (2) “has undisclosed
+conflicts of interest that may impair his ability to make impartial
+policy decisions,” (3) “is complying with the
+Emoluments Clauses of the Constitution,” and
+(4) “has accurately reported his finances to the Office
+of Government Ethics and other federal entities.” App. in No.
+19–5142 (CADC), p. 107. “The Committee’s interest
+in these matters,” Chairman Cummings concluded,
+“informs its review of multiple laws and legislative
+proposals under our jurisdiction.” Ibid.
+
+															B
+
+															Petitioners—the President in his
+personal capacity, along with his children and affiliated
+businesses—filed two suits challenging the subpoenas. They
+contested the subpoena issued by the Oversight Committee in the
+District Court for the District of Columbia (Mazars, No.
+19–715), and the subpoenas issued by the Financial Services
+and Intelligence Committees in the Southern District of New York
+(Deutsche Bank, No. 19–760). In both cases,
+petitioners contended that the subpoenas lacked a legitimate
+legislative purpose and violated the separation of powers. The
+President did not, however, resist the subpoenas by arguing that
+any of the requested records were protected by executive privilege.
+For relief, petitioners asked for declaratory judgments and
+injunctions preventing Mazars and the banks from complying with the
+subpoenas. Although named as defendants, Mazars and the banks took
+no positions on the legal issues in these cases, and the House
+committees intervened to defend the subpoenas.
+
+															Petitioners’ challenges failed. In
+Mazars, the District Court granted judgment for the House,
+380 F. Supp. 3d 76 (DC 2019), and the D. C. Circuit
+affirmed, 940 F.3d 710 (2019). In upholding the subpoena issued by
+the Oversight Committee to Mazars, the Court of Appeals found that
+the subpoena served a “valid legislative purpose”
+because the requested information was relevant to reforming
+financial disclosure requirements for Presidents and presidential
+candidates. Id., at 726–742 (internal quotation marks
+omitted). Judge Rao dissented. As she saw it, the
+“gravamen” of the subpoena was investigating alleged
+illegal conduct by the President, and the House must pursue such
+wrongdoing through its impeachment powers, not its legislative
+powers. Id., at 773–774. Otherwise, the House could
+become a “roving inquisition over a co-equal branch of
+government.” Id., at 748. The D. C. Circuit
+denied rehearing en banc over several more dissents. 941 F.3d 1180,
+1180–1182 (2019).
+
+															In Deutsche Bank, the District Court
+denied a preliminary injunction, 2019 WL 2204898 (SDNY, May 22,
+2019), and the Second Circuit affirmed “in substantial
+part,” 943 F.3d 627, 676 (2019). While acknowledging that the
+subpoenas are “surely broad in scope,” the Court of
+Appeals held that the Intelligence Committee properly issued its
+subpoena to Deutsche Bank as part of an investigation into alleged
+foreign influence over petitioners and Russian interference with
+the U. S. political process. Id., at 650,
+658–659. That investigation, the court concluded, could
+inform legislation to combat foreign meddling and strengthen
+national security. Id., at 658–659, and
+n. 59.
+
+															As to the subpoenas issued by the Financial
+Services Committee to Deutsche Bank and Capital One, the Court of
+Appeals concluded that they were adequately related to potential
+legislation on money laundering, terrorist financing, and the
+global movement of illicit funds through the real estate market.
+Id., at 656–659. Rejecting the contention that the
+subpoenas improperly targeted the President, the court explained in
+part that the President’s financial dealings with Deutsche
+Bank made it “appropriate” for the House to use him as
+a “case study” to determine “whether new
+legislation is needed.” Id., at 662–663, n.
+67.[1]
+
+															Judge Livingston dissented, seeing no
+“clear reason why a congressional investigation aimed
+generally at closing regulatory loopholes in the banking system
+need focus on over a decade of financial information regarding this
+President, his family, and his business affairs.” Id.,
+at 687.
+
+															We granted certiorari in both cases and stayed
+the judgments below pending our decision. 589 U. S. ___
+(2019).
+
+															II
+
+															A
+
+															The question presented is whether the
+subpoenas exceed the authority of the House under the Constitution.
+Historically, disputes over congressional demands for presidential
+documents have not ended up in court. Instead, they have been
+hashed out in the “hurly-burly, the give-and-take of the
+political process between the legislative and the executive.”
+Hearings on S. 2170 et al. before the Subcommittee on
+Intergovernmental Relations of the Senate Committee on Government
+Operations, 94th Cong., 1st Sess., 87 (1975) (A. Scalia, Assistant
+Attorney General, Office of Legal Counsel).
+
+															That practice began with George Washington and
+the early Congress. In 1792, a House committee requested Executive
+Branch documents pertaining to General St. Clair’s campaign
+against the Indians in the Northwest Territory, which had concluded
+in an utter rout of federal forces when they were caught by
+surprise near the present-day border between Ohio and Indiana. See
+T. Taylor, Grand Inquest: The Story of Congressional Investigations
+19–23 (1955). Since this was the first such request from
+Congress, President Washington called a Cabinet meeting, wishing to
+take care that his response “be rightly conducted”
+because it could “become a precedent.” 1 Writings of
+Thomas Jefferson 189 (P. Ford ed. 1892).
+
+															The meeting, attended by the likes of Alexander
+Hamilton, Thomas Jefferson, Edmund Randolph, and Henry Knox, ended
+with the Cabinet of “one mind”: The House had authority
+to “institute inquiries” and “call for
+papers” but the President could “exercise a
+discretion” over disclosures, “communicat[ing] such
+papers as the public good would permit” and
+“refus[ing]” the rest. Id., at 189–190.
+President Washington then dispatched Jefferson to speak to
+individual congressmen and “bring them by persuasion into the
+right channel.” Id., at 190. The discussions were
+apparently fruitful, as the House later narrowed its request and
+the documents were supplied without recourse to the courts. See 3
+Annals of Cong. 536 (1792); Taylor, supra, at 24.
+
+															Jefferson, once he became President, followed
+Washington’s precedent. In early 1807, after Jefferson had
+disclosed that “sundry persons” were conspiring to
+invade Spanish territory in North America with a private army, 16
+Annals of Cong. 686–687, the House requested that the
+President produce any information in his possession touching on the
+conspiracy (except for information that would harm the public
+interest), id., at 336, 345, 359. Jefferson chose not to
+divulge the entire “voluminous” correspondence on the
+subject, explaining that much of it was “private” or
+mere “rumors” and “neither safety nor
+justice” permitted him to “expos[e] names” apart
+from identifying the conspiracy’s “principal
+actor”: Aaron Burr. Id., at 39–40. Instead of
+the entire correspondence, Jefferson sent Congress particular
+documents and a special message summarizing the conspiracy.
+Id., at 39–43; see generally Vance,
+ante, at 3–4. Neither Congress nor the President asked
+the Judiciary to intervene.[2]
+
+															Ever since, congressional demands for the
+President’s information have been resolved by the political
+branches without involving this Court. The Reagan and Clinton
+presidencies provide two modern examples:
+
+															During the Reagan administration, a House
+subcommittee subpoenaed all documents related to the Department of
+the Interior’s decision whether to designate Canada a
+reciprocal country for purposes of the Mineral Lands Leasing Act.
+President Reagan directed that certain documents be withheld
+because they implicated his confidential relationship with
+subordinates. While withholding those documents, the administration
+made “repeated efforts” at accommodation through
+limited disclosures and testimony over a period of several months.
+6 Op. of Office of Legal Counsel 751, 780 (1982). Unsatisfied, the
+subcommittee and its parent committee eventually voted to hold the
+Secretary of the Interior in contempt, and an innovative compromise
+soon followed: All documents were made available, but only for one
+day with no photocopying, minimal notetaking, and no participation
+by non-Members of Congress. Id., at 780–781; see H. R.
+Rep. No. 97–898, pp. 3–8 (1982).
+
+															In 1995, a Senate committee subpoenaed notes
+taken by a White House attorney at a meeting with President
+Clinton’s personal lawyers concerning the Whitewater
+controversy. The President resisted the subpoena on the ground that
+the notes were protected by attorney-client privilege, leading to
+“long and protracted” negotiations and a Senate threat
+to seek judicial enforcement of the subpoena. S. Rep. No.
+104–204, pp. 16–17 (1996). Eventually the parties
+reached an agreement, whereby President Clinton avoided the
+threatened suit, agreed to turn over the notes, and obtained the
+Senate’s concession that he had not waived any privileges.
+Ibid.; see L. Fisher, Congressional Research Service,
+Congressional Investigations: Subpoenas and Contempt Power
+16–18 (2003).
+
+															Congress and the President maintained this
+tradition of negotiation and compromise—without the
+involvement of this Court—until the present dispute. Indeed,
+from President Washington until now, we have never considered a
+dispute over a congressional subpoena for the President’s
+records. And, according to the parties, the appellate courts have
+addressed such a subpoena only once, when a Senate committee
+subpoenaed President Nixon during the Watergate scandal. See
+infra, at 13 (discussing Senate Select Committee on
+Presidential Campaign Activities v. Nixon, 498 F.2d 725
+(CADC 1974) (en banc)). In that case, the court refused to enforce
+the subpoena, and the Senate did not seek review by this Court.
+
+															This dispute therefore represents a significant
+departure from historical practice. Although the parties agree that
+this particular controversy is justiciable, we recognize that it is
+the first of its kind to reach this Court; that disputes of this
+sort can raise important issues concerning relations between the
+branches; that related disputes involving congressional efforts to
+seek official Executive Branch information recur on a regular
+basis, including in the context of deeply partisan controversy; and
+that Congress and the Executive have nonetheless managed for over
+two centuries to resolve such disputes among themselves without the
+benefit of guidance from us. Such longstanding practice “
+‘is a consideration of great weight’ ” in cases
+concerning “the allocation of power between [the] two elected
+branches of Government,” and it imposes on us a duty of care
+to ensure that we not needlessly disturb “the compromises and
+working arrangements that [those] branches . . .
+themselves have reached.” NLRB v. Noel Canning,
+573 U.S.
+513, 524–526 (2014) (quoting The Pocket Veto Case,
+279 U.S.
+655, 689 (1929)). With that in mind, we turn to the question
+presented.
+
+															B
+
+															Congress has no enumerated constitutional
+power to conduct investigations or issue subpoenas, but we have
+held that each House has power “to secure needed
+information” in order to legislate. McGrain v.
+Daugherty, 273 U.S.
+135, 161 (1927). This “power of inquiry—with
+process to enforce it—is an essential and appropriate
+auxiliary to the legislative function.” Id., at 174.
+Without information, Congress would be shooting in the dark, unable
+to legislate “wisely or effectively.” Id., at
+175. The congressional power to obtain information is
+“broad” and “indispensable.” Watkins
+v. United States, 354 U.S.
+178, 187, 215 (1957). It encompasses inquiries into the
+administration of existing laws, studies of proposed laws, and
+“surveys of defects in our social, economic or political
+system for the purpose of enabling the Congress to remedy
+them.” Id., at 187.
+
+															Because this power is “justified solely as
+an adjunct to the legislative process,” it is subject to
+several limitations. Id., at 197. Most importantly, a
+congressional subpoena is valid only if it is “related to,
+and in furtherance of, a legitimate task of the Congress.”
+Id., at 187. The subpoena must serve a “valid
+legislative purpose,” Quinn v. United States,
+349 U.S.
+155, 161 (1955); it must “concern[ ] a subject on
+which legislation ‘could be had,’ ”
+Eastland v. United States Servicemen’s Fund,
+421 U.S.
+491, 506 (1975) (quoting McGrain, 273 U. S., at
+177).
+
+															Furthermore, Congress may not issue a subpoena
+for the purpose of “law enforcement,” because
+“those powers are assigned under our Constitution to the
+Executive and the Judiciary.” Quinn, 349 U. S.,
+at 161. Thus Congress may not use subpoenas to “try”
+someone “before [a] committee for any crime or
+wrongdoing.” McGrain, 273 U. S., at 179. Congress
+has no “ ‘general’ power to inquire into
+private affairs and compel disclosures,” id., at
+173–174, and “there is no congressional power to expose
+for the sake of exposure,” Watkins, 354 U. S., at
+200. “Investigations conducted solely for the personal
+aggrandizement of the investigators or to ‘punish’
+those investigated are indefensible.” Id., at 187.
+
+															Finally, recipients of legislative subpoenas
+retain their constitutional rights throughout the course of an
+investigation. See id., at 188, 198. And recipients have
+long been understood to retain common law and constitutional
+privileges with respect to certain materials, such as
+attorney-client communications and governmental communications
+protected by executive privilege. See, e.g., Congressional
+Research Service, supra, at 16–18 (attorney-client
+privilege); Senate Select Committee, 498 F. 2d, at 727,
+730–731 (executive privilege).
+
+															C
+
+															The President contends, as does the Solicitor
+General appearing on behalf of the United States, that the usual
+rules for congressional subpoenas do not govern here because the
+President’s papers are at issue. They argue for a more
+demanding standard based in large part on cases involving the Nixon
+tapes—recordings of conversations between President Nixon and
+close advisers discussing the break-in at the Democratic National
+Committee’s headquarters at the Watergate complex. The tapes
+were subpoenaed by a Senate committee and the Special Prosecutor
+investigating the break-in, prompting President Nixon to invoke
+executive privilege and leading to two cases addressing the showing
+necessary to require the President to comply with the subpoenas.
+See Nixon, 418
+U.S. 683; Senate Select Committee, 498 F.2d 725.
+
+															Those cases, the President and the Solicitor
+General now contend, establish the standard that should govern the
+House subpoenas here. Quoting Nixon, the President asserts
+that the House must establish a “demonstrated, specific
+need” for the financial information, just as the Watergate
+special prosecutor was required to do in order to obtain the tapes.
+418 U. S., at 713. And drawing on Senate Select
+Committee—the D. C. Circuit case refusing to enforce
+the Senate subpoena for the tapes—the President and the
+Solicitor General argue that the House must show that the financial
+information is “demonstrably critical” to its
+legislative purpose. 498 F. 2d, at 731.
+
+															We disagree that these demanding standards apply
+here. Unlike the cases before us, Nixon and Senate Select
+Committee involved Oval Office communications over which the
+President asserted executive privilege. That privilege safeguards
+the public interest in candid, confidential deliberations within
+the Executive Branch; it is “fundamental to the operation of
+Government.” Nixon, 418 U. S., at 708. As a
+result, information subject to executive privilege deserves
+“the greatest protection consistent with the fair
+administration of justice.” Id., at 715. We decline to
+transplant that protection root and branch to cases involving
+nonprivileged, private information, which by definition does not
+implicate sensitive Executive Branch deliberations.
+
+															The standards proposed by the President and the
+Solicitor General—if applied outside the context of
+privileged information—would risk seriously impeding Congress
+in carrying out its responsibilities. The President and the
+Solicitor General would apply the same exacting standards to
+all subpoenas for the President’s information, without
+recognizing distinctions between privileged and nonprivileged
+information, between official and personal information, or between
+various legislative objectives. Such a categorical approach would
+represent a significant departure from the longstanding way of
+doing business between the branches, giving short shrift to
+Congress’s important interests in conducting inquiries to
+obtain the information it needs to legislate effectively.
+Confounding the legislature in that effort would be contrary to the
+principle that:
+
+															“It is the proper duty of a
+representative body to look diligently into every affair of
+government and to talk much about what it sees. It is meant to be
+the eyes and the voice, and to embody the wisdom and will of its
+constituents. Unless Congress have and use every means of
+acquainting itself with the acts and the disposition of the
+administrative agents of the government, the country must be
+helpless to learn how it is being served.” United
+States v. Rumely, 345 U.S.
+41, 43 (1953) (internal quotation marks omitted).
+
+															Legislative inquiries might involve the
+President in appropriate cases; as noted, Congress’s
+responsibilities extend to “every affair of
+government.” Ibid. (internal quotation marks omitted).
+Because the President’s approach does not take adequate
+account of these significant congressional interests, we do not
+adopt it.
+
+															D
+
+															The House meanwhile would have us ignore that
+these suits involve the President. Invoking our precedents
+concerning investigations that did not target the President’s
+papers, the House urges us to uphold its subpoenas because they
+“relate[ ] to a valid legislative purpose” or
+“concern[ ] a subject on which legislation could be
+had.” Brief for Respondent 46 (quoting Barenblatt v.
+United States, 360 U.S.
+109, 127 (1959), and Eastland, 421 U. S., at 506).
+That approach is appropriate, the House argues, because the cases
+before us are not “momentous separation-of-powers
+disputes.” Brief for Respondent 1.
+
+															Largely following the House’s lead, the
+courts below treated these cases much like any other, applying
+precedents that do not involve the President’s papers. See
+943 F. 3d, at 656–670; 940 F. 3d, at 724–742.
+The Second Circuit concluded that “this case does not concern
+separation of powers” because the House seeks personal
+documents and the President sued in his personal capacity. 943
+F. 3d, at 669. The D. C. Circuit, for its part,
+recognized that “separation-of-powers concerns still linger
+in the air,” and therefore it did not afford deference to the
+House. 940 F. 3d, at 725–726. But, because the House
+sought only personal documents, the court concluded that the case
+“present[ed] no direct interbranch dispute.”
+Ibid.
+
+															The House’s approach fails to take
+adequate account of the significant separation of powers issues
+raised by congressional subpoenas for the President’s
+information. Congress and the President have an ongoing
+institutional relationship as the “opposite and rival”
+political branches established by the Constitution. The Federalist
+No. 51, at 349. As a result, congressional subpoenas directed at
+the President differ markedly from congressional subpoenas we have
+previously reviewed, e.g., Barenblatt, 360
+U. S., at 127; Eastland, 421 U. S., at 506, and
+they bear little resemblance to criminal subpoenas issued to the
+President in the course of a specific investigation, see
+Vance, ante, p. ___; Nixon, 418
+U.S. 683. Unlike those subpoenas, congressional subpoenas for
+the President’s information unavoidably pit the political
+branches against one another. Cf. In re Sealed Case,
+121 F.3d 729, 753 (CADC 1997) (“The President’s ability
+to withhold information from Congress implicates different
+constitutional considerations than the President’s ability to
+withhold evidence in judicial proceedings.”).
+
+															Far from accounting for separation of powers
+concerns, the House’s approach aggravates them by leaving
+essentially no limits on the congressional power to subpoena the
+President’s personal records. Any personal paper possessed by
+a President could potentially “relate to” a conceivable
+subject of legislation, for Congress has broad legislative powers
+that touch a vast number of subjects. Brief for Respondent 46. The
+President’s financial records could relate to economic
+reform, medical records to health reform, school transcripts to
+education reform, and so on. Indeed, at argument, the House was
+unable to identify any type of information that lacks some
+relation to potential legislation. See Tr. of Oral Arg.
+52–53, 62–65.
+
+															Without limits on its subpoena powers, Congress
+could “exert an imperious controul” over the Executive
+Branch and aggrandize itself at the President’s expense, just
+as the Framers feared. The Federalist No. 71, at 484 (A. Hamilton);
+see id., No. 48, at 332–333 (J. Madison);
+Bowsher v. Synar, 478 U.S.
+714, 721–722, 727 (1986). And a limitless subpoena power
+would transform the “established practice” of the
+political branches. Noel Canning, 573 U. S., at 524
+(internal quotation marks omitted). Instead of negotiating over
+information requests, Congress could simply walk away from the
+bargaining table and compel compliance in court.
+
+															The House and the courts below suggest that
+these separation of powers concerns are not fully implicated by the
+particular subpoenas here, but we disagree. We would have to be
+“blind” not to see what “[a]ll others can see and
+understand”: that the subpoenas do not represent a
+run-of-the-mill legislative effort but rather a clash between rival
+branches of government over records of intense political interest
+for all involved. Rumely, 345 U. S., at 44 (quoting
+Child Labor Tax Case, 259 U.S.
+20, 37 (1922) (Taft, C. J.)).
+
+															The interbranch conflict here does not vanish
+simply because the subpoenas seek personal papers or because the
+President sued in his personal capacity. The President is the only
+person who alone composes a branch of government. As a result,
+there is not always a clear line between his personal and official
+affairs. “The interest of the man” is often
+“connected with the constitutional rights of the
+place.” The Federalist No. 51, at 349. Given the close
+connection between the Office of the President and its occupant,
+congressional demands for the President’s papers can
+implicate the relationship between the branches regardless whether
+those papers are personal or official. Either way, a demand may aim
+to harass the President or render him “complaisan[t] to the
+humors of the Legislature.” Id., No. 71, at 483. In
+fact, a subpoena for personal papers may pose a heightened risk of
+such impermissible purposes, precisely because of the
+documents’ personal nature and their less evident connection
+to a legislative task. No one can say that the controversy here is
+less significant to the relationship between the branches simply
+because it involves personal papers. Quite the opposite. That
+appears to be what makes the matter of such great consequence to
+the President and Congress.
+
+															In addition, separation of powers concerns are
+no less palpable here simply because the subpoenas were issued to
+third parties. Congressional demands for the President’s
+information present an interbranch conflict no matter where the
+information is held—it is, after all, the President’s
+information. Were it otherwise, Congress could sidestep
+constitutional requirements any time a President’s
+information is entrusted to a third party—as occurs with
+rapidly increasing frequency. Cf. Carpenter v. United
+States, 585 U. S. ___, ___, ___ (2018) (slip op., at 15,
+17). Indeed, Congress could declare open season on the
+President’s information held by schools, archives, internet
+service providers, e-mail clients, and financial institutions. The
+Constitution does not tolerate such ready evasion; it “deals
+with substance, not shadows.” Cummings v.
+Missouri, 4 Wall. 277, 325 (1867).
+
+															E
+
+															Congressional subpoenas for the
+President’s personal information implicate weighty concerns
+regarding the separation of powers. Neither side, however,
+identifies an approach that accounts for these concerns. For more
+than two centuries, the political branches have resolved
+information disputes using the wide variety of means that the
+Constitution puts at their disposal. The nature of such
+interactions would be transformed by judicial enforcement of either
+of the approaches suggested by the parties, eroding a
+“[d]eeply embedded traditional way[ ] of conducting
+government.” Youngstown Sheet & Tube Co., 343
+U. S., at 610 (Frankfurter, J., concurring).
+
+															A balanced approach is necessary, one that takes
+a “considerable impression” from “the practice of
+the government,” McCulloch v. Maryland, 4
+Wheat. 316, 401 (1819); see Noel Canning, 573 U. S., at
+524–526, and “resist[s]” the “pressure
+inherent within each of the separate Branches to exceed the outer
+limits of its power,” INS v. Chadha, 462 U.S.
+919, 951 (1983). We therefore conclude that, in assessing
+whether a subpoena directed at the President’s personal
+information is “related to, and in furtherance of, a
+legitimate task of the Congress,” Watkins, 354
+U. S., at 187, courts must perform a careful analysis that
+takes adequate account of the separation of powers principles at
+stake, including both the significant legislative interests of
+Congress and the “unique position” of the President,
+Clinton, 520 U. S., at 698 (internal quotation marks
+omitted). Several special considerations inform this analysis.
+
+															First, courts should carefully assess whether
+the asserted legislative purpose warrants the significant step of
+involving the President and his papers. “
+‘[O]ccasion[s] for constitutional confrontation between the
+two branches’ should be avoided whenever possible.”
+Cheney v. United States Dist. Court for D. C.,
+542 U.S.
+367, 389–390 (2004) (quoting Nixon, 418
+U. S., at 692). Congress may not rely on the President’s
+information if other sources could reasonably provide Congress the
+information it needs in light of its particular legislative
+objective. The President’s unique constitutional position
+means that Congress may not look to him as a “case
+study” for general legislation. Cf. 943 F. 3d, at
+662–663, n. 67.
+
+															Unlike in criminal proceedings, where
+“[t]he very integrity of the judicial system” would be
+undermined without “full disclosure of all the facts,”
+Nixon, 418 U. S., at 709, efforts to craft legislation
+involve predictive policy judgments that are “not hamper[ed]
+. . . in quite the same way” when every scrap of
+potentially relevant evidence is not available, Cheney, 542
+U. S., at 384; see Senate Select Committee, 498 F. 2d,
+at 732. While we certainly recognize Congress’s important
+interests in obtaining information through appropriate inquiries,
+those interests are not sufficiently powerful to justify access to
+the President’s personal papers when other sources could
+provide Congress the information it needs.
+
+															Second, to narrow the scope of possible conflict
+between the branches, courts should insist on a subpoena no broader
+than reasonably necessary to support Congress’s legislative
+objective. The specificity of the subpoena’s request
+“serves as an important safeguard against unnecessary
+intrusion into the operation of the Office of the President.”
+Cheney, 542 U. S., at 387.
+
+															Third, courts should be attentive to the nature
+of the evidence offered by Congress to establish that a subpoena
+advances a valid legislative purpose. The more detailed and
+substantial the evidence of Congress’s legislative purpose,
+the better. See Watkins, 354 U. S., at 201, 205
+(preferring such evidence over “vague” and
+“loosely worded” evidence of Congress’s purpose).
+That is particularly true when Congress contemplates legislation
+that raises sensitive constitutional issues, such as legislation
+concerning the Presidency. In such cases, it is
+“impossible” to conclude that a subpoena is designed to
+advance a valid legislative purpose unless Congress adequately
+identifies its aims and explains why the President’s
+information will advance its consideration of the possible
+legislation. Id., at 205–206, 214–215.
+
+															Fourth, courts should be careful to assess the
+burdens imposed on the President by a subpoena. We have held that
+burdens on the President’s time and attention stemming from
+judicial process and litigation, without more, generally do not
+cross constitutional lines. See Vance, ante, at
+12–14; Clinton, 520 U. S., at 704–705. But
+burdens imposed by a congressional subpoena should be carefully
+scrutinized, for they stem from a rival political branch that has
+an ongoing relationship with the President and incentives to use
+subpoenas for institutional advantage.
+
+															Other considerations may be pertinent as well;
+one case every two centuries does not afford enough experience for
+an exhaustive list.
+
+															When Congress seeks information “needed
+for intelligent legislative action,” it
+“unquestionably” remains “the duty of all
+citizens to cooperate.” Watkins, 354 U. S., at
+187 (emphasis added). Congressional subpoenas for information from
+the President, however, implicate special concerns regarding the
+separation of powers. The courts below did not take adequate
+account of those concerns. The judgments of the Courts of Appeals
+for the D. C. Circuit and the Second Circuit are vacated, and
+the cases are remanded for further proceedings consistent with this
+opinion.
+
+															
+
+															It is so ordered.
+
+Notes
+1
+ The Court of Appeals
+directed a “limited” remand for the District Court to
+consider whether it was necessary to disclose certain
+“sensitive personal details” (such as documents
+reflecting medical services received by employees of the Trump
+business entities) and a “few” documents that might not
+relate to the committees’ legislative purposes. 943 F.3d 627,
+667–668, 675 (2019). The Court of Appeals ordered that all
+other documents be “promptly transmitted” to the
+committees. Id., at 669.
+2
+ By contrast, later that
+summer, the Judiciary was called on to resolve whether
+President Jefferson could be issued a subpoena duces tecum
+arising from Burr’s criminal trial. See United States
+v. Burr, 25 F. Cas. 30 (No. 14,692d) (CC Va. 1807); see also
+Trump v. Vance, ante, at
+5–7.
+
+

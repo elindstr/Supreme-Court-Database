@@ -1,0 +1,184 @@
+::SCDB_caseID:: 2020-012
+::decision_cite:: 19-199
+::decision_name::  Salinas v. Railroad Retirement Board
+::decision_year:: 2021
+::opinion_author:: Sotomayor
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–199
+
+															_________________
+
+															MANFREDO M. SALINAS, PETITIONER v. UNITED STATES RAILROAD RETIREMENT BOARD
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[February 3, 2021]
+
+															
+
+															Justice Sotomayor delivered the opinion of the Court.
+
+															The Railroad Retirement Act of 1974 (RRA),
+
+50Stat.
+307, as restated and amended,
+
+45 U. S. C. §231 et seq., establishes a system of disability, retirement, and survivor benefits for railroad employees.  That system is administered by the U. S. Railroad Retirement Board (Board).  The Board denied benefits to petitioner Manfredo M. Salinas, a former railroad employee, when he applied in 2006, but it later granted him benefits when he reapplied in 2013.  Salinas then requested that the Board reopen its decision to deny his 2006 application, but the Board declined.  This case asks whether the Board’s refusal to reopen the prior denial of benefits is subject to judicial review.  The Court holds that it is.
+
+															I
+
+															A
+
+															The RRA provides long-term benefits to railroad employees who have accrued enough years of service and who have either reached a certain age or become disabled.  See 45 U. S. C. §§231a(a)(1), (b).  It also provides benefits for eligible employees’ spouses and survivors under certain conditions.  §§231a(c)–(d).  These benefits complement those provided by another statute, the Railroad Unemployment Insurance Act (RUIA),
+
+52Stat.
+1094,
+
+45 U. S. C. §351 et seq., which covers short-term periods of unemployment and sickness.  See §352.  This case concerns benefits under the RRA only.  Both statutes, however, are relevant, as discussed below.
+
+															To administer benefits under the RRA, the Board has implemented a multistep system of administrative review.  First, an individual applies for benefits and receives an initial decision from the appropriate division of the Board, such as the Disability Benefits Division.  20 CFR §260.1(a) (2020).  If the individual is dissatisfied, she may seek reconsideration from the Board’s Reconsideration Section.  §260.3(a).  If denied again, she may appeal to the Board’s Bureau of Hearings and Appeals (Bureau).  §260.5(a).  Lastly, the applicant may take a final appeal to the Board itself.  §260.9(a).
+
+															This four-step sequence is the primary form of administrative review for benefits determinations.  Applicants have a right to seek each of the above levels of review within 60 days.  See, e.g., 
+
+45 U. S. C. §231f(b)(3); 20 CFR §260.9(b).  Once an applicant completes the review process, or the deadline for seeking further review passes, the benefits determination becomes “final” under the Board’s regulations.  See 20 CFR §261.1(b).
+
+															After a determination becomes final, an applicant can request that the Board reopen it.  See §261.1(a).  “Reopening . . . means a conscious determination on the part of the agency to reconsider an otherwise final decision for purposes of revising that decision.”  §261.1(c) (emphasis deleted).  Whether to grant reopening is ultimately discretionary.  See §261.11.  The Board, however, has established substantive criteria to guide its discretion.  For example, as relevant here, a decision may be reopened “[w]ithin four years of the date of the notice of such decision, if there is new and material evidence.”  §261.2(b).
+
+															B
+
+															Salinas is a former carpenter and assistant foreman for the Union Pacific Railroad.  During his 15-year railroad career, he suffered two serious injuries on the job.  In 1989, a co-worker dropped a sledge hammer from an overhead bridge, hitting Salinas on the top of his hardhat.  Then, in 1993, a wooden railroad tie fell from a truck and struck Salinas in the head.  As a result, Salinas underwent two spinal fusion surgeries.  After receiving treatment, Salinas continued to experience pain, anxiety, and depression.  He began seeking RRA disability benefits in 1992.  His first two applications were denied, and he did not seek reconsideration of either.
+
+															On February 28, 2006, Salinas filed his third application for RRA benefits.  The Board denied Salinas’ application on August 28, 2006, concluding that his impairments were not severe enough to qualify for relief.  After missing the deadline for seeking reconsideration, Salinas sent a letter to the Board requesting that it reconsider its decision “even though the 60 days had passed.”  Record 207. Salinas noted, among other things, that he had “more medical records to provide.”  Ibid.  The Reconsideration Section denied Salinas’ request, finding that he had failed to demonstrate good cause for his late filing.  See 20 CFR §260.3(c).  Salinas did not appeal.
+
+															Seven years later, on December 26, 2013, Salinas filed his fourth application for RRA benefits.  This time, his application was granted.  Although Salinas was deemed disabled as of October 9, 2010, his benefits began on December 1, 2012, 12 months prior to the date on which he filed his successful application.  Under the RRA, disability benefits begin on the latest of several alternative start dates, and Salinas’ application-based start date was later than his disability onset date.  See Record 8;
+
+45 U. S. C. §231d(a)(ii); 20 CFR §218.9(c).
+
+															Salinas timely sought reconsideration of the amount and start date of his benefits.  The Reconsideration Section denied relief, and Salinas appealed to the Bureau.  On appeal, Salinas argued that his 2006 application should be reopened because the Board had not considered certain medical records in existence at the time when it denied him benefits.  Salinas submitted the records as part of his appeal.
+
+															On August 26, 2016, the Bureau denied Salinas’ request to reopen the 2006 decision.  The Bureau concluded that Salinas had failed to seek reopening based on “new and material evidence” within four years of the decision at issue, as required by regulation.  20 CFR §261.2(b).  Salinas appealed to the Board, which affirmed the Bureau’s decision on the ground that Salinas had not met the criteria for reopening under §261.2.  The Board notified Salinas that he could seek judicial review of the Board’s decision within one year.
+
+															Salinas filed a timely pro se petition for review with the United States Court of Appeals for the Fifth Circuit.  The Fifth Circuit dismissed the petition for lack of jurisdiction.  765 Fed. Appx. 79, 80–81 (2019) (per curiam).  In a previous decision, the Fifth Circuit had joined the majority of Circuits in holding that federal courts cannot review the Board’s refusal to reopen a prior benefits determination.  See Roberts v. Railroad Retirement Bd., 346 F.3d 139, 141 (2003).  The Fifth Circuit noted a longstanding split among the Circuits on this issue.  765 Fed. Appx., at 80–81 (citing cases).
+
+															We granted certiorari to resolve the conflict among the Courts of Appeals.  589 U. S. ___ (2020).
+
+															II
+
+															Section 231g of the RRA provides that, except for the deadline for seeking review, “[d]ecisions of the Board determining the rights or liabilities of any person” under the RRA “shall be subject to judicial review in the same manner, subject to the same limitations, and all provisions of law shall apply in the same manner as though the decision were a determination of corresponding rights or liabilities under the Railroad Unemployment Insurance Act.”
+
+45 U. S. C. §231g.  In other words, §231g makes judicial review available under the RRA to the same extent that review is available under the RUIA.[1]  This case, therefore, turns on the RUIA’s judicial review provision,
+
+45 U. S. C. §355(f ).
+
+															Section 355(f ) provides:  “Any claimant, or any railway labor organization organized in accordance with the provisions of the Railway Labor Act . . . , of which claimant is a member, or any base-year employer of the claimant, or any other party aggrieved by a final decision under subsection (c) of this section, may . . . obtain a review of any final decision of the Board.”[2]  To qualify for judicial review under this provision, the Board’s refusal to reopen its denial of Salinas’ 2006 application must constitute “any final decision of the Board.”  It does.
+
+															A
+
+															The text of §355(f ) starts our analysis.  The phrase “any final decision” is broad, and it reflects Congress’ intent to define the scope of review “expansively.”  Smith v. Berryhill, 587 U. S. ___, ___ (2019) (slip op., at 6) (internal quotation marks and brackets omitted).  The phrase “denotes some kind of terminal event,” such as the “final stage of review.”  Id., at ___–___ (slip op., at 6–7). Similar language in the Administrative Procedure Act has been interpreted to refer to an agency action that “both (1) mark[s] the consummation of the agency’s decisionmaking process and (2) is one by which rights or obligations have been determined, or from which legal consequences will flow.”  Id., at ___ (slip op., at 9) (quoting Bennett v. Spear,
+
+520 U.S. 154, 177–178 (1997); internal quotation marks omitted).
+
+															The Board’s refusal to reopen the prior denial of benefits satisfies these criteria.  First, the decision was the “terminal event” in the Board’s administrative review process.  Smith, 587 U. S., at ___ (slip op., at 6).  After first requesting reopening before the Bureau, Salinas exhausted further agency review by appealing to the Board itself.  Salinas’ only recourse thereafter was to seek judicial review.
+
+															Second, the Board’s decision was one “ ‘by which rights or obligations have been determined, or from which legal consequences will flow.’ ”  Army Corps of Engineers v. Hawkes Co.,
+
+578 U.S. 590, 597 (2016).  The Board has defined reopening as “a conscious determination . . . to reconsider an otherwise final decision for purposes of revising that decision.”  20 CFR §261.1(c).  Reopening therefore entails substantive changes that affect benefits and obligations under the RRA.  Consistent with its substantive nature, the decision to grant or deny reopening is guided by objective criteria, including whether “there is new and material evidence or there was adjudicative error not consistent with the evidence of record at the time of adjudication.”  §261.2(b).  If reopening is granted, any revision the Board makes may be reviewed in the same manner as a primary determination of benefits; otherwise, the revision is “binding.”  §§261.7, 261.8.  In light of these features, a decision about reopening fits within the meaning of “any final decision” as that phrase is used in §355(f ).
+
+															The Board disagrees because it interprets the phrase “any final decision” to mean “any final decision under §355(c).”  The Board’s argument goes like this:  Section 355(f ) authorizes four parties to seek judicial review: (1) a claimant for benefits, (2) a claimant’s railway labor organization, (3) a claimant’s base-year employer, and (4) “any other party aggrieved by a final decision under subsection (c) of this section.”
+
+45 U. S. C. §355(f ).  The phrase “any other” means that, in order to obtain judicial review, each of the enumerated parties must be “aggrieved by a final decision under subsection (c).”  This implies, in turn, that each party may seek judicial review of only the decision “under subsection (c)” by which it was aggrieved.  A denial of reopening is not a decision “under subsection (c)” because it is not a determination granting or denying benefits.  See §§355(c)(1)–(4).  Thus, the Board argues, reopening decisions are not subject to judicial review.
+
+															The Board’s interpretation is inconsistent with the text of §355(f ).  Congress conspicuously chose the broad language “any final decision,” without tying that phrase to the earlier reference to “a final decision under subsection (c).”  This omission is especially notable because Congress used such limiting references elsewhere in §355.  Under §355(c)(5), Congress established rules for “[f]inal decision[s] of the Board in the cases provided for in the preceding three paragraphs” (in other words, under §§355(c)(2)–(4)).
+
+45 U. S. C. §355(c)(5).  In the same paragraph, Congress authorized any properly interested and notified party to obtain judicial review of “any such decision by which he claims to be aggrieved.”
+
+45 U. S. C. §355(c)(5).  By using the language “such” and “by which he claims to be aggrieved,” Congress clearly referred to the particular type of decision described earlier in §355(c)(5), thus limiting judicial review to final decisions “provided for” in §§355(c)(2)–(4).
+
+															This type of limiting language is absent from §355(f ).  “Where Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion.”  Russello v. United States,
+
+464 U.S. 16, 23 (1983) (internal quotation marks and brackets omitted).  Section 355(f ) authorizes judicial review of “any” final decision, not “such” final decision “under subsection (c).”  The Board’s denial of reopening qualifies for review under the language Congress chose.[3]
+
+															B
+
+															To the extent there is ambiguity in the meaning of “any final decision,” it must be resolved in Salinas’ favor under the “strong presumption favoring judicial review of administrative action.”  Mach Mining, LLC v. EEOC,
+
+575 U.S. 480, 486 (2015) (internal quotation marks omitted).  This default rule is “ ‘well-settled,’ ” and Congress is presumed to legislate with it in mind.  Kucana v. Holder,
+
+558 U.S. 233, 252 (2010).  To rebut the presumption, the Board bears a “heavy burden” of showing that the statute’s “language or structure” forecloses judicial review.  Mach Mining, 575 U. S., at 486 (internal quotation marks omitted).
+
+															The Board has not met its burden.  The Board argues that various cross-references within §355 indicate that §355(f ) covers only decisions made under §355(c).  For instance, §355(c)(7) provides for review solely “pursuant to this subsection and subsection (f ).”
+
+45 U. S. C. §355(c)(7); see also §355(c)(5).  Meanwhile, §355(f ) requires that “all administrative remedies within the Board,” including review under §355(c), must be exhausted before a party can seek judicial review.  Finally, §355(g) provides that “[f]indings of fact and conclusions of law of the Board in the determination of any claim for benefits or refund” and “the determination of any other matter pursuant to subsection (c)” shall be reviewed exclusively under §355(f ).  In the Board’s view, these cross-references prove that §§355(f ) and 355(c) are coextensive.
+
+															The structure of §355 shows that §355(c) feeds exclusively into §355(f ), but nothing in the statute suggests that the exclusivity runs the other way.  To the contrary, several clues indicate that §355(f ) encompasses decisions beyond those described in §355(c).  For example, §355(g) lists three types of decisions that are subject to review exclusively under §355(f ): determinations of claims for benefits or refunds, determinations of other matters under §355(c), and determinations that unexpended funds in the railroad unemployment insurance account may be used to pay benefits or refunds.  See 45 U. S. C. §§355(g), 351(p), 360(a).  The Board concedes that the third type of decision falls outside §355(c).  See Brief for Respondent 22, n. 4.[4]  In addition, the Board’s own regulations appear to presume that judicial review is available for decisions not covered by §355(c), such as the Board’s determinations of employers’ contribution rates.  See 20 CFR §345.307(c).  Given these indications that §355(f ) is broader than §355(c), the Board’s structural argument does not overcome the plain meaning of “any final decision” and the presumption in favor of judicial review.
+
+															C
+
+															The Board’s remaining arguments also fall short.  First, the Board argues that this Court’s precedent holds that reopening decisions are not subject to judicial review.  In Califano v. Sanders,
+
+430 U.S. 99 (1977), this Court concluded that §405(g) of the Social Security Act, which authorizes judicial review of “ ‘any final decision of the Secretary made after a hearing,’ ” does not apply to refusals to reopen a prior benefits determination.  Id., at 102 (quoting
+
+42 U. S. C. §405(g)).  As it is under the RRA, the opportunity to seek reopening in Califano was “a second look that the agency had made available to claimants as a matter of grace” after the deadline for appealing an initial benefits determination had passed.  Smith, 587 U. S., at ___ (slip op., at 12).  Given this similarity, many courts have applied Califano to the type of decision at issue here.  See, e.g., Roberts, 346 F. 3d, at 141; Harris v. Railroad Retirement Bd., 198 F.3d 139, 142 (CA4 1999); Abbruzzese v. Railroad Retirement Bd., 63 F.3d 972, 974 (CA10 1995).
+
+															A key textual difference in the respective judicial review provisions, however, distinguishes Califano from this case.  Section 405(g) of the Social Security Act provides that reviewable decisions must be “made after a hearing,” whereas §355(f ) of the RRA contains no such limitation.  Compare
+
+42 U. S. C. §405(g) with
+
+45 U. S. C. §355(f ).  Section 405(g)’s hearing requirement was a significant basis for Califano’s conclusion that judicial review was unavailable, as “a petition to reopen a prior final decision may be denied without a hearing.”  430 U. S., at 108; see also ibid. (explaining that §405(g) “clearly limits judicial review to a particular type of agency action”).  The other considerations identified in Califano, including the fact that reopening was made available only by regulation, corroborated the Court’s interpretation of this important textual limit.  Ibid.; see also Smith, 587 U. S., at ___ (slip op., at 8).  Section 355(f ), by contrast, contains no such express limitation, and the Board’s decision fits within the provision’s plain language.
+
+															Second, the Board argues that §355(f ) should be interpreted in light of §231g’s reference to decisions “determining the rights or liabilities of any person.”  See
+
+45 U. S. C. §231g.  The denial of reopening does not qualify for judicial review, the Board claims, because it is simply a “refusal to make a new determination” of rights or liabilities, like the decision this Court addressed in Your Home Visiting Nurse Services, Inc. v. Shalala,
+
+525 U.S. 449 (1999).  Id., at 453 (emphasis deleted).  In Your Home, this Court concluded that an agency intermediary’s refusal to reopen a prior Medicare reimbursement determination was not subject to further administrative review because it was not a “ ‘final determination . . . as to the amount of total program  reimbursement due.’ ”  Ibid. (quoting
+
+42 U. S. C. §1395oo(a)(1)(A)(i)).  The agency argued that the denial of reopening was not itself a determination “as to the amount,” but rather a refusal to make such a determination.  Ibid.  This Court concluded that the agency’s interpretation was reasonable, and thus entitled to deference under Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+
+467 U.S. 837 (1984).  Your Home, 525 U. S., at 453.  The Court noted that the agency’s interpretation was also “the more natural” reading of the statute and was “further confirmed” by two considerations from Califano:  The right to seek reopening existed only by regulation, and permitting review would undermine the ordinary deadlines for appealing the intermediary’s reimbursement decisions.  525 U. S., at 453–454.  The Board argues that its decision here should be viewed in the same way.
+
+															The Board’s argument is unpersuasive for several reasons.  First, the statute in Your Home defined the scope of internal agency review and thus did not implicate the presumption in favor of judicial review.  To the contrary, the Court ultimately deferred to the agency’s interpretation precluding review under Chevron.  See 525 U. S., at 453.  No such deference is due here because the scope of judicial review is “hardly the kind of question that the Court presumes that Congress implicitly delegated to an agency.”  Smith, 587 U. S., at ___ (slip op., at 14).
+
+															Second, the statute at issue in Your Home was narrower than §231g because it focused on a particular type of determination: one “as to the amount of total program reimbursement due the provider.”  See
+
+42 U. S. C. §1395oo(a)(1)(A)(i).  Section 231g, in contrast, broadly authorizes judicial review of “[d]ecisions . . . determining the rights or liabilities of any person under [the RRA].”  This broader language, as well as §231g’s express direction that “all provisions of law shall apply in the same manner as though the decision were a determination of corresponding rights or liabilities under the [RUIA],” indicates that §231g simply incorporates §355(f ) into the RRA.  As the Board stated during oral argument, §231g “effectively piggybacks” on §355(f ).  Tr. of Oral Arg. 46.  Every Court of Appeals to interpret these statutes has reached the same conclusion.  See supra, at 5, n. 1.  Thus, the key language governing judicial review under both statutes is the phrase “any final decision.”
+
+															Finally, the Board argues that the opportunity to seek reopening is a matter of administrative grace, and such solicitous discretion should not be discouraged by allowing judicial review.  But the fact that the Board could decline to offer reopening does not mean that, having chosen to provide it, the Board may avoid the plain text of §355(f ).  See Hawkes Co., 578 U. S., at 602 (“[S]uch a ‘count your blessings’ argument is not an adequate rejoinder to the assertion of a right to judicial review”).  Whether the availability of judicial review will affect how the Board exercises its discretion is a question properly reserved for Congress.
+
+															It is also worth noting that judicial review of reopening decisions will be limited.  The Board’s decision to grant or deny reopening, while guided by substantive criteria, is ultimately discretionary and therefore subject to reversal only for abuse of discretion.  See 20 CFR §261.11; Stovic, 826 F. 3d, at 506; Szostak v. Railroad Retirement Bd., 370 F.2d 253, 254 (CA2 1966) (Friendly, J., for the court).  Most decisions will be upheld under this deferential standard.  See ICC v. Locomotive Engineers,
+
+482 U.S. 270, 288 (1987) (Stevens, J., concurring).  Judicial review plays a modest, but important, role in guarding against decisions that are arbitrary, inconsistent with the standards set by the Board’s own regulations, or otherwise contrary to law.
+
+															*  *  *
+
+															We hold that the Board’s refusal to reopen a prior benefits determination is a “final decision” within the meaning of §355(f ), and therefore subject to judicial review.  The judgment of the United States Court of Appeals for the Fifth Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ Every Court of Appeals to interpret these statutes has reached the same conclusion.  See Stovic v. Railroad Retirement Bd., 826 F.3d 500, 502 (CADC 2016) (Kavanaugh, J., for the court); Cunningham v. Railroad Retirement Bd., 392 F.3d 567, 571 (CA3 2004); Roberts v. Railroad Retirement Bd., 346 F.3d 139, 140 (CA5 2003); Rivera v. Railroad Retirement Bd., 262 F.3d 1005, 1008 (CA9 2001); Harris v. Railroad Retirement Bd., 198 F.3d 139, 141 (CA4 1999); Abbruzzese v. Railroad Retirement Bd., 63 F.3d 972, 974, n. 4 (CA10 1995); Clifford v. Railroad Retirement Bd., 3 F.3d 536, 538, n. 4 (CA1 1993); Linquist v. Bowen, 813 F.2d 884, 888 (CA8 1987); Steebe v. Railroad Retirement Bd., 708 F.2d 250, 252 (CA7 1983); Railroad Concrete Crosstie Corp. v. Railroad Retirement Bd., 709 F.2d 1404, 1406, n. 2 (CA11 1983); Szostak v. Railroad Retirement Bd., 370 F.2d 253, 254 (CA2 1966) (interpreting §231g’s predecessor provision); accord, Brief for Petitioner 15; Brief for Respondent 12. 
+
+2
+ “[S]ubsection (c),” i.e.,
+
+45 U. S. C. §355(c), governs administrative review of benefits determinations under the RUIA.  It addresses decisions awarding or denying benefits, including “initial determination[s],” as well as decisions about the recovery of improperly awarded benefits.  45 U. S. C. §§355(c)(1)–(4). 
+
+3
+ The Court need not resolve the parties’ dispute about whether each type of party listed in §355(f ) must be “aggrieved by a final decision under subsection (c),” or whether that phrase modifies only the closest antecedent.  Either way, Salinas is a proper party because he qualifies as both a “claimant” and a “claimant . . . aggrieved by a final decision under subsection (c).”  Salinas has filed four separate applications for benefits under the RRA, and he claims to have been aggrieved by the Board’s decision on each, including the Board’s allegedly incorrect assessment of the benefits he is owed based on his 2013 application. 
+
+4
+ The Board argues that §355(g) merely precludes review of the Board’s fund decisions by the Comptroller General, who ordinarily makes determinations related to the charging and settling of government accounts.  See Brief for Respondent 22, n. 4.  That purpose, however, could have been accomplished without also indicating that review is available “as provided in subsection (f ).”
+
+45 U. S. C. §355(g).  Indeed, the RUIA does exactly this with respect to determinations about the use of funds from an administrative expense account.  See §361(c) (providing simply that the Board’s determinations “shall not be subject to review in any manner”).  Ultimately, we need not resolve whether the Board’s fund decisions are subject to judicial review.  The point is that the Board’s structural interpretation is subject to doubt, and therefore does not overcome the presumption in favor of judicial review. 
+
+

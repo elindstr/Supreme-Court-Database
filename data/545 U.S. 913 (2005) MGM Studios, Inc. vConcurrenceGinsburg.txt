@@ -1,0 +1,88 @@
+::SCDB_caseID:: 2004-079
+::decision_cite:: 545 U.S. 913 (2005)
+::decision_name::  MGM Studios, Inc. v. Grokster, Ltd.
+::decision_year:: 2005
+::opinion_author:: Ginsburg
+::opinion_type:: Concurrence
+::opinion:: 
+
+
+GINSBURG, J., CONCURRING
+METRO-GOLDWYN-MAYER STUDIOS INC. V.GROKSTER, LTD.
+545 U. S. ____ (2005_)
+SUPREME COURT OF THE UNITED STATES
+NO. 04-480
+
+
+
+
+
+															METRO-GOLDWYN-MAYER STUDIOS INC., et al.,
+PETITIONERS v. GROKSTER, LTD., et al.
+
+															on writ of certiorari to the united states court of
+appeals for the ninth circuit
+
+															[June 27, 2005]
+
+
+
+															   Justice Ginsburg, with whom The Chief Justice and Justice Kennedy join, concurring
+
+															
+   I concur in the Court’s decision, which vacates in full the judgment of the Court of Appeals for the Ninth Circuit, ante, at 24, and write separately to clarify why I conclude that the Court of Appeals misperceived, and hence misapplied, our holding in Sony Corp. of America v. Universal City Studios, Inc., 464 U. S. 417 (1984).  There is here at least a “genuine issue as to [a] material fact,” Fed. Rule Civ. Proc. 56(c), on the liability of Grokster or StreamCast, not only for actively inducing copyright infringement, but also or alternatively, based on the distribution of their software products, for contributory copyright infringement.  On neither score was summary judgment for Grokster and StreamCast warranted.
+
+															
+
+   At bottom, however labeled, the question in this case is whether Grokster and StreamCast are liable for the direct infringing acts of others.  Liability under our jurisprudence may be predicated on actively encouraging (or inducing) infringement through specific acts (as the Court’s opinion develops) or on distributing a product distributees use to infringe copyrights, if the product is not capable of “substantial” or “commercially significant” noninfringing uses.  Sony, 464 U. S., at 442; see also 3 M. Nimmer & D. Nimmer, Nimmer on Copyright §12.04[A][2] (2005).  While the two categories overlap, they capture different culpable behavior.  Long coexisting, both are now codified in patent law.  Compare 35 U. S. C. §271(b) (active inducement liability), with §271(c) (contributory liability for distribution of a product not “suitable for substantial noninfringing use”).
+
+															
+
+   In Sony, 464 U. S. 417, the Court considered Sony’s liability for selling the Betamax video cassette recorder.  It did so enlightened by a full trial record.  Drawing an analogy to the staple article of commerce doctrine from patent law, the Sony Court observed that the “sale of an article … adapted to [a patent] infringing use” does not suffice “to make the seller a contributory infringer” if the article “is also adapted to other and lawful uses.”  Id., at 441 (quoting Henry v. A. B. Dick Co., 224 U. S. 1, 48 (1912), overruled on other grounds, Motion Picture Patents Co. v. Universal Film Mfg. Co., 243 U. S. 502, 517 (1917)).
+
+															
+
+   “The staple article of commerce doctrine” applied to copyright, the Court stated, “must strike a balance between a copyright holder’s legitimate demand for effective—not merely symbolic—protection of the statutory monopoly, and the rights of others freely to engage in substantially unrelated areas of commerce.”  Sony, 464 U. S., at 442.  “Accordingly,” the Court held, “the sale of copying equipment, like the sale of other articles of commerce, does not constitute contributory infringement if the product is widely used for legitimate, unobjectionable purposes.  Indeed, it need merely be capable of substantial noninfringing uses.”  Ibid.  Thus, to resolve the Sony case, the Court explained, it had to determine “whether the Betamax is capable of commercially significant noninfringing uses.”  Ibid.
+
+															
+
+   To answer that question, the Court considered whether “a significant number of [potential uses of the Betamax were] noninfringing.”  Ibid.  The Court homed in on one potential use—private, noncommercial time-shifting of television programs in the home (i.e., recording a broadcast TV program for later personal viewing).  Time-shifting was noninfringing, the Court concluded, because in some cases trial testimony showed it was authorized by the copyright holder, id., at 443–447, and in others it qualified as legitimate fair use, id., at 447–455.  Most purchasers used the Betamax principally to engage in time-shifting, id., at 421, 423, a use that “plainly satisfie[d]” the Court’s standard, id., at 442.  Thus, there was no need in Sony to “give precise content to the question of how much [actual or potential] use is commercially significant.”  Ibid.[Footnote 1]  Further development was left for later days and cases.
+
+															
+
+   The Ninth Circuit went astray, I will endeavor to explain, when that court granted summary judgment to Grokster and StreamCast on the charge of contributory liability based on distribution of their software products.  Relying on its earlier opinion in A&M Records, Inc. v. Napster, Inc., 239 F. 3d 1004 (CA9 2001), the Court of Appeals held that “if substantial noninfringing use was shown, the copyright owner would be required to show that the defendant had reasonable knowledge of specific infringing files.”  380 F. 3d 1154, 1161 (CA9 2004).  “A careful examination of the record,” the court concluded, “indicates that there is no genuine issue of material fact as to noninfringing use.”  Ibid.  The appeals court pointed to the band Wilco, which made one of its albums available for free downloading, to other recording artists who may have authorized free distribution of their music through the Internet, and to public domain literary works and films available through Grokster’s and StreamCast’s software.  Ibid.  Although it acknowledged MGM’s assertion that “the vast majority of the software use is for copyright infringement,” the court concluded that Grokster’s and StreamCast’s proffered evidence met Sony’s requirement that “a product need only be capable of substantial noninfringing uses.”  380 F. 3d, at 1162.[Footnote 2]
+
+															
+
+   This case differs markedly from Sony.  Cf. Peters, Brace Memorial Lecture: Copyright Enters the Public Domain, 51 J. Copyright Soc. 701, 724 (2004) (“The Grokster panel’s reading of Sony is the broadest that any court has given it … .”).  Here, there has been no finding of any fair use and little beyond anecdotal evidence of noninfringing uses.  In finding the Grokster and StreamCast software products capable of substantial noninfringing uses, the District Court and the Court of Appeals appear to have relied largely on declarations submitted by the defendants.  These declarations include assertions (some of them hearsay) that a number of copyright owners authorize distribution of their works on the Internet and that some public domain material is available through peer-to-peer networks including those accessed through Grokster’s and StreamCast’s software.  380 F. 3d, at 1161; 259 F. Supp. 2d 1029, 1035–1036 (CD Cal. 2003); App. 125–171.
+
+															
+
+   The District Court declared it “undisputed that there are substantial noninfringing uses for Defendants’ software,” thus obviating the need for further proceedings.  259 F. Supp. 2d, at 1035.  This conclusion appears to rest almost entirely on the collection of declarations submitted by Grokster and StreamCast.  Ibid.   Review of these declarations reveals mostly anecdotal evidence, sometimes obtained second-hand, of authorized copyrighted works or public domain works available online and shared through peer-to-peer networks, and general statements about the benefits of peer-to-peer technology.  See, e.g., Decl. of Janis Ian ¶13, App. 128 (“P2P technologies offer musicians an alternative channel for promotion and distribution.”); Decl. of Gregory Newby ¶12, id., at 136 (“Numerous authorized and public domain Project Gutenberg eBooks are made available on Morpheus, Kazaa, Gnutella, Grokster, and similar software products.”); Decl. of Aram Sinnreich ¶6, id., at 151 (“file sharing seems to have a net positive impact on music sales”); Decl. of John Busher ¶8, id., at 166 (“I estimate that Acoustica generates sales of between $1,000 and $10,000 per month as a result of the distribution of its trialware software through the Gnutella and FastTrack Networks.”); Decl. of Patricia D. Hoekman ¶¶3–4, id., at 169–170 (search on Morpheus for “President Bush speeches” found several video recordings, searches for “Declaration of Independence” and “Bible” found various documents and declarant was able to download a copy of the Declaration); Decl. of Sean L. Mayers ¶11, id., at 67 (“Existing open, decentralized peer-to-peer file-sharing networks … offer content owners distinct business advantages over alternate online distribution technologies.”).  Compare Decl. of Brewster Kahle ¶20, id., at 142 (“Those who download the Prelinger films … are entitled to redistribute those files, and the Archive welcomes their redistribution by the Morpheus-Grokster-KaZaa community of users.”), with Deposition of Brewster Kahle, id., at 396–403 (Sept. 18, 2002) (testifying that he has no knowledge of any person downloading a Prelinger film using Morpheus, Grokster, or KaZaA).  Compare also Decl. of Richard Prelinger ¶17, id., at 147 (“[W]e welcome further redistribution of the Prelinger films … by individuals using peer-to-peer software products like Morpheus, KaZaA and Grokster.”), with Deposition of Richard Prelinger, id., at 410–411 (Oct. 1, 2002) (“Q. What is your understanding of Grokster?  A. I have no understanding of Grokster… . Q. Do you know whether any user of the Grokster software has made available to share any Prelinger film?  A. No.”).  See also Deposition of Aram Sinnreich, id., at 390 (Sept. 25, 2002) (testimony about the band Wilco based on “[t]he press and industry news groups and scuttlebutt.”).  These declarations do not support summary judgment in the face of evidence, proffered by MGM, of overwhelming use of Grokster’s and StreamCast’s software for infringement.[Footnote 3]
+
+															
+
+Even if the absolute number of noninfringing files copied using the Grokster and StreamCast software is large, it does not follow that the products are therefore put to substantial noninfringing uses and are thus immune from liability.  The number of noninfringing copies may be reflective of, and dwarfed by, the huge total volume of files shared.  Further, the District Court and the Court of Appeals did not sharply distinguish between uses of Grokster’s and StreamCast’s software products (which this case is about) and uses of peer-to-peer technology generally (which this case is not about).
+
+															
+
+   In sum, when the record in this case was developed, there was evidence that Grokster’s and StreamCast’s products were, and had been for some time, overwhelmingly used to infringe, ante, at 4–6; App. 434–439, 476–481, and that this infringement was the overwhelming source of revenue from the products, ante, at 8–9; 259 F. Supp. 2d, at 1043–1044.  Fairly appraised, the evidence was insufficient to demonstrate, beyond genuine debate, a reasonable prospect that substantial or commercially significant noninfringing uses were likely to develop over time.  On this record, the District Court should not have ruled dispositively on the contributory infringement charge by granting summary judgment to Grokster and StreamCast.[Footnote 4]
+
+															
+
+   If, on remand, the case is not resolved on summary judgment in favor of MGM based on Grokster and StreamCast actively inducing infringement, the Court of Appeals, I would emphasize, should reconsider, on a fuller record, its interpretation of Sony’s product distribution holding.
+
+Footnote 1
+															 Justice Breyer finds in Sony Corp. of America v. Universal City Studios, Inc., 464 U. S. 417 (1984), a “clear” rule permitting contributory liability for copyright infringement based on distribution of a product only when the product “will be used almost exclusively to infringe copyrights.”  Post, at 9–10.  But cf. Sony, 464 U. S., at 442 (recognizing “copyright holder’s legitimate demand for effective—not merely symbolic—protection”).  Sony, as I read it, contains no clear, near-exclusivity test.  Nor have Courts of Appeals unanimously recognized Justice Breyer’s clear rule.  Compare A&M Records, Inc. v. Napster, Inc., 239 F. 3d 1004, 1021 (CA9 2001) (“[E]vidence of actual knowledge of specific acts of infringement is required to hold a computer system operator liable for contributory copyright infringement.”), with In re Aimster Copyright Litigation, 334 F. 3d 643, 649–650 (CA7 2003) (“[W]hen a supplier is offering a product or service that has noninfringing as well as infringing uses, some estimate of the respective magnitudes of these uses is necessary for a finding of contributory infringement. …  But the balancing of costs and benefits is necessary only in a case in which substantial noninfringing uses, present or prospective, are demonstrated.”).  See also Matthew Bender & Co., Inc. v. West Pub. Co., 158 F. 3d 693, 707 (CA2 1998) (“The Supreme Court applied [the Sony] test to prevent copyright holders from leveraging the copyrights in their original work to control distribution of … products that might be used incidentally for infringement, but that had substantial noninfringing uses… .  The same rationale applies here [to products] that have substantial, predominant and noninfringing uses as tools for research and citation.”).  All Members of the Court agree, moreover, that “the Court of Appeals misapplied Sony,” at least to the extent it read that decision to limit “secondary liability” to a hardly-ever category, “quite beyond the circumstances to which the case applied.”  Ante, at 16.
+
+Footnote 2
+															 Grokster and StreamCast, in the Court of Appeals’ view, would be entitled to summary judgment unless MGM could show that that the software companies had knowledge of specific acts of infringement and failed to act on that knowledge—a standard the court held MGM could not meet.  380 F. 3d, at 1162–1163.
+
+Footnote 3
+															 Justice Breyer finds support for summary judgment in this motley collection of declarations and in a survey conducted by an expert retained by MGM.  Post, at 4–8.  That survey identified 75% of the files available through Grokster as copyrighted works owned or controlled by the plaintiffs, and 15% of the files as works likely copyrighted.  App. 439.  As to the remaining 10% of the files, “there was not enough information to form reasonable conclusions either as to what those files even consisted of, and/or whether they were infringing or non-infringing.”  App. 479.  Even assuming, as Justice Breyer does, that the Sony Court would have absolved Sony of contributory liability solely on the basis of the use of the Betamax for authorized time-shifting, post, at 3–4, summary judgment is not inevitably appropriate here.  Sony stressed that the plaintiffs there owned “well below 10%” of copyrighted television programming, 464 U. S., at 443, and found, based on trial testimony from representatives of the four major sports leagues and other individuals authorized to consent to home-recording of their copyrighted broadcasts, that a similar percentage of program copying was authorized, id., at 424.  Here, the plaintiffs allegedly control copyrights for 70% or 75% of the material exchanged through the Grokster and StreamCast software, 380 F. 3d, at 1158; App. 439, and the District Court does not appear to have relied on comparable testimony about authorized copying from copyright holders.
+
+Footnote 4
+															 The District Court’s conclusion that “[p]laintiffs do not dispute that Defendants’ software is being used, and could be used, for substantial noninfringing purposes,” 259 F. Supp. 2d 1029, 1036 (CD Cal. 2003); accord 380 F. 3d, at 1161, is, to say the least, dubious.  In the courts below and in this Court, MGM has continuously disputed any such conclusion.  Brief for Motion Picture Studio and Recording Company Petitioners 30–38; Brief for MGM Plaintiffs-Appellants in No. 03–55894, etc. (CA9), p. 41; App. 356–357, 361–365.
+
+
+

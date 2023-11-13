@@ -1,0 +1,103 @@
+::SCDB_caseID:: 2020-004
+::decision_cite:: 18-540
+::decision_name::  Rutledge v. Pharmaceutical Care Management Association
+::decision_year:: 2020
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 18–540
+
+															_________________
+
+															LESLIE RUTLEDGE, ATTORNEY GENERAL OF ARKANSAS, PETITIONER v. PHARMA- CEUTICAL CARE MANAGEMENT ASSOCIATION
+
+															on writ of certiorari to the united states court of appeals for the eighth circuit
+
+															[December 10, 2020]
+
+															
+
+															Justice Thomas, concurring.
+
+															I join the Court’s opinion in full because it properly applies our precedents interpreting the pre-emptive effect of the Employee Retirement Income Security Act of 1974 (ERISA),
+
+29 U. S. C. §1144.
+
+															I write separately because I continue to doubt our ERISA pre-emption jurisprudence.  Gobeille v. Liberty Mut. Ins. Co.,
+
+577 U.S. 312, 327 (2016) (Thomas, J., concurring).  The plain text of ERISA suggests a two-part pre-emption test: (1) do any ERISA provisions govern the same matter as the state law at issue, and (2) does that state law have a meaningful relationship to ERISA plans?  Only if the answers to both are in the affirmative does ERISA displace state law.  But our precedents have veered from the text, transforming §1144 into a “vague and ‘potentially boundless’. . . ‘purposes and objectives’ pre-emption” clause that relies on “generalized notions of congressional purposes.”  Wyeth v. Levine,
+
+555 U.S. 555, 587 (2009) (Thomas, J., concurring in judgment).  Although that approach may allow courts to arrive at the correct result in individual cases, it offers little guidance or predictability.  We should instead apply the law as written.
+
+															I
+
+															When construing a statutory provision, we begin with the text.  United States v. Alvarez-Sanchez,
+
+511 U.S. 350, 356 (1994).  Section 1144(a) provides that certain of ERISA’s provisions “shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan” with certain exceptions not relevant in this case.
+
+															The term “supersede” precludes reading the statute as categorically pre-empting any state law related to employee benefit plans. Rather, it suggests a replacement or substitution instead of a blanket pre-emption.  See Webster’s Third New International Dictionary 2295 (1976) (defining “supersede” to mean, among other things, “to take the place of and outmode by superiority”); District of Columbia v. Greater Washington Bd. of Trade,
+
+506 U.S. 125, 135–136 (1992) (Stevens, J., dissenting) (noting the word “supersede” is “often overlooked”).  
+
+															Where Congress seeks to pre-empt state laws without replacing them, it typically uses different words.  See, e.g., 
+
+84Stat.
+88, codified in
+
+15 U. S. C. §1334(b) (stating in a “preemption” section that “[n]o requirement or prohibition based on smoking and health shall be imposed under State law with respect to the advertising or promotion of any cigarettes the packages of which are labeled in conformity with the provisions of this Act”);
+
+49 U. S. C. §41713(b)(1) (“[A] State . . . may not enact or enforce a law, regulation, or other provision having the force and effect of law related to a price, route, or service of an air carrier”).  Congress knows how to write sweeping pre-emption statutes.  But it did not do so here.  Applying the statutory text, the first step is to ask whether a provision in ERISA governs the same matter as the disputed state law, and thus could replace it.  
+
+															The next step is to determine whether the state law “relate[s] to” employee benefit plans.  29 U. S. C.  §1144(a).  The Court has expressed concern that a literal reading of this phrase is so broad that it is meaningless.  See New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Ins. Co.,
+
+514 U.S. 645, 655 (1995).  But many times it is the ordinary, not literalist, meaning that is the better one.  See, e.g., McBoyle v. United States,
+
+283 U.S. 25, 26 (1931) (“vehicle” in the 1930s did not include aircraft because “in everyday speech ‘vehicle’ calls up the picture of a thing moving on land”).  “[A] reasonable person conversant with applicable social conventions” would not understand “relate to” as covering any state law with a connection to employee benefit plans, no matter how remote the connection. Manning, What Divides Textualists From Purposivists? 106 Colum. L. Rev. 70, 77 (2006); see also California Div. of Labor Standards Enforcement v. Dillingham Constr., N. A., Inc.,
+
+519 U.S. 316, 336 (1997) (Scalia J., concurring) (interpreting “relate to” literally would lead to results “no sensible person could have intended”).  If someone, for instance, asserted that he is “related to Joe,” it would be reasonable to presume a close familial relationship.  No one would assume that the speaker was referencing a mutual tie to Adam and Eve.  So too here.  A state law needs more than a “tenuous, remote, or peripheral” connection with ERISA plans to trigger the statute.  Shaw v. Delta Air Lines, Inc.,
+
+463 U.S. 85, 100, n. 21 (1983); cf. Wisconsin Dept. of Revenue v. William Wrigley, Jr., Co.,
+
+505 U.S. 214, 231 (1992) (“ ‘the law cares not for trifles’ ”).  
+
+															II
+
+															Here, the parties have not pointed to any ERISA provision that governs the same matter as Act 900.  That alone should resolve the case.  But the parties certainly cannot be faulted for not raising this argument.  Our amorphous precedents have largely ignored this step.  E.g., District of Columbia, 506 U. S., at 129.
+
+															Instead, we have asked only if the state law “ ‘relate[d] to’ ” ERISA plans.  Ibid.  But this has proved problematic because of “how much state law §1144 would pre-empt if read literally.”  Gobeille, 577 U. S., at 328 (Thomas, J., concurring).  Instead of reverting to the text, however, we decided that “relate to” is so “indetermina[te]” that it cannot “give us much help drawing the line.”  Travelers, 514 U. S., at 655.
+
+															Having paid little attention to the actual statutory test, we crafted our own, asking whether the challenged state law frustrates the “ ‘objectives’ ” of ERISA.  Gobeille, 577 U. S., at 320.  Under this approach, the Court will declare as pre-empted “state laws based on perceived conflicts with broad federal policy objectives, legislative history, or generalized notions of congressional purposes that are not embodied within the text of federal law.”  Wyeth, 555 U. S., at 583 (opinion of Thomas, J.).  Our case law states that under an objectives and purposes pre-emption approach, a state law is pre-empted if it has a “reference to” or an “impermissible connection with” ERISA plans.  Gobeille, 577 U. S., at 319–320.  But this vague test offered “no more help than” the “ ‘relate to’ ” one.  Travelers, 514 U. S., at 656.
+
+															Our more recent efforts to further narrow the test have just yielded more confusion.  A state law references ERISA only if it “ ‘acts immediately and exclusively upon ERISA plans. . . or where the existence of ERISA plans is essential to the law’s operation.’ ”  Gobeille, 577 U. S., at 319–320 (ellipsis in original).  A connection with ERISA plans is impermissible only if it “ ‘governs. . . a central matter of plan administration’ ” or “ ‘interferes with nationally uniform plan administration.’ ”  Id., at 320. (ellipsis in original).[1]  Although, at first blush, that may seem more precise than asking if a law “relates to” ERISA, it has proven just as difficult to apply consistently, leading many members of the Court to suggest still other methods.  See, e.g., Egelhoff v. Egelhoff,
+
+532 U.S. 141, 152 (2001) (Scalia, J., concurring); Aetna Health Inc. v. Davila,
+
+542 U.S. 200, 222–224 (2004) (Ginsburg, J., concurring).  Instead of relying on this “accordion-like” test that seems to expand or contract depending on the year,  Reece, The Accordion Type Jurisprudence of ERISA Preemption Creates Unnecessary Uncertainty, 88 UMKC L. Rev. 115, 124, n. 71 (2019), perhaps we should just interpret the text as written.
+
+															III
+
+															Stare decisis concerns need not caution against a return to the text because the outcomes of our recent cases—if not the reasoning— are generally consistent with a text-based approach.  Indeed, since Travelers every state law this Court has held pre-empted involved a matter explicitly addressed by ERISA provisions.  See, e.g., Boggs v. Boggs,
+
+520 U.S. 833, 843–854 (1997) (pre-empting state law and discussing ERISA provisions with which it conflicts); Aetna Health, 542 U. S., at 204 (holding that states cannot create new causes of action that conflict with ERISA’s “ ‘interlocking, interrelated, and interdependent remedial scheme,’ ” located in §502(a) of ERISA).[2]
+
+															But it is not enough for this Court to reach the right conclusions.  We should do so in the way Congress instructed.  Indeed, although we have generally arrived at the conclusions we would arrive at under a text-based approach, our capacious, nontextual test encourages departure from the text.  The decision below is testament to that problem.  We unanimously reverse that decision today, but we can hardly fault judges when they apply the amorphous test that we gave them.  We can and should do better.
+Notes
+1
+ We have also held that a state law might have an impermissible connection with ERISA plans if the indirect economic effects of the state law “force an ERISA plan to adopt a certain scheme of substantive coverage or effectively restrict its choice of insurers.”  New York State Conference of Blue Cross & Blue Shield Plans v.  Travelers Ins. Co.,
+
+514 U.S. 645, 668 (1995). 
+
+2
+ The Court has found something to be “a central matter of plan administration” only when the matter is addressed by ERISA’s text.  E.g., Egelhoff v. Egelhoff,
+
+532 U.S. 141, 148 (2001); Gobeille v. Liberty Mut. Ins. Co., 577 U. S., at 321–322.  And if the state law interferes with national uniformity but ERISA does not address the matter, we have held that the matter in question does not require uniformity.  Travelers, 514 U. S., at 662; ante, at 5, (“not every state law that. . . causes some disuniformity in plan administration” is pre-empted).  We have also held that ERISA does not pre-empt state laws regulating ERISA plans engaging in activity not regulated by ERISA, like running a hospital.  See De Buono v. NYSA–ILA Medical and Clinical Services Fund,
+
+520 U.S. 806 (1997).  That makes sense because ERISA has nothing to say about those activities. 
+
+

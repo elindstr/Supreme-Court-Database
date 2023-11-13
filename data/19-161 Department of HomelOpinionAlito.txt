@@ -1,0 +1,417 @@
+::SCDB_caseID:: 2019-070
+::decision_cite:: 19-161
+::decision_name::  Department of Homeland Security v. Thuraissigiam
+::decision_year:: 2020
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 19–161
+
+															_________________
+
+															DEPARTMENT OF HOMELAND SECURITY, et al., PETITIONERS v. VIJAYAKUMAR  THURAISSIGIAM
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															[June 25, 2020]
+
+															
+
+															Justice Alito delivered the opinion of the Court.
+
+															Every year, hundreds of thousands of aliens are apprehended at or near the border attempting to enter this country illegally.  Many ask for asylum, claiming that they would be persecuted if returned to their home countries.  Some of these claims are valid, and by granting asylum, the United States lives up to its ideals and its treaty obligations.  Most asylum claims, however, ultimately fail, and some are fraudulent.  In 1996, when Congress enacted the Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA),
+
+110Stat.
+3009–546, it crafted a system for weeding out patently meritless claims and expeditiously removing the aliens making such claims from the country.  It was Congress’s judgment that detaining all asylum seekers until the full-blown removal process is completed would place an unacceptable burden on our immigration system and that releasing them would present an undue risk that they would fail to appear for removal proceedings.
+
+															This case concerns the constitutionality of the system Congress devised.  Among other things, IIRIRA placed restrictions on the ability of asylum seekers to obtain review under the federal habeas statute, but the United States Court of Appeals for the Ninth Circuit held that these restrictions are unconstitutional.  According to the Ninth Circuit, they unconstitutionally suspend the writ of habeas corpus and violate asylum seekers’ right to due process.  We now review that decision and reverse.
+
+															Respondent’s Suspension Clause argument fails because it would extend the writ of habeas corpus far beyond its scope “when the Constitution was drafted and ratified.”  Boumediene v. Bush,
+
+553 U.S. 723, 746 (2008).  Indeed, respondent’s use of the writ would have been unrecognizable at that time.  Habeas has traditionally been a means to secure release from unlawful detention, but respondent invokes the writ to achieve an entirely different end, namely, to obtain additional administrative review of his asylum claim and ultimately to obtain authorization to stay in this country.
+
+															Respondent’s due process argument fares no better.  While aliens who have established connections in this country have due process rights in deportation proceedings, the Court long ago held that Congress is entitled to set the conditions for an alien’s lawful entry into this country and that, as a result, an alien at the threshold of initial entry cannot claim any greater rights under the Due Process Clause.  See Nishimura Ekiu v. United States,
+
+142 U.S. 651, 660 (1892).  Respondent attempted to enter the country illegally and was apprehended just 25 yards from the border.  He therefore has no entitlement to procedural rights other than those afforded by statute.
+
+															In short, under our precedents, neither the Suspension Clause nor the Due Process Clause of the
+ 
+Fifth Amendment requires any further review of respondent’s claims, and IIRIRA’s limitations on habeas review are constitutional as applied.
+
+															I
+
+															A
+
+															We begin by briefly outlining the provisions of immigration law that are pertinent to this case.  Under those provisions, several classes of aliens are “inadmissible” and therefore “removable.”  8 U. S. C. §§1182, 1229a(e)(2)(A).  These include aliens who lack a valid entry document “at the time of application for admission.”  §1182(a)(7)(A)(i)(I).  An alien who arrives at a “port of entry,” i.e., a place where an alien may lawfully enter, must apply for admission.  An alien like respondent who is caught trying to enter at some other spot is treated the same way.  §§1225(a)(1), (3).
+
+															If an alien is inadmissible, the alien may be removed.  The usual removal process involves an evidentiary hearing before an immigration judge, and at that hearing an alien may attempt to show that he or she should not be removed.  Among other things, an alien may apply for asylum on the ground that he or she would be persecuted if returned to his or her home country.  §1229a(b)(4); 8 CFR §1240.11(c) (2020).  If that claim is rejected and the alien is ordered removed, the alien can appeal the removal order to the Board of Immigration Appeals and, if that appeal is unsuccessful, the alien is generally entitled to review in a federal court of appeals.  8 U. S. C. §§1229a(c)(5), 1252(a).  As of the first quarter of this fiscal year, there were 1,066,563 pending removal proceedings.  See Executive Office for Immigration Review (EOIR), Adjudication Statistics: Pending Cases (Jan. 2020).  The average civil appeal takes approximately one year.[1]  During the time when removal is being litigated, the alien will either be detained, at considerable expense, or allowed to reside in this country, with the attendant risk that he or she may not later be found.  §1226(a).
+
+															Congress addressed these problems by providing more expedited procedures for certain “applicants for admission.”  For these purposes, “[a]n alien present in the United States who has not been admitted or who arrives in the United States (whether or not at a designated port of arrival . . . )” is deemed “an applicant for admission.”  §1225(a)(1).[2]  An applicant is subject to expedited removal if, as relevant here, the applicant (1) is inadmissible because he or she lacks a valid entry document; (2) has not “been physically present in the United States continuously for the 2-year period immediately prior to the date of the determination of inadmissibility”; and (3) is among those whom the Secretary of Homeland Security has designated for expedited removal.  §§1225(b)(1)(A)(i), (iii)(I)–(II).[3]  Once “an immigration officer determines” that a designated applicant “is inadmissible,” “the officer [must] order the alien removed from the United States without further hearing or review.”  §1225(b)(1)(A)(i).
+
+															Applicants can avoid expedited removal by claiming asylum.  If an applicant “indicates either an intention to apply for asylum” or “a fear of persecution,” the immigration officer “shall refer the alien for an interview by an asylum officer.”  §§1225(b)(1)(A)(i)–(ii).  The point of this screening interview is to determine whether the applicant has a “credible fear of persecution.”  §1225(b)(1)(B)(v).  The applicant need not show that he or she is in fact eligible for asylum—a “credible fear” equates to only a “significant possibility” that the alien would be eligible.  Ibid.  Thus, while eligibility ultimately requires a “well-founded fear of persecution on account of,” among other things, “race” or “political opinion,” §§1101(a)(42)(A), 1158(b)(1)(A), all that an alien must show to avoid expedited removal is a “credible fear.”[4]
+
+															If the asylum officer finds an applicant’s asserted fear to be credible,[5] the applicant will receive “full consideration” of his asylum claim in a standard removal hearing.  8 CFR §208.30(f ); see
+
+8 U. S. C. §1225(b)(1)(B)(ii).  If the asylum officer finds that the applicant does not have a credible fear, a supervisor will review the asylum officer’s determination.  8 CFR §208.30(e)(8).  If the supervisor agrees with it, the applicant may appeal to an immigration judge, who can take further evidence and “shall make a de novo determination.”  §§1003.42(c), (d)(1); see
+
+8 U. S. C. §1225(b)(1)(B)(iii)(III).
+
+															An alien subject to expedited removal thus has an opportunity at three levels to obtain an asylum hearing, and the applicant will obtain one unless the asylum officer, a supervisor, and an immigration judge all find that the applicant has not asserted a credible fear.
+
+															Over the last five years, nearly 77% of screenings have resulted in a finding of credible fear.[6]  And nearly half the remainder (11% of the total number of screenings) were closed for administrative reasons, including the alien’s withdrawal of the claim.[7]  As a practical matter, then, the great majority of asylum seekers who fall within the category subject to expedited removal do not receive expedited removal and are instead afforded the same procedural rights as other aliens.
+
+															Whether an applicant who raises an asylum claim receives full or only expedited review, the applicant is not entitled to immediate release.  Applicants “shall be detained pending a final determination of credible fear of persecution and, if found not to have such a fear, until removed.”  §1225(b)(1)(B)(iii)(IV).  Applicants who are found to have a credible fear may also be detained pending further consideration of their asylum applications.  §1225(b)(1)(B)(ii); see Jennings v. Rodriguez, 583 U. S. ___, ___, ___ (2018) (slip op., at 3, 13).[8]
+
+															B
+
+															The IIRIRA provision at issue in this case, §1252(e)(2), limits the review that an alien in expedited removal may obtain via a petition for a writ of habeas corpus.  That provision allows habeas review of three matters: first, “whether the petitioner is an alien”; second, “whether the petitioner was ordered removed”; and third, whether the petitioner has already been granted entry as a lawful permanent resident, refugee, or asylee.  §§1252(e)(2)(A)–(C).  If the petitioner has such a status, or if a removal order has not “in fact” been “issued,” §1252(e)(5), the court may order a removal hearing, §1252(e)(4)(B).
+
+															A major objective of IIRIRA was to “protec[t] the Executive’s discretion” from undue interference by the courts; indeed, “that can fairly be said to be the theme of the legislation.”  Reno v. American-Arab Anti-Discrimination Comm.,
+
+525 U.S. 471, 486 (1999) (AAADC).  In accordance with that aim, §1252(e)(5) provides that “[t]here shall be no review of whether the alien is actually inadmissible or entitled to any relief from removal.”  And “[n]otwithstanding” any other “habeas corpus provision”—including
+
+28 U. S. C. §2241—“no court shall have jurisdiction to review” any other “individual determination” or “claim arising from or relating to the implementation or operation of an order of [expedited] removal.”  §1252(a)(2)(A)(i).  In particular, courts may not review “the determination” that an alien lacks a credible fear of persecution.  §1252(a)(2)(A)(iii); see also §§1252(a)(2)(A)(ii), (iv) (other specific limitations).
+
+															Even without the added step of judicial review, the  credible-fear process and abuses of it can increase the burdens currently “overwhelming our immigration system.”  84 Fed. Reg. 33841 (2019).[9]  The past decade has seen a 1,883% increase in credible-fear claims, and in 2018 alone, there were 99,035 claims.  See id., at 33838 (data for fiscal years 2008 to 2018).  The majority have proved to be meritless.  Many applicants found to have a credible fear—about 50% over the same 10-year period—did not pursue asylum.  See EOIR, Adjudication Statistics: Rates of Asylum Filings in Cases Originating With a Credible Fear Claim (Nov. 2018); see also 84 Fed. Reg. 33841 (noting that many instead abscond).  In 2019, a grant of asylum followed a finding of credible fear just 15% of the time.  See EOIR, Asylum Decision Rates in Cases Originating With a Credible Fear Claim (Oct. 2019).  Fraudulent asylum claims can also be difficult to detect,[10] especially in a screening process that is designed to be expedited and that is currently handling almost 100,000 claims per year.
+
+															The question presented thus has significant consequences for the immigration system.  If courts must review credible-fear claims that in the eyes of immigration officials and an immigration judge do not meet the low bar for such claims, expedited removal would augment the burdens on that system.  Once a fear is asserted, the process would no longer be expedited.
+
+															C
+
+															Respondent Vijayakumar Thuraissigiam, a Sri Lankan national, crossed the southern border without inspection or an entry document at around 11 p.m. one night in January 2017.  App. 38.  A Border Patrol agent stopped him within 25 yards of the border, and the Department detained him for expedited removal.  Id., at 37–39, 106; see §§1182(a)(7)(A)(i)(I), 1225(b)(1)(A)(ii), and (b)(1)(B)(iii)(IV).  He claimed a fear of returning to Sri Lanka because a group of men had once abducted and severely beaten him, but he said that he did not know who the men were, why they had assaulted him, or whether Sri Lankan authorities would protect him in the future.  Id., at 80.  He also affirmed that he did not fear persecution based on his race, political opinions, or other protected characteristics.  Id., at 76–77; see §1101(a)(42)(A).
+
+															The asylum officer credited respondent’s account of the assault but determined that he lacked a “credible” fear of persecution, as defined by §1225(b)(1)(B)(v), because he had offered no evidence that could have made him eligible for asylum (or other removal relief ).  Id., at 83, 87, 89; see §1158(b)(1)(A).  The supervising officer agreed and signed the removal order.  Id., at 54, 107.  After hearing further testimony from respondent, an Immigration Judge affirmed on de novo review and returned the case to the Department for removal.  Id., at 97.
+
+															Respondent then filed a federal habeas petition.  Asserting for the first time a fear of persecution based on his Tamil ethnicity and political views, id., at 12–13, he argued that he “should have passed the credible fear stage,” id., at 30.  But, he alleged, the immigration officials deprived him of “a meaningful opportunity to establish his claims” and violated credible-fear procedures by failing to probe past his denial of the facts necessary for asylum.  Id., at 27, 32.  Allegedly they also failed to apply the “correct standard” to his claims—the “significant possibility” standard—despite its repeated appearance in the records of their decisions.  Id., at 30; see id., at 53, 84–89, 97.  Respondent requested “a writ of habeas corpus, an injunction, or a writ of mandamus directing [the Department] to provide [him] a new opportunity to apply for asylum and other applicable forms of relief.”  Id., at 33.  His petition made no mention of release from custody.
+
+															The District Court dismissed the petition, holding that §§1252(a)(2) and (e)(2) and clear Ninth Circuit case law  foreclosed review of the negative credible-fear determination that resulted in respondent’s expedited removal order.  287 F. Supp. 3d 1077, 1081 (SD Cal. 2018).  The court also rejected respondent’s argument “that the jurisdictional limitations of §1252(e) violate the Suspension Clause,” again relying on Circuit precedent.  Id., at 1082–1083.
+
+															The Ninth Circuit reversed.  It found that our Suspension Clause precedent demands “reference to the writ as it stood in 1789.”  917 F.3d 1097, 1111 (2019).  But without citing any pre-1789 case about the scope of the writ, the court held that §1252(e)(2) violates the Suspension Clause.  See id., at 1113–1119.  The court added that respondent “has procedural due process rights,” specifically the right “ ‘to expedited removal proceedings that conformed to the dictates of due process.’ ”  Id., at 1111, n. 15 (quoting United States v. Raya-Vaca, 771 F.3d 1195, 1203 (CA9 2014)).  Although the decision applied only to respondent, petitioners across the Circuit have used it to obtain review outside the scope of §1252(e)(2), and petitioners elsewhere have attempted to follow suit.[11]
+
+															The Ninth Circuit’s decision invalidated the application of an important provision of federal law and conflicted with a decision from another Circuit, see Castro v. United States Dept. of Homeland Security, 835 F.3d 422 (CA3 2016).  We granted certiorari, 589 U. S. ___ (2019).
+
+															II
+
+															A
+
+															The Suspension Clause provides that “[t]he Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.”  U. S. Const., Art. I, §9, cl. 2.  In INS v. St. Cyr,
+
+533 U.S. 289 (2001), we wrote that the Clause, at a minimum, “protects the writ as it existed in 1789,” when the Constitution was adopted.  Id., at 301 (internal quotation marks omitted).  And in this case, respondent agrees that “there is no reason” to consider whether the Clause extends any further.  Brief for Respondent 26, n. 12.  We therefore proceed on that basis.[12]
+
+															B
+
+															This principle dooms respondent’s Suspension Clause argument, because neither respondent nor his amici have shown that the writ of habeas corpus was understood at the time of the adoption of the Constitution to permit a petitioner to claim the right to enter or remain in a country or to obtain administrative review potentially leading to that result.  The writ simply provided a means of contesting the lawfulness of restraint and securing release.
+
+															In 1768, Blackstone’s Commentaries—usually a “satisfactory exposition of the common law of England,” Schick v. United States,
+
+195 U.S. 65, 69 (1904)—made this clear.  Blackstone wrote that habeas was a means to “remov[e] the injury of unjust and illegal confinement.”  3 W. Blackstone, Commentaries on the Laws of England 137 (emphasis deleted).  Justice Story described the “common law” writ the same way.  See 3 Commentaries on the Constitution of the United States §1333, p. 206 (1833).  Habeas, he explained, “is the appropriate remedy to ascertain . . . whether any person is rightfully in confinement or not.”  Ibid.
+
+															We have often made the same point.  See, e.g., Preiser v. Rodriguez,
+
+411 U.S. 475, 484 (1973) (“It is clear . . . from the common-law history of the writ . . . that the essence of habeas corpus is an attack by a person in custody upon the legality of that custody, and that the traditional function of the writ is to secure release from illegal custody”); Wilkinson v. Dotson,
+
+544 U.S. 74, 79 (2005) (similar); Munaf v. Geren,
+
+553 U.S. 674, 693 (2008) (similar).
+
+															In this case, however, respondent did not ask to be released.[13]  Instead, he sought entirely different relief: vacatur of his “removal order” and “an order directing [the Department] to provide him with a new . . . opportunity to apply for asylum and other relief from removal.”  App. 14 (habeas petition).  See also id., at 31 (“a fair procedure to apply for asylum, withholding of removal, and CAT relief”); id., at 14 (“a new, meaningful opportunity to apply for asylum and other relief from removal”).  Such relief might fit an injunction or writ of mandamus—which tellingly, his petition also requested, id., at 33—but that relief falls outside the scope of the common-law habeas writ.
+
+															Although the historic role of habeas is to secure release from custody, the Ninth Circuit did not suggest that release, at least in the traditional sense of the term,[14] was required.  Instead, what it found to be necessary was a “meaningful opportunity” for review of the procedures used in determining that respondent did not have a credible fear of persecution.  917 F. 3d, at 1117.  Thus, even according to the Ninth Circuit, respondent’s petition did not call for traditional habeas relief.
+
+															Not only did respondent fail to seek release, he does not dispute that confinement during the pendency of expedited asylum review, and even during the additional proceedings he seeks, is lawful.  Nor could he.  It is not disputed that he was apprehended in the very act of attempting to enter this country; that he is inadmissible because he lacks an entry document, see §§1182(a)(7)(A), 1225(b)(1)(A)(i); and that, under these circumstances, his case qualifies for the expedited review process, including “[m]andatory detention” during his credible-fear review, §§1225(b)(1)(B)(ii), (iii)(IV).  Moreover, simply releasing him would not provide the right to stay in the country that his petition ultimately seeks.  Without a change in status, he would remain subject to arrest, detention, and removal.  §§1226(a), 1229a(e)(2).
+
+															While respondent does not claim an entitlement to release, the Government is happy to release him—provided the release occurs in the cabin of a plane bound for Sri Lanka.  That would be the equivalent of the habeas relief Justice Story ordered in a case while riding circuit.  He issued a writ requiring the release of a foreign sailor who jumped ship in Boston, but he provided for the sailor to be released into the custody of the master of his ship.  Ex parte D’Olivera, 7 F. Cas. 853, 854 (No. 3,967) (CC Mass. 1813).
+
+															Respondent does not want anything like that.  His claim is more reminiscent of the one we rejected in Munaf.  In that case, American citizens held in U. S. custody in Iraq filed habeas petitions in an effort to block their transfer to Iraqi authorities for criminal prosecution.  See 553 U. S., at 692.  Rejecting this use of habeas, we noted that “[h]abeas is at its core a remedy for unlawful executive detention” and that what these individuals wanted was not “simple release” but an order requiring them to be brought to this country.  Id., at 693, 697.  Claims so far outside the “core” of habeas may not be pursued through habeas.  See, e.g., Skinner v. Switzer,
+
+562 U.S. 521, 535, n. 13 (2011).
+
+															Like the habeas petitioners in Munaf, respondent does not want “simple release” but, ultimately, the opportunity to remain lawfully in the United States.  That he seeks to stay in this country, while the habeas petitioners in Munaf asked to be brought here from Iraq, see post, at 19–20 (opinion of Sotomayor, J.), is immaterial.  In this case as in Munaf, the relief requested falls outside the scope of the writ as it was understood when the Constitution was adopted.  See Castro, 835 F. 3d, at 450–451 (Hardiman, J., concurring dubitante) (“Petitioners here seek to alter their status in the United States in the hope of avoiding release to their homelands.  That prayer for relief . . . dooms the merits of their Suspension Clause argument” (emphasis deleted)).
+
+															III
+
+															Disputing this conclusion, respondent argues that the Suspension Clause guarantees a broader habeas right.  To substantiate this claim, he points to three bodies of case law: British and American cases decided prior to or around the time of the adoption of the Constitution, decisions of this Court during the so-called “finality era” (running from the late 19th century to the mid-20th century), and two of our more recent cases.  None of these sources support his argument.
+
+															A
+
+															Respondent and amici supporting his position have done considerable research into the use of habeas before and around the time of the adoption of the Constitution,[15] but they have not unearthed evidence that habeas was then used to obtain anything like what is sought here, namely, authorization for an alien to remain in a country other than his own or to obtain administrative or judicial review leading to that result.  All that their research (and the dissent’s) shows is that habeas was used to seek release from detention in a variety of circumstances.  In fact, respondent and his amici do not argue that their cases show anything more.  See Brief for Respondent 27 (arguing that habeas was “available” at the founding “to test all forms of physical restraint”); Brief for Scholars of the Law of Habeas Corpus as Amici Curiae 11 (the “historical record . . . demonstrates that the touchstone for access to the writ” was “whether the petitioner challenges control of his person”).
+
+															Because respondent seeks to use habeas to obtain something far different from simple release, his cause is not aided by the many release cases that he and his amici have found.  Thus, for present purposes, it is immaterial that habeas was used to seek release from confinement that was imposed for, among other things, contempt of court (see Bushell’s Case, Vaugh. 135, 124 Eng. Rep. 1006 (C. P. 1670)), debt (see Hollingshead’s Case, 1 Salk. 351, 91 Eng. Rep. 307 (K. B. 1702); Rex v. Nathan, 2 Str. 880, 93 Eng. Rep. 914 (K. B. 1724)), medical malpractice (see Dr. Groenvelt’s Case, 1 Raym. Ld. 213, 91 Eng. Rep. 1038 (K. B. 1702)), failing to pay an assessment for sewers (see Hetley v. Boyer, Cro. Jac. 336, 79 Eng. Rep. 287 (K. B. 1613)), failure to lend the King money (see Darnel’s Case, 3 How. St. Tr. 1 (K. B. 1627)), carrying an authorized “dagg,” i.e., handgun (see Gardener’s Case, Cro. Eliz. 821, 78 Eng. Rep. 1048 (K. B. 1600)), “impressment” into military service or involuntary servitude (see St. Cyr, 533 U. S., at 302), or refusing to pay a colonial tax (see Oldham & Wishnie 496).  Nor does it matter that common-law courts sometimes ordered or considered ordering release in circumstances that would be beyond the reach of any habeas statute ever enacted by Congress, such as release from private custody.  See, e.g., Rex v. Delaval, 3 Burr. 1434, 1435–1437, 97 Eng. Rep. 913, 914 (K. B. 1763) (release of young woman from “indentures of apprenticeship”); Rex v. Clarkson, 1 Str. 444, 93 Eng. Rep. 625 (K. B. 1722) (release from boarding school); Lister’s Case, 8 Mod. 22, 88 Eng. Rep. 17 (K. B. 1721) (release of wife from estranged husband’s restraint).  What matters is that all these cases are about release from restraint.  Accord, Preiser, 411 U. S., at 484–485, and nn. 3–5.[16]
+
+															Respondent and his amici note that habeas petitioners were sometimes released on the condition that they conform to certain requirements.  See Brief for Respondent 30; Legal Historians Brief 18.  For example, they cite a case in which a man was released on condition that he treat his wife well and support her, and another in which a man was released on condition that he issue an apology.  Ibid.  But what respondent sought in this case is nothing like that.  Respondent does not seek an order releasing him on the condition that he do or refrain from doing something.  What he wants—further review of his asylum claim—is not a condition with which he must comply.  Equally irrelevant is the practice, discussed in the dissent, of allowing the executive to justify or cure a defect in detention before requiring release.  See post, at 16–18.  Respondent does not seek this sort of conditional release either, because the legality of his detention is not in question.
+
+															Respondent contends that two cases show that habeas could be used to secure the right of a non-citizen to remain in a foreign country, but neither proves his point.  His first case, involving a Scot named Murray, is one for which no official report is available for us to review.[17]  We could hardly base our decision here on such a decision.[18]
+
+															His second case, Somerset v. Stewart, Lofft. 1, 98 Eng. Rep. 499 (K. B. 1772), is celebrated but does not aid respondent.  James Somerset was a slave who was “detain[ed]” on a ship bound for Jamaica, and Lord Mansfield famously ordered his release on the ground that his detention as a slave was unlawful in England.  Id., at 19, 98 Eng. Rep., at 510.  This relief, release from custody, fell within the historic core of habeas, and Lord Mansfield did not order anything else.
+
+															It may well be that a collateral consequence of Somerset’s release was that he was allowed to remain in England, but if that is so, it was due not to the writ issued by Lord Mansfield, but to English law regarding entitlement to reside in the country.  At the time, England had nothing like modern immigration restrictions.  As late as 1816, the word “deportation” apparently “was not to be found in any English dictionary.”  The Use of the Crown’s Power of Deportation Under the Aliens Act, 1793–1826, in J. Dinwiddy, Radicalism and Reform in Britain, 1780–1850, p. 150, n. 4 (1992); see also, e.g., Craies, The Right of Aliens To Enter British Territory, 6 L. Q. Rev. 27, 35 (1890) (“England was a complete asylum to the foreigner who did not offend against its laws”); Haycraft, Alien Legislation and the Prerogative of the Crown, 13 L. Q. Rev. 165, 180 (1897) (“There do not appear to have been any transactions in Parliament or in the [Crown’s] Privy Council directly affecting [deportation] from the time of Elizabeth [I] to that of George III”).[19]
+
+															For a similar reason, respondent cannot find support in early 19th-century American cases in which deserting foreign sailors used habeas to obtain their release from the custody of American officials.  In none of the cases involving deserters that have been called to our attention did the court order anything more than simple release from custody.  As noted, Justice Story ordered a sailor’s release into the custody of his ship’s master.  See Ex parte D’Olivera, 7 F. Cas., at 854.  Other decisions, while ordering the release of detained foreign deserters because no statute authorized detention, chafed at having to order even release.  See Case of the Deserters from the British Frigate L’Africaine, 3 Am. L. J. & Misc. Repertory 132, 135–136 (Md. 1810) (reporting judge’s statement “that he never would interfere to prevent” the British consul himself from detaining British deserters); Case of Hippolyte Dumas, 2 Am. L. J. & Misc. Repertory 86, 87 (Pa. 1809) (noting “inconvenience” that U. S. law did not discourage desertion of foreign sailors); Commonwealth v. Holloway, 1 Serg. & Rawle 392, 396 (Pa. 1815) (opinion of Tilghman, C. J.) (same); id., at 397 (opinion of Yeates, J.) (same).  These cases thus do not contemplate the quite different relief that respondent asks us to sanction here.
+
+															In these cases, as in Somerset, it may be that the released petitioners were able to remain in the United States as a collateral consequence of release, but if so, that was due not to the writs ordering their release, but to U. S. immigration law or the lack thereof.  These decisions came at a time when an “open door to the immigrant was the . . . federal policy.”  Harisiades v. Shaughnessy,
+
+342 U.S. 580, 588, n. 15 (1952); see also St. Cyr, 533 U. S., at 305 (first immigration regulation enacted in 1875).  So release may have had the side effect of enabling these individuals to remain in this country, but that is beside the point.
+
+															The relief that a habeas court may order and the collateral consequences of that relief are two entirely different things.  Ordering an individual’s release from custody may have the side effect of enabling that person to pursue all sorts of opportunities that the law allows.  For example, release may enable a qualified surgeon to operate on a patient; a licensed architect may have the opportunity to design a bridge; and a qualified pilot may be able to fly a passenger jet.  But a writ of habeas could not be used to compel an applicant to be afforded those opportunities or as a means to obtain a license as a surgeon, architect, or pilot.  Similarly, while the release of an alien may give the alien the opportunity to remain in the country if the immigration laws permit, we have no evidence that the writ as it was known in 1789 could be used to require that aliens be permitted to remain in a country other than their own, or as a means to seek that permission.
+
+															Respondent’s final examples involve international extradition, but these cases are no more pertinent than those already discussed.  For one thing, they post-date the founding era.  England was not a party to any extradition treaty in 1789, and this country’s first extradition treaty was the Jay Treaty of 1794.  See 1 J. Moore, Extradition and Interstate Rendition §§7, 78, pp. 10, 89 (1891).  In any event, extradition cases, similar to the deserter cases, illustrate nothing more than the use of habeas to secure release from custody when not in compliance with the extradition statute and relevant treaties.  As noted by a scholar on whose work respondent relies, these cases “examine[d] the lawfulness of magistrates’ decisions permitting the executive to detain aliens.”  Neuman, Habeas Corpus, Executive Detention, and the Removal of Aliens, 98 Colum. L. Rev. 961, 1003 (1998).  In these cases, as in all the others noted above, habeas was used “simply” to seek release from allegedly unlawful detention.  Benson v. McMahon,
+
+127 U.S. 457, 463 (1888).  See also, e.g., In re Stupp, 23 F. Cas. 296, 303 (No. 13,563) (CC SDNY 1875).[20]
+
+															Despite pages of rhetoric, the dissent is unable to cite a single pre-1789 habeas case in which a court ordered relief that was anything like what respondent seeks here.  The dissent instead contends that “the Suspension Clause inquiry does not require a close (much less precise) factual match with historical habeas precedent,” post, at 11, and then discusses cases that are not even close to this one.  The dissent reveals the true nature of its argument by suggesting that there are “inherent difficulties [in] a strict originalist approach in the habeas context because of, among other things, the dearth of reasoned habeas decisions at the founding.”  Ibid.  But respondent does not ask us to hold that the Suspension Clause guarantees the writ as it might have evolved since the adoption of the Constitution.  On the contrary, as noted at the outset of this discussion, he rests his argument on “the writ as it existed in 1789.”  Brief for Respondent 26, n. 12.
+
+															What the dissent merely implies, one concurring opinion states expressly, arguing that the scope of the writ guaranteed by the Suspension Clause “may change ‘depending upon the circumstances’ ” and thus may allow certain aliens to seek relief other than release.  Post, at 3 (Breyer, J., concurring in judgment) (quoting Boumediene, 553 U. S., at 779).  But that is not respondent’s argument, and as a general rule “we rely on the parties to frame the issues for decision and assign to courts the role of neutral arbiter of matters the parties present.”  United States v. Sineneng-Smith, 590 U. S. ___, ___ (2020) (slip op., at 3) (internal quotation marks omitted).  In any event, the concurrence’s snippets of quotations from Boumediene are taken entirely out of context.  They relate to the question whether the statutory review procedures for Guantanamo detainees seeking release from custody provided an adequate substitute for a habeas petition seeking release.  See infra, at 32–33.  They do not suggest that any habeas writ guaranteed by the Suspension Clause permits a petitioner to obtain relief that goes far beyond the “core” of habeas as “a remedy for unlawful executive detention.”  Munaf, 553 U. S., at 693.[21]
+
+															B
+
+															We now proceed to consider the second body of case law on which respondent relies, decisions of this Court during the “finality era,” which takes its name from a feature of the Immigration Act of 1891 making certain immigration decisions “final.”  Although respondent claims that his argument is supported by “the writ as it existed in 1789,” Brief for Respondent 26, n. 12, his argument focuses mainly on this body of case law, which began a century later.  These cases, he claims, held that “the Suspension Clause mandates a minimum level of judicial review to ensure that the Executive complies with the law in effectuating removal.”  Id., at 11–12.  The Ninth Circuit also relied heavily on these cases and interpreted them to “suggest that the Suspension Clause requires review of legal and mixed questions of law and fact related to removal orders.”  917 F. 3d, at 1117.
+
+															This interpretation of the “finality era” cases is badly mistaken.  Those decisions were based not on the Suspension Clause but on the habeas statute and the immigration laws then in force.  The habeas statute in effect during this time was broad in scope.  It authorized the federal courts to review whether a person was being held in custody in violation of any federal law, including immigration laws.  Thus, when aliens claimed that they were detained in violation of immigration statutes, the federal courts considered whether immigration authorities had complied with those laws.  This, of course, required that the immigration laws be interpreted, and at the start of the finality era, this Court interpreted the 1891 Act’s finality provision to block review of only questions of fact.  Accordingly, when writs of habeas corpus were sought by aliens who were detained on the ground that they were not entitled to enter this country, the Court considered whether, given the facts found by the immigration authorities, the detention was consistent with applicable federal law.  But the Court exercised that review because it was authorized to do so by statute.  The decisions did not hold that this review was required by the Suspension Clause.
+
+															In this country, the habeas authority of federal courts has been addressed by statute from the very beginning.  The Judiciary Act of 1789, §14,
+
+1Stat.
+82, gave the federal courts the power to issue writs of habeas corpus under specified circumstances, but after the Civil War, Congress enacted a much broader statute.  That law, the Habeas Corpus Act of 1867, provided that “the several courts of the United States . . . shall have power to grant writs of habeas corpus in all cases where any person may be restrained of his or her liberty in violation of the constitution, or of any treaty or law of the United States.”  Judiciary Act of Feb. 5, 1867, §1,
+
+14Stat.
+385.  The Act was “of the most comprehensive character,” bringing “within the habeas corpus jurisdiction of every court and of every judge every possible case of privation of liberty contrary” to federal law.  Ex parte McCardle, 6 Wall. 318, 325–326 (1868).  This jurisdiction was “impossible to widen.”  Id., at 326; see Fay v. Noia,
+
+372 U.S. 391, 415 (1963) (noting the Act’s “expansive language” and “imperative tone”).  The 1867 statute, unlike the current federal habeas statute, was not subject to restrictions on the issuance of writs in immigration matters, and in United States v. Jung Ah Lung,
+
+124 U.S. 621 (1888), the Court held that an alien in immigration custody could seek a writ under that statute.  Id., at 626.  This provided the statutory basis for the writs sought in the finality era cases.
+
+															The Immigration Act of 1891, enacted during one of the country’s great waves of immigration, required the exclusion of certain categories of aliens and established procedures for determining whether aliens fell within one of those categories.  The Act required the exclusion of “idiots, insane persons, paupers or persons likely to become a public charge,” persons with infectious diseases, persons with convictions for certain crimes, some individuals whose passage had been paid for by a third party, and certain laborers.  Act of Mar. 3, 1891, ch. 551, §1,
+
+26Stat.
+1084.  Inspection officers were authorized to board arriving vessels and inspect any aliens on board.  §8, id., at 1085.  And, in the provision of central importance here, the Act provided that “[a]ll decisions made by the inspection officers or their assistants touching the right of any alien to land, when adverse to such right, shall be final unless appeal be taken to the superintendent of immigration, whose action shall be subject to review by the Secretary of the Treasury.”  Ibid.  Later immigration Acts, which remained in effect until 1952,[22] contained similar provisions.  See Act of 1894,
+
+28Stat.
+390; Immigration Act of 1907, §25,
+
+34Stat.
+907; Immigration Act of 1917, §17,
+
+39Stat.
+887.
+
+															The first of the finality era cases, Nishimura Ekiu v. United States,
+
+142 U.S. 651 (1892), required the Court to address the effect of the 1891 Act’s finality provision in a habeas case.  Nishimura Ekiu is the cornerstone of respondent’s argument regarding the finality era cases, so the opinion in that case demands close attention.
+
+															The case involved an alien who was detained upon arrival based on the immigration inspector’s finding that she was liable to become a public charge.  Seeking to be released, the alien applied to the Circuit Court for a writ of habeas corpus and argued that the 1891 Act, if construed to give immigration authorities the “exclusive authority to determine” her right to enter, would violate her constitutional right to the writ of habeas corpus and her right to due process.  Id., at 656 (statement of the case).  The Circuit Court refused to issue the writ, holding that the determination of the inspector of immigration was not subject to review, and the alien then appealed.
+
+															This Court upheld the denial of the writ.  The Court interpreted the 1891 Act to preclude judicial review only with respect to questions of fact.  Id., at 660.  And after interpreting the 1891 Act in this way, the Court found that “the act of 1891 is constitutional.”  Id., at 664.
+
+															The Court’s narrow interpretation of the 1891 Act’s finality provision meant that the federal courts otherwise retained the full authority granted by the Habeas Corpus Act of 1867 to determine whether an alien was detained in violation of federal law.  Turning to that question, the Court held that the only procedural rights of an alien seeking to enter the country are those conferred by statute.  “As to such persons,” the Court explained, “the decisions of executive or administrative officers, acting within powers expressly conferred by Congress, are due process of law.”  Id., at 660.  The Court therefore considered whether the procedures set out in the 1891 Act had been followed, and finding no violation, affirmed the denial of the writ.  Id., at 661–664.  What is critical for present purposes is that the Court did not hold that the Suspension Clause imposed any limitations on the authority of Congress to restrict the issuance of writs of habeas corpus in immigration matters.
+
+															Respondent interprets Nishimura Ekiu differently.  See Brief for Respondent 13–15.  As he reads the decision, the Court interpreted the 1891 Act to preclude review of all questions related to an alien’s entitlement to enter the country.  Any other interpretation, he contends, would fly in the face of the statutory terms.  But, he maintains, the Court held that this limitation violated the Suspension Clause except with respect to questions of fact, and it was for this reason that the Court considered whether the procedures specified by the 1891 Act were followed.  In other words, he reads Nishimura Ekiu as holding that the 1891 Act’s finality provision was unconstitutional in most of its applications (i.e., to all questions other than questions of fact).
+
+															This interpretation is wrong.  The opinion in Nishimura Ekiu states unequivocally that “the act of 1891 is constitutional,” id., at 664, not that it is constitutional only in part.  And if there is any ambiguity in the opinion regarding the Court’s interpretation of the finality provision, the later decision in Gegiow v. Uhl,
+
+239 U.S. 3 (1915), left no doubt.  What Nishimura Ekiu meant, Gegiow explained, was that the immigration authorities’ factual findings were conclusive (as Gegiow put it, “[t]he conclusiveness of the decisions of immigration officers . . . is conclusiveness upon matters of fact”) and therefore, the Court was “not forbidden by the statute to consider” in a habeas proceeding “whether the reasons” for removing an alien “agree with the requirements of the act.”  239 U. S., at 9.  In light of this interpretation, the Nishimura Ekiu Court had no occasion to decide whether the Suspension Clause would have tolerated a broader limitation, and there is not so much as a hint in the opinion that the Court considered this question.  Indeed, the opinion never even mentions the Suspension Clause, and it is utterly implausible that the Court would hold sub silentio that Congress had violated that provision.
+
+															Holding that an Act of Congress unconstitutionally suspends the writ of habeas corpus is momentous.  See Boumediene, 553 U. S., at 773 (noting “the care Congress has taken throughout our Nation’s history” to avoid suspension).  The Justices on the Court at the beginning of the finality era had seen historic occasions when the writ was suspended—during the Civil War by President Lincoln and then by Congress, and later during Reconstruction by President Grant.  See Hamdi v. Rumsfeld,
+
+542 U.S. 507, 563 (2004) (Scalia, J., dissenting) (discussing these events).  The suspension of habeas during this era played a prominent role in our constitutional history.  See Ex parte Merryman, 17 F. Cas. 144, 151–152 (No. 9,487) (CC Md. 1861) (Taney, C. J.); Ex parte Milligan, 4 Wall. 2, 116, 131 (1866).  (Two of the Justices at the beginning of the finality era were on the Court when Ex parte Milligan was decided.)  The Justices knew a suspension of the writ when they saw one, and it is impossible to believe that the Nishimura Ekiu Court identified another occasion when Congress had suspended the writ and based its decision on the Suspension Clause without even mentioning that provision.
+
+															The dissent’s interpretation of Nishimura Ekiu is different from respondent’s.  According to the dissent, Nishimura Ekiu interpreted the 1891 Act as it did based on the doctrine of constitutional avoidance.  See post, at 22.  This reading has no support in the Court’s opinion, which never mentions the Suspension Clause or the avoidance doctrine and never explains why the Clause would allow Congress to preclude review of factual findings but nothing more.  But even if there were some basis for this interpretation, it would not benefit respondent, and that is undoubtedly why he has not made the argument.  IIRIRA unequivocally bars habeas review of respondent’s claims, see §1252(e)(2), and he does not argue that it can be read any other way.  The avoidance doctrine “has no application in the absence of ambiguity.”  Warger v. Shauers,
+
+574 U.S. 40, 50 (2014) (internal quotation marks and ellipsis omitted).  Thus, if Nishimura Ekiu’s interpretation were based on constitutional avoidance, it would still not answer the interpretive question here.
+
+															When we look to later finality era cases, any suggestion of a Suspension Clause foundation becomes even less plausible.  None of those decisions mention the Suspension Clause or even hint that they are based on that provision, and these omissions are telling.  On notable occasions during that time, the writ was suspended—in the Philippines in 1906[23] and Hawaii in 1941.[24]  During World War II, the Court held that “enemy aliens” could utilize habeas “unless there was suspension of the writ.”  In re Yamashita,
+
+327 U.S. 1, 9 (1946).  And the Court invoked the Suspension Clause in holding that the Executive lacked authority to intern a Japanese-American citizen.  See Ex parte Endo,
+
+323 U.S. 283, 297–299 (1944).  If the Justices during that time had thought that the Suspension Clause provided the authority they were exercising in the many cases involving habeas petitions by aliens detained prior to entry, it is hard to believe that this important fact would have escaped mention.
+
+															Respondent suggests that Nishimura Ekiu cannot have interpreted the 1891 Act’s finality provision to apply only to factual questions because the statutory text categorically bars all review.  The important question here, however, is what the Court did in Nishimura Ekiu, not whether its interpretation was correct, and in any event, there was a reasonable basis for the Court’s interpretation.
+
+															The determinations that the immigration officials were required to make under the 1891 Act were overwhelmingly factual in nature.  The determination in Nishimura’s case—that she was likely to become a public charge—seems to have been a pure question of fact, and the other grounds for exclusion under the Act involved questions that were either solely or at least primarily factual in nature.
+
+															If we were now called upon to determine the meaning of a provision like the finality provision in the 1891 Act, our precedents would provide the basis for an argument in favor of the interpretation that the Nishimura Ekiu Court reached.  The presumption in favor of judicial review, see, e.g., Guerrero-Lasprilla v. Barr, 589 U. S. ___, ___ (2020) (slip op., at 6); Nasrallah v. Barr, 590 U. S. ___, ___–___ (2020) (slip op., at 7–9), could be invoked.  So could the rule that “[i]mplications from statutory text or legislative history are not sufficient to repeal habeas jurisdiction.”  St. Cyr, 533 U. S., at 299; accord, Ex parte Yerger, 8 Wall. 85, 105 (1869).  Thus, respondent’s interpretation of the decision in Nishimura Ekiu is wrong, and the same is true of his understanding of the later finality era cases.
+
+															Rather than relying on the Suspension Clause, those cases simply involved the exercise of the authority conferred by the habeas statute then in effect.  This was true of Nishimura Ekiu, Gegiow, and every other finality era case that respondent cites in support of his Suspension Clause argument.  See, e.g., Gonzales v. Williams, 192 U.S. 1 (1904); Yee Won v. White,
+
+256 U.S. 399 (1921); Tod v. Waldman,
+
+266 U.S. 113 (1924); United States ex rel. Polymeris v. Trudell,
+
+284 U.S. 279 (1932); United States ex rel. Johnson v. Shaughnessy,
+
+336 U.S. 806 (1949); United States ex rel. Knauff v. Shaughnessy,
+
+338 U.S. 537 (1950); Shaughnessy v. United States ex rel. Mezei,
+
+345 U.S. 206 (1953); United States ex rel. Accardi v. Shaughnessy,
+
+347 U.S. 260 (1954).  Some finality era cases presented pure questions of law, while others involved the application of a legal test to particular facts.  At least one involved an alien who had entered illegally.  See id., at 262.  But none was based on the Suspension Clause.  No majority opinion even mentioned the Suspension Clause.[25]  Indeed, any mention of the Constitution was rare—and unhelpful to respondent’s arguments here.[26]  And in all the cited cases concerning aliens detained at entry, unlike the case now before us, what was sought—and the only relief considered—was release.  Indeed, in an early finality era case, the Court took pains to note that it did not “express any opinion” on whether an alien was entitled to enter.  Lem Moon Sing v. United States,
+
+158 U.S. 538, 549 (1895).
+
+															Like the dissent, respondent makes much of certain statements in Heikkila v. Barber,
+
+345 U.S. 229 (1953), which he interprets to substantiate his interpretation of Nishimura Ekiu and the subsequent entry cases discussed above.  But he takes these statements out of context and reads far too much into them.  Heikkila was not a habeas case, and the question before the Court was whether a deportation order was reviewable under the Administrative Procedure Act (APA).  The Court held that the order was not subject to APA review because the Immigration Act of 1917 foreclosed “judicial review”—as opposed to review in habeas.  345 U. S., at 234–235.  Nothing in Heikkila suggested that the 1891 Act had been found to be partly unconstitutional, and Heikkila certainly did not address the scope of the writ of habeas corpus in 1789.
+
+															In sum, the Court exercised habeas jurisdiction in the finality era cases because the habeas statute conferred that authority, not because it was required by the Suspension Clause.  As a result, these cases cannot support respondent’s argument that the writ of habeas corpus as it was understood when the Constitution was adopted would have allowed him to claim the right to administrative and judicial review while still in custody.
+
+															C
+
+															We come, finally, to the more recent cases on which respondent relies.  The most recent, Boumediene, is not about immigration at all.  It held that suspected foreign terrorists could challenge their detention at the naval base in Guantanamo Bay, Cuba.  They had been “apprehended on the battlefield in Afghanistan” and elsewhere, not while crossing the border.  553 U. S., at 734.  They sought only to be released from Guantanamo, not to enter this country.  See, e.g., Brief for Petitioner Al Odah et al. in Al Odah v. United States, decided with Boumediene v. Bush, O. T. 2007, No. 06–1196, p. 39 (arguing that “habeas contemplates but one remedy,” “release”).  And nothing in the Court’s discussion of the Suspension Clause suggested that they could have used habeas as a means of gaining entry.  Rather, the Court reaffirmed that release is the habeas remedy though not the “exclusive” result of every writ, given that it is often “appropriate” to allow the executive to cure defects in a detention.  553 U. S., at 779.
+
+															Respondent’s other recent case is St. Cyr, in which the Court’s pertinent holding rejected the argument that certain provisions of IIRIRA and the Antiterrorism and Effective Death Penalty Act of 1996 that did not refer expressly to habeas should nevertheless be interpreted as stripping the authority conferred by the habeas statute.  In refusing to adopt that interpretation, the Court enlisted a quartet of interpretive canons: “the strong presumption in favor of judicial review of administrative action,” “the longstanding rule requiring a clear statement of congressional intent to repeal habeas jurisdiction,” the rule that a “clear indication” of congressional intent is expected when a proposed interpretation would push “the outer limits of Congress’ power,” and the canon of constitutional avoidance.  533 U. S., at 298–300.  In connection with this final canon, the Court observed: “Because of [the Suspension] Clause, some ‘judicial intervention in deportation cases’ is unquestionably ‘required by the Constitution.’ ”  Id., at 300 (quoting Heikkila, 345 U. S., at 235).
+
+															Respondent pounces on this statement, but like the Heikkila statement on which it relies, it does nothing for him.  The writ of habeas corpus as it existed at common law provided a vehicle to challenge all manner of detention by government officials, and the Court had held long before that the writ could be invoked by aliens already in the country who were held in custody pending deportation.  St. Cyr reaffirmed these propositions, and this statement in St. Cyr does not signify approval of respondent’s very different attempted use of the writ, which the Court did not consider.[27]
+
+															IV
+
+															In addition to his Suspension Clause argument, respondent contends that IIRIRA violates his right to due process by precluding judicial review of his allegedly flawed credible-fear proceeding.  Brief for Respondent 38–45.  The Ninth Circuit agreed, holding that respondent “had a constitutional right to expedited removal proceedings that conformed to the dictates of due process.”  917 F. 3d, at 1111, n. 15 (internal quotation marks omitted).  And the Ninth Circuit acknowledged, ibid., that this holding conflicted with the Third Circuit’s decision upholding §1252(e)(2) on the ground that applicants for admission lack due process rights regarding their applications, see Castro, 835 F. 3d, at 445–446.  Since due process provided an independent ground for the decision below and since respondent urges us to affirm on this ground, it is hard to understand the dissent’s argument that the due process issue was not “seriously in dispute below” or that it is somehow improper for us to decide the issue.  Post, at 34.
+
+															Nor is the dissent correct in defending the Ninth Circuit’s holding.  That holding is contrary to more than a century of precedent.  In 1892, the Court wrote that as to “foreigners who have never been naturalized, nor acquired any domicil or residence within the United States, nor even been admitted into the country pursuant to law,” “the decisions of executive or administrative officers, acting within powers expressly conferred by Congress, are due process of law.”  Nishimura Ekiu, 142 U. S., at 660.  Since then, the Court has often reiterated this important rule.  See, e.g., Knauff, 338 U. S., at 544 (“Whatever the procedure authorized by Congress is, it is due process as far as an alien denied entry is concerned”); Mezei, 345 U. S., at 212 (same); Landon v. Plasencia,
+
+459 U.S. 21, 32 (1982) (“This Court has long held that an alien seeking initial admission to the United States requests a privilege and has no constitutional rights regarding his application, for the power to admit or exclude aliens is a sovereign prerogative”).
+
+															Respondent argues that this rule does not apply to him because he was not taken into custody the instant he attempted to enter the country (as would have been the case had he arrived at a lawful port of entry).  Because he succeeded in making it 25 yards into U. S. territory before he was caught, he claims the right to be treated more favorably.  The Ninth Circuit agreed with this argument.
+
+															We reject it.  It disregards the reason for our century-old rule regarding the due process rights of an alien seeking initial entry.  That rule rests on fundamental propositions: “[T]he power to admit or exclude aliens is a sovereign prerogative,” id., at 32; the Constitution gives “the political department of the government” plenary authority to decide which aliens to admit, Nishimura Ekiu, 142 U. S., at 659; and a concomitant of that power is the power to set the procedures to be followed in determining whether an alien should be admitted, see Knauff, 338 U. S., at 544.
+
+															This rule would be meaningless if it became inoperative as soon as an arriving alien set foot on U. S. soil.  When an alien arrives at a port of entry—for example, an international airport—the alien is on U. S. soil, but the alien is not considered to have entered the country for the purposes of this rule.  On the contrary, aliens who arrive at ports of entry—even those paroled elsewhere in the country for years pending removal—are “treated” for due process purposes “as if stopped at the border.”  Mezei, 345 U. S., at 215; see Leng May Ma v. Barber,
+
+357 U.S. 185, 188–190 (1958); Kaplan v. Tod,
+
+267 U.S. 228, 230–231 (1925).
+
+															The same must be true of an alien like respondent.  As previously noted, an alien who tries to enter the country illegally is treated as an “applicant for admission,” §1225(a)(1), and an alien who is detained shortly after unlawful entry cannot be said to have “effected an entry,” Zadvydas v. Davis,
+
+533 U.S. 678, 693 (2001).  Like an alien detained after arriving at a port of entry, an alien like respondent is “on the threshold.”  Mezei, 345 U. S., at 212.  The rule advocated by respondent and adopted by the Ninth Circuit would undermine the “sovereign prerogative” of governing admission to this country and create a perverse incentive to enter at an unlawful rather than a lawful location.  Plasencia, 459 U. S., at 32.
+
+															For these reasons, an alien in respondent’s position has only those rights regarding admission that Congress has provided by statute.  In respondent’s case, Congress provided the right to a “determin[ation]” whether he had “a significant possibility” of “establish[ing] eligibility for asylum,” and he was given that right.  §§1225(b)(1)(B)(ii), (v).  Because the Due Process Clause provides nothing more, it does not require review of that determination or how it was made.  As applied here, therefore, §1252(e)(2) does not violate due process.[28]
+
+															*  *  *
+
+															Because the Ninth Circuit erred in holding that §1252(e)(2) violates the Suspension Clause and the Due Process Clause, we reverse the judgment and remand the case with directions that the application for habeas corpus be dismissed.
+
+															It is so ordered.
+Notes
+1
+ See Administrative Office of the U. S. Courts, Federal Judicial Caseload Statistics, U. S. Courts of Appeals—Median Time Intervals in Months for Civil and Criminal Appeals Terminated on the Merits (2019) (Table B–4A) (time calculated for non-prisoner appeals from the filing of a notice of appeal to the last opinion or final order). 
+
+2
+ When respondent entered the country, aliens were treated as applicants for admission if they were “encountered within 14 days of entry without inspection and within 100 air miles of any U. S. international land border.”  69 Fed. Reg. 48879 (2004). 
+
+3
+ This authority once belonged to the Attorney General, who is still named in the statute.  See
+
+6 U. S. C. §251(2) (transferring authority over “[t]he detention and removal program” to the Department). 
+
+4
+ A grant of asylum enables an alien to enter the country, but even if an applicant qualifies, an actual grant of asylum is discretionary.  §1158(b)(1)(A). 
+
+5
+ The asylum officer also considers an alien’s potential eligibility for withholding of removal under §1231(b)(3) or relief under the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT).  8 CFR §§208.30(e)(2)–(3).  Respondent’s habeas petition alleges that “he can show a significan[t] possibility that he could establish eligibility for asylum, withholding of removal, and CAT claims.”  App. 31–32.  But he says in his petition that he left Sri Lanka “to seek asylum in the United States.”  Id., at 15.  He discusses the criteria only for asylum.  Id., at 21; see also Brief for Respondent 4.  And he now alleges that he was improperly “denied asylum.”  Id., at 5.  Moreover, the gravamen of his petition is that he faces persecution in Sri Lanka “because of ” his Tamil ethnicity and political opinions.  App. 13.  To obtain withholding or CAT relief on that basis, he would need to show “a greater likelihood of persecution or torture at home than is necessary for asylum.”  Moncrieffe v. Holder,
+
+569 U.S. 184, 187, n. 1 (2013).  And he would not avoid removal, only removal to Sri Lanka.
+
+8 U. S. C. §1231(b)(3)(A); 8 CFR §208.16(f ).  We therefore read his petition as it is plainly intended: to seek another opportunity to apply for asylum. 
+
+6
+ See GAO, Immigration: Actions Needed To Strengthen USCIS’s Oversight and Data Quality of Credible and Reasonable Fear Screenings 13–15, and fig. 2 (GAO–20–250, Feb. 2020). 
+
+7
+ See id., at 16, n. b. 
+
+8
+ The Department may grant temporary parole “for urgent humanitarian reasons or significant public benefit.”
+
+8 U. S. C. §1182(d)(5)(A); see also 8 CFR §§212.5(b), 235.3(b)(2)(iii), and (4)(ii). 
+
+9
+ References to the factual material in this regulation are not endorsements of the regulation itself.  And like the immigration officials in this case, we do not question the basis for respondent’s asserted fear.  See infra, at 9.  But we note the Department’s view that credible-fear claims can be asserted “in the hope of a lengthy asylum process that will enable [the claimants] to remain in the United States for years . . . despite their statutory ineligibility for relief ” and that an influx of meritless claims can delay the adjudication of meritorious ones; strain detention capacity and degrade detention conditions; cause the release of many inadmissible aliens into States and localities that must shoulder the resulting costs; divert Department resources from protecting the border; and aggravate “the humanitarian crisis created by human smugglers.”  84 Fed. Reg. 33831; see also, e.g., Violent Crime Control and Law Enforcement Act of 1994, §130010(a)(3)(C),
+
+108Stat.
+2030 (legislative finding of “a drain on limited resources resulting from the high cost of processing frivolous asylum claims”); Arizona v. United States,
+
+567 U.S. 387, 397–398 (2012); Homeland Security Advisory Council, Final Emergency Interim Report 1, 7–8 (Apr. 16, 2019); Letter from K. Nielsen, Secretary of Homeland Security, to Members of Congress 1–2 (Mar. 28, 2019); GAO, Asylum: Additional Actions Needed To Assess and Address Fraud Risks 24 (GAO–16–50, Dec. 2015) (GAO Fraud Report); Congressional Budget Office, The Impact of Unauthorized Immigrants on the Budgets of State and Local Governments 8–9 (Dec. 2007); Brief for State of Arizona et al. as Amici Curiae 9–12. 
+
+10
+ See, e.g., GAO Fraud Report 32–33 (discussing Operation Fiction Writer, a criminal investigation of attorneys and application preparers who counseled asylum seekers to lie about religious persecution and forced abortions); Asylum Fraud: Abusing America’s Compassion? Hearing before the Subcommittee on Immigration and Border Security of the House Committee on the Judiciary, 113th Cong., 2d Sess. (2014) (testimony of Louis D. Crocetti, Jr.) (describing study in which 58% of randomly selected asylum applications exhibited indicators of possible fraud and 12% were determined to be fraudulent). 
+
+11
+ See, e.g., Mnatsakanyan v. United States Dept. of Homeland Security, 2020 WL 1245371, *5 (SD Cal., Mar. 16, 2020) (“Given the identical claims here as in Thuraissigiam, the Court concludes it has jurisdiction over Petitioner’s habeas petition under the Suspension Clause”); Kaur v. Barr, 2019 WL 4974425, *3 (D Ariz., Oct. 8, 2019) (granting stay of removal in light of the decision below); Rodrigues v. McAleenan, 2020 WL 363041, *2, *6 (ND Tex., Jan. 22, 2020) (declining to follow the decision below). 
+
+12
+ The original meaning of the Suspension Clause is the subject of controversy.  In INS v. St. Cyr,
+
+533 U.S. 289 (2001), the majority and dissent debated whether the Clause independently guarantees the availability of the writ or simply restricts the temporary withholding of its operation.  Compare id., at 300, with id., at 336–341 (Scalia, J., dissenting).  See also Ex parte Bollman, 4 Cranch 75, 95 (1807).  We do not revisit that question.  Nor do we consider whether the scope of the writ as it existed in 1789 defines the boundary of the constitutional protection to which the St. Cyr Court referred, since the writ has never encompassed respondent’s claims. We also do not reconsider whether the common law allowed the issuance of a writ on behalf of an alien who lacked any allegiance to the country.  Compare Boumediene v. Bush,
+
+553 U.S. 723, 746–747 (2008) (forming “no certain conclusions”), with Brief for Criminal Justice Legal Foundation as Amicus Curiae 5–13.  See also Hamburger, Beyond Protection, 109 Colum. L. Rev. 1823, 1847 (2009); P. Halliday, Habeas Corpus: From England to Empire 204 (2010) (Halliday). 
+
+13
+ In his brief, respondent states that “he requests an entirely ordinary habeas remedy: conditional release pending a lawful adjudication.  J. A. 33.”  Brief for Respondent 29.  Citing the same page, the dissent argues that respondent “asked the district court to ‘[i]ssue a writ of habeas corpus’ without further limitation on the kind of relief that might entail.”  Post, at 7 (opinion of Sotomayor, J.) (quoting App. 33).  However, neither on the cited page nor at any other place in the habeas petition is release, conditional or otherwise, even mentioned.  And in any event, as we discuss infra, at 15–21, the critical point is that what he sought in the habeas petition and still seeks—a writ “directing [the Department] to provide [him] a new opportunity to apply for asylum,” App. 33—is not a form of relief that was available in habeas at the time of the adoption of the Constitution. 
+
+14
+ Although the Ninth Circuit never mentioned release, its opinion might be read to suggest that gaining a right to remain in this country would constitute a release from the “restraint” of exclusion.  See 917 F.3d 1097, 1117 (2019).  No evidence has been called to our attention that the writ was understood in 1789 to apply to any comparable form of restraint. 
+
+15
+ Respondent and his amici rely primarily on British cases decided before the adoption of the Constitution.  “There is widespread agreement that the common-law writ of habeas corpus was in operation in all thirteen of the British colonies that rebelled in 1776,” but “almost no reported decisio[n] from the period.”  Oldham & Wishnie, The Historical Scope of Habeas Corpus and INS v. St. Cyr, 16 Geo. Immigration L. J. 485, 496 (2002) (Oldham & Wishnie) (internal quotation marks omitted). 
+
+16
+ Respondent’s amici also point out that, during the English Civil War, Parliament created a national religion and a “bewildering array of committees” to manage the war.  Brief for Legal Historians as Amici Curiae 10 (Legal Historians Brief ) (internal quotation marks omitted).  They argue that “[h]abeas corpus was readily available to test the legality of their actions.”  Ibid.  But according to their source, the challenged actions were “imprisonment orders,” including imprisonment of clergymen who refused to conform.  Halliday 163–164. 
+
+17
+ Respondent cites a secondary source, which in turn cites to the National Archives in London.  See Brief for Respondent 27 (citing Halliday 236). 
+
+18
+ Whether the founding generation understood habeas relief more broadly than described by Blackstone, Justice Story, and our prior cases, see supra, at 12, cannot be settled by a single case or even a few obscure and possibly aberrant cases.  And in any event, what is said here about Murray’s case provides little support for respondent’s position.  In 1677, we are told, Murray was imprisoned in England so that he could be “ ‘sent into Scotland’ ” for a criminal trial, but the King’s Bench twice issued a writ of habeas corpus requiring his release.  Brief for Respondent 27 (quoting Halliday 236).  Putting aside the “delicate” relationship between England and Scotland at the time, Boumediene, 553 U. S., at 749, issuance of a writ to secure the release of a person held in pretrial custody is far afield from what respondent wants here. 
+
+19
+ This regime lasted until after 1789, when the Aliens Act of 1793 authorized justices of the peace to imprison “without bail or mainprize” (i.e., bond) any alien found without a passport, who could then be “sen[t] out of th[e] realm.”  An Act for Regulating Immigration into Great Britain, 33 Geo. III, ch. 4, §§11, 29. 
+
+20
+ Amici supporting respondent make an additional argument.  They contend that “[i]n eighteenth century practice, the authority of English judges to review habeas petitions was not constrained by past decisions” and that these judges felt free to innovate in order to ensure that justice was done.  Legal Historians Brief 5–6.  But the role of federal courts under our Constitution is very different from that of those English judges.  The English judges “were considered agents of the Crown, designed to assist the King in the exercise of his power.”  Boumediene, 553 U. S., at 740.  The court with primary habeas jurisdiction, after all, was called the King’s Bench, on which the King “was theoretically always present.”  Halliday & White, The Suspension Clause: English Text, Imperial Contexts, and American Implications, 94 Va. L. Rev. 575, 594, 598, and n. 49 (2008).  Habeas was an exercise of the King’s prerogative “to have an account . . . why the liberty of any of his subjects is restrained.”  2 J. Story, Commentaries on the Constitution of the United States §1335, p. 207 (1833); accord, Legal Historians Brief 5–7.  In our federal courts, by contrast, the scope of habeas has been tightly regulated by statute, from the Judiciary Act of 1789 to the present day, and precedent is as binding in a habeas case as in any other.  See, e.g., Jenkins v. Hutton, 582 U. S. ___, ___ (2017) (per curiam) (slip op., at 4). 
+
+21
+ This concurrence imagines three horrible possibilities that it fears could come to pass unless we interpret the Suspension Clause to protect the right to some undefined category of relief beyond release from custody.  See post, at 2 (opinion of Breyer, J.).  But its interpretation is neither necessary nor obviously sufficient to prevent the possibilities it fears.  First, if a citizen were detained for deportation, today’s opinion would not prevent the citizen from petitioning for release.  Second, if respondent’s “procedural” claims do not merit habeas review, as the concurrence concludes, post, at 8, it is not clear why habeas should help the concurrence’s hypothetical alien whose credible-fear claim was rejected based on forged evidence.  Both respondent and this hypothetical alien assert procedural irregularities.  Does the availability of habeas review depend on a judge’s view of the severity of the irregularity asserted?  Finally, there is the hypothetical alien denied asylum on the ground that Judaism is not a religion.  Such a decision would of course be ridiculous, but why it would not raise a question of “brute fac[t]” that falls outside the concurrence’s interpretation of the Suspension Clause, post, at 5, is again not clear. Whatever may be said about the concurrence’s hypotheticals, it is possible to imagine all sorts of abuses not even remotely related to unauthorized executive detention that could be imposed on people in this country if the Constitution allowed Congress to deprive the courts of any jurisdiction to entertain claims regarding such abuses.  If that were to happen, it would no doubt be argued that constitutional provisions other than the Suspension Clause guaranteed judicial review.  We have no occasion to consider such arguments here. 
+
+22
+ See Shaughnessy v. Pedreiro,
+
+349 U.S. 48, 51–52 (1955) (interpreting 1952 Immigration and Nationality Act,
+
+66Stat.
+163, to provide for review of deportation orders). 
+
+23
+ While the Philippines was a Territory, its government suspended habeas to deal with “ ‘certain organized bands’ ” of rebels.  Fisher v. Baker,
+
+203 U.S. 174, 179–181 (1906) (quoting resolution). 
+
+24
+ The Governor of Hawaii suspended habeas, with President Roosevelt’s approval, after the attack on Pearl Harbor.  See Duncan v. Kahanamoku,
+
+327 U.S. 304, 307–308, 324 (1946). 
+
+25
+ In a concurrence in United States ex rel. Turner v. Williams,
+
+194 U.S. 279 (1904), Justice Brewer stated without elaboration and without citing any authority that the Suspension Clause prohibits Congress from “oust[ing] the courts from the duty of inquiry respecting both law and facts” in habeas cases.  Id., at 295.  No other Justice joined that opinion. 
+
+26
+ In Fong Yue Ting v. United States,
+
+149 U.S. 698, 713 (1893), and many other cases, the Court noted that the Constitution gives Congress plenary power to set requirements for admission. 
+
+27
+ The Government notes other distinctions between St. Cyr and this case, including that the alien in St. Cyr raised a pure question of law, while respondent raises at best a mixed question of law and fact.  We have no need to consider these distinctions. 
+
+28
+ Although respondent, during his interviews with immigration officials, does not appear to have provided any information tying the assault he suffered at the hands of those who arrived at his home in a van to persecution on the basis of ethnicity or political opinion, his counseled petition offers details about “white va[n]” attacks against Tamils in Sri Lanka.  App. 25–26 (internal quotation marks omitted).  As now portrayed, his assault resembles those incidents.  Department officials and immigration judges may reopen cases or reconsider decisions, see 8 CFR §§103.5(a)(1), (5), and 1003.23(b)(1), and the Executive always has discretion not to remove, see AAADC, 525 U. S., at 483–484. 
+
+

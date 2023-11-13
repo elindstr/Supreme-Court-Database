@@ -1,0 +1,101 @@
+::SCDB_caseID:: 2017-022
+::decision_cite:: 16-476
+::decision_name::  Murphy v. National Collegiate Athletic Association
+::decision_year:: 2018
+::opinion_author:: Thomas
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 16–476 and 16–477
+
+															_________________
+
+															PHILIP D. MURPHY, GOVERNOR OF NEW JERSEY, et al., PETITIONERS
+
+															16–476v.
+
+															NATIONAL COLLEGIATE ATHLETIC ASSOCIATION, et al.
+
+															
+
+															NEW JERSEY THOROUGHBRED HORSEMEN’S ASSOCIATION, INC., PETITIONER
+
+															16–477v.
+
+															NATIONAL COLLEGIATE ATHLETIC ASSOCIATION, et al.
+
+															on writs of certiorari to the united states court of appeals for the third circuit
+
+															[May 14, 2018]
+
+															
+
+															Justice Thomas, concurring.
+
+															I join the Court’s opinion in its entirety.  I write separately, however, to express my growing discomfort with our modern severability precedents.
+
+															I agree with the Court that the Professional and Amateur Sports Protection Act (PASPA) exceeds Congress’ Article I authority to the extent it prohibits New Jersey from “authoriz[ing]” or “licens[ing]” sports gambling,
+
+28 U. S. C. §3702(1).  Unlike the dissent, I do “doubt” that Congress can prohibit sports gambling that does not cross state lines.  Post, at 2 (opinion of Ginsburg, J.); see License Tax Cases, 5 Wall. 462, 470–471 (1867) (holding that Congress has “no power” to regulate “the internal commerce or domestic trade of the States,” including the intrastate sale of lottery tickets); United States v. Lopez, 
+
+514 U. S. 549, 587–601 (1995) (Thomas, J., concurring) (documenting why the Commerce Clause does not permit Congress to regulate purely local activities that have a substantial effect on interstate commerce).  But even assuming the Commerce Clause allows Congress to prohibit intrastate sports gambling “directly,” it “does not authorize Congress to regulate state governments’ regulation of interstate commerce.”  New York v. United States,
+
+505 U. S. 144, 166 (1992).  The Necessary and Proper Clause does not give Congress this power either, as a law is not “proper” if it “subvert[s] basic principles of federalism and dual sovereignty.”  Gonzales v. Raich,
+
+545 U. S. 1, 65 (2005) (Thomas, J., dissenting).  Commandeering the States, as PASPA does, subverts those principles.  See Printz v. United States,
+
+521 U. S. 898, 923–924 (1997).
+
+															Because PASPA is at least partially unconstitutional, our precedents instruct us to determine “which portions of the . . . statute we must sever and excise.”  United States v. Booker,
+
+543 U. S. 220, 258 (2005) (emphasis deleted).  The Court must make this severability determination by asking a counterfactual question: “ ‘Would Congress still have passed’ the valid sections ‘had it known’ about the constitutional invalidity of the other portions of the statute?”  Id., at 246 (quoting Denver Area Ed. Telecommunications Consortium, Inc. v. FCC,
+
+518 U. S. 727, 767 (1996) (plurality opinion)).  I join the Court’s opinion because it gives the best answer it can to this question, and no party has asked us to apply a different test.  But in a future case, we should take another look at our severability precedents.
+
+															Those precedents appear to be in tension with traditional limits on judicial authority.  Early American courts did not have a severability doctrine.  See Walsh, Partial Unconstitutionality, 85 N. Y. U. L. Rev. 738, 769 (2010) (Walsh).  They recognized that the judicial power is, fundamentally, the power to render judgments in individual cases.  See id., at 755; Baude, The Judgment Power, 96 Geo. L. J. 1807, 1815 (2008).  Judicial review was a byproduct of that process.  See generally P. Hamburger, Law and Judicial Duty (2008); Prakash & Yoo, The Origins of Judicial Review, 70 U. Chi. L. Rev. 887 (2003).  As Chief Justice Marshall famously explained, “[i]t is emphatically the province and duty of the judicial department to say what the law is” because “[t]hose who apply the rule to particular cases, must of necessity expound and interpret that rule.”  Marbury v. Madison, 1 Cranch 137, 177 (1803).  If a plaintiff relies on a statute but a defendant argues that the statute conflicts with the Constitution, then courts must resolve that dispute and, if they agree with the defendant, follow the higher law of the Constitution.  See id., at 177–178; The Federalist No. 78, p. 467 (C. Rossiter ed. 1961) (A. Hamilton).  Thus, when early American courts determined that a statute was unconstitutional, they would simply decline to enforce it in the case before them.  See Walsh 755–766.  “[T]here was no ‘next step’ in which courts inquired into whether the legislature would have preferred no law at all to the constitutional remainder.”  Id., at 777.
+
+															Despite this historical practice, the Court’s modern cases treat the severability doctrine as a “remedy” for constitutional violations and ask which provisions of the statute must be “excised.”  See, e.g., Ayotte v. Planned Parenthood of Northern New Eng.,
+
+546 U. S. 320, 329 (2006); Booker, supra, at 245; Alaska Airlines, Inc. v. Brock,
+
+480 U. S. 678, 686 (1987).  This language cannot be taken literally.  Invalidating a statute is not a “remedy,” like an injunction, a declaration, or damages.  See Harrison, Severability, Remedies, and Constitutional Adjudication, 83 Geo. Wash. L. Rev. 56, 82–88 (2014) (Harrison).  Remedies “operate with respect to specific parties,” not “on legal rules in the abstract.”  Id., at 85; see also Massachusetts v. Mellon,
+
+262 U. S. 447, 488 (1923) (explaining that the power “to review and annul acts of Congress” is “little more than the negative power to disregard an unconstitutional enactment” and that “the court enjoins . . . not the execution of the statute, but the acts of the official”).  And courts do not have the power to “excise” or “strike down” statutes.  See 39 Op. Atty. Gen. 22, 22–23 (1937) (“The decisions are practically in accord in holding that the courts have no power to repeal or abolish a statute”); Harrison 82 (“[C]ourts do not make [nonseverable] provisions inoperative . . . .  Invalidation by courts is a figure of speech”); Mitchell, The Writ-of-Erasure Fallacy, 104 Va. L. Rev. (forthcoming 2018) (manuscript, at 4) (“The federal courts have no authority to erase a duly enacted law from the statute books”), online at https://papers.ssrn.com/sol3/ papers.cfm?abstract_id=3158038 (as last visited May 11, 2018).
+
+															Because courts cannot take a blue pencil to statutes, the severability doctrine must be an exercise in statutory interpretation.  In other words, the severability doctrine has courts decide how a statute operates once they conclude that part of it cannot be constitutionally enforced.  See Fallon, As-Applied and Facial Challenges and Third-Party Standing, 113 Harv. L. Rev. 1321, 1333–1334 (2000); Harrison 88.  But even under this view, the severability doctrine is still dubious for at least two reasons.
+
+															First, the severability doctrine does not follow basic principles of statutory interpretation.  Instead of requiring courts to determine what a statute means, the severability doctrine requires courts to make “a nebulous inquiry into hypothetical congressional intent.”  Booker, supra, at 320, n. 7 (Thomas, J., dissenting in part).  It requires judges to determine what Congress would have intended had it known that part of its statute was unconstitutional.[1]  But it seems unlikely that the enacting Congress had any intent on this question; Congress typically does not pass statutes with the expectation that some part will later be deemed unconstitutional.  See Walsh 740–741; Stern, Separability and Separability Clauses in the Supreme Court, 51 Harv. L. Rev. 76, 98 (1937) (Stern).  Without any actual evidence of intent, the severability doctrine invites courts to rely on their own views about what the best statute would be.  See Walsh 752–753; Stern 112–113.  More fundamentally, even if courts could discern Congress’ hypothetical intentions, intentions do not count unless they are enshrined in a text that makes it through the constitutional processes of bicameralism and presentment.  See Wyeth v. Levine,
+
+555 U. S. 555, 586–588 (2009) (Thomas, J., concurring in judgment).  Because we have “ ‘a Government of laws, not of men,’ ” we are governed by “legislated text,” not “legislators’ intentions”—and especially not legislators’ hypothetical intentions.  Zuni Public School Dist. No. 89 v. Department of Education,
+
+550 U. S. 81, 119 (2007) (Scalia, J., dissenting).  Yet hypothetical intent is exactly what the severability doctrine turns on, at least when Congress has not expressed its fallback position in the text.
+
+															Second, the severability doctrine often requires courts to weigh in on statutory provisions that no party has standing to challenge, bringing courts dangerously close to issuing advisory opinions.  See Stern 77; Lea, Situational Severability, 103 Va. L. Rev. 735, 788–803 (2017) (Lea).  If one provision of a statute is deemed unconstitutional, the severability doctrine places every other provision at risk of being declared nonseverable and thus inoperative; our precedents do not ask whether the plaintiff has standing to challenge those other provisions.  See National Federation of Independent Business v. Sebelius,
+
+567 U. S. 519, 696–697 (2012) (joint dissent) (citing, as an example, Williams v. Standard Oil Co. of La.,
+
+278 U. S. 235, 242–244 (1929)).  True, the plaintiff had standing to challenge the unconstitutional part of the statute.  But the severability doctrine comes into play only after the court has resolved that issue—typically the only live controversy between the parties.  In every other context, a plaintiff must demonstrate standing for each part of the statute that he wants to challenge.  See Lea 789, 751, and nn. 79–80 (citing, as examples, Davis v. Federal Election Comm’n,
+
+554 U. S. 724, 733–734 (2008); DaimlerChrysler Corp. v. Cuno,
+
+547 U. S. 332, 346, 350–353 (2006)).  The severability doctrine is thus an unexplained exception to the normal rules of standing, as well as the separation-of-powers principles that those rules protect.  See Steel Co. v. Citizens for Better Environment,
+
+523 U. S. 83, 101 (1998).
+
+															In sum, our modern severability precedents are in tension with longstanding limits on the judicial power.  And, though no party in this case has asked us to reconsider these precedents, at some point, it behooves us to do so.
+Notes
+1
+ The first court to engage in this counterfactual exploration of legislative intent was the Massachusetts Supreme Judicial Court in Warren v. Mayor and Aldermen of Charlestown, 68 Mass. 84, 99 (1854).  This Court adopted the Warren formulation in the late 19th century, see Allen v. Louisiana,
+
+103 U. S. 80, 84 (1881), an era when statutory interpretation privileged Congress’ unexpressed “intent” over the enacted text, see, e.g., Church of Holy Trinity v. United States,
+
+143 U. S. 457, 472 (1892); United States v. Moore,
+
+95 U. S. 760, 763 (1878). 
+
+

@@ -1,0 +1,291 @@
+::SCDB_caseID:: 0
+::decision_cite:: 22-10
+::decision_name::  Dubin v. United States
+::decision_year:: 2023
+::opinion_author:: Gorsuch
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 22–10
+
+															_________________
+
+															David Fox Dubin, PETITIONER v. UNITED
+STATES
+
+															on writ of certiorari to the united states
+court of appeals for the fifth circuit
+
+															[June 8, 2023]
+
+															
+
+															Justice Gorsuch, concurring in the
+judgment.
+
+															Whoever among you is not an “aggravated
+identity thief,” let him cast the first stone. The United
+States came to this Court with a view of 18 U. S. C.
+§1028A(a)(1) that would affix that unfortunate label on almost
+every adult American. Every bill splitter who has overcharged a
+friend using a mobile-payment service like Venmo. Every contractor
+who has rounded up his billed time by even a few minutes. Every
+college hopeful who has overstated his involvement in the high
+school glee club. All of those individuals, the United States says,
+engage in conduct that can invite a mandatory 2-year stint in
+federal prison. The Court today rightly rejects that unserious
+position. But in so holding, I worry the Court has stumbled upon a
+more fundamental problem with §1028A(a)(1). That provision is
+not much better than a Rorschach test. Depending on how you squint
+your eyes, you can stretch (or shrink) its meaning to convict (or
+exonerate) just about anyone. Doubtless, creative prosecutors and
+receptive judges can do the same. Truly, the statute fails to
+provide even rudimentary notice of what it does and does not
+criminalize. We have a term for laws like that. We call them vague.
+And “[i]n our constitutional order, a vague law is no law at
+all.” United States v. Davis, 588 U. S.
+___, ___ (2019) (slip op., at 1).
+
+															The “[a]ggravated identity theft”
+statute stipulates that “[w]hoever, during and in relation to
+any felony violation” listed in a later subsection,
+“knowingly transfers, possesses, or uses, without lawful
+authority, a means of identification of another person shall, in
+addition to the punishment provided for such felony, be sentenced
+to a term of imprisonment of 2 years.” §1028A(a)(1).
+Today, the Court sets out to determine what conduct that law
+reaches. It is, as the Court acknowledges, no easy task. Both the
+term “us[e]” and the phrase “in relation
+to” can support a multitude of possible meanings.
+Ante, at 5–7. They of course “ ‘imply
+action and implementation.’ ” Ante, at 6
+(quoting Bailey v. United States, 516 U.S.
+137, 145 (1995)). Beyond that “general concept,”
+however, we must fend for ourselves based only on limited
+contextual clues. Ante, at 5–7.
+
+															The United States offers up a rapacious
+interpretation that would require only “the use of th[e]
+means of identification [to] ‘facilitat[e] or
+furthe[r]’ the predicate offense in some way.”
+Brief for United States 10 (emphasis added). Admittedly, this
+reading “fall[s] within the range” of plausible
+meanings the statute could support. Ante, at 7. But so too
+do other readings—ones that require a more demanding
+“nexus” between the “means of
+identification” and the underlying misconduct. Ante,
+at 7–8. For many of the reasons the Court gives (and more
+besides), I agree that we must adhere to those more restrained
+offerings. The United States’ maximalist approach has
+simplicity on its side, yes; an everybody-is-guilty standard is no
+challenge to administer. But the Constitution prohibits the
+Judiciary from resolving reasonable doubts about a criminal
+statute’s meaning by rounding up to the most punitive
+interpretation its text and context can tolerate. See Wooden
+v. United States, 595 U. S. ___, ___–___ (2022)
+(Gorsuch, J., concurring in judgment) (slip op., at 6–9).
+That insight alone means Mr. Dubin’s §1028A(a)(1)
+conviction cannot stand.
+
+															Unfortunately, our opinion cannot end there.
+Having told lower courts how not to read the statute, we owe
+them some guidance as to how they should read it. That is
+where the real challenge begins. Drawing on contextual clues and
+rules of statutory interpretation, the Court concludes that a
+violation of §1028A(a)(1) occurs whenever the “use of
+the means of identification is at the crux of the
+underlying criminality.” Ante, at 10 (emphasis added).
+“In other words, the means of identification
+specifically” must be in some way “a key mover
+in the criminality.” Ibid. (emphasis added). Put still
+another way, the “means of identification” must play
+the (or maybe a) “central role” in the
+commission of the offense. Ibid. (emphasis added).
+
+															Setting aside some definite-article
+inconsistency, those formulations all sound sensible enough. On
+closer review, however, they present intractable interpretive
+challenges of their own. When, exactly, is a “means of
+identification” “at the crux,” “a key
+mover,” or a “central role” player in an offense?
+No doubt, the answer “turns on causation, or at least
+causation often helps to answer the question.” United
+States v. Michael, 882 F.3d 624, 628 (CA6 2018). The
+Court agrees but stresses that “a causal relationship”
+of any kind will not suffice. Ante, at 20. At the same time,
+however, it studiously avoids indicating whether the appropriate
+standard is proximate cause or something else entirely novel.
+Ibid. All of which gives rise to further questions. In
+virtually every fraud, a “means of identification”
+plays some critical role in the fraud’s success—good
+luck committing a mail or wire fraud, for instance, without relying
+heavily on the name of the victim and likely the names of other
+third parties. Just how much “causation” must a
+prosecutor establish to sustain a §1028A(a)(1) conviction? For
+that matter, how does one even determine the extent to which a
+“means of identification” “caused” an
+offense, as compared to the many other necessary inputs?
+
+															The Court supplies no firm answer. Instead, it
+leans on various illustrations that only highlight the difficulties
+inherent in this exercise. Take, for instance, the Court’s
+assurance that a “waiter who serves flank steak but charges
+for filet mignon using an electronic payment method” has not
+committed aggravated identity theft. Ante, at 1, 11. Why
+not, exactly? In one sense, the “means of
+identification” (the credit card) lies “at the
+crux” of the fraud. The restaurant uses it to charge the
+customer for a product it never supplied. Maybe that feels less
+distasteful than a scenario in which an overseas hacker steals an
+individual’s credit card information and deploys it to order
+luxury goods on Amazon. But the Constitution’s promise of due
+process means that criminal statutes must provide rules
+“knowable in advance,” not intuitions discoverable only
+after a prosecutor has issued an indictment and a judge offers an
+opinion. Percoco v. United States, 598 U. S.
+___, ___ (2023) (Gorsuch, J., concurring in judgment) (slip op., at
+6).
+
+															Not yet convinced? Consider some tweaks to the
+Court’s hypothetical. Suppose that, instead of
+misrepresenting the cut of its steaks, a restaurant charged a
+customer for an appetizer he ordered that never arrived. What about
+an appetizer he never ordered? An additional entrée? Three?
+Three plus a $5,000 bottle of Moët? How about a Boeing 737?
+Now suppose the restaurant ran the customer’s credit card for
+the same steak twice. What if it waited an hour to do so? A day? A
+year? What if the waiter gave the credit card information to a
+different employee at the same restaurant to run the charge? A
+different employee at a different restaurant? What if the
+restaurant sold the customer’s credit card information on the
+dark web, and another restaurant ran the card for filet
+mignon? On the Court’s telling, the “crux” of the
+fraud in some of these examples lies merely in “how
+and when services were provided,” while in others the
+“crux” involves “who received the
+services.” Ante, at 20. But how to tell which is
+which?
+
+															The Court’s “crux” test
+seemingly offers no sure way through this “blizzard of
+. . . hypotheticals.” Ibid., n. 10. Nor
+is that because I have cherry-picked “hard cases.”
+Ibid. Scenarios like these—and variations of
+them—illustrate the sorts of problems that invariably arise
+in even simple §1028A(a)(1) cases involving bogus restaurant
+bills. Other contexts can present still greater complications and
+still deeper uncertainties. The problem we face, then, is not that
+§1028A(a)(1) presents some hard cases at its edges; the
+problem is this statute has no easy cases. Really, you could spend
+a whole day cooking up scenarios—ranging from the mundane to
+the fanciful—that collapse even your most basic intuitions
+about what §1028A(a)(1) does and does not criminalize. Try
+making up some of your own and running them by a friend or family
+member. You may be surprised at how sharply instincts diverge.
+
+															For the less adventurous, consider just the
+facts of the case now before us. On one framing, it seems
+outrageous to convict Mr. Dubin of aggravated identity theft. After
+all, the patient did (at one point) receive psychological testing.
+So you might say, as the Court does, that Mr. Dubin lied only about
+the qualifications of the individual who provided those services
+and the date on which they occurred. See ante, at 2, 20. But
+on another framing, the patient’s identity was “a key
+mover,” perhaps even “at the crux,” of the fraud.
+Mr. Dubin could not have successfully billed the insurance provider
+without accurately offering up some specific patient’s name
+and information. Nor, as the United States notes, could Mr. Dubin
+have simply drawn a random name from a hat. Rather, his fraud
+depended on purloining the specific identity of a “Texas
+Medicaid enrollee who had at least three hours of
+psychological-testing reimbursement left in his or her
+account.” Brief for United States 13. Along the way, Mr.
+Dubin’ compensable psychological services. From the
+patient’s perspective, Mr. Dubin’s use of his
+“means of identification” could hardly feel
+“ancillary.” Ante, at 1–2.
+
+															As an abstract exercise, debating fact patterns
+like these may seem good fun. But there is nothing entertaining
+about a 2-year mandatory federal prison sentence. Criminal statutes
+are not games to be played in the car on a cross-country road trip.
+To satisfy the constitutional minimum of due process, they must at
+least provide “ordinary people” with “fair notice
+of the conduct [they] punis[h].” Johnson v. United
+States, 576 U.S. 591, 595 (2015). And, respectfully, I do not
+see how §1028A(a)(1) can clear that threshold. Under the
+Court’s “crux” test, no boundary separates
+conduct that gives rise to liability from conduct that does not.
+And it appears I share this concern with the very lower court
+judges who will have to apply this standard prospectively. As even
+many of the Fifth Circuit dissenters below warned, the sort
+of “facilitation standard” the Court today adopts,
+“with its incidental/integral dividing line,” is
+unworkable because it “lacks clear lines and a limiting
+principle.” 27 F. 4th 1021, 1042 (2022) (en banc) (Costa, J.,
+dissenting). In the end, it is hard not to worry that the
+Court’s “crux” test will simply become a fig leaf
+for judges’ and jurors’ own subjective moral judgments
+about whether (as the Court itself puts it) the defendant’s
+crime is “one that warrants a 2-year mandatory
+minimum.” Ante, at 17.
+
+															I do not question that the Court today has done
+the best it might to make sense of this statute. It’s just
+that it faces an impossible task. In the past when this Court has
+grappled with similar statutory language, it has done so in
+contexts where the relevant terms could carry only a few possible
+(and comparatively fixed) meanings. For example, when it comes to
+the “us[e]” of a firearm “in relation” to a
+crime of violence, 18 U. S. C. §924(c)(1)(A), the
+presence of a gun could be a but-for cause of (or a necessary
+ingredient of ) the offense—used, for example, as
+compensation in an exchange for illicit drugs. Smith v.
+United States, 508 U.S.
+223, 237–238 (1993). Or the gun could be
+“ ‘used as a weapon’ ” by being
+discharged or brandished. Id., at 243 (Scalia, J.,
+dissenting). Because both those interpretations are relatively
+bounded and understandable, this Court could use principles of
+statutory interpretation to choose between them. The same holds
+true for many of the other statutes the Court (mistakenly) frets I
+would call into doubt. See ante, at 20, n. 10.
+
+															The same cannot be said for §1028A(a)(1),
+though. There are an uncountable number of ways in which an
+individual could “us[e]” the “means of
+identification” of another to commit fraud. That list covers
+everything from including a victim’s name in the subject line
+of a fraudulent email; to misrepresenting information on a loan
+form involving a co-signer; to putting on a wig and walking into a
+bank with a fake ID. And no obvious neutral rule exists to separate
+those “uses” that violate §1028A(a)(1) from others
+that do not. In this way, §1028A(a)(1) is not just an
+“ambiguous” statute—“one that does
+define prohibited conduct with some precision, but [that] is
+subject to two or more different interpretations.” J. Decker,
+Addressing Vagueness, Ambiguity, and Other Uncertainty in American
+Criminal Laws, 80 Denver U. L. Rev. 241, 261 (2002) (emphasis
+added). Instead, it is a vague statute—one that “does
+not satisfactorily define the proscribed conduct” at all.
+Id., at 260–261.
+
+															I do not write this opinion as wishcasting.
+Perhaps, by applying the Court’s “crux” test,
+lower courts will achieve a consistency that has, to date, eluded
+them. Or perhaps they will, prompted by today’s decision,
+locate a previously unseen path through this statutory quagmire.
+But I would not hold my breath. Section 1028A(a)(1) simply does too
+little to specify which individuals deserve the inglorious title of
+“aggravated identity thief.” That is a problem Congress
+alone can fix. Until it does, I fear the issues that have long
+plagued lower courts will persist. And I will not be surprised if
+someday, maybe someday soon, they find their way back here.
+
+													

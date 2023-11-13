@@ -1,0 +1,403 @@
+::SCDB_caseID:: 0
+::decision_cite:: 21-1170
+::decision_name::  Ciminelli v. United States
+::decision_year:: 2023
+::opinion_author:: Thomas
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+
+															NOTICE: This opinion is subject to
+formal revision before publication in the United States
+Reports. Readers are requested to notify the Reporter of
+Decisions, Supreme Court of the United States, Washington,
+D. C. 20543, pio@supremecourt.gov, of any typographical or
+other formal errors.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 21–1170
+
+															_________________
+
+															LOUIS CIMINELLI, PETITIONER v. UNITED
+STATES, et al.
+
+															on writ of certiorari to the united states
+court of appeals for the second circuit
+
+															[May 11, 2023]
+
+															Justice Thomas delivered the opinion of the
+Court.
+
+															In this case, we must decide whether the Second
+Circuit’s longstanding “right to control” theory
+of fraud describes a valid basis for liability under the federal
+wire fraud statute, which criminalizes the use of interstate wires
+for “any scheme or artifice to defraud, or for obtaining
+money or property by means of false or fraudulent pretenses,
+representations, or promises.” 18 U. S. C.
+§1343. Under the right-to-control theory, a defendant is
+guilty of wire fraud if he schemes to deprive the victim of
+“potentially valuable economic information”
+“necessary to make discretionary economic decisions.”
+United States v. Percoco, 13 F. 4th 158, 170
+(CA2 2021) (internal quotation marks omitted). Petitioner Louis
+Ciminelli was charged with, tried for, and convicted of wire fraud
+under this theory. And the Second Circuit affirmed his convictions
+on that same basis.
+
+															We have held, however, that the federal fraud
+statutes criminalize only schemes to deprive people of traditional
+property interests. Cleveland v. United States,
+531 U.S.
+12, 24 (2000). Because “potentially valuable economic in-
+formation” “necessary to make discretionary economic
+decisions” is not a traditional property interest, we now
+hold that the right-to-control theory is not a valid basis for
+liability under §1343. Accordingly, we reverse the Second
+Circuit’s judgment.
+
+															I
+
+															This case begins with then-New York Governor
+Andrew Cuomo’s “Buffalo Billion” initiative. On
+its face, the initiative was administered through Fort Schuyler
+Management Corporation, a nonprofit affiliated with the State
+University of New York (SUNY) and the SUNY Research Foundation. It
+aimed to invest $1 billion in development projects in upstate New
+York. Later investigations, however, uncovered a wide-ranging
+scheme that involved several of former Governor Cuomo’s
+associates, most notably Alain Kaloyeros and Todd Howe. Kaloyeros
+was a member of Fort Schuyler’s board of directors and was in
+charge of developing project proposals for Buffalo Billion; Howe
+was a lobbyist who had deep ties to the Cuomo administration. Each
+month, Kaloyeros paid Howe $25,000 in state funds to ensure that
+the Cuomo administration gave Kaloyeros a prominent position in
+Buffalo Billion.
+
+															Ciminelli had a similar arrangement. His
+construction company, LPCiminelli, paid Howe $100,000 to $180,000
+each year to help it obtain state-funded jobs. In 2013, Howe and
+Kaloyeros devised a scheme whereby Kaloyeros would tailor Fort
+Schuyler’s bid process to smooth the way for LPCiminelli to
+receive major Buffalo Billion contracts. First, on Kaloyeros’
+suggestion, Fort Schuyler established a process for selecting
+“preferred developers” that would be given the first
+opportunity to negotiate with Fort Schuyler for specific projects.
+Then, Kaloyeros, Howe, and Ciminelli jointly developed a set of
+requests for proposal (RFPs) that treated unique aspects of
+LPCiminelli as qualifications for preferred-developer status. Those
+RFPs effectively guaranteed that LPCiminelli would be (and was)
+selected as a preferred developer for the Buffalo projects. With
+that status in hand, LPCiminelli secured the marquee $750 million
+“Riverbend project” in Buffalo.
+
+															After an investigation revealed their scheme,
+Ciminelli, Howe, Kaloyeros, and several others were indicted by a
+federal grand jury on 18 counts including, as relevant here, wire
+fraud in violation of 18 U. S. C. §1343 and
+conspiracy to commit wire fraud in violation of §1349.
+
+															Throughout the grand jury proceedings, trial,
+and appeal, the Government relied on the Second Circuit’s
+“right to control” theory, under which the Government
+can establish wire fraud by showing that the defendant schemed to
+deprive a victim of potentially valuable economic information
+necessary to make discretionary economic decisions. The
+Government’s indictment and trial strategy rested solely on
+that theory.[1] And, it
+successfully defeated Ciminelli and his codefendants’ motion
+to dismiss by relying on that theory. In addition, it successfully
+moved the District Court to exclude certain defense evidence as
+irrelevant to that theory. The Government also relied on that
+theory in its summation to the jury.
+
+															Consistent with the right-to-control theory, the
+District Court instructed the jury that the term
+“property” in §1343 “includes intangible
+interests such as the right to control the use of one’s
+assets.” App. 41. The jury could thus find that the
+defendants harmed Fort Schuyler’s right to control its assets
+if Fort Schuyler was “deprived of potentially valuable
+economic information that it would consider valuable in deciding
+how to use its assets.” Ibid. The District Court
+further defined “economically valuable information” as
+“information that affects the victim’s assessment of
+the benefits or burdens of a transaction, or relates to the quality
+of goods or services received or the economic risks of the
+transaction.” Ibid. The jury found Ciminelli guilty of
+wire fraud and conspiracy to commit wire fraud and the District
+Court sentenced him to 28 months’ imprisonment followed by 2
+years’ supervised release.
+
+															On appeal, Ciminelli challenged the
+right-to-control theory, arguing that the right to control
+one’s assets is not “property” for purposes of
+the wire fraud statute. Defending the wire fraud convictions, the
+Government relied solely on the right-to-control theory. The Second
+Circuit affirmed the convictions based on its longstanding
+right-to-control precedents, holding that, by “rigging the
+RFPs to favor their companies, defendants deprived Fort Schuyler of
+potentially valuable economic information.” 13 F. 4th,
+at 171 (internal quotation marks omitted).
+
+															We granted certiorari to determine whether the
+Second Circuit’s right-to-control theory of wire fraud is a
+valid basis for liability under 18 U. S. C. §1343.
+597 U. S. ___ (2022). And, we now hold that it is not.
+
+															II
+
+															A
+
+															The wire fraud statute criminalizes
+“scheme[s] or artifice[s] to defraud, or for obtaining money
+or property by means of false or fraudulent pretenses,
+representations, or promises.” §1343. Although the
+statute is phrased in the disjunctive, we have consistently
+understood the “money or property” requirement to limit
+the “scheme or artifice to defraud” element because the
+“common understanding” of the words “to
+defraud” when the statute was enacted referred “to
+wronging one in his property rights.” Cleveland, 531
+U. S., at 19 (internal quotation marks omitted).[2] This understanding reflects not only the
+original meaning of the text, but also that the fraud statutes do
+not vest a general power in “the Federal Government
+. . . to enforce (its view of ) integrity in broad
+swaths of state and local policymaking.” Kelly v.
+United States, 590 U. S. ___, ___ (2020) (slip op., at
+12). Instead, these statutes “protec[t] property rights
+only.” Cleveland, 531 U. S., at 19. Accordingly,
+the Government must prove not only that wire fraud defendants
+“engaged in deception,” but also that money or property
+was “an object of their fraud.” Kelly, 590
+U. S., at ___ (slip op., at 7) (alterations omitted).
+
+															Despite these limitations, lower federal courts
+for decades interpreted the mail and wire fraud statutes to protect
+intangible interests unconnected to traditional property rights.
+See Skilling v. United States, 561 U.S.
+358, 400 (2010) (recounting how “the Courts of Appeals,
+one after another, interpreted the term ‘scheme or artifice
+to defraud’ to include deprivations not only of money or
+property, but also of intangible rights”). For example,
+federal courts held the fraud statutes reached such intangible
+interests as the right to “honest services,”
+ibid. (internal quotation marks omitted); the right of the
+citizenry to an honest election, see United States v.
+Girdner, 754 F.2d 877, 880 (CA10 1985); and the right to
+privacy, United States v. Louderman, 576 F.2d 1383,
+1387 (CA9 1978). In McNally v. United States,
+483 U.S.
+350 (1987), this Court halted that trend by confining the
+federal fraud statutes to their original station, the
+“protect[ion of] individual property rights.”
+Id., at 359, n. 8. Congress then amended the fraud
+statutes “specifically to cover one of the ‘intangible
+rights’ that lower courts had protected under [the statutes]
+prior to McNally: ‘the intangible right of honest
+services.’ ” Cleveland, 531 U. S., at
+19–20 (quoting 18 U. S. C. §1346).
+
+															The right-to-control theory applied below first
+arose after McNally prevented the Government from basing
+federal fraud convictions on harms to intangible interests
+unconnected to property. See United States v.
+Wallach, 935 F.2d 445, 461–464 (CA2 1991). As
+developed by the Second Circuit, the theory holds that,
+“[s]ince a defining feature of most property is the right to
+control the asset in question,” “the property interests
+protected by the wire fraud statute include the interest of a
+victim in controlling his or her own assets.” United
+States v. Lebedev, 932 F.3d 40, 48 (2019) (alterations
+omitted). Thus, a “cognizable harm occurs where the
+defendant’s scheme denies the victim the right to control its
+assets by depriving it of information necessary to make
+discretionary economic decisions.” United States v.
+Binday, 804 F.3d 558, 570 (CA2 2015) (alterations
+omitted).[3]
+
+															The right-to-control theory cannot be squared
+with the text of the federal fraud statutes, which are
+“limited in scope to the protection of property
+rights.” McNally, 483 U. S., at 360. The
+so-called “right to control” is not an interest that
+had “long been recognized as property” when the wire
+fraud statute was enacted. Carpenter v. United
+States, 484 U.S.
+19, 26 (1987). Significantly, when the Second Circuit first
+recognized the right-to-control theory in 1991—decades after
+the wire fraud statute was enacted and over a century after the
+mail fraud statute was enacted—it could cite no authority
+that established “potentially valuable economic
+information” as a traditionally recognized property interest.
+See Wallach, 935 F. 2d, at 462–463.[4] And, the Second Circuit has not since
+attempted to ground the right-to-control theory in traditional
+property notions. We have consistently rejected such federal fraud
+theories that “stray from traditional concepts of
+property.” Cleveland, 531 U. S., at 24. For its
+part, the Government—despite relying upon the
+right-to-control theory for decades, including in this very
+case—now concedes that if “the right to make informed
+decisions about the disposition of one’s assets, without
+more, were treated as the sort of ‘property’ giving
+rise to wire fraud, it would risk expanding the federal fraud
+statutes beyond property fraud as defined at common law and as
+Congress would have understood it.” Brief for United States
+25–26. Thus, even the Government now agrees that the Second
+Circuit’s right-to-control theory is unmoored from the
+federal fraud statutes’ text.
+
+															The right-to-control theory is also inconsistent
+with the structure and history of the federal fraud statutes. As
+recounted above, after McNally put an end to federal
+courts’ use of mail and wire fraud to protect an ever-growing
+swath of intangible interests unconnected to property, Congress
+responded by enacting §1346, which—despite the wide
+array of intangible rights courts protected under the fraud
+statutes pre-McNally—revived “only the
+intangible right of honest services.” Cleveland, 531
+U. S., at 19–20 (emphasis added). “Congress’
+reverberating silence about other [such] intangible
+interests” forecloses the expansion of the wire fraud statute
+to cover the intangible right to control. United States v.
+Sadler, 750 F.3d 585, 591 (CA6 2014).
+
+															Finally, the right-to-control theory vastly
+expands federal jurisdiction without statutory authorization.
+Because the theory treats mere information as the protected
+interest, almost any deceptive act could be criminal. See,
+e.g., United States v. Viloski, 557 Fed. Appx.
+28 (CA2 2014) (affirming right-to-control conviction based on an
+employee’s undisclosed conflict of interest). The theory thus
+makes a federal crime of an almost limitless variety of deceptive
+actions traditionally left to state contract and tort law—in
+flat contradiction with our caution that, “[a]bsent [a] clear
+statement by Congress,” courts should “not read the
+mail [and wire] fraud statute[s] to place under federal
+superintendence a vast array of conduct traditionally policed by
+the States.” Cleveland, 531 U. S., at 27. And, as
+it did below, the Second Circuit has employed the theory to affirm
+federal convictions regulating the ethics (or lack thereof )
+of state employees and contractors—despite our admonition
+that “[f]ederal prosecutors may not use property fraud
+statutes to set standards of disclosure and good government for
+state and local officials.” Kelly, 590 U. S., at
+___ (slip op., at 12) (alterations omitted). The right-to-control
+theory thus criminalizes traditionally civil matters and
+federalizes traditionally state matters.
+
+															In sum, the wire fraud statute reaches only
+traditional property interests. The right to valuable economic
+information needed to make discretionary economic decisions is not
+a traditional property interest. Accordingly, the right-to-control
+theory cannot form the basis for a conviction under the federal
+fraud statutes.
+
+															B
+
+															Despite indicting, obtaining convictions, and
+prevailing on appeal based solely on the right-to-control theory,
+the Government now concedes that the theory as articulated below is
+erroneous. Brief for United States 24–26. The Government
+frankly admits that, “to the extent that language in the
+[Second Circuit’s] opinions might suggest that depriving a
+victim of economically valuable information, without more,
+necessarily qualifies as ‘obtaining money or property’
+within the meaning of the fraud statutes, that is incorrect.”
+Id., at 24. That should be the end of the case.
+
+															Yet, the Government insists that its concession
+does not require reversal because we can affirm Ciminelli’s
+convictions on the alternative ground that the evidence was
+sufficient to establish wire fraud under a traditional
+property-fraud theory. Id., at 31–32. With profuse
+citations to the records below, the Government asks us to
+cherry-pick facts presented to a jury charged on the
+right-to-control theory and apply them to the elements of a
+different wire fraud theory in the first instance. In other
+words, the Government asks us to assume not only the function of a
+court of first view, but also of a jury. That is not our role. See,
+e.g., McCormick v. United States, 500 U.S.
+257, 270–271, n. 8 (1991) (“Appellate courts
+are not permitted to affirm convictions on any theory they please
+simply because the facts necessary to support the theory were
+presented to the jury”); Chiarella v. United
+States, 445 U.S.
+222, 236 (1980). Accordingly, we decline the Government’s
+request to affirm Ciminelli’s convictions on alternative
+grounds.
+
+															III
+
+															The right-to-control theory is invalid under
+the federal fraud statutes. We, therefore, reverse the judgment of
+the Court of Appeals and remand the case for further proceedings
+consistent with this opinion.
+
+															It is so ordered.
+
+Notes
+1
+ An earlier indictment
+alleged that the Buffalo Billion contracts were the property at
+issue. But, to defend against the defendants’ motion to
+dismiss, the Government relied solely on the theory that the scheme
+“defraud[ed] Fort Schuyler of its right to control its
+assets.” App. 31–32. The District Court then relied
+expressly on the right-to-control theory in denying the motion to
+dismiss. United States v. Percoco, 2017 WL 6314146,
+*8 (SDNY, Dec. 11, 2017).
+2
+ Although Cleveland
+involved the mail fraud statute, 18 U. S. C. §1341,
+“we have construed identical language in the wire and mail
+fraud statutes in pari materia.” Pasquantino v.
+United States, 544 U.S.
+349, 355, n. 2 (2005).
+3
+ At least two Circuits
+have expressly repudiated the right-to-control theory of wire
+fraud. United States v. Sadler, 750 F.3d 585,
+590–592 (CA6 2014); United States v.
+Bruchhausen, 977 F.2d 464, 467–469 (CA9 1992). Several
+other Circuits have embraced the theory to varying degrees. See,
+e.g., United States v. Gray, 
+405 F.3d 227, 234 (CA4 2005) (collecting cases).
+4
+ The only judicial
+authority the Second Circuit cited for this key proposition was a
+1989 Fifth Circuit opinion that conclusorily asserted that
+“[t]he economic value of . . . knowledge” was
+“sufficient ‘property’ to implicate” the
+mail fraud statute, and that appears to have misunderstood 18
+U. S. C. §1346 as “eliminating the requirement
+of property loss” in all cases. United States v.
+Little, 889 F.2d 1367, 1368–1369. The Second Circuit
+then proceeded to rely on the “bundle of sticks”
+metaphor of property rights. See United States v.
+Wallach, 935 F.2d 445, 463 (1991) (“[G]iven the
+important role that information plays in the valuation of a
+corporation, the right to complete and accurate information is one
+of the most essential sticks in the bundle of rights that comprise
+a stockholder’s property interest”). But that
+metaphor—whatever its merits in other contexts—cannot
+compensate for the absence of an interest that itself “has
+long been recognized as property,” Carpenter v.
+United States, 484 U.S.
+19, 26 (1987), particularly in light of our rejection of
+attempts to construe the federal fraud statutes “in a manner
+that leaves [their] outer boundaries ambiguous.”
+McNally v. United States, 483
+U.S. 350, 360 (1987). As noted above, the right to information
+necessary to make informed economic decisions, while perhaps useful
+for protecting and making use of one’s property, has not
+itself traditionally been recognized as a property
+interest.
+
+

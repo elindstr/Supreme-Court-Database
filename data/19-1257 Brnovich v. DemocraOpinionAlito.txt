@@ -1,0 +1,439 @@
+::SCDB_caseID:: 2020-046
+::decision_cite:: 19-1257
+::decision_name::  Brnovich v. Democratic National Committee
+::decision_year:: 2021
+::opinion_author:: Alito
+::opinion_type:: Opinion
+::opinion:: 
+
+															
+															NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.
+
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–1257 and 19–1258
+
+															_________________
+
+															MARK BRNOVICH, ATTORNEY GENERAL OF ARIZONA, et al., PETITIONERS
+
+															19–1257v.
+
+															DEMOCRATIC NATIONAL COMMITTEE, et al.
+
+															
+
+															ARIZONA REPUBLICAN PARTY, et al., PETITIONERS
+
+															19–1258v.
+
+															DEMOCRATIC NATIONAL COMMITTEE, et al.
+
+															on writs of certiorari to the united states court of appeals for the ninth circuit
+
+															[July 1, 2021]
+
+															
+
+															Justice Alito delivered the opinion of the Court.
+
+															In these cases, we are called upon for the first time to apply §2 of the Voting Rights Act of 1965 to regulations that govern how ballots are collected and counted.  Arizona law generally makes it very easy to vote.  All voters may vote by mail or in person for nearly a month before election day, but Arizona imposes two restrictions that are claimed to be unlawful.  First, in some counties, voters who choose to cast a ballot in person on election day must vote in their own precincts or else their ballots will not be counted.  Second, mail-in ballots cannot be collected by anyone other than an election official, a mail carrier, or a voter’s family member, household member, or caregiver.  After a trial, a District Court upheld these rules, as did a panel of the United States Court of Appeals for the Ninth Circuit.  But an en banc court, by a divided vote, found them to be unlawful.  It relied on the rules’ small disparate impacts on members of minority groups, as well as past discrimination dating back to the State’s territorial days.  And it overturned the District Court’s finding that the Arizona Legislature did not adopt the ballot-collection restriction for a discriminatory purpose.  We now hold that the en banc court misunderstood and misapplied §2 and that it exceeded its authority in rejecting the District Court’s factual finding on the issue of legislative intent.
+
+															I
+
+															A
+
+															Congress enacted the landmark Voting Rights Act of 1965,
+
+79Stat.
+437, as amended,
+
+52 U. S. C. §10301 et seq., in an effort to achieve at long last what the
+ 
+Fifteenth Amendment had sought to bring about 95 years earlier: an end to the denial of the right to vote based on race.  Ratified in 1870, the
+ 
+Fifteenth Amendment provides in §1 that “[t]he right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.”  Section 2 of the Amendment then grants Congress the “power to enforce [the Amendment] by appropriate legislation.”
+
+															Despite the ratification of the
+ 
+Fifteenth Amendment, the right of African-Americans to vote was heavily suppressed for nearly a century.  States employed a variety of notorious methods, including poll taxes, literacy tests, property qualifications, “ ‘white primar[ies],’ ” and “ ‘grandfather clause[s].’ ”[1]  Challenges to some blatant efforts reached this Court and were held to violate the
+ 
+Fifteenth Amendment.  See, e.g., Guinn v. United States,
+
+238 U.S. 347, 360–365 (1915) (grandfather clause); Myers v. Anderson,
+
+238 U.S. 368, 379–380 (1915) (same); Lane v. Wilson,
+
+307 U.S. 268, 275–277 (1939) (registration scheme predicated on grandfather clause); Smith v. Allwright,
+
+321 U.S. 649, 659–666 (1944) (white primaries); Schnell v. Davis,
+
+336 U.S. 933 (1949) (per curiam), affirming 81 F. Supp. 872 (SD Ala. 1949) (test of constitutional knowledge); Gomillion v. Lightfoot,
+
+364 U.S. 339, 347 (1960) (racial gerrymander).  But as late as the mid-1960s, black registration and voting rates in some States were appallingly low.  See South Carolina v. Katzenbach,
+
+383 U.S. 301, 313 (1966).
+
+															Invoking the power conferred by §2 of the
+ 
+Fifteenth Amendment, see 383 U. S., at 308; City of Rome v. United States,
+
+446 U.S. 156, 173 (1980), Congress enacted the Voting Rights Act (VRA) to address this entrenched problem.  The Act and its amendments in the 1970s specifically forbade some of the practices that had been used to suppress black voting.  See §§4(a), (c),
+
+79Stat.
+438–439; §6,
+
+84Stat.
+315; §102,
+
+89Stat.
+400, as amended, 52 U. S. C. §§10303(a), (c), 10501 (prohibiting the denial of the right to vote in any election for failure to pass a test demonstrating literacy, educational achievement or knowledge of any particular subject, or good moral character); see also §10,
+
+79Stat.
+442, as amended,
+
+52 U. S. C. §10306 (declaring poll taxes unlawful); §11,
+
+79Stat.
+443, as amended,
+
+52 U. S. C. §10307 (prohibiting intimidation and the refusal to allow or count votes).  Sections 4 and 5 of the VRA imposed special requirements for States and subdivisions where violations of the right to vote had been severe.  And §2 addressed the denial or abridgment of the right to vote in any part of the country.
+
+															As originally enacted, §2 closely tracked the language of the Amendment it was adopted to enforce.  Section 2 stated simply that “[n]o voting qualification or prerequisite to voting, or standard, practice, or procedure shall be imposed or applied by any State or political subdivision to deny or abridge the right of any citizen of the United States to vote on account of race or color.”
+
+79Stat.
+437.
+
+															Unlike other provisions of the VRA, §2 attracted relatively little attention during the congressional debates[2] and was “little-used” for more than a decade after its passage.[3]  But during the same period, this Court considered several cases involving “vote-dilution” claims asserted under the Equal Protection Clause of the
+ 
+Fourteenth Amendment.  See Whitcomb v. Chavis,
+
+403 U.S. 124 (1971); Burns v. Richardson,
+
+384 U.S. 73 (1966); Fortson v. Dorsey,
+
+379 U.S. 433 (1965).  In these and later vote-dilution cases, plaintiffs claimed that features of legislative districting plans, including the configuration of legislative districts and the use of multi-member districts, diluted the ability of particular voters to affect the outcome of elections.
+
+															One
+ 
+Fourteenth Amendment vote-dilution case, White v. Regester,
+
+412 U.S. 755 (1973), came to have outsized importance in the development of our VRA case law.  In White, the Court affirmed a District Court’s judgment that two multi-member electoral districts were “being used invidiously to cancel out or minimize the voting strength of racial groups.”  Id., at 765.  The Court explained what a vote-dilution plaintiff must prove, and the words the Court chose would later assume great importance in VRA §2 matters.  According to White, a vote-dilution plaintiff had to show that “the political processes leading to nomination and election were not equally open to participation by the group in question—that its members had less opportunity than did other residents in the district to participate in the political processes and to elect legislators of their choice.”  Id., at 766 (emphasis added).  The decision then recited many pieces of evidence the District Court had taken into account, and it found that this evidence sufficed to prove the plaintiffs’ claim.  See id., at 766–769.  The decision in White predated Washington v. Davis,
+
+426 U.S. 229 (1976), where the Court held that an equal-protection challenge to a facially neutral rule requires proof of discriminatory purpose or intent, id., at 238–245, and the White opinion said nothing one way or the other about purpose or intent.
+
+															A few years later, the question whether a VRA §2 claim required discriminatory purpose or intent came before this Court in Mobile v. Bolden,
+
+446 U.S. 55 (1980).  The plurality opinion for four Justices concluded first that §2 of the VRA added nothing to the protections afforded by the
+ 
+Fifteenth Amendment.  Id., at 60–61.  The plurality then observed that prior decisions “ha[d] made clear that action by a State that is racially neutral on its face violates the
+ 
+Fifteenth Amendment only if motivated by a discriminatory purpose.”  Id., at 62.  The obvious result of those premises was that facially neutral voting practices violate §2 only if motivated by a discriminatory purpose.  The plurality read White as consistent with this requirement.  Bolden, 446 U. S., at 68–70.
+
+															Shortly after Bolden was handed down, Congress amended §2 of the VRA.  The oft-cited Report of the Senate Judiciary Committee accompanying the 1982 Amendment stated that the amendment’s purpose was to repudiate Bolden and establish a new vote-dilution test based on what the Court had said in White. See S. Rep. No. 97–417, pp. 2, 15–16, 27.  The bill that was initially passed by the House of Representatives included what is now §2(a).  In place of the phrase “to deny or abridge the right . . . to vote on account of race or color,” the amendment substituted “in a manner which results in a denial or abridgement of the right . . . to vote on account of race or color.”  H. R. Rep. No. 97–227, p. 48 (1981) (emphasis added); H. R. 3112, 97th Cong., 1st Sess., §2, p. 8 (introduced Oct. 7, 1981).
+
+															The House bill “originally passed . . . under a loose understanding that §2 would prohibit all discriminatory ‘effects’ of voting practices, and that intent would be ‘irrelevant,’ ” but “[t]his version met stiff resistance in the Senate.”  Mississippi Republican Executive Committee v. Brooks,
+
+469 U.S. 1002, 1010 (1984) (Rehnquist, J., dissenting) (quoting H. R. Rep. No. 97–227, at 29).  The House and Senate compromised, and the final product included language proposed by Senator Dole.  469 U. S., at 1010–1011; S. Rep. No. 97–417, at 3–4; 128 Cong. Rec. 14131–14133 (1982) (Sen. Dole describing his amendment).
+
+															What is now §2(b) was added, and that provision sets out what must be shown to prove a §2 violation.  It requires consideration of “the totality of circumstances” in each case and demands proof that “the political processes leading to nomination or election in the State or political subdivision are not equally open to participation” by members of a protected class “in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice.”
+
+52 U. S. C. §10301(b) (emphasis added).  Reflecting the Senate Judiciary Committee’s stated focus on the issue of vote dilution, this language was taken almost verbatim from White.
+
+															This concentration on the contentious issue of vote dilution reflected the results of the Senate Judiciary Committee’s extensive survey of what it regarded as
+ 
+Fifteenth Amendment violations that called out for legislative redress.  See, e.g., S. Rep. No. 97–417, at 6, 8, 23–24, 27, 29.  That survey listed many examples of what the Committee took to be unconstitutional vote dilution, but the survey identified only three isolated episodes involving the outright denial of the right to vote, and none of these concerned the equal application of a facially neutral rule specifying the time, place, or manner of voting.  See id., at 30, and n. 119.[4]  These sparse results were presumably good news.  They likely showed that the VRA and other efforts had achieved a large measure of success in combating the previously widespread practice of using such rules to hinder minority groups from voting.
+
+															This Court first construed the amended §2 in Thornburg v. Gingles,
+
+478 U.S. 30 (1986)—another vote-dilution case.  Justice Brennan’s opinion for the Court set out three threshold requirements for proving a §2 vote-dilution claim, and, taking its cue from the Senate Report, provided a non-exhaustive list of factors to be considered in determining whether §2 had been violated.  Id., at 44–45, 48–51, 80.  “The essence of a §2 claim,” the Court said, “is that a certain electoral law, practice, or structure interacts with social and historical conditions to cause an inequality in the opportunities” of minority and non-minority voters to elect their preferred representatives.  Id., at 47.
+
+															In the years since Gingles, we have heard a steady stream of §2 vote-dilution cases,[5] but until today, we have not considered how §2 applies to generally applicable time, place, or manner voting rules.  In recent years, however, such claims have proliferated in the lower courts.[6]
+
+															B
+
+															The present dispute concerns two features of Arizona voting law, which generally makes it quite easy for residents to vote.  All Arizonans may vote by mail for 27 days before an election using an “early ballot.”  Ariz. Rev. Stat. Ann. §§16–541 (2015), 16–542(C) (Cum. Supp. 2020).  No special excuse is needed, §§16–541(A), 16–542(A), and any voter may ask to be sent an early ballot automatically in future elections, §16–544(A) (2015).  In addition, during the 27 days before an election, Arizonans may vote in person at an early voting location in each county.  See §§16–542(A), (E).  And they may also vote in person on election day.
+
+															Each county is free to conduct election-day voting either by using the traditional precinct model or by setting up “voting centers.”  §16–411(B)(4) (Cum. Supp. 2020).  Voting centers are equipped to provide all voters in a county with the appropriate ballot for the precinct in which they are registered, and this allows voters in the county to use whichever vote center they prefer.  See ibid.
+
+															The regulations at issue in this suit govern precinct-based election-day voting and early mail-in voting.  Voters who choose to vote in person on election day in a county that uses the precinct system must vote in their assigned precincts.  See §16–122 (2015); see also §16–135.  If a voter goes to the wrong polling place, poll workers are trained to direct the voter to the right location.  Democratic Nat. Comm. v. Reagan, 329 F. Supp. 3d 824, 859 (Ariz. 2018); see Tr. 1559, 1586 (Oct. 12, 2017); Tr. Exh. 370 (Pima County Elections Inspectors Handbook).  If a voter finds that his or her name does not appear on the register at what the voter believes is the right precinct, the voter ordinarily may cast a provisional ballot.  Ariz. Rev. Stat. Ann. §16–584 (Cum. Supp. 2020).  That ballot is later counted if the voter’s address is determined to be within the precinct.  See ibid.  But if it turns out that the voter cast a ballot at the wrong precinct, that vote is not counted.  See §16–584(E); App. 37–41 (election procedures manual); Ariz. Rev. Stat. Ann. §16–452(C) (misdemeanor to violate rules in election procedures manual).
+
+															For those who choose to vote early by mail, Arizona has long required that “[o]nly the elector may be in possession of that elector’s unvoted early ballot.”  §16–542(D).  In 2016, the state legislature enacted House Bill 2023 (HB 2023), which makes it a crime for any person other than a postal worker, an elections official, or a voter’s caregiver, family member, or household member to knowingly collect an early ballot—either before or after it has been completed. §§16–1005(H)–(I).
+
+															In 2016, the Democratic National Committee and certain affiliates brought this suit and named as defendants (among others) the Arizona attorney general and secretary of state in their official capacities.  Among other things, the plaintiffs claimed that both the State’s refusal to count ballots cast in the wrong precinct and its ballot-collection restriction “adversely and disparately affect Arizona’s American Indian, Hispanic, and African American citizens,” in violation of §2 of the VRA.  Democratic Nat. Comm. v. Hobbs, 948 F.3d 989, 998 (CA9 2020) (en banc).  In addition, they alleged that the ballot-collection restriction was “enacted with discriminatory intent” and thus violated both §2 of the VRA and the
+ 
+Fifteenth Amendment.  Ibid.
+
+															After a 10-day bench trial, 329 F. Supp. 3d, at 832, 833–838, the District Court made extensive findings of fact and rejected all the plaintiffs’ claims, id., at 838–883.  The court first found that the out-of-precinct policy “has no meaningfully disparate impact on the opportunities of minority voters to elect” representatives of their choice.  Id., at 872.  The percentage of ballots invalidated under this policy was very small (0.15% of all ballots cast in 2016) and decreasing, and while the percentages were slightly higher for members of minority groups, the court found that this disparity “does not result in minorities having unequal access to the political process.”  Ibid.  The court also found that the plaintiffs had not proved that the policy “causes minorities to show up to vote at the wrong precinct at rates higher than their non-minority counterparts,” id., at 873, and the court noted that the plaintiffs had not even challenged “the manner in which Arizona counties allocate and assign polling places or Arizona’s requirement that voters re-register to vote when they move,” ibid.
+
+															The District Court similarly found that the ballot- collection restriction is unlikely to “cause a meaningful inequality in the electoral opportunities of minorities.”  Id., at 871.  Rather, the court noted, the restriction applies equally to all voters and “does not impose burdens beyond those traditionally associated with voting.”  Ibid.  The court observed that the plaintiffs had presented no records showing how many voters had previously relied on now-prohibited third-party ballot collectors and that the plaintiffs also had “provided no quantitative or statistical evidence” of the percentage of minority and non-minority voters in this group.  Id., at 866.  “[T]he vast majority” of early voters, the court found, “do not return their ballots with the assistance of a [now-prohibited] third-party collector,” id., at 845, and the evidence largely showed that those who had used such collectors in the past “ha[d] done so out of convenience or personal preference, or because of circumstances that Arizona law adequately accommodates in other ways,” id., at 847.[7]  In addition, the court noted, none of the individual voters called by the plaintiffs had even claimed that the ballot-collection restriction “would make it significantly more difficult to vote.”  Id., at 871.
+
+															Finally, the court found that the ballot-collection law had not been enacted with discriminatory intent.  “[T]he majority of H.B. 2023’s proponents,” the court found, “were sincere in their belief that ballot collection increased the risk of early voting fraud, and that H.B. 2023 was a necessary prophylactic measure to bring early mail ballot security in line with in-person voting.”  Id., at 879.  The court added that “some individual legislators and proponents were motivated in part by partisan interests.”  Id., at 882.  But it distinguished between partisan and racial motives, while recognizing that “racially polarized voting can sometimes blur the lines.”  Ibid.
+
+															A divided panel of the Ninth Circuit affirmed, but an en banc court reversed.  The en banc court first concluded that both the out-of-precinct policy and the ballot-collection restriction imposed disparate burdens on minority voters because such voters were more likely to be adversely affected by those rules.  948 F. 3d, at 1014–1016, 1032–1033.  Then, based on an assessment of the vote-dilution factors used in Gingles, the en banc majority found that these disparate burdens were “in part caused by or linked to ‘social and historical conditions’ ” that produce inequality.  948 F. 3d, at 1032 (quoting Gingles, 478 U. S., at 47); see 948 F. 3d, at 1037.  Among other things, the court relied on racial discrimination dating back to Arizona’s territorial days, current socioeconomic disparities, racially polarized voting, and racial campaign appeals.  See id., at 1016–1032, 1033–1037.
+
+															The en banc majority also held that the District Court had committed clear error in finding that the ballot-collection law was not enacted with discriminatory intent.  The en banc court did not claim that a majority of legislators had voted for the law for a discriminatory purpose, but the court held that these lawmakers “were used as ‘cat’s paws’ ” by others.  Id., at 1041.
+
+															One judge in the majority declined to join the court’s holding on discriminatory intent, and four others dissented across the board.  A petition for a writ of certiorari was filed by the Arizona attorney general on his own behalf and on behalf of the State, which had intervened below; another petition was filed by the Arizona Republican Party and other private parties who also had intervened.  We granted the petitions and agreed to review both the Ninth Circuit’s understanding and application of VRA §2 and its holding on discriminatory intent.  591 U. S. ___ (2020).
+
+															II
+
+															We begin with two preliminary matters.  Secretary of State Hobbs contends that no petitioner has Article III standing to appeal the decision below as to the out-of-precinct policy, but we reject that argument.  All that is needed to entertain an appeal of that issue is one party with standing, see Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania, 591 U. S. ___, ___, n. 6 (2020) (slip op., at 13, n. 6), and we are satisfied that Attorney General Brnovich fits the bill.  The State of Arizona intervened below, see App. 834; there is “[n]o doubt” as an Article III matter that “the State itself c[an] press this appeal,” Virginia House of Delegates v. Bethune-Hill, 587 U. S. ___, ___ (2019) (slip op., at 4); and the attorney general is authorized to represent the State in any action in federal court, Ariz. Rev. Stat. Ann. §41–193(A)(3) (2021); see Arizonans for Official English v. Arizona,
+
+520 U.S. 43, 51, n. 4 (1997).
+
+															Second, we think it prudent to make clear at the beginning that we decline in these cases to announce a test to govern all VRA §2 claims involving rules, like those at issue here, that specify the time, place, or manner for casting ballots.  Each of the parties advocated a different test, as did many amici and the courts below.  In a brief filed in December in support of petitioners, the Department of Justice proposed one such test but later disavowed the analysis in that brief.[8]  The Department informed us, however, that it did not disagree with its prior conclusion that the two provisions of Arizona law at issue in these cases do not violate §2 of the Voting Rights Act.[9]  All told, no fewer than 10 tests have been proposed.  But as this is our first foray into the area, we think it sufficient for present purposes to identify certain guideposts that lead us to our decision in these cases.
+
+															III
+
+															A
+
+															We start with the text of VRA §2.  It now provides:
+
+															“(a) No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen of the United States to vote on account of race or color, or in contravention of the guarantees set forth in section 10303(f )(2) of this title, as provided in subsection (b).
+
+															“(b) A violation of subsection (a) is established if, based on the totality of circumstances, it is shown that the political processes leading to nomination or election in the State or political subdivision are not equally open to participation by members of a class of citizens protected by subsection (a) in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice.  The extent to which members of a protected class have been elected to office in the State or political subdivision is one circumstance which may be considered: Provided, That nothing in this section establishes a right to have members of a protected class elected in numbers equal to their proportion in the population.”
+
+52 U. S. C. §10301.
+
+															In Gingles, our seminal §2 vote-dilution case, the Court quoted the text of amended §2 and then jumped right to the Senate Judiciary Committee Report, which focused on the issue of vote dilution.  478 U. S., at 36–37, 43, and n. 7.  Our many subsequent vote-dilution cases have largely followed the path that Gingles charted.  But because this is our first §2 time, place, or manner case, a fresh look at the statutory text is appropriate.  Today, our statutory interpretation cases almost always start with a careful consideration of the text, and there is no reason to do otherwise here.
+
+															B
+
+															Section 2(a), as noted, omits the phrase “to deny or abridge the right . . . to vote on account of race or color,” which the Bolden plurality had interpreted to require proof of discriminatory intent.  In place of that language, §2(a) substitutes the phrase “in a manner which results in a denial or abridgement of the right . . . to vote on account of race or color.”  (Emphasis added.)  We need not decide what this text would mean if it stood alone because §2(b), which was added to win Senate approval, explains what must be shown to establish a §2 violation.  Section 2(b) states that §2 is violated only where “the political processes leading to nomination or election” are not “equally open to participation” by members of the relevant protected group “in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice.”  (Emphasis added.)
+
+															The key requirement is that the political processes leading to nomination and election (here, the process of voting) must be “equally open” to minority and non-minority groups alike, and the most relevant definition of the term “open,” as used in §2(b), is “without restrictions as to who may participate,” Random House Dictionary of the English Language 1008 (J. Stein ed. 1966), or “requiring no special status, identification, or permit for entry or participation,” Webster’s Third New International Dictionary 1579 (1976).
+
+															What §2(b) means by voting that is not “equally open” is further explained by this language: “in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice.”  The phrase “in that” is “used to specify the respect in which a statement is true.”[10]  Thus, equal openness and equal opportunity are not separate requirements.  Instead, equal opportunity helps to explain the meaning of equal openness.  And the term “opportunity” means, among other things, “a combination of circumstances, time, and place suitable or favorable for a particular activity or action.”  Id., at 1583; see also Random House Dictionary of the English Language, at 1010 (“an appropriate or favorable time or occasion,” “a situation or condition favorable for attainment of a goal”).
+
+															Putting these terms together, it appears that the core of §2(b) is the requirement that voting be “equally open.”  The statute’s reference to equal “opportunity” may stretch that concept to some degree to include consideration of a person’s ability to use the means that are equally open.  But equal openness remains the touchstone.
+
+															C
+
+															One other important feature of §2(b) stands out.  The provision requires consideration of “the totality of circumstances.”  Thus, any circumstance that has a logical bearing on whether voting is “equally open” and affords equal “opportunity” may be considered.  We will not attempt to compile an exhaustive list, but several important circumstances should be mentioned.
+
+															1
+
+															1. First, the size of the burden imposed by a challenged voting rule is highly relevant.  The concepts of “open[ness]” and “opportunity” connote the absence of obstacles and burdens that block or seriously hinder voting, and therefore the size of the burden imposed by a voting rule is important.  After all, every voting rule imposes a burden of some sort.  Voting takes time and, for almost everyone, some travel, even if only to a nearby mailbox.  Casting a vote, whether by following the directions for using a voting machine or completing a paper ballot, requires compliance with certain rules.  But because voting necessarily requires some effort and compliance with some rules, the concept of a voting system that is “equally open” and that furnishes an equal “opportunity” to cast a ballot must tolerate the “usual burdens of voting.”  Crawford v. Marion County Election Bd.,
+
+553 U.S. 181, 198 (2008) (opinion of Stevens, J.).  Mere inconvenience cannot be enough to demonstrate a violation of §2.[11]
+
+															2. For similar reasons, the degree to which a voting rule departs from what was standard practice when §2 was amended in 1982 is a relevant consideration.  Because every voting rule imposes a burden of some sort, it is useful to have benchmarks with which the burdens imposed by a challenged rule can be compared.  The burdens associated with the rules in widespread use when §2 was adopted are therefore useful in gauging whether the burdens imposed by a challenged rule are sufficient to prevent voting from being equally “open” or furnishing an equal “opportunity” to vote in the sense meant by §2.  Therefore, it is relevant that in 1982 States typically required nearly all voters to cast their ballots in person on election day and allowed only narrow and tightly defined categories of voters to cast absentee ballots.  See, e.g., 17 N. Y. Elec. Law Ann. §8–100 et seq. (West 1978), §8–300 et seq. (in-person voting), §8–400 et seq. (limited-excuse absentee voting); Pa. Stat. Ann., Tit. 25, §3045 et seq. (Purdon 1963) (in-person voting), §3149.1 et seq. (limited-excuse absentee voting); see §3146.1 (Purdon Cum. Supp. 1993) (same); Ohio Rev. Code Ann. §3501.02 et seq. (Lexis 1972) (in-person voting), §3509.01 et seq. (limited-excuse absentee voting); see §3509.02 (Lexis Supp. 1986) (same); Fla. Stat. Ann. §101.011 et seq. (1973) (in-person voting), §101.62 et seq. (limited-excuse absentee voting); see §97.063 (1982) (same); Ill. Rev. Stat., ch.46, §17–1 et seq. (West 1977) (in-person voting), §19–1 et seq. (limited-excuse absentee voting); D. C. Code §§1–1109, 1–1110 (1973) (in-person voting and limited-excuse absentee voting); see §1–1313 (1981) (same).  As of January 1980, only three States permitted no-excuse absentee voting.  See Gronke & Galanes-Rosenbaum, America Votes! 261, 267–269 (B. Griffith ed. 2008); see also J. Sargent et al., Congressional Research Service, The Growth of Early and Nonprecinct Place Balloting, in Election Laws of the Fifty States and the District of Columbia (rev. 1976).  We doubt that Congress intended to uproot facially neutral time, place, and manner regulations that have a long pedigree or are in widespread use in the United States.  We have no need to decide whether adherence to, or a return to, a 1982 framework is necessarily lawful under §2, but the degree to which a challenged rule has a long pedigree or is in widespread use in the United States is a circumstance that must be taken into account.
+
+															3. The size of any disparities in a rule’s impact on members of different racial or ethnic groups is also an important factor to consider.  Small disparities are less likely than large ones to indicate that a system is not equally open.  To the extent that minority and non-minority groups differ with respect to employment, wealth, and education, even neutral regulations, no matter how crafted, may well result in some predictable disparities in rates of voting and noncompliance with voting rules.  But the mere fact there is some disparity in impact does not necessarily mean that a system is not equally open or that it does not give everyone an equal opportunity to vote.  The size of any disparity matters.  And in assessing the size of any disparity, a meaningful comparison is essential.  What are at bottom very small differences should not be artificially magnified.  E.g., Frank v. Walker, 768 F.3d 744, 752, n. 3 (CA7 2014).
+
+															4. Next, courts must consider the opportunities provided by a State’s entire system of voting when assessing the burden imposed by a challenged provision.  This follows from §2(b)’s reference to the collective concept of a State’s “political processes” and its “political process” as a whole.  Thus, where a State provides multiple ways to vote, any burden imposed on voters who choose one of the available options cannot be evaluated without also taking into account the other available means.
+
+															5. Finally, the strength of the state interests served by a challenged voting rule is also an important factor that must be taken into account.  As noted, every voting rule imposes a burden of some sort, and therefore, in determining “based on the totality of circumstances” whether a rule goes too far, it is important to consider the reason for the rule.  Rules that are supported by strong state interests are less likely to violate §2.
+
+															One strong and entirely legitimate state interest is the prevention of fraud.  Fraud can affect the outcome of a close election, and fraudulent votes dilute the right of citizens to cast ballots that carry appropriate weight.  Fraud can also undermine public confidence in the fairness of elections and the perceived legitimacy of the announced outcome.
+
+															Ensuring that every vote is cast freely, without intimidation or undue influence, is also a valid and important state interest.  This interest helped to spur the adoption of what soon became standard practice in this country and in other democratic nations the world round: the use of private voting booths.  See Burson v. Freeman,
+
+504 U.S. 191, 202–205 (1992) (plurality opinion).
+
+															2
+
+															While the factors set out above are important, others considered by some lower courts are less helpful in a case like the ones at hand.  First, it is important to keep in mind that the Gingles or “Senate” factors grew out of and were designed for use in vote-dilution cases.  Some of those factors are plainly inapplicable in a case involving a challenge to a facially neutral time, place, or manner voting rule.  Factors three and four concern districting and election procedures like “majority vote requirements,” “anti-single shot provisions,”[12] and a “candidate slating process.”[13]  See Gingles, 478 U. S., at 37 (internal quotation marks omitted).  Factors two, six, and seven (which concern racially polarized voting, racially tinged campaign appeals, and the election of minority-group candidates), ibid., have a bearing on whether a districting plan affects the opportunity of minority voters to elect their candidates of choice.  But in cases involving neutral time, place, and manner rules, the only relevance of these and the remaining factors is to show that minority group members suffered discrimination in the past (factor one) and that effects of that discrimination persist (factor five).  Id., at 36–37.  We do not suggest that these factors should be disregarded.  After all, §2(b) requires consideration of “the totality of circumstances.”  But their relevance is much less direct.
+
+															We also do not find the disparate-impact model employed in Title VII and Fair Housing Act cases useful here.  The text of the relevant provisions of Title VII and the Fair Housing Act differ from that of VRA §2, and it is not obvious why Congress would conform rules regulating voting to those regulating employment and housing.  For example, we think it inappropriate to read §2 to impose a strict “necessity requirement” that would force States to demonstrate that their legitimate interests can be accomplished only by means of the voting regulations in question.  Stephanopoulos, Disparate Impact, Unified Law, 128 Yale L. J. 1566, 1617–1619 (2019) (advocating such a requirement).  Demanding such a tight fit would have the effect of invalidating a great many neutral voting regulations with long pedigrees that are reasonable means of pursuing legitimate interests.  It would also transfer much of the authority to regulate election procedures from the States to the federal courts.  For those reasons, the Title VII and Fair Housing Act models are unhelpful in §2 cases.
+
+															D
+
+															The interpretation set out above follows directly from what §2 commands: consideration of “the totality of circumstances” that have a bearing on whether a State makes voting “equally open” to all and gives everyone an equal “opportunity” to vote.  The dissent, by contrast, would rewrite the text of §2 and make it turn almost entirely on just one circumstance—disparate impact.
+
+															That is a radical project, and the dissent strains mightily to obscure its objective.  To that end, it spends 20 pages discussing matters that have little bearing on the questions before us.  The dissent provides historical background that all Americans should remember, see post, at 3–7 (opinion of Kagan, J.), but that background does not tell us how to decide these cases.  The dissent quarrels with the decision in Shelby County v. Holder,
+
+570 U.S. 529 (2013), see post, at 7–9, which concerned §§4 and 5 of the VRA, not §2.  It discusses all sorts of voting rules that are not at issue here.  See post, at 9–12.  And it dwells on points of law that nobody disputes: that §2 applies to a broad range of voting rules, practices, and procedures; that an “abridgement” of the right to vote under §2 does not require outright denial of the right; that §2 does not demand proof of discriminatory purpose; and that a “facially neutral” law or practice may violate that provision.  See post, at 12–20.
+
+															Only after this extended effort at misdirection is the dissent’s aim finally unveiled: to undo as much as possible the compromise that was reached between the House and Senate when §2 was amended in 1982.  Recall that the version originally passed by the House did not contain §2(b) and was thought to prohibit any voting practice that had “discriminatory effects,” loosely defined.  See supra, at 5–6.  That is the freewheeling disparate-impact regime the dissent wants to impose on the States.  But the version enacted into law includes §2(b), and that subsection directs us to consider “the totality of circumstances,” not, as the dissent would have it, the totality of just one circumstance.[14]  There is nothing to the dissent’s charge that we are departing from the statutory text by identifying some of those considerations.
+
+															We have listed five relevant circumstances and have explained why they all stem from the statutory text and have a bearing on the determination that §2 requires.  The dissent does not mention a single additional consideration, and it does its best to push aside all but one of the circumstances we discuss.  It entirely rejects three of them: the size of the burden imposed by a challenged rule, see post, at 22–23, the landscape of voting rules both in 1982 and in the present, post, at 24–25,[15] and the availability of other ways to vote, post, at 23–24.  Unable to bring itself to completely reject consideration of the state interests that a challenged rule serves, the dissent tries to diminish the significance of this circumstance as much as possible.  See post, at 26–29.  According to the dissent, an interest served by a voting rule, no matter how compelling, cannot support the rule unless a State can prove to the satisfaction of the courts that this interest could not be served by any other means.  Post, at 17–18, 26–29.  Such a requirement has no footing in the text of §2 or our precedent construing it.[16]
+
+															That requirement also would have the potential to invalidate just about any voting rule a State adopts.  Take the example of a State’s interest in preventing voting fraud.  Even if a State could point to a history of serious voting fraud within its own borders, the dissent would apparently strike down a rule designed to prevent fraud unless the State could demonstrate an inability to combat voting fraud in any other way, such as by hiring more investigators and prosecutors, prioritizing voting fraud investigations, and heightening criminal penalties.  Nothing about equal openness and equal opportunity dictates such a high bar for States to pursue their legitimate interests.
+
+															With all other circumstances swept away, all that remains in the dissent’s approach is the size of any disparity in a rule’s impact on members of protected groups.  As we have noted, differences in employment, wealth, and education may make it virtually impossible for a State to devise rules that do not have some disparate impact.  But under the dissent’s interpretation of §2, any “statistically significant” disparity—wherever that is in the statute—may be enough to take down even facially neutral voting rules with long pedigrees that reasonably pursue important state interests.  Post, at 15, n. 4, 19–20, 32–33.[17]
+
+															Section 2 of the Voting Rights Act provides vital protection against discriminatory voting rules, and no one suggests that discrimination in voting has been extirpated or that the threat has been eliminated.  But §2 does not deprive the States of their authority to establish non-discriminatory voting rules, and that is precisely what the dissent’s radical interpretation would mean in practice.  The dissent is correct that the Voting Rights Act exemplifies our country’s commitment to democracy, but there is nothing democratic about the dissent’s attempt to bring about a wholesale transfer of the authority to set voting rules from the States to the federal courts.
+
+															IV
+
+															A
+
+															In light of the principles set out above, neither Arizona’s out-of-precinct rule nor its ballot-collection law violates §2 of the VRA.  Arizona’s out-of-precinct rule enforces the requirement that voters who choose to vote in person on election day must do so in their assigned precincts.  Having to identify one’s own polling place and then travel there to vote does not exceed the “usual burdens of voting.”  Crawford, 553 U. S., at 198 (opinion of Stevens, J.) (noting the same about making a trip to the department of motor vehicles).  On the contrary, these tasks are quintessential examples of the usual burdens of voting.
+
+															Not only are these unremarkable burdens, but the District Court’s uncontested findings show that the State made extensive efforts to reduce their impact on the number of valid votes ultimately cast.  The State makes accurate precinct information available to all voters.  When precincts or polling places are altered between elections, each registered voter is sent a notice showing the voter’s new polling place.  329 F. Supp. 3d, at 859.  Arizona law also mandates that election officials send a sample ballot to each household that includes a registered voter who has not opted to be placed on the permanent early voter list, Ariz. Rev. Stat. Ann. §16–510(C) (2015), and this mailing also identifies the voter’s proper polling location, 329 F. Supp. 3d, at 859.  In addition, the Arizona secretary of state’s office sends voters pamphlets that include information (in both English and Spanish) about how to identify their assigned precinct.  Ibid.
+
+															Polling place information is also made available by other means.  The secretary of state’s office operates websites that provide voter-specific polling place information and allow voters to make inquiries to the secretary’s staff.  Ibid.  Arizona’s two most populous counties, Maricopa and Pima, provide online polling place locators with information available in English and Spanish.  Ibid.  Other groups offer similar online tools.  Ibid.  Voters may also identify their assigned polling place by calling the office of their respective county recorder.  Ibid.  And on election day, poll workers in at least some counties are trained to redirect voters who arrive at the wrong precinct.  Ibid; see Tr. 1559, 1586; Tr. Exh. 370 (Pima County Elections Inspectors Handbook).
+
+															The burdens of identifying and traveling to one’s assigned precinct are also modest when considering Arizona’s “political processes” as a whole.  The Court of Appeals noted that Arizona leads other States in the rate of votes rejected on the ground that they were cast in the wrong precinct, and the court attributed this to frequent changes in polling locations, confusing placement of polling places, and high levels of residential mobility.  948 F. 3d, at 1000–1004.  But even if it is marginally harder for Arizona voters to find their assigned polling places, the State offers other easy ways to vote.  Any voter can request an early ballot without excuse.  Any voter can ask to be placed on the permanent early voter list so that an early ballot will be mailed automatically.  Voters may drop off their early ballots at any polling place, even one to which they are not assigned.  And for nearly a month before election day, any voter can vote in person at an early voting location in his or her county.  The availability of those options likely explains why out-of-precinct votes on election day make up such a small and apparently diminishing portion of overall ballots cast—0.47% of all ballots in the 2012 general election and just 0.15% in 2016.  329 F. Supp. 3d, at 872.
+
+															Next, the racial disparity in burdens allegedly caused by the out-of-precinct policy is small in absolute terms.  The District Court accepted the plaintiffs’ evidence that, of the Arizona counties that reported out-of-precinct ballots in the 2016 general election, a little over 1% of Hispanic voters, 1% of African-American voters, and 1% of Native American voters who voted on election day cast an out-of-precinct ballot.  Ibid.  For non-minority voters, the rate was around 0.5%.  Ibid. (citing Tr. Exh. 97, at 3, 20–21).  A policy that appears to work for 98% or more of voters to whom it applies—minority and non-minority alike—is unlikely to render a system unequally open.
+
+															The Court of Appeals attempted to paint a different picture, but its use of statistics was highly misleading for reasons that were well explained by Judge Easterbrook in a §2 case involving voter IDs.  As he put it, a distorted picture can be created by dividing one percentage by another.  Frank, 768 F. 3d, at 752, n. 3.  He gave this example: “If 99.9% of whites had photo IDs, and 99.7% of blacks did,” it could be said that “ ‘blacks are three times as likely as whites to lack qualifying ID’ (0.3 ÷ 0.1 = 3), but such a statement would mask the fact that the populations were effectively identical.”  Ibid.
+
+															That is exactly what the en banc Ninth Circuit did here.  The District Court found that among the counties that reported out-of-precinct ballots in the 2016 general election, roughly 99% of Hispanic voters, 99% of African-American voters, and 99% of Native American voters who voted on election day cast their ballots in the right precinct, while roughly 99.5% of non-minority voters did so.  329 F. Supp. 3d, at 872.  Based on these statistics, the en banc Ninth Circuit concluded that “minority voters in Arizona cast [out-of-precinct] ballots at twice the rate of white voters.”  948 F. 3d, at 1014; see id., at 1004–1005.  This is precisely the sort of statistical manipulation that Judge Easterbrook rightly criticized, namely, 1.0 ÷ 0.5 = 2.  Properly understood, the statistics show only a small disparity that provides little support for concluding that Arizona’s political processes are not equally open.
+
+															The Court of Appeals’ decision also failed to give appropriate weight to the state interests that the out-of-precinct rule serves.  Not counting out-of-precinct votes induces compliance with the requirement that Arizonans who choose to vote in-person on election day do so at their assigned polling places.  And as the District Court recognized, precinct-based voting furthers important state interests.  It helps to distribute voters more evenly among polling places and thus reduces wait times.  It can put polling places closer to voter residences than would a more centralized voting-center model.  In addition, precinct-based voting helps to ensure that each voter receives a ballot that lists only the candidates and public questions on which he or she can vote, and this orderly administration tends to decrease voter confusion and increase voter confidence in elections.  See 329 F. Supp. 3d, at 878.  It is also significant that precinct-based voting has a long pedigree in the United States.  See 948 F. 3d, at 1062–1063 (Bybee, J., dissenting) (citing J. Harris, Election Administration in the United States 206–207 (1934)).  And the policy of not counting out-of-precinct ballots is widespread.  See 948 F. 3d, at 1072–1088 (collecting and categorizing state laws).
+
+															The Court of Appeals discounted the State’s interests because, in its view, there was no evidence that a less restrictive alternative would threaten the integrity of precinct-based voting.  The court thought the State had no good reason for not counting an out-of-precinct voter’s choices with respect to the candidates and issues also on the ballot in the voter’s proper precinct.  See id., at 1030–1031.  We disagree with this reasoning.
+
+															Section 2 does not require a State to show that its chosen policy is absolutely necessary or that a less restrictive means would not adequately serve the State’s objectives.  And the Court of Appeals’ preferred alternative would have obvious disadvantages.  Partially counting out-of-precinct ballots would complicate the process of tabulation and could lead to disputes and delay.  In addition, as one of the en banc dissenters noted, it would tend to encourage voters who are primarily interested in only national or state-wide elections to vote in whichever place is most convenient even if they know that it is not their assigned polling place.  See id., at 1065–1066 (opinion of Bybee, J.).
+
+															In light of the modest burdens allegedly imposed by Arizona’s out-of-precinct policy, the small size of its disparate impact, and the State’s justifications, we conclude the rule does not violate §2 of the VRA.[18]
+
+															B
+
+															HB 2023 likewise passes muster under the results test of §2.  Arizonans who receive early ballots can submit them by going to a mailbox, a post office, an early ballot drop box, or an authorized election official’s office within the 27-day early voting period.  They can also drop off their ballots at any polling place or voting center on election day, and in order to do so, they can skip the line of voters waiting to vote in person.  329 F. Supp. 3d, at 839 (citing ECF Doc. 361, ¶57).  Making any of these trips—much like traveling to an assigned polling place—falls squarely within the heartland of the “usual burdens of voting.”  Crawford, 553 U. S., at 198 (opinion of Stevens, J.).  And voters can also ask a statutorily authorized proxy—a family member, a household member, or a caregiver—to mail a ballot or drop it off at any time within 27 days of an election.
+
+															Arizona also makes special provision for certain groups of voters who are unable to use the early voting system.  Every county must establish a special election board to serve voters who are “confined as the result of a continuing illness or physical disability,” are unable to go to the polls on election day, and do not wish to cast an early vote by mail.  Ariz. Rev. Stat. Ann. §16–549(C) (Cum. Supp. 2020).  At the request of a voter in this group, the board will deliver a ballot in person and return it on the voter’s behalf.  §§16–549(C), (E).  Arizona law also requires employers to give employees time off to vote when they are otherwise scheduled to work certain shifts on election day.  §16–402 (2015).
+
+															The plaintiffs were unable to provide statistical evidence showing that HB 2023 had a disparate impact on minority voters.  Instead, they called witnesses who testified that third-party ballot collection tends to be used most heavily in disadvantaged communities and that minorities in Arizona—especially Native Americans—are disproportionately disadvantaged.  329 F. Supp. 3d, at 868, 870.  But from that evidence the District Court could conclude only that prior to HB 2023’s enactment, “minorities generically were more likely than non-minorities to return their early ballots with the assistance of third parties.”  Id., at 870.  How much more, the court could not say from the record.  Ibid.  Neither can we.  And without more concrete evidence, we cannot conclude that HB 2023 results in less opportunity to participate in the political process.[19]
+
+															Even if the plaintiffs had shown a disparate burden caused by HB 2023, the State’s justifications would suffice to avoid §2 liability.  “A State indisputably has a compelling interest in preserving the integrity of its election process.”  Purcell v. Gonzalez,
+
+549 U.S. 1, 4 (2006) (per curiam) (internal quotation marks omitted).  Limiting the classes of persons who may handle early ballots to those less likely to have ulterior motives deters potential fraud and improves voter confidence.  That was the view of the bipartisan Commission on Federal Election Reform chaired by former President Jimmy Carter and former Secretary of State James Baker.  The Carter-Baker Commission noted that “[a]bsentee balloting is vulnerable to abuse in several ways: . . . Citizens who vote at home, at nursing homes, at the workplace, or in church are more susceptible to pressure, overt and subtle, or to intimidation.”  Report of the Comm’n on Fed. Election Reform, Building Confidence in U. S. Elections 46 (Sept. 2005).
+
+															The Commission warned that “[v]ote buying schemes are far more difficult to detect when citizens vote by mail,” and it recommended that “States therefore should reduce the risks of fraud and abuse in absentee voting by prohibiting ‘third-party’ organizations, candidates, and political party activists from handling absentee ballots.”  Ibid.  The Commission ultimately recommended that States limit the classes of persons who may handle absentee ballots to “the voter, an acknowledged family member, the U. S. Postal Service or other legitimate shipper, or election officials.”  Id., at 47.  HB 2023 is even more permissive in that it also authorizes ballot-handling by a voter’s household member and caregiver.  See Ariz. Rev. Stat. Ann. §16–1005(I)(2).  Restrictions on ballot collection are also common in other States.  See 948 F. 3d, at 1068–1069, 1088–1143 (Bybee, J., dissenting) (collecting state provisions).
+
+															The Court of Appeals thought that the State’s justifications for HB 2023 were tenuous in large part because there was no evidence that fraud in connection with early ballots had occurred in Arizona.  See id., at 1045–1046.  But prevention of fraud is not the only legitimate interest served by restrictions on ballot collection.  As the Carter-Baker Commission recognized, third-party ballot collection can lead to pressure and intimidation.  And it should go without saying that a State may take action to prevent election fraud without waiting for it to occur and be detected within its own borders.  Section 2’s command that the political processes remain equally open surely does not demand that “a State’s political system sustain some level of damage before the legislature [can] take corrective action.”  Munro v. Socialist Workers Party,
+
+479 U.S. 189, 195 (1986).  Fraud is a real risk that accompanies mail-in voting even if Arizona had the good fortune to avoid it.  Election fraud has had serious consequences in other States.  For example, the North Carolina Board of Elections invalidated the results of a 2018 race for a seat in the House of Representatives for evidence of fraudulent mail-in ballots.[20]  The Arizona Legislature was not obligated to wait for something similar to happen closer to home.[21]
+
+															As with the out-of-precinct policy, the modest evidence of racially disparate burdens caused by HB 2023, in light of the State’s justifications, leads us to the conclusion that the law does not violate §2 of the VRA.
+
+															V
+
+															We also granted certiorari to review whether the Court of Appeals erred in concluding that HB 2023 was enacted with a discriminatory purpose.  The District Court found that it was not, 329 F. Supp. 3d, at 882, and appellate review of that conclusion is for clear error, Pullman-Standard v. Swint,
+
+456 U.S. 273, 287–288 (1982).  If the district court’s view of the evidence is plausible in light of the entire record, an appellate court may not reverse even if it is convinced that it would have weighed the evidence differently in the first instance.  Anderson v. Bessemer City,
+
+470 U.S. 564, 573–574 (1985).  “Where there are two permissible views of the evidence, the factfinder’s choice between them cannot be clearly erroneous.”  Id., at 574.
+
+															The District Court’s finding on the question of discriminatory intent had ample support in the record.  Applying the familiar approach outlined in Arlington Heights v. Metropolitan Housing Development Corp.,
+
+429 U.S. 252, 266–268 (1977), the District Court considered the historical background and the sequence of events leading to HB 2023’s enactment; it looked for any departures from the normal legislative process; it considered relevant legislative history; and it weighed the law’s impact on different racial groups.  See 329 F. Supp. 3d, at 879.
+
+															The court noted, among other things, that HB 2023’s enactment followed increased use of ballot collection as a Democratic get-out-the-vote strategy and came “on the heels of several prior efforts to restrict ballot collection, some of which were spearheaded by former Arizona State Senator Don Shooter.”  Id., at 879.  Shooter’s own election in 2010 had been close and racially polarized.  Aiming in part to frustrate the Democratic Party’s get-out-the-vote strategy, Shooter made what the court termed “unfounded and often far-fetched allegations of ballot collection fraud.”  Id., at 880.  But what came after the airing of Shooter’s claims and a “racially-tinged” video created by a private party was a serious legislative debate on the wisdom of early mail-in voting.  Ibid.[22]
+
+															That debate, the District Court concluded, was sincere and led to the passage of HB 2023 in 2016.  Proponents of the bill repeatedly argued that mail-in ballots are more susceptible to fraud than in-person voting.  Ibid.  The bill found support from a few minority officials and organizations, one of which expressed concern that ballot collectors were taking advantage of elderly Latino voters.  Ibid.  And while some opponents of the bill accused Republican legislators of harboring racially discriminatory motives, that view was not uniform.  See ibid.  One Democratic state senator pithily described the “ ‘problem’ ” HB 2023 aimed to “ ‘solv[e]’ ” as the fact that “ ‘one party is better at collecting ballots than the other one.’ ”  Id., at 882 (quoting Tr. Exh. 25, at 35).
+
+															We are more than satisfied that the District Court’s interpretation of the evidence is permissible.  The spark for the debate over mail-in voting may well have been provided by one Senator’s enflamed partisanship, but partisan motives are not the same as racial motives.  See Cooper v. Harris, 581 U. S. ___, ___–___ (2017) (slip op., at 19–20).  The District Court noted that the voting preferences of members of a racial group may make the former look like the latter, but it carefully distinguished between the two.  See 329 F. Supp. 3d, at 879, 882.  And while the District Court recognized that the “racially-tinged” video helped spur the debate about ballot collection, it found no evidence that the legislature as a whole was imbued with racial motives.  Id., at 879–880.
+
+															The Court of Appeals did not dispute the District Court’s assessment of the sincerity of HB 2023’s proponents.  It even agreed that some members of the legislature had a “sincere, though mistaken, non-race-based belief that there had been fraud in third-party ballot collection, and that the problem needed to be addressed.”  948 F. 3d, at 1040.  The Court of Appeals nevertheless concluded that the District Court committed clear error by failing to apply a “ ‘cat’s paw’ ” theory sometimes used in employment discrimination cases.  Id., at 1040–1041.  A “cat’s paw” is a “dupe” who is “used by another to accomplish his purposes.”  Webster’s New International Dictionary 425 (2d ed. 1934).  A plaintiff in a “cat’s paw” case typically seeks to hold the plaintiff ’s employer liable for “the animus of a supervisor who was not charged with making the ultimate [adverse] employment decision.”  Staub v. Proctor Hospital,
+
+562 U.S. 411, 415 (2011).
+
+															The “cat’s paw” theory has no application to legislative bodies.  The theory rests on the agency relationship that exists between an employer and a supervisor, but the legislators who vote to adopt a bill are not the agents of the bill’s sponsor or proponents.  Under our form of government, legislators have a duty to exercise their judgment and to represent their constituents.  It is insulting to suggest that they are mere dupes or tools.
+
+															*  *  *
+
+															Arizona’s out-of-precinct policy and HB 2023 do not violate §2 of the VRA, and HB 2023 was not enacted with a racially discriminatory purpose.  The judgment of the Court of Appeals is reversed, and the cases are remanded for further proceedings consistent with this opinion.
+
+															
+
+															It is so ordered.
+Notes
+1
+ H. R. Rep. No. 439, 89th Cong., 1st Sess., 8, 11–13 (1965); S. Rep. No. 162, 89th Cong., 1st Sess., pt. 3, pp. 4–5 (1965); see South Carolina v. Katzenbach,
+
+383 U.S. 301, 309–315 (1966). 
+
+2
+ See Mobile v. Bolden,
+
+446 U.S. 55, 60–61 (1980) (plurality opinion) (describing §2’s “sparse” legislative history). 
+
+3
+ Boyd & Markman, The 1982 Amendments to the Voting Rights Act: A Legislative History, 40 Wash. & Lee L. Rev. 1347, 1352–1353 (1983). 
+
+4
+ See Brown v. Post, 279 F. Supp. 60, 63 (WD La. 1968) (parish clerks discriminated with respect to absentee voting); United States v. Post, 297 F. Supp. 46, 51 (WD La. 1969) (election official induced blacks to vote in accordance with outdated procedures and made votes ineffective); Toney v. White, 488 F.2d 310, 312 (CA5 1973) (registrar discriminated in purging voting rolls). 
+
+5
+ See Chisom v. Roemer,
+
+501 U.S. 380 (1991) (multi-member district); Houston Lawyers’ Assn. v. Attorney General of Tex.,
+
+501 U.S. 419 (1991) (at-large elections); Voinovich v. Quilter,
+
+507 U.S. 146 (1993) (districting); Growe v. Emison,
+
+507 U.S. 25 (1993) (same); Holder v. Hall,
+
+512 U.S. 874 (1994) (single-member commission); Johnson v. De Grandy,
+
+512 U.S. 997 (1994) (districting); Abrams v. Johnson,
+
+521 U.S. 74 (1997) (same); League of United Latin American Citizens v. Perry,
+
+548 U.S. 399 (2006) (same); Abbott v. Perez, 585 U. S. ___ (2018) (same). 
+
+6
+ See Brief for Sen. Ted Cruz et al. as Amici Curiae 22–24 (describing §2 challenges to laws regulating absentee voting, precinct voting, early voting periods, voter identification (ID), election observer zones, same-day registration, durational residency, and straight-ticket voting); Brief for State of Ohio et al. as Amici Curiae 23–25 (describing various §2 challenges); Brief for Liberty Justice Center as Amicus Curiae 1–3, 7–11 (describing long-running §2 challenges to Wisconsin voter ID law). 
+
+7
+ An ill or disabled voter may have a ballot delivered by a special election board, and curbside voting at polling places is also allowed.  329 F. Supp. 3d, at 848. 
+
+8
+ Letter from E. Kneedler, Deputy Solicitor General, to S. Harris, Clerk of Court (Feb. 16, 2021). 
+
+9
+ Ibid. 
+
+10
+ The New Oxford American Dictionary 851 (2d ed. 2005); see 7 Oxford English Dictionary 763 (2d ed. 1989) (“in presence, view, or consequence of the fact that”); Webster’s New International Dictionary 1253 (2d ed. 1934) (“Because; for the reason that”). 
+
+11
+ There is a difference between openness and opportunity, on the one hand, and the absence of inconvenience, on the other.  For example, suppose that an exhibit at a museum in a particular city is open to everyone free of charge every day of the week for several months.  Some residents of the city who have the opportunity to view the exhibit may find it inconvenient to do so for many reasons—the problem of finding parking, dislike of public transportation, anticipation that the exhibit will be crowded, a plethora of weekend chores and obligations, etc.  Or, to take another example, a college course may be open to all students and all may have the opportunity to enroll, but some students may find it inconvenient to take the class for a variety of reasons.  For example, classes may occur too early in the morning or on Friday afternoon; too much reading may be assigned; the professor may have a reputation as a hard grader; etc. 
+
+12
+ Where voters are allowed to vote for multiple candidates in a race for multiple seats, single-shot voting is the practice of voting for only one candidate.  “ ‘ “Single-shot voting enables a minority group to win some at-large seats if it concentrates its vote behind a limited number of candidates and if the vote of the majority is divided among a number of candidates.” ’ ”  Gingles, 478 U. S., at 38–39, n. 5 (quoting City of Rome v. United States,
+
+446 U.S. 156, 184, n. 19 (1980)); see also United States Commission on Civil Rights, The Voting Rights Act: Ten Years After 206–207 (1975). 
+
+13
+ Slating has been described as “a process in which some influential non-governmental organization selects and endorses a group or ‘slate’ of candidates, rendering the election little more than a stamp of approval for the candidates selected.”  Westwego Citizens for Better Govt. v. Westwego, 946 F.2d 1109, 1116, n. 5 (CA5 1991).  Exclusion from such a system can make it difficult for minority groups to elect their preferred candidates.  See, e.g., White v. Regester,
+
+412 U.S. 755, 766–767, and n. 11 (1973) (describing one example). 
+
+14
+ The dissent erroneously claims that the Senate-House compromise was only about proportional representation and not about “the equal-access right” at issue in the present cases.  Post, at 19, n. 6.  The text of the bill initially passed by the House had no equal-access right.  See H. R. Rep. No. 97–227, p. 48 (1981); H. R. 3112, 97th Cong., 1st Sess., §2, p. 8 (introduced Oct. 7, 1981).  Section 2(b) was the Senate’s creation, and that provision is what directed courts to look beyond mere “results” to whether a State’s “political processes” are “equally open,” considering “the totality of circumstances.”  See Mississippi Republican Executive Committee v. Brooks,
+
+469 U.S. 1002, 1010 (1984) (Rehnquist, J., dissenting) (“The compromise bill retained the ‘results’ language but also incorporated language directly from this Court’s opinion in White v. Regester”).  And while the proviso on proportional representation may not apply as directly in this suit, it is still a signal that §2 imposes something other than a pure disparate-impact regime. 
+
+15
+ The dissent objects to consideration of the 1982 landscape because even rules that were prevalent at that time are invalid under §2 if they, well, violate §2.  Post, at 24.  We of course agree with that tautology.  But the question is what it means to provide equal opportunity, and given that every voting rule imposes some amount of burden, rules that were and are commonplace are useful comparators when considering the totality of circumstances.  Unlike the dissent, Congress did not set its sights on every facially neutral time, place, or manner voting rule in existence.  See, e.g., S. Rep. No. 97–417, at 10, n. 22 (describing what the Senate Judiciary Committee viewed as “blatant direct impediments to voting”). 
+
+16
+ For support, the dissent offers a baseless reading of one of our vote-dilution decisions.  In Houston Lawyers’ Assn.,
+
+501 U.S. 419, we considered a §2 challenge to an electoral scheme wherein all trial judges in a judicial district were elected on a district-wide basis.  Id., at 422.  The State asserted that it had a strong interest in district-wide judicial elections on the theory that they make every individual judge at least partly accountable to minority voters in the jurisdiction.  Id., at 424, 426.  That unique interest, the State contended, should have “automatically” exempted the electoral scheme from §2 scrutiny altogether.  Id., at 426.  We disagreed, holding that the State’s interest was instead “a legitimate factor to be considered by courts among the ‘totality of circumstances’ in determining whether a §2 violation has occurred.”  Ibid.  To illustrate why an “automati[c]” exemption from §2’s coverage was inappropriate, the Court hypothesized a case involving an “uncouth” district shaped like the one in Gomillion v. Lightfoot,
+
+364 U.S. 339, 340 (1960), for which an inquiry under §2 “would at least arguably be required.”  501 U. S., at 427.  The Court then wrote the language upon which the dissent seizes:  “Placing elections for single-member offices entirely beyond the scope of coverage of §2 would preclude such an inquiry, even if the State’s interest in maintaining the ‘uncouth’ electoral system was trivial or illusory and even if any resulting impairment of a minority group’s voting strength could be remedied without significantly impairing the State’s interest in electing judges on a district-wide basis.”  Id., at 427–428. That reductio ad absurdum, used to demonstrate only why an automatic exemption from §2 scrutiny was inappropriate, did not announce an “inquiry” at all—much less the least-burdensome-means requirement the dissent would have us smuggle in from materially different statutory regimes.  Post, at 18, n. 5, 26.  Perhaps that is why no one—not the parties, not the United States, not the 36 other amici, not the courts below, and certainly not this Court in subsequent decisions—has advanced the dissent’s surprising reading of a single phrase in Houston Lawyers Assn.  The dissent apparently thinks that in 1991 we silently abrogated the principle that the nature of a State’s interest is but one of many factors to consider, see Thornburg v. Gingles,
+
+478 U.S. 30, 44–45 (1986), and that our subsequent cases have erred by failing simply to ask whether a less burdensome measure would suffice.  Who knew? 
+
+17
+ We do not think §2 is so procrustean.  Statistical significance may provide “evidence that something besides random error is at work,” Federal Judicial Center, Reference Manual on Scientific Evidence 252 (3d ed. 2011), but it does not necessarily determine causes, and as the dissent acknowledges, post, at 15, n. 4, it is not the be-all and end-all of disparate-impact analysis.  See Federal Judicial Center, Reference Manual, at 252 (“[S]ignificant differences . . . are not evidence that [what is at work] is legally or practically important.  Statisticians distinguish between statistical and practical significance to make the point.  When practical significance is lacking—when the size of a disparity is negligible—there is no reason to worry about statistical significance”); ibid., n. 102 (citing authorities).  Moreover, whatever might be “standard” in other contexts, post, at 15, n. 4, we have explained that VRA §2’s focus on equal “open[ness]” and equal “opportunity” does not impose a standard disparate-impact regime. 
+
+18
+ In arguing that Arizona’s out-of-precinct policy violates §2, the dissent focuses on the State’s decisions about the siting of polling places and the frequency with which voting precincts are changed.  See post, at 33 (“Much of the story has to do with the siting and shifting of polling places”).  But the plaintiffs did not challenge those practices.  See 329 F. Supp. 3d, at 873 (“Plaintiffs . . . do not challenge the manner in which Arizona counties allocate and assign polling places or Arizona’s requirement that voters re-register to vote when they move”).  The dissent is thus left with the unenviable task of explaining how something like a 0.5% disparity in discarded ballots between minority and non-minority groups suffices to render Arizona’s political processes not equally open to participation.  See supra, at 27–28.  A voting rule with that effect would not be—to use the dissent’s florid example—one that a “minority vote suppressor in Arizona” would want in his or her “bag of tricks.”  Post, at 33. 
+
+19
+ Not one to let the absence of a key finding get in the way, the dissent concludes from its own review of the evidence that HB 2023 “prevents many Native Americans from making effective use of one of the principal means of voting in Arizona,” and that “[w]hat is an inconsequential burden for others is for these citizens a severe hardship.”  Post, at 38.  What is missing from those statements is any evidence about the actual size of the disparity.  (For that matter, by the time the dissent gets around to assessing HB 2023, it appears to have lost its zeal for statistical significance, which is nowhere to be seen.  See post, at 35–40, and n. 13.)  The reader will search in vain to discover where the District Court “found” to what extent HB 2023 would make it “ ‘significantly more difficult’ ” for Native Americans to vote.  Post, at 39, n. 15 (citing 329 F. Supp. 3d, at 868, 870).  Rather, “[b]ased on” the very same evidence the dissent cites, the District Court could find only that minorities were “generically” more likely than non-minorities to make use of third-party ballot-collection.  Id., at 870.  The District Court’s explanation as to why speaks for itself: “Although there are significant socioeconomic disparities between minorities and non-minorities in Arizona, these disparities are an imprecise proxy for disparities in ballot collection use.  Plaintiffs do not argue that all or even most socioeconomically disadvantaged voters use ballot collection services, nor does the evidence support such a finding.  Rather, the anecdotal estimates from individual ballot collectors indicate that a relatively small number of voters have used ballot collection services in past elections.”  Ibid.; see also id., at 881 (“[B]allot collection was used as a [get-out-the-vote] strategy in mostly low-efficacy minority communities, though the Court cannot say how often voters used ballot collection, nor can it measure the degree or significance of any disparities in its usage” (emphasis added)). 
+
+20
+ See Blinder, Election Fraud in North Carolina Leads to New Charges for Republican Operative, N. Y. Times, July 30, 2019, https://www.nytimes.com/2019/07/30/us/mccrae-dowless-indictment.html; Graham, North Carolina Had No Choice, The Atlantic, Feb. 22, 2019, https://www.theatlantic.com/politics/archive/2019/02/north-carolina-9th-fraud-board-orders-new-election/583369/. 
+
+21
+ The dissent’s primary argument regarding HB 2023 concerns its effect on Native Americans who live on remote reservations.  The dissent notes that many of these voters do not receive mail delivery at home, that the nearest post office may be some distance from their homes, and that they may not have automobiles.  Post, at 36.  We do not dismiss these problems, but for a number of reasons, they do not provide a basis for invalidating HB 2023.  The burdens that fall on remote communities are mitigated by the long period of time prior to an election during which a vote may be cast either in person or by mail and by the legality of having a ballot picked up and mailed by family or household members.  And in this suit, no individual voter testified that HB 2023 would make it significantly more difficult for him or her to vote.  329 F. Supp. 3d, at 871.  Moreover, the Postal Service is required by law to “provide a maximum degree of effective and regular postal services to rural areas, communities, and small towns where post offices are not self-sustaining.”
+
+39 U. S. C. §101(b); see also §403(b)(3).  Small post offices may not be closed “solely for operating at a deficit,” §101(b), and any decision to close or consolidate a post office may be appealed to the Postal Regulatory Commission, see §404(d)(5).  An alleged failure by the Postal Service to comply with its statutory obligations in a particular location does not in itself provide a ground for overturning a voting rule that applies throughout an entire State. 
+
+22
+ The District Court also noted prior attempts on the part of the Arizona Legislature to regulate or limit third-party ballot collection in 2011 and 2013.  It reasonably concluded that any procedural irregularities in those attempts had less probative value for inferring the purpose behind HB 2023 because the bills were passed “during different legislative sessions by a substantially different composition of legislators.”  329 F. Supp. 3d, at 881. 
+
+

@@ -1,0 +1,95 @@
+::SCDB_caseID:: 2015-047
+::decision_cite:: 15-145
+::decision_name::  Husky Int’l Electronics, Inc. v. Ritz
+::decision_year:: 2016
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 15–145
+
+															_________________
+
+															HUSKY INTERNATIONAL ELECTRONICS, INC., PETITIONER v. DANIEL LEE RITZ, Jr.
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[May 16, 2016]
+
+															
+
+															Justice Thomas, dissenting.
+
+															The Bankruptcy Code exempts from discharge “any debt . . . for money, property, [or] services . . . to the extent obtained by . . . false pretenses, a false representation, or actual fraud.”
+
+11 U. S. C. §523(a)(2)(A) (emphasis added).  The Court holds that “actual fraud” encompasses fraudulent transfer schemes effectuated without any false representation to a creditor and concludes that a debt for goods may “sometimes” be “obtained by” a fraudulent transfer scheme.  Ante, at 3, 9. Because §523(a)(2)(A) does not apply so expansively, I respectfully dissent.
+
+															I
+
+															In my view, “actual fraud” within the meaning of §523(a)(2) does not encompass fraudulent transfer schemes.  There are two types of fraudulent transfer schemes: “transfers made with actual intent to hinder, delay, or defraud creditors, referred to as actual fraudulent transfers” and “transfers made for less than reasonably equivalent value when a debtor was in financial trouble, [which is] referred to as constructive fraudulent transfers.”  2 Bankruptcy Law Manual §9A:29, p. 333 (5th ed. 2015).  I do not quibble with the majority’s conclusion that the common-law definition of “actual fraud” included fraudulent transfers.  Ante, at 4–6.  And I agree that, generally, we should give a common-law term of art its established common-law meaning.  Ante, at 4. Nevertheless, the “general rule that a common-law term of art should be given its established common-law meaning” gives way “where that meaning does not fit.”  United States v. Castleman, 572 U. S. ___, ___ (2014) (slip op.,at 5) (internal quotation marks omitted).  Ultimately, “[s]tatutory language must be read in context and a phrase gathers meaning from the words around it.”  Jones v. United States,
+
+527 U. S. 373,
+389 (1999)
+ (internal quotation marks omitted).  In my view, context dictates that “actual fraud” ordinarily does not include fraudulent transfers because “that meaning does not fit” with the rest of §523(a)(2).  Castleman, supra, at ___ (slip op., at 5) (internal quotation marks omitted).
+
+															Section 523(a)(2) covers only situations in which “money, property, [or] services” are “obtained by . . . actualfraud,” and results in a debt.  See Cohen v. de la Cruz,
+
+523 U. S. 213,
+218 (1998)
+.  The statutory phrase “obtained by” is an important limitation on the reach of the provision.  Section 523(a)(2)(A) applies only when the fraudulent conduct occurs at the inception of the debt, i.e., when the debtor commits a fraudulent act to induce the creditor to part with his money, property, services, or credit.  The logical conclusion then is that “actual fraud”—as it is used in the statute—covers only those situations in which some sort of fraudulent conduct caused the creditor to enter into a transaction with the debtor.  A fraudulent transfer generally does not fit that mold, unless, perhaps, the fraudulent transferor and the fraudulent transferee conspired to fraudulently drain the assets of the creditor.  But the fraudulent transfer here, like all but the rarest fraudulent transfers, did not trick the creditor into selling his goods to the buyer, Chrysalis Manufacturing Corporation.  It follows that the goods that resulted in the debt here were not “obtained by” actual fraud.  §523(a)(2)(A).
+
+															A
+
+															I reach this conclusion based on the plain meaning of the phrase “obtained by,” which has an “inherent” “element of causation,” and refers to those debts “resulting from” or “traceable to” fraud.  Field v. Mans,
+
+516 U. S. 59,
+61,
+64,
+66 (1995)
+.  As I have stated, “in order for a creditor to establish that a debt is not dischargeable, he must demonstrate that there is a causal nexus between the fraud and the debt.”  Archer v. Warner,
+
+538 U. S. 314,
+325 (2003)
+ (Thomas, J., dissenting) (relying on Field, supra, at 61, 64, and Cohen, supra, at 218).  There is also “[n]o . . . doub[t] that some degree of reliance is required to satisfy th[is] element of causation.”  Field, 516 U. S., at 66.  The upshot of the phrase “obtained by” is that §523(a)(2) covers only those debts that result from fraud at the inception of a credit transaction.  Such a debt caused by fraud necessarily “follows a transfer of value or extension of credit induced by falsity or fraud.”  Ibid. (emphasis added).
+
+															Bankruptcy treatises confirm that “[t]he phrase ‘to the extent obtained by’ is properly read as meaning ‘obtained from’ the creditor.”  3 W. Norton & W. Norton, Bankruptcy Law and Practice §57:15, p. 57–35 (3d ed. 2015).  The “term ‘by’ refers to the manner in which such money, property, services is obtained and the creditor defrauded.”  Ibid.  According to Collier on Bankruptcy, to invoke §523(a)(2)(A) based on “actual fraud,” a creditor “must establish” that he “justifiably relied” on the debtor’s “representation,” which the debtor “knew to be false” and made “with the intent and purpose of deceiving the” creditor and that the creditor “sustained a loss or damage as the proximate consequence.”  4 Collier on Bankruptcy ¶523.08[1][e], p. 523–47 (A. Resnick & H. Sommer eds., 16th ed. 2015).  Norton Bankruptcy Law and Practice is in accord: Section 523(a)(2)(A) requires a “misrepresentation,” “knowledge of falsity,” “intent to defraud,” “justifiable reliance,” and “resulting damage.”  3 Norton, supra, §57:15, at 57–33 to 57–34.
+
+															B
+
+															Applying those principles here, Husky cannot invoke §523(a)(2)(A) to except the debt owed to it from discharge because, ordinarily, it would be nonsensical to say that a fraudulent transfer created the debt at issue.  As the majority notes, the debt at issue did not originate from any transaction between Ritz and Husky.  Ante, at 1–2. Instead, Husky sold goods to Chrysalis, a company that Ritz financially controlled.  Ibid. In turn, Chrysalis—not Ritz—incurred a debt to Husky of $163,999.38 for the goods.  Ante, at 1.  As the Bankruptcy Court found, there is no evidence that Ritz made “any oral or written representations to Husky inducing Husky to enter into a contract with Chrysalis.”  In re Ritz, 459 B. R. 623, 628 (SD Tex. 2011).  In fact, the only communication between Ritz and Husky occurred after Husky and Chrysalis entered into the contract and after Husky had shipped the goods to Chrysalis.  Ibid.  The Bankruptcy Court also found that there was no evidence that Ritz transferred the funds to avoid Chrysalis’ obligations to pay the debt it owed to Husky—an unsecured creditor.  Id., at 635.  Because Husky does not contend that Ritz fraudulently induced it to sell goods to Chrysalis and cannot show that the constructive fraudulent conveyance had anything to do with its decision to contract with Chrysalis, Husky has not established that §523(a)(2)(a) covers any debt owed to it.
+
+															II
+
+															The majority reaches the opposite conclusion and holds that §523(a)(2) may prevent an individual debtor from obtaining a discharge even if (1) the debtor makes no false representation to the creditor, (2) the creditor does not rely on any of the debtor’s actions or inactions, and (3) there was no actual fraudulent conveyance at the inception of the credit transaction between the creditor and the debtor.  Ante, at 5–6, 9.  It does so by giving new meaning to the phrase “obtained by” in cases involv-ing fraudulent transfers, disregarding our case law, and second-guessing Congress’ choices.  Ante, at 9.
+
+															The majority admits that a transferor “does not ‘obtai[n]’ debts in a fraudulent conveyance,” but contends that “the recipient of the transfer—who, with the requisite intent, also commits fraud—can ‘obtain’ assets ‘by’ his or her participation in the fraud.”  Ibid. (brackets omitted).  “If that recipient later files for bankruptcy, any debts trace-able to the fraudulent conveyance,” the majority states, “will be nondischargable under §523(a)(2)(A).”  Ibid. (internal quotation marks omitted).  The majority thus holds that “at least sometimes a debt ‘obtained by’ a fraudulent conveyance scheme could be nondischargeable under §523(a)(2)(A).”  Ibid.  But §523(a)(2)(A) does not exempt from discharge any debts “traceable to the fraudulent conveyance.”  Instead, §523(a)(2)(A) exempts from discharge “any debt for” goods that are “obtained by” actual fraud.  And, as explained, it is extremely rare that a creditor will use an actual fraudulent transfer scheme to induce a creditor to depart with property, services, money, or credit.  See supra, at 2–3.
+
+															In reaching its conclusion, the majority also disregards this Court’s precedents interpreting §523(a)(2)(A), presumably because those cases did not involve fraudulent transfers.  The majority cites Field only for the elemental proposition that this Court “has historically construed the terms in §523(a)(2)(A) to contain the ‘elements that the common law has defined them to include.’ ”  Ante, at 4 (quoting 516 U. S., at 69).  The majority omits Field’s conclusion that one of the elements of “actual fraud” in §523(a)(2)(A) is “reliance” on some sort of false statement, misrepresentation, or omission.  Id., at 70 (emphasis added).  To be sure, like the rest of our cases interpreting §523(a)(2)(A), Field involves a false statement.  But that factual distinction is immaterial.  Cases like Field—which interpret the phrase “obtained by”—are as relevant in cases that involve false statements and misrepresentations as they are in a case like this one.  After all, “obtained by” modifies false pretenses, false representations, and actual fraud in §523(a)(2)(A).  And in no case has this Court suggested—never mind held—that §523(a)(2)(A) may apply to circumstances in which there was no false statement, misrepresentation, or omission when the debt was first obtained.
+
+															The majority ostensibly creates a new definition of “obtained by” because it thinks that this move is necessary to avoid rendering “actual fraud” superfluous.  See ante, at 4, 7–8.  Not so.  Actual fraud is broader than false pretenses or false representations, and “consists of any deceit, artifice, trick, or design involving direct and active operation of the mind, used to circumvent and cheat another.”  4 Collier on Bankruptcy ¶523.08[1][e], at 523–46.  “Unlike false pretenses or false representation, actual fraud, within the meaning of the dischargeability exception, can focuson a promise of future performance made with intent not to perform.”  2F Bankruptcy Service §27:211, p. 59 (Supp. Jan. 2016).  In this way, “the actual fraud” exception “permit[s] the courts to except from discharge debts incurred without intent to repay, or by use of other false implied representations, without the need to stretch the false pretenses and false representations language.”  Zaretsky, The Fraud Exception to Discharge Under the New Bankruptcy Code, 53 Am. Bankruptcy L. J. 253, 257 (1979).  Some courts, for example, have held that “a debtor commits actual fraud within the meaning of §523(a)(2)(A) when he incurs credit card debt with no actual, subjective intent to repay it,” but has not made an affirmatively false representation or engaged in false pretense.  In re Morrow, 488 B. R. 471, 479–480 (Bkrtcy. Ct. ND Ga. 2012); see also, e.g., In re Alam, 314 B. R. 834, 841 (Bkrtcy. Ct. ND Ga. 2004).  Defining actual fraud this way does not render that term superfluous and—unlike the majority’s definition—does not render “obtained by” a nullity.
+
+															Regardless, even if there is some overlap between the definitions of “false pretenses,” “false representations,” and “actual fraud,” “[r]edundancies across statutes are not unusual events in drafting.”  Connecticut Nat. Bank v. Germain,
+
+503 U. S. 249,
+253 (1992)
+.  “[T]he canon against surplusage assists only where a competing interpretation gives effect to every clause and word of a statute.”  Marx v. General Revenue Corp., 568 U. S. ___, ___ (2013) (slip op., at 13) (internal quotation marks omitted).  “But, in this case, no interpretation of [§523(a)(2)(A)] gives effect to every word.”  Ibid.  Under either my reading or the major-ity’s reading, “actual fraud” is broader than and subsumes “false pretenses” and “false representations.”  Accordingly, that “actual fraud” may introduce some redundancy in the statute is not dispositive.
+
+															At bottom, the majority’s attempt to broaden §523(a)(2)(A) to cover fraudulent transfers impermissibly second-guesses Congress’ choices.  When Congress wants to stop a debtor from discharging a debt that he has concealed through a fraudulent transfer scheme, it ordinarily says so.  See §727(a)(2) (stating that a court shall grant the debtor a discharge unless the debtor engages in an actual fraudulent transfer scheme within a certain time of filing a bankruptcy petition).  If Congress wanted §523(a)(2)(A) to cover fraudulent transfer situations, “it would have spoken more clearly to that effect.”  Staples v. United States,
+
+511 U. S. 600,
+620 (1994)
+.  Ultimately, “it is not for us to substitute our view of policy for the legislation which has been passed by Congress.”  Florida Dept. of Revenue v. Piccadilly Cafeterias, Inc.,
+
+554 U. S. 33,
+52 (2008)
+ (ellipsis and internal quotation marks omitted).
+
+															*  *  *
+
+															The majority today departs from the plain language of §523(a)(2)(A), as interpreted by our precedents.  Because I find no support for the Court’s conclusion in the text of the Bankruptcy Code, I respectfully dissent.
+													

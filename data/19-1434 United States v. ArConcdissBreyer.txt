@@ -1,0 +1,87 @@
+::SCDB_caseID:: 2020-044
+::decision_cite:: 19-1434
+::decision_name::  United States v. Arthrex, Inc.
+::decision_year:: 2021
+::opinion_author:: Breyer
+::opinion_type:: Concdiss
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–1434, 19–1452 and 19–1458
+
+															_________________
+
+															UNITED STATES, PETITIONER
+
+															19–1434 v.
+
+															ARTHREX, INC., et al.
+
+															
+
+															SMITH & NEPHEW, INC., et al., PETITIONERS
+
+															19–1452 v.
+
+															ARTHREX, INC., et al.
+
+															
+
+															ARTHREX, INC., PETITIONER
+
+															19–1458 v.
+
+															SMITH & NEPHEW, INC., et al.
+
+															on writs of certiorari to the united states court of appeals for the federal circuit
+
+															[June 21, 2021]
+
+															
+
+															 Justice Breyer, with whom Justice Sotomayor and Justice Kagan join, concurring in the judgment in part and dissenting in part.
+
+															I
+
+															 I agree with Justice Thomas’ discussion on the merits and I join Parts I and II of his dissent.  Two related considerations also persuade me that his conclusion is correct.
+
+															 First, in my view, the Court should interpret the Appointments Clause as granting Congress a degree of leeway to establish and empower federal offices.  Neither that Clause nor anything else in the Constitution describes the degree of control that a superior officer must exercise over the decisions of an inferior officer.  To the contrary, the Constitution says only that “Congress may by Law vest the Appointment of such inferior Officers, as they think proper, . . . in the Heads of Departments.”  Art. II, §2, cl. 2.  The words “by Law . . . as they think proper” strongly suggest that Congress has considerable freedom to determine the nature of an inferior officer’s job, and that courts ought to respect that judgment.  See Lucia v. SEC, 585 U. S. ___, ___–___ (2018) (Breyer, J., concurring in judgment in part and dissenting in part) (slip op., at 9–10).  In a word, the Constitution grants to Congress the “authority to create both categories of offices—those the President must fill with the Senate’s concurrence and ‘inferior’ ones. . . . That constitutional assignment to Congress counsels judicial deference.”  In re Sealed Case, 838 F.2d 476, 532 (CADC) (R. Ginsburg, J., dissenting), rev’d sub nom. Morrison v. Olson, 487 U.S. 654 (1988).  Article I’s grant to Congress of broad authority to enact laws of different kinds concerning different subjects—and to implement those laws in ways that Congress determines are “necessary and proper”—suggests the same.  Art. I, §8, cl. 18.
+
+															 Even a small degree of “judicial deference” should prove sufficient to validate the statutes here.  For one, the provisions at issue fall well within Article I’s grant to Congress of the patent power.  Nothing in them represents an effort by the “Legislative Branch [to] aggrandize itself at the expense of the other two branches.”  Buckley v. Valeo, 424 U.S. 1, 129 (1976) (per curiam).  There is accordingly no general separation-of-powers defect that has arisen in other cases.  See, e.g., Metropolitan Washington Airports Authority v. Citizens for Abatement of Aircraft Noise, Inc., 501 U.S. 252, 277 (1991).
+
+															 For another, Congress’ scheme is consistent with our Appointments Clause precedents.  They require only that an inferior officer be “directed and supervised at some level,” Edmond v. United States, 520 U.S. 651, 663 (1997), and the Administrative Patent Judges (APJs) are supervised by two separate Senate-confirmed officers, the Secretary of Commerce and the Director of the Patent and Trademark Office (PTO).  Even were I to assume, with the majority, that the Director must have power to “control” the APJs, the statutes grant the Director considerable control.  As the Court recognizes, the Director “fixes” their “rate[s] of pay,” decides “whether to institute inter partes review,” “selects the APJ’s” who will preside at each particular proceeding, “promulgates regulations governing inter partes review,” “issues prospective guidance on patentability issues,” and “designates past PTAB decisions as ‘precedential’ for future panels.”  Ante, at 10.  All told, the Director maintains control of decisions insofar as they determine policy.  The Director cannot rehear and decide an individual case on his own; but Congress had good reason for seeking independent Board determinations in those cases—cases that will apply, not create, Director-controlled policy.
+
+															 Finally, Congress’ judgment is unusually clear in this suit, as there is strong evidence that Congress designed the current structure specifically to address constitutional concerns.  See In re DBC, 545 F.3d 1373, 1377–1380 (CA Fed. 2008) (explaining amendment to address defects in prior appointment process).
+
+															 Second, I believe the Court, when deciding cases such as these, should conduct a functional examination of the offices and duties in question rather than a formalist, judicial-rules-based approach.  In advocating for a “functional approach,” I mean an approach that would take account of, and place weight on, why Congress enacted a particular statutory limitation.  It would also consider the practical consequences that are likely to follow from Congress’ chosen scheme.
+
+															 Wiener v. United States, 357 U.S. 349 (1958), provides a good example of the role that purposes and consequences can play.  In that case, the Court considered whether, in the face of congressional silence on the matter, the President had the constitutional or statutory authority to remove without cause a member of the War Claims Commission.  Justice Frankfurter, writing for a unanimous Court, said that Congress sought to create a commission that was “ ‘entirely free from the control or coercive influence, direct or indirect,’ of either the Executive or the Congress.”  Id., at 355–356 (quoting Humphrey’s Executor v. United States, 295 U.S. 602, 629 (1935)).  He then asked why Congress might want to deny the President the power to remove a commissioner.  Because, he answered, the “intrinsic judicial character” of the Commission’s duties required that it be able to adjudicate claims solely on the merits of each claim free of external executive pressure.  357 U. S., at 355.  “Congress did not wish to have hang over the Commission the Damocles’ sword of removal by the President for no reason other than that he preferred to have on that Commission men of his own choosing.”  Id., at 356.  The Court has subsequently used the functional approach reflected in Wiener to resolve all manner of separation-of-powers disputes, including disputes under the Appointments Clause.  See, e.g., Buckley, 424 U. S., at 126 (distinguishing employees from officers by asking if the individual exercises “significant authority”); Mistretta v. United States, 488 U.S. 361, 409 (1989) (asking whether a statute “prevents the Judicial Branch from performing its constitutionally assigned functions”).
+
+															 In this suit, a functional approach, which considers purposes and consequences, undermines the Court’s result.  Most agencies (and courts for that matter) have the power to reconsider an earlier decision, changing the initial result if appropriate.  Congress believed that the PTO should have that same power and accordingly created procedures for reconsidering issued patents.  Congress also believed it important to strengthen the reconsideration power with procedural safeguards that would often help those whom the PTO’s initial decision had favored, such as the requirement that review be available only when there is a “reasonable likelihood” that the patent will be invalid.  35 U. S. C. §314(a).  Given the technical nature of patents, the need for expertise, and the importance of avoiding political interference, Congress chose to grant the APJs a degree of independence.  These considerations set forth a reasonable legislative objective sufficient to justify the restriction upon the Director’s authority that Congress imposed.  And, as Justice Thomas thoroughly explains, there is no reason to believe this scheme will prevent the Director from exercising policy control over the APJs or will break the chain of accountability that is needed to hold the President responsible for bad nominations.  Post, at 7–10 (dissenting opinion).
+
+															 The Court does not take these realities into account.  Instead, for the first time, it examines the APJs’ office function by function and finds, in Edmond, a judicially created rule: “Only an officer properly appointed to a principal office may issue a final decision binding the Executive Branch in [inter partes review] proceeding[s].”  Ante, at 19.  As an initial matter, I agree with Justice Thomas that this rule has no foundation in Edmond or our Appointments Clause precedents.  Post, at 10–11.
+
+															 More broadly, I see the Court’s decision as one part of a larger shift in our separation-of-powers jurisprudence.  The Court applied a similarly formal approach in Free Enterprise Fund v. Public Company Accounting Oversight Bd., 561 U.S. 477 (2010), where it considered the constitutional status of the members of an accounting board appointed by the Securities and Exchange Commission.  It held that Congress could not limit the SEC’s power to remove those members without cause.  The Court also applied a formalist approach in Seila Law LLC v. Consumer Financial Protection Bureau, 591 U. S. ___ (2020), where it held that Congress could not protect from removal without cause the (single) head of the Consumer Financial Protection Bureau.  My dissent in the first case and Justice Kagan’s dissent in the second explain in greater detail why we believed that this shift toward formalism was a mistake.
+
+															 I continue to believe that a more functional approach to constitutional interpretation in this area is superior.  As for this particular suit, the consequences of the majority’s rule are clear.  The nature of the PTAB calls for technically correct adjudicatory decisions.  And, as in Wiener, that fact calls for greater, not less, independence from those potentially influenced by political factors.  The Court’s decision prevents Congress from establishing a patent scheme consistent with that idea.
+
+															 But there are further reasons for a functional approach that extend beyond the bounds of patent adjudication.  First, the Executive Branch has many different constituent bodies, many different bureaus, many different agencies, many different tasks, many different kinds of employees.  Administration comes in many different shapes and sizes.  Appreciating this variety is especially important in the context of administrative adjudication, which typically demands decisionmaking (at least where policy made by others is simply applied) that is free of political influence.  Are the President and Congress, through judicial insistence upon certain mechanisms for removal or review, to be denied the ability to create independent adjudicators?
+
+															 Second, the Constitution is not a detailed tax code, and for good reason.  The Nation’s desires and needs change, sometimes over long periods of time.  In the 19th century the Judiciary may not have foreseen the changes that produced the New Deal, along with its accompanying changes in the nature of the tasks that Government was expected to perform.  We may not now easily foresee just what kinds of tasks present or future technological changes will call for.  The Founders wrote a Constitution that they believed was flexible enough to respond to new needs as those needs developed and changed over the course of decades or centuries.  At the same time, they designed a Constitution that would protect certain basic principles.  A principle that prevents Congress from affording inferior level adjudicators some decisionmaking independence was not among them.
+
+															 Finally, the Executive Branch and Congress are more likely than are judges to understand how to implement the tasks that Congress has written into legislation.  That understanding encompasses the nature of different mechanisms of bureaucratic control that may apply to the many thousands of administrators who will carry out those tasks.  And it includes an awareness of the reasonable limits that can be placed on supervisors to ensure that those working under them enjoy a degree of freedom sufficient to carry out their responsibilities.  Considered as a group, unelected judges have little, if any, experience related to this kind of a problem.
+
+															 This is not to say that the Constitution grants Congress free rein.  But in this area of the law a functional approach, when compared with the highly detailed judicial-rules-based approach reflected in the Court’s decision, is more likely to prevent inappropriate judicial interference.  It embodies, at least to a degree, the philosopher’s advice:  “Whereof one cannot speak, thereof one must be silent.”
+
+															II
+
+															 For the reasons I have set forth above, I do not agree with the Court’s basic constitutional determination.  For purposes of determining a remedy, however, I recognize that a majority of the Court has reached a contrary conclusion.  On this score, I believe that any remedy should be tailored to the constitutional violation.  Under the Court’s new test, the current statutory scheme is defective only because the APJ’s decisions are not reviewable by the Director alone.  The Court’s remedy addresses that specific problem, and for that reason I agree with its remedial holding.
+
+															*  *  *
+
+															 In my view, today’s decision is both unprecedented and unnecessary, and risks pushing the Judiciary further into areas where we lack both the authority to act and the capacity to act wisely.  I respectfully dissent.
+													

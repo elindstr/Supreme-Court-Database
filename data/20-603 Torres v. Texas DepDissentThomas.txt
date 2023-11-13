@@ -1,0 +1,334 @@
+::SCDB_caseID:: 2021-049
+::decision_cite:: 20-603
+::decision_name::  Torres v. Texas Department of Public Safety
+::decision_year:: 2022
+::opinion_author:: Thomas
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 20–603
+
+															_________________
+
+															LE ROY TORRES, PETITIONER v. TEXAS DEPARTMENT OF PUBLIC SAFETY
+
+															on writ of certiorari to the court of appeals of texas, thirteenth district
+
+															[June 29, 2022]
+
+															
+
+															Justice Thomas, with whom Justice Alito, Justice Gorsuch, and Justice Barrett join, dissenting.
+
+															More than two decades ago, this Court found it “difficult to conceive that the Constitution would have been adopted if it had been understood to strip the States of immunity from suit in their own courts and cede to the Federal Government a power to subject nonconsenting States to private suits in these fora.”  Alden v. Maine,
+
+527 U.S. 706, 743 (1999).  Accordingly, we held—without qualification—that “the powers delegated to Congress under Article I of the United States Constitution do not include the power to subject nonconsenting States to private suits for damages in state courts.”  Id., at 712 (emphasis added).
+
+															No longer.  Today, by adopting contrived interpretations of Alden and the recent decision in PennEast Pipeline Co. v. New Jersey, 594 U. S. ___ (2021), the Court holds that at least two (and perhaps more) Article I “war powers” do, in fact, include “the power to subject nonconsenting States to private suits for damages in state courts,” Alden, 527 U. S., at 712, and that Congress has exercised that power by enacting the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA),
+
+38 U. S. C. §4301 et seq. Alden should have squarely foreclosed that holding.  As the Court there already explained, constitutional text, history, and precedent all show that when the States ratified the Constitution, they did not implicitly consent to private damages actions filed in their own courts—whether authorized by Congress’ war powers or any other Article I power.  Because the Court today holds otherwise, I respectfully dissent.
+
+															I
+
+															After declaring independence, the former Colonies “considered themselves fully sovereign nations.”  Franchise Tax Bd. of Cal. v. Hyatt, 587 U. S. ___, ___ (2019) (slip op., at 6).  And, when the States ratified the Constitution, “they entered the Union ‘with their sovereignty intact,’ ” Federal Maritime Comm’n v. South Carolina Ports Authority,
+
+535 U.S. 743, 751 (2002) (quoting Blatchford v. Native Village of Noatak,
+
+501 U.S. 775, 779 (1991)), retaining “a substantial portion of the Nation’s primary sovereignty, together with the dignity and essential attributes inhering in that status,” Alden, 527 U. S., at 714.
+
+															“ ‘An integral component’ of the States’ sovereignty was ‘their immunity from private suits’ ” absent consent.  Franchise Tax Bd., 587 U. S., at ___ (slip op., at 6) (quoting Federal Maritime Comm’n, 535 U. S., at 751–752).  That “doctrine . . . was universal in the States when the Constitution was drafted and ratified,” Alden, 527 U. S., at 715–716; see also Hans v. Louisiana,
+
+134 U.S. 1, 16 (1890), because “[t]he generation that designed and adopted our federal system considered immunity from private suits central to sovereign dignity,” 527 U. S., at 715; see also, e.g., Federal Maritime Comm’n, 535 U. S., at 760.  In fact, sovereign immunity was so important that “[t]he Constitution never would have been ratified if the States and their courts were to be stripped of their sovereign authority except as expressly provided by the Constitution itself.”  Atascadero State Hospital v. Scanlon,
+
+473 U.S. 234, 239, n. 2 (1985); see also Ex parte New York,
+
+256 U.S. 490, 497 (1921); Alden, 527 U. S., at 716.
+
+															Although States generally retained their immunity from suit, “in ratifying the Constitution, [they] did surrender a portion of their inherent immunity.”  Federal Maritime Comm’n, 535 U. S., at 752.  As Alexander Hamilton explained in The Federalist, sovereign immunity was part of “the general sense and the general practice of mankind,” and the Constitution therefore left it “with the States” unless they had “surrender[ed]” some portion “of this immunity in the plan of the convention.”  The Federalist No. 81, pp. 487–488 (C. Rossiter ed. 1961); see also Hans, 134 U. S., at 13; Alden, 527 U. S., at 755.
+
+															During the Nation’s first 200 years, this Court recognized only two instances in which the States had surrendered their sovereign immunity in the constitutional plan, both of which involved suits prosecuted by other sovereigns.  The States had agreed to be sued by other States in this Court, see Principality of Monaco v. Mississippi,
+
+292 U.S. 313, 328 (1934), and by the United States in federal court, see United States v. Texas,
+
+143 U.S. 621, 644–645 (1892); Franchise Tax Bd., 587 U. S., at ___–___ (slip op., at 9–10).  When it came to private litigation, however, this Court long maintained that “the Framers thought it an impermissible affront to a State’s dignity to be required to answer the complaints of private parties in federal courts,” Federal Maritime Comm’n, 535 U. S., at 760, and that “the Convention did not disturb States’ immunity from private suits,” id., at 752.
+
+															Nevertheless, in the last two decades, the Court has recognized two surrenders of sovereign immunity in cases implicating private parties.  First, in Central Va. Community College v. Katz,
+
+546 U.S. 356 (2006), this Court held that States waived immunity against the federal discharge of debts when they ratified the Bankruptcy Clause.  And, in PennEast, 594 U. S. ___, it held that States waived immunity against condemnation proceedings brought by private parties to whom the Federal Government has delegated its eminent domain power.  Taken together, Katz and Penn-East centered on whether or not the plan of the Convention—i.e., the Constitution itself—required States to surrender their sovereign immunity.  See Katz, 546 U. S., at 379; PennEast, 594 U. S., at ___ (slip op., at 15).
+
+															These cases contrast with those that involve congressional “abrogation” of state sovereign immunity.  Abrogation rests on some “statement Congress ha[s] made on the subject of state sovereign immunity.”  Katz, 546 U. S., at 378–379.  Specifically, we have held that Congress must enact “unequivocal statutory language” abrogating States’ immunity.  Seminole Tribe of Fla. v. Florida,
+
+517 U.S. 44, 56 (1996) (internal quotation marks omitted).  That said, the line between “plan-of-the-Convention waiver” and “congressional abrogation” is a murky one.  Both inquiries ask the same basic question: whether Congress has authorized suit against a nonconsenting State pursuant to “a valid exercise of constitutional authority.”  Kimel v. Florida Bd. of Regents,
+
+528 U.S. 62, 78 (2000); see also Katz, 546 U. S., at 379 (asking whether Congress’ decision to bind States to discharge orders in bankruptcy proceedings is “within the scope of its power to enact ‘Laws on the subject of Bankruptcies’ ”).  And both inquiries center on “history, practice, precedent, and the structure of the Constitution,” Alden, 527 U. S., at 741, to determine whether the Constitution either grants authority to Congress to abrogate immunity or strips States of their immunity on its own.
+
+															The parties agree that this case involves only plan-of-the-Convention waiver.  Thus, the question presented is whether, in ratifying the Constitution, the States surrendered their immunity in their own courts against private damages actions authorized by Congress’ war powers.
+
+															II
+
+															In answering that question, the Court discounts two important points.  First, it creates a constitutional problem by adopting a questionable interpretation of USERRA that assumes Congress intended to legislate with indifference to States’ state-law immunity.  Second, the Court cannot escape the fact that Alden already answered the question presented and held that the States did not surrender their state-court immunity when ratifying Article I of the Constitution.
+
+															A
+
+															When it was originally enacted, USERRA authorized covered employees to sue States in federal district court.  See
+
+38 U. S. C. §4323(b) (1994 ed.).  In 1996, this Court decided Seminole Tribe, holding that Congress could not abrogate state sovereign immunity in federal courts using its Article I powers.  See 517 U. S., at 72–73.  In response to Seminole Tribe, Congress amended USERRA in 1998, and the statute now provides: “In the case of an action against a State (as an employer) by a person, the action may be brought in a State court of competent jurisdiction in accordance with the laws of the State.” §4323(b)(2) (emphasis added).
+
+															USERRA’s requirement that employee damages actions be “in accordance with the laws of the State” would seem to include a State’s “laws” that render it immune from suit in the State’s own courts, as well as any “laws” that expressly waive such immunity.  See, e.g., Tex. Govt. Code Ann. §311.034 (West 2013); Prairie View A & M Univ. v. Chatha, 381 S.W.3d 500, 512 (Tex. 2012).  In other words, there is nothing in the text of USERRA necessarily implying that Congress intended to require nonconsenting States to defend themselves in their own courts.[1]  The Court, however, breezes past USERRA’s language to conclude that the statute “authoriz[es] private litigation against noncompliant state employers that do not wish to consent to suit.”  Ante, at 4.[2]
+
+															To be clear, I am not disputing whether USERRA speaks clearly enough to express a congressional intent to “abrogate” the States’ sovereign immunity in their own courts; plan-of-the-Convention waiver asks whether the States surrendered that immunity when the Constitution was ratified and thus “agreed . . . not to assert that immunity” in particular contexts.  Katz, 546 U. S., at 373.  But even if the Constitution itself partially strips state sovereign immunity, it would still fall to Congress to decide whether, and on what terms, to render States amenable to suit, or to permit States to assert immunity.  Cf. id., at 379 (“Congress may, at its option, either treat States in the same way as other creditors insofar as concerns ‘Laws on the subject of Bankruptcies’ or exempt them from the operation of such laws”).
+
+															The Court should not casually consider the constitutionality of USERRA’s supposed subjection of nonconsenting States to damages actions in state court when it is not clear the statute does any such thing.  By doing so, the Court gives short shrift to the “well-established principle governing the prudent exercise of this Court’s jurisdiction that normally the Court will not decide a constitutional question if there is some other ground upon which to dispose of the case.”  Northwest Austin Municipal Util. Dist. No. One v. Holder,
+
+557 U.S. 193, 205 (2009) (internal quotation marks omitted).
+
+															B
+
+															Having interpreted USERRA to render nonconsenting States amenable to suit, the Court goes on to distinguish Alden v. Maine without any plausible basis for doing so.  In truth, Alden directly controls this case.
+
+															In Alden, a group of private plaintiffs sued the State of Maine in state court, invoking a private cause of action created by the Fair Labor Standards Act (FLSA).  See 527 U. S., at 711–712.  The question presented was “whether Congress has the power, under Article I, to subject nonconsenting States to private suits in their own courts.”  Id., at 730.  In a detailed opinion, the Court in Alden held—without qualification—that the States had not consented in the plan of the Convention to any congressionally created private damages actions in state court.
+
+															To begin, Alden framed its inquiry around plan-of-the-Convention waiver, not congressional abrogation: “In exercising its Article I powers Congress may subject the States to private suits in their own courts only if there is compelling evidence that the States were required to surrender this power to Congress pursuant to the constitutional design”—i.e., in the plan of the Convention.  Id., at 730–731 (emphasis added; internal quotation marks omitted); see also ante, at 4.  In determining whether such evidence existed, Alden began with the text of the Constitution.  See 527 U. S., at 731.  It recognized that Article I, §8, “grants . . . Congress broad powers to enact legislation in several enumerated areas of national concern”—including, of course, the war powers.  Ibid.  But neither the breadth of those powers nor their connection to “areas of national concern” sufficed to show that States ratified the Constitution with the understanding that they had surrendered to Congress any power to authorize private damages actions against them in their own courts.  See id., at 731–733.
+
+															Alden spoke emphatically and categorically when explaining why the States had effected no such surrender.  We found it telling that “no one, not even the Constitution’s most ardent opponents, suggested the document might strip the States of the[ir] immunity” from suit “in their own courts.”  Id., at 741.  That was likely because “the sovereign’s right to assert immunity from suit in its own courts was a principle so well established that no one conceived it would be altered by the new Constitution.”  Ibid. (emphasis added).  We explained how the founding generation’s concern that “Article III might be used to circumvent state-court immunity” counseled against “infer[ring] that the Constitution stripped the States of immunity in their own courts and allowed Congress to subject them to suit there.”  Id., at 743.  Rather, in light of the historical record, we found it “difficult to conceive that the Constitution would have been adopted if it had been understood to strip the States of immunity from suit in their own courts and cede to the Federal Government a power to subject nonconsenting States to private suits in these fora.”  Ibid.
+
+															Importantly, the scope of Alden’s holding was broad: “We hold that the powers delegated to Congress under Article I of the United States Constitution do not include the power to subject nonconsenting States to private suits for damages in state courts.”  Id., at 712; see also id., at 754.  That holding plainly applied to all Article I powers.  Thus, we did not engage in a clause-by-clause parsing of Article I’s various powers, nor did we even mention which Article I power authorized the FLSA.  It did not matter because the States would not have surrendered to Congress any of the immunity they enjoyed in their own courts.
+
+															Finally, concluding its analysis, Alden contrasted the States’ amenability to suit “by the United States on behalf of the employees” with a suit “by the employees” themselves, holding that “history, precedent, and the structure of the Constitution make clear that, under the plan of the Convention, the States have consented to suits of the first kind but not of the second.”  Id., at 759–760 (emphasis added).[3]  The question that Alden answered plainly embraces the one that the Court answers today.  And there is no serious dispute that Alden’s explicit holding is irreconcilable with the Court’s holding here.
+
+															*  *  *
+
+															Until today, Alden meant what it said.  Both Katz and PennEast considered plan-of-the-Convention waivers applicable to federal, not state, court.  See Katz, 546 U. S., at 360; PennEast, 594 U. S., at ___ (slip op., at 4).  Nothing in those decisions, therefore, undermined Alden’s categorical holding.[4] It is only the Court’s holding today that does so.  I would adhere to Alden and reaffirm that the States did not surrender the immunity applicable in their own courts when they delegated the enumerated powers—including the war powers—to Congress in Article I.  And, because Torres has not invoked a waiver of immunity under state law, I would affirm the judgment of the Texas Court of Appeals.
+
+															III
+
+															Even if Alden’s holding were not alone dispositive, thus requiring us to consider our “plan of the Convention” precedents applicable to private actions in federal court, I would still conclude that the States have not waived their immunity to private damages actions authorized by the war powers.
+
+															Our settled test for plan-of-the-Convention waiver is a stringent one: We cannot infer a waiver of sovereign immunity unless there is “compelling evidence that the Founders thought such a surrender inherent in the constitutional compact.”  Blatchford, 501 U. S., at 781; see also Alden, 527 U. S., at 731.  “Compelling evidence” of this sort includes “evidence of the original understanding of the Constitution,” id., at 741, “early congressional practice,” id., at 743, “the structure of the Constitution” itself, id., at 748, and the “theory and reasoning of our earlier cases,” id., at 745; see also id., at 754.
+
+															Applying this test, it is clear that the States did not implicitly agree to surrender their state-court immunity against congressional exercises of the war powers.
+
+															A
+
+															Torres claims (and the Court agrees) that the original understanding of the Constitution’s text implies that the States agreed to surrender their immunity against private actions authorized by Congress’ “war powers,” which include eight powers enumerated in Article I, §8, along with the Necessary and Proper Clause.  See Brief for Petitioner 4 (invoking Art. I, §8, cls. 1, 10–16, 18); see also ante, at 7 (listing Art. I, §8, cls. 1, 11–16).  In support of that argument, Torres and the Court point out that the war powers delegated to Congress are sweeping, and that Article I, §10, expressly and completely divests States of various war-related powers.  See ante, at 7–8; Brief for Petitioner 24.  This argument falters on at least two fronts.
+
+															First, Seminole Tribe long ago explained that the breadth and exclusivity of a federal power does not authorize Congress to subject nonconsenting States to private damages actions.  Seminole Tribe involved a federal cause of action created pursuant to Congress’ authority under the Indian Commerce Clause, see 517 U. S., at 60, which this Court has said grants Congress “ ‘plenary and exclusive’ ” “powers to legislate in respect to Indian tribes,” United States v. Lara,
+
+541 U.S. 193, 200 (2004).  Although Seminole Tribe recognized that States had been “divested of virtually all authority over Indian commerce and Indian tribes,” 517 U. S., at 62, the Court nonetheless held that “state sovereign immunity . . . is not so ephemeral as to dissipate when the subject of the suit is an area . . . that is under the exclusive control of the Federal Government,” id., at 72.  That “the Constitution vests in Congress complete lawmaking authority over a particular area,” we explained, does not implicitly authorize Congress to abrogate immunity with respect to that power.  Ibid.[5]
+
+															Nor is the answer different when the exclusive federal exercise of a particular power is reinforced by an explicit divestment of state authority under Article I, §10.  Our precedents teach that whenever a power is “exercised exclusively by Congress, the subject is as completely taken from the State Legislatures, as if they had been expressly forbidden to act on it.”  Sturges v. Crowninshield, 4 Wheat. 122, 193 (1819) (Marshall, C. J., for the Court) (emphasis added).  Whether or not a prohibition on state power also appears in Article I, §10, is irrelevant when deciding whether the Constitution has granted Congress power to subject nonconsenting States to private suits.
+
+															Second, even if express textual divestment of state power were relevant, Torres and the Court incorrectly conclude that the specific divestments listed in Article I, §10, “provide strong evidence” supporting “a complete delegation of authority to the Federal Government to provide for the common defense.”  Ante, at 7.  States obviously have no authority to take certain actions specified in Article I, §10.  They cannot, for example, “keep Troops, or Ships of War in time of Peace . . . unless actually invaded, or in such imminent Danger as will not admit of delay” without the consent of Congress.  Art. I, §10, cl. 3.  But to say that Congress’ much more general authority to “raise and support Armies,” Art. I, §8, cl. 12, acts to completely derogate all state authority related to the subject is inaccurate.
+
+															States have significant residual police powers that overlap with Congress’ power over the military.  For example, we have sustained state legislation related to the enlistment of men in the U. S. Army and Navy against the charge that “ ‘all power of legislation regarding the subject matter . . . is conferred upon Congress and withheld from the States.’ ”  Gilbert v. Minnesota,
+
+254 U.S. 325, 327–328 (1920).  In doing so, we rejected the idea “that a State has no interest or concern in the United States or its armies or power of protecting them from public enemies,” and eschewed any “[c]old and technical reasoning” that “insist[s] on a separation of the sovereignties” in the army-raising context.  Id., at 328–329.  Similarly, we have held that “there is no clause of the Constitution which purports, unaided by Congressional enactment, to prohibit” States from exercising their police powers in ways that arguably burden Congress’ “power to raise and support armies.”  Penn Dairies, Inc. v. Milk Control Comm’n of Pa.,
+
+318 U.S. 261, 269 (1943).  Nor have we “implied from the relationship of the two governments established by the Constitution” any such prohibition.  Ibid.  State regulations “inevitably impos[e] some burdens on the national government,” but those are the “normal incidents of the operation within the same territory of a dual system of government,” and they may persist “save as Congress may act to remove them.”  Id., at 271.  Therefore, even though the Army and Navy Clauses grant Congress “exclusive” authority over raising and supporting armies and navies, that exclusivity is no different from that which attends any other Article I power.
+
+															To nonetheless find plan-of-the-Convention waiver, as Torres proposes and the Court accepts, is to hold that a congressional power to pre-empt state law alone demonstrates a State’s surrender of sovereign immunity.  That line of reasoning, apart from being foreclosed by Seminole Tribe, proves too much.  The upshot is that the States would have consented in the plan of the Convention to surrender their immunity against the exercise of any Article I power.  Because such a result is a dramatic departure from our precedents, and the power granted to Congress under the Army and Navy Clauses does not displace state regulation any more readily or completely than other Article I powers, these arguments from constitutional text provide no sound basis for authorizing private actions against nonconsenting States.
+
+															B
+
+															Constitutional history and practice do Torres and the Court no better.  To begin, we must view the historical evidence in light of the “presumption that no anomalous and unheard-of proceedings or suits were intended to be raised up by the Constitution.”  Hans, 134 U. S., at 18; see also Alden, 527 U. S., at 727.  Applying that presumption, the Court in the past has “attribute[d] great significance” to the absence of analogous suits “at the time of the founding or for many years thereafter.”  Federal Maritime Comm’n, 535 U. S., at 755.[6]  Moreover, the presumption is arguably at its strongest here, for private damages actions were precisely “the type of proceedings from which the Framers would have thought the States possessed immunity.”  Id., at 756.  The Framers would have “thought it an impermissible affront to a State’s dignity” to require it “to defend itself in an adversarial proceeding against a private party.”  Id., at 760–761.
+
+															To overcome that presumption, Torres and the Court invoke some historical sources that generally discuss the scope and importance of Congress’ war-related powers.  See Brief for Petitioner 26–37; ante, at 8–9.  But virtually none of them addresses directly the central question here: whether the States understood that they had surrendered their sovereign immunity from suit in their own courts when delegating those powers to Congress.  Instead, the founding-era history is largely silent on this question, and that “silence is most instructive” in confirming that “no one conceived that [state sovereign immunity] would be altered by the new Constitution[’s]” distribution of war powers.  Alden, 527 U. S., at 741.  “[T]he Founders’ silence is best explained by the simple fact that no one . . . suggested the document might strip the States of [their] immunity” under the war powers.  Ibid.
+
+															More specifically, Torres (but not the Court) points to the 1783 Treaty of Paris.  He maintains that private actions would not have been anomalous to the Founders because they expected British creditors to sue States under the treaty in order to collect on their debts.  See Brief for Petitioner 27–31.  But it is not likely that the Founders did, in fact, expect foreign creditor suits against States; “it is more likely that they expected creditors to sue their individual debtors and rely on the Treaty to defeat any state law defenses.”  B. Clark, The
+ 
+Eleventh Amendment and the Nature of the Union, 123 Harv. L. Rev. 1817, 1910 (2010).  And when the
+ 
+Eleventh Amendment was adopted “to restore the original constitutional design” after Chisholm v. Georgia, 2 Dall. 419 (1793), Alden, 527 U. S., at 722, Congress refused “to make an exception for cases arising under treaties made under the authority of the United States,” id., at 721 (internal quotation marks omitted).  “Congress’ refusal to modify the text of the
+ 
+Eleventh Amendment to create an exception to sovereign immunity for cases arising under treaties” suggests that the States’ immunity from private-party litigation extended even to treaty-based claims.  Id., at 735; see also D. Currie, The Constitution in Congress: The Federalist Period 1789–1801, p. 197 (1997).
+
+															Early congressional practice accords with the Framers’ assumption that Congress could not use any Article I power to subject the States to private damages actions in their own courts.  In fact, we already have “discovered no instance in which [early Congresses] purported to authorize suits against nonconsenting States in [state courts].”  Alden, 527 U. S., at 744.  Contrasted against the numerous statutes authorizing other federal suits in state courts, it “appears early Congresses did not believe they had the power to authorize private suits against the States in their own courts.”  Ibid.
+
+															C
+
+															Constitutional structure also cuts decisively against inferring a surrender of state sovereign immunity in this context.  See id., at 748–754.
+
+															First and most fundamentally, all private suits against nonconsenting States present “ ‘the indignity of subjecting a State to the coercive process of judicial tribunals at the instance of private parties.’ ”  Id., at 749 (quoting In re Ayers,
+
+123 U.S. 443, 505 (1887)).  USERRA’s cause of action is uniquely offensive to the States’ dignity because it purports “to press a State’s own courts into federal service to coerce the other branches of the State,” thereby “turn[ing] the State against itself ” and “commandeer[ing] the entire political machinery of the State against its will and at the behest of individuals.”  Alden, 527 U. S., at 749.  That kind of “plenary federal control of state governmental processes denigrates the separate sovereignty of the States.”  Ibid.
+
+															Second, congressional authorization of private damages actions “threaten[s] the financial integrity of the States.”  Id., at 750.  It can “create staggering burdens” and give “Congress a power and a leverage over the States that is not contemplated by our constitutional design.”  Ibid.
+
+															Third, representative government itself is jeopardized when “deliberation by the political process established by the citizens of the State” is replaced with “judicial decree mandated by the Federal Government and invoked by the private citizen.”  Id., at 751.  Political accountability—“essential to our liberty and republican form of government”—breaks down when “the Federal Government asserts authority over a State’s most fundamental political processes.”  Ibid.[7]
+
+															Notwithstanding these countervailing structural concerns, both Torres and the Court think that constitutional structure supports finding plan-of-the-Convention waiver because confirming States’ sovereign immunity in their own courts would supposedly threaten the Federal Government’s “power to wage war successfully” and jeopardize the Nation’s safety.  Ante, at 11 (quoting Lichter v. United States,
+
+334 U.S. 742, 780 (1948); internal quotation marks omitted); Brief for Petitioner 26.  But this argument conflates the preservation of state sovereign immunity with a license to interfere with federal warmaking.  As we already cautioned in Alden, “The constitutional privilege of a State to assert its sovereign immunity in its own courts does not confer upon the State a concomitant right to disregard the Constitution or valid federal law.”  527 U. S., at 754–755.
+
+															For example, the Court notes that early Congresses “established military bonuses to reward service, even requiring Virginia to give land to some Revolutionary War officers.”  Ante, at 9 (citing Act of Aug. 10, 1790, ch. 40,
+
+1Stat.
+182).[8]  It asks, incredulously, “Could Virginia have refused to go along?”  Ante, at 9.  But that question is a non sequitur.  No one disputes “the supremacy of federal power in the area of military affairs.”  Perpich v. Department of Defense,
+
+496 U.S. 334, 351 (1990).  Instead, all agree that the United States could lawfully sue Virginia in federal court to secure an injunction requiring it to comply with federal law.  In fact, USERRA already authorizes suits by the United States to enforce USERRA’s requirements. §4323(a)(1).  And even if private suits were necessary to enforce the federal scheme, individuals could still sue in equity to enjoin state officials from violating federal law, see Ex parte Young,
+
+209 U.S. 123 (1908), or, if Congress authorizes it, pursue damages actions against such state officials in their individual capacities, see, e.g., Rev. Stat. §1979,
+
+42 U. S. C. §1983.  Ultimately, if the Court reaffirmed Texas’ sovereign immunity, “[e]stablished rules provide ample means to correct ongoing violations of law and to vindicate the interests which animate the Supremacy Clause.”  Alden, 527 U. S., at 757.
+
+															D
+
+															Finally, our precedents do not support finding a surrender of state sovereign immunity here.  As explained above, Alden is the most on-point precedent—and, in fact, our only recent precedent discussing States’ immunity from suit in their own courts.  It therefore disposes of this case.  Neither Katz nor PennEast supports a different result.
+
+															Katz found plan-of-the-Convention waiver based on the “singular nature” of bankruptcy jurisdiction and “the Bankruptcy Clause’s unique history.”  546 U. S., at 369, n. 9.  As the Court later explained, Katz “viewed bankruptcy as on a different plane, governed by principles all its own,” and nothing in its analysis “invites the kind of general, clause-by-clause reexamination of Article I” that the Court endorses today.  Allen v. Cooper, 589 U. S. ___, ___ (2020) (slip op., at 9) (internal quotation marks omitted).
+
+															For its part, PennEast emphasized several factors unique to the eminent domain context.  First, PennEast discussed the Federal Government’s long history of exercising the power of eminent domain—including its delegation of that power to private parties to take property within state boundaries.  See 594 U. S., at ___ (slip op., at 7).  Here, there is a long history showing that the Federal Government exercised its war powers, but there is no comparable history of the Federal Government using those powers to impose financial liabilities on States enforceable by private parties.  Nor is there any evidence demonstrating that any kind of judicial proceedings—let alone private damages actions—are “inextricably intertwined” with the war powers in the way that judicial condemnation actions are intertwined with eminent domain.  See supra, at 14–15, n. 6.
+
+															Second, PennEast emphasized that the Constitution vests the Federal Government “ ‘with full and complete power to execute and carry out its purposes’ ”—including the power of eminent domain—and that history shows that the Government may exercise that sovereign power through private delegatees.  594 U. S., at ___ (slip op., at 15).  Here, there is no argument that employees granted a cause of action under USERRA are “delegatees” of the war powers in any meaningful sense.
+
+															Third, PennEast reasoned that recognizing New Jersey’s immunity claim would require federal delegatees to take state property, thereby forcing States to file inverse condemnation actions for just compensation.  See id., at ___ (slip op., at 17).  The Court did not think that kind of arrangement “would vindicate the principles underlying state sovereign immunity,” including the principle of affording States “the respect owed them as joint sovereigns.”  Ibid. (internal quotation marks omitted).  Here, by contrast, there is no sense in which confirming Texas’ immunity would similarly undermine the principles underlying that immunity.
+
+															*  *  *
+
+															In the end, the “history, practice, precedent, and the structure of the Constitution” all demonstrate that States did not surrender their sovereign immunity in their own courts when Congress legislates pursuant to one of its war powers.  Alden, 527 U. S., at 741, 754.
+
+															IV
+
+															The Court nevertheless holds that States surrendered their sovereign immunity for any congressional causes of action passed pursuant to Article I’s Army and Navy Clauses.  Ante, at 11–12.[9]  To reach that conclusion, the Court adopts a test that even Torres did not press.  Relying exclusively on PennEast, the Court maintains that plan-of-the-Convention waiver distills to a single question: whether the federal power at issue is “ ‘complete in itself.’ ”  Ante, at 6 (quoting PennEast, 594 U. S., at ___ (slip op., at 22)).  If so, then the States have surrendered their sovereign immunity against any exercises of that power.  After framing the inquiry this way, the Court concludes that because Congress’ “power to build and maintain the Armed Forces” is “ ‘complete in itself,’ ” States necessarily relinquished their sovereign immunity against private damages actions authorized by that power.  Ante, at 6, 11.
+
+															In my view, the Court is asking the wrong question.  It unjustifiably asserts that the entire plan-of-the-Convention inquiry rests on whether a power is “complete in itself.”  Further, its “complete in itself ” standard misreads Penn-East, which suggested only that because the federal eminent domain power was “complete in itself ” and, by its nature, “inextricably intertwined” with judicial condemnation proceedings, States surrendered any sovereign immunity that would otherwise render the eminent domain power incomplete.  PennEast, 594 U. S., at ___ (slip op., at 17).  By saddling “completeness” with more analytical weight than it can bear, the Court has devised a method that has the certainty and objectivity of a Rorschach test.  Beyond its inconsistency with PennEast, this contrivance also threatens to rework or erase the Court’s prevailing sovereign immunity jurisprudence.
+
+															A
+
+															The sentence in PennEast upon which the Court fabricates its test for plan-of-the-Convention waiver reads as follows: “[T]he federal eminent domain power is ‘complete in itself,’ and the States consented to the exercise of that power—in its entirety—in the plan of the Convention.”  594 U. S., at ___ (slip op., at 22) (quoting Kohl v. United States,
+
+91 U.S. 367, 374 (1876); citation omitted).  The Court today claims that this sentence in PennEast reduced our decades-old State sovereign immunity jurisprudence to merely asking whether a federal power is “complete in itself.”  That cannot be correct.
+
+															The Court in PennEast borrowed the “complete in itself ” idea from Kohl, which had approved the Federal Government’s condemnation of private land to build a post office in Cincinnati, Ohio.  91 U. S., at 373–374.  Although the Federal Government had relied on Ohio’s eminent domain power, rather than its own, Kohl made clear that the Federal Government’s authority to condemn land did not depend upon state law.  In doing so, Kohl stated that “[i]f the United States have the [eminent domain] power, it must be complete in itself.”  Id., at 374.  “It can neither be enlarged nor diminished by a State.  Nor can any State prescribe the manner in which it must be exercised.  The consent of a State can never be a condition precedent to its enjoyment.”  Ibid.
+
+															Before PennEast, the phrase “complete in itself ” never appeared in our modern state sovereign immunity precedents.  PennEast itself invoked the concept for one purpose: to reject the contention that one could “[s]eparat[e] the eminent domain power from the power to condemn”—i.e., to disaggregate those “inextricably intertwined” powers—when determining whether the history of federal eminent domain supported finding a waiver of state sovereign immunity.  594 U. S., at ___ (slip op., at 17).  According to  PennEast, to deprive the Federal Government of a power to condemn property in judicial proceedings brought by private delegatees would be tantamount to depriving the Government of part of the eminent domain power itself, contrary to Kohl’s characterization of that power as “complete in itself.”  594 U. S., at ___–___ (slip op., at 17–18).
+
+															The Court today errs by attributing to Kohl an outsized role in PennEast’s sovereign immunity analysis.  The Court in PennEast never stated that “completeness in itself ” represented the governing test for plan-of-the-Convention waiver.  Likewise, PennEast made no effort to explain how the “complete in itself ” inquiry would work beyond the context of eminent domain.  And because PennEast did not invoke Kohl to break new doctrinal ground, the Court made no attempt to reconcile the “complete in itself ” inquiry with this Court’s longstanding sovereign immunity precedents (e.g., Alden, Seminole Tribe, Federal Maritime Comm’n, Hans, etc.).  Again, if PennEast had made “completeness in itself ” the applicable test, surely the Court would have discussed the concept more thoroughly.
+
+															The Court compounds its overreading of PennEast’s “complete in itself ” language by unjustifiably dismissing PennEast’s “inextricably intertwined” rationale as a mere “technical aspect” of the decision.  Ante, at 15.  PennEast is best read to stand for the proposition that, because every federal power must be “complete in itself,” the States surrendered their sovereign immunity with respect to any federal power that is “inextricably intertwined” with judicial proceedings, like eminent domain; otherwise, sovereign immunity would excuse the States from the judicial proceeding and the federal power would be incomplete. PennEast, 594 U. S., at ___–___ (slip op., at 16–17) (linking completeness of eminent domain power to condemnation proceedings).  Yet, now, the Court abandons the only limiting principle in PennEast’s test.[10]
+
+															That is mistaken.  To begin with, disaggregating the “complete in itself ” standard from PennEast’s “inextricably intertwined” justification renders meaningless the idea of “completeness” in the context of state sovereign immunity.  Consider the Court’s opinion here, which says that any federal power “complete in itself ” must be accompanied with a surrender of state sovereign immunity.  The Court does not define what it means for a federal power to be “complete in itself,” except that “ ‘the States consented to the exercise of that power—in its entirety—in the plan of the Convention.’ ”  Ante, at 6 (quoting PennEast, 594 U. S., at ___ (slip op., at 22)).  But that self-referential definition begs the question.  If the Court tied the “completeness” of a federal power to an inherent connection with judicial proceedings, it could give the term independent meaning and make sense of PennEast’s actual analysis.
+
+															Worse still, today’s decision removes the one important guardrail on the “completeness” inquiry that PennEast described.  Absent that limit, the Court’s indefinite test will provide future courts cover to further erode the States’ sovereign immunity.
+
+															B
+
+															To the extent that the Court’s new “complete in itself ” standard has any definable contours, it is inconsistent with our modern sovereign immunity doctrine and, in particular, Seminole Tribe.
+
+															As I noted above, the Court does not define what it means for a federal power to be “complete in itself ” under  PennEast and Kohl.  All we are told is that eminent domain and the powers to raise and support armies and navies are powers “complete” in themselves.  See ante, at 6, 11.
+
+															The Court’s “completeness” standard is indeterminate in large part because the Court fails to recognize that the concept of a federal power being “complete in itself ” long predates Kohl and means something quite different from what the Court says it does.  In fact, the phrase’s provenance in our jurisprudence dates back to no less seminal a decision than Chief Justice Marshall’s opinion in Gibbons v. Ogden, 9 Wheat. 1 (1824).  There, the Court stated that Congress’ power “[t]o regulate Commerce with foreign Nations, and among the several States,” U. S. Const., Art. I, §8, cl. 3, “like all others vested in Congress, is complete in itself, may be exercised to its utmost extent, and acknowledges no limitations, other than are prescribed in the constitution,” 9 Wheat., at 196 (emphasis added).
+
+															Gibbons’ discussion is revealing.  First, unlike the Court’s decision today, which attempts to cabin congressional powers that are “complete in themselves” to only a few, Gibbons is explicit that it considered every power vested in Congress to be “complete in itself.”  Ibid.  That understanding would explain why Kohl said that “[i]f the United States have the power, it must be complete in itself.”  91 U. S., at 374 (emphasis added).  Second, unlike the Court today, Gibbons defines what it means for a power to be complete in itself—the power “may be exercised to its utmost extent” with “no limitations” beyond those in Constitution itself.  9 Wheat., at 196.  In other words, the power is plenary as to those subjects to which it applies.  See id., at 197.
+
+															Gibbons’ understanding of a congressional power being “complete in itself ” was repeated by this Court time and time again for nearly two centuries.  Almost always, the Court used the term to refer to Congress’ authority to regulate interstate and foreign commerce.[11]  And, over time, the Court confirmed that because Congress’ power over interstate commerce “is plenary and complete in itself . . . [i]t follows that no form of state activity can constitutionally thwart the regulatory power granted by the commerce clause to Congress.”  United States v. Wrightwood Dairy Co.,
+
+315 U.S. 110, 119 (1942); see also Wickard v. Filburn,
+
+317 U.S. 111, 124 (1942).  This language echoes Kohl’s holding that the federal eminent domain power “can neither be enlarged nor diminished by a State.”  91 U. S., at 374.
+
+															Ignoring this long history about the very “completeness” standard that it purports to apply, the Court grasps for some basis to explain how its decision is consistent with this Court’s understanding of Congress’ commerce power in Seminole Tribe.  It asserts that Congress’ power under the Army and Navy Clauses is somehow “complete in itself ” while its power under the Commerce Clause is less than “complete” because “federal regulation of commerce (at issue in Seminole Tribe) involves goods that, before they travel between States or outside a tribe, are subject to regulation by a sovereign other than the Federal Government (a State or tribe).”  Ante, at 13.
+
+															But the Court’s proposed distinction makes no sense.  For one, it conflicts with the Court’s longstanding characterization of Congress’ commerce power as plenary.  See, e.g., Armour & Co. v. Virginia,
+
+246 U.S. 1, 6 (1918).  As long as the goods mentioned by the Court are in fact part of “interstate commerce,” then Congress has authority to regulate their travel at all times.  For another, it does nothing to distinguish Congress’ commerce power from its power to raise and maintain a military.  Following the Court’s logic, one could just as easily say that Congress’ power under the Army and Navy Clauses is “less than complete” because “federal regulation of soldiers involves men and women who, before they join the military, are subject to regulation by a sovereign other than the Federal Government.”  Despite the Court’s efforts, its “completeness” analysis simply fails to distinguish the Army and Navy Clauses from other Article I powers delegated to Congress in the plan of the Convention.[12]
+
+															Most troubling, however, is the clear parallel between the Court’s analysis today and the discredited approach to sovereign immunity that we rejected in Seminole Tribe.  For example, in Parden v. Terminal R. Co. of Ala. Docks Dept.,
+
+377 U.S. 184 (1964), the Court relied on Gibbons’ “complete in itself ” language to hold that “the States surrendered a portion of their sovereignty when they granted Congress the power to regulate commerce.”  Id., at 191; see also id., at 192.  Parden reasoned, not unlike the Court today, that “[t]he sovereign power of the states is necessarily diminished to the extent of the grants of power to the federal government in the Constitution,” and that granting Congress “plenary power to regulate commerce” amounts to a surrender of immunity.  Id., at 191 (internal quotation marks omitted).
+
+															Similarly, in Pennsylvania v. Union Gas Co.,
+
+491 U.S. 1 (1989), the plurality emphasized how “[i]t would be difficult to overstate the breadth and depth of the commerce power,” id., at 20, and how the “[t]he Commerce Clause with one hand gives power to Congress while, with the other, it takes power away from the States,” id., at 16.  In light of this dual grant of federal authority and divestment of state authority, the plurality thought Congress’ commerce power “would be incomplete without the authority to render States liable in damages.”  Id., at 19 (emphasis added).  To complete that congressional power, the plurality reasoned that “to the extent that the States gave Congress the authority to regulate commerce, they also relinquished their immunity where Congress found it necessary, in exercising this authority, to render them liable.”  Id., at 19–20.
+
+															We repudiated Parden and overruled Union Gas in Seminole Tribe.  See 517 U. S., at 66; see also College Savings Bank v. Florida Prepaid Postsecondary Ed. Expense Bd.,
+
+527 U.S. 666, 683 (1999) (Seminole Tribe “expressly repudiate[d]” Parden’s theory of plan-of-the-Convention waiver).  Therefore, if Seminole Tribe was right, then the Court’s decision today is wrong.  Hopefully, the Court will someday purge the newly fashioned “completeness” standard from our jurisprudence.
+
+															*  *  *
+
+															“Congress has ample means to ensure compliance with valid federal laws, but it must respect the sovereignty of the States.”  Alden, 527 U. S., at 758.  If the Court’s reading of USERRA is correct—and I am unsure it is, see supra, at 5–7—then Congress has not “accord[ed] States the esteem due to them as joint participants in a federal system.”  527 U. S., at 758.  To nonetheless deem USERRA constitutional, the Court brushes aside a 23-year-old, pathbreaking precedent, while elevating a single phrase, made in passing in a one-year-old, highly circumscribed precedent.  It then uses that phrase to fashion a test for plan-of-the-Convention waiver that mimics earlier attempts by this Court to deny States the dignity owed to them in our system of dual federalism.
+
+															Our sovereign States deserved better.  I respectfully dissent.
+Notes
+1
+ To be sure, if USERRA authorizes suits in state courts only “in accordance with the laws of the State,” the ability to bring such actions would vary by State—some States would consent to suit, others would not, and still others would be amenable to suit under the Supremacy Clause because their state courts were authorized to hear analogous state-law actions against the State.  See, e.g., Testa v. Katt,
+
+330 U.S. 386, 394 (1947).  But there is nothing strange about that lack of uniformity; in fact, a House Subcommittee considering the effect of Seminole Tribe of Fla. v. Florida,
+
+517 U.S. 44 (1996), on USERRA heard testimony suggesting that might be how things worked if covered employees sued in state courts.  See Hearing on USERRA et al. before the Subcommittee on Education, Training, Employment and Housing of the House Committee on Veterans’ Affairs, 104th Cong., 2d Sess., 90 (1996) (explaining that “the rights of state employees to recover under the USERRA might vary from state to state”). 
+
+2
+ The Court invokes
+
+38 U. S. C. §4302(b) to bolster its interpretation of §4323, see ante, at 12, but that provision supersedes only those state laws that abridge the “right[s]” and “benefit[s]” defined in §4303(2).  §4302(b).  Those “rights and benefits” are “all substantive rights”; they do not “deal with the procedure or process for enforcing those rights and benefits.”   Wysocki v. International Bus. Machine Corp., 607 F.3d 1102, 1106–1107 (CA6 2010).  Meanwhile, §4323 clearly applies to procedure and process and its plain text—“in accordance with the laws of the State”—gives no hint that Congress meant to supersede state laws governing state sovereign immunity in state courts. 
+
+3
+ The Court ignores all of this and instead invokes inapposite language elsewhere in Alden.  For instance, the Court emphasizes that Alden expressly recognized “ ‘the postulate that States . . . shall be immune from suits, without their consent, save where there has been “a surrender of this immunity in the plan of the convention.” ’ ” Ante, at 14 (quoting Alden, 527 U. S., at 730).  That is true enough, but beside the point.  After stating this “postulate,” Alden exhaustively evaluated constitutional history, precedent, and structure and expressly held that the States, “under the plan of the Convention, . . . have [not] consented to suits” filed by private individuals in state court.  Id., at 759–760 (emphasis added). 
+
+4
+ The Court asserts that “those opinions’ reasoning . . . is not so lim-ited” to render them inapplicable to state courts.  Ante, at 15.  But the reasoning in Katz is necessarily limited to federal courts, given that federal district courts have “original and exclusive jurisdiction” over all bankruptcy proceedings under Title 11.
+
+28 U. S. C. §1334(a).  Nor is it probable that PennEast silently carved an exception from Alden’s categorical rule.  The Framers did not even think to address state sovereign immunity in state courts because “the sovereign’s right to assert immunity from suit in its own courts was a principle so well established that no one conceived it would be altered by the new Constitution.”  Alden, 527 U. S., at 741.  We should not read PennEast to establish, without discussion, something inconceivable to the founding generation.  See 527 U. S., at 743. Similarly unconvincing is the Court’s assumption that “waiver pursuant to the plan of the Convention,” necessarily “displaces the background principles of state sovereign immunity wherever those suits proceed.”  Ante, at 15.  For instance, we have held that “the only forums in which the States have consented to suits by one another and by the Federal Government are Article III courts.”  Franchise Tax Bd. of Cal. v. Hyatt, 587 U. S. ___, ___ (2019) (slip op., at 10) (emphasis added).  A surrender of immunity in federal court therefore does not necessarily translate to a surrender of immunity in state court. 
+
+5
+ It is true that Seminole Tribe purportedly addressed congressional abrogation of sovereign immunity, rather than plan-of-the-Convention waiver.  But its logic applies equally to the latter context, especially given the murky line that our precedents draw between the two concepts.  See supra, at 4. 
+
+6
+ It is true that the Court in PennEast Pipeline Co. v. New Jersey, 594 U. S. ___ (2021), found plan-of-the-Convention waiver even in “the absence of a perfect historical analogue” to private condemnation suits by federal delegatees against States.  Id., at ___ (slip op., at 19).  But PennEast excused this absence of historically analogous actions because it refused to “divorce the eminent domain power from the power to bring condemnation actions,” given that “the eminent domain power is inextricably intertwined with the ability to condemn,” and “the federal eminent domain power was a means that was ‘known and appropriate’ at the time of the founding.”  Id., at ___–___, ___ (slip op., at 16–17, 19).  Thus, the PennEast holding turned on the unique connection between the eminent domain power, the ability to initiate condemnation proceedings, and the long history of Congress delegating its eminent domain to private parties.  See also infra, at 19–20. 
+
+7
+ These unique structural dangers posed by granting the Federal Government authority to turn the State against itself again show why the Court errs in concluding that precedents concerning plan-of-the-Convention waivers applicable to suits in federal court necessarily support waivers of immunity from suit in state court.  See ante, at 15; see also supra, at 10, n. 4. 
+
+8
+ The Court’s characterization of the Act of Aug. 10, 1790, as “requiring Virginia to give land to some Revolutionary War officers” “at the expense of state sovereignty,” ante, at 9, is deeply misleading.  Virginia had ceded the relevant lands to the United States in 1784, but conditionally reserved some of it for the State’s Revolutionary War soldiers.  See Wallace v. Parker, 6 Pet. 680, 687 (1832) (Marshall, C. J., for the Court).  The 1790 Act opened up the ceded land to those soldiers, and provided that the Secretary of War would send the Virginia Governor the names of those soldiers who were entitled to the land under Virginia law.  See §2,
+
+1Stat.
+183.  The 1790 Act also provided that the land would be surveyed, that the Executive Branch would draw up land patents for eligible soldiers, and that the Secretary of State would transmit those patents to the Virginia Governor who would, in turn, deliver the patents to the grantees.  See §§4–6, id., at 183–184.  At most, the 1790 Act required the Virginia Governor only to deliver advantageous federal land patents to the State’s own soldiers.  How that statute was enacted “at the expense of state sovereignty,” ante, at 9, is beyond me. 
+
+9
+ Although the Court lists the panoply of congressional “war powers” that Torres invokes, see ante, at 7, it appears to limit its holding today only to the Army and Navy Clauses, see ante, at 11–12.  In addition, although the Court’s “complete in itself ” inquiry is unsound, see infra, at 22–29, its opinion at least suggests that plan-of-the-Convention waiver may be found only if (1) the Constitution includes “many broad, interrelated provisions” delegating the relevant power to the Federal Government, ante, at 7; (2) the Constitution expressly “divests the States of like power” in Article I, §10, ante, at 7; and (3) the power at issue is “essential to the survival of the Union” and is “itself a foundational purpose” for abandoning the Articles of Confederation and “drafting the Constitution,” ante, at 13.  Until the Court jettisons this erroneous decision from its doctrine, plan-of-the-Convention waiver would appear to exist only under those circumstances. 
+
+10
+ My “quarrel” therefore does not “li[e] with PennEast,” ante, at 13, but with the Court’s decision today to convert PennEast’s “complete in itself ” language into an all-encompassing sovereign-immunity test that is divorced from PennEast’s “inextricably intertwined” principle. 
+
+11
+ See, e.g., Brown v. Maryland, 12 Wheat. 419, 446 (1827) (Marshall, C. J., for the Court) (a power “complete in itself ” is “coextensive with the subject on which it acts”); Kidd v. Pearson,
+
+128 U.S. 1, 17 (1888); Addyston Pipe & Steel Co. v. United States,
+
+175 U.S. 211, 228 (1899); Lottery Case,
+
+188 U.S. 321, 347 (1903); Second Employers’ Liability Cases,
+
+223 U.S. 1, 47 (1912); Hoke v. United States,
+
+227 U.S. 308, 323 (1913); United States v. Carolene Products Co.,
+
+304 U.S. 144, 147 (1938); United States v. Darby,
+
+312 U.S. 100, 114 (1941); Heart of Atlanta Motel, Inc. v. United States,
+
+379 U.S. 241, 254–255 (1964); Hodel v. Virginia Surface Mining & Reclamation Assn., Inc.,
+
+452 U.S. 264, 276 (1981); United States v. Lopez,
+
+514 U.S. 549, 553 (1995); see also South Carolina v. Katzenbach,
+
+383 U.S. 301, 327 (1966) (characterizing Congress’ authority under §2 of the
+ 
+Fifteenth Amendment as “ ‘complete in itself ’ ”). 
+
+12
+ The Court also makes what appears to be an alternative argument.  Invoking Hamilton’s discussion of state sovereignty in The Federalist, the Court says that States surrendered their sovereign immunity where the Constitution “ ‘granted an authority to the Union, to which a similar authority in the States would be absolutely and totally contradictory and repugnant.’ ”  Ante, at 4–5 (quoting The Federalist No. 32, p. 200 (J. Cooke ed. 1961)).  The Court then remarks, seemingly in dicta, that “an assertion of state sovereignty to frustrate federal prerogatives to raise and maintain military forces would be strongly ‘contradictory and repugnant’ to the constitutional order.”  Ante, at 13 (quoting The Federalist No. 32, at 200).  But that reasoning is hardly different from the argument made by Justice Souter when he dissented in Seminole Tribe with respect to the Indian Commerce Clause and Congress’ exclusive authority in that area.  See 517 U. S., at 148 (“[S]ince the States have no sovereignty in the regulation of commerce with the tribes, on Hamilton’s view there is no source of sovereign immunity to assert in a suit based on congressional regulation of that commerce”).  Similarly, the Court has often held that Congress’ power to regulate interstate and foreign commerce is also “exclusive.”  E.g., Cloverleaf Butter Co. v. Patterson,
+
+315 U.S. 148, 154–155 (1942); Board of Trustees of Univ. of Ill. v. United States,
+
+289 U.S. 48, 56–57 (1933).  So again, the Court cannot explain how its interpretation of Hamilton or its understanding of the war powers coheres with Seminole Tribe and does not sweep in other Article I powers like the Commerce Clause. 
+
+

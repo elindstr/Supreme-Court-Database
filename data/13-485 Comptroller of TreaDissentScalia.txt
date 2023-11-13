@@ -1,0 +1,118 @@
+::SCDB_caseID:: 2014-021
+::decision_cite:: 13-485
+::decision_name::  Comptroller of Treasury of Md. v. Wynne
+::decision_year:: 2015
+::opinion_author:: Scalia
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 13–485
+
+															_________________
+
+															COMPTROLLER OF THE TREASURY OF MARYLAND, PETITIONER v. BRIAN WYNNE et ux.
+
+															on writ of certiorari to the court of appeals of maryland
+
+															[May 18, 2015]
+
+															
+
+															Justice Scalia, with whom Justice Thomas joins as to Parts I and II, dissenting.
+
+															The Court holds unconstitutional Maryland’s refusal to give its residents full credits against income taxes paid to other States.  It does this by invoking the negative Commerce Clause, a judge-invented rule under which judges may set aside state laws that they think impose too much of a burden upon interstate commerce.  I join the principal dissent, which demonstrates the incompatibility of this decision with our prior negative Commerce Clause cases.  Post, at 2–14 (opinion of Ginsburg, J.).  Incompatibility, however, is not the test for me—though what is incompatible with our cases a fortiori fails my test as well, as discussed briefly in Part III below.  The principal purpose of my writing separately is to point out how wrong our negative Commerce Clause jurisprudence is in the first place, and how well today’s decision illustrates its error.
+
+															I
+
+															The fundamental problem with our negative Commerce Clause cases is that the Constitution does not contain a negative Commerce Clause.  It contains only a Commerce Clause.  Unlike the negative Commerce Clause adopted by the judges, the real Commerce Clause adopted by the People merely empowers Congress to “regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes.”  Art. I, §8, cl. 3.  The Clause says nothing about prohibiting state laws that burden commerce.  Much less does it say anything about authorizing judges to set aside state laws they believe burden commerce.  The clearest sign that the negative Commerce Clause is a judicial fraud is the utterly illogical holding that congressional consent enables States to enact laws that would otherwise constitute impermissible burdens upon interstate commerce.  See Prudential Ins. Co. v. Benjamin,
+
+328 U. S. 408
+–427 (1946).  How could congressional consent lift a constitutional prohibition?  See License Cases, 5 How. 504, 580 (1847) (opinion of Taney, C. J.).
+
+															The Court’s efforts to justify this judicial economic veto come to naught.  The Court claims that the doctrine “has deep roots.”  Ante, at 5.  So it does, like many weeds.  But age alone does not make up for brazen invention.  And the doctrine in any event is not quite as old as the Court makes it seem.  The idea that the Commerce Clause of its own force limits state power “finds no expression” in discussions surrounding the Constitution’s ratification.  F. Frankfurter, The Commerce Clause Under Marshall, Taney and Waite 13 (1937).  For years after the adoption of the Constitution, States continually made regulations that burdened interstate commerce (like pilotage laws and quarantine laws) without provoking any doubts about their constitutionality.  License Cases, supra, at 580–581.  This Court’s earliest allusions to a negative Commerce Clause came only in dicta—ambiguous dicta, at that—and were vigorously contested at the time.  See, e.g., id., at 581–582.  Our first clear holding setting aside a state law under the negative Commerce Clause came after the Civil War, more than 80 years after the Constitution’s adoption.  Case of the State Freight Tax, 15 Wall. 232 (1873).  Since then, we have tended to revamp the doctrine every couple of decades upon finding existing decisions unworkable or unsatisfactory.  See Quill Corp. v. North Dakota,
+
+504 U. S. 298,
+309 (1992)
+.  The negative Commerce Clause applied today has little in common with the negative Commerce Clause of the 19th century, except perhaps for incoherence.
+
+															The Court adds that “tariffs and other laws that burdened interstate commerce” were among “the chief evils that led to the adoption of the Constitution.”  Ante, at 5.  This line of reasoning forgets that interpretation requires heeding more than the Constitution’s purposes; it requires heeding the means the Constitution uses to achieve those purposes.  The Constitution addresses the evils of local impediments to commerce by prohibiting States from imposing certain especially burdensome taxes—“Imposts or Duties on Imports or Exports” and “Dut[ies] of Tonnage”—without congressional consent.  Art. I, §10, cls. 2–3.  It also addresses these evils by giving Congress a com-merce power under which it may prohibit other burdensome taxes and laws.  As the Constitution’s text shows, however, it does not address these evils by empowering the judiciary to set aside state taxes and laws that it deems too burdensome.  By arrogating this power anyway, our negative Commerce Clause cases have disrupted the balance the Constitution strikes between the goal of protecting commerce and competing goals like preserving local autonomy and promoting democratic responsibility.
+
+															II
+
+															The failings of negative Commerce Clause doctrine go beyond its lack of a constitutional foundation, as today’s decision well illustrates.
+
+															
+
+															1. One glaring defect of the negative Commerce Clause is its lack of governing principle.  Neither the Constitution nor our legal traditions offer guidance about how to sepa-rate improper state interference with commerce from permissible state taxation or regulation of commerce.  So we must make the rules up as we go along.  That is how we ended up with the bestiary of ad hoc tests and ad hoc exceptions that we apply nowadays, including the substantial nexus test, the fair apportionment test, and the fair relation test, Complete Auto Transit, Inc. v. Brady,
+
+430 U. S. 274,
+279 (1977)
+, the interest-on-state-bonds exception, Department of Revenue of Ky. v. Davis,
+
+553 U. S. 328
+–356 (2008), and the sales-taxes-on-mail-orders exception, Quill Corp., supra, at 314–319.
+
+															The internal consistency rule invoked by the Court nicely showcases our ad hocery.  Under this rule, a tax violates the Constitution if its hypothetical adoption by all States would interfere with interstate commerce.  Ante, at 19.  How did this exercise in counterfactuals find its way into our basic charter?  The test, it is true, bears some resemblance to Kant’s first formulation of the categorical imperative: “Act only according to that maxim whereby you can at the same time will that it should become a universal law” without contradiction.  Grounding for the Metaphysics of Morals 30 (J. Ellington transl. 3d ed. 1993).  It bears no resemblance, however, to anything in the text or structure of the Constitution.  Nor can one discern an obligation of internal consistency from our legal traditions, which show that States have been imposing internally inconsistent taxes for quite a while—until recently with our approval.  See, e.g., General Motors Corp. v. Washington,
+
+377 U. S. 436 (1964)
+ (upholding internally inconsistent business activities tax); Hinson v. Lott, 8 Wall. 148 (1869) (upholding internally inconsistent liquor tax).  No, the only justification for the test seems to be that this Court disapproves of “ ‘cross-border tax disadvantage[s]’ ” when created by internally inconsistent taxes, but is willing to tolerate them when created by “the interaction of . . . internally consistent schemes.”  Ante, at 19.  “Whatever it is we are expounding in this area, it is not a Constitution.”  American Trucking Assns., Inc. v. Smith,
+
+496 U. S. 167,
+203 (1990)
+ (Scalia, J., concurring in judgment).
+
+															
+
+															2. Another conspicuous feature of the negative Commerce Clause is its instability.  Because no principle anchors our development of this doctrine—and because the line between wise regulation and burdensome interference changes from age to economic age—one can never tell when the Court will make up a new rule or throw away an old one.  “Change is almost [the doctrine’s] natural state, as it is the natural state of legislation in a constantly changing national economy.”  Ibid.
+
+															Today’s decision continues in this proud tradition.  Consider a few ways in which it contradicts earlier decisions:
+
+															In an earlier case, the Court conceded that a trucking tax “fail[ed] the ‘internal consistency’ test,” but upheld the tax anyway.  American Trucking Assns., Inc. v. Michigan Pub. Serv. Comm’n,
+
+545 U. S. 429,
+437 (2005)
+.  Now, the Court proclaims that an income tax “fails the internal consistency test,” and for that reason strikes it down.  Ante, at 21.
+
+															In an earlier case, the Court concluded that “[i]t is not a purpose of the Commerce Clause to protect state residents from their own state taxes” and that residents could “complain about and change the tax through the [State’s] political process.”  Goldberg v. Sweet,
+
+488 U. S. 252,
+266 (1989)
+.  Now, the Court concludes that the negative Commerce Clause operates “regardless of whether the plaintiff is a resident . . . or nonresident” and that “the notion that [residents] have a complete remedy at the polls is fanciful.”  Ante, at 11, 12.
+
+															In an earlier case, the Court said that “[t]he difference in effect between a tax measured by gross receipts and one measured by net income . . . is manifest and substantial.”  United States Glue Co. v. Town of Oak Creek,
+
+247 U. S. 321,
+328 (1918)
+.  Now, the Court says that the “formal distinction” between taxes on net and gross income “should [not] matter.”  Ante, at 7.
+
+															In an earlier case, the Court upheld a tax despite its economic similarity to the gross-receipts tax struck down in Central Greyhound Lines, Inc. v. Mealey,
+
+334 U. S. 653 (1948)
+.  Oklahoma Tax Comm’n v. Jefferson Lines, Inc.,
+
+514 U. S. 175
+–191 (1995).  The Court explained that “economic equivalence alone has . . . not been (and should not be) the touchstone of Commerce Clause jurisprudence.”  Id., at 196–197, n. 7.  Now, the Court strikes down a tax in part because of its economic similarity to the gross-receipts tax struck down in Central Greyhound.  Ante, at 7.  The Court explains that “we must consider ‘not the formal language of the tax statute but rather its practical effect.’ ”  Ante, at 7–8.
+
+															So much for internal consistency.
+
+															
+
+															3. A final defect of our Synthetic Commerce Clause cases is their incompatibility with the judicial role.  The doctrine does not call upon us to perform a conventional judicial function, like interpreting a legal text, discerning a legal tradition, or even applying a stable body of precedents.  It instead requires us to balance the needs of commerce against the needs of state governments.  That is a task for legislators, not judges.
+
+															Today’s enterprise of eliminating double taxation puts this problem prominently on display.  The one sure way to eliminate all double taxation is to prescribe uniform national tax rules—for example, to allow taxation of income only where earned.  But a program of prescribing a national tax code plainly exceeds the judicial competence.  (It may even exceed the legislative competence to come up with a uniform code that accounts for the many political and economic differences among the States.)  As an alternative, we could consider whether a State’s taxes in practice overlap too much with the taxes of other States.  But any such approach would drive us “to the perplexing inquiry, so unfit for the judicial department, what degree of taxation is the legitimate use, and what degree may amount to an abuse of power.”  McCulloch v. Maryland, 4 Wheat. 316, 430 (1819).  The Court today chooses a third approach, prohibiting States from imposing internally inconsistent taxes.  Ante, at 19.  But that rule avoids double taxation only in the hypothetical world where all States adopt the same internally consistent tax, not in the real world where different States might adopt different internally consistent taxes.  For example, if Maryland imposes its income tax on people who live in Maryland regardless of where they work (one internally consistent scheme), while Virginia imposes its income tax on people who work in Virginia regardless of where they live (an-other internally consistent scheme), Marylanders who work in Virginia still face double taxation.  Post, at 17–18.  Then again, it is only fitting that the Imaginary Commerce Clause would lead to imaginary benefits.
+
+															III
+
+															For reasons of stare decisis, I will vote to set aside a tax under the negative Commerce Clause if (but only if) it discriminates on its face against interstate commerce or cannot be distinguished from a tax this Court has already held unconstitutional.  American Trucking Assns., 545 U. S., at 439 (Scalia, J., concurring in judgment).  The income tax before us does not discriminate on its face against interstate commerce; a resident pays no less to Maryland when he works in Maryland than when he works elsewhere.  Neither is the tax before us indistinguishable from one that we have previously held unconstitutional.  To the contrary, as the principal dissent establishes, our prior cases validate this tax.
+
+															*  *  *
+
+															Maryland’s refusal to give residents full tax credits against income taxes paid to other States has its disadvantages.  It threatens double taxation and encourages residents to work in Maryland.  But Maryland’s law also has its advantages.  It allows the State to collect equal revenue from taxpayers with equal incomes, avoids the administrative burdens of verifying tax payments to other States, and ensures that every resident pays the State at least some income tax.  Nothing in the Constitution precludes Maryland from deciding that the benefits of its tax scheme are worth the costs.
+
+															I respectfully dissent.
+													

@@ -1,0 +1,147 @@
+::SCDB_caseID:: 2020-029
+::decision_cite:: 19-422
+::decision_name::  Collins v. Yellen
+::decision_year:: 2021
+::opinion_author:: Sotomayor
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 19–422 and 19–563
+
+															_________________
+
+															PATRICK J. COLLINS, et al., PETITIONERS
+
+															19–422v.
+
+															JANET L. YELLEN, SECRETARY OF THE TREASURY, et al.
+
+															
+
+															JANET L. YELLEN, SECRETARY OF THE TREASURY, et al., PETITIONERS
+
+															19–563v.
+
+															PATRICK J. COLLINS, et al.
+
+															on writs of certiorari to the united states court of appeals for the fifth circuit
+
+															[June 23, 2021]
+
+															
+
+															Justice Sotomayor, with whom Justice Breyer joins, concurring in part and dissenting in part.
+
+															Prior to 2010, this Court had gone the greater part of a century since it last prevented Congress from protecting an Executive Branch officer from unfettered Presidential removal.  Yet today, for the third time in just over a decade, the Court strikes down the tenure protections Congress provided an independent agency’s leadership.
+
+															Last Term, the Court held in Seila Law LLC v. Consumer Financial Protection Bureau, 591 U. S. ___ (2020), that for-cause removal protection for the Director of the Consumer Financial Protection Bureau (CFPB) violated the separation of powers.  Id., at ___ (slip op., at 3).  As an “independent agency led by a single Director and vested with significant executive power,” the Court reasoned, the CFPB had “no basis in history and no place in our constitutional struc- ture.”  Id., at ___ (slip op., at 18).  Seila Law expressly distinguished the Federal Housing Finance Agency (FHFA), another independent Agency headed by a single Director, on the ground that the FHFA does not possess “regulatory or enforcement authority remotely comparable to that exercised by the CFPB.”  Id., at ___–___ (slip op., at 20–21).  Moreover, the Court found it significant that, unlike the CFPB, the FHFA “regulates primarily Government- sponsored enterprises, not purely private actors.”  Id., at ___ (slip op., at 20).
+
+															Nevertheless, the Court today holds that the FHFA and CFPB are comparable after all, and that any differences between the two are irrelevant to the constitutional separation of powers.  That reasoning cannot be squared with this Court’s precedents, least of all last Term’s Seila Law.  I respectfully dissent in part from the Court’s opinion and from the corresponding portions of the judgment.[1]
+
+															I
+
+															Congress created the FHFA in the Housing and Economic Recovery Act of 2008 (Recovery Act),
+
+12 U. S. C. §4501 et seq.  The FHFA supervises the Federal National Mortgage Association (Fannie Mae), the Federal Home Loan Mortgage Corporation (Freddie Mac), and the 11 Federal Home Loan Banks.  These 13 Government-sponsored entities (GSEs) provide liquidity and stability to the national housing market by, among other things, purchasing mortgage loans from, and offering financing to, private lenders.
+
+															The FHFA “establish[es] standards” for the GSEs relating to risk management, internal auditing, and minimum capital requirements.  §4513b(a).  If the FHFA believes a GSE may be failing to meet its requirements under the Act, the Agency may initiate administrative proceedings, §4581, issue subpoenas, §4517(g), and, in some circumstances, impose monetary penalties, §4585.  In the event a GSE falls into financial distress, the FHFA may appoint itself “conservator or receiver for the purpose of reorganizing, rehabilitating, or winding up” the GSE’s affairs.  §4617(a)(2).
+
+															In 2008, the FHFA put both Fannie Mae and Freddie Mac under conservatorship.  In 2016, shareholders of Fannie Mae and Freddie Mac (petitioners) sued the FHFA, challenging the Agency’s conservatorship decisions in part by arguing that the Agency’s structure is unconstitutional.  The FHFA is headed by a single Director, who serves a 5-year term and may be removed by the President “for cause.”  §4512(b)(2).  According to petitioners, the separation of powers requires the FHFA Director to be removable by the President at will.
+
+															II
+
+															Where Congress is silent on the question, the general rule is that the President may remove Executive Branch officers at will.  See Myers v. United States,
+
+272 U.S. 52, 126 (1926).  Throughout our Nation’s history, however, Congress has identified particular officers who, because of the nature of their office, require a degree of independence from Presidential control.  Those officers may be removed from their posts only for cause.  Often, Congress has granted financial regulators such independence in order to bolster public confidence that financial policy is guided by long-term thinking, not short-term political expediency.  See Seila Law, 591 U. S., at ___–___ (slip op., at 13–16) (Kagan, J., concurring in judgment with respect to severability and dissenting in part) (discussing examples).  Other times, Congress has provided tenure protection to officers who investigate other Government actors and thus might face conflicts of interest if directly controlled by the President.  See, e.g.,
+
+28 U. S. C. §596(a)(1) (making an independent counsel removable “only by the personal action of the Attorney General and only for good cause” or disability).
+
+															In a line of decisions spanning more than half a century, this Court consistently approved of independent agencies and independent counsels within the Executive Branch.  See Humphrey’s Executor v. United States,
+
+295 U.S. 602 (1935); Wiener v. United States,
+
+357 U.S. 349 (1958); Morrison v. Olson,
+
+487 U.S. 654 (1988).  In recent years, however, the Court has taken an unprecedentedly active role in policing Congress’ decisions about which officers should enjoy independence.  See Seila Law, 591 U. S. ___; Free Enterprise Fund v. Public Company Accounting Oversight Bd.,
+
+561 U.S. 477 (2010).  These decisions have focused almost exclusively on perceived threats to the separation of powers posed by limiting the President’s removal power, while largely ignoring the Court’s own encroachment on Congress’ constitutional authority to structure the Executive Branch as it deems necessary.
+
+															Never before, however, has the Court forbidden simple for-cause tenure protection for an Executive Branch officer who neither exercises significant executive power nor regulates the affairs of private parties.  Because the FHFA Director fits that description, this Court’s precedent,  separation-of-powers principles, and proper respect for Congress all support leaving in place Congress’ limits on the grounds upon which the President may remove the Director.
+
+															A
+
+															In Seila Law, the Court held that the CFPB Director, an individual with “the authority to bring the coercive power of the state to bear on millions of private citizens and businesses,” 591 U. S., at ___ (slip op., at 18), must be removable by the President at will.  In so holding, the Court declined to overrule Humphrey’s Executor and Morrison, which respectively upheld the independence of the Federal Trade Commission’s (FTC) five-member board and an independent counsel tasked with investigating Government malfeasance.  See 591 U. S., at ___ (slip op., at 27) (“[W]e do not revisit Humphrey’s Executor or any other precedent today”).  Instead, Seila Law opted not to “extend those precedents” to the CFPB, “an independent agency led by a single Director and vested with significant executive power.”  591 U. S., at ___ (slip op., at 18).[2]
+
+															The Court today concludes that the reasoning of Seila Law “dictates” that the FHFA is unconstitutionally structured because it, too, is led by a single Director.  Ante, at 26.  But Seila Law did not hold that an independent agency may never be run by a single individual with tenure protection.  Rather, that decision stated, repeatedly, that its holding was limited to a single-director agency with “significant executive power.”  591 U. S., at ___, ___, ___ (slip op., at 2, 18, 36).  The question, therefore, is not whether the FHFA is headed by a single Director, but whether the FHFA wields “significant” executive power.  It does not.
+
+															As a yardstick for measuring the constitutional significance of an agency’s executive power, Seila Law looked to the FTC as it existed at the time of Humphrey’s Executor (the 1935 FTC).  591 U. S., at ___–___ (slip op., at 16–17).  That agency had a roving mandate to prevent private individuals and corporations alike from engaging in “ ‘unfair methods of competition in commerce.’ ”  Humphrey’s Executor, 295 U. S., at 620 (citing
+
+15 U. S. C. §45).  To carry out its mandate, the 1935 FTC had broad authority to issue complaints and cease-and-desist orders.  295 U. S., at 620.  The agency also had “wide powers of investigation,” which it used to make recommendations to Congress, as well as the responsibility to assist courts in antitrust litigation by “ ‘ascertain[ing] and report[ing] an appropriate form of decree.’ ”  Id., at 621.
+
+															These powers may seem “significant” in a colloquial sense.  In Seila Law’s view, however, they did not rise to the level of constitutional significance.  That was in contrast to the CFPB’s powers, which far outstrip the 1935 FTC’s.  While the 1935 FTC’s ambit was limited to preventing unfair competition and violations of antitrust law, the CFPB “possesses the authority to promulgate binding rules fleshing out 19 federal statutes, including a broad prohibition on unfair and deceptive practices in a major segment of the U. S. economy.”  Seila Law, 591 U. S., at ___ (slip op., at 17). While the 1935 FTC could issue cease-and- desist orders and recommended dispositions, the CFPB “may unilaterally issue final decisions awarding legal and equitable relief in administrative adjudications” and “seek daunting monetary penalties against private parties on behalf of the United States in federal court.”  Ibid.  Far from a “mere legislative or judicial aid” like the 1935 FTC, ibid., the CFPB is a “mini legislature, prosecutor, and court, responsible for creating substantive rules for a wide swath  of industries, prosecuting violations, and levying knee- buckling penalties against private citizens,” id., at ___, n. 8 (slip op., at 21, n. 8).
+
+															Measured against such standards, the FHFA comfortably fits within the same category of constitutional insignificance as the 1935 FTC.  To some, the CFPB Director was “the single most powerful official in the entire U. S. Government, other than the President, at least when measured in terms of unilateral power.”  PHH Corp. v. Consumer Financial Protection Bur., 881 F.3d 75, 171 (CADC 2018) (Kavanaugh, J., dissenting).  The FHFA Director is not one of the most powerful officials in the U. S. Government.  As the Court recognized in Seila Law, the FHFA does “not involve regulatory or enforcement authority remotely comparable to that exercised by the CFPB.”  591 U. S., at ___ (slip op., at 20–21).
+
+															The FHFA’s authority is much closer to (and, in some respects, far less than) that of the 1935 FTC.  Like the 1935 FTC, the FHFA oversees regulated entities and gathers specified information from them on Congress’ behalf.  Unlike the 1935 FTC, however, which was tasked with implementing the Nation’s antitrust laws and policing unfair competition, the FHFA is limited to specified duties under the Recovery Act.  Furthermore, while the 1935 FTC had jurisdiction over countless individuals and corporations, the FHFA regulates just 13 GSEs.
+
+															Moreover, one of the FHFA’s main powers is assuming the mantle of conservatorship or receivership over the GSEs, which hardly registers as executive at all.  When acting as a conservator or receiver, an agency like the FHFA “ ‘steps into the shoes’ ” of the party under distress, O’Melveny & Myers v. FDIC,
+
+512 U.S. 79, 86 (1994), and largely “ ‘shed[s] its government character,’ ” Herron v. Fannie Mae, 861 F.3d 160, 169 (CADC 2017).  Even granting that there are differences between the FHFA’s powers as a conservator and those of a common-law conservator, “the FHFA’s conservatorship function [is] a role one would be hard-pressed to characterize as near the heart of executive power.”  Collins v. Mnuchin, 938 F.3d 553, 620 (CA5 2019) (Higginson, C. J., dissenting in part).
+
+															To be sure, the FHFA has at least one executive power that the 1935 FTC did not: the power to impose fines.  But that fining authority is quite limited.  The FHFA may impose fines on the 13 GSEs it regulates for failing to meet their reporting requirements and housing goals under the Recovery Act and for violating the requirements of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992,
+
+106Stat.
+3941.  See 12 U. S. C. §§4585, 4636.  Petitioners point to no instance in the Agency’s 13-year history in which it has ever fined a GSE.[3]
+
+															That is not to say that the FHFA possesses no executive authority whatsoever.  It does.  But the 1935 FTC, too, possessed executive authority, just not enough to be “significant.”  See Seila Law, 591 U. S., at ___, n. 2 (slip op., at 14, n. 2) (“ ‘[I]t is hard to dispute that the powers of the FTC at the time of Humphrey’s Executor would at the present time be considered “executive,” at least to some degree’ ” (quoting Morrison, 487 U. S., at 690, n. 28)).  When measured against the benchmark of the 1935 FTC, the FHFA does not possess “significant executive power” within the meaning of Seila Law.  It is in “an entirely different league” from the CFPB.  591 U. S., at ___, n. 8 (slip op., at 21, n. 8).
+
+															B
+
+															Because the FHFA does not possess significant executive power, the question under Seila Law is whether this Court’s decisions upholding for-cause removal provisions in Humphrey’s Executor and Morrison should be “extend[ed]” to the FHFA Director.  591 U. S., at ___ (slip op., at 18).  The clear answer is yes.
+
+															Not only does the FHFA lack significant executive power, the authority it does possess is exercised over other governmental actors.  In that respect, the FHFA Director mimics the independent counsel whose tenure protections were upheld in Morrison.  The independent counsel, as Seila Law noted, could bring criminal prosecutions and thus “wielded core executive power.”  591 U. S., at ___ (slip op., at 18).  Separation-of-powers concerns were allayed, however, because “that power, while significant, was trained inward to high-ranking Governmental actors identified by others.”  Ibid.  In explaining why “[t]he logic of Morrison” did “not apply” to the CFPB, Seila Law emphasized that the CFPB “has the authority to bring the coercive power of the state to bear on millions of private citizens and businesses.”  Id., at ___–___ (slip op., at 17–18).
+
+															Morrison’s logic may not have applied to the CFPB, but it certainly applies to the FHFA.  The FHFA’s executive power, too, is “trained inward,” on the 13 GSEs “identified by” the Recovery Act.  Seila Law, 591 U. S., at ___ (slip op., at 18).  While the GSEs are now privately owned, they still operate under congressional charters, see
+
+12 U. S. C. §4501(1), serve “important public missions,” ibid., and receive preferential treatment under law by dint of their Government affiliation, §1719.[4]  Seila Law itself distinguished the CFPB from the FHFA precisely on the basis that the latter Agency “regulates primarily Government-sponsored enterprises, not purely private actors.”  591 U. S., at ___ (slip op., at 20).
+
+															Historical considerations further confirm the constitutionality of the FHFA Director’s independence.  Single- director independent agencies with limited executive power, like the FHFA, boast a more storied pedigree than do single-director independent agencies with significant ex- ecutive power, like the CFPB.  Consider three such examples, each discussed in Seila Law.  First, the Comptroller of the Currency, who was briefly independent from Presidential removal during the Civil War and thereafter retained a lesser form of tenure protection.  Id., at ___ (slip op., at 19).  Second, the Office of Special Counsel, which has been “headed by a single officer since 1978.”  Id., at ___–___ (slip op., at 19–20).  Third, the Social Security Administration, which has been “run by a single Administrator since 1994.”  Id., at ___ (slip op., at 20).  Like the FHFA, these examples lack “regulatory or enforcement authority remotely comparable to that exercised by the CFPB.”  Id., at ___–___ (slip op., at 20–21).  While these agencies thus offered “no foothold in history or tradition” for the CFPB, id., at ___ (slip op., at 21), they provide historical support for an agency with the FHFA’s limited purview.
+
+															The FHFA also draws on a long tradition of independence enjoyed by financial regulators, including the Comptroller of the Treasury, the Second Bank of the United States, the Federal Reserve Board, the Securities and Exchange Commission, the Commodity Futures Trading Commission, and the Federal Deposit Insurance Corporation.  See id., at ___–___ (slip op., at 12–16) (opinion of Kagan, J.).  The public has long accepted (indeed, expected) that financial regulators will best perform their duties if separated from the political exigencies and pressures of the present moment.
+
+															In Seila Law, this tradition of independence was of little help to the CFPB because, “even assuming financial institutions . . . can claim a special historical status,” the CFPB’s unique powers put it “in an entirely different league” from other financial regulators.  Id., at ___, n. 8 (majority opinion) (slip op., at 21, n. 8).  In contrast, the FHFA’s function as a monitor of regulated entities important to economic stability makes the FHFA far more similar to historically independent financial regulators than to the CFPB.  See FHFA, Performance and Accountability Report 18 (2020) (“The [Recovery Act] vests FHFA with the authorities, similar to those of other prudential financial regulators, to maintain the financial health of the regulated entities”).
+
+															To recap, the FHFA does not wield significant executive power, the executive power it does wield is exercised over Government affiliates, and its independence is supported by historical tradition.  All considerations weigh in favor of recognizing Congress’ power to make the FHFA Director removable only for cause.
+
+															III
+
+															The Court disagrees.  After Seila Law, the Court reasons, all that matters is that “[t]he FHFA (like the CFPB) is an agency led by a single Director.”  Ante, at 26.  From that, the unconstitutionality of the FHFA Director’s independence follows virtually a fortiori.  The Court reaches that conclusion by disavowing the very distinctions it relied upon just last Term in Seila Law in striking down the CFPB Director’s independence.
+
+															On three separate occasions, Seila Law stated that its holding applied to single-director independent agencies with “significant executive power.”  See 591 U. S., at ___, ___, ___ (slip op., at 2, 18, 36).  Remarkably, those words appear nowhere in today’s decision.  Instead, the Court appears to take the position that exercising essentially any executive power whatsoever is enough.  Ante, at 27–29.  In terms of explanation, the Court says that it is “not well-suited to weigh the relative importance of the regulatory and enforcement authority of disparate agencies” and that it “do[es] not think that the constitutionality of removal restrictions hinges on such an inquiry.”  Ante, at 29.
+
+															The Court’s position unduly encroaches on Congress’ judgments about which executive officers can and should enjoy a degree of independence from Presidential removal, and it cannot be squared with Seila Law, which relied extensively on such agency comparisons. Not only did Seila Law contrast the CFPB’s powers against those of the 1935 FTC in Humphrey’s Executor, see 591 U. S., at ___–___ (slip op., at 16–17), as well as the independent counsel in Morrison, see 591 U. S., at ___–___ (slip op., at 17–18), it concluded that the FHFA (along with the Comptroller of the Currency, the Office of Special Counsel, and the Social Security Administration) does not possess “regulatory or enforcement authority remotely comparable to that exercised by the CFPB.”  Id., at ___–___ (slip op., at 20–21).  Those distinctions underpinned Seila Law’s proclamation that the CFPB had “no basis in history and no place in our constitutional structure.”  Id., at ___ (slip op., at 18).  In the Court’s view today, however, all of those comparisons were irrelevant to the bottom-line question whether the CFPB Director’s tenure protections comport with the Constitution.
+
+															The Court today also suggests that whether an agency regulates private individuals or Government actors does not meaningfully affect the separation-of-powers analysis.  Ante, at 30–31 (“[T]he President’s removal power serves important purposes regardless of whether the agency in question affects ordinary Americans by directly regulating them or by taking actions that have a profound but indirect effect on their lives”). That, too, is flatly inconsistent with Seila Law, which returned repeatedly to this consideration.  Not only did Seila Law distinguish the CFPB from the independent counsel in Morrison on this basis, see 591 U. S., at ___ (slip op., at 18), it distinguished the CFPB from both the FHFA and the Office of Special Counsel for the same reason, see id., at ___ (slip op., at 20).  That the Court is unwilling to stick to the methodology it articulated just last Term in Seila Law is a telltale sign that the Court’s  separation-of-powers jurisprudence has only continued to lose its way.
+
+															IV
+
+															The Court has proved far too eager in recent years to insert itself into questions of agency structure best left to Congress.  In striking down the independence of the FHFA Director, the Court reaches further than ever before, refusing tenure protections to an Agency head who neither wields significant executive power nor regulates private individuals.  Troublingly, the Court justifies that result by ignoring the standards it set out just last Term in Seila Law.  Because I would afford Congress the freedom it has long possessed to make officers like the FHFA Director independent from Presidential control, I respectfully dissent.
+Notes
+1
+ I join Parts I and II of the Court’s opinion rejecting petitioners’ argument that the FHFA actions under review violated the Housing and Economic Recovery Act of 2008, as well as Part III–C discussing what the appropriate remedial implications would be if the FHFA Director’s for-cause removal protection were unconstitutional.  I join also Part II of Justice Kagan’s concurrence concerning the proper remedial analysis for the Fifth Circuit to conduct on remand.  Finally, I note that Justice Thomas’ arguments that an improper removal restriction does not necessarily render agency action unlawful warrant further consideration in an appropriate case. 
+
+2
+ As Justice Kagan explained in dissent, Seila Law rested on implausible recharacterizations of this Court’s separation-of-powers jurisprudence.  I continue to believe that Seila Law was wrongly decided.  Whatever the merits of that decision, however, it does not support invalidating the FHFA Director’s independence. 
+
+3
+ By comparison, the CFPB has fined private actors billions of dollars.  Seila Law LLC v. Consumer Financial Protection Bureau, 591 U. S. ___, ___ (2020) (slip op., at 5). 
+
+4
+ The GSEs’ ongoing ties with the Government long fueled public perception that the Government would intervene if the GSEs were in danger of collapse.  See Congressional Research Serv., Fannie Mae and Freddie Mac in Conservatorship: Frequently Asked Questions 2 (updated May 31, 2019) (noting that it was “widely believed prior to 2008 that the federal government was an implicit backstop for the GSEs in light of their congressional charters”).  This perception became reality during the 2008 financial crisis, when the Treasury Department extended hundreds of billions of dollars in credit to Fannie Mae and Freddie Mac, and the FHFA put those entities under conservatorship. 
+
+

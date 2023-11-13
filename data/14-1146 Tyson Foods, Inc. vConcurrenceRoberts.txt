@@ -1,0 +1,68 @@
+::SCDB_caseID:: 2015-018
+::decision_cite:: 14-1146
+::decision_name::  Tyson Foods, Inc. v. Bouaphakeo
+::decision_year:: 2016
+::opinion_author:: Roberts
+::opinion_type:: Concurrence
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															No. 14–1146
+
+															_________________
+
+															TYSON FOODS, INC., PETITIONER v. PEG BOUAPHAKEO, et al., individually and on behalfof all others similarly situated
+
+															on writ of certiorari to the united states court of appeals for the eighth circuit
+
+															[March 22, 2016]
+
+															
+
+															Chief Justice Roberts, with whom Justice Alito joins as to Part II, concurring.
+
+															Petitioner Tyson Foods presents two primary arguments.  First, it claims that class certification was im-proper because each individual plaintiff spent different amounts of time donning and doffing protective gear.  Therefore, according to Tyson, whether and to what extent it owed damages to each individual employee for uncompensated overtime was not a question capable of resolution on a class-wide basis.  Second, Tyson argues that the verdict cannot stand because, while no one disputes that the class as certified contains hundreds of uninjured employees, the plaintiffs have not come up with any way to ensure that those employees do not recover damages from the jury’s lump-sum award.
+
+															The Court rejects the first argument and leaves the second for initial resolution by the lower courts.  I join the Court’s opinion in full.  I write separately to explain my understanding of the Court’s resolution of the case and to express my concern that the District Court may not be able to fashion a method for awarding damages only to those class members who suffered an actual injury.
+
+															I
+
+															A class may be certified under Federal Rule of Civil Procedure 23(b)(3) only if “questions of law or fact common to class members predominate over any questions affecting only individual members.”  A common question is one in which “the issue is susceptible to generalized, class-wide proof.”  Ante, at 9 (quoting 2 W. Rubenstein, Newberg on Class Actions §4:50, pp. 196–197 (5th ed. 2012)) (internal quotation marks omitted).
+
+															To prove liability and damages, respondents had to establish the amount of compensable (but uncompensated) donning and doffing time for each individual plaintiff.  The Court properly concludes that despite the differences in donning and doffing time for individual class members, respondents could adequately prove the amount of time for each individual through generalized, class-wide proof.  That proof was Dr. Mericle’s representative study.  As the Court observes, “each class-member could have relied on that [study] to establish liability if he or she had brought an individual action.”  Ante, at 11.  And when representative evidence would suffice to prove a plaintiff’s individual claim, that evidence cannot be deemed improper merely because the claim is brought as part of a class action.  See ante, at 10–11.
+
+															I agree with Justice Thomas that our decision in Anderson v. Mt. Clemens Pottery Co.,
+
+328 U. S. 680 (1946)
+, does not provide a “special, relaxed rule authorizing plaintiffs to use otherwise inadequate representative evidence in FLSA-based cases.”  Post, at 7 (dissenting opinion).  But I do not read the Court’s opinion to be inconsistent with that conclusion.  Rather, I take the Court to conclude that Dr. Mericle’s study constituted sufficient proof from which the jury could find “the amount and extent of [each individual respondent’s] work as a matter of just and reasonable inference”—the same standard of proof that would apply in any case.  Ante, at 12 (internal quotation marks omitted).  It is with that understanding that I join the opinion of the Court.
+
+															II
+
+															As for Tyson’s second argument, it is undisputed that hundreds of class members suffered no injury in this case.  See Brief for Respondents 52–53; Tr. of Oral Arg. 30.  The question is: which ones?  The only way to know is to figure out how much donning and doffing time the jury found Tyson owed the workers in each department.  But the jury returned a lump-sum verdict of $2.9 million on a class-wide basis, without specifying any particular amount of donning and doffing time used to calculate that number.  If we knew that the jury had accepted the plaintiffs’ proposed average donning and doffing times in calculating the verdict, we could easily overcome this problem.  But we know the jury did no such thing.  And with no way to reverse engineer the verdict to determine how much donning and doffing time the jury found Tyson owed workers in each department, we do not know which plaintiffs the jury found to be injured (or not).
+
+															Tyson contends that unless the District Court can fashion a means of identifying those class members not entitled to damages, it must throw out the jury’s verdict and decertify the class.  I agree with the Court’s decision to leave that issue to be addressed in the first instance by the District Court.  But I am not convinced that the District Court will be able to devise a means of distributing the aggregate award only to injured class members.
+
+															As the Court explains, each plaintiff in this case suffered actual harm only if he: (1) was not compensated for at least some compensable donning and doffing time; and (2) worked more than 40 hours in a workweek, including any compensable donning and doffing time.  See ante, at 16–17.  In other words, it is not enough that a plaintiff was uncompensated for compensable donning and doffing time; unless that plaintiff also worked more than 40 hours in a week (including compensable donning and doffing time), he is owed no overtime pay and therefore suffered no injury.
+
+															If the jury credited Dr. Mericle’s averages—18 minutes per day of donning and doffing time for employees in the fabrication (cut and retrim) departments, 21.25 for employees in the kill department—the District Court could have assumed that the jury found that each plaintiff from those departments donned and doffed the average amounts of time and used those averages to determine which plaintiffs had worked more than 40 hours (and awarded damages on that understanding).
+
+															The problem is that the jury obviously did not credit Dr. Mericle’s averages.  According to Dr. Fox, another of the plaintiffs’ experts, those averages would have resulted in a $6.7 million verdict across the 3,344 member class.  Ante, at 7.  The jury, however, awarded the plaintiffs only $2.9 million.
+
+															How, then, did the jury arrive at that $2.9 million figure?  The jury might have determined that Dr. Mericle’s average was correct for the kill department, but overstated for the fabrication departments.  Or vice versa.  Or thejury might have found that Dr. Mericle’s averages overstated the donning and doffing time in all departments, by varying degrees.  Any of those conclusions would have been permissible on these facts, and any of those options would have reduced the jury verdict from the $6.7 million proposed by Dr. Fox.  But in arriving at the $2.9 million verdict, we have no way of knowing how much donning and doffing time the jury actually found to have occurred in the kill and fabrication departments, respectively.
+
+															And there’s the rub.  We know that the jury must have found at least one of Dr. Mericle’s two averages to be too high.  And we know, as Dr. Fox testified, that if Dr. Mericle’s averages were even slightly too high, hundreds of class members would fall short of the 40-hour workweek threshold that would entitle them to damages.  See post, at 5–6.  But because we do not know how much donning and doffing time the jury found to have occurred in each department, we have no way of knowing which plaintiffs failed to cross that 40-hour threshold.
+
+															To illustrate: Take a fabrication employee and a kill employee, each of whom worked a 39-hour workweek before counting any compensable donning and doffing time.  If the jury credited Dr. Mericle’s kill department average but discounted his fabrication average to below one hour per week, the jury would have found that the kill employee was injured, while the fabrication employee was not.  But the jury also might have done the exact opposite.  We just don’t know—and so we have no way to determine which plaintiffs the jury concluded were injured.
+
+															The plaintiffs believe they can surmount this obstacle.  As the Court explains, they propose to work backward from the damages award by assuming that each employee donned and doffed for an identical amount of time.  Ante, at 16–17.  That won’t work, however, because there is no indication that the jury made the same assumption.  Indeed, the most reasonable guess is that the jury did not find that employees in different departments donned and doffed for identical amounts of time.  After all, the plaintiffs’ own expert indicated that employees in different departments donned and doffed for different amounts of time.
+
+															Given this difficulty, it remains to be seen whether the jury verdict can stand.  The Court observes in dicta that the problem of distributing the damages award “appears to be one of petitioner’s own making.”  Ante, at 17.  Perhaps.  But Tyson’s insistence on a lump-sum jury award cannot overcome the limitations placed on the federal courts by the Constitution.  Article III does not give fed-eral courts the power to order relief to any uninjured plain-tiff, class action or not.  The Judiciary’s role is limited “to provid[ing] relief to claimants, in individual or class actions, who have suffered, or will imminently suffer, actual harm.”  Lewis v. Casey,
+
+518 U. S. 343,
+349 (1996)
+.  Therefore, if there is no way to ensure that the jury’s damages award goes only to injured class members, that award cannot stand.  This issue should be considered by the District Court in the first instance.  As the Court properly concludes, the problem is not presently ripe for our review.
+													

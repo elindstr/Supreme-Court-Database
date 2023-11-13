@@ -1,0 +1,391 @@
+::SCDB_caseID:: 2017-002
+::decision_cite:: 16-285
+::decision_name::  Epic Systems Corp. v. Lewis
+::decision_year:: 2018
+::opinion_author:: Ginsburg
+::opinion_type:: Dissent
+::opinion:: 
+
+															
+															SUPREME COURT OF THE UNITED STATES
+
+															_________________
+
+															Nos. 16–285, 16–300, 16–307
+
+															_________________
+
+															EPIC SYSTEMS CORPORATION, PETITIONER
+
+															16–285v.
+
+															JACOB LEWIS;
+
+															on writ of certiorari to the united states court of appeals for the seventh circuit
+
+															
+
+															ERNST & YOUNG LLP, et al., PETITIONERS
+
+															16–300v.
+
+															STEPHEN MORRIS, et al.; AND
+
+															on writ of certiorari to the united states court of appeals for the ninth circuit
+
+															
+
+															NATIONAL LABOR RELATIONS BOARD, PETITIONER
+
+															16–307v.
+
+															MURPHY OIL USA, INC., et al.
+
+															on writ of certiorari to the united states court of appeals for the fifth circuit
+
+															[May 21, 2018]
+
+															
+
+															Justice Ginsburg, with whom Justice Breyer, Justice Sotomayor, and Justice Kagan join, dissenting.
+
+															The employees in these cases complain that their employers have underpaid them in violation of the wage and hours prescriptions of the Fair Labor Standards Act of 1938 (FLSA),
+
+29 U. S. C. §201 et seq., and analogous state laws.  Individually, their claims are small, scarcely of a size warranting the expense of seeking redress alone.  See Ruan, What’s Left To Remedy Wage Theft? How Arbitration Mandates That Bar Class Actions Impact Low-Wage Workers, 2012 Mich. St. L. Rev. 1103, 1118–1119 (Ruan).  But by joining together with others similarly circumstanced, employees can gain effective redress for wage underpayment commonly experienced.  See id., at 1108–1111.  To block such concerted action, their employers required them to sign, as a condition of employment, arbitration agreements banning collective judicial and arbitral proceedings of any kind.  The question presented: Does the Federal Arbitration Act (Arbitration Act or FAA),
+
+9 U. S. C. §1 et seq., permit employers to insist that their employees, whenever seeking redress for commonly experienced wage loss, go it alone, never mind the right secured to employees by the National Labor Relations Act (NLRA),
+
+29 U. S. C. §151 et seq., “to engage in . . . concerted activities” for their “mutual aid or protection”?  §157.  The answer should be a resounding “No.”
+
+															In the NLRA and its forerunner, the Norris-LaGuardia Act (NLGA),
+
+29 U. S. C. §101 et seq., Congress acted on an acute awareness: For workers striving to gain from their employers decent terms and conditions of employment, there is strength in numbers.  A single employee, Con- gress understood, is disarmed in dealing with an employer.  See NLRB v. Jones & Laughlin Steel Corp., 301 U. S. 1, 33–34 (1937).  The Court today subordinates employee-protective labor legislation to the Arbitration Act.  In so doing, the Court forgets the labor market imbalance that gave rise to the NLGA and the NLRA, and ignores the destructive consequences of diminishing the right of employees “to band together in confronting an employer.”  NLRB v. City Disposal Systems, Inc.,
+
+465 U. S. 822, 835 (1984).  Congressional correction of the Court’s elevation of the FAA over workers’ rights to act in concert is urgently in order.
+
+															To explain why the Court’s decision is egregiously wrong, I first refer to the extreme imbalance once prevalent in our Nation’s workplaces, and Congress’ aim in the NLGA and the NLRA to place employers and employees on a more equal footing.  I then explain why the Arbitration Act, sensibly read, does not shrink the NLRA’s protective sphere.
+
+															I
+
+															It was once the dominant view of this Court that “[t]he right of a person to sell his labor upon such terms as he deems proper is . . . the same as the right of the purchaser of labor to prescribe [working] conditions.”  Adair v. United States,
+
+208 U. S. 161, 174 (1908) (invalidating federal law prohibiting interstate railroad employers from discharging or discriminating against employees based on their membership in labor organizations); accord Coppage v. Kansas,
+
+236 U. S. 1, 26 (1915) (invalidating state law prohibit- ing employers from requiring employees, as a condition of employment, to refrain or withdraw from union membership).
+
+															The NLGA and the NLRA operate on a different premise, that employees must have the capacity to act collectively in order to match their employers’ clout in setting terms and conditions of employment.  For decades, the Court’s decisions have reflected that understanding.  See Jones & Laughlin Steel,
+
+301 U. S. 1 (upholding the NLRA against employer assault); cf. United States v. Darby,
+
+312 U. S. 100 (1941) (upholding the FLSA).
+
+															A
+
+															The end of the 19th century and beginning of the 20th was a tumultuous era in the history of our Nation’s labor relations.  Under economic conditions then prevailing, workers often had to accept employment on whatever terms employers dictated.  See 75 Cong. Rec. 4502 (1932).  Aiming to secure better pay, shorter workdays, and safer workplaces, workers increasingly sought to band together to make their demands effective.  See ibid.; H. Millis & E. Brown, From the Wagner Act to Taft-Hartley: A Study of National Labor Policy and Labor Relations 7–8 (1950).
+
+															Employers, in turn, engaged in a variety of tactics to hinder workers’ efforts to act in concert for their mutual benefit.  See J. Seidman, The Yellow Dog Contract 11 (1932).  Notable among such devices was the “yellow-dog contract.”  Such agreements, which employers required employees to sign as a condition of employment, typically commanded employees to abstain from joining labor unions.  See id., at 11, 56.  Many of the employer-designed agreements cast an even wider net, “proscrib[ing] all manner of concerted activities.”  Finkin, The Meaning and Contemporary Vitality of the Norris-LaGuardia Act, 93 Neb. L. Rev. 6, 16 (2014); see Seidman, supra, at 59–60, 65–66.  As a prominent United States Senator observed, contracts of the yellow-dog genre rendered the “laboring man . . . absolutely helpless” by “waiv[ing] his right . . . to free association” and by requiring that he “singly present any grievance he has.”  75 Cong. Rec. 4504 (remarks of Sen. Norris).
+
+															Early legislative efforts to protect workers’ rights to band together were unavailing.  See, e.g., Coppage, 236 U. S., at 26; Frankfurter & Greene, Legislation Affecting Labor Injunctions, 38 Yale L. J. 879, 889–890 (1929).  Courts, including this one, invalidated the legislation based on then-ascendant notions about employers’ and employees’ constitutional right to “liberty of contract.”  See Coppage, 236 U. S., at 26; Frankfurter & Greene, supra, at 890–891.  While stating that legislatures could curtail contractual “liberty” in the interest of public health, safety, and the general welfare, courts placed outside those bounds legislative action to redress the bargaining power imbalance workers faced.  See Coppage, 236 U. S., at 16–19.
+
+															In the 1930’s, legislative efforts to safeguard vulnerable workers found more receptive audiences.  As the Great Depression shifted political winds further in favor of worker-protective laws, Congress passed two statutes aimed at protecting employees’ associational rights.  First, in 1932, Congress passed the NLGA, which regulates the employer-employee relationship indirectly.  Section 2 of the Act declares:
+
+															“Whereas . . . the individual unorganized worker is commonly helpless to exercise actual liberty of contract and to protect his freedom of labor, . . . it is necessary that he have full freedom of association, self-organization, and designation of representatives of his own choosing, . . . and that he shall be free from the interference, restraint, or coercion of employers . . . in the designation of such representatives or in self-organization or in other concerted activities for the purpose of collective bargaining or other mutual aid or protection.”
+
+29 U. S. C. §102.
+
+															Section 3 provides that federal courts shall not enforce “any . . . undertaking or promise in conflict with the public policy declared in [§2].”  §103.[1]  In adopting these provisions, Congress sought to render ineffective employer-imposed contracts proscribing employees’ concerted activity of any and every kind.  See 75 Cong. Rec. 4504–4505 (remarks of Sen. Norris) (“[o]ne of the objects” of the NLGA was to “outlaw” yellow-dog contracts); Finkin, supra, at 16 (contracts prohibiting “all manner of concerted activities apart from union membership or support . . . were understood to be ‘yellow dog’ contracts”).  While banning court enforcement of contracts proscribing concerted action by employees, the NLGA did not directly prohibit coercive employer practices.
+
+															But Congress did so three years later, in 1935, when it enacted the NLRA.  Relevant here, §7 of the NLRA guarantees employees “the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection.”
+
+29 U. S. C. §157 (emphasis added).  Section 8(a)(1) safeguards those rights by making it an “unfair labor practice” for an employer to “interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in [§7].”  §158(a)(1).  To oversee the Act’s guarantees, the Act established the National Labor Relations Board (Board or NLRB), an independent regulatory agency empowered to administer “labor policy for the Nation.”  San Diego Building Trades Council v. Garmon,
+
+359 U. S. 236, 242 (1959); see
+
+29 U. S. C. §160.
+
+															Unlike earlier legislative efforts, the NLGA and the NLRA had staying power.  When a case challenging the NLRA’s constitutionality made its way here, the Court, in retreat from its Lochner-era contractual-“liberty” decisions, upheld the Act as a permissible exercise of legislative authority.  See Jones & Laughlin Steel, 301 U. S., at 33–34.  The Court recognized that employees have a “fundamental right” to join together to advance their common interests and that Congress, in lieu of “ignor[ing]” that right, had elected to “safeguard” it.  Ibid.
+
+															B
+
+															Despite the NLRA’s prohibitions, the employers in the cases now before the Court required their employees to sign contracts stipulating to submission of wage and hours claims to binding arbitration, and to do so only one-by-one.[2]  When employees subsequently filed wage and hours claims in federal court and sought to invoke the collective-litigation procedures provided for in the FLSA and Federal Rules of Civil Procedure,[3] the employers moved to compel individual arbitration.  The Arbitration Act, in their view, requires courts to enforce their take-it-or-leave-it arbitration agreements as written, including the collective-litigation abstinence demanded therein.
+
+															In resisting enforcement of the group-action foreclosures, the employees involved in this litigation do not urge that they must have access to a judicial forum.[4]  They argue only that the NLRA prohibits their employers from denying them the right to pursue work-related claims in concert in any forum.  If they may be stopped by employer-dictated terms from pursuing collective procedures in court, they maintain, they must at least have access to similar procedures in an arbitral forum.
+
+															C
+
+															Although the NLRA safeguards, first and foremost, workers’ rights to join unions and to engage in collective bargaining, the statute speaks more embracively.  In addition to protecting employees’ rights “to form, join, or assist labor organizations” and “to bargain collectively through representatives of their own choosing,” the Act protects employees’ rights “to engage in other concerted activities for the purpose of . . . mutual aid or protection.”
+
+29 U. S. C. §157 (emphasis added); see, e.g., NLRB v. Washington Aluminum Co.,
+
+370 U. S. 9, 14–15 (1962) (§7 protected unorganized employees when they walked off the job to protest cold working conditions).  See also 1 J. Higgins, The Developing Labor Law 209 (6th ed. 2012) (“Section 7 protects not only union-related activity but also ‘other concerted activities . . . for mutual aid or protection.’ ”); 1 N. Lareau, Labor and Employment Law §1.01[1], p. 1–2 (2017) (“Section 7 extended to employees three federally protected rights: (1) the right to form and join unions; (2) the right to bargain collectively (negotiate) with employers about terms and conditions of employment; and (3) the right to work in concert with another employee or employees to achieve employment-related goals.” (emphasis added)).
+
+															Suits to enforce workplace rights collectively fit comfortably under the umbrella “concerted activities for the purpose of . . . mutual aid or protection.”
+
+29 U. S. C. §157.  “Concerted” means “[p]lanned or accomplished together; combined.”  American Heritage Dictionary 381 (5th ed. 2011).  “Mutual” means “reciprocal.”  Id., at 1163.  When employees meet the requirements for litigation of shared legal claims in joint, collective, and class proceedings, the litigation of their claims is undoubtedly “accomplished together.”  By joining hands in litigation, workers can spread the costs of litigation and reduce the risk of employer retaliation.  See infra, at 27–28.
+
+															Recognizing employees’ right to engage in collective employment litigation and shielding that right from employer blockage are firmly rooted in the NLRA’s design.  Congress expressed its intent, when it enacted the NLRA, to “protec[t] the exercise by workers of full freedom of association,” thereby remedying “[t]he inequality of bargaining power” workers faced.
+
+29 U. S. C. §151; see, e.g., Eastex, Inc. v. NLRB,
+
+437 U. S. 556, 567 (1978) (the Act’s policy is “to protect the right of workers to act together to better their working conditions” (internal quotation marks omitted)); City Disposal, 465 U. S., at 835 (“[I]n enacting §7 of the NLRA, Congress sought generally to equalize the bargaining power of the employee with that of his employer by allowing employees to band together in confronting an employer regarding the terms and conditions of their employment.”).  See also supra, at 5–6.  There can be no serious doubt that collective litigation is one way workers may associate with one another to improve their lot.
+
+															Since the Act’s earliest days, the Board and federal courts have understood §7’s “concerted activities” clause to protect myriad ways in which employees may join together to advance their shared interests.  For example, the Board and federal courts have affirmed that the Act shields employees from employer interference when they participate in concerted appeals to the media, e.g., NLRB v. Peter Cailler Kohler Swiss Chocolates Co., 130 F. 2d 503, 505–506 (CA2 1942), legislative bodies, e.g., Bethlehem Shipbuilding Corp. v. NLRB, 114 F. 2d 930, 937 (CA1 1940), and government agencies, e.g., Moss Planing Mill Co., 103 N. L. R. B. 414, 418–419, enf’d, 206 F. 2d 557 (CA4 1953).  “The 74th Congress,” this Court has noted, “knew well enough that labor’s cause often is advanced on fronts other than collective bargaining and grievance settlement within the immediate employment context.”  Eastex, 437 U. S., at 565.
+
+															Crucially important here, for over 75 years, the Board has held that the NLRA safeguards employees from employer interference when they pursue joint, collective, and class suits related to the terms and conditions of their employment.  See, e.g., Spandsco Oil and Royalty Co., 42 N. L. R. B. 942, 948–949 (1942) (three employees’ joint filing of FLSA suit ranked as concerted activity protected by the NLRA); Poultrymen’s Service Corp., 41 N. L. R. B. 444, 460–463, and n. 28 (1942) (same with respect to employee’s filing of FLSA suit on behalf of himself and others similarly situated), enf’d, 138 F. 2d 204 (CA3 1943); Sarkes Tarzian, Inc., 149 N. L. R. B. 147, 149, 153 (1964) (same with respect to employees’ filing class libel suit); United Parcel Service, Inc., 252 N. L. R. B. 1015, 1018 (1980) (same with respect to employee’s filing class action regarding break times), enf’d, 677 F. 2d 421 (CA6 1982); Harco Trucking, LLC, 344 N. L. R. B. 478, 478–479 (2005) (same with respect to employee’s maintaining class action regarding wages).  For decades, federal courts have endorsed the Board’s view, comprehending that “the filing of a labor related civil action by a group of employees is ordinarily a concerted activity protected by §7.”  Leviton Mfg. Co. v. NLRB, 486 F. 2d 686, 689 (CA1 1973); see, e.g., Brady v. National Football League, 644 F. 3d 661, 673 (CA8 2011) (similar).[5]  The Court pays scant heed to this longstanding line of decisions.[6]
+
+															D
+
+															In face of the NLRA’s text, history, purposes, and longstanding construction, the Court nevertheless concludes that collective proceedings do not fall within the scope of §7.  None of the Court’s reasons for diminishing §7 should carry the day.
+
+															1
+
+															The Court relies principally on the ejusdem generis canon.  See ante, at 12.  Observing that §7’s “other concerted activities” clause “appears at the end of a detailed list of activities,” the Court says the clause should be read to “embrace” only activities “similar in nature” to those set forth first in the list, ibid. (internal quotation marks omitted), i.e., “ ‘self-organization,’ ‘form[ing], join[ing], or assist[ing] labor organizations,’ and ‘bargain[ing] collectively,’ ” ibid.  The Court concludes that §7 should, therefore, be read to protect “things employees ‘just do’ for themselves.”  Ibid. (quoting NLRB v. Alternative Entertainment, Inc., 858 F. 3d 393, 415 (CA6 2017) (Sutton, J., concurring in part and dissenting in part); emphasis deleted).  It is far from apparent why joining hands in litigation would not qualify as “things employees just do for themselves.”  In any event, there is no sound reason to employ the ejusdem generis canon to narrow §7’s protections in the manner the Court suggests.
+
+															The ejusdem generis canon may serve as a useful guide where it is doubtful Congress intended statutory words or phrases to have the broad scope their ordinary meaning conveys.  See Russell Motor Car Co. v. United States,
+
+261 U. S. 514, 519 (1923).  Courts must take care, however, not to deploy the canon to undermine Congress’ efforts to draft encompassing legislation.  See United States v. Powell,
+
+423 U. S. 87, 90 (1975) (“[W]e would be justified in narrowing the statute only if such a narrow reading was supported by evidence of congressional intent over and above the language of the statute.”).  Nothing suggests that Congress envisioned a cramped construction of the NLRA.  Quite the opposite, Congress expressed an embracive purpose in enacting the legislation, i.e., to “protec[t] the exercise by workers of full freedom of association.”
+
+29 U. S. C. §151; see supra, at 9.
+
+															2
+
+															In search of a statutory hook to support its application of the ejusdem generis canon, the Court turns to the NLRA’s “structure.”  Ante, at 12.  Citing a handful of provisions that touch upon unionization, collective bargaining, picketing, and strikes, the Court asserts that the NLRA “establish[es] a regulatory regime” governing each of the activities protected by §7.  Ante, at 12–13. That regime, the Court says, offers “specific guidance” and “rules” regulating each protected activity.  Ante, at 13.  Observing that none of the NLRA’s provisions explicitly regulates employees’ resort to collective litigation, the Court insists that “it is hard to fathom why Congress would take such care to regulate all the other matters mentioned in [§7] yet remain mute about this matter alone—unless, of course, [§7] doesn’t speak to class and collective action procedures in the first place.”  Ibid.
+
+															This argument is conspicuously flawed.  When Congress enacted the NLRA in 1935, the only §7 activity Congress addressed with any specificity was employees’ selection of collective-bargaining representatives.  See
+
+49Stat.
+453.  The Act did not offer “specific guidance” about employees’ rights to “form, join, or assist labor organizations.”  Nor did it set forth “specific guidance” for any activity falling within §7’s “other concerted activities” clause.  The only provision that touched upon an activity falling within that clause stated: “Nothing in this Act shall be construed so as to interfere with or impede or diminish in any way the right to strike.”  Id., at 457.  That provision hardly offered “specific guidance” regarding employees’ right to strike.
+
+															Without much in the original Act to support its “structure” argument, the Court cites several provisions that Congress added later, in response to particular concerns.  Compare
+
+49Stat.
+449–457 with 
+
+61Stat.
+142–143 (1947) (adding §8(d) to provide guidance regarding employees’ and employers’ collective-bargaining obligations);
+
+61Stat.
+141–142 (amending §8(a) and adding §8(b) to proscribe specified labor organization practices);
+
+73Stat.
+544 (1959) (adding §8(b)(7) to place restrictions on labor organizations’ right to picket employers).  It is difficult to comprehend why Congress’ later inclusion of specific guidance regarding some of the activities protected by §7 sheds any light on Congress’ initial conception of §7’s scope.  
+
+															But even if each of the provisions the Court cites had been included in the original Act, they still would provide little support for the Court’s conclusion.  For going on 80 years now, the Board and federal courts—including this one—have understood §7 to protect numerous activities for which the Act provides no “specific” regulatory guidance.  See supra, at 9–10.    
+
+															3
+
+															In a related argument, the Court maintains that the NLRA does not “even whispe[r]” about the “rules [that] should govern the adjudication of class or collective actions in court or arbitration.”  Ante, at 13.  The employees here involved, of course, do not look to the NLRA for the procedures enabling them to vindicate their employment rights in arbitral or judicial forums.  They assert that the Act establishes their right to act in concert using existing, generally available procedures, see supra, at 7, n. 3, and to do so free from employer interference.  The FLSA and the Federal Rules on joinder and class actions provide the procedures pursuant to which the employees may ally to pursue shared legal claims.  Their employers cannot lawfully cut off their access to those procedures, they urge, without according them access to similar procedures in arbitral forums.  See, e.g., American Arbitration Assn., Supplementary Rules for Class Arbitrations (2011).
+
+															To the employees’ argument, the Court replies: If the employees “really take existing class and collective action rules as they find them, they surely take them subject to the limitations inherent in those rules—including the principle that parties may (as here) contract to depart from them in favor of individualized arbitration procedures.”  Ante, at 14.  The freedom to depart asserted by the Court, as already underscored, is entirely one sided.  See supra, at 2–5.  Once again, the Court ignores the reality that sparked the NLRA’s passage: Forced to face their employers without company, employees ordinarily are no match for the enterprise that hires them.  Employees gain strength, however, if they can deal with their employers in numbers.  That is the very reason why the NLRA secures against employer interference employees’ right to act in concert for their “mutual aid or protection.”  29 U. S. C. §§151, 157, 158.    
+
+															4
+
+															Further attempting to sow doubt about §7’s scope, the Court asserts that class and collective procedures were “hardly known when the NLRA was adopted in 1935.”  Ante, at 11.  In particular, the Court notes, the FLSA’s collective-litigation procedure postdated §7 “by years” and Rule 23 “didn’t create the modern class action until 1966.”  Ibid.
+
+															First, one may ask, is there any reason to suppose that Congress intended to protect employees’ right to act in concert using only those procedures and forums available in 1935?  Congress framed §7 in broad terms, “entrust[ing]” the Board with “responsibility to adapt the Act to changing patterns of industrial life.”  NLRB v. J. Weingarten, Inc.,
+
+420 U. S. 251, 266 (1975); see Pennsylvania Dept. of Corrections v. Yeskey,
+
+524 U. S. 206, 212 (1998) (“[T]he fact that a statute can be applied in situations not expressly anticipated by Congress does not demonstrate ambiguity.  It demonstrates breadth.” (internal quotation marks omitted)).  With fidelity to Congress’ aim, the Board and federal courts have recognized that the NLRA shields employees from employer interference when they, e.g., join together to file complaints with administrative agencies, even if those agencies did not exist in 1935.  See, e.g., Wray Electric Contracting, Inc., 210 N. L. R. B. 757, 762 (1974) (the NLRA protects concerted filing of complaint with the Occupational Safety and Health Administration).
+
+															Moreover, the Court paints an ahistorical picture.  As Judge Wood, writing for the Seventh Circuit, cogently explained, the FLSA’s collective-litigation procedure and the modern class action were “not written on a clean slate.”  823 F. 3d 1147, 1154 (2016).  By 1935, permissive joinder was scarcely uncommon in courts of equity.  See 7 C. Wright, A. Miller, & M. Kane, Federal Practice and Procedure §1651 (3d ed. 2001).  Nor were representative and class suits novelties.  Indeed, their origins trace back to medieval times.  See S. Yeazell, From Medieval Group Litigation to the Modern Class Action 38 (1987).  And beyond question, “[c]lass suits long have been a part of American jurisprudence.”  7A Wright, supra, §1751, at 12 (3d ed. 2005); see Supreme Tribe of Ben-Hur v. Cauble,
+
+255 U. S. 356, 363 (1921).  See also Brief for Constitutional Accountability Center as Amicus Curiae 5–16 (describing group litigation’s “rich history”).  Early instances of joint proceedings include cases in which employees allied to sue an employer.  E.g., Gorley v. Louisville, 23 Ky. 1782, 65 S.W. 844 (1901) (suit to recover wages brought by ten members of city police force on behalf of themselves and other officers); Guiliano v. Daniel O’Connell’s Sons, 105 Conn. 695, 136 A. 677 (1927) (suit by two employees to recover for injuries sustained while residing in housing provided by their employer).  It takes no imagination, then, to comprehend that Congress, when it enacted the NLRA, likely meant to protect employees’ joining together to engage in collective litigation.[7] 
+
+															E
+
+															Because I would hold that employees’ §7 rights include the right to pursue collective litigation regarding their wages and hours, I would further hold that the employer-dictated collective-litigation stoppers, i.e., “waivers,” are unlawful.  As earlier recounted, see supra, at 6, §8(a)(1) makes it an “unfair labor practice” for an employer to “interfere with, restrain, or coerce” employees in the exercise of their §7 rights.
+
+29 U. S. C. §158(a)(1).  Beyond genuine dispute, an employer “interfere[s] with” and “restrain[s]” employees in the exercise of their §7 rights by mandating that they prospectively renounce those rights in individual employment agreements.[8]  The law could hardly be otherwise: Employees’ rights to band together to meet their employers’ superior strength would be worth precious little if employers could condition employment on workers signing away those rights.  See National Licorice Co. v. NLRB,
+
+309 U. S. 350, 364 (1940).  Properly assessed, then, the “waivers” rank as unfair labor practices outlawed by the NLRA, and therefore unenforceable in court.  See Kaiser Steel Corp. v. Mullins,
+
+455 U. S. 72, 77 (1982) (“[O]ur cases leave no doubt that illegal promises will not be enforced in cases controlled by the federal law.”).[9]
+
+															II
+
+															Today’s decision rests largely on the Court’s finding in the Arbitration Act “emphatic directions” to enforce arbitration agreements according to their terms, including collective-litigation prohibitions.  Ante, at 6.  Nothing in the FAA or this Court’s case law, however, requires subordination of the NLRA’s protections.  Before addressing the interaction between the two laws, I briefly recall the FAA’s history and the domain for which that Act was designed.
+
+															A
+
+															1
+
+															Prior to 1925, American courts routinely declined to order specific performance of arbitration agreements.  See Cohen & Dayton, The New Federal Arbitration Law, 12 Va. L. Rev. 265, 270 (1926).  Growing backlogs in the courts, which delayed the resolution of commercial disputes, prompted the business community to seek legislation enabling merchants to enter into binding arbitration agreements.  See id., at 265.  The business community’s aim was to secure to merchants an expeditious, economical means of resolving their disputes.  See ibid.  The American Bar Association’s Committee on Commerce, Trade and Commercial Law took up the reins in 1921, drafting the legislation Congress enacted, with relatively few changes, four years later.  See Committee on Commerce, Trade & Commercial Law, The United States Arbitration Law and Its Application, 11 A. B. A. J. 153 (1925).
+
+															The legislative hearings and debate leading up to the FAA’s passage evidence Congress’ aim to enable merchants of roughly equal bargaining power to enter into binding agreements to arbitrate commercial disputes.  See, e.g., 65 Cong. Rec. 11080 (1924) (remarks of Rep. Mills) (“This bill provides that where there are commercial contracts and there is disagreement under the contract, the court can [en]force an arbitration agreement in the same way as other portions of the contract.”); Joint Hearings on S. 1005 and H. R. 646 before the Subcommittees of the Committees on the Judiciary, 68th Cong., 1st Sess. (1924) (Joint Hearings) (consistently focusing on the need for binding arbitration of commercial disputes).[10]
+
+															The FAA’s legislative history also shows that Congress did not intend the statute to apply to arbitration provisions in employment contracts.  In brief, when the legislation was introduced, organized labor voiced concern.  See Hearing on S. 4213 and S. 4214 before the Subcommittee of the Senate Committee on the Judiciary, 67th Cong., 4th Sess., 9 (1923) (Hearing).  Herbert Hoover, then Secretary of Commerce, suggested that if there were “objection[s]” to including “workers’ contracts in the law’s scheme,” Congress could amend the legislation to say: “but nothing herein contained shall apply to contracts of employment of seamen, railroad employees, or any other class of workers engaged in interstate or foreign commerce.”  Id., at 14.  Congress adopted Secretary Hoover’s suggestion virtually verbatim in §1 of the Act, see Joint Hearings 2;
+
+9 U. S. C. §1, and labor expressed no further opposition, see H. R. Rep. No. 96, 68th Cong., 1st Sess., 1 (1924).[11]
+
+															Congress, it bears repetition, envisioned application of the Arbitration Act to voluntary, negotiated agreements.  See, e.g., 65 Cong. Rec. 1931 (remarks of Rep. Graham) (the FAA provides an “opportunity to enforce . . . an agreement to arbitrate, when voluntarily placed in the document by the parties to it”).  Congress never endorsed a policy favoring arbitration where one party sets the terms of an agreement while the other is left to “take it or leave it.”  Hearing 9 (remarks of Sen. Walsh) (internal quotation marks omitted); see Prima Paint Corp. v. Flood & Conklin Mfg. Co.,
+
+388 U. S. 395, 403, n. 9 (1967) (“We note that categories of contracts otherwise within the Arbitration Act but in which one of the parties characteristically has little bargaining power are expressly excluded from the reach of the Act.  See §1.”).
+
+															2
+
+															In recent decades, this Court has veered away from Congress’ intent simply to afford merchants a speedy and economical means of resolving commercial disputes.  See Sternlight, Panacea or Corporate Tool?: Debunking the Supreme Court’s Preference for Binding Arbitration, 74 Wash. U. L. Q. 637, 644–674 (1996) (tracing the Court’s evolving interpretation of the FAA’s scope).  In 1983, the Court declared, for the first time in the FAA’s then 58-year history, that the FAA evinces a “liberal federal policy favoring arbitration.”  Moses H. Cone Memorial Hospital v. Mercury Constr. Corp.,
+
+460 U. S. 1, 24 (1983) (involving an arbitration agreement between a hospital and a construction contractor).  Soon thereafter, the Court ruled, in a series of cases, that the FAA requires enforcement of agreements to arbitrate not only contract claims, but statutory claims as well.  E.g., Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc.,
+
+473 U. S. 614 (1985); Shearson/American Express Inc. v. McMahon,
+
+482 U. S. 220 (1987).  Further, in 1991, the Court concluded in Gilmer v. Interstate/Johnson Lane Corp.,
+
+500 U. S. 20, 23 (1991), that the FAA requires enforcement of agreements to arbitrate claims arising under the Age Discrimination in Employment Act of 1967, a workplace antidiscrimination statute.  Then, in 2001, the Court ruled in Circuit City Stores, Inc. v. Adams,
+
+532 U. S. 105, 109 (2001), that the Arbitration Act’s exemption for employment contracts should be construed narrowly, to exclude from the Act’s scope only transportation workers’ contracts.
+
+															Employers have availed themselves of the opportunity opened by court decisions expansively interpreting the Arbitration Act.  Few employers imposed arbitration agreements on their employees in the early 1990’s.  After Gilmer and Circuit City, however, employers’ exaction of arbitration clauses in employment contracts grew steadily.  See, e.g., Economic Policy Institute (EPI), A. Colvin, The Growing Use of Mandatory Arbitration 1–2, 4 (Sept. 27, 2017), available at https://www.epi.org/files/pdf/135056.pdf (All Internet materials as visited May 18, 2018) (data indicate only 2.1% of nonunionized companies imposed mandatory arbitration agreements on their employees in 1992, but 53.9% do today).  Moreover, in response to subsequent decisions addressing class arbitration,[12] employers have increasingly included in their arbitration agreements express group-action waivers.  See Ruan 1129; Colvin, supra, at 6 (estimating that 23.1% of nonunionized employees are now subject to express class-action waivers in mandatory arbitration agreements).  It is, therefore, this Court’s exorbitant application of the FAA—stretching it far beyond contractual disputes between merchants—that led the NLRB to confront, for the first time in 2012, the precise question whether employers can use arbitration agreements to insulate themselves from collective employment litigation.  See D. R. Horton, 357 N. L. R. B. 2277 (2012), enf. denied in relevant part, 737 F. 3d 344 (CA5 2013).  Compare ante, at 3–4 (suggesting the Board broke new ground in 2012 when it concluded that the NLRA prohibits employer-imposed arbitration agreements that mandate individual arbitration) with supra, at 10–11 (NLRB decisions recognizing a §7 right to engage in collective employment litigation), and supra, at 17, n. 8 (NLRB decisions finding employer-dictated waivers of §7 rights unlawful).
+
+															As I see it, in relatively recent years, the Court’s Arbitration Act decisions have taken many wrong turns.  Yet, even accepting the Court’s decisions as they are, nothing compels the destructive result the Court reaches today.  Cf. R. Bork, The Tempting of America 169 (1990) (“Judges . . . live on the slippery slope of analogies; they are not supposed to ski it to the bottom.”).
+
+															B
+
+															Through the Arbitration Act, Congress sought “to make arbitration agreements as enforceable as other contracts, but not more so.”  Prima Paint, 388 U. S., at 404, n. 12.  Congress thus provided in §2 of the FAA that the terms of a written arbitration agreement “shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.”
+
+9 U. S. C. §2 (emphasis added).  Pursuant to this “saving clause,” arbitration agreements and terms may be invalidated based on “generally applicable contract defenses, such as fraud, duress, or unconscionability.”  Doctor’s Associates, Inc. v. Casarotto,
+
+517 U. S. 681, 687 (1996); see ante, at 7.
+
+															Illegality is a traditional, generally applicable contract defense.  See 5 R. Lord, Williston on Contracts §12.1 (4th ed. 2009).  “[A]uthorities from the earliest time to the present unanimously hold that no court will lend its assistance in any way towards carrying out the terms of an illegal contract.”  Kaiser Steel, 455 U. S., at 77 (quoting McMullen v. Hoffman,
+
+174 U. S. 639, 654 (1899)).  For the reasons stated supra, at 8–17, I would hold that the arbitration agreements’ employer-dictated collective-litigation waivers are unlawful.  By declining to enforce those adhesive waivers, courts would place them on the same footing as any other contract provision incompatible with controlling federal law.  The FAA’s saving clause can thus achieve harmonization of the FAA and the NLRA without undermining federal labor policy.
+
+															The Court urges that our case law—most forcibly, AT&T Mobility LLC v. Concepcion,
+
+563 U. S. 333 (2011)—rules out reconciliation of the NLRA and the FAA through the latter’s saving clause.  See ante, at 6–9.  I disagree.  True, the Court’s Arbitration Act decisions establish that the saving clause “offers no refuge” for defenses that discriminate against arbitration, “either by name or by more subtle methods.”  Ante, at 7.  The Court, therefore, has rejected saving clause salvage where state courts have invoked generally applicable contract defenses to discriminate “covertly” against arbitration.  Kindred Nursing Centers L. P. v. Clark, 581 U. S. ___, ___ (2017) (slip op., at 5).  In Concepcion, the Court held that the saving clause did not spare the California Supreme Court’s invocation of unconscionability doctrine to establish a rule blocking enforcement of class-action waivers in adhesive consumer contracts.  563 U. S., at 341–344, 346–352.  Class proceedings, the Court said, would “sacrific[e] the principal advantage of arbitration—its informality—and mak[e] the process slower, more costly, and more likely to generate procedural morass than final judgment.”  Id., at 348.  Accordingly, the Court concluded, the California Supreme Court’s rule, though derived from unconscionability doctrine, impermissibly disfavored arbitration, and therefore could not stand.  Id., at 346–352.
+
+															Here, however, the Court is not asked to apply a generally applicable contract defense to generate a rule discriminating against arbitration.  At issue is application of the ordinarily superseding rule that “illegal promises will not be enforced,” Kaiser Steel, 455 U. S., at 77, to invalidate arbitration provisions at odds with the NLRA, a pathmarking federal statute.  That statute neither discriminates against arbitration on its face, nor by covert operation.  It requires invalidation of all employer-imposed contractual provisions prospectively waiving employees’ §7 rights.  See supra, at 17, and n. 8; cf. Kindred Nursing Centers, 581 U. S., at ___, n. 2 (slip op., at 7, n. 2) (States may enforce generally applicable rules so long as they do not “single out arbitration” for disfavored treatment).
+
+															C
+
+															Even assuming that the FAA and the NLRA were inharmonious, the NLRA should control.  Enacted later in time, the NLRA should qualify as “an implied repeal” of the FAA, to the extent of any genuine conflict.  See Posadas v. National City Bank,
+
+296 U. S. 497, 503 (1936).  Moreover, the NLRA should prevail as the more pinpointed, subject-matter specific legislation, given that it speaks directly to group action by employees to improve the terms and conditions of their employment.  See Radzanower v. Touche Ross & Co.,
+
+426 U. S. 148, 153 (1976) (“a specific statute” generally “will not be controlled or nullified by a general one” (internal quotation marks omitted)).[13]
+
+															Citing statutory examples, the Court asserts that when Congress wants to override the FAA, it does so expressly.  See ante, at 13–14.  The statutes the Court cites, however, are of recent vintage.[14]  Each was enacted during the time this Court’s decisions increasingly alerted Congress that it would be wise to leave not the slightest room for doubt if it wants to secure access to a judicial forum or to provide a green light for group litigation before an arbitrator or court.  See CompuCredit Corp. v. Greenwood,
+
+565 U. S. 95, 116 (2012) (Ginsburg, J., dissenting).  The Congress that drafted the NLRA in 1935 was scarcely on similar alert.
+
+															III
+
+															The inevitable result of today’s decision will be the underenforcement of federal and state statutes designed to advance the well-being of vulnerable workers.  See generally Sternlight, Disarming Employees: How American Employers Are Using Mandatory Arbitration To Deprive Workers of Legal Protections, 80 Brooklyn L. Rev. 1309 (2015).
+
+															The probable impact on wage and hours claims of the kind asserted in the cases now before the Court is all too evident.  Violations of minimum-wage and overtime laws are widespread.  See Ruan 1109–1111; A. Bernhardt et al., Broken Laws, Unprotected Workers: Violations of Employment and Labor Laws in America’s Cities 11–16, 21–22 (2009).  One study estimated that in Chicago, Los Angeles, and New York City alone, low-wage workers lose nearly $3 billion in legally owed wages each year.  Id., at 6.  The U. S. Department of Labor, state labor departments, and state attorneys general can uncover and obtain recoveries for some violations.  See EPI, B. Meixell & R. Eisenbrey, An Epidemic of Wage Theft Is Costing Workers Hundreds of Millions of Dollars a Year 2 (2014), available at https://www.epi.org/files/2014/wage-theft.pdf.  Because of their limited resources, however, government agencies must rely on private parties to take a lead role in enforcing wage and hours laws.  See Brief for State of Maryland et al. as Amici Curiae 29–33; Glover, The Structural Role of Private Enforcement Mechanisms in Public Law, 53 Wm. & Mary L. Rev. 1137, 1150–1151 (2012) (Department of Labor investigates fewer than 1% of FLSA-covered employers each year).
+
+															If employers can stave off collective employment litigation aimed at obtaining redress for wage and hours infractions, the enforcement gap is almost certain to widen.  Expenses entailed in mounting individual claims will often far outweigh potential recoveries.  See id., at 1184–1185 (because “the FLSA systematically tends to generate low-value claims,” “mechanisms that facilitate the economics of claiming are required”); Sutherland v. Ernst & Young LLP, 768 F. Supp. 2d 547, 552 (SDNY 2011) (finding that an employee utilizing Ernst & Young’s arbitration program would likely have to spend $200,000 to recover only $1,867.02 in overtime pay and an equivalent amount in liquidated damages); cf. Resnik, Diffusing Disputes: The Public in the Private of Arbitration, the Private in Courts, and the Erasure of Rights, 124 Yale L. J. 2804, 2904 (2015) (analyzing available data from the consumer context to conclude that “private enforcement of small-value claims depends on collective, rather than individual, action”); Amchem Products, Inc. v. Windsor,
+
+521 U. S. 591, 617 (1997) (class actions help “overcome the problem that small recoveries do not provide the incentive for any individual to bring a solo action prosecuting his or her rights” (internal quotation marks omitted)).[15]  
+
+															Fear of retaliation may also deter potential claimants from seeking redress alone.  See, e.g., Ruan 1119–1121; Bernhardt, supra, at 3, 24–25.  Further inhibiting single-file claims is the slim relief obtainable, even of the injunctive kind.  See Califano v. Yamasaki,
+
+442 U. S. 682, 702 (1979) (“[T]he scope of injunctive relief is dictated by the extent of the violation established.”).  The upshot: Employers, aware that employees will be disinclined to pursue small-value claims when confined to proceeding one-by-one, will no doubt perceive that the cost-benefit balance of underpaying workers tips heavily in favor of skirting legal obligations.
+
+															In stark contrast to today’s decision,[16] the Court has repeatedly recognized the centrality of group action to the effective enforcement of antidiscrimination statutes.  With Court approbation, concerted legal actions have played a critical role in enforcing prohibitions against workplace discrimination based on race, sex, and other protected characteristics.  See, e.g., Griggs v. Duke Power Co.,
+
+401 U. S. 424 (1971); Automobile Workers v. Johnson Controls, Inc.,
+
+499 U. S. 187 (1991).  In this context, the Court has comprehended that government entities charged with enforcing antidiscrimination statutes are unlikely to be funded at levels that could even begin to compensate for a significant dropoff in private enforcement efforts.  See Newman v. Piggie Park Enterprises, Inc.,
+
+390 U. S. 400, 401 (1968) (per curiam) (“When the Civil Rights Act of 1964 was passed, it was evident that enforcement would prove difficult and that the Nation would have to rely in part upon private litigation as a means of securing broad compliance with the law.”).  That reality, as just noted, holds true for enforcement of wage and hours laws.  See supra, at 27.
+
+															I do not read the Court’s opinion to place in jeopardy discrimination complaints asserting disparate-impact and pattern-or-practice claims that call for proof on a groupwide basis, see Brief for NAACP Legal Defense & Educational Fund, Inc., et al. as Amici Curiae 19–25, which some courts have concluded cannot be maintained by solo complainants, see, e.g., Chin v. Port Auth. of N. Y. & N. J., 685 F. 3d 135, 147 (CA2 2012) (pattern-or-practice method of proving race discrimination is unavailable in non-class actions).  It would be grossly exorbitant to read the FAA to devastate Title VII of the Civil Rights Act of 1964,
+
+42 U. S. C. §2000e et seq., and other laws enacted to eliminate, root and branch, class-based employment discrimination, see Albemarle Paper Co. v. Moody,
+
+422 U. S. 405, 417, 421 (1975).  With fidelity to the Legislature’s will, the Court could hardly hold otherwise.
+
+															I note, finally, that individual arbitration of employee complaints can give rise to anomalous results.  Arbitration agreements often include provisions requiring that outcomes be kept confidential or barring arbitrators from giving prior proceedings precedential effect.  See, e.g., App. to Pet. for Cert. in No. 16–285, p. 34a (Epic’s agreement); App. in No. 16–300, p. 46 (Ernst & Young’s agreement).  As a result, arbitrators may render conflicting awards in cases involving similarly situated employees—even employees working for the same employer.  Arbitrators may resolve differently such questions as whether certain jobs are exempt from overtime laws.  Cf. Encino Motor Cars, LLC v. Navarro, ante, p. ___ (Court divides on whether “service advisors” are exempt from overtime-pay requirements).  With confidentiality and no-precedential-value provisions operative, irreconcilable answers would remain unchecked.
+
+															*  *  *
+
+															If these untoward consequences stemmed from legislative choices, I would be obliged to accede to them.  But the edict that employees with wage and hours claims may seek relief only one-by-one does not come from Congress.  It is the result of take-it-or-leave-it labor contracts harking back to the type called “yellow dog,” and of the readiness of this Court to enforce those unbargained-for agreements.  The FAA demands no such suppression of the right of workers to take concerted action for their “mutual aid or protection.”  Accordingly, I would reverse the judgment of the Fifth Circuit in No. 16–307 and affirm the judgments of the Seventh and Ninth Circuits in Nos. 16–285 and 16–300. 
+Notes
+1
+ Other provisions of the NLGA further rein in federal-court authority to disturb employees’ concerted activities.  See, e.g., 
+
+29 U. S. C. §104(d) (federal courts lack jurisdiction to enjoin a person from “aiding any person participating or interested in any labor dispute who is being proceeded against in, or [who] is prosecuting, any action or suit in any court of the United States or of any State”). 
+
+2
+ The Court’s opinion opens with the question: “Should employees and employers be allowed to agree that any disputes between them will be resolved through one-on-one arbitration?”  Ante, at 1.  Were the “agreements” genuinely bilateral?  Petitioner Epic Systems Corporation e-mailed its employees an arbitration agreement requiring resolution of wage and hours claims by individual arbitration.  The agreement provided that if the employees “continue[d] to work at Epic,” they would “be deemed to have accepted th[e] Agreement.”  App. to Pet. for Cert. in No. 16–285, p. 30a.  Ernst & Young similarly e-mailed its employees an arbitration agreement, which stated that the employees’ continued employment would indicate their assent to the agreement’s terms.  See App. in No. 16–300, p. 37.  Epic’s and Ernst & Young’s employees thus faced a Hobson’s choice: accept arbitration on their employer’s terms or give up their jobs. 
+
+3
+ The FLSA establishes an opt-in collective-litigation procedure for employees seeking to recover unpaid wages and overtime pay.  See
+
+29 U. S. C. §216(b).  In particular, it authorizes “one or more employees” to maintain an action “in behalf of himself or themselves and other employees similarly situated.”  Ibid.  “Similarly situated” employees may become parties to an FLSA collective action (and may share in the recovery) only if they file written notices of consent to be joinedas parties.  Ibid.  The Federal Rules of Civil Procedure provide two collective-litigation procedures relevant here.  First, Rule 20(a) permits individuals to join as plaintiffs in a single action if they assert claims arising out of the same transaction or occurrence and their claims involve common questions of law or fact.  Second, Rule 23 establishes an opt-out class-action procedure, pursuant to which “[o]ne or more members of a class” may bring an action on behalf of the entire class if specified prerequisites are met. 
+
+4
+ Notably, one employer specified that if the provisions confining employees to individual proceedings are “unenforceable,” “any claim brought on a class, collective, or representative action basis must be filed in . . . court.”  App. to Pet. for Cert. in No. 16–285, at 35a. 
+
+5
+ The Court cites, as purported evidence of contrary agency precedent, a 2010 “Guideline Memorandum” that the NLRB’s then-General Counsel issued to his staff.  See ante, at 4, 19, 22.  The General Counsel appeared to conclude that employees have a §7 right to file collective suits, but that employers can nonetheless require employees to sign arbitration agreements waiving the right to maintain such suits.  See Memorandum GC 10–06, p. 7 (June 16, 2010).  The memorandum sought to address what the General Counsel viewed as tension between longstanding precedent recognizing a §7 right to pursue collective employment litigation and more recent court decisions broadly construing the FAA.  The memorandum did not bind the Board, and the Board never adopted the memorandum’s position as its own.  See D. R. Horton, 357 N. L. R. B. 2277, 2282 (2012), enf. denied in relevant part, 737 F.3d 344 (CA5 2013); Tr. of Oral Arg. 41.  Indeed, shortly after the General Counsel issued the memorandum, the Board rejected its analysis, finding that it conflicted with Board precedent, rested on erroneous factual premises, “defie[d] logic,” and was internally incoherent.  D. R. Horton, 357 N. L. R. B., at 2282–2283. 
+
+6
+ In 2012, the Board held that employer-imposed contracts barring group litigation in any forum—arbitral or judicial—are unlawful.  D. R. Horton, 357 N. L. R. B. 2277.  In so ruling, the Board simply applied its precedents recognizing that (1) employees have a §7 right to engage in collective employment litigation and (2) employers cannot lawfully require employees to sign away their §7 rights.  See id., at 2278, 2280.  It broke no new ground.  But cf. ante, at 2, 19. 
+
+7
+ The Court additionally suggests that something must be amiss because the employees turn to the NLRA, rather than the FLSA, to resist enforcement of the collective-litigation waivers.  See ante, at 14–15.  But the employees’ reliance on the NLRA is hardly a reason to “raise a judicial eyebrow.”  Ante, at 15.  The NLRA’s guiding purpose is to protect employees’ rights to work together when addressing shared workplace grievances of whatever kind. 
+
+8
+ See, e.g., Bethany Medical Center, 328 N. L. R. B. 1094, 1105–1106 (1999) (holding employer violated §8(a)(1) by conditioning employees’ rehiring on the surrender of their right to engage in future walkouts); Mandel Security Bureau Inc., 202 N. L. R. B. 117, 119, 122 (1973) (holding employer violated §8(a)(1) by conditioning employee’s reinstatement to former position on agreement that employee would refrain from filing charges with the Board and from circulating work-related petitions, and, instead, would “mind his own business”). 
+
+9
+ I would similarly hold that the NLGA renders the collective-litigation waivers unenforceable.  That Act declares it the public policy of the United States that workers “shall be free from the interference, restraint, or coercion of employers” when they engage in “concerted activities” for their “mutual aid or protection.”
+
+29 U. S. C. §102; see supra, at 5.  Section 3 provides that federal courts shall not enforce any “promise in conflict with the [Act’s] policy.”  §103.  Because employer-extracted collective-litigation waivers interfere with employees’ ability to engage in “concerted activities” for their “mutual aid or protection,” see supra, at 8–11, the arm-twisted waivers collide with the NLGA’s stated policy; thus, no federal court should enforce them.  See Finkin, The Meaning and Contemporary Vitality of the Norris-LaGuardia Act, 93 Neb. L. Rev. 6 (2014).   Boys Markets, Inc. v. Retail Clerks,
+
+398 U. S. 235 (1970), provides no support for the Court’s contrary conclusion.  See ante, at 16.  In Boys Markets, an employer and a union had entered into a collective-bargaining agreement, which provided that labor disputes would be resolved through arbitration and that the union would not engage in strikes, pickets, or boycotts during the life of the agreement.  398 U. S., at 238–239.  When a dispute later arose, the union bypassed arbitration and called a strike.  Id., at 239.  The question presented: Whether a federal district court could enjoin the strike and order the parties to arbitrate their dispute.  The case required the Court to reconcile the NLGA’s limitations on federal courts’ authority to enjoin employees’ concerted activities, see
+
+29 U. S. C. §104, with §301(a) of the Labor Management Relations Act, 1947, which grants federal courts the power to enforce collective-bargaining agreements, see
+
+29 U. S. C. §185(a).  The Court concluded that permitting district courts to enforce no-strike and arbitration provisions in collective-bargaining agreements would encourage employers to enter into such agreements, thereby furthering federal labor policy.  398 U. S., at 252–253.  That case has little relevance here.  It did not consider the enforceability of arbitration provisions that require employees to arbitrate disputes only one-by-one.  Nor did it consider the enforceability of arbitration provisions that an employer has unilaterally imposed on employees, as opposed to provisions negotiated through collective-bargaining processes in which employees can leverage their collective strength.                     
+
+10
+ American Bar Association member Julius H. Cohen, credited with drafting the legislation, wrote shortly after the FAA’s passage that the law was designed to provide a means of dispute resolution “particularly adapted to the settlement of commercial disputes.”  Cohen & Dayton, The New Federal Arbitration Law, 12 Va. L. Rev. 265, 279 (1926).  Arbitration, he and a colleague explained, is “peculiarly suited to the disposition of the ordinary disputes between merchants as to questions of fact—quantity, quality, time of delivery, compliance with terms of payment, excuses for non-performance, and the like.”  Id., at 281.  “It has a place also,” they noted, “in the determination of the simpler questions of law” that “arise out of th[e] daily relations between merchants, [for example,] the passage of title, [and] the existence of warranties.”  Ibid. 
+
+11
+ For fuller discussion of Congress’ intent to exclude employment contracts from the FAA’s scope, see Circuit City Stores, Inc. v. Adams,
+
+532 U. S. 105, 124–129 (2001) (Stevens, J., dissenting). 
+
+12
+ In Green Tree Financial Corp. v. Bazzle,
+
+539 U. S. 444 (2003), a plurality suggested arbitration might proceed on a class basis where not expressly precluded by an agreement.  After Bazzle, companies increasingly placed explicit collective-litigation waivers in consumer and employee arbitration agreements.  See Gilles, Opting Out of Liability: The Forthcoming, Near-Total Demise of the Modern Class Action, 104 Mich. L. Rev. 373, 409–410 (2005).  In AT&T Mobility LLC v. Concepcion,
+
+563 U. S. 333 (2011), and American Express Co. v. Italian Colors Restaurant,
+
+570 U. S. 228 (2013), the Court held enforceable class-action waivers in the arbitration agreements at issue in those cases.  No surprise, the number of companies incorporating express class-action waivers in consumer and employee arbitration agreements spiked.  See 2017 Carlton Fields Class Action Survey: Best Practices in Reducing Cost and Managing Risk in Class Action Litigation 29 (2017), available at https://www.classactionsurvey.com/pdf/2017-class-action-survey.pdf (reporting that 16.1% of surveyed companies’ arbitration agreements expressly precluded class actions in 2012, but 30.2% did so in 2016). 
+
+13
+ Enacted, as was the NLRA, after passage of the FAA, the NLGA also qualifies as a statute more specific than the FAA.  Indeed, the NLGA expressly addresses the enforceability of contract provisions that interfere with employees’ ability to engage in concerted activities.  See supra, at 17, n. 9.  Moreover, the NLGA contains an express repeal provision, which provides that “[a]ll acts and parts of acts in conflict with [the Act’s] provisions . . . are repealed.”
+
+29 U. S. C. §115. 
+
+14
+ See
+
+116Stat.
+1836 (2002);
+
+120Stat.
+2267 (2006);
+
+124Stat.
+1746 (2010);
+
+124Stat.
+2035 (2010). 
+
+15
+ Based on a 2015 study, the Bureau of Consumer Financial Protection found that “pre-dispute arbitration agreements are being widely used to prevent consumers from seeking relief from legal violations on a class basis, and that consumers rarely file individual lawsuits or arbitration cases to obtain such relief.”  82 Fed. Reg. 33210 (2017). 
+
+16
+ The Court observes that class actions can be abused, see ante, at 24, but under its interpretation, even two employees would be stopped from proceeding together. 
+
+

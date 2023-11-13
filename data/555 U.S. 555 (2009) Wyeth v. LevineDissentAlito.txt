@@ -1,0 +1,451 @@
+::SCDB_caseID:: 2008-029
+::decision_cite:: 555 U.S. 555 (2009)
+::decision_name::  Wyeth v. Levine
+::decision_year:: 2009
+::opinion_author:: Alito
+::opinion_type:: Dissent
+::opinion:: 
+
+
+ALITO, J., DISSENTING
+WYETH V. LEVINE
+555 U. S. ____ (2009)
+SUPREME COURT OF THE UNITED STATES
+NO. 06-1249
+
+
+
+
+
+															WYETH, PETITIONER v. DIANA LEVINE
+
+															on writ of certiorari to the supreme court of
+vermont
+
+															[March 4, 2009]
+
+
+
+															   Justice Alito, with whom The Chief Justice and Justice Scalia join, dissenting.
+
+															
+   This case illustrates that tragic facts make bad law.  The Court holds that a state tort jury, rather than the Food and Drug Administration (FDA), is ultimately responsible for regulating warning labels for prescription drugs.  That result cannot be reconciled with Geier v. American Honda Motor Co., 529 U. S. 861 (2000), or general principles of conflict pre-emption.  I respectfully dissent.
+
+															I
+
+															
+   The Court frames the question presented as a “narro[w]” one—namely, whether Wyeth has a duty to provide “an adequate warning about using the IV-push method” to administer Phenergan.  Ante, at 8.  But that ignores the antecedent question of who—the FDA or a jury in Vermont—has the authority and responsibility for determining the “adequacy” of Phenergan’s warnings.  Moreover, it is unclear how a “stronger” warning could have helped respondent, see ante, at 16; after all, the physician’s assistant who treated her disregarded at least six separate warnings that are already on Phenergan’s labeling, so respondent would be hard pressed to prove that a seventh would have made a difference.[Footnote 1]
+
+															   More to the point, the question presented by this case is not a “narrow” one, and it does not concern whether Phenergan’s label should bear a “stronger” warning.  Rather, the real issue is whether a state tort jury can countermand the FDA’s considered judgment that Phenergan’s FDA-mandated warning label renders its intravenous (IV) use “safe.”  Indeed, respondent’s amended complaint alleged that Phenergan is “not reasonably safe for intravenous administration,” App. 15, ¶6; respondent’s attorney told the jury that Phenergan’s label should say, “ ‘Do not use this drug intravenously,’ ” id., at 32; respondent’s expert told the jury, “I think the drug should be labeled ‘Not for IV use,’ ” id., at 59; and during his closing argument, respondent’s attorney told the jury, “Thank God we don’t rely on the FDA to … make the safe[ty] decision.  You will make the decision. … The FDA doesn’t make the decision, you do,” id., at 211–212.[Footnote 2]
+
+															
+
+   Federal law, however, does rely on the FDA to make safety determinations like the one it made here.  The FDA has long known about the risks associated with IV push in general and its use to administer Phenergan in particular.  Whether wisely or not, the FDA has concluded—over the course of extensive, 54-year-long regulatory proceedings—that the drug is “safe” and “effective” when used in accordance with its FDA-mandated labeling.  The unfortunate fact that respondent’s healthcare providers ignored Phenergan’s labeling may make this an ideal medical-malpractice case.[Footnote 3]  But turning a common-law tort suit into a “frontal assault” on the FDA’s regulatory regime for drug labeling upsets the well-settled meaning of the Supremacy Clause and our conflict pre-emption jurisprudence.  Brief for United States as Amicus Curiae 21.
+
+															II
+
+															A
+
+															
+   To the extent that “[t]he purpose of Congress is the ultimate touchstone in every pre-emption case,” Medtronic, Inc. v. Lohr, 518 U. S. 470, 485 (1996) (internal quotation marks omitted), Congress made its “purpose” plain in authorizing the FDA—not state tort juries—to determine when and under what circumstances a drug is “safe.”  “[T]he process for approving new drugs is at least as rigorous as the premarket approval process for medical devices,” Riegel v. Medtronic, Inc., 552 U. S. ___, ___ (2008) (slip op., at 11) (Ginsburg, J., dissenting), and we held that the latter pre-empted a state-law tort suit that conflicted with the FDA’s determination that a medical device was “safe,” id., at ___ (slip op., at 11) (opinion of the Court).
+
+															   Under the Federal Food, Drug, and Cosmetic Act (FDCA), a drug manufacturer may not market a new drug before first submitting a new drug application (NDA) to the FDA and receiving the agency’s approval.  See 21 U. S. C. §355(a).  An NDA must contain, among other things, “the labeling proposed to be used for such drug,” §355(b)(1)(F), “full reports of investigations which have been made to show whether or not such drug is safe for use and whether such drug is effective in use,” §355(b)(1)(A), and “a discussion of why the benefits exceed the risks [of the drug] under the conditions stated in the labeling,” 21 CFR §314.50(d)(5)(viii) (2008).  The FDA will approve an NDA only if the agency finds, among other things, that the drug is “safe for use under the conditions prescribed, recommended, or suggested in the proposed labeling thereof,” there is “substantial evidence that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the proposed labeling thereof,” and the proposed labeling is not “false or misleading in any particular.”  21 U. S. C. §355(d).
+
+															
+
+   After the FDA approves a drug, the manufacturer remains under an obligation to investigate and report any adverse events associated with the drug, see 21 CFR §314.80, and must periodically submit any new information that may affect the FDA’s previous conclusions about the safety, effectiveness, or labeling of the drug, 21 U. S. C. §355(k).  If the FDA finds that the drug is not “safe” when used in accordance with its labeling, the agency “shall” withdraw its approval of the drug.  §355(e).  The FDA also “shall” deem a drug “misbranded” if “it is dangerous to health when used in the dosage or manner, or with the frequency or duration prescribed, recommended, or suggested in the labeling thereof.”  §352(j).
+
+															
+
+   Thus, a drug’s warning label “serves as the standard under which the FDA determines whether a product is safe and effective.”  50 Fed. Reg. 7470 (1985).  Labeling is “[t]he centerpiece of risk management,” as it “communicates to health care practitioners the agency’s formal, authoritative conclusions regarding the conditions under which the product can be used safely and effectively.”  71 Fed. Reg. 3934 (2006).  The FDA has underscored the importance it places on drug labels by promulgating comprehensive regulations—spanning an entire part of the Code of Federal Regulations, see 21 CFR pt. 201, with seven subparts and 70 separate sections—that set forth drug manufacturers’ labeling obligations.  Under those regulations, the FDA must be satisfied that a drug’s warning label contains, among other things, “a summary of the essential scientific information needed for the safe and effective use of the drug,” §201.56(1), including a description of “clinically significant adverse reactions,” “other potential safety hazards,” “limitations in use imposed by them, … and steps that should be taken if they occur,” §201.57(c)(6)(i).  Neither the FDCA nor its implementing regulations suggest that juries may second-guess the FDA’s labeling decisions.
+
+															B
+
+															1
+
+															
+   Where the FDA determines, in accordance with its statutory mandate, that a drug is on balance “safe,” our conflict pre-emption cases prohibit any State from countermanding that determination.  See, e.g., Buckman Co. v. Plaintiffs’ Legal Comm., 531 U. S. 341, 348 (2001) (after the FDA has struck “a somewhat delicate balance of statutory objectives” and determined that petitioner submitted a valid application to manufacture a medical device, a State may not use common law to negate it); International Paper Co. v. Ouellette, 479 U. S. 481, 494 (1987) (after the EPA has struck “the balance of public and private interests so carefully addressed by” the federal permitting regime for water pollution, a State may not use nuisance law to “upse[t]” it); Chicago & North Western Transp. Co. v. Kalo Brick & Tile Co., 450 U. S. 311, 321 (1981) (after the Interstate Commerce Commission has struck a “balance” between competing interests in permitting the abandonment of a railroad line, a State may not use statutory or common law to negate it).
+
+															   Thus, as the Court itself recognizes, it is irrelevant in conflict pre-emption cases whether Congress “enacted an express pre-emption provision at some point during the FDCA’s 70-year history.”  Ante, at 18; see also Geier, 529 U. S., at 869 (holding the absence of an express pre-emption clause “does not bar the ordinary working of conflict pre-emption principles”).  Rather, the ordinary principles of conflict pre-emption turn solely on whether a State has upset the regulatory balance struck by the federal agency.  Id., at 884–885; see also Chicago & North Western Transp. Co., supra, at 317 (describing conflict pre-emption as “a two-step process of first ascertaining the construction of the [federal and state laws] and then determining the constitutional question whether they are actually in conflict” (internal quotation marks omitted)).
+
+															2
+
+															
+   A faithful application of this Court’s conflict pre-emption cases compels the conclusion that the FDA’s 40-year-long effort to regulate the safety and efficacy of Phenergan pre-empts respondent’s tort suit.  Indeed, that result follows directly from our conclusion in Geier.
+
+															   Geier arose under the National Traffic and Motor Safety Vehicle Act of 1966, which directs the Secretary of the Department of Transportation (DOT) to “establish by order … motor vehicle safety standards,” 15 U. S. C. §1392(a) (1988 ed.), which are defined as “minimum standard[s] for motor vehicle performance, or motor vehicle equipment performance,” §1391(2).  Acting pursuant to that statutory mandate, the Secretary of Transportation promulgated Federal Motor Vehicle Safety Standard 208, which required car manufacturers to include passive restraint systems (i.e., devices that work automatically to protect occupants from injury during a collision) in a certain percentage of their cars built in or after 1987.  See 49 CFR §571.208 (1999).  Standard 208 did not require installation of any particular type of passive restraint; instead, it gave manufacturers the option to install automatic seatbelts, airbags, or any other suitable technology that they might develop, provided the restraint(s) met the performance requirements specified in the rule.  Ibid.
+
+															
+
+   Alexis Geier drove her 1987 Honda Accord into a tree, and although she was wearing her seatbelt, she nonetheless suffered serious injuries.  She then sued Honda under state tort law, alleging that her car was negligently and defectively designed because it lacked a driver’s-side airbag.  She argued that Congress had empowered the Secretary to set only “minimum standard[s]” for vehicle safety.  15 U. S. C. §1391(2).  She also emphasized that the National Traffic and Motor Safety Vehicle Act contains a saving clause, which provides that “[c]ompliance with any Federal motor vehicle safety standard issued under this subchapter does not exempt any person from any liability under common law.”  §1397(k).
+
+															
+
+   Notwithstanding the statute’s saving clause, and notwithstanding the fact that Congress gave the Secretary authority to set only “minimum” safety standards, we held Geier’s state tort suit pre-empted.  In reaching that result, we relied heavily on the view of the Secretary of Transportation—expressed in an amicus brief—that Standard 208 “ ‘embodies the Secretary’s policy judgment that safety would best be promoted if manufacturers installed alternative protection systems in their fleets rather than one particular system in every car.’ ”  529 U. S., at 881 (quoting Brief for United States as Amicus Curiae, O. T. 1999, No. 98–1811, p. 25).  Because the Secretary determined that a menu of alternative technologies was “safe,” the doctrine of conflict pre-emption barred Geier’s efforts to deem some of those federally approved alternatives “unsafe” under state tort law.
+
+															
+
+   The same rationale applies here.  Through Phenergan’s label, the FDA offered medical professionals a menu of federally approved, “safe” and “effective” alternatives—including IV push—for administering the drug.  Through a state tort suit, respondent attempted to deem IV push “unsafe” and “ineffective.”  To be sure, federal law does not prohibit Wyeth from contraindicating IV push, just as federal law did not prohibit Honda from installing airbags in all its cars.  But just as we held that States may not compel the latter, so, too, are States precluded from compelling the former.  See also Fidelity Fed. Sav. & Loan Assn. v. De la Cuesta, 458 U. S. 141, 155 (1982) (“The conflict does not evaporate because the [agency’s] regulation simply permits, but does not compel,” the action forbidden by state law).  If anything, a finding of pre-emption is even more appropriate here because the FDCA—unlike the National Traffic and Motor Safety Vehicle Act—contains no evidence that Congress intended the FDA to set only “minimum standards,” and the FDCA does not contain a saving clause.[Footnote 4]  See also ante, at 18 (conceding Congress’ “silence” on the issue).
+
+															III
+
+															
+   In its attempt to evade Geier’s applicability to this case, the Court commits both factual and legal errors.  First, as a factual matter, it is demonstrably untrue that the FDA failed to consider (and strike a “balance” between) the specific costs and benefits associated with IV push.  Second, as a legal matter, Geier does not stand for the legal propositions espoused by the dissenters (and specifically rejected by the majority) in that case.  Third, drug labeling by jury verdict undermines both our broader pre-emption jurisprudence and the broader workability of the federal drug-labeling regime.
+
+															A
+
+															
+   Phenergan’s warning label has been subject to the FDA’s strict regulatory oversight since the 1950’s.  For at least the last 34 years, the FDA has focused specifically on whether IV-push administration of Phenergan is “safe” and “effective” when performed in accordance with Phenergan’s label.  The agency’s ultimate decision—to retain IV push as one means for administering Phenergan, albeit subject to stringent warnings—is reflected in the plain text of Phenergan’s label (sometimes in boldfaced font and all-capital letters).  And the record contains ample evidence that the FDA specifically considered and reconsidered the strength of Phenergan’s IV-push-related warnings in light of new scientific and medical data.  The majority’s factual assertions to the contrary are mistaken.
+
+															1
+
+															
+   The FDA’s focus on IV push as a means of administering Phenergan dates back at least to 1975.  In August of that year, several representatives from both the FDA and Wyeth met to discuss Phenergan’s warning label.  At that meeting, the FDA specifically proposed “that Phenergan Injection should not be used in Tubex®.”  2 Record 583, 586 (Plaintiff’s Trial Exh. 17, Internal Correspondence from W. E. Langeland to File (Sept. 5, 1975) (hereinafter 1975 Memo)).  “Tubex” is a syringe system used exclusively for IV push.  See App. 43.  An FDA official explained that the agency’s concerns arose from medical-malpractice lawsuits involving IV push of the drug, see 1975 Memo 586, and that the FDA was aware of “5 cases involving amputation where the drug had been administered by Tubex together with several additional cases involving necrosis,” id., at 586–587.  Rather than contraindicating Phenergan for IV push, however, the agency and Wyeth agreed “that there was a need for better instruction regarding the problems of intraarterial injection.”  Id., at 587.
+
+															   The next year, the FDA convened an advisory committee to study, among other things, the risks associated with the Tubex system and IV push.  App. 294.  At the conclusion of its study, the committee recommended an additional IV-push-specific warning for Phenergan’s label, see ibid., but did not recommend eliminating IV push from the drug label altogether.  In response to the committee’s recommendations, the FDA instructed Wyeth to make several changes to strengthen Phenergan’s label, including the addition of upper case warnings related to IV push.  See id., at 279–280, 282–283.
+
+															
+
+   In 1987, the FDA directed Wyeth to amend its label to include the following text:  
+
+															“ ‘[1] When used intravenously, [Phenergan] should be given in a concentration no greater than 25 mg/ml and at a rate not to exceed 25 mg/minute. [2] Injection through a properly running intravenous infusion may enhance the possibility of detecting arterial placement.’ ”  Id., at 311–312.
+
+															
+The first of the two quoted sentences refers specifically to IV push; as respondent’s medical expert testified at trial, the label’s recommended rate of administration (not to exceed 25 mg per minute) refers to “IV push, as opposed to say being in a bag and dripped over a couple of hours.”  Id., at 52.  The second of the two quoted sentences refers to IV drip.  See id., at 15–16 (emphasizing that a “running IV” is the same thing as “IV drip”).
+
+															
+
+   In its 1987 labeling order, the FDA cited voluminous materials to “suppor[t]” its new and stronger warnings related to IV push and the preferability of IV drip.[Footnote 5]  Id., at 313.  One of those articles specifically discussed the relative advantages and disadvantages of IV drip compared to IV push, as well as the costs and benefits of administering Phenergan via IV push.[Footnote 6]  The FDA also cited published case reports from the 1960’s of gangrene caused by the intra-arterial injection of Phenergan,[Footnote 7] and the FDA instructed Wyeth to amend Phenergan’s label in accordance with the latest medical research.[Footnote 8]  The FDA also studied drugs similar to Phenergan and cited numerous cautionary articles—one of which urged the agency to consider contraindicating such drugs for IV use altogether.[Footnote 9]
+
+															
+
+   In “support” of its labeling order, the FDA also cited numerous articles that singled out the inner crook of the elbow—known as the “antecubital fossa” in the medical community—which is both a commonly used injection site, see id., at 70 (noting that respondent’s injection was pushed into “the antecubital space”), and a universally recognized high-risk area for inadvertent intra-arterial injections.  One of the articles explained:
+
+															   “Because of the numerous superficial positions the ulnar artery might occupy, it has often been entered during attempted venipuncture [of the antecubital fossa]. …  However, the brachial and the radial arteries might also be quite superficial in the elbow region… .  The arterial variations of the arm, especially in and about the cubital fossa, are common and numerous.  If venipuncture must be performed in this area, a higher index of suspicion must be maintained to forestall misdirected injections.”  Stone & Donnelly, The Accidental Intra-arterial Injection of Thiopental, 22 Anesthesiology 995, 996 (1961) (footnote omitted; cited in App. 315, no. 20).[Footnote 10]
+
+															
+Based on this and other research, the FDA ordered Wyeth to include a specific warning related to the use of the antecubital space for IV push.[Footnote 11]
+
+															2
+
+															
+   When respondent was injured in 2000, Phenergan’s label specifically addressed IV push in several passages (sometimes in lieu of and sometimes in addition to those discussed above).  For example, the label warned of the risks of intra-arterial injection associated with “aspiration,” which is a technique used only in conjunction with IV push.[Footnote 12]  The label also cautioned against the use of “syringes with rigid plungers,” App. 390, which are used only to administer the drug via IV push.  As respondent’s medical expert testified at trial, “by talking plungers and rigid needles, that’s the way you do it, to push it with the plunger.”  Id., at 53 (testimony of Dr. John Matthew).  Moreover, Phenergan’s 2000 label devoted almost a full page to discussing the “Tubex system,” see id., at 391, which, as noted above, is used only to administer the drug via IV push.
+
+															   While Phenergan’s label very clearly authorized the use of IV push, it also made clear that IV push is the delivery method of last resort.  The label specified that “[t]he preferred parenteral route of administration is by deep intramuscular injection.”  Id., at 390.  If an intramuscular injection is ineffective, then “it is usually preferable to inject [Phenergan] through the tubing of an intravenous infusion set that is known to be functioning satisfactorily.”  Ibid.  See also id., at 50–51 (testimony of respondent’s medical expert, Dr. John Matthew) (conceding that the best way to determine that an IV set is functioning satisfactorily is to use IV drip).  Finally, if for whatever reason a medical professional chooses to use IV push, he or she is on notice that “INADVERTENT INTRA-ARTERIAL INJECTION CAN RESULT IN GANGRENE OF THE AFFECTED EXTREMITY.”  Id., at 391; see also id., at 390 (“Under no circumstances should Phenergan Injection be given by intra-arterial injection due to the likelihood of severe arteriospasm and the possibility of resultant gangrene”).  
+
+															
+
+   Phenergan’s label also directs medical practitioners to choose veins wisely when using IV push:
+
+															“Due to the close proximity of arteries and veins in the areas most commonly used for intravenous injection, extreme care should be exercised to avoid perivascular extravasation or inadvertent intra-arterial injection.  Reports compatible with inadvertent intra-arterial injection of Phenergan Injection, usually in conjunction with other drugs intended for intravenous use, suggest that pain, severe chemical irritation, severe spasm of distal vessels, and resultant gangrene requiring amputation are likely under such circumstances.”  Ibid.
+
+															
+   Thus, it is demonstrably untrue that, as of 2000, Phenergan’s “labeling did not contain a specific warning about the risks of IV-push administration.”  Ante, at 4.  And whatever else might be said about the extensive medical authorities and case reports that the FDA cited in “support” of its approval of IV-push administration of Phenergan, it cannot be said that the FDA “paid no more than passing attention to” IV push, ante, at 6; nor can it be said that the FDA failed to weigh its costs and benefits, Brief for Respondent 50.
+
+															3
+
+															
+   For her part, respondent does not dispute the FDA’s conclusion that IV push has certain benefits.  At trial, her medical practitioners testified that they used IV push in order to help her “in a swift and timely way” when she showed up at the hospital for the second time in one day complaining of “intractable” migraines, “terrible pain,” inability to “bear light or sound,” sleeplessness, hours-long spasms of “retching” and “vomiting,” and when “every possible” alternative treatment had “failed.”  App. 40 (testimony of Dr. John Matthew); id., at 103, 106, 109 (testimony of physician’s assistant Jessica Fisch).
+
+															   Rather than disputing the benefits of IV push, respondent complains that the FDA and Wyeth underestimated its costs (and hence did not provide sufficient warnings regarding its risks).  But when the FDA mandated that Phenergan’s label read, “INADVERTENT INTRA-ARTERIAL INJECTION CAN RESULT IN GANGRENE OF THE AFFECTED EXTREMITY,” id., at 391, and when the FDA required Wyeth to warn that “[u]nder no circumstances should Phenergan Injection be given by intra-arterial injection,” id., at 390, the agency could reasonably assume that medical professionals would take care not to inject Phenergan intra-arterially.  See also 71 Fed. Reg. 3934 (noting that a drug’s warning label “communicates to health care practitioners the agency’s formal, authoritative conclusions regarding the conditions under which the product can be used safely and effectively”).  Unfortunately, the physician’s assistant who treated respondent in this case disregarded Phenergan’s label and pushed the drug into the single spot on her arm that is most likely to cause an inadvertent intra-arterial injection.
+
+															
+
+   As noted above, when the FDA approved Phenergan’s label, it was textbook medical knowledge that the “antecubital fossa” creates a high risk of inadvertent intra-arterial injection, given the close proximity of veins and arteries.  See supra, at 13–14; see also The Lippincott Manual of Nursing Practice 99 (7th ed. 2001) (noting, in a red-text “NURSING ALERT,” that the antecubital fossa is “not recommended” for administering dangerous drugs, “due to the potential for extravasation”).[Footnote 13]  According to the physician’s assistant who injured respondent, however, “[i]t never crossed my mind” that an antecubital injection of Phenergan could hit an artery.  App. 110; see also ibid. (“[It] just wasn’t something that I was aware of at the time”).  Oblivious to the risks emphasized in Phenergan’s warnings, the physician’s assistant pushed a double dose of the drug into an antecubital artery over the course of “[p]robably about three to four minutes,” id., at 111; id., at 105, notwithstanding respondent’s complaints of a “ ‘burn[ing]’ ” sensation that she subsequently described as “ ‘one of the most extreme pains that I’ve ever felt,’ ” id., at 110, 180–181.  And when asked why she ignored Phenergan’s label and failed to stop pushing the drug after respondent complained of burning pains, the physician’s assistant explained that it would have been “just crazy” to “worr[y] about an [intra-arterial] injection” under the circumstances, id., at 111.
+
+															
+
+   The FDA, however, did not think that the risks associated with IV push—especially in the antecubital space—were “just crazy.”  That is why Phenergan’s label so clearly warns against them.
+
+															B
+
+															
+   Given the “balance” that the FDA struck between the costs and benefits of administering Phenergan via IV push, Geier compels the pre-emption of tort suits (like this one) that would upset that balance.  The contrary conclusion requires turning yesterday’s dissent into today’s majority opinion.
+
+															   First, the Court denies the existence of a federal-state conflict in this case because Vermont merely countermanded the FDA’s determination that IV push is “safe” when performed in accordance with Phenergan’s warning label; the Court concludes that there is no conflict because Vermont did not “mandate a particular” label as a “replacement” for the one that the jury nullified, and because the State stopped short of altogether “contraindicating IV-push administration.”  Ante, at 8.  But as we emphasized in Geier (over the dissent’s assertions to the contrary), the degree of a State’s intrusion upon federal law is irrelevant—the Supremacy Clause applies with equal force to a state tort law that merely countermands a federal safety determination and to a state law that altogether prohibits car manufacturers from selling cars without airbags.  Compare 529 U. S., at 881–882, with id., at 902 (Stevens, J., dissenting).  Indeed, as recently as last Term, we held that the Supremacy Clause pre-empts a “[s]tate tort law that requires a manufacturer’s catheters to be safer, but hence less effective, than the model the FDA has approved … .”  Riegel, 552 U. S., at ___ (slip op., at 11).  It did not matter there that the State stopped short of altogether prohibiting the use of FDA-approved catheters—just as it does not matter here that Vermont stopped short of altogether prohibiting an FDA-approved method for administering Phenergan.  See also Lohr, 518 U. S., at 504 (Breyer, J., concurring in part and concurring in judgment) (noting it would be an “anomalous result” if pre-emption applied differently to a state tort suit premised on the inadequacy of the FDA’s safety regulations and a state law that specifically prohibited an FDA-approved design).
+
+															
+
+   Second, the Court today distinguishes Geier because the FDA articulated its pre-emptive intent “without offering States or other interested parties notice or opportunity for comment.”  Ante, at 21; see also ante, at 24.  But the Geier Court specifically rejected the argument (again made by the dissenters in that case) that conflict pre-emption is appropriate only where the agency expresses its pre-emptive intent through notice-and-comment rulemaking.  Compare 529 U. S., at 885 (“To insist on a specific expression of agency intent to pre-empt, made after notice-and-comment rulemaking, would be in certain cases to tolerate conflicts that an agency, and therefore Congress, is most unlikely to have intended.  The dissent, as we have said, apparently welcomes that result … .  We do not”), with id., at 908–910 (Stevens, J., dissenting) (emphasizing that “we generally expect an administrative regulation to declare any intention to pre-empt state law with some specificity,” and that “[t]his expectation … serves to ensure that States will be able to have a dialog with agencies regarding pre-emption decisions ex ante through the normal notice-and-comment procedures of the Administrative Procedure Act” (internal quotation marks omitted)).  Indeed, pre-emption is arguably more appropriate here than in Geier because the FDA (unlike the DOT) declared its pre-emptive intent in the Federal Register.  See 71 Fed. Reg. 3933–3936.  Yet the majority dismisses the FDA’s published preamble as “inherently suspect,” ante, at 21, and an afterthought that is entitled to “no weight,” ante, at 25.  Compare Lohr, supra, at 506 (opinion of Breyer, J.) (emphasizing that the FDA has a “special understanding of the likely impact of both state and federal requirements, as well as an understanding of whether (or the extent to which) state requirements may interfere with federal objectives,” and that “[t]he FDA can translate these understandings into particularized pre-emptive intentions … through statements in ‘regulations, pre-
+ambles, interpretive statements, and responses to
+comments’ ”).
+
+															
+
+   Third, the Court distinguishes Geier because the DOT’s regulation “bear[s] the force of law,” whereas the FDA’s preamble does not.  Ante, at 24; see also ante, at 19.  But it is irrelevant that the FDA’s preamble does not “bear the force of law” because the FDA’s labeling decisions surely do.  See 21 U. S. C. §355.  It is well within the FDA’s discretion to make its labeling decisions through administrative adjudications rather than through less-formal and less-flexible rulemaking proceedings, see SEC v. Chenery Corp., 332 U. S. 194 (1947), and we have never previously held that our pre-emption analysis turns on the agency’s choice of the latter over the former.  Moreover, it cannot be said that Geier’s outcome hinged on the agency’s choice to promulgate a rule.  See ante, at 19, 24.  The Geier Court relied—again over the dissenters’ protestations—on materials other than the Secretary’s regulation to explain the conflict between state and federal law.  Compare 529 U. S., at 881, with id., at 899–900 (Stevens, J., dissenting), and ante, at 1–2 (Breyer, J., concurring).
+
+															
+
+   Fourth, the Court sandwiches its discussion of Geier between the “presumption against pre-emption,” ante, at 18, and heavy emphasis on “the longstanding coexistence of state and federal law and the FDA’s traditional recognition of state-law remedies,” ante, at 24.  But the Geier Court specifically rejected the argument (again made by the dissenters in that case) that the “presumption against pre-emption” is relevant to the conflict pre-emption analysis.  See 529 U. S., at 906–907 (Stevens, J., dissenting) (“[T]he Court simply ignores the presumption [against pre-emption]”).  Rather than invoking such a “presumption,” the Court emphasized that it was applying “ordinary,” “longstanding,” and “experience-proved principles of conflict pre-emption.”  Id., at 874.  Under these principles, the sole question is whether there is an “actual conflict” between state and federal law; if so, then pre-emption follows automatically by operation of the Supremacy Clause.  Id., at 871–872.  See also Buckman, 531 U. S., at 347–348 (“[P]etitioner’s dealings with the FDA were prompted by [federal law], and the very subject matter of petitioner’s statements [to the FDA] were dictated by [federal law].  Accordingly—and in contrast to situations implicating ‘federalism concerns and the historic primacy of state regulation of matters of health and safety’—no presumption against pre-emption obtains in this case” (citation omitted)).[Footnote 14]
+
+															
+
+   Finally, the Geier Court went out of its way to emphasize (yet again over the dissenters’ objections) that it placed “some weight” on the DOT’s amicus brief, which explained the agency’s regulatory objectives and the effects of state tort suits on the federal regulatory regime.  529 U. S., at 883; compare id., at 910–911 (Stevens, J., dissenting) (criticizing the majority for “uph[olding] a regulatory claim of frustration-of-purposes implied conflict pre-emption based on nothing more than an ex post administrative litigating position and inferences from regulatory history and final commentary”).  See also Lohr, 518 U. S., at 496 (recognizing that the FDA is “uniquely qualified” to explain whether state law conflicts with the FDA’s objectives).  Yet today, the FDA’s explanation of the conflict between state tort suits and the federal labeling regime, set forth in the agency’s amicus brief, is not even mentioned in the Court’s opinion.  Instead of relying on the FDA’s explanation of its own regulatory purposes, the Court relies on a decade-old and now-repudiated statement, which the majority finds preferable.  See ante, at 21–22, 24, n. 13.  Cf. Riegel, 552 U. S., at ___ (slip op., at 13) (noting that “the agency’s earlier position (which the dissent describes at some length and finds preferable) is … compromised, indeed deprived of all claim to deference, by the fact that it is no longer the agency’s position” (citation omitted)); Altria Group, Inc. v. Good, 555 U. S. ___, ___ (2008) (slip op., at 16–17) (rejecting petitioners’ reliance on the pre-emptive effect of the agency’s “longstanding policy” because it is inconsistent with the agency’s current one).  And Justice Breyer suggests that state tort suits may “help the [FDA],” ante, at 1 (concurring opinion), notwithstanding the FDA’s insistence that state tort suits will “disrupt the agency’s balancing of health risks and benefits,” Brief for United States as Amicus Curiae 9.
+
+															
+
+   Geier does not countenance the use of state tort suits to second-guess the FDA’s labeling decisions.  And the Court’s contrary conclusion has potentially far-reaching consequences.
+
+															C
+
+															
+   By their very nature, juries are ill-equipped to perform the FDA’s cost-benefit-balancing function.  As we explained in Riegel, juries tend to focus on the risk of a particular product’s design or warning label that arguably contributed to a particular plaintiff’s injury, not on the overall benefits of that design or label; “the patients who reaped those benefits are not represented in court.”  552 U. S., at ___ (slip op., at 12).  Indeed, patients like respondent are the only ones whom tort juries ever see, and for a patient like respondent—who has already suffered a tragic accident—Phenergan’s risks are no longer a matter of probabilities and potentialities.
+
+															   In contrast, the FDA has the benefit of the long view.  Its drug-approval determinations consider the interests of all potential users of a drug, including “those who would suffer without new medical [products]” if juries in all 50 States were free to contradict the FDA’s expert determinations.  Id., at ___ (slip op., at 13).  And the FDA conveys its warnings with one voice, rather than whipsawing the medical community with 50 (or more) potentially conflicting ones.  After today’s ruling, however, parochialism may prevail.
+
+															
+
+   The problem is well illustrated by the labels borne by “vesicant” drugs, many of which are used for chemotherapy.  As a class, vesicants are much more dangerous than drugs like Phenergan,[Footnote 15] but the vast majority of vesicant labels—like Phenergan’s—either allow or do not disallow IV push.  See Appendix, infra.  Because vesicant extravasation can have devastating consequences, and because the potentially lifesaving benefits of these drugs offer hollow solace to the victim of such a tragedy, a jury’s cost-benefit analysis in a particular case may well differ from the FDA’s.
+
+															
+
+   For example, consider Mustargen (mechlorethamine HCl)—the injectable form of mustard gas—which can be used as an anticancer drug.  Mustargen’s FDA-approved label warns in several places that “This drug is HIGHLY TOXIC.”[Footnote 16]  Indeed, the drug is so highly toxic:
+
+															“Should accidental eye contact occur, copious irrigation for at least 15 minutes with water, normal saline or a balanced salt ophthalmic irrigating solution should be instituted immediately, followed by prompt ophthalmologic consultation.  Should accidental skin contact occur, the affected part must be irrigated immediately with copious amounts of water, for at least 15 minutes while removing contaminated clothing and shoes, followed by 2% sodium thiosulfate solution.  Medical attention should be sought immediately.  Contaminated clothing should be destroyed.”[Footnote 17]  
+
+															
+Yet when it comes to administering this highly toxic drug, the label provides that “the drug may be injected directly into any suitable vein, [but] it is injected preferably into the rubber or plastic tubing of a flowing intravenous infusion set.  This reduces the possibility of severe local reactions due to extravasation or high concentration of the drug.”  (Emphasis added.)  Similarly, the FDA-approved labels for other powerful chemotherapeutic vesicants—including Dactinomycin, Oxaliplatin, Vinblastine, and Vincristine—specifically allow IV push, notwithstanding their devastating effects when extravasated.
+
+															
+
+   The fact that the labels for such drugs allow IV push is striking—both because vesicants are much more dangerous than Phenergan, and also because they are so frequently extravasated, see Boyle & Engelking, Vesicant Extravasation: Myths and Realities, 22 Oncology Nursing Forum 57, 58 (1995) (arguing that the rate of extravasation is “considerably higher” than 6.4% of all vesicant administrations).  Regardless of the FDA’s reasons for not contraindicating IV push for these drugs, it is odd (to say the least) that a jury in Vermont can now order for Phenergan what the FDA has chosen not to order for mustard gas.[Footnote 18]
+
+															*  *  *
+
+															
+   To be sure, state tort suits can peacefully coexist with the FDA’s labeling regime, and they have done so for decades.  Ante, at 17–18.  But this case is far from peaceful coexistence.  The FDA told Wyeth that Phenergan’s label renders its use “safe.”  But the State of Vermont, through its tort law, said: “Not so.”
+
+															   The state-law rule at issue here is squarely pre-empted.   Therefore, I would reverse the judgment of the Supreme Court of Vermont.
+
+															
+Appendix TO OPINION OF ALITO, J.
+
+															Vesicant1
+
+															
+
+IV Push2
+
+															
+
+Dactinomycin
+
+															
+
+Specifically allowed
+
+															
+
+Mechlorethamine (Mustargen)
+
+															
+
+Specifically allowed
+
+															
+
+Oxaliplatin
+
+															
+
+Specifically allowed
+
+															
+
+Vinblastine
+
+															
+
+Specifically allowed
+
+															
+
+Vincristine
+
+															
+
+Specifically allowed
+
+															
+
+Bleomycin
+
+															
+
+Neither mentioned nor prohibited
+
+															
+
+Carboplatin
+
+															
+
+Neither mentioned nor prohibited
+
+															
+
+Dacarbazine
+
+															
+
+Neither mentioned nor prohibited
+
+															
+
+Mitomycin
+
+															
+
+Neither mentioned nor prohibited
+
+															
+
+Carmustine
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Cisplatin
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Epirubicin
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Etoposide
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Ifosfamide
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Mitoxantrone
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Paclitaxel
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Teniposide
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Vinorelbine
+
+															
+
+Not prohibited; IV drip recommended
+
+															
+
+Daunorubicin
+
+															
+
+Prohibited
+
+															
+Doxorubicin
+
+															
+
+Prohibited
+
+															   1 Wilkes & Barton-Burke, 2008 Oncology Nursing Drug Handbook 27–33 (2008) (Table 1.6).
+
+															
+
+   2 IV-push information is derived from the “dosage and administration” sections of individual drug labels (available in Clerk of Court’s case file).
+
+Footnote 1
+															 Indeed, respondent conceded below that Wyeth did propose an adequate warning of Phenergan’s risks.  See Plaintiff Diana Levine’s Memorandum in Opposition to Wyeth’s Motion for Summary Judgment in Levine v. American Home Products Corp. (now Wyeth), No. 670–12–01 Wncv (Super. Ct. Washington Cty., Vt.), ¶7, p. 26.  Specifically, respondent noted: “In 1988, Wyeth proposed language that would have prevented this accident by requiring a running IV and explaining why a running IV will address and reduce the risk [of intra-arterial injection].”  Ibid.  See also id., at 24 (“Although not strong enough, this improved the labeling instruction, if followed, would have prevented the inadvertent administration of Phenergan into an artery …”).  The FDA rejected Wyeth’s proposal.  See App. 359.
+
+Footnote 2
+															 Moreover, in the trial judge’s final charge, he told the jury that “the critical factual issue which you must decide” is whether Phenergan’s FDA-mandated label reflects a proper balance between “the risks and benefits of intravenous administration and the potential for injury to patients.”  Id., at 220.  See also ___ Vt. ___, ___, 944 A. 2d 179, 182 (2006) (recognizing that respondent’s argument is that Phenergan’s “label should not have allowed IV push as a means of administration”).
+
+Footnote 3
+															 Respondent sued her physician, physician’s assistant, and hospital for malpractice.  After the parties settled that suit for an undisclosed sum, respondent’s physician sent her a letter in which he admitted “responsibility” for her injury and expressed his “profoun[d] regre[t]” and “remors[e]” for his actions.  1 Tr. 178–179 (Mar. 8, 2004) (testimony of Dr. John Matthew); see also App. 102–103 (testimony of physician’s assistant Jessica Fisch) (noting that her “sense of grief” was so “great” that she “would have gladly cut off [her own] arm” and given it to respondent).  Thereafter, both the physician and the physician’s assistant agreed to testify on respondent’s behalf in her suit against Wyeth.
+
+Footnote 4
+															 To be sure, Congress recognized the principles of conflict pre-emption in the FDCA.  See Drug Amendments of 1962, §202, 76 Stat. 793 (“Nothing in the amendments made by this Act to the Federal Food, Drug, and Cosmetic Act shall be construed as invalidating any provision of State law … unless there is a direct and positive conflict between such amendments and such provision of State law”).  But a provision that simply recognizes the background principles of conflict pre-emption is not a traditional “saving clause,” and even if it were, it would not displace our conflict-pre-emption analysis.  See Geier v. American Honda Motor Co., 529 U. S. 861, 869 (2000) (“[T]he saving clause … does not bar the ordinary working of conflict pre-emption principles”); id., at 873–874 (“The Court has … refused to read general ‘saving’ provisions to tolerate actual conflict both in cases involving impossibility and in ‘frustration-of-purpose’ cases” (emphasis deleted and citation omitted)).
+
+Footnote 5
+															 The FDA cited numerous articles that generally discuss the costs and benefits associated with IV push.  See, e.g., Nahrwold & Phelps, Inadvertent Intra-Arterial Injection of Mephenteramine, 70 Rocky Mountain Medical J. 38 (Sept. 1973) (cited in App. 314, no. 14); Albo, Cheung, Ruth, Snyder, & Beemtsma, Effect of Intra-Arterial Injections of Barbituates, 120 Am. J. of Surgery 676 (1970) (cited in App. 314, no. 12); Corser, Masey, Jacob, Kernoff, & Browne, Ischaemia Following Self-administered Intra-arterial Injection of Methylphenidate and Diamorphine, 40 Anesthesiology 51 (1985) (cited in App. 314, no. 9); Correspondence Regarding Thiopental and Thiamylal (3 letters), 59 Anesthesiology 153 (1983) (cited in App. 314, no. 11); Miller, Arthur, & Stratigos, Intra-arterial Injection of a Barbituate, 23 Anesthesia Progress 25 (1976) (cited in App. 315, no. 19).
+
+Footnote 6
+															 See Webb & Lampert, Accidental Arterial Injections, 101 Am. J. Obstetrics & Gynecology 365 (1968) (cited in App. 313, no. 5).
+
+Footnote 7
+															 See Hager & Wilson, Gangrene of the Hand Following Intra-arterial Injection, 94 Archives of Surgery 86 (1967) (cited in App. 313, no. 7); Enloe, Sylvester, & Morris, Hazards of Intra-Arterial Injection of Hydroxyzine, 16 Canadian Anaesthetists’ Society J. 425 (1969) (hereinafter Enloe) (noting “recent reports” of “the occurrence of severe necrosis and gangrene following [administration of] promethazine (Phenergan®)” (cited in App. 314, no. 15)).  See also Mostafavi & Samimi, Accidental Intra-arterial Injection of Promethazine HCl During General Anesthesia, 35 Anesthesiology 645 (1971) (reporting a case of gangrene, which required partial amputation of three fingers, after Phenergan was inadvertently pushed into an artery in the “antecubital” area); Promethazine, p. 7, in Clinical Pharmacology (Gold Standard Multimedia Inc. CD–ROM, version 1.16 (1998) (noting that “[i]nadvertent intra-arterial injection [of Phenergan] can result in arteriospasm … and development of gangrene”)).
+
+Footnote 8
+															 Hager and Wilson noted that the most common reactions to intra-arterial injections of drugs like Phenergan include “[i]mmediate, severe, burning pain,” as well as “blanching.”  94 Archives of Surgery, at 87–88.  The FDA required Wyeth to include Hager and Wilson’s observations on Phenergan’s label.  See App. 311 (requiring the label to warn that “ ‘[t]he first sign [of an intra-arterial injection] may be the patient’s reaction to a sensation of fiery burning’ ” pain and “ ‘[b]lanching’ ”).
+
+Footnote 9
+															 See Enloe 427 (discussing hydroxyzine—an antihistamine with chemical properties similar to those of Phenergan—and suggesting its “temporary” benefits can never outweigh the risks of intra-arterial injection); see also Goldsmith & Trieger, Accidental Intra-Arterial Injection: A Medical Emergency, 22 Anesthesia Progress 180 (1975) (noting the risks of intra-arterial administration of hydroxyzine) (cited in App. 315, no. 18); Klatte, Brooks, & Rhamy, Toxicity of Intra-Arterial Barbituates and Tranquilizing Drugs, 92 Radiology 700 (1969) (same) (cited in App. 314, no. 13).  With full knowledge of those risks, FDA retained IV push for Phenergan, although the agency required Wyeth to incorporate observations from the Enloe article into Phenergan’s label.  Compare Enloe 427 (arguing that “every precaution should be taken to avoid inadvertent intra-arterial injection,” including the use of “an obviously well-functioning venoclysis”), with App. 312 (FDA’s 1987 changes to Phenergan’s label).  In contrast, at some time around 1970, the FDA prohibited all intravenous use of hydroxyzine.  See id., at 79 (testimony of Dr. Harold Green).  The FDA’s decision to regulate the two drugs differently—notwithstanding (1) the agency’s knowledge of the risks associated with both drugs and (2) the agency’s recognition of the relevance of hydroxyzine-related articles and case reports in its regulation of Phenergan—further demonstrates that the FDA intentionally preserved IV-push administration for Phenergan.  See also Haas, Correspondence, 33 Anesthesia Progress 281 (1986) (“[Hydroxyzine’s] restriction does not lie with the medicine itself, but in the practice and malpractice of intravenous techniques.  Unfortunately, the practitioner who knows how to treat injection technique problems is usually not the practitioner with the intravenous technique problems”).
+
+Footnote 10
+															 See also Engler, Freeman, Kanavage, Ogden, & Moretz, Production of Gangrenous Extremities by Intra-Arterial Injections, 30 Am. Surgeon 602 (1964) (“Accidental arterial injection most often occurs in the antecubital region because this is a favorite site for venopuncture and in this area the ulnar and brachial arteries are superficial and easily entered” (cited in App. 313, no. 6)); Engler, Gangrenous Extremities Resulting from Intra-arterial Injections, 94 Archives of Surgery 644 (1966) (similar) (cited in App. 314, no. 16); Lynas & Bisset, Intra-arterial Thiopentone, 24 Anaesthesia 257 (1969) (“Most [anesthesiologists] agree that injections on the medial aspect of the antecubital fossa are best avoided” (cited in App. 314, no. 8)); Waters, Intra-arterial Thiopentone, 21 Anesthesia 346 (1966) (“The risk of producing gangrene of the forearm by accidental injection of sodium thiopentone into an artery at the elbow has been recognised for many years” (cited in App. 314, no. 10)); see also Hager & Wilson, 94 Archives of Surgery, at 88 (emphasizing that one of the best ways to prevent inadvertent intra-arterial injections is to be aware of “aberrant or superficial arteries at the antecubital, forearm, wrist, and hand level”); Mostafavi & Samimi, supra (warning against antecubital injections).
+
+Footnote 11
+															 See App. 311 (requiring Phenergan’s label to warn that practitioners should “ ‘[b]eware of the close proximity of arteries and veins at commonly used injection sites and consider the possibility of aberrant arteries’ ”).
+
+Footnote 12
+															 “Aspiration” refers to drawing a small amount of blood back into the needle to determine whether the needle is in an artery or a vein.  Ordinarily, arterial blood is brighter than venous blood—but contact with Phenergan causes discoloration, which makes aspiration an unreliable method of protecting against intra-arterial injection.  See id., at 282.  Therefore, the label warned that when using IV push, a medical professional should beware that “[a]spiration of dark blood does not preclude intra-arterial needle placement, because blood is discolored upon contact with Phenergan Injection.”  Id., at 390.
+
+Footnote 13
+															 In addition, respondent’s own medical expert testified at trial that it is a principle of “basic anatomy” that the antecubital fossa contains aberrant arteries.  See 2 Tr. 34–35 (Mar. 9, 2004) (testimony of Dr. Daniel O’Brien); see also ibid. (noting that Gray’s Anatomy, which is “the Bible of anatomy,” also warns of arteries in the antecubital space).
+
+Footnote 14
+															 Thus, it is not true that “this Court has long” applied a presumption against pre-emption in conflict pre-emption cases.  Ante, at 9, n. 3 (majority opinion).  As long ago as Gibbons v. Ogden, 9 Wheat. 1, 210 (1824), the Court inquired whether a state law “interfer[ed] with,” was “contrary to,” or “c[a]me into collision with” federal law—and it did so without ever invoking a “presumption.”  See also Davis, Unmasking the Presumption in Favor of Preemption, 53 S. C. L. Rev. 967, 974 (2002) (noting that many of the Court’s early pre-emption cases “resulted in almost automatic preemption of concurrent state regulation”).  In subsequent years the Court has sometimes acknowledged a limited “presumption against pre-emption,” but it nonetheless remained an open question—before today—whether that presumption applied in conflict pre-emption cases.  See Crosby v. National Foreign Trade Council, 530 U. S. 363, 374, n. 8 (2000) (“We leave for another day a consideration in this context of a presumption against preemption”).  Moreover, this Court has never held that the “presumption” applies in an area—such as drug labeling—that has long been “reserved for federal regulation.”  United States v. Locke, 529 U. S. 89, 111 (2000).  See also Buckman Co. v. Plaintiffs’ Legal Comm., 531 U. S. 341, 347–348 (2001).
+
+Footnote 15
+															 Vesicants may cause “blistering, severe tissue injury, or tissue necrosis” upon extravasation—even if the drug is not injected into an artery.  See, e.g., Schulmeister, Administering Vesicants, 9 Clinical J. of Oncology Nursing 469, 469–470 (2005).  See also ante, at 4 (majority opinion) (noting that Phenergan is labeled as an “irritant”); cf. Brief for Anju Budhwani et al. as Amici Curiae 15 (suggesting Phenergan should be considered a “vesicant”).
+
+Footnote 16
+															 FDA, Oncology Tools Product Label Details, online at http://www.accessdata.fda.gov/scripts/cder/onctools/
+labels.cfm?GN=meclorethamine,%20nitrogen%20mustard (as visited Mar. 2, 2009, and available in Clerk of Court’s case file).
+
+Footnote 17
+															 Ibid.
+
+Footnote 18
+															 The same is true of FDA’s regulation of hydroxyzine.  See n. 9,
+supra.
+
+
+
