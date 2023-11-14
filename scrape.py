@@ -8,7 +8,7 @@ ct = datetime.now()
 print(ct)
 
 #verify directory to save text files
-save_directory = "data/"
+save_directory = "../data/"
 if not os.path.exists(save_directory):
     os.makedirs(save_directory)
 

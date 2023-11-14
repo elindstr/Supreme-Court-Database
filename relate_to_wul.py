@@ -23,7 +23,7 @@ SCDB['caseName'] = SCDB['caseName'].str.replace(" ","")
 #get citation from decision files
 import os, glob, re
 from os import path
-directory = "data/"
+directory = "../data/"
 for filename in glob.glob(os.path.join(directory, '*.txt')):
     print("filename: ", filename)
     with open(filename, 'r') as original: 
