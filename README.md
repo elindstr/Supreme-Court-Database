@@ -11,7 +11,7 @@ Statistics:
 * output file size: ~835 MB
 * runtime: ~4.5 hours
 
-"related_to_wul.py" locates the downloaded decision files in the Washington University Law's Supreme Court Database ([SCDB](http://scdb.wustl.edu/)) and pre-pends the SCDB case id to a header in each decision file.
+"relate_to_wul.py" locates the downloaded decision files in the Washington University Law's Supreme Court Database ([SCDB](http://scdb.wustl.edu/)) and pre-pends the SCDB case id to a header in each decision file.
 
 ## Database Information
  
